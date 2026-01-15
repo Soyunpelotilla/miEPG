@@ -51,6 +51,14 @@ M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR
 DAZN Baloncesto,DAZN Baloncesto
 DAZN Baloncesto 2,DAZN Baloncesto 2
 DAZN Baloncesto 3,DAZN Baloncesto 3
+M+ Estrenos HD,M+ Estrenos
+M+ Hits HD,M+ Hits
+M+ Clásicos HD,M+ Clásicos
+M+ Acción HD,M+ Acción
+M+ Comedia HD,M+ Comedia
+M+ Drama HD,M+ Drama
+M+ Indie HD,M+ Indie
+M+ Cine Español,M+ Cine Español
 La 1 HD,La 1 
 La 2,La 2 
 Antena 3 HD,Antena 3 
