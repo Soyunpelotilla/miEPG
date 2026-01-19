@@ -90,3 +90,9 @@ Runtime Crimen,Runtime Crimen
 Runtime Romance,Runtime Romance
 RunTime Clásicos,RunTime Clásicos
 RunTime Familia,RunTime Familia
+Sony One Series Thriller,Sony One Series Thriller
+Sony One Éxitos,Sony One Éxitos
+Sony One The Blacklist,Sony One The Blacklist
+Sony One Series Comedia,Sony One Series Comedia
+Sony One Hits Comedia,Sony One Hits Comedia
+Sony One Hits Acción,Sony One Hits Acción
