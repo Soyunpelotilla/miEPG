@@ -464,6 +464,7 @@ Moto ADV,Moto ADV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/mast
 8madrid TV,8madrid TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png
 Squirrel TV,Squirrel TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png
 Squirrel 2,Squirrel 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png
+acontra+,acontra+,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/acontra%2B.png
 Sky News International,Sky News International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20News%20International.png
 Arirang TV HD,Arirang TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arirang%20TV.png
 1+1 International,1+1 International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png
