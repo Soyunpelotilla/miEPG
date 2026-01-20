@@ -67,6 +67,8 @@ Telecinco HD,Telecinco
 La Sexta HD,La Sexta
 Teledeporte,Teledeporte
 Mega,Mega
+Canal Sur Andalucía,Canal Sur Andalucía
+CMM TV, CMM TV
 Cines Verdi TV,Cines Verdi TV
 Cine Feel Good,Cine Feel Good
 top-movies-rakuten-tv,Pelis Top Rakuten
