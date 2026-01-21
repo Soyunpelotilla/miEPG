@@ -72,7 +72,6 @@ CMM TV,CMM TV
 Aragón TV,Aragón TV
 TVG,TVG
 TVG2,TVG2
-À Punt,À Punt
 Punt 3,Punt 3
 Esport 3,Esport 3
 Cines Verdi TV,Cines Verdi TV
