@@ -269,6 +269,7 @@ DAZN Serie A 2,DAZN Serie A 2,https://image.discovery.indazn.com/eu/v4/onboardin
 DAZN MotoGP,DAZN MotoGP,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g
 VE PLUS TV,VE PLUS TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VE%20PLUS%20TV.png
 Extreme Channel,Extreme Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Extreme%20Channel.png
+acontra+,acontra+,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/acontra%2B.png
 Nós Televisión,Nós Televisión,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/N%C3%B3s%20Televisi%C3%B3n.png
 TELEVIGO,TELEVIGO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TELEVIGO.png
 Lolly Kids,Lolly Kids,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lolly%20Kids.png
