@@ -69,6 +69,7 @@ Teledeporte,Teledeporte
 Mega,Mega
 Aragón TV,Aragón TV
 Esport 3,Esport 3
+TV3,TV3
 TVG,TVG
 TVG2,TVG2
 Canal Sur Andalucía,Canal Sur Andalucía
