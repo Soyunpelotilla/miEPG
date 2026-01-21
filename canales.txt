@@ -68,6 +68,7 @@ La Sexta HD,La Sexta
 Teledeporte,Teledeporte
 Mega,Mega
 Aragón TV,Aragón TV
+ETB1,ETB1
 Esport 3,Esport 3
 TV3,TV3
 TVG,TVG
