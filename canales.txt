@@ -74,7 +74,7 @@ TVG,TVG
 TVG2,TVG2
 Punt,À Punt
 Punt 3,Punt 3
-
+Esport 3,Esport 3
 Cines Verdi TV,Cines Verdi TV
 Cine Feel Good,Cine Feel Good
 top-movies-rakuten-tv,Pelis Top Rakuten
