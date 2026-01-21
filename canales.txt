@@ -67,13 +67,14 @@ Telecinco HD,Telecinco
 La Sexta HD,La Sexta
 Teledeporte,Teledeporte
 Mega,Mega
-Canal Sur Andalucía,Canal Sur Andalucía
-CMM TV,CMM TV
 Aragón TV,Aragón TV
+Esport 3,Esport 3
 TVG,TVG
 TVG2,TVG2
+Canal Sur Andalucía,Canal Sur Andalucía
+CMM TV,CMM TV
 Punt 3,Punt 3
-Esport 3,Esport 3
+Canal Extremadura SAT,Canal Extremadura SAT
 Cines Verdi TV,Cines Verdi TV
 Cine Feel Good,Cine Feel Good
 top-movies-rakuten-tv,Pelis Top Rakuten
