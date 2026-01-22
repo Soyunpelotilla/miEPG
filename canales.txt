@@ -106,3 +106,9 @@ ES300005EL,Sony One The Blacklist
 ES30000145,Sony One Series Comedia
 ES300007KS,Sony One Hits Comedia
 ES300006QJ,Sony One Hits Acción
+Sony One Series Thriller,Sony One Series Thriller
+Sony One Éxitos,Sony One Éxitos
+Sony One The Blacklist,Sony One The Blacklist
+Sony One Series Comedia,Sony One Series Comedia
+Sony One Hits Comedia,Sony One Hits Comedia
+Sony One Hits Acción,Sony One Hits Acción
