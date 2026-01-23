@@ -79,18 +79,14 @@ Punt 3,Punt 3
 Canal Extremadura SAT,Canal Extremadura SAT
 Cines Verdi TV,Cines Verdi TV
 Cine Feel Good,Cine Feel Good
-top-movies-rakuten-tv,Pelis Top Rakuten
-action-rakuten-tv,Acción Rakuten
-comedy-rakuten-tv,Comedia Rakuten
-drama-rakuten-tv,Drama Rakuten
-romance-rakuten-tv,Romance Rakuten
-spanish-cinema-rakuten-tv,Cine Español Rakuten
-sci-fi-rakuten-tv,Sci-Fi Rakuten
-thriller-rakuten-tv,Thrillers Rakuten
-mytime-movie-network-spanish,MyTime Movie Network
-cine-western-es,Cine Western
-crime-rakuten-tv,Crimen Rakuten
-family-rakuten-tv,En Familia Rakuten
+Pelis Top (Rakuten TV),Pelis Top (Rakuten TV)
+Acción (Rakuten TV),Acción (Rakuten TV)
+Comedias (Rakuten TV),Comedias (Rakuten TV)
+Dramas (Rakuten TV),Dramas (Rakuten TV)
+Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV)
+sci-fi-rakuten-tv,Sci-Fi
+Thrillers (Rakuten TV),Thrillers (Rakuten TV)
+Cine Español (Rakuten TV),Cine Español (Rakuten TV)
 Runtime Thriller-Terror,Runtime Thriller-Terror
 Runtime Comedia,Runtime Comedia
 Runtime Cine y Series,Runtime Cine y Series
