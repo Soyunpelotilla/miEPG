@@ -425,6 +425,7 @@ Runtime Crimen,Runtime Crimen,https://raw.githubusercontent.com/davidmuma/picons
 Runtime Romance,Runtime Romance,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png
 RunTime Clásicos,RunTime Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png
 RunTime Familia,RunTime Familia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png
+Qello concerts,Qello concerts,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Qello%20concerts.png
 TRACE Sports Stars,TRACE Sports Stars,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Sports%20Stars.png
 Horse TV,Horse TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png
 Nautical Channel,Nautical Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png
