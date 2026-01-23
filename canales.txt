@@ -84,9 +84,7 @@ Acción (Rakuten TV),Acción (Rakuten TV)
 Comedias (Rakuten TV),Comedias (Rakuten TV)
 Dramas (Rakuten TV),Dramas (Rakuten TV)
 Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV)
-sci-fi-rakuten-tv,Sci-Fi
 Thrillers (Rakuten TV),Thrillers (Rakuten TV)
-Cine Español (Rakuten TV),Cine Español (Rakuten TV)
 Runtime Thriller-Terror,Runtime Thriller-Terror
 Runtime Comedia,Runtime Comedia
 Runtime Cine y Series,Runtime Cine y Series
