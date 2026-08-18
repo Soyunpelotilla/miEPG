@@ -1,4 +1,8 @@
-https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
-https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
-https://epg.ovh/pl.xml
+https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor.xml.gz
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
+https://www.open-epg.com/files/argentina.xml.gz
+https://www.open-epg.com/files/mexico2.xml.gz
+https://iptv-epg.org/files/epg-us.xml
+https://iptv-epg.org/files/epg-gb.xml
+https://iptv-epg.org/files/epg-it.xml
+https://iptv-epg.org/files/epg-de.xml
