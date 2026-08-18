@@ -44067,1019 +44067,377 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260818062000 +0200" stop="20260818075000 +0200" channel="Teledeporte">
-    <title>Mundial femenino hockey hierba T2026 · España - Irlanda</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Hockey hierba) Bélgica y Países Bajos albergan la disputa del Mundial de hockey hierba.
-· País: España y Países Bajos</desc>
-    <category>Deportes, Hockey hierba</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4380662" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818075000 +0200" stop="20260818084300 +0200" channel="Teledeporte">
-    <title>Europeo de gimnasia artística (F) T2026 · Final conjuntos 5 pelotas</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Gimnasia) Zagreb (Croacia) acoge la 36ª edición del Europeo femenino de gimnasia artística.
-· País: Croacia</desc>
-    <category>Deportes, Gimnasia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4382224" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818084300 +0200" stop="20260818093500 +0200" channel="Teledeporte">
-    <title>Europeo de gimnasia artística (F) T2026 · Final conjuntos 3 aros y mazas</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Gimnasia) Zagreb (Croacia) acoge la 36ª edición del Europeo femenino de gimnasia artística.
-· País: Croacia</desc>
-    <category>Deportes, Gimnasia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4382226" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818093500 +0200" stop="20260818094000 +0200" channel="Teledeporte">
-    <title>Telediario Matinal</title>
-    <sub-title>2023 | TP | ★6.0/10</sub-title>
-    <desc>(Información,Informativo) Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818094000 +0200" stop="20260818101800 +0200" channel="Teledeporte">
-    <title>Europeo de deportes acuáticos T2026 · Sesión matinal</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Natación) París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.
-· País: Francia</desc>
-    <category>Deportes, Natación</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4376291" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818101800 +0200" stop="20260818105600 +0200" channel="Teledeporte">
-    <title>Europeo de deportes acuáticos T2026 · Sesión vespertina</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Natación) París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.
-· País: Francia</desc>
-    <category>Deportes, Natación</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4376289" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818105600 +0200" stop="20260818113400 +0200" channel="Teledeporte">
-    <title>Europeo de Atletismo T2026 · Día 3 - Sesión de tarde</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Atletismo) El Alexander Stadium de Birmingham acoge del 10 al 16 de agosto el campeonato europeo de atletismo del 2026.
-· País: Reino Unido</desc>
-    <category>Deportes, Atletismo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MESP2F4378107" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818113400 +0200" stop="20260818121100 +0200" channel="Teledeporte">
-    <title>Europeo de Atletismo T2026 · Día 4 - Sesión de mañana</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Atletismo) El Alexander Stadium de Birmingham acoge del 10 al 16 de agosto el campeonato europeo de atletismo del 2026.
-· País: Reino Unido</desc>
-    <category>Deportes, Atletismo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MESPF4378746" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818121100 +0200" stop="20260818124900 +0200" channel="Teledeporte">
-    <title>Europeo de Atletismo T2026 · Día 5 - Sesión de tarde</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Atletismo) El Alexander Stadium de Birmingham acoge del 10 al 16 de agosto el campeonato europeo de atletismo del 2026.
-· País: Reino Unido</desc>
-    <category>Deportes, Atletismo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MESPF4378255" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818124900 +0200" stop="20260818132700 +0200" channel="Teledeporte">
-    <title>Europeo de deportes acuáticos T2026 · Sesión vesperina</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Natación) París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.
-· País: Francia</desc>
-    <category>Deportes, Natación</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4380674" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818132700 +0200" stop="20260818140500 +0200" channel="Teledeporte">
-    <title>Europeo de Atletismo T2026 · Día 7 - Sesión de tarde</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Atletismo) El Alexander Stadium de Birmingham acoge del 10 al 16 de agosto el campeonato europeo de atletismo del 2026.
-· País: Reino Unido</desc>
-    <category>Deportes, Atletismo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MESP2F4380557" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818140500 +0200" stop="20260818154500 +0200" channel="Teledeporte">
-    <title>DIRECTO T2026 E2 · Mundial de hockey hierba</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Hockey) Bélgica y Países Bajos albergan la disputa del Mundial de hockey hierba.
-· País: Bélgica</desc>
-    <category>Deportes, Hockey</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4382232" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818154500 +0200" stop="20260818155800 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Sporting - Sabadell</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818155800 +0200" stop="20260818161000 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Almería - Eldense</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818161000 +0200" stop="20260818165000 +0200" channel="Teledeporte">
-    <title>Estadio 2.0 T2026 · Martes 18 agosto</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) TDP reinventa uno de los clásicos de TVE. Este contenedor incluye resúmenes de los acontecimientos deportivos más relevantes de la semana, retransmisiones en directo o grabadas, y entrevistas. En este espacio tienen cabida todos los deportes.
-· País: España
-· Presenta: Marc Martín.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4382228" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>7.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818165000 +0200" stop="20260818165500 +0200" channel="Teledeporte">
-    <title>Informativo Deportes 24H</title>
-    <sub-title>2025 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Programa deportes) Informativo Deportes 24H.
-· País: España</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF3903037" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818165500 +0200" stop="20260818170700 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Deportivo - Elche</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818170700 +0200" stop="20260818171900 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Espanyol - Levante</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818171900 +0200" stop="20260818173100 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Racing - Villarreal</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818173100 +0200" stop="20260818174300 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Sevilla - Rayo</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818174300 +0200" stop="20260818175500 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Alavés - Getafe</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818175500 +0200" stop="20260818180600 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Real Sociedad B - Castellón</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818180600 +0200" stop="20260818181800 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Andorra - Ceuta</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818181800 +0200" stop="20260818182900 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Cádiz - Celta Fortuna</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818182900 +0200" stop="20260818184000 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: R. Oviedo - Granada</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818184000 +0200" stop="20260818185100 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Mallorca - Valladolid</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818185100 +0200" stop="20260818190300 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Eibar - Tenerife</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818190300 +0200" stop="20260818191400 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Burgos - Córdoba</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818191400 +0200" stop="20260818192500 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Girona - Leganés</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818192500 +0200" stop="20260818193600 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Las Palmas - Albacete</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818193600 +0200" stop="20260818194800 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Sporting - Sabadell</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818194800 +0200" stop="20260818195900 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Almería - Eldense</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818195900 +0200" stop="20260818201000 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Deportivo - Elche</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818201000 +0200" stop="20260818202300 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Deportivo - Elche</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818202300 +0200" stop="20260818203500 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Espanyol - Levante</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818203500 +0200" stop="20260818221500 +0200" channel="Teledeporte">
-    <title>DIRECTO España - Bélgica T2026 · Mundial femenino hockey hierba</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
-    <desc>(Deportes,Hockey) Bélgica y Países Bajos albergan la disputa del Mundial de hockey hierba.
-· País: España y Países Bajos</desc>
-    <category>Deportes, Hockey</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4382230" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818221500 +0200" stop="20260818222700 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Deportivo - Elche</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818222700 +0200" stop="20260818223800 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Almería - Eldense</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818223800 +0200" stop="20260818225000 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Almería - Eldense</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818225000 +0200" stop="20260818225500 +0200" channel="Teledeporte">
-    <title>Informativo Deportes 24H</title>
-    <sub-title>2025 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Programa deportes) Informativo Deportes 24H.
-· País: España</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF3903037" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818225500 +0200" stop="20260818230700 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Espanyol - Levante</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818230700 +0200" stop="20260818231900 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Racing - Villarreal</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818231900 +0200" stop="20260818233100 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Sevilla - Rayo</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818233100 +0200" stop="20260818234300 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Alavés - Getafe</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260818234300 +0200" stop="20260818235500 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Deportivo - Elche</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260818235500 +0200" stop="20260819000700 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Almería - Eldense</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260819000700 +0200" stop="20260819002000 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Sporting - Sabadell</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260819002000 +0200" stop="20260819003200 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Las Palmas - Albacete</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260819003200 +0200" stop="20260819004400 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Girona - Leganés</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260819004400 +0200" stop="20260819005600 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Burgos - Córdoba</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260819005600 +0200" stop="20260819010900 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Eibar - Tenerife</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260819010900 +0200" stop="20260819012100 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Mallorca - Valladolid</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260819012100 +0200" stop="20260819013300 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: R. Oviedo - Granada</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260819013300 +0200" stop="20260819014500 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Cádiz - Celta Fortuna</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260819014500 +0200" stop="20260819015800 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Andorra - Ceuta</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260819015800 +0200" stop="20260819021000 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Real Sociedad B - Castellón</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260819021000 +0200" stop="20260819034000 +0200" channel="Teledeporte">
-    <title>T2026 E2 · Mundial de hockey hierba</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Hockey) Bélgica y Países Bajos albergan la disputa del Mundial de hockey hierba.
-· País: Bélgica</desc>
-    <category>Deportes, Hockey</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4382232" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260819034000 +0200" stop="20260819060000 +0200" channel="Teledeporte">
-    <title>Europeo de gimnasia artística (F) T2026 · Final por aparatos</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Gimnasia) Zagreb (Croacia) acoge la 36ª edición del Europeo femenino de gimnasia artística.
-· País: Croacia</desc>
-    <category>Deportes, Gimnasia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4380648" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260819060000 +0200" stop="20260819100000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260819100000 +0200" stop="20260819140000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260819140000 +0200" stop="20260819180000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260819180000 +0200" stop="20260819220000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260819220000 +0200" stop="20260820020000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260820020000 +0200" stop="20260820060000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260820060000 +0200" stop="20260820100000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260820100000 +0200" stop="20260820140000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260820140000 +0200" stop="20260820180000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260820180000 +0200" stop="20260820220000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260820220000 +0200" stop="20260821020000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260821020000 +0200" stop="20260821060000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260821060000 +0200" stop="20260821100000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260821100000 +0200" stop="20260821140000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260821140000 +0200" stop="20260821180000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260821180000 +0200" stop="20260821220000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260821220000 +0200" stop="20260822020000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260822020000 +0200" stop="20260822060000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260822060000 +0200" stop="20260822100000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260822100000 +0200" stop="20260822140000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260822140000 +0200" stop="20260822180000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260822180000 +0200" stop="20260822220000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260822220000 +0200" stop="20260823020000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260823020000 +0200" stop="20260823060000 +0200" channel="Teledeporte">
-    <title>Teledeporte</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
-    <category>Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
+  <programme start="20260817165000 +0000" stop="20260817165500 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Informativo Deportes 24H.</desc>
+    <icon src="https://iptv-epg.org/images/tYnAJHOO6WByxUkbzlnFEbHq4L-JPHKpGU6OdPlYDtieDKpG7YpRqL1Q9VX5misNiHtpRktUpbhJmrVDWQmxOuzB4vUEXifZPKVFFHfxSQVJAgZXt4xOwNM"/>
+    <title lang="es">Informativo Deportes 24H</title>
+  </programme>
+  <programme start="20260817165500 +0000" stop="20260817173500 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Los equipos se preparan para el inicio inminente de las competiciones de clubes con una serie de partidos amistosos. Los entrenadores intentan encajar las piezas, los nuevos fichajes y ensayar las tácticas con las que aspiran a la victoria.</desc>
+    <title lang="es">Pretemporada (T26/27): Schalke - Real Madrid</title>
+  </programme>
+  <programme start="20260817173500 +0000" stop="20260817182300 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">S2026
+París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.</desc>
+    <episode-num>S2026</episode-num>
+    <title lang="es">Europeo de deportes acuáticos : Sesión vesperina</title>
+  </programme>
+  <programme start="20260817182300 +0000" stop="20260817191000 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">S2026
+El Alexander Stadium de Birmingham acoge del 10 al 16 de agosto el campeonato europeo de atletismo del 2026.</desc>
+    <episode-num>S2026</episode-num>
+    <title lang="es">Europeo de Atletismo : Día 7 - Sesión de tarde</title>
+  </programme>
+  <programme start="20260817191000 +0000" stop="20260817192300 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/XuIP2QCN1XQ4r3yuP87JgzI6fWRgSTvWRqP2K959ViQavMm0XXyvcJ-NM9V4w4BDGc75omIzoYlLtqaS66Wfo4jXGsy4NAtmvEC68V2cH-3ko_bD-17kxzw"/>
+    <title lang="es">Resúmenes LALIGA EA Sports (T26/27): Jornada 1</title>
+  </programme>
+  <programme start="20260817192300 +0000" stop="20260817193500 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/P6k0IMDBokLO-gYcV7wFgB4Er76yMYssCFRLtV6HI-pPte6yX4oSLgaBkKMei9Q5GF6ANkN8V_akq1G4_tya8JsijYqk_FJS7-47NFLj1PMyOiiE"/>
+    <title lang="es">Resúmenes LALIGA EA Sports (T26/27): Sevilla - Rayo</title>
+  </programme>
+  <programme start="20260817193500 +0000" stop="20260817194800 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/P6k0IMDBokLO-gYcV7wFgB4Er76yMYssCFRLtV6HI-pPte6yX4oSLgaBkKMei9Q5GF6ANkN8V_akq1G4_tya8JsijYqk_FJS7-47NFLj1PMyOiiE"/>
+    <title lang="es">Resúmenes LALIGA EA Sports (T26/27): Racing - Villarreal</title>
+  </programme>
+  <programme start="20260817194800 +0000" stop="20260817200000 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/P6k0IMDBokLO-gYcV7wFgB4Er76yMYssCFRLtV6HI-pPte6yX4oSLgaBkKMei9Q5GF6ANkN8V_akq1G4_tya8JsijYqk_FJS7-47NFLj1PMyOiiE"/>
+    <title lang="es">Resúmenes LALIGA EA Sports (T26/27): Espanyol - Levante</title>
+  </programme>
+  <programme start="20260817200000 +0000" stop="20260817201200 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/7UvpKJlg9SKbFeb-SrGTEEhPWLVKkGLmyFXqwOrySFaQ6ubl8nQkpNMlNdmn78MMLgNYR0DN7JT__TKS-CBpcU1g2FcsmON5Rjjj_TCqiNVPoCZL"/>
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Real Sociedad B - Castellón</title>
+  </programme>
+  <programme start="20260817201200 +0000" stop="20260817202400 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/7UvpKJlg9SKbFeb-SrGTEEhPWLVKkGLmyFXqwOrySFaQ6ubl8nQkpNMlNdmn78MMLgNYR0DN7JT__TKS-CBpcU1g2FcsmON5Rjjj_TCqiNVPoCZL"/>
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Andorra - Ceuta</title>
+  </programme>
+  <programme start="20260817202400 +0000" stop="20260817203700 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/7UvpKJlg9SKbFeb-SrGTEEhPWLVKkGLmyFXqwOrySFaQ6ubl8nQkpNMlNdmn78MMLgNYR0DN7JT__TKS-CBpcU1g2FcsmON5Rjjj_TCqiNVPoCZL"/>
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Cádiz - Celta Fortuna</title>
+  </programme>
+  <programme start="20260817203700 +0000" stop="20260817204900 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/7UvpKJlg9SKbFeb-SrGTEEhPWLVKkGLmyFXqwOrySFaQ6ubl8nQkpNMlNdmn78MMLgNYR0DN7JT__TKS-CBpcU1g2FcsmON5Rjjj_TCqiNVPoCZL"/>
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): R. Oviedo - Granada</title>
+  </programme>
+  <programme start="20260817204900 +0000" stop="20260817210100 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/7UvpKJlg9SKbFeb-SrGTEEhPWLVKkGLmyFXqwOrySFaQ6ubl8nQkpNMlNdmn78MMLgNYR0DN7JT__TKS-CBpcU1g2FcsmON5Rjjj_TCqiNVPoCZL"/>
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Mallorca - Valladolid</title>
+  </programme>
+  <programme start="20260817210100 +0000" stop="20260817211300 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/7UvpKJlg9SKbFeb-SrGTEEhPWLVKkGLmyFXqwOrySFaQ6ubl8nQkpNMlNdmn78MMLgNYR0DN7JT__TKS-CBpcU1g2FcsmON5Rjjj_TCqiNVPoCZL"/>
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Eibar - Tenerife</title>
+  </programme>
+  <programme start="20260817211300 +0000" stop="20260817212600 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/7UvpKJlg9SKbFeb-SrGTEEhPWLVKkGLmyFXqwOrySFaQ6ubl8nQkpNMlNdmn78MMLgNYR0DN7JT__TKS-CBpcU1g2FcsmON5Rjjj_TCqiNVPoCZL"/>
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Burgos - Córdoba</title>
+  </programme>
+  <programme start="20260817212600 +0000" stop="20260817213800 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/7UvpKJlg9SKbFeb-SrGTEEhPWLVKkGLmyFXqwOrySFaQ6ubl8nQkpNMlNdmn78MMLgNYR0DN7JT__TKS-CBpcU1g2FcsmON5Rjjj_TCqiNVPoCZL"/>
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Girona - Leganés</title>
+  </programme>
+  <programme start="20260817213800 +0000" stop="20260817215000 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/7UvpKJlg9SKbFeb-SrGTEEhPWLVKkGLmyFXqwOrySFaQ6ubl8nQkpNMlNdmn78MMLgNYR0DN7JT__TKS-CBpcU1g2FcsmON5Rjjj_TCqiNVPoCZL"/>
+    <title lang="es">Resúmenes LALIGA HyperMotion (T26/27): Las Palmas - Albacete</title>
+  </programme>
+  <programme start="20260817215000 +0000" stop="20260817215500 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Informativo Deportes 24H.</desc>
+    <icon src="https://iptv-epg.org/images/tYnAJHOO6WByxUkbzlnFEbHq4L-JPHKpGU6OdPlYDtieDKpG7YpRqL1Q9VX5misNiHtpRktUpbhJmrVDWQmxOuzB4vUEXifZPKVFFHfxSQVJAgZXt4xOwNM"/>
+    <title lang="es">Informativo Deportes 24H</title>
+  </programme>
+  <programme start="20260817215500 +0000" stop="20260817220800 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <title lang="es">Resúmenes LALIGA EA Sports (T26/27): Alavés - Getafe</title>
+  </programme>
+  <programme start="20260817220800 +0000" stop="20260817222000 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <title lang="es">Resúmenes LALIGA EA Sports (T26/27): Sevilla - Rayo</title>
+  </programme>
+  <programme start="20260817222000 +0000" stop="20260817223300 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <title lang="es">Resúmenes LALIGA EA Sports (T26/27): Racing - Villarreal</title>
+  </programme>
+  <programme start="20260817223300 +0000" stop="20260817224500 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <title lang="es">Resúmenes LALIGA EA Sports (T26/27): Espanyol - Levante</title>
+  </programme>
+  <programme start="20260817224500 +0000" stop="20260817232500 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">Los equipos se preparan para el inicio inminente de las competiciones de clubes con una serie de partidos amistosos. Los entrenadores intentan encajar las piezas, los nuevos fichajes y ensayar las tácticas con las que aspiran a la victoria.</desc>
+    <title lang="es">Pretemporada (T26/27): Schalke - Real Madrid</title>
+  </programme>
+  <programme start="20260817232500 +0000" stop="20260818012500 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">S2026
+La 36ª edición del Europeo femenino de gimnasia artística tiene lugar en Zagreb (Croacia) del 13 al 17 de agosto. La competición, además de entregar las medallas propias del campeonato, servirá de clasificación olímpica para una plaza individual.</desc>
+    <episode-num>S2026</episode-num>
+    <title lang="es">Europeo de gimnasia artística (F) : Final equipos</title>
+  </programme>
+  <programme start="20260818012500 +0000" stop="20260818021000 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">S2026
+Polonia acoge el Europeo de vóley playa del 13 al 17 de agosto.</desc>
+    <episode-num>S2026</episode-num>
+    <title lang="es">Europeo de vóley playa : Final femenina</title>
+  </programme>
+  <programme start="20260818021000 +0000" stop="20260818035000 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <desc lang="es">S2026
+Las selecciones femeninas de baloncesto preparan la cita mundial con una serie de amistosos.</desc>
+    <episode-num>S2026</episode-num>
+    <title lang="es">Amistosos preparación Copa del Mundo de baloncesto (F) : Alemania - España</title>
+  </programme>
+  <programme start="20260818035000 +0000" stop="20260818040000 +0000" channel="Teledeporte">
+    <category lang="es">Deportes</category>
+    <category lang="es">Sports</category>
+    <date>2026</date>
+    <desc lang="es">S2026 — Alba Torrens, la gran capitana
+Los reportajes de TDP pretenden promocionar el deporte español. Una aproximación a los atletas y a las competiciones de menor seguimiento que sirven para poner en valor el esfuerzo y el sacrificio de los participantes.</desc>
+    <episode-num>S2026</episode-num>
+    <icon src="https://iptv-epg.org/images/j4kCClLfqAMK_xHA46aVBr55Et5wsribdT6RFTvX4SNT398hp0A9w3o_8lUbeGYhfmSOZt6d8h1Zpv-F0oVgJ3ltq7VBWHfbUV8Umpu0whIG4_S1xI6sBTY"/>
+    <title lang="es">Reportajes TDP</title>
+  </programme>
+  <programme start="20260818040000 +0000" stop="20260818080000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260818080000 +0000" stop="20260818120000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260818120000 +0000" stop="20260818160000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260818160000 +0000" stop="20260818200000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260818200000 +0000" stop="20260819000000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260819000000 +0000" stop="20260819040000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260819040000 +0000" stop="20260819080000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260819080000 +0000" stop="20260819120000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260819120000 +0000" stop="20260819160000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260819160000 +0000" stop="20260819200000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260819200000 +0000" stop="20260820000000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260820000000 +0000" stop="20260820040000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260820040000 +0000" stop="20260820080000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260820080000 +0000" stop="20260820120000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260820120000 +0000" stop="20260820160000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260820160000 +0000" stop="20260820200000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260820200000 +0000" stop="20260821000000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260821000000 +0000" stop="20260821040000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260821040000 +0000" stop="20260821080000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260821080000 +0000" stop="20260821120000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260821120000 +0000" stop="20260821160000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260821160000 +0000" stop="20260821200000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260821200000 +0000" stop="20260822000000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260822000000 +0000" stop="20260822040000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260822040000 +0000" stop="20260822080000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260822080000 +0000" stop="20260822120000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260822120000 +0000" stop="20260822160000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822200000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260822200000 +0000" stop="20260823000000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
+  <programme start="20260823000000 +0000" stop="20260823040000 +0000" channel="Teledeporte">
+    <category lang="es">Información</category>
+    <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.</desc>
+    <icon src="https://iptv-epg.org/images/9DFyLpeWrT_WVKNZKJNilShR00Yma9lbj_475yDrEGDzsosTDrEhH_N7oLQRMrwwLsWB-qklWLY0HOukjxW2qqCT7eFGuMVDUcOazxw3WQTLt50H29-ENw"/>
+    <title lang="es">Teledeporte</title>
+  </programme>
 	<programme start="20260818063000 +0200" stop="20260818100000 +0200" channel="GOL">
     <title>Teletienda</title>
     <sub-title>2018 | TP | ★6.0/10</sub-title>
@@ -221240,46 +220598,6 @@ From Lindner Family Tennis Center in Cincinnati.</desc>
     <previously-shown/>
     <title lang="en">2026 Cincinnati Open Tennis</title>
   </programme>
-  <programme start="20260818060000 +0000" stop="20260818070000 +0000" channel="LaLiga TV US">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20260818070000 +0000" stop="20260818080000 +0000" channel="LaLiga TV US">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20260818080000 +0000" stop="20260818090000 +0000" channel="LaLiga TV US">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20260818090000 +0000" stop="20260818100000 +0000" channel="LaLiga TV US">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20260818100000 +0000" stop="20260818110000 +0000" channel="LaLiga TV US">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20260818110000 +0000" stop="20260818120000 +0000" channel="LaLiga TV US">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20260818120000 +0000" stop="20260818130000 +0000" channel="LaLiga TV US">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20260818130000 +0000" stop="20260818140000 +0000" channel="LaLiga TV US">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
   <programme start="20260818140000 +0000" stop="20260818150000 +0000" channel="LaLiga TV US">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -221596,6 +220914,46 @@ From Lindner Family Tennis Center in Cincinnati.</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
   </programme>
   <programme start="20260821050000 +0000" stop="20260821060000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260821060000 +0000" stop="20260821070000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260821070000 +0000" stop="20260821080000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260821080000 +0000" stop="20260821090000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260821090000 +0000" stop="20260821100000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260821100000 +0000" stop="20260821110000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260821110000 +0000" stop="20260821120000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260821120000 +0000" stop="20260821130000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260821130000 +0000" stop="20260821140000 +0000" channel="LaLiga TV US">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
@@ -231417,34 +230775,6 @@ Desde el Saracoglu Stadyumu, Estambul, Turquía.</desc>
     <category>Football - Club, Sports</category>
     <icon src="https://tv.assets.pressassociation.io/b77fe067-76d4-583e-972b-bf44df5879b0.jpg" />
 	</programme>
-  <programme start="20260817083000 +0000" stop="20260817103000 +0000" channel="LaLiga TV UK">
-    <category lang="en">Sports</category>
-    <category lang="en">LaLiga/Soccer/Match</category>
-    <desc lang="en">Real Betis vs Atlético de Madrid
-LALIGA EA SPORTS 2025/2026 MD10.</desc>
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD10</title>
-  </programme>
-  <programme start="20260817103000 +0000" stop="20260817123000 +0000" channel="LaLiga TV UK">
-    <category lang="en">Sports</category>
-    <category lang="en">LaLiga/Soccer/Match</category>
-    <desc lang="en">Atlético de Madrid 1-3 Real Madrid (2018/2019)
-LALIGA EA SPORTS CLASSIC.</desc>
-    <title lang="en">LALIGA EA SPORTS CLASSIC</title>
-  </programme>
-  <programme start="20260817123000 +0000" stop="20260817143000 +0000" channel="LaLiga TV UK">
-    <category lang="en">Sports</category>
-    <category lang="en">LaLiga/Soccer/Match</category>
-    <desc lang="en">Racing Club vs Villarreal CF
-LALIGA EA SPORTS 2026/2027 MD01.</desc>
-    <title lang="en">LALIGA EA SPORTS 2026/2027 MD01</title>
-  </programme>
-  <programme start="20260817143000 +0000" stop="20260817163000 +0000" channel="LaLiga TV UK">
-    <category lang="en">Sports</category>
-    <category lang="en">LaLiga/Soccer/Match</category>
-    <desc lang="en">RCD Espanyol vs Levante UD
-LALIGA EA SPORTS 2026/2027 MD01.</desc>
-    <title lang="en">LALIGA EA SPORTS 2026/2027 MD01</title>
-  </programme>
   <programme start="20260817163000 +0000" stop="20260817183000 +0000" channel="LaLiga TV UK">
     <category lang="en">Sports</category>
     <category lang="en">LaLiga/Soccer/Match</category>
@@ -232003,36 +231333,6 @@ LALIGA EA SPORTS 2026/2027 MD02.</desc>
     <desc lang="en">RCD Espanyol vs Real Madrid
 LALIGA EA SPORTS 2026/2027 MD02.</desc>
     <title lang="en">LALIGA EA SPORTS 2026/2027 MD02</title>
-  </programme>
-  <programme start="20260817093000 +0000" stop="20260817101500 +0000" channel="DE | DAZN 1">
-    <category lang="de">Sports</category>
-    <desc lang="de">Her Element by Laura Wontorra.</desc>
-    <title lang="de">Her Element by Laura Wontorra</title>
-  </programme>
-  <programme start="20260817101500 +0000" stop="20260817121000 +0000" channel="DE | DAZN 1">
-    <category lang="de">Sports</category>
-    <desc lang="de">Bundesliga 25/26.</desc>
-    <title lang="de">Bundesliga 25/26</title>
-  </programme>
-  <programme start="20260817121000 +0000" stop="20260817122500 +0000" channel="DE | DAZN 1">
-    <category lang="de">Sports</category>
-    <desc lang="de">&quot;Mehr als 90 Minuten&quot;.</desc>
-    <title lang="de">&quot;Mehr als 90 Minuten&quot;</title>
-  </programme>
-  <programme start="20260817122500 +0000" stop="20260817131000 +0000" channel="DE | DAZN 1">
-    <category lang="de">Sports</category>
-    <desc lang="de">VfB in Team.</desc>
-    <title lang="de">VfB in Team</title>
-  </programme>
-  <programme start="20260817131000 +0000" stop="20260817144500 +0000" channel="DE | DAZN 1">
-    <category lang="de">Sports</category>
-    <desc lang="de">VfB in Team.</desc>
-    <title lang="de">VfB in Team</title>
-  </programme>
-  <programme start="20260817144500 +0000" stop="20260817163500 +0000" channel="DE | DAZN 1">
-    <category lang="de">Sports</category>
-    <desc lang="de">Trophee des Champions 2026.</desc>
-    <title lang="de">Trophee des Champions 2026</title>
   </programme>
   <programme start="20260817163500 +0000" stop="20260817170500 +0000" channel="DE | DAZN 1">
     <category lang="de">Sports</category>
@@ -232781,71 +232081,6 @@ LaLiga 26/27.</desc>
 &lt;script src=&quot;/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js&quot; data-cf-settings=&quot;a412bac5c37276f2e0fbbb6c-|49&quot; defer&gt;&lt;/script&gt;&lt;/body&gt;
 &lt;/html&gt;.</desc>
     <title lang="de">Keine Programminformationen verfuegbar</title>
-  </programme>
-  <programme start="20260817100000 +0000" stop="20260817103000 +0000" channel="DE | DAZN 2">
-    <category lang="de">Sportmagazin</category>
-    <category lang="de">Sports</category>
-    <desc lang="de">Episode 1
-Das Herz des deutschen Fußballs.</desc>
-    <title lang="de">Das Herz des deutschen Fußballs</title>
-  </programme>
-  <programme start="20260817103000 +0000" stop="20260817110000 +0000" channel="DE | DAZN 2">
-    <category lang="de">Sportmagazin</category>
-    <category lang="de">Sports</category>
-    <desc lang="de">Episode 2
-Das Herz des deutschen Fußballs.</desc>
-    <title lang="de">Das Herz des deutschen Fußballs</title>
-  </programme>
-  <programme start="20260817110000 +0000" stop="20260817113000 +0000" channel="DE | DAZN 2">
-    <category lang="de">Sports</category>
-    <desc lang="de">34./31. Spieltag
-Top-Fußball und Emotion Pur - Italien gilt als eine der wichtigsten Fußballnationen. Alle Spiele der italienischen Serie A im Livestream bei DAZN.</desc>
-    <title lang="de">Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26</title>
-  </programme>
-  <programme start="20260817113000 +0000" stop="20260817133000 +0000" channel="DE | DAZN 2">
-    <category lang="de">Fußball</category>
-    <category lang="de">Sports</category>
-    <desc lang="de">FC Arsenal - Manchester City
-Community Shield 2026.</desc>
-    <title lang="de">Community Shield 2026</title>
-  </programme>
-  <programme start="20260817133000 +0000" stop="20260817140000 +0000" channel="DE | DAZN 2">
-    <category lang="de">Sports</category>
-    <desc lang="de">35./32. Spieltag
-Top-Fußball und Emotion Pur - Italien gilt als eine der wichtigsten Fußballnationen. Alle Spiele der italienischen Serie A im Livestream bei DAZN.</desc>
-    <title lang="de">Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26</title>
-  </programme>
-  <programme start="20260817140000 +0000" stop="20260817143000 +0000" channel="DE | DAZN 2">
-    <category lang="de">Sports</category>
-    <desc lang="de">36./33. Spieltag
-Top-Fußball und Emotion Pur - Italien gilt als eine der wichtigsten Fußballnationen. Alle Spiele der italienischen Serie A im Livestream bei DAZN.</desc>
-    <title lang="de">Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26</title>
-  </programme>
-  <programme start="20260817143000 +0000" stop="20260817150000 +0000" channel="DE | DAZN 2">
-    <category lang="de">Sports</category>
-    <desc lang="de">37./34. Spieltag
-Top-Fußball und Emotion Pur - Italien gilt als eine der wichtigsten Fußballnationen. Alle Spiele der italienischen Serie A im Livestream bei DAZN.</desc>
-    <title lang="de">Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26</title>
-  </programme>
-  <programme start="20260817150000 +0000" stop="20260817150100 +0000" channel="DE | DAZN 2">
-    <category lang="de">Sports</category>
-    <desc lang="de">33./30. Spieltag
-Top-Fußball und Emotion Pur - Italien gilt als eine der wichtigsten Fußballnationen. Alle Spiele der italienischen Serie A im Livestream bei DAZN.</desc>
-    <title lang="de">Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26</title>
-  </programme>
-  <programme start="20260817150100 +0000" stop="20260817154500 +0000" channel="DE | DAZN 2">
-    <category lang="de">Fußball</category>
-    <category lang="de">Sportserporträt</category>
-    <desc lang="de">Fußball-Urgestein auf neuen Plätzen
-Porträt von Holger Gehrke.</desc>
-    <title lang="de">Porträt von Holger Gehrke</title>
-  </programme>
-  <programme start="20260817154500 +0000" stop="20260817161000 +0000" channel="DE | DAZN 2">
-    <category lang="de">Sportmagazin</category>
-    <category lang="de">Sports</category>
-    <desc lang="de">Episode 1
-Das Herz des deutschen Fußballs.</desc>
-    <title lang="de">Das Herz des deutschen Fußballs</title>
   </programme>
   <programme start="20260817161000 +0000" stop="20260817162000 +0000" channel="DE | DAZN 2">
     <category lang="de">Sports</category>
@@ -248732,31 +247967,6 @@ Serie A 26/27.</desc>
     <category>Música, Concierto</category>
     <icon src="https://www.movistarplus.es/recorte/n/ficha/MTV5F4368080" />
 	</programme>
-  <programme start="20260817081000 +0000" stop="20260817113000 +0000" channel="SuperTennis">
-    <category lang="it">Sports</category>
-    <category lang="it">Tennis</category>
-    <desc lang="it">Il circuito WTA fa tappa in Ohio per il Cincinnati Open. Sul cemento americano le migliori giocatrici del mondo si contendono il titolo nell'ultimo 1000 prima degli Us Open.</desc>
-    <title lang="it">WTA 1000 Cincinnati 2026</title>
-  </programme>
-  <programme start="20260817113000 +0000" stop="20260817114500 +0000" channel="SuperTennis">
-    <category lang="it">Informazione</category>
-    <category lang="it">Sports</category>
-    <desc lang="it">Stag. 2023 - Supertennis TG
-Supertennis TG - L'informazione dall'Italia e dal mondo.</desc>
-    <title lang="it">Supertennis TG</title>
-  </programme>
-  <programme start="20260817114500 +0000" stop="20260817150000 +0000" channel="SuperTennis">
-    <category lang="it">Sports</category>
-    <category lang="it">Tennis</category>
-    <desc lang="it">Il circuito WTA fa tappa in Ohio per il Cincinnati Open. Sul cemento americano le migliori giocatrici del mondo si contendono il titolo nell'ultimo 1000 prima degli Us Open.</desc>
-    <title lang="it">WTA 1000 Cincinnati 2026</title>
-  </programme>
-  <programme start="20260817150000 +0000" stop="20260817165000 +0000" channel="SuperTennis">
-    <category lang="it">Sports</category>
-    <category lang="it">Tennis</category>
-    <desc lang="it">Il circuito WTA fa tappa in Ohio per il Cincinnati Open. Sul cemento americano le migliori giocatrici del mondo si contendono il titolo nell'ultimo 1000 prima degli Us Open.</desc>
-    <title lang="it">LIVE WTA 1000 Cincinnati</title>
-  </programme>
   <programme start="20260817165000 +0000" stop="20260817170000 +0000" channel="SuperTennis">
     <category lang="it">Informazione</category>
     <category lang="it">Sports</category>
@@ -249117,6 +248327,1207 @@ Supertennis TG - L'informazione dall'Italia e dal mondo.</desc>
     <category lang="it">Sports</category>
     <desc lang="it">News.</desc>
     <title lang="it">News</title>
+  </programme>
+	<programme start="20260818062000 +0200" stop="20260818075000 +0200" channel="Teledeporte">
+    <title>Mundial femenino hockey hierba T2026 · España - Irlanda</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Hockey hierba) Bélgica y Países Bajos albergan la disputa del Mundial de hockey hierba.
+· País: España y Países Bajos</desc>
+    <category>Deportes, Hockey hierba</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4380662" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818075000 +0200" stop="20260818084300 +0200" channel="Teledeporte">
+    <title>Europeo de gimnasia artística (F) T2026 · Final conjuntos 5 pelotas</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Gimnasia) Zagreb (Croacia) acoge la 36ª edición del Europeo femenino de gimnasia artística.
+· País: Croacia</desc>
+    <category>Deportes, Gimnasia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4382224" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818084300 +0200" stop="20260818093500 +0200" channel="Teledeporte">
+    <title>Europeo de gimnasia artística (F) T2026 · Final conjuntos 3 aros y mazas</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Gimnasia) Zagreb (Croacia) acoge la 36ª edición del Europeo femenino de gimnasia artística.
+· País: Croacia</desc>
+    <category>Deportes, Gimnasia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4382226" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818093500 +0200" stop="20260818094000 +0200" channel="Teledeporte">
+    <title>Telediario Matinal</title>
+    <sub-title>2023 | TP | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818094000 +0200" stop="20260818101800 +0200" channel="Teledeporte">
+    <title>Europeo de deportes acuáticos T2026 · Sesión matinal</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Natación) París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.
+· País: Francia</desc>
+    <category>Deportes, Natación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4376291" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818101800 +0200" stop="20260818105600 +0200" channel="Teledeporte">
+    <title>Europeo de deportes acuáticos T2026 · Sesión vespertina</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Natación) París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.
+· País: Francia</desc>
+    <category>Deportes, Natación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4376289" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818105600 +0200" stop="20260818113400 +0200" channel="Teledeporte">
+    <title>Europeo de Atletismo T2026 · Día 3 - Sesión de tarde</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Atletismo) El Alexander Stadium de Birmingham acoge del 10 al 16 de agosto el campeonato europeo de atletismo del 2026.
+· País: Reino Unido</desc>
+    <category>Deportes, Atletismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MESP2F4378107" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818113400 +0200" stop="20260818121100 +0200" channel="Teledeporte">
+    <title>Europeo de Atletismo T2026 · Día 4 - Sesión de mañana</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Atletismo) El Alexander Stadium de Birmingham acoge del 10 al 16 de agosto el campeonato europeo de atletismo del 2026.
+· País: Reino Unido</desc>
+    <category>Deportes, Atletismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MESPF4378746" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818121100 +0200" stop="20260818124900 +0200" channel="Teledeporte">
+    <title>Europeo de Atletismo T2026 · Día 5 - Sesión de tarde</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Atletismo) El Alexander Stadium de Birmingham acoge del 10 al 16 de agosto el campeonato europeo de atletismo del 2026.
+· País: Reino Unido</desc>
+    <category>Deportes, Atletismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MESPF4378255" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818124900 +0200" stop="20260818132700 +0200" channel="Teledeporte">
+    <title>Europeo de deportes acuáticos T2026 · Sesión vesperina</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Natación) París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.
+· País: Francia</desc>
+    <category>Deportes, Natación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4380674" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818132700 +0200" stop="20260818140500 +0200" channel="Teledeporte">
+    <title>Europeo de Atletismo T2026 · Día 7 - Sesión de tarde</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Atletismo) El Alexander Stadium de Birmingham acoge del 10 al 16 de agosto el campeonato europeo de atletismo del 2026.
+· País: Reino Unido</desc>
+    <category>Deportes, Atletismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MESP2F4380557" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818140500 +0200" stop="20260818154500 +0200" channel="Teledeporte">
+    <title>DIRECTO T2026 E2 · Mundial de hockey hierba</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Hockey) Bélgica y Países Bajos albergan la disputa del Mundial de hockey hierba.
+· País: Bélgica</desc>
+    <category>Deportes, Hockey</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4382232" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818154500 +0200" stop="20260818155800 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Sporting - Sabadell</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818155800 +0200" stop="20260818161000 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Almería - Eldense</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818161000 +0200" stop="20260818165000 +0200" channel="Teledeporte">
+    <title>Estadio 2.0 T2026 · Martes 18 agosto</title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) TDP reinventa uno de los clásicos de TVE. Este contenedor incluye resúmenes de los acontecimientos deportivos más relevantes de la semana, retransmisiones en directo o grabadas, y entrevistas. En este espacio tienen cabida todos los deportes.
+· País: España
+· Presenta: Marc Martín.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4382228" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818165000 +0200" stop="20260818165500 +0200" channel="Teledeporte">
+    <title>Informativo Deportes 24H</title>
+    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) Informativo Deportes 24H.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF3903037" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818165500 +0200" stop="20260818170700 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Deportivo - Elche</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818170700 +0200" stop="20260818171900 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Espanyol - Levante</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818171900 +0200" stop="20260818173100 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Racing - Villarreal</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818173100 +0200" stop="20260818174300 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Sevilla - Rayo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818174300 +0200" stop="20260818175500 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Alavés - Getafe</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818175500 +0200" stop="20260818180600 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Real Sociedad B - Castellón</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818180600 +0200" stop="20260818181800 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Andorra - Ceuta</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818181800 +0200" stop="20260818182900 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Cádiz - Celta Fortuna</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818182900 +0200" stop="20260818184000 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: R. Oviedo - Granada</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818184000 +0200" stop="20260818185100 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Mallorca - Valladolid</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818185100 +0200" stop="20260818190300 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Eibar - Tenerife</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818190300 +0200" stop="20260818191400 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Burgos - Córdoba</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818191400 +0200" stop="20260818192500 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Girona - Leganés</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818192500 +0200" stop="20260818193600 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Las Palmas - Albacete</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818193600 +0200" stop="20260818194800 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Sporting - Sabadell</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818194800 +0200" stop="20260818195900 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Almería - Eldense</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818195900 +0200" stop="20260818201000 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Deportivo - Elche</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818201000 +0200" stop="20260818202300 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Deportivo - Elche</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818202300 +0200" stop="20260818203500 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Espanyol - Levante</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818203500 +0200" stop="20260818221500 +0200" channel="Teledeporte">
+    <title>DIRECTO España - Bélgica T2026 · Mundial femenino hockey hierba</title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <desc>(Deportes,Hockey) Bélgica y Países Bajos albergan la disputa del Mundial de hockey hierba.
+· País: España y Países Bajos</desc>
+    <category>Deportes, Hockey</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4382230" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818221500 +0200" stop="20260818222700 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Deportivo - Elche</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818222700 +0200" stop="20260818223800 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Almería - Eldense</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818223800 +0200" stop="20260818225000 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Almería - Eldense</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818225000 +0200" stop="20260818225500 +0200" channel="Teledeporte">
+    <title>Informativo Deportes 24H</title>
+    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) Informativo Deportes 24H.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF3903037" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818225500 +0200" stop="20260818230700 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Espanyol - Levante</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818230700 +0200" stop="20260818231900 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Racing - Villarreal</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818231900 +0200" stop="20260818233100 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Sevilla - Rayo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818233100 +0200" stop="20260818234300 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Alavés - Getafe</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260818234300 +0200" stop="20260818235500 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 1: Deportivo - Elche</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4490085" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260818235500 +0200" stop="20260819000700 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Almería - Eldense</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260819000700 +0200" stop="20260819002000 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Sporting - Sabadell</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260819002000 +0200" stop="20260819003200 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Las Palmas - Albacete</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260819003200 +0200" stop="20260819004400 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Girona - Leganés</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260819004400 +0200" stop="20260819005600 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Burgos - Córdoba</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260819005600 +0200" stop="20260819010900 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Eibar - Tenerife</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260819010900 +0200" stop="20260819012100 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Mallorca - Valladolid</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260819012100 +0200" stop="20260819013300 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: R. Oviedo - Granada</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260819013300 +0200" stop="20260819014500 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Cádiz - Celta Fortuna</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260819014500 +0200" stop="20260819015800 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Andorra - Ceuta</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260819015800 +0200" stop="20260819021000 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 1: Real Sociedad B - Castellón</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260819021000 +0200" stop="20260819034000 +0200" channel="Teledeporte">
+    <title>T2026 E2 · Mundial de hockey hierba</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Hockey) Bélgica y Países Bajos albergan la disputa del Mundial de hockey hierba.
+· País: Bélgica</desc>
+    <category>Deportes, Hockey</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4382232" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260819034000 +0200" stop="20260819060000 +0200" channel="Teledeporte">
+    <title>Europeo de gimnasia artística (F) T2026 · Final por aparatos</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Gimnasia) Zagreb (Croacia) acoge la 36ª edición del Europeo femenino de gimnasia artística.
+· País: Croacia</desc>
+    <category>Deportes, Gimnasia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF4380648" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260819060000 +0200" stop="20260819100000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260819100000 +0200" stop="20260819140000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260819140000 +0200" stop="20260819180000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260819180000 +0200" stop="20260819220000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260819220000 +0200" stop="20260820020000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260820020000 +0200" stop="20260820060000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260820060000 +0200" stop="20260820100000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260820100000 +0200" stop="20260820140000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260820140000 +0200" stop="20260820180000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260820180000 +0200" stop="20260820220000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260820220000 +0200" stop="20260821020000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260821020000 +0200" stop="20260821060000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260821060000 +0200" stop="20260821100000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260821100000 +0200" stop="20260821140000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260821140000 +0200" stop="20260821180000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260821180000 +0200" stop="20260821220000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260821220000 +0200" stop="20260822020000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260822020000 +0200" stop="20260822060000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260822060000 +0200" stop="20260822100000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260822100000 +0200" stop="20260822140000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260822140000 +0200" stop="20260822180000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260822180000 +0200" stop="20260822220000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260822220000 +0200" stop="20260823020000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260823020000 +0200" stop="20260823060000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Información,Deportes) Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
+    <category>Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+  <programme start="20260818060000 +0000" stop="20260818070000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260818070000 +0000" stop="20260818080000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260818080000 +0000" stop="20260818090000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260818090000 +0000" stop="20260818100000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260818100000 +0000" stop="20260818110000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260818110000 +0000" stop="20260818120000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260818120000 +0000" stop="20260818130000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260818130000 +0000" stop="20260818140000 +0000" channel="LaLiga TV US">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20260817083000 +0000" stop="20260817103000 +0000" channel="LaLiga TV UK">
+    <category lang="en">Sports</category>
+    <category lang="en">LaLiga/Soccer/Match</category>
+    <desc lang="en">Real Betis vs Atlético de Madrid
+LALIGA EA SPORTS 2025/2026 MD10.</desc>
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD10</title>
+  </programme>
+  <programme start="20260817103000 +0000" stop="20260817123000 +0000" channel="LaLiga TV UK">
+    <category lang="en">Sports</category>
+    <category lang="en">LaLiga/Soccer/Match</category>
+    <desc lang="en">Atlético de Madrid 1-3 Real Madrid (2018/2019)
+LALIGA EA SPORTS CLASSIC.</desc>
+    <title lang="en">LALIGA EA SPORTS CLASSIC</title>
+  </programme>
+  <programme start="20260817123000 +0000" stop="20260817143000 +0000" channel="LaLiga TV UK">
+    <category lang="en">Sports</category>
+    <category lang="en">LaLiga/Soccer/Match</category>
+    <desc lang="en">Racing Club vs Villarreal CF
+LALIGA EA SPORTS 2026/2027 MD01.</desc>
+    <title lang="en">LALIGA EA SPORTS 2026/2027 MD01</title>
+  </programme>
+  <programme start="20260817143000 +0000" stop="20260817163000 +0000" channel="LaLiga TV UK">
+    <category lang="en">Sports</category>
+    <category lang="en">LaLiga/Soccer/Match</category>
+    <desc lang="en">RCD Espanyol vs Levante UD
+LALIGA EA SPORTS 2026/2027 MD01.</desc>
+    <title lang="en">LALIGA EA SPORTS 2026/2027 MD01</title>
+  </programme>
+  <programme start="20260817093000 +0000" stop="20260817101500 +0000" channel="DE | DAZN 1">
+    <category lang="de">Sports</category>
+    <desc lang="de">Her Element by Laura Wontorra.</desc>
+    <title lang="de">Her Element by Laura Wontorra</title>
+  </programme>
+  <programme start="20260817101500 +0000" stop="20260817121000 +0000" channel="DE | DAZN 1">
+    <category lang="de">Sports</category>
+    <desc lang="de">Bundesliga 25/26.</desc>
+    <title lang="de">Bundesliga 25/26</title>
+  </programme>
+  <programme start="20260817121000 +0000" stop="20260817122500 +0000" channel="DE | DAZN 1">
+    <category lang="de">Sports</category>
+    <desc lang="de">&quot;Mehr als 90 Minuten&quot;.</desc>
+    <title lang="de">&quot;Mehr als 90 Minuten&quot;</title>
+  </programme>
+  <programme start="20260817122500 +0000" stop="20260817131000 +0000" channel="DE | DAZN 1">
+    <category lang="de">Sports</category>
+    <desc lang="de">VfB in Team.</desc>
+    <title lang="de">VfB in Team</title>
+  </programme>
+  <programme start="20260817131000 +0000" stop="20260817144500 +0000" channel="DE | DAZN 1">
+    <category lang="de">Sports</category>
+    <desc lang="de">VfB in Team.</desc>
+    <title lang="de">VfB in Team</title>
+  </programme>
+  <programme start="20260817144500 +0000" stop="20260817163500 +0000" channel="DE | DAZN 1">
+    <category lang="de">Sports</category>
+    <desc lang="de">Trophee des Champions 2026.</desc>
+    <title lang="de">Trophee des Champions 2026</title>
+  </programme>
+  <programme start="20260817100000 +0000" stop="20260817103000 +0000" channel="DE | DAZN 2">
+    <category lang="de">Sportmagazin</category>
+    <category lang="de">Sports</category>
+    <desc lang="de">Episode 1
+Das Herz des deutschen Fußballs.</desc>
+    <title lang="de">Das Herz des deutschen Fußballs</title>
+  </programme>
+  <programme start="20260817103000 +0000" stop="20260817110000 +0000" channel="DE | DAZN 2">
+    <category lang="de">Sportmagazin</category>
+    <category lang="de">Sports</category>
+    <desc lang="de">Episode 2
+Das Herz des deutschen Fußballs.</desc>
+    <title lang="de">Das Herz des deutschen Fußballs</title>
+  </programme>
+  <programme start="20260817110000 +0000" stop="20260817113000 +0000" channel="DE | DAZN 2">
+    <category lang="de">Sports</category>
+    <desc lang="de">34./31. Spieltag
+Top-Fußball und Emotion Pur - Italien gilt als eine der wichtigsten Fußballnationen. Alle Spiele der italienischen Serie A im Livestream bei DAZN.</desc>
+    <title lang="de">Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26</title>
+  </programme>
+  <programme start="20260817113000 +0000" stop="20260817133000 +0000" channel="DE | DAZN 2">
+    <category lang="de">Fußball</category>
+    <category lang="de">Sports</category>
+    <desc lang="de">FC Arsenal - Manchester City
+Community Shield 2026.</desc>
+    <title lang="de">Community Shield 2026</title>
+  </programme>
+  <programme start="20260817133000 +0000" stop="20260817140000 +0000" channel="DE | DAZN 2">
+    <category lang="de">Sports</category>
+    <desc lang="de">35./32. Spieltag
+Top-Fußball und Emotion Pur - Italien gilt als eine der wichtigsten Fußballnationen. Alle Spiele der italienischen Serie A im Livestream bei DAZN.</desc>
+    <title lang="de">Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26</title>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817143000 +0000" channel="DE | DAZN 2">
+    <category lang="de">Sports</category>
+    <desc lang="de">36./33. Spieltag
+Top-Fußball und Emotion Pur - Italien gilt als eine der wichtigsten Fußballnationen. Alle Spiele der italienischen Serie A im Livestream bei DAZN.</desc>
+    <title lang="de">Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26</title>
+  </programme>
+  <programme start="20260817143000 +0000" stop="20260817150000 +0000" channel="DE | DAZN 2">
+    <category lang="de">Sports</category>
+    <desc lang="de">37./34. Spieltag
+Top-Fußball und Emotion Pur - Italien gilt als eine der wichtigsten Fußballnationen. Alle Spiele der italienischen Serie A im Livestream bei DAZN.</desc>
+    <title lang="de">Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26</title>
+  </programme>
+  <programme start="20260817150000 +0000" stop="20260817150100 +0000" channel="DE | DAZN 2">
+    <category lang="de">Sports</category>
+    <desc lang="de">33./30. Spieltag
+Top-Fußball und Emotion Pur - Italien gilt als eine der wichtigsten Fußballnationen. Alle Spiele der italienischen Serie A im Livestream bei DAZN.</desc>
+    <title lang="de">Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26</title>
+  </programme>
+  <programme start="20260817150100 +0000" stop="20260817154500 +0000" channel="DE | DAZN 2">
+    <category lang="de">Fußball</category>
+    <category lang="de">Sportserporträt</category>
+    <desc lang="de">Fußball-Urgestein auf neuen Plätzen
+Porträt von Holger Gehrke.</desc>
+    <title lang="de">Porträt von Holger Gehrke</title>
+  </programme>
+  <programme start="20260817154500 +0000" stop="20260817161000 +0000" channel="DE | DAZN 2">
+    <category lang="de">Sportmagazin</category>
+    <category lang="de">Sports</category>
+    <desc lang="de">Episode 1
+Das Herz des deutschen Fußballs.</desc>
+    <title lang="de">Das Herz des deutschen Fußballs</title>
+  </programme>
+  <programme start="20260817081000 +0000" stop="20260817113000 +0000" channel="SuperTennis">
+    <category lang="it">Sports</category>
+    <category lang="it">Tennis</category>
+    <desc lang="it">Il circuito WTA fa tappa in Ohio per il Cincinnati Open. Sul cemento americano le migliori giocatrici del mondo si contendono il titolo nell'ultimo 1000 prima degli Us Open.</desc>
+    <title lang="it">WTA 1000 Cincinnati 2026</title>
+  </programme>
+  <programme start="20260817113000 +0000" stop="20260817114500 +0000" channel="SuperTennis">
+    <category lang="it">Informazione</category>
+    <category lang="it">Sports</category>
+    <desc lang="it">Stag. 2023 - Supertennis TG
+Supertennis TG - L'informazione dall'Italia e dal mondo.</desc>
+    <title lang="it">Supertennis TG</title>
+  </programme>
+  <programme start="20260817114500 +0000" stop="20260817150000 +0000" channel="SuperTennis">
+    <category lang="it">Sports</category>
+    <category lang="it">Tennis</category>
+    <desc lang="it">Il circuito WTA fa tappa in Ohio per il Cincinnati Open. Sul cemento americano le migliori giocatrici del mondo si contendono il titolo nell'ultimo 1000 prima degli Us Open.</desc>
+    <title lang="it">WTA 1000 Cincinnati 2026</title>
+  </programme>
+  <programme start="20260817150000 +0000" stop="20260817165000 +0000" channel="SuperTennis">
+    <category lang="it">Sports</category>
+    <category lang="it">Tennis</category>
+    <desc lang="it">Il circuito WTA fa tappa in Ohio per il Cincinnati Open. Sul cemento americano le migliori giocatrici del mondo si contendono il titolo nell'ultimo 1000 prima degli Us Open.</desc>
+    <title lang="it">LIVE WTA 1000 Cincinnati</title>
   </programme>
 	<programme start="20260818061000 +0200" stop="20260818063500 +0200" channel="La 2 Super Full HD 8k">
     <title>El bosque protector: A ambos lados de Peñalara</title>
