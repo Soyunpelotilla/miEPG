@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor.xml.gz
+https://iptv-epg.org/files/epg-es.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
 https://www.open-epg.com/files/argentina.xml.gz
 https://www.open-epg.com/files/mexico2.xml.gz
