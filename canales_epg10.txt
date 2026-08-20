@@ -1,0 +1,439 @@
+# Fuente: https://iptv-epg.org/files/epg-de.xml
+1-2-3tv.de,DE - 1-2-3.tv,https://iptv-epg.org/images/uouM5MEJt2TCyMbwKCgZ8nOhtETLGXn0WiLNdlZQ2dQqT0yrVk6zt6R8bgOC69eL2P2nhuFi1vYIdgYeyz9H-dU8dE4suRz-365OnJZSuc8x
+FCHeidenheim.de,DE - 1. FC Heidenheim,https://iptv-epg.org/images/9L0R7gPg1SCj9cHXuP4YMwPrqi_p3qLXd9rA6nRCpJFznNbrqIqOdSBKBZARweQ8JSRPXhzkL3qfn8qjpMEJzsaQ8UTqAhKMYa_EyMPwVKwRb62_2Qs
+FCUnionBerlin.de,DE - 1. FC Union Berlin,https://iptv-epg.org/images/w3_1S3xq9vujG2vEOOLHcFObq_GUGBvnSsD5wOgUxTXLCTKwn_amKC0XR8Et2S0c_r3xIqFFe7cwAp_yOg4f3WL3LxSnFUFfUuaU-xK9Z83f_P0q8ffH
+3sat.de,DE - 3sat,https://iptv-epg.org/images/-WeKNpjA8ggOL7uFCTs9OI3lWQkbh41tqiwjQD1ZktgzPgfi9tXhxL6Gv1qMBRvdIBi5PSCOMaCreqWDpR4UF4sl_tsh4f_dmTe53KPd
+13THSTREET.de,DE - 13TH STREET,https://iptv-epg.org/images/T6ZU9y1Rkqbs0MbotrQVpifwHDXAp5PiL1-fR0nQWQB12Vyh8zCPK2FUy-p6aP2DdboXFUT-w2IXwECskgOe2pesWmiHkDPFQFVA9oiA7wszgk5S
+1899Hoffenheim.de,DE - 1899 Hoffenheim,https://iptv-epg.org/images/l9I5TyrNltB--Q3Wm4x0Of71Bu54nMzmWsJ7ttm60N0NBsdMgdiyIoNZ9lA_ORX82as_J5TY4HrIlcR-uLs0OGig9kXyIuMxRfsA-eWPQjlXVEPIuQPJag
+DABEI.de,DE - #DABEI,https://iptv-epg.org/images/PGNljXlA-0arziZcJK029WK3hA9TsmaYbQvmLi3nKnapV8BlOMZ622SwwkMSvnkJV3NB-_hjpQKqO3T43ciXZvmlwWml3cN1QamBRxyFug
+atv.de,DE - a.tv,https://iptv-epg.org/images/e7XembQ2ZLHtTLzuOlCQWw7Ym6AuZMmgsmX-tGi73RXVcW6NG6Gf5w-diA92Z43Ms1QtZIeoHbTZCESppJ3v6uy_mwLdvP2FA6-FCKI
+Actionfilme.de,DE - Actionfilme,https://iptv-epg.org/images/wvHKMHJJhSdboU0FFqe2LPG0CF8TDDBlUn__DzZktF_HGPUZRDUARwuTgnTFkwL6MJMbVOyUMirzuNVW09YHwfzrOqozzRclxAlmOpudspxCyHsKjg
+AlJazeeraEnglish.de,DE - Al Jazeera English,https://iptv-epg.org/images/j_MwyklExnRE7g-804K4JXm7qbqeqoq0xV1nIfsuAcFQQPcaqdSj1HGau-N2vhVy1Q55yUZtO1-mKQa_9fFCut8jC5Yo-dmF3nzvTn31rzVMGJmaT7Ofn65K
+ALEXBerlin.de,DE - ALEX Berlin,https://iptv-epg.org/images/xYrNyU62geoibVAt01UoJmaLwiTpgTrdoXpDOhGbIraL9qNtudN8z4UoWh3bCZIHab_JPvxOub1X9b1BLmVQoUTQsrt-4R-UDy_-oT3Ivz8sD90k
+altenburgtv.de,DE - altenburg.tv,https://iptv-epg.org/images/A83hP2zsj6A5voX8wDRlIAeHGs3U-vKRlDs7OAv7dzafxt4qcpY5ynSG2ji9rJVD7TcIt9g9vecpOTBcaGuDl9FX9YCKYjnmGi5iw-6OnKef
+AnimalPlanet.de,DE - Animal Planet,https://iptv-epg.org/images/IE0lt-bEI_D4JzgWYB0IJnPtZkK88OObA_mSHXYJY_N8s7ldVqkPO11QLeI84LfELfp7fwLzHgTeoLM7UJFR5ZjlqiBvhOOcxnZLCHV0Z_DfBGHSYME
+ANIXESerie.de,DE - ANIXE Serie,https://iptv-epg.org/images/cJyU4pVgrMTvfLTzwzfZVSQtMxGG8hcJEoriTQk-kgUGOmDKX5aAwQG4RXugJRHZA7HVDtMyRVj5tNzEa5Wb1y37RHhgsG9CP0q0E7O7zuSlJrmK
+ANIXE+.de,DE - ANIXE+,https://iptv-epg.org/images/slGGAoqghOIBOl1vHbehY4lIBdfYbWy-pQOPXpd6iF5eExOrH6NbN8pSFibJ1ATTOV4dqMhfgrx4jup8aWpmPAgpEpk4_Rg0_tKoZuuiq460pw
+ARD-alpha.de,DE - ARD-alpha,https://iptv-epg.org/images/ibkUqJFFcPBaSQTzhuhX41nip8_JlA0oHTYR0xemgAApB7-7GQXqxxtxpOqz0iN5at5bPLwGD7kORwqQXlqf5n3fSussc-7vYCiBx-2_4r-zTGE
+ARTE.de,DE - ARTE,https://iptv-epg.org/images/oVvjNDgrOIOQQk5m63Ju_MeBK_IUYJXBwlZujAGLjalpnPcrVxPF6KESiaHaQJv1lmF3Ub-KMn7EzxuO-067iOStYVLHMD_ruzFY90z0
+Artflix.de,DE - Artflix,https://iptv-epg.org/images/Ozyu1vpEYQjq6VslsuaI5swDLytzlCvPB-xZsr6xfAlz3iiosylqCShghrpmfI9ftZlYIt0PUspDsHWVMmbYRHpQuzMFEhsZNe1VIldvVYIG
+AsharqNews.de,DE - Asharq News,https://iptv-epg.org/images/j4cUb7-IckdNNC5ZtrW6usfXVg5o2f07Ti_la4a-_v9wQDQD8-gUYHha3VFM9TtZYzIOMgShyXf0ZnXRVs4ymd5VByovbZCIqGN9L0IksrIal3gX
+automotorundsport.de,DE - auto motor und sport,https://iptv-epg.org/images/nj9lzuER4ghmhKh4e4O2Xja4iGZj0-8n99-jvO02901T7x9fzhLpS1AuhJvKx9ceAE_s7tH3PfLA30CvUlX06rfqUebnvC6eHFGeT_cHaEQ0cYkAQelw9ljwCg
+AXNBlack.de,DE - AXN Black,https://iptv-epg.org/images/Np17e6Be21w_P6c0aDlc5JB31H49bdH3f1Cdbwjuof_LDhC4eMG5pvPZYjcK68oYWlf5wxvqEoiYegik2ZxHvRaQNPpZtjsHgKrhMwna-Mgm9g
+AXNWhite.de,DE - AXN White,https://iptv-epg.org/images/CGsd0eSo_sXfQWIq6sFBmseqoVcHHodmTscgvRq6X27jG0HAgh-L5pBd-leckM133LRslgY-pN0mnwb9V3MGsne1Qk38VCUSKR-32wGRprS9AQ
+BabyTV.de,DE - Baby TV,https://iptv-epg.org/images/AeGucM8FitDDoWN7TNKsBduMw0luA7pd6k0QbZJlcMEq7BciWzX8NAh-pllqN1ar9IGbdvqNMz4Q-4EqHSA1z273CwlnjSxNfgkn_qwFw5Q
+BadenTV.de,DE - Baden TV,https://iptv-epg.org/images/FTjAqAUakBaAVxSeB5vMCC3dg9XJpJ5D7PTxe2R5ZkBmL0UwIz5Jo6zHItlPR6ALSRVLj7k7R9meFaaXg5PcwtnkZQ6g0XViBAxjAJ7IGIBj
+BallermannTV.de,DE - Ballermann TV,https://iptv-epg.org/images/wet6rvd6BNqs2Zmx8kQya04zw0eqbVyDkqobzuWsemdxNS9VFd6_kdsZyVxJ46UtSBid3PO49QT5C3k3jdmIICIOTaPtFd0_QD3xkaORB9EIcB0wTY8
+BayerLeverkusen.de,DE - Bayer Leverkusen,https://iptv-epg.org/images/t7krSAvVZCqqqXPre50YaCd6fcHX5n6IOmVaoerYF69m0PDsrmu7Po3xB1Iolx1vrswo587xITY7bkRgCXZzSDmRUW6hqGS0G5IhMiF1XGLNcl_wZiWRZcQ
+BBCWorld.de,DE - BBC World,https://iptv-epg.org/images/54CTvSrTk9IFSDjQV0lUodC6tfgG561fGqLdaY6NjXyiwQ_UTcXx6gam9x6kWUELBwuM_8GtAc9HbJqwF_6jxk02GFabfqIkgMPUvpo7y3oS7A
+Beate-UhseTV.de,DE - Beate-Uhse.TV,https://iptv-epg.org/images/TtDOK2QQSnG2tK0U4HAhkAdB5UBnn7QGqUVcgeseK-yaS3cBB3wuo4t9-pkRs8RuIe4tet1W63mDKNoQUnqdWI_HaAkBNMmBC_G5vX49SBEvtbpe46Q
+beINiZ.de,DE - beIN iZ,https://iptv-epg.org/images/Y3XDnf92Jp_U4tF1c1yxxJKpD2l9AdsWBu04gcF3buIKuTOO0hDkv0u8FODE5efKcoZMkbRvNAuSMKhatz-IaUdzhgPf8iY2kYHkqM63RCA
+beINMoviesTurk.de,DE - beIN Movies Turk,https://iptv-epg.org/images/9W2clcRfAU1RlR-2OLqbRPPP1Y0QGsAJ6hyLY-LtzmJBsmlBlzrMmTGG2uoHX646pBYCGkg2mA_p_VmduZLHfOjF2a5M5JgxO_NilsHoNljKAnnGS4dfrg
+Bergblick.de,DE - Bergblick,https://iptv-epg.org/images/_4_-pje51gFcSp8CnW4Gq3k5aQM_Jka9x0S4TQePDeK2KAJSybokznDQIFKbtwnfevllcwzLnUbO7eI2hcNOx4LcNLuiujXUcas0JpxwnxJZoFE
+BibelTV.de,DE - Bibel TV,https://iptv-epg.org/images/BCNPXLPGw9WT8f04Bk_0wSIAX8vNDzKVoZUnc2yiv_rxIwD4TDJExIxf8Gi3SfeBHHEvxQ8IL0Cg0-bXRRuhdEjSMfyljQ4e3DE8wbBhvJ55
+Bild.de,DE - Bild,https://iptv-epg.org/images/ZLIED1RKIVmj0p_MHa2Ez3y7mfEt-JUeYSXrTRreNgT83DNtTi-34DdPbLhS459nxT1yO2hKj3fgEdq9uSOpN5NDwrDuzbxquW1PME-v
+BlueHustler.de,DE - Blue Hustler,https://iptv-epg.org/images/n6TG-fYsZAQeT1GjYFuXpUgykc_oAVylSX584dAZ9bxGVONqscnj6l6okw6Cc5kaSZeISE9H9DeDO2QGO1y57ha2H5qAxTMXBdF5h53zBS00U2LVkg
+BonGusto.de,DE - BonGusto,https://iptv-epg.org/images/8LIc9eoSFBSZ9X45slE8gTKB7V8BhMNfbsmxYvgMTl_dxbUYmCsNBA1n0dVHzRNAUV8v1W3EoDXUJ-vER6mZi2XTLVcGkd-LLm5PJUgR_OSu0w
+BorussiaDortmund.de,DE - Borussia Dortmund,https://iptv-epg.org/images/8f0gfbiL7No4J5qmb3ujcvwKWYn7hiuZY8aaTZTVi0c5VjyJGvPUMtNjBfKbIapAv4R7gIwQrXJtQhqW97OS8XjIFLsumth17HjwpDK1ekqjbVYnPSFp-gZP
+BR.de,DE - BR,https://iptv-epg.org/images/xT--ynHbVOYDaFtNK2A6emJLrEHs7NT1XJYA8dKfk7j8s5fJKofTrUdPOi23ElwYftFIeKpSVEPH-vhlWYw8SuklZUcRIlEpLUhCog
+BRFernsehenNord.de,DE - BR Fernsehen Nord,https://iptv-epg.org/images/uOwTH_ZH2G204dizXey7rP_vijgFLDmFIPtzjSpCB6OJ7VmRViScuocNvxDO1tfRxSVSHjn94MbhCh--PsCxpMoSv7UrBEmYuSAIPr2GkImigeEmLiCQzpg
+CartoonNetwork.de,DE - Cartoon Network,https://iptv-epg.org/images/xlaZMaFgaER16NR4-1Y_4ND-1CnB_lQID2kwXtZ0eCQMrGaQKtAc0RyLX-mSxL9sjYAxHpxaAo6LV6objzS5-Wc3xTVR0P9wvYsVC3CJoe_ZQFESq3W1Vg
+Cartoonito.de,DE - Cartoonito,https://iptv-epg.org/images/OPfwsxklJjmFAQ9DPxM7lUVyZUkgxKQ5qO5ULYUpLR3GHIdMLJHUE380uF_CEXc2zmWTAui7Tpkina_h8w5YonFTSlA67IPQldPpvZZisTdZ565z
+CEMTV.de,DE - CEM TV,https://iptv-epg.org/images/ibCsNwO5qmVe64ne48SBkqhNXofXFEQbcecMWv7TV83XAWDxfYMes_IoX-gU541DOE2rqi9aKVVyhwqnHJ2S2Nn3FZBp9Aiw1qi2gTj4zA
+CHANNEL21.de,DE - CHANNEL21,https://iptv-epg.org/images/9I40kFgcAmM7PV737dRCWGsaR1XqGzpThzNgfMblbP-rAecmyOX2zY0z7zw-TW6pFrkL63BEYnlV-tvYSL45tfHWaOlcuxhEHx6Bnz5u-Kdgt0c
+ChemnitzFernsehen.de,DE - Chemnitz Fernsehen,https://iptv-epg.org/images/UjVaVREuvGWlmTq-Cy4F1tA2QxC2rmEltXUvRH3NoEBA3TJc-hzwVjOOtkhz85e0_S1AXHI0D9tcV37cyeIDh89K8ljRgKO2cuUGDQzznkx-VTC6wa-Fq8XSEQ
+Classica.de,DE - Classica,https://iptv-epg.org/images/8S2Xlz82G_RZEOeKW6a2PlOq9U4MJs2yK1c5vqPlW5Cr4ZBKLYKggJhsMcNNQ5_XLWeUdqVyx0V88cAWe65g4m3zeYeewZNr-mP9oo_9_G2VlA
+ClipMyHorseTV.de,DE - Clip My Horse.TV,https://iptv-epg.org/images/NYGNEWlsDey80gyZEJLUBQ0XfZzLYzc5cSi6mgQzovLu3Y5dC5aNM434T8vD_RUfRq8NkCg8psPgfBwuizkwQs5Y1sP0lgYEPlYKm-CLmGgbdauxFOsd
+CNNInternational.de,DE - CNN International,https://iptv-epg.org/images/j4Jn3BuqP2T7cctuv1Pb9_enztDY9XElvvHGneeFzR87pJJ8eN8CSbAwRRsFb4CgCuV2oxGBuQOB_uNNymxJemL8VDGN8OEHJupsU9tKTC6PpVLXmk2ZK0Ef
+ComedyCentral.de,DE - Comedy Central,https://iptv-epg.org/images/eK6fZbvWvllDVuP_pdYf0gO94PbxJhEIEF0BEYlgdRZ6WskPO5V3STm_yA_0gCazkE1eFH6cAsJuIFefxnN95IG8cbyUq3IuJerFB4gZaaJHlw3E67V5
+craction.de,DE - craction,https://iptv-epg.org/images/0Ssoe2ek7_Fh6ODRqefEVioXNX8WN4wWdcWJyMhuwmlsOsEOT_0BhdzM2sFpafZC2So8qhuln79IwAhG9Ejit4b79eJn7fqf_N3zd8xtzIRu9A
+Crime+Investigation.de,DE - Crime+Investigation,https://iptv-epg.org/images/RSGP_j2Zih7PkdVOQ6Wud0IAfyHyXl-M80vUXxKdEi7LiuKQWQiaLMpR84DO5MeXyutllxhBYHjaFMxsBx3y5RRIZ7sHzwmY5IaTUVsAW6wZfkfbqWNlBH1UkFu2ey0
+CuriosityChannel.de,DE - Curiosity ChannelCu,https://iptv-epg.org/images/yEiWlchxF82KuoCKVj9nFHU5nl2fW5Cesz7830OSYZWDlueKthOCIbtdprhs-ATRCRx3jRfhpS9PVsV4oRKHFMyOfGZ3GJXH7bi6olP1TckpCvEgvOhX7zDY
+DasErste.de,DE - Das Erste,https://iptv-epg.org/images/dS5ZQaKZmRRsARybVTzcicDoAMtc2aFi5n3bw0JgjkEW-RY1mP9WM2jCQvF6c5B6rDqrKOzW_cvWwjjEvpBcCq9ItPtsKoh5Fp-YrRYUVF2Pjg
+DAZN.de,DE - DAZN,https://iptv-epg.org/images/xMIf3ul1gtn1odg7NuvHwWrtzN_w-ZuP9vihnRN1EfhfTku8b6Wv1uQG8llQq76mK1jH-lt0M7Zun_tM2P5EZW2s1H6AUv3GK5GycJqy
+DAZN1.de,DE - DAZN 1,https://iptv-epg.org/images/E8gJZ4iWs8XTvzMoLg5ZpzD3ydRWv6fDTgjdtS5kvKnjSXRLCZAgxtNuDidDge8-k3AeuMJ71g0K8XI1wD1N32wpzxgaLDUb_Xq9EGdc8g
+DAZN1Live.de,DE - DAZN 1 Live,https://iptv-epg.org/images/_TpWu0YOYryFnHqlNPmsjs-aiOv8ujuS6wcal3f3dJrAdrpv30JXSXkRW-jB9qk6TI9e1Pq-w_sd5rHqJbl6T3hQbO2kln62o-7q6ZkKytDkrTI
+DAZN2.de,DE - DAZN 2,https://iptv-epg.org/images/N_Buxpo07GZyYGsCRFxYmAWvuOOB73q6rvSTN4e086H_AYd-IiExLpoCI2YS2Sj6uRnatRLb9buqkqqblGMx_Q7-CcPzUkj0Q1o7k6v4fg
+DAZN2Live.de,DE - DAZN 2 Live,https://iptv-epg.org/images/aTEceNNGBgNnBzyPcwB3VcHxhMaCpufwUTAIhdslMEVHATYzjC7sO5OHXk7RQr3SdzL1yEW_S_G_Iq-j2ZVxnXgWG3OH8IkbkZyGEljP60maPp8
+DAZN3Live.de,DE - DAZN 3 Live,https://iptv-epg.org/images/TJrkVWd-H-MnCZ13dBlzPaINltEWIJjlx5WuALGdMB7Bk2_b6G0hDKnki7wmpVc-vx8fPxsWyqfxdVYpUbTkIwFBX0xVzNDU1ll-hwhFxYUBnnM
+DAZN4Live.de,DE - DAZN 4 Live,https://iptv-epg.org/images/t3e3JmO_AvjVtnVtABi4O5RY-z6HqtdZ9LcgPfXYuojH4Bd6LbPSzeH-hxIt5hDD7o3NR2TlFGY4vdaDDfTj0Lw6CBuK8G75ijrEaRJ0ngdDfVI
+DAZN5Live.de,DE - DAZN 5 Live,https://iptv-epg.org/images/zQ4BF1acM89_pLBPDDgDvUrsLmjvk86UTesYssKVCbe1WMfkGYVzxggGgUiJVKNLElSHHt5n9hEeZYt--I7MzsBQN9WGMerulDPKWghSKauIcVE
+DAZN6Live.de,DE - DAZN 6 Live,https://iptv-epg.org/images/xYdQQY-7dPJLuU3T2dWttfALqNkb67dE8C_IZL6ZUItkVLjfGetYAxSHIAtSTBvsBOamTbygwcLm5YfOegaQpn3droCCTuAQc-S5AloNW7TXVIA
+DAZN7Live.de,DE - DAZN 7 Live,https://iptv-epg.org/images/yrpYS1ktqRA7aRCUMCCFPu5gqGQ2AAqZdllLuKuPsYKUREpY1uYwt1u2WIMQvdq1wSDFnBGkE6UllA0XUQNTnEQxOBPCwJ1mVxp2Q1FnI3IesnY
+DAZN8Live.de,DE - DAZN 8 Live,https://iptv-epg.org/images/Kd23yVs4iXmm79XwraEQuOJTvRiZjkaLANC4nkrJO5h1tsXjBonhaLuJkeuo8KtNSpVo87CL-Ib6qcz1CQjZpfaiFSOuJaxOQHKtKRB_LuX37dk
+DAZN9Live.de,DE - DAZN 9 Live,https://iptv-epg.org/images/GbmMIl1ni0NzarGAoRLs9nh6CisKSf3kIIzB8jQ2IHKu-JWYdCYIr69R927Gn0DeAlurNsZFM3OtOMhAO1jhjG95Qju0mpfoJm0kzxE_qkBrlJE
+DAZN10Live.de,DE - DAZN 10 Live,https://iptv-epg.org/images/k2P7TeuxXqWs5J-ebjfujfMmowsew05YjMwnh2xM03lb09idKBFtwszU_uN_QHFEdAGMEa7DW5VP58YSeSTOCYC4gh27AYWFXI5QvPi5J59orVn-
+DAZN11Live.de,DE - DAZN 11 Live,https://iptv-epg.org/images/I3RNx6LECW_A2TfiVhjTC3IMQCHAzRc-I_CjxiLokmbUKA2AG_Vu4wPWYidKco3TEuJykaKVZIriIUfXs-LwEX80yINr_k7lvOtDvDMg4g-_ecFT
+DAZN12Live.de,DE - DAZN 12 Live,https://iptv-epg.org/images/pCelBjY7BZWJT-51d-nOTMJHGQSx1GWRYyAxkMWaTxt7WpPOlkkXwM48VRG-G0ucHMGVzv_F9ytJJ4XJA22lX47FQz6_-tueSDHnaQROpa2ndgZm
+DAZN13Live.de,DE - DAZN 13 Live,https://iptv-epg.org/images/cMGtjMJQoLpbkIRk5YoGkULw0XDog9ulmfFAihi6cRanU2M4qPfSYEfLwcoEoruSv_DQvc3ZlIyxXynDP0QzaSMRqq6wEWNuLzXdXcz-ZPiQ2Gmt
+DAZN14Live.de,DE - DAZN 14 Live,https://iptv-epg.org/images/1PUZPegUbSHo3v_04LiNHTvye-89V0xYVS0Cv2Pfmxsbb4GYeqUHZuXp87DEIdmlRxt_kgKClndZgXWSlHp05aFXluJ-_5Fzmtp2Utbox91XRhDW
+DAZN15Live.de,DE - DAZN 15 Live,https://iptv-epg.org/images/df7sNHXLo21Mlz_ra8UJ1zpRK8AMX9CpWUO5JHsOcrZSo52YXPZpNHJOryCx4I8Z26saPI8HDZDZiaEpbtDjZritvumXUgSrCAq3p5gEBYMgSEMc
+DAZN16Live.de,DE - DAZN 16 Live,https://iptv-epg.org/images/6qqyNWcOPrFQ_mgJip3u8mCtwM79tJMH7pC4eTbQd4UqzalfBjOk15jTEtywdV2Lyd5MkzdmfxJlPyUkmjB-x-CONB1QaOtl2237qqhrSJcEWQn6
+DAZN17Live.de,DE - DAZN 17 Live,https://iptv-epg.org/images/cZ1S4SC898wvM0aUf-OpW4jSG18Ep1BxKjUAJxTYulj3b3z6nepFhroIbSC_aMQgGtqstNGHKdOatkzzlOwNkYbvnyDGtwxkc3dqK_KgCXwQ4FW0
+DAZN18Live.de,DE - DAZN 18 Live,https://iptv-epg.org/images/tpBeMv8fZtGJg0ssnctwHHqhjghtCwIeHBwtA7x0zunc8rb6s4LqvI0NYQOsCnuxeEGg9MgcNidqatu2EIWq_t2CdqjRYMDAOMk3Uq-KbG9SQrAD
+DAZN19Live.de,DE - DAZN 19 Live,https://iptv-epg.org/images/DGwLEQocyLg-O3oc6-0pgw8v-y82ZMNnU1vR6Dnh36MKNO_PAcYftSXDgYbARI6UbvRVGC76fy7PvZ23n19feIQddsB0S_RGj7oyW0adx3EQfmrg
+DAZN20Live.de,DE - DAZN 20 Live,https://iptv-epg.org/images/FTIzSCV6sqnwOahEZmY1OjQk2cHJFxtOw1N0BIBxY6laDMp5q6NOV89Jg3BoXfVOgWa9qIXFeo9o35yx-dZEiMhfAPPdg4_uusXb4y8YF5eF2jYR
+DAZN21Live.de,DE - DAZN 21 Live,https://iptv-epg.org/images/EvRJIGVKtBqcgfe1VkVnAD8yOTCmVOaWJlFCljnDtIenhsGmdBcnEILreEJQAELwvsPHfTbgdeQLbE-zznmZaSUaoxrQFngX9jUu-SiNhs0z4sBC
+DAZN22Live.de,DE - DAZN 22 Live,https://iptv-epg.org/images/KMau2G2ZRESE7sbjW3aEbATOuHpSgJM4_YEw5xDH3Sv1u_LqlQz3PVYUitELx556Hr0ZbLFJPkJO24H3gONmog-V9dpowxdexNtCxavkOt6GpSo0
+DAZN23Live.de,DE - DAZN 23 Live,https://iptv-epg.org/images/xpXwMkBUBxjOB0DSpkKxuoiVb7W3yMTk5KHWF5GMRc8HhE178wVVwIQiQ-6H7TUpZNFtF4ehAaxEypMZwB6W7eJq5Rv4Hb-Qvflmcy0f3-VpuQMD
+DAZN24Live.de,DE - DAZN 24 Live,https://iptv-epg.org/images/G6bDkKGaOBDcTwIo2O4TfTbh5LLZvUxtyDpM0_A6OvALwRBzdcdevERmBoN1m2PCxI1ut3zQF0hHuMLr1p0YYcN1J5qc3UDkJYwQkH09EmxVK0Z-
+DAZN25Live.de,DE - DAZN 25 Live,https://iptv-epg.org/images/JmK6DfP0RhrDLddE8YEsuk6mijqBVQmsDGOZT-angKL3Ezvd0ERScXIrta2pK_bmHIaCnNycCXodlMGx0r0ogmOXcnL5m43EWRR41u0RkOBhYkSc
+DaznFast.de,DE - Dazn Fast,https://iptv-epg.org/images/TsnuCQhpwRgsj7VLvsVp4MM7GUpZLkZzSN1II5WuoL3LXNoDaaCNTpphDpSuf2Sfr4AwOxpjdT7vPe997mfxWMci95gouW_TCFoSqqblGisclQ
+DaznRise.de,DE - Dazn Rise,https://iptv-epg.org/images/3_8qgbqfbk1Ak90U44j0rcRjaomxBIWmwgvbOKHxTVqJ015t4T-Feoz2IMHN-3iEMelFeOtYsX8RPTO4K3IcHqtRsKVUEUSto8i2nQ-XBMTKjQ
+DeluxeDanceByKontor.de,DE - Deluxe Dance By Kontor,https://iptv-epg.org/images/8QZex-mhghwBzA1Dtg_5AbtHje3ofd1HgnMzhXuAf5kXHWE4In2nbFOVqxLi6cxAJiGZG4FZVUJCkku4WB3HbddR-yGXEk9vE25q6hAa6z1jDISeGo8N5dMRYgVz
+DeluxeFlashback.de,DE - Deluxe Flashback,https://iptv-epg.org/images/9UApz5nzJ6o0CIbHOQAdTXDJXwc6V2AdI5PK8-UJUOj1zgm-xMB070RAENybE2NbaQM5u_Yb0knjDwblz4hlwX7AOMbjwoelMclSnUOHqGc_GTO_a2_1MzU
+DeluxeLounge.de,DE - Deluxe Lounge,https://iptv-epg.org/images/McWS13QgRr-ilyvSmGVtH3__o65jEQSwod95W3odTRy1bGASjnvj4Sz6_Dhnaf24crPpOb9pviFAY6zty6cpm_y_dQSmRMU9Q0zIc_hzkkjbS0rougs
+DeluxeMusic.de,DE - Deluxe Music,https://iptv-epg.org/images/6FPx9qio6FX3R0bA9Y2OWhUHDj_BkVton83YQCusuuu1jEA-HGWh45WmQfvIuqkfGLpKQGHMLcgp4f4ozS20Mz4yXOKKH9Lk9_rs-08iOnOLFQFlng
+DeluxeRap.de,DE - Deluxe Rap,https://iptv-epg.org/images/ueKsr3PQYCjZQTBNFE72PPSanfNXPT9Af6UE3VQ7Ecj_B0_sHzdI0Dc7TNiK4mehXqcmxWmJPtauRd_iRkh3raOlh225CzhW5Qnh3Fwtc1IhL3Q
+DeluxeRock.de,DE - Deluxe Rock,https://iptv-epg.org/images/02L-IWovAwjdeU0hdy-SXGLXxNKsJUvrbf_fyrecya_U3saK4s79zBkDfPIgJ17ROsbfXBk8JEZl4_tNhcnBAVxABVOeYjnTOcUCH1Vm-9A1hdQj
+DeutschesKino.de,DE - Deutsches Kino,https://iptv-epg.org/images/it5fJDdissz3FRTU2MQ6UltpiS-UTs-iu_f5BDyf89jHFWQ1O9-REkc8dHylmo83V0L-9aIyvjnoHwR6UCMkg83S8UnlE4ftFum9slfasY4pjkhrikaW
+DeutschesMusikFernsehen.de,DE - Deutsches Musik Fernsehen,https://iptv-epg.org/images/cgfJrwrwFjrZhF6GZhS99gBn7wm0NZzMGZVpy-RiWJyOO3_VVdb5HQLNx8xUsI00OiOG8IElvRTbgvZRlXW5Ebw3roW5a4vnik38M8wmWuqzkPWEeoeiSsMCs-wpLeGkng
+DF1.de,DE - DF1,https://iptv-epg.org/images/deHMYt9iVZwBF56x68Y1NifIBse0iYnJyIrvOR2qNUWG1edh1MBzXFuEWGVQQCSvdaznd8Lrohdm46I0wqAtfF5CdQFHacQh4SbSOWY
+Discovery.de,DE - Discovery,https://iptv-epg.org/images/hofwqtv1u_80uUN_kzpOEUU_dhA9RDM5aiZMn4ItgETxUXMS9gYJY6bR8gLMkH0Iyxsle1i7yOZ236cFmdveH9p2nj2t4I7-WKT92X1slVuTupk
+DisneyChannel.de,DE - Disney Channel,https://iptv-epg.org/images/qpV1zHV-WtRg55XBoghIBtUDQCnMAkRygcqVOFm-6drNLz2oX0ykACVkqBxH77Hzvsok5deSoKMOxHkliHvUwFRHC-Pb6pTFjoj9OwF1jqCZh4TzQJV-
+Disney+Select.de,DE - Disney+ Select,https://iptv-epg.org/images/h5p4erBWKhZTFEFG0lGQnDy35tSszi_SvN4ww2a2dWa4Nft0uXAPsAv2YY8GfXkxKFJN2Nre-pO3ax6zvbzBd-L_onw6C7kKnRDRW2qE5CBLXZS1MnlCHVk
+DMAX.de,DE - DMAX,https://iptv-epg.org/images/472hua2HFxLDAmHIAvVYKeifg_EAj5Cfx1cHPT6o7S1fx-NYphJmRMavu2V4tgQatbEKIommE6PYKJ3GG-dPOtWpMaGizXqopHgf3RaI
+dokusat.de,DE - DokuSat,https://iptv-epg.org/images/I-sb-TTGbDid7fZAcSSGIeoqyOCcy6HpRvpDVgLGilq7f8nzG6Aa2bZ0XcVy4AvetK6mtZckrVQ27QrqAx1GmUL73IJUbB9XdA16s_PGvAJY
+DramaFilme.de,DE - Drama Filme,https://iptv-epg.org/images/TRhXh0zfkts0EvDiW6cK9ZBbf-deA76khOp1PMi2HfWobla9vcOM5YU5V1kbLFG448U-Jb0ij3YqKIcKuxbYAF1CKki_7ALCbAAdbnPLEk1ltzEW
+DresdenFernsehen.de,DE - Dresden Fernsehen,https://iptv-epg.org/images/c3Mpq4avy8IAzVf8AIKPtjpA-FHxfMJLyDoMEfrR5KaobyU_QmDigWRbTIyK2NTrOvyStFQdVdd8g-6iD1OyrCr6rPYrcOg_zlVQ636dXsEUgSLvJJwjbIY7
+DW.de,DE - DW,https://iptv-epg.org/images/ysSOl9bvflHwsafaOE8sf4uXFy6hADvW6tLVLfPk6c4zgOJPTku6-4hbYe3VJCItY7bWSeToQN009reJW1L0-Xhn_0RT7Q3WB8gxHA
+E_Entertainment.de,DE - E! Entertainment,https://iptv-epg.org/images/tFcsb7WGbRR5TufowTGOHOpe30FDCuXxb-qoCl2VuOYNORxAJZpbxwzRh76T1vFIusHdnJxPhAhaMC_ljsku7OOQ8F4oxiYm5IWfWmfrSTrXKSVsOYpUS04
+EDGESport.de,DE - EDGESport,https://iptv-epg.org/images/hPOPdQUIzRt3iXeYYgxu-y8mEx0bwpCidw8lCwnqZQyk_D6-0AqGBMff7eznKQSn9-t2-ucQZd9mafEY6czPDJC7-iHATWJMEh2f8uybK2ZXQEM
+EintrachtFrankfurt.de,DE - Eintracht Frankfurt,https://iptv-epg.org/images/FvXzuBQU4lAA_zILxB_jUr-yhuWOmQtZQdDlRjn1xxVcmTcTT7IeYNXirRtEcS0r1Ch3LBvbtDYD0JVXp8HEZ-Z856chiYPhtN0ezo9GUZiuDKIhS7SjjkpP98o
+emsTV.de,DE - ems TV,https://iptv-epg.org/images/HPqEN_X-WsRTLgtGwO4nYr2i6GK5Ynb8Z-7ENM9z96U06OZWOQm6b5zHMrpv-B4-wB76f0YCTm86KAPoNEYccrX1xdKmGMg58CggyTvB-A
+eoTV.de,DE - eoTV,https://iptv-epg.org/images/ZuN1mvpTUdc7rLctJTy_kDbL1Bds1AqBBoSQqKlrvpeqJHmUHUnX4aDC-tP6lhXYcgnbIPp1_7tffTyebzkjvtRTPknKqWBy4FSyrWu1
+eSPORTS1.de,DE - eSPORTS1,https://iptv-epg.org/images/rbFMXZODdp43h75pdylV3WkTx-wR46eQCWeIFGdvvtkKt0E37FWtEfzYXdzlyPhl8by4zPdYd463scOm36y5ec0Tfrj0u3jr1cFAK71FHkcLZg
+Espreso.de,DE - Espreso,https://iptv-epg.org/images/OEEXYyuoPfNQRhch0csuQbJcH9WOUIlpdTapn76KYoGLhVQ1PRCcKAoihhio9Wsk7vv1dmHH4kCZB-MEgNW0oeZk1dTI9rWwkZ_2Y_gLFr6k
+EuroD.de,DE - Euro D,https://iptv-epg.org/images/N_6jqdzsXXVmx5YM1lxRQhPouyUmPZ1RAMa5sx66POg749jb3MHPsFeIbuCT4gWdZru21pXVb_CumYHroHfou3qDjH9ewfbTcJP8uZD6oQ
+EUROSTAR.de,DE - EURO STAR,https://iptv-epg.org/images/Gw-3HjLZxSRdTmJJvkh8R5rt1f535fy7hReXL6XLk-C21NMtQwQzpDVX5ge8Vg3zmEbTNmqT3JuWc-Y2PaKNrJxOEHIYt4r_OkCnlzdZc9GGhQ
+EuroND.de,DE - EuroN D,https://iptv-epg.org/images/8xf0JfID_ppltQBH_wsRHhIZVmalnV5ngpCAxYk89jK6BbyLZKRh4PSB4Au903fW1iqBxyDNgwILWqOVXUdaoPRqXC06_9LifYbDkP8EYnM
+EuroNRUS.de,DE - EuroN RUS,https://iptv-epg.org/images/kDyPz8SnvG2fNVuaaJ4h-bsM18l-kJDvDRwYuMkVz1l-3f2U6BqAvQmf0V8cItZ74yztonboNm6BJBsWfuOUJWHKX4gMyXnxFcNpwFeLC9h8Ew
+EuronewsItaliano.de,DE - Euronews Italiano,https://iptv-epg.org/images/tueoU1CxN9U4TThqlMx31o5Q8j81mqtFH0bjx7_9cTC2IP1xA6OlnQ-MtdemM6LDgBtkFWbliFa4Dz2Wb16mztYjp_3nVugb1_vAmvc92B7a1wCsxz0zMkFs
+Eurosport1.de,DE - Eurosport 1,https://iptv-epg.org/images/vrhQZVskwdHSRcBgUF-pfFWCG6rWgOJbLTqU9whKKuC2u1j9rBMCWMbWyzE_pXXoaAbbwC8VgG_0146rJVj2M567o0xis0Ec0866Ghalyuu4in8T
+Eurosport2.de,DE - Eurosport 2,https://iptv-epg.org/images/cYzazcLt7tWiv7XTZpmSfAL7npfsdwsYD4YikRdN4a5cmvIFvRy6Q50emEyIy1uWE_c6NcWaAR6yQOSPWoAoRxN-e-GICrv9Uwq8B3kK7y6RCz9B
+Eurosport2Xtra.de,DE - Eurosport 2 Xtra,https://iptv-epg.org/images/iClG0YZDIQmgT8C-8CCmhuGlpIYu2MJOfs6azvqrzBE5M98FRjK0juKPOYb--3CgMAM1M75Msh3_GPRf8vyFeFp-v56zV5-bGu5lhNWyzdgFauh8sIsKTw
+ExtremeSports.de,DE - Extreme Sports,https://iptv-epg.org/images/TCL5i7l5_EzUiTaa2pQNvikiGjpy8JAgPZLTAqlYLYMktxPyxTWGEHQDKdYuQoTME9_Yc1xSFDs1obwQQFbAEJPdCZKalJegdB1g76chWmswQfMtA3QE
+FashionTV.de,DE - Fashion TV,https://iptv-epg.org/images/d7zdum1g3y8Z7J5cH2yuLyiN8S0f8HNeLTjYVJNFVvnhK7rFNbOCj3lJXi3noqPVhv_msRIE6chH6LLVNJ0jtRjzFkJRGrw2h-cJ4QOg9blb6-M
+FCAugsburg.de,DE - FC Augsburg,https://iptv-epg.org/images/hiRQTBjGT6uO_9eviYde3qOfmOOtTNuZVu1AIpDCHY82COj6GJQM-_K6VFZkPz7dcojlS7BMzy80NS2KAVl_IIIm57mEg0Ocx5JrNjcWsf4p6mLi
+FCBAYERNTVLIVE.de,DE - FC BAYERN.TV LIVE,https://iptv-epg.org/images/kAq1xVFglJKyWXQl4iB0ugHTiKfHaF1jEi7Y7DPFdBjr9fK8k7Y8PJYIORDLC5IVVvwbJNlTuxYOTDGBUtu7ge40lO-ZGX-mOeAmlr9wS9WXYmXZSEh3Jw
+FCStPauli.de,DE - FC St. Pauli,https://iptv-epg.org/images/47GynoT3CxJ1G5hmnWjrN9r-jEXMsCunFWlKwlty0lF-FDxBkxtIBkCQf34yhrQQ4ENQDZRQLJQp7Iv6p5lSlTlowpbDInMYvc7Xf0S40dQoeuw
+FIXandFOXI.de,DE - FIX &amp; FOXI,https://iptv-epg.org/images/9bLJ42CtYmo0OnenYF_kLTT3khuR_0F2DQNhIQX-q14Q_dvmNAdwYHqnR4rWP2_cayZofSnnyxMwzCvJVI-akonT3oJINMf97Hon_2ntsTMSayOw
+FixAndFoxi.de,DE - Fix &amp; Foxi,https://iptv-epg.org/images/AO8jh0-Xrkd0k-oLbrWZDUwkdtiKlQK4DKEF45xFWZZeXNUM1CdJCYmvAGE5VRMneGpBi5FSD_crts6CXA2UM64KkNA0w-5yEi9ReuPLmhRYPPq3
+FOLXMUSICTELEVISION.de,DE - FOLX MUSIC TELEVISION,https://iptv-epg.org/images/h17cU6TGVOyMl1t5TYPVze6za6hW8KE7M7Vxy5RiVinYdsvXxQZq-qh-rYX2Mm1DpJf76xzIPGwFQERvNfibENwpWREsdw8YxxvrqcI34HIGCevKzk14SQg5QY2X
+France24english.de,DE - France 24 english,https://iptv-epg.org/images/ggc2wG3oi7zA6sIVTX1x9mz6aqa5zazteqx1sTgH6SQ0qpOx0jHG12ADF-GE4wFM_IKrtVgJVCIM4oQlkgIIyzX6qcDwSS3c74w_RS6nyQrLMiOC9edbFMU
+France24francais.de,DE - France 24 francais,https://iptv-epg.org/images/RGy5ghPdkaAV7su7W1_ixLnxZU6Kmwp3uonjF3ZScnrBJTRrC0VNuQAF4-1KTpegzdl8DTTfnw5F5intBUxPltX8JG6G59yhu1OGKfK6qQWT4aKigUG667Wd
+FrankenFernsehen.de,DE - Franken Fernsehen,https://iptv-epg.org/images/91Fu50DfcuEEb_2lLg14R2MKK_Pcy8PWwzSfybaRfOYUx37MNmUz5EWlChG2xQRdwILyHUKm7L3LwP5q3RF2Cfuw5LSfXhqpl9JlBKKBcXCJHqczEpbcV5Z3
+FREEDOM.de,DE - FREEDOM,https://iptv-epg.org/images/ypg2y3XH5y8LKibAIv52VMMXcSPnPvpsBRip0GT6fhh9eH2lLe2_rhJrtE7uZDW5uJEbx1FJy4gSnNYQX80dlbgxK1b4RGNKCLIKoM2Io5fL
+FriesischerRundfunk.de,DE - Friesischer Rundfunk,https://iptv-epg.org/images/eiqq2asunfhdIZIj9iKryQBNUmvkAG0DxFvxfwz0cixqSpSTcMxYw4Bx74LEVBUPp9BoRg22nndQsdowuZE6_5OOixmUAR7oITY-kgVbPVU7stJ--OyLXZShGIkl
+FSVMainz05.de,DE - FSV Mainz 05,https://iptv-epg.org/images/73kfuiS7rvslwAInyAwnRSOrLGVcndwFbaDQzsVDrE-YvnBRgyRzeAFzcnsuyZy7-mKdFocjfyobKpxYXB-s76ofdJpwHM320aN4y-im1sIg9Brv
+FUSSBALLTV1.de,DE - FUSSBALL.TV 1,https://iptv-epg.org/images/BZu-iMMMELTUuN8PKkqwgBv0zsFfFRtYf4ZO5dUg76G6MowvFMJjXyaS13q3eqZaol9SOMQOuoQPSAcavT6AzS_KA9Fst7_NQL5oUfrBbmnToQ56PA
+FUSSBALLTV2.de,DE - FUSSBALL.TV 2,https://iptv-epg.org/images/SJ7NFS6lAKHXwQOn1O5aSXkruPw4ozC0PdtFiYwmO9LOmoyTuYktEkGgpLuhI1avYNe6ZTCT_YqcnJDsRRdIvyTQK7GnnoxFghYa9tpBCHSiPdyqng
+FUSSBALLTV3.de,DE - FUSSBALL.TV 3,https://iptv-epg.org/images/VBBcOWHNawA1tL4BTIa3Bc3t6RGkQac-spKlhq-FmM2jiasJjKQY1jyrs6LPAhjY80qDrYVgzlM42ACE9R74F-75cjqptqImuNfssAhNIabrcAqBqw
+GEO.de,DE - GEO,https://iptv-epg.org/images/qwMRcm0d_yPCXnpZY7yhz-KJBRweOQdh9KPDmznGsfQFCfIZ9uXc89F2KdADZkCeF7XocR6Rut7IjppM12sSAr7jKPfO1tHvmCn-aLA
+Hamburg1.de,DE - Hamburg 1,https://iptv-epg.org/images/_TQ6rQRkPHnhjrM5eGt3LA6kRnkBz4sxPtxSU-1br6x1vXARKnt6mwqHau4FhX55OsZh8LdAWWlsAx9H3YoPvOWhDeWvhS0YihawX80tGf_IYw
+HAUPTSTADTTV.de,DE - HAUPTSTADT.TV,https://iptv-epg.org/images/AgA90IEgTo9qx3L1kr0wixTAh9W6PsqRUwb0019yGIzuk9pd5N82Hl4lhv2KmRyOoqMLXTkDPmz4N4SxkZRF8YfN0QIAEL05XBmb8qNuXsD-M6f9iAw
+Heimatkanal.de,DE - Heimatkanal,https://iptv-epg.org/images/SG5iPtPmIwYUMYG4jzBFJ3XSmEZpdWGGlZIEowbTymLy-bn2ZnS5EBI6hUdkgJVr-31-rRIivqGH-F5JQKLlD6JAYmqQPzJJZGQB-IIjdMz0qRcCoQ
+HGTV.de,DE - HGTV,https://iptv-epg.org/images/COHh8KCxCamOo08W0WM4CflmDqakTzY_cXevN73sIHi5A_T7qA9sUYsfqRY8yk2B9FXk0eGu87FY4ZFO5x5Eb2LozTszgU52SHBAQSWc
+HISTORY.de,DE - HISTORY,https://iptv-epg.org/images/3fmd865MoCePVgXQ3JoteGDTtU3DG4Flh-hhbkDGY54027ftmRmiLMwDYxAXxVryQPqka11V4GQ7UukPy8AKwfFOjtBCslm2Bahs8laBAvQT
+HolsteinKiel.de,DE - Holstein Kiel,https://iptv-epg.org/images/anxjJ4fh2o-beah78DEWLUKwnmkxktPdc5W0qnLS8ceiISU_1zI12fYWSM_CDEmjGdobdw1F0LlD4tO-Nx5rZxKn3-OfSodIhNCp923nwQPATWOLteY
+hr.de,DE - hr,https://iptv-epg.org/images/Bl-2jRjKsTnAEp1Qu72tP-h7H6HNR7qc2-B8CBGyKOTFQCL76QQQ9UdYaQoaIHc2968sJbCoOQj2pPolOzYJ6N8AAKxxpxMGKnEZEQ
+HSE.de,DE - HSE,https://iptv-epg.org/images/N0mHgpcyxnjDYk65re2ZwxwVk3BIQI54jcRQ6SRdwCxnD-Rsap9lIdSjhLCo_32xCgCqXyipV7u9n9dei59CwSMwBucWIXXaxADbMXk
+HSE24.de,DE - HSE 24,https://iptv-epg.org/images/84l-_U2O__8m01YNSy0xlxa5XFvzaGrQt7-NTNka5I2WimMS4nxIP_g6o5BR6W-2bI7DkdRIVajoKvUhExbb_8pkVuP54LEeMI5i8lLT3Q
+INPLUS.de,DE - INPLUS,https://iptv-epg.org/images/f0JPehQWGSniWGjfl4ftyZNLg3JDjnwoQDYxLPmuPACuSoC1NBXA6-wy6zhVzDhEAGgFQlO4E0fpmlkqmyBU3WjvfnaG9Zypi5XRoHZShnw
+iTVN.de,DE - iTVN,https://iptv-epg.org/images/HTMyFPPF97BsSDaDRNp1O2CYWUCnqM1Oc9yX-YJfEXBVzQfVZnnnKFleFyJFlmQOkU8FELS-eGed9qJhfPCENZMQ0mSzue8DE6XIoaY0
+Jukebox.de,DE - Jukebox,https://iptv-epg.org/images/haw6TTc6fTDa_4KC9ipeI6UJaJ6SA3a9gyEZAygdES4fu3M3eIkoYnvBYBU7RQi-vUzbUsaw_shaoVP6FSme_PsXCotqLHK13abWZGoYSFJK
+Junior.de,DE - Junior,https://iptv-epg.org/images/g6pCaJQeyjgzcL5KWWVlnjqZAIrEwuRjCALIkL98MPR4xTDUl3bRLayskCfunYCwsVzRSRDx-hKT74q5TPUWPfyQ28L9vRMHd8X3OvP2kZY
+JustCooking.de,DE - Just Cooking,https://iptv-epg.org/images/TFFyjnrm4_TpK-pilrbCiP-PAihP3X3Oz55-uoT-C7TkpriXHR5SCKtejX9X87ZZW9UzSgiQVzhJ_sjkDTkK8B1CfP5QrktvpXmZE2vGipwRqPNtHw
+KTV.de,DE - K TV,https://iptv-epg.org/images/wUYQAQcCWAQV_26gm-lPCyuCq8H5gbBzgqP0y8ZNeqKhjaGiKCuY6HVga_holCS_hMYklQie3B2PduMd5A-2s5Xa8X25Fbi9R59wX0g
+KabelEins.de,DE - Kabel Eins,https://iptv-epg.org/images/B01VzAwHrq0oRvWRP0m4tDYfw7zS6NqgKRLUjPYkMFhzvpcvuBk4lDGwVTMpW05J-Ij7_9t2DbcqNpGBuIGnqZsrJlp7o_EP1OHZWwulMvCgMFk
+KabelEinsCLASSICS.de,DE - Kabel Eins CLASSICS,https://iptv-epg.org/images/keaSUZmsbCrtUtehLnjSh-1Y2745KKK5lYnn68T1nK82M3RZcgU3HXcFFK_rnPehMh8oL47acOTTEgj04toO-YV_kXbIKrgRLjKZHUJCXHGmpHp314fc4bejgw
+KabelEinsDoku.de,DE - Kabel Eins Doku,https://iptv-epg.org/images/uU7nDXlfylQvjGHGo_P2aKx5tvPVtk_SeBmvZxcGQhWGmN7fnxiR7i-JggJ6ACwHZIsNVBad-pem53fcWK4EnsIgwyNdq94527AxiU_dWP5pmexCsmqS
+Kanal7.de,DE - Kanal 7,https://iptv-epg.org/images/IhFP8Tmuy5bxTKhQRlloP6KJ-mn_P-FRJwF-a-BeWuMKBKBWATGg4JdkW1Rhhg7VOqONY6OxYgAMtD-zPiGDUfbDIRU_WkI1p7gxMabkvWc
+KiKA.de,DE - KiKA,https://iptv-epg.org/images/iavyDxWeYALh2puv4fl20wLE9AeVLIGdfYka9TGqIzFT0rmbwnVzm_RuCSfuITSBTb9WkMRwzV4vcO9PEOodXmVyGJyIp_IEUi2IY7c_
+Kinomir.de,DE - Kinomir,https://iptv-epg.org/images/HW73kg_4c7_JrI9zsTUTsUqhTB6jtH2yafVZQh3JrnxWbd-mM-Y1FtOwPO4Kt40ThFpLeY6s_F56MGa-wq-U_Wkp7y5Zk25rE-5i9q79Myfu
+KinoweltTV.de,DE - Kinowelt TV,https://iptv-epg.org/images/-I5WX8sYin5J3cnw4GCcj6ycsV6k6_1Zl7VBEjcSaDUfWO8DWiRR9nMphSUWAX2M4zqph_cm0J3ueHjRf-NT3y5BhEHnXVwaYi52XVnnCzdQ2bZf
+L-TV.de,DE - L-TV,https://iptv-epg.org/images/Lo4TCutkd4LpzA2qaUk7jrfmxtiE5TaFJ9X1k2LLjvc6FGjOu5pBxy9Nnlkr5fKH-hiZ-Ab2D2J1l5KfkS7BpH_h2w0ocdhGYHQ0Jdr-
+LAUSITZWELLE.de,DE - LAUSITZWELLE,https://iptv-epg.org/images/whlVq2fVJo9Rn1y6BbvA-zGXngahzjwFdrZROd0Jy-Zmf59jc4WTkOKhwXg05pQb_wwn-9Qm6QDWVuWbuDtfJ43zyPVLDVjbVG7l4qxKIW4kev843bk
+LeipzigFernsehen.de,DE - Leipzig Fernsehen,https://iptv-epg.org/images/iUJMe7Nz0Yo-RrEAVNiWRTau8jlEqSt4cPFADKmOELGl_95Z7l_cvYdy_LUhtDaFLFgCOstFhVRnaXYs2w7wtBFwGwE3vpcvr8aekLUniYS4uIyGhzW_bLeD
+Lokal-TV.de,DE - Lokal-TV,https://iptv-epg.org/images/itaoKrJAHdvK6M3yBpTLT0fFKiyOwH0Ly_NHBhuI-8bzeaWt-7B87nu61fawfpX0jUJyf4al3GXu8FLzNzrQxqt6xe3R118JktHm4tcnBCrg1jU
+Lustpur.de,DE - Lust pur,https://iptv-epg.org/images/D4NyJxq2tbTMD8sX0Z9jzrOiS6k0hrvTnFjhOqx5uXU28qZsL3xqreb4LGnOQvJB4--FrxXIge7NtXtxtYZDlb9sy6krX37kzcnmDOOsw2CK
+MagentaMusik1.de,DE - Magenta Musik 1,https://iptv-epg.org/images/1HMecRq_bLxCIaxbvZgDgAHiHoFuyrHsMtLBJQYGpwqZ8UsQHg9SumkdRTaRK6Tpo75g5t91d_IWGG-FXZSKVAAv5feuE5J_jla7U-QkwQe80hm7cISm
+MagentaMusik2.de,DE - Magenta Musik 2,https://iptv-epg.org/images/R-NIXAuWz2jtnwkKGgw1V2WkUTx7m5MyE-f4ok2YHbQjGv9Xuj8GT6Tq-CDug-B-4TNUJkGWNUdZ-P9_09CdwO8xUwnt8YLS3m3tJz-kdRydn8B3nxCB
+MarcoPoloTV.de,DE - Marco Polo TV,https://iptv-epg.org/images/UGYfugYSZUrcBv4PfnVdE1fu2UDDedM4f3cdqrFnJg3-TAkgzTjgawZaDEru-wWBEZngEY0LCywrrYDecjVE5e02IKb5jmUTbN7CcIjvzTNPvlpT4g
+MDRSachsen.de,DE - MDR Sachsen,https://iptv-epg.org/images/kKyZ6mFiLwkNsALbiqj3vlwM_rAkw7V1Qim9GOb9EgpfYqc4lcvZDD9YRf6myMn5TAhdibdU1APFPRPSmGAKLKFjb5n-Fusx_qi4PeP8Y63ZVrts
+MDRSachsen-Anhalt.de,DE - MDR Sachsen-Anhalt,https://iptv-epg.org/images/Ow8nixMroADq64KhF-owkhijDKFjL68OkDmSEAt5YJeKEIUUIP7yCvJx_6ABewTB7uITOaX0FuP5pqQISsh9ksW2YTNfQfJqnJGxab0watchkfmOcBjmbPdIuQ
+MeineAufnahmen.de,DE - Meine Aufnahmen,https://iptv-epg.org/images/Oz0Ey4tddI_PkbnyjvTJhLR7CyC0sY98HW9jWnktuDAgzCpllVZVLGwPzx77llTvLihlQ-1asLiWlaHqd9CwDV7Ob5SVUEKZbyNsb52SRB3oVokSBnDuGA
+MoreThanSportsTV.de,DE - More Than Sports TV,https://iptv-epg.org/images/sPF1fGml9prpWqom-eeRRuV9_K2Qhk95kT8Nv9l6tn3T68KOFlD7nxZ0JYcy7GnrNT8WvEK5K5xs5xLxwMDYYJoRigx-dN548CeVKQBV4uxhHLD91158c_IM
+MOTORVISIONTV.de,DE - MOTORVISION.TV,https://iptv-epg.org/images/IRo3TDotQBkxGmjXOZyUthMOMg0Dlwwm43Wm7BSNtYpXoNhL92hWUjlO35_4VTuxHrM4yna0zLnxTQ2yw-08N_By8debabvtr-BIp9sxj9mHKuG_omUv
+MSGOLF1.de,DE - MS GOLF 1,https://iptv-epg.org/images/kOaV-I-nO9dVVaOGeBEDXrySa5l1stg--JHs-cQfe_XqY1HE944NWiY15QJZI5sQ94bWZeg6qDmfokUUe3ndN8Dc9WnmOjeGnICqY5TpuGS5
+MSGOLF2.de,DE - MS GOLF 2,https://iptv-epg.org/images/ML05jydHsGy8NyBs15VaA3cEAlXcxxq7gnYCbg-gKwoHaXi5c4MWVPoHf7wzNZKHCtStg28D-KpwRoL6-EZ8y253MNv9VA_tv57cHmQ04A9g
+MSSport.de,DE - MS Sport,https://iptv-epg.org/images/dwXpuA-rrBgJnsDYt-C-n-84-zbmDrz4FUeC_3pveduKkDpTXmc5RXMf6Bsj0j8I86Z69shIJBfhPsHQ2Uv3sqzkfSW-T23q8oa-HsfMvbXB
+MTV.de,DE - MTV,https://iptv-epg.org/images/vuVdKT65259Z-C2AeA3oAKx8JgpaCPzqwlQ-ta3YuGmSFDEcTemY6PBzvhVYEuMMU0X82G0THJg69ijws3PrGLcXIOrLSbSq1Jb1d_8
+MTV00s.de,DE - MTV 00s,https://iptv-epg.org/images/Q1opYH4jiJeC1hp_DvX8uT9a27UAlBwfezLl7XLXXjZ7FYnQ77LsC9J3O3iQNPwNvw0oQRA8DJ4F_UuryUbeIAblzVTFTp_odtTmLSnr3ts
+MTV80s.de,DE - MTV 80s,https://iptv-epg.org/images/rijY40QezAOAY8Zpt93y--SLqy_-KM754kalPFG5fwnPk9X6gSoZZh4Eki9agruMrkszzJYkj1Mo2C0BT_L4iABOue7B0121TFVNpDcP7qk
+MTV90s.de,DE - MTV 90s,https://iptv-epg.org/images/lt81AJ79M-xJ19cImnCaZaAQ_PhItIwNxiEL3IDcN69IDpbfIIMFDyy_nO-09AVCJBG-Tu88pi-nxxmV373_Jsdg04EQgmN9t1Kyf3pTJ1I
+MTVHits.de,DE - MTV Hits,https://iptv-epg.org/images/wFWMHIkxvO_NVyAJIWSfeNGmFUj63yh8YpH3TrqLDJBwhcZ7iGEjPrDiUNxQPQprxqz0qdJ3r8hStyLUwuXhCaV9X2ZqdR9FlhdG797QXyGB
+MTVLive.de,DE - MTV Live,https://iptv-epg.org/images/c0t7Hd9hDHRsw7xKyIVmzBIBd9EmlPYGIKE8Pf8i4mOFWpzaERMELSkJoGnMvogZbJZtO0Yqean5RdA_l0nJ_RchtQ5dTHHqz4WKu08b3tcw
+N24Doku.de,DE - N24 Doku,https://iptv-epg.org/images/3-o0q1F6RdAhkkLE_uoCmhDDgyqWRyBjnvqhOSONZELovEh9J80irRqM7cVTblZekVRTdT7Y8USF_JhF9kVfGfYKnKgcl6vpfum_fKm02gXi
+n-tv.de,DE - n-tv,https://iptv-epg.org/images/rRn7nBKNYgQZD9IpmM2BkDxiFVZJAE3omnffIgHK6a-C6IH36oPTBe8RmG1j1k5izRlIIuGDiGoXVZVb9Isiltw_4OZ0Wl3MX8sZTszG
+NationalGeographic.de,DE - National Geographic,https://iptv-epg.org/images/HQnrnpBMDV_7Cwa5gRTGK2rgno4K9jZ-pud9tDtFfwX7vFyQZdUkvSAJuBXz-otkJxDlaT7AIF0aTdPx_Ep4ApCAZhpjRksu3BaDQ3tBjL4EHRfoKndzKwASLhs
+NationalGeographicWILD.de,DE - National Geographic WILD,https://iptv-epg.org/images/iu43Fk8c5xA06oC00tH2fQm_czNFejpaNDEJMG2PgMxbcskmOBk_K8COOYqfFGQwcPtEYXwpXqgP_f-p_V7lHL94IoARB-mKGJFkWCJLFWyhhXvJDnRaUv-lI_Gdq2as
+NDR.de,DE - NDR,https://iptv-epg.org/images/GGmJqdVJ06joufkLaNN9OVNAgSf5XDb58CKHgwvGXaOeLcWw7Kf4F-jJfzyEbzTWz8UNITLzv86yzyPYx9FZGGouJSLULLKI2wX9Bx4
+NDRFernsehenNiedersachsen.de,DE - NDR Fernsehen Niedersachsen,https://iptv-epg.org/images/mIb8ssHK5iJtsJQyJdt2Qo-E7Nuok-9TnsjXksfV2xXYYZkYGXuck6vbMnQP5NvUG4r8iPq-fH9H0kzunlRiHK7T_klOcGJDtUuJhfnOKWHK7LvzcYxpFgRS2Mi9hGXovqXz
+NDRHamburg.de,DE - NDR Hamburg,https://iptv-epg.org/images/8CAev9egkHwH4mlLhFzm6vSVI_pVwIoyb011o1GuJBI5dPAxdEQznae4lxWyMOw8G-F_ifIfzOohHvsp_bmdwF55m_B767kwrT_axGvudRXHZLHG
+NDRMecklenburg-Vorpommern.de,DE - NDR Mecklenburg-Vorpommern,https://iptv-epg.org/images/3GdOzp-9z5V5wa3KRi3fvCPKTHGPtVxdjnQ-Tinv8c-2R9ChO0W54SbAMpqmL9rCcVVJFkeW22rzO8B75-tlhvq2yiDWkjWKDZhkobbUSt-SOPLa60XFWxUhJVUTBh6svy1D
+NDRSchleswig-Holstein.de,DE - NDR Schleswig-Holstein,https://iptv-epg.org/images/MTlvaX632-aA9Ewwwg8ZscNJ1P__lm-bugp5VjAY3Up50Axt66pXR2IU85WUl3OvFwXruA3S77cBf4TdneP_SVARNyBKQoy3bwtXxETW0efFgqtNAwpX7U4GLNHX7-E
+Nick.de,DE - Nick,https://iptv-epg.org/images/3CtuWJPTU_OeoSLtn9dNocf-5FjqWD5TIJyY_OmZOn0BkZzU2yJ7v0zrgW6quuqooLASGI3Y03FXWi-0kGxQvZ5pfWoDLsfD-M5Jvp7j
+NickComedyCentral+1.de,DE - Nick / Comedy Central +1,https://iptv-epg.org/images/Jb3Khh-3XhqEz7iyahfkfYP3hZzmVCnuWGNQCZfI_owAVSAJUoyj9kzlAz0ETAfmKuEW2R-oh2xa68h_x1m_wRCcqRJv2aSYoImF1ZXTDuQgcg6IIiQzYj_9J1qh92w
+NickJr.de,DE - Nick Jr.,https://iptv-epg.org/images/oKB20cN58UbZPZFcQkdGkyH4s7tPlRifn21g457D30wgs17UDH4WQ_8SHbsZ6QZAgWbhZIqjwI7YsNumtdUpurs3NwQzxSKj5OuUHy3FLcU
+Nicktoons.de,DE - Nicktoons,https://iptv-epg.org/images/4_TWMA40bNshZHwIW-R7OOi1a5zCY5J-jobAjmhFj-32gvXZOqznbfpWS4rsgmnJwZWJxX_S_ynqSUyHG1tyXMdKJftB6uyg7FG5BTF2P8h7JAY
+NIEDERBAYERNTV-DEG.de,DE - NIEDERBAYERN TV - DEG,https://iptv-epg.org/images/jbQMXy0v0C-36GlAjFBhJlH7d3Z22mf5lm4pxfDF_xT6CpbnpGHHBU0iTeaUohDBSlMAZoh6R6_rjGuVMo_NxKaH9UY2YfiaDXvlBTK-7x68upsVy0edAySmF50
+NIEDERBAYERNTV-LA.de,DE - NIEDERBAYERN TV - LA,https://iptv-epg.org/images/sgiCUoXALF5I95zjPCfKa-ZBdxeP4xQvDZHFo05t7LrAhn5x73rZeYZFKizK8AX5QLoiZk87l-V7e7TNVRnE_lAQnjA4ymvY-UUW--Gk_a0Vv8RyAOf5ibwQtg
+NIEDERBAYERNTV - PA.de,DE - NIEDERBAYERN TV - PA,https://iptv-epg.org/images/6b_Nrnvu2D1gf2wLtaueW7ni353OFFrWmPOOERxsnf3qaPzXY2RBwzP1wdCz9ZzpLFsqM4rjLkVxi8zdN5UztNpGN7VisBix4GkfXqPEmA2nyfdSp7kN0pfmiuK1
+NITRO.de,DE - NITRO,https://iptv-epg.org/images/gtCU3b2O9IPZSi7qEb9u2OmlZ5ZezHQxg0jlgWRZGorSv2_gevIqNQAW9jjHyhyukjZYTgxrRvUPs_AV3A3-qoe_wHh17ew97TMXc73XLQ
+NOWUS.de,DE - NOW US,https://iptv-epg.org/images/XNAxGpbqx0R8ju-UZTXA8aVZrVNmc4H8c7XO48GFd23FNMI8-VEBtlS5RcT9RK4C2iBU-l5vO4auWJ4cp1YhiWO8VDrjOMJNkDvfbc3qPw
+nrwision.de,DE - nrwision,https://iptv-epg.org/images/92RdefHbbgyVlUrnRvKbAbT2ken1_1RN4U19GXjMOJ8ZqoKUowIhHE4bJmxYeyqVjY1vfQbYFj8R4VFiM04DR9ncdmxT3OE2z74n3PWfNi4hKw
+OberpfalzTV.de,DE - Oberpfalz TV,https://iptv-epg.org/images/ks0-8qLqsoamzhdZHb8OoNcfp8DhrWetRuhSXy_O28CcEGHklTqmS3qkq4x6DqAK2bYw0oTCeb9_1rxs0mc4bE4iz81JLUpaGLT3C__Ul-ksieKCIA
+OF-TV.de,DE - OF-TV,https://iptv-epg.org/images/eb0kNwJ3xUKapxssZgIrwYNxxZkEGxhn_F-ktV1gntONSN52pseQL4HHmA_pFKn5LIehYcnNbXgR18XCKfTq5gcqWpKKG4HeJOxyhPrqPQ
+OK4.de,DE - OK4,https://iptv-epg.org/images/t3gzWhpSPQYCabEhGwwjn832dFgXKFHfpX9yON748rkfenvFNNLAR4voy61xKjRP2LdAON3_KXo6G0k86z-iL0RmPpwgUVtjvoZwhYA
+OK54 Trier.de,DE - OK54 Trier,https://iptv-epg.org/images/ii9v_5OE-W9QKJUzG_8u9cM8x6fINcZxdUzZgmEmcdetrAGQn7xxCn_WK70bRQzsb8Z-j9S2uVwOH7WMdRLWSyka-kttA4tUHiHDL1hyMd8eue4M
+OKTVLudwigshafen.de,DE - OK-TV Ludwigshafen,https://iptv-epg.org/images/VmIYK3dQfwZ8yezlWDXojtUOwxUwCpmJrr20GlcdC52HDrrNCN3iEnI8kB9menWCC-9RC9B55sIZHzgQpRNsoQCy1dYxV_fPsqI8yaUj2FnaUadwZ6XWRjhJ
+OKTVMainz.de,DE - OK:TV Mainz,https://iptv-epg.org/images/k5M-0YBQnS9VQ0GO8FIfZNc_JpAM2ppJgxTnqq8n-bd0G3VF2AGL3axUxc05HaFi_7N9QBnAs14Jnq0cImvFXOkPVfhuKL29mWAW4lMA3q9W8oM
+ONE.de,DE - ONE,https://iptv-epg.org/images/_S5lEqyW8-wjLBjL0UQHu-TTiFXZbpGl5w6cU1I8CDzhlh3BNgJuJffZu11G5TXglf-rxKKLLNYYhROzULMq5nVEDPzsSPm4rV3lCjk
+ONEMUSICTELEVISION.de,DE - ONE MUSIC TELEVISION,https://iptv-epg.org/images/N9y-ca_pCdCL6LYXMo5olOv0LnhuGbtWnSZQeDxMbtuZQ9Ib3UYEMagVpMszV76gIyX8XvSIty7KfaFIun30ULQ-FF_dnxJFnuX9BDSJqY8-eRuj8itCK__tl1A
+OneTerra.de,DE - One Terra,https://iptv-epg.org/images/EKY7GyrRg-hU4n9hg9N1uVIlNx-2-4bCq1DJ52R8NV65aXJDK5uAon8M8pGUTf8rqc3FrXtGQ4qk4v_ffozGkA3U7LU9vwvvUjiVZwyNZdeG4Q
+OstWest.de,DE - Ost West,https://iptv-epg.org/images/N58KWDbxK68jIYFkoPvcnbr0YmNYPhW4oc7X93h00hoj9q_gq-nCTp-Ft-LWF2yUj93hmBiJWWy5vAJwSjmH7c8-K9FHtbMJzdclJQVCTY_9
+OUTtv.de,DE - OUTtv,https://iptv-epg.org/images/00hwlIlWg7OhW7RP2buy6He8DTkT9-HFqgd9R95VNZuugcQ7r2ZFpvtM4nKrQ8ZTg-Tnj-MB_Rw9cKCxXYhElYmhNyEvSqcNvdHeHDvDZA
+PearlTV.de,DE - Pearl.TV,https://iptv-epg.org/images/1hwwUa2RCA6fdXRPKqf90NSzJPtSnIuuTF0f2cacaX5AG7NCD0HwuVUhAwICdVnkMAOXbfHz-8Vs5O-YrzGA_HyyznM7muH_CAUPei2mByG6
+PenthousePassion.de,DE - Penthouse Passion,https://iptv-epg.org/images/0nIGjD0B6bdWP3HZlYDGW3VyV0fNQdLK8OE1TsZwgHUKPQdzwhh9VTXGzJKa80V3lSQZgrXpPWiAKwCmDHtHX60ogrfIbBwtOGDRr3FQMAIWhYIki5bhSDun
+phoenix.de,DE - phoenix,https://iptv-epg.org/images/y9qksavUWarnlMIh6OsL_8QfSehScmhhE4RbDrYDJLWxswcK_p2sc2QZAVyP2_OiTqHPK4j9cXFCAxhJ057Q_EmTIcMlkxUXkVlU3iqEnL3u
+PlayboyEurope.de,DE - Playboy Europe,https://iptv-epg.org/images/9TAKt6grBeBzX0JtIBHUONULSf8mX58Hc0gCi1etbvnY58J3-r3JRol926ARuzzbsTIanfQ-DJPrP3R1AHix9c7fkv9UZWQWP0ALmKSYn222kYWZR_Ts
+ProSieben.de,DE - ProSieben,https://iptv-epg.org/images/u7CynRPfFx3_l5GqaWhKUMBfd9LZb5_r1TuoYNiLZ3j7fof3WEicY-NA61aDNXLMvOTG-rDsbYryb99zn76L2QQ0t8-XkJgMTmt8oFHD19OGFvg
+ProSiebenFUN.de,DE - ProSieben FUN,https://iptv-epg.org/images/UhEKuGZ_3IH56YitzS7o-q5iuha1cYKm_T_DbciZBfmj49bU0sExpoVPZtGpu7Z6G-47C8BypNTc5Vov6MINKx3zjq84mBsPB9esqlfMe2plpl9LHzc
+ProSiebenMAXX.de,DE - ProSieben MAXX,https://iptv-epg.org/images/KisUWjLoqCTT3QP-0JBg5xBwUNaffSAPFwGs8ysY0lp7lqK_UuvT_dUiJM7hKU7_oM8eltCdv0VOE6V5mpiqjBh02BbGhvXdStkbmqgke_qCaXAZrROI
+ProSiebenSat1UHD.de,DE - ProSiebenSat.1 UHD,https://iptv-epg.org/images/aH2PAS8p5JEweD1zYm7jhluC73P3e1cQU_NIsUoUARAtdwQSxprsQfaSrZNXT5odTN5Y61_xxvJx3UmCJ5QYZ7EVErINI-UO3ABp2D2mP3AIKgtn4fLFx37_
+QVC.de,DE - QVC,https://iptv-epg.org/images/fTZIkP5ko11rAf-v28NTmNv6JSq9YQa44KH5B9PF_kVYsezOBorSn_PG--UCo3EDk25O_wFcriasfMLh8FJNQ6XFkxSqSLV-sCAr_3w
+QVCZWEI.de,DE - QVC ZWEI,https://iptv-epg.org/images/cqxHhOfKHf99upxaLLucov1q_1BUdBd6QRG47KGhC5lV6vy3YHKFc174kOmFKCi23EMl7FUcus4c59ZuOOolshzitSLL9LLz0v3IVKH1-Igh
+QwestTV.de,DE - Qwest TV,https://iptv-epg.org/images/DHKVlipdxtRbBj8pZK7prJ-KhcyPyXikTytd1gAYc1QeV7RedlXenjmXcCBE4Al1f3xCVMDQtRV0Lg1LJo6ug27m1d3loUM1i1KHOvSoZxhV
+RadioBremenTV.de,DE - Radio Bremen TV,https://iptv-epg.org/images/YBxZYcfhcWdpuD-cZ5x9NJ-Vjy9fThLjXxWCvDc4MkbJ0phHTzmio6GEz57iPt5lK_n8obZwtLTjRF9-NAKVnooZBPlw3VCsfdVR2VHr_VbT552twqWU
+RaiDue.de,DE - Rai Due,https://iptv-epg.org/images/0yPr1Ghbh_qXP_JZIliZaA5tc-oPY7EO55kY6hpMpZn9w98sbYCyq_Dhevk0EqfP1XvDiwSUpeME9mjWp7PUex7AyOwdYmSoXInNx4rmbRk
+RaiTre.de,DE - Rai Tre,https://iptv-epg.org/images/4IaRfHBPy1paJLq32ASbQNqNQECDuM7lICXOWAkQM1t_uoEIGnwoTF7jWne92yRx0eCE2MRLS6fCQ2qYvfnqNPt_x3I7JhgRbTQs7TqnuhA
+RaiUno.de,DE - Rai Uno,https://iptv-epg.org/images/o4_1nHthCOs2Q8BGKc9HrATX-yVp3fqgF9izyo8OcYc8tTcX8gLhuPXgItl0SnhLWQH0R1P3-qLEgApJmMfE7dH3qxHQIssZxrpWdxSTk34
+RBLeipzig.de,DE - RB Leipzig,https://iptv-epg.org/images/aES-3HvXSbFP-nrTBliXqYT2GrHboQk297pk81C5xQsq8CRK9buE1jHNyFh8muEA4r85wKlxzfNCrbty-2aeXpsQ7aHi3DZUmPcagDgTwp9ZAsE
+rbbBerlin.de,DE - rbb Berlin,https://iptv-epg.org/images/HkHwHBZ5J_2YHiiayMqp1Lz6FbsFSLRXnqKmiQEag48VKprlOzbjAVtWaexns0olXvdieyabRvmOIuZgGu3Ib5yulNjq-wfblrGrutvtOisWmWU
+rbbBrandenburg.de,DE - rbb Brandenburg,https://iptv-epg.org/images/VJt_LPyc7sXIt02EPXFrwapA-Ob1cwlMhkVBwz6TKi8bhyxNvSDM25eOduH1DHGwbft9uspXQUPtDYg7vYzs-URI1bpjtR44HiGVMso7iuPq7FGgH655QA
+RedBullTV.de,DE - Red Bull TV,https://iptv-epg.org/images/K10bY9iya8FO8S7EqCMWv1FNjMPgaLqSD_VcQJ4tylMbxLQw3Cluycl9PMdkvUbuTK8FcNvl971uQUzAloHVbGe2etRGQlEJLUkN3szA6fJ92OQ
+RegioTV.de,DE - Regio TV,https://iptv-epg.org/images/MBiLrmAE-n4MZV6ALFhB-uG7Cx62kQbyueQjlsR8RJ6pIWsALGT6aPKnCrMRsizyBTLyxcY8I7pXO_W5NNBOlBzAK22k9Wem9BTHlllI08oB
+RennsteigTV.de,DE - Rennsteig.TV,https://iptv-epg.org/images/_EP0RZTQiMO2qYO7gOTtWzHOvca4VQSPODybCLD7r3PyiGk7pHjeYPigIJeqHxqGUTWsheRzFEGN7nCKTl3VxhWUAAWlu-WEFNvGSpCkVifRqvAmyQ
+RFHRegionalfernsehenHarz.de,DE - RFH Regionalfernsehen Harz,https://iptv-epg.org/images/ek7b-J8hIupZLQgn90aTv0a_9T4NoFbOLkjUA-f2KHRQSCjGxtKTnUosMxps4e7d9sklmd8It-2uoObn1jX9IBmIalFAZBXdiRvHl8hLIiKtbekpf2_rcY3Z-Yj5Epxe5ps
+RFO.de,DE - RFO,https://iptv-epg.org/images/CcVXOpMfsKIrryJy0K0GFUQbgCNzxwuUCkiKcMJY8z6Oqv9xp_9CLLpI3hfED4i7w5pVq5YSaA_jkCQVXCZqaY9azUL7jo84qBk0Rq8
+Rhein-MainTV.de,DE - Rhein-Main TV,https://iptv-epg.org/images/6IgcBBFxZUcjGyiyGu8XfcgcKHFzLSJiFegqeVzLNSq5nffTFP8Cliy6-P421njXfD68K6Uat6fisOXmF9IMmvwX8ZerTbTfzxKPiYJ-h8baelzLc5M
+RiC.de,DE - RiC,https://iptv-epg.org/images/z92rqWGM8oNoI7OrezWaGVRKK4R14C23F42pSa1zDURV1XvKZ-zooerDEUO7KTMHJGKD6oYzgI478JLepXsdPCw7bZCX70W-wEi9PTY
+RNF.de,DE - RNF,https://iptv-epg.org/images/ORvVpd_SVFGtZ29MqQSAEmTfvRQ-C7dHFH3KzGjokS5FSsSZBmkQ1uj_Kx5jaglvc52TKeLdsmYKsaHF5_bLPdfLsrOfMU0U2KJm89g
+RockAntenne.de,DE - Rock Antenne,https://iptv-epg.org/images/YdsbNMchiBaNNiI_rO11YaKmWTxbIvPhd_B5sz7UYLeb2f1EBRiRGQfSg2znO8-yaN48jbeukwprXN713orpfSPZejcWRnPjHNWYKru6AsYZOagspg
+RomanceTV.de,DE - Romance TV,https://iptv-epg.org/images/28AmRcJk-0UhHJrYE_7hU8FFFNU1JdCiuXbskbFr4-n9odcpkk-6IxQEP087-3fOPfHcE71CxZxegMIY-kTNw3oYnk8MO1p_9ORqmnKLZspqClg
+RomantischeFilme.de,DE - Romantische Filme,https://iptv-epg.org/images/SNF8JWdjs6Cof9jdL71C8ptwr2z7IFZTjVt-evEnssI3ba2ybE1keGOlXDevi6jQBp5rM5HZ2YugIhytM311oVXUHPHvtTxrkNNm33upFBH3Dme48OFy2Gm_
+RTF1.de,DE - RTF1,https://iptv-epg.org/images/ITA1OdwM0GTiAbz94oeiQROx3xlW5qbHSGDB4ihpvmyFg_1sPnj1sMl4mUxQG5dZS42m_JRxiCLRBPFR9cdOHaGUmQwO0yew1bbZu45B
+RTL.de,DE - RTL,https://iptv-epg.org/images/dXyW4BvdeD8Q6irHrVpbW_0QmjMO1nTE4tM3utXL5zqWg4Ngym5istSE8jFX3ANtETLcF1sCxc3RmZ8rpAubBxKbFbcHT761szqIJa8
+RTLCrime.de,DE - RTL Crime,https://iptv-epg.org/images/DNKLPIs0XKUQiIVBHpYEhR-BRGXXkvF8n7yu1p0CMNAWYVYzNxcCuFPfBrqHWHlpbGMfJq-vg2lzBV0r10qh_uv62NsfofX8UvuMU2GYFVgiVg
+RTLHBNDS.de,DE - RTL HB NDS,https://iptv-epg.org/images/3KTC-VHkebBht1TWl6N9UVCUdV28fk-vyJALr1r-oJsi10C1PbN3Ea-kitZcIuxVHt0OCGTA32fYFI601Ho5UaR8Q4sroDNgzuzGxnRpH38ORw
+RTLHessen.de,DE - RTL Hessen,https://iptv-epg.org/images/uZVtAOUc--10t5gk4YPY578zpyQ3oJTDLn6h5pkx3S40Rdsiy-VzVAqRQDG5RjsjDjAs8fcHSA66gZ7Px2HR8daFRxkGH5No7vcXfSb2JnBRgcw
+RTLHHSH.de,DE - RTL HH SH,https://iptv-epg.org/images/SEV0WRIsqTM-8ycKXXXzyA4LITSLwMHJIZWXBrrbroW8QFXfUdlyl8j52zy5nFUpQAKWxH306mzrfsmIAG_01X4IaPExRaN8u-NOzkaTAZUJ
+RTLLiving.de,DE - RTL Living,https://iptv-epg.org/images/hRXsyGutjj6FOYvTmWCse28SZTx1KTQGKhX8a9vsdOGa35IzGed1O-TKptj116Vr4nLaxhUUhnT446w2oUQ-kraR2MljMtzhblL_60m1ZNg7xzs
+RTLNRW.de,DE - RTL NRW,https://iptv-epg.org/images/fTSw876BSN1F2zqrri4ZW3bmJ0xIrTIf4wqWvRVq-O4B33hbg2tLY2kQeRSOI2rbTehkX5CgzacS_EsXi9ZgBup0Mrl7QkiIXUvHcGSeyp8
+RTLPassion.de,DE - RTL Passion,https://iptv-epg.org/images/KrkqvkNkxp62rMIMvhjrm10kZBJ5GwgUZS4JgvJjQAyjpN-yXY11pbEaMeSaTmnqjhZDpCfS45jbkvnFC_tWz8RdhNc6aBXUcnqve_mnHyKwL4R7
+RTLUHD.de,DE - RTL UHD,https://iptv-epg.org/images/IbiSXYKPCEpcGMAazpL1vxGaVVBBy2ACnFZlwCkhPEAbLr4Zsp6QcvISgVx4NCkV98D0xkt0ujCSn5UcjFHa19VaT-1ZD0JeodrTRa1ZISE
+RTL+LIVE1.de,DE - RTL+ LIVE 1,https://iptv-epg.org/images/vRhWi6TiSmlQoZKWFYlSLY42d_tbkJlNx-ucdZOoPcZpgzLB5zSXlbY9vnD49Sh2uOSwWcKoSyacjYKZQ7gts1DagY_FS5Ym14S2xuSYFwVTrhtFYA
+RTL+LIVE2.de,DE - RTL+ LIVE 2,https://iptv-epg.org/images/PZF7i4aBVniiI7IkhlBBjCOW_bfYQtU1XhGs7P0jRT1XIbX3ziaU0wbVnFTlSX4Bp9POfHRYT7XGEga5F4p-gm8pzKYjPxusNbHlrq1j0ri6C5N8hA
+RTL+LIVE3.de,DE - RTL+ LIVE 3,https://iptv-epg.org/images/g6T_JnML40d1O_YYni6mhpBXTPGXybYwkETLm7-YYR-rXbWgO_Y6jsgNnhA_hLmvV_lWYpXO8ATDL_a3vxqE8iDYVFIJYlihJTp_wjkuSjjXApvE5Q
+RTL+LIVE4.de,DE - RTL+ LIVE 4,https://iptv-epg.org/images/R8jmlfirbky6SfJk7hiCoS1HDpLWbeCPi7h1qaLp-CgCm7iuhSmDmmA3XttmMOb5b1Lyo0EdlrDOTpoi_INWBLA01f141CcJ-Jq7mzdv1Lus_th6Tg
+RTL+LIVE5.de,DE - RTL+ LIVE 5,https://iptv-epg.org/images/V2mzx2Zq5H6tnqm1QRmky6xnMNHc1k-LDqOXdOtBqvXPjVFmz0eZDWQVgCB5XYi98b6SGM4T5conQQDUJA_WM6dxBBpp3UtYU0qI3PCWxxUSxNe-1A
+RTL+LIVE6.de,DE - RTL+ LIVE 6,https://iptv-epg.org/images/j-T7wsybFiJ7AID95Mi28b7A_vAJg9HJUeUf-Ga8h2H6QB0bK6c2A_A0rwuEHKv6PIXlXrHLkmrgfbxbJh5xBIhm-c_ynZqlUCjcODsNEWI6-dgHuw
+RTLplus.de,DE - RTLplus,https://iptv-epg.org/images/nD5kfLEUkk1IULb7re-t8rR1YSzcYkPKda2ODW4466bSZYaoSRJDPXJ-46Gckva3NTX0C9SAr5MY6PTahUW1W9rhOS0rMLIAuMyGlcIa4r3q
+RTLup.de,DE - RTLup,https://iptv-epg.org/images/NLnjtEMhNivj3VYZ5my_sn9dXj0JtU0qJOb1K7UbIt-UpE5I6jGqJXdcxij1J3FkPc-aB7wxTleCJBzXq4N95ao8JOwN4QmH4O7_mC3KAA
+RTLZWEI.de,DE - RTLZWEI,https://iptv-epg.org/images/1o_q-lzCEBjwgID2IMRLaESWm2L1hVwj0TdWxdfLsBeT3XJRjldcAJpxoOB-60lyTStDWPg5v0a5xQV46kW0RO1yVEGmTkRDcc59mGhPF8zE
+RTRPlaneta.de,DE - RTR Planeta,https://iptv-epg.org/images/muPEnYn74e2AMh1VBhlqhFhOopCXXFh9fteY9pGxLdjGvm-GWCjp5ZaZH6SgrzrH58Npvw0jOil3mf0EqxR3pg60xYvsuw_vN885Nx4TWo6uPkO5
+sachsen-fernsehen.de,DE - Sachsen Fernsehen,https://iptv-epg.org/images/T0mLQovdW0F-dvgMx8dn4gY-mtrk3CXDj531L2QDc3mqCx2c4INKMneJoU4wUc-kdxUpr4H-jmnney3Fn_SPzAcALqnQnG83nLCfaJBg7tcJlYZHCFOF5NHlHg
+salvetv.de,DE - salve.tv,https://iptv-epg.org/images/KbUlFLav0IKi3IpOOKVOZZHcyprAeF1iauzoF74IXosGBvPD3m1vZ0TgqnfXzRjEss2NSM9s4zZiKcD8FpuqhDv7ORmBELmm6Iph1jQpVKse
+SAT1.de,DE - SAT.1,https://iptv-epg.org/images/JtE3I_bXaQ-Gc4wGeEEvO-NGrGlU5f_Mzy2LcfyznTIT07Hk01D4pFU9H3igqoRS5G28kXruG9yOglc8Mjl5thCPflYrD0xXhxCHBHlS
+SAT1Bayern.de,DE - SAT.1 Bayern,https://iptv-epg.org/images/GdnolYWEp2FegRCXsLnNlO24DncZfBFoKduOXR-hwQttoNVuF2QCD8FX1TB4DX0GudqCwCMr1HvMMxEXHOQW9OFJK-FTDuG6m-ziB1uT_toRDwXy
+SAT1emotions.de,DE - SAT.1 emotions,https://iptv-epg.org/images/qq5EI55w6_5yTOjFS9ZPAZFQBNbcGzdZrDW0cJBOUf7rsFpZraTfbVrKQ0kJ43IR9BCPkzA_cimCCU30O8OakfjRcn_bzC5ejgniXsMKkLgfN9ehgeU
+SAT1GOLD.de,DE - SAT.1 GOLD,https://iptv-epg.org/images/GRMYkJ5T2AbfSRY3V-pl_UYjVpwglQJ4auwq9g0c2KVC9Rn_8UaA7TQYNSVxe6TaHCuZ37a86Rlp2-2AaeumJAh6GAKgP9H5I-W5iMn2Ha3ITw
+SAT1HHSH.de,DE - SAT.1 HH SH,https://iptv-epg.org/images/W3SMoAEwBOdVGDS0BpkHPMzuhy4Eqyg3StpDpU1Fm1OTeF15PQN7oddTxLIBbX67aOmFKC8t93acsHcfWGtZJbNeGR14EzyJiwHvUA3527rwLg
+SAT1NDSBremen.de,DE - SAT.1 NDS Bremen,https://iptv-epg.org/images/6bJDucbfMJ2mGMBVlMW7dajMRwWl7Vc0Xoz8jn9MwUNWBQCVwVb2H1SiFqjK7ctPy75igb8wF-cWix-gfCDpCpZ4hVwFwOzIWc8SREpYh4FREAK79w2f
+SAT1NRW.de,DE - SAT.1 NRW,https://iptv-epg.org/images/_9Cq0SELaXCbmOR4oIes2JzmB3kbLuv3EPonFT5WE6ZC7ljaiJJ5ztpzYLqXjaAwp20iZdbkKs21qJu6HsLyP2F7Cag1wPU6puQPn3IaBKhe
+SAT1RhlPfHessen.de,DE - SAT.1 RhlPf Hessen,https://iptv-epg.org/images/MPgCfzg7qu9U8Nw-flAf1YvEK2z450-2WDKQs6Y_IooulqKHg-zmEzzGqPZY3tfJEoelpL-4c1oeoSprPpN3bJpZy9LtOvEHzVh7klkLy4dRo-RhqCmAW0Q
+SCFreiburg.de,DE - SC Freiburg,https://iptv-epg.org/images/Wn1pKTLaf8WwAdXJ--qroheGw6yMx675Yf7qtAeYnUAwujz66gE5fgInchLZPK5_3fVeROHJIJUfBSwo26yxy6fNK9Glbqw0ODV3JXs8BN5dk1G0
+SchlagerDeluxe.de,DE - Schlager Deluxe,https://iptv-epg.org/images/KLEBFFlaV8OYCB_afEPdO8onudClD4wqTgi68r40oPIXN_0c6Yu0Le8eK8rCltv_Z9UT_K3IutUcYtc8vjCyfTmW6h3sxC0jX3tRpsLBMv5NKnaj0FSmwA
+SchlagerparadiesTV.de,DE - Schlagerparadies.TV,https://iptv-epg.org/images/YnKp7ygfIVTQhm8zJLKrS5i8JEaOAVIH5K3HWBd3z5TvBHDaUeXiz9UyDLF3Pegawjp-ICNiUwJbEaC_oLKYxUNJYiQg3Pq5KzLJQ4UmO_7_g2JwNyGXuMluydE
+Scooore.de,DE - Scooore,https://iptv-epg.org/images/c7XPBZ_Xq5-G3GAxlJDz2YOJg3P5VvZeN05Oy9LlQDwx_F2wElDhLdqgWrWrjpVwHOYuUAdDwibARXs8xMx6PGDBynzNHLK_K-SnwovUGJmO
+ServusTVMotorsport.de,DE - Servus TV Motorsport,https://iptv-epg.org/images/7NGM9jnY1i0P62iDLiidd7B34NIwqUHjt-_aTnrpcE0kijOx514Vwis-Q-qUpjX7sAeokH-d9VwBwBdnrKqRyTR0Y9qLyWZd-7gDc83rVbbGaCc0foFpULreKxQ
+ShowMax.de,DE - Show Max,https://iptv-epg.org/images/QJ9up9p2-HzdbtiZKho00IbhEvHPPjciynphzXJTWacxCCC1asKeN6MTUNnJUMGP_-OsXlJUsUUeRfsZglGfTCEFqTKLeArIx6sMMvAZ2aB2
+ShowTurk.de,DE - Show Turk,https://iptv-epg.org/images/Etc-gf6_ojLQCgqIz52iHV4BbYy3BgkiUdqzXW2itfdqe1LQnVASq7mgRIf9EaKWuCDcGCg39gwYcCX9f-ixd7wntF5gL8dU9YJ0gO4YUOiqSw
+Silverline.de,DE - Silverline,https://iptv-epg.org/images/5qx6ODOGnHByXG8vApKhWDbbGjqyjAyFMJhlVF3ZkUrbvLhNuY13mKtJB8BQIPVO_FLilm5DdxkhdQ_eJHVi0wFO_AlOS2AsdhJOm52-Dbu3yWYo
+sixx.de,DE - sixx,https://iptv-epg.org/images/0Yj_2rdsyXybkoFpXIWmmDbl8VnuI0vfK_QHsWoMT4qIfWaqQCpatSoFb1-228AfyL2opoKWbl7actRCOoepJWz0TJjzo_tH-hvOBGF1
+SkyCinemaAction.de,DE - Sky Cinema Action,https://iptv-epg.org/images/WBsKRBCKRZ0fEM0d2ZQinbUPHBWvTUirTxF1GBbx7zjwt-dSyDP6KuwZDwWwp85naL0sMNRKTOTBxuZUCJW5llTq2MkLUq_dhyzPCnAbx5y6q2QtEi30kdw
+SkyCinemaBestOf.de,DE - Sky Cinema Best of,https://iptv-epg.org/images/UYPPTgWVKR7klR-0pRWqZJUgkS2w3WbcF3LvBA54PAXKbIu7VU4dhMNa_n5CMY76A_PWaZTQQT8j-qxvy0dtbf4GyZILckKfnmat_B5_PrHRDrWBmWsEeSE
+SkyCinemaBlockbuster.de,DE - Sky Cinema Blockbuster,https://iptv-epg.org/images/ow6YL9F1EA-FeLM6d26quaapGuc0bLdsQowZ7qmS6H4RqkERHX28mpWHJ1YAOpsaWtPeoKrTeXSzgbHSVS-eHKP5skIcMlycY7GP4AY0J5BBGHq0aPq4nSO5BFeXig
+SkyCinemaClassics.de,DE - Sky Cinema Classics,https://iptv-epg.org/images/MN7oIZhFLdd3iSWHPK6JlytCCEVd55J_5hu5cbwcKfos6KQ-bDjDKSS4ANs3FloAILaxnKY0JMrWeAKDdw8FH7wMgmNUbgjAatyBGo85QCFQ222uqveyy3a0hQ
+SkyCinemaPremiere.de,DE - Sky Cinema Premiere,https://iptv-epg.org/images/7elPIkCRYnCd5ldKhicoyIqdb7DXHip9vojQ5J0quOJl3IAUko8usTvlXkre3hqShyex2qOccRxAfTPCb2hedjRGS2VzX6E5ERL96oI5yFEvN8RJ86vHjIo4Tg
+SkyCinemaPremieren+24.de,DE - Sky Cinema Premieren +24,https://iptv-epg.org/images/fgvRA8SjopCpBmRgmP5ii_NnUol5fgBITduNdTvhktxh3IqtvujJZVYXLKCtjr_zogB0cGy8GPReBskNmHUrsbVIBZNkF3UeNDYKJMfj4vK3ZoQB_6KryRZqi2pC2vvYRQ
+SkyComedy.de,DE - Sky Comedy,https://iptv-epg.org/images/xPL9qxVkB3nzO25u_TEvSJwpN0Ten8G3OeVf2n23On5kuXPSDTFMY7QzWxqUYGRTHpfcJU6kY8QHWFuEMjSGe13YXfMVn65VvynRPb1XOZEyKJo
+SkyCrime.de,DE - Sky Crime,https://iptv-epg.org/images/jwMfo_-os4MHqSm3KC2chED1faKD4qdoK4eQJZhR8hYycbPaT6_-bPHvfewqFAHzCK8_3tWWc07xhxOPMgG6W28-Nc8cqpVH2ivBB-ZEZAqu1w
+SkyDocumentaries.de,DE - Sky Documentaries,https://iptv-epg.org/images/J2XJnxPHHQNSrvRfuIRFG7mw_ZTyvuBxfFmSM3L33gv9iCNbqlCjMMjZsV9KRZfW025xLt6lTkTayQ5llrVzBOyB0ca6eBgZfZKjI1t8RtxPGy4_DAFQ3KE7
+SkyNature.de,DE - Sky Nature,https://iptv-epg.org/images/aGrOfZxn5kiM-pUVh6tIT49FbjnPH6nc9_525RgXPLOd-0ZbGrjvg8OkhyWBKBqV4qDIzpwBwyT2LX-nhjMBz4jMWJvUne1Maq9MwhPa02pzXpA
+SkyOne.de,DE - Sky One,https://iptv-epg.org/images/22CFENIwmqHpvhApVcWQaH8mhpddy7GkiDFXSKALQBkVO1kOb9nASUuXlw8LWg8eZXNviZ3ZddXKJ4bL3_uQtPhwequ2WL1qfDxEeoVE52A
+SkyReplay.de,DE - Sky Replay,https://iptv-epg.org/images/Yy7yY76bhvj_I-kBenQL3Yxsmv6alD4e9bRtBXNgbB2DSE5rhKV9kT7WZaK5_vtrYF-ZL777XuBWyxwoT1ym289hTlbAErv3HP5UxsJqWL2RmIo
+SkySciFi.de,DE - Sky Sci-Fi,https://iptv-epg.org/images/ODfQihNOy1nQtdPD6R_BjZ-fPf5TMbCm4zHjNWq8pm_ltkH_gAHTT0d07npOzQtuFqh-9mCI0FOP0HkvatevJnZuBRA-GGd7bDtndfwuob3-nw
+SkyShowcase.de,DE - Sky Showcase,https://iptv-epg.org/images/vRvkSFdAQyfUzW57HzhJjEAz5nhh5mfsuwCMHPb-mBMhPiIG4PCVrRzMruclRlgf7midJ8LmABKUrrmNqfmewEv-VWzWRIzg8PpTH3cyQajeS1e8KQ
+SkySport1.de,DE - Sky Sport 1,https://iptv-epg.org/images/j7J7-yXRqfOGPEjiRGVz7yWbVR-ca_imdwEyUi-QZYDvprr0KWeHlJo2HC03SlG2yLFVyi4KxqKH0X-ia0g-SR9_0isqSkHIHCZiq38tj9GzTjI
+SkySport2.de,DE - Sky Sport 2,https://iptv-epg.org/images/Rs4w4cVOP1Pbg8ZMbSKUoLy-I5KwR-tXA32M0ujLw7F6tTUW9Ivaa1Dt8DdkTsb4hox9SvL42km7qLRP8EzXAhtizwsMcEntKiv5kfaFgsoptlE
+SkySport3.de,DE - Sky Sport 3,https://iptv-epg.org/images/cnMBoWCWRuYknctloDS2Ph4VdDiriF8r_nOT1ea5CB6ee5IDmFyS_skeZp6b1_rR6kVgKBs9ODI_WYL5mmptgCvrcapJTFpSZwUL_vI5DmQ2XDc
+SkySport4.de,DE - Sky Sport 4,https://iptv-epg.org/images/4XAOU-Cmho26UARIXRn0mJOzrnk1aNXGpxx41jIQQeDwwMox9yQp3aW-phTUT5lEjNugLIxbWru_LxybZI4_NoZmDLheD6MV4pjKvjy-E8MNtcc
+SkySport5.de,DE - Sky Sport 5,https://iptv-epg.org/images/MRW17JoZQRrvw1Yx8-bbiXUH92pYVQgsmlBqI9M33HR2eqTp1-bcwb7wH4WwX8lfN5ocy_XiuqJ92Fss9Z-yWFEvJ7Vl-MUInlfeBP02HUBkamA
+SkySport6.de,DE - Sky Sport 6,https://iptv-epg.org/images/E34PiPw2-bcBCl94X4Zi7gBsH_tmVJSUKlwI8NvAeRKECCkPSOlFYsOsc_VL5xJ4DhAa9qO48QqRs2MMCxLjQa9Du7KWBNyUk8Ywi6wj-XDeT9s
+SkySport7.de,DE - Sky Sport 7,https://iptv-epg.org/images/h56LQZgkKkVB4HTec0p1P9WwmptD7vzljftz9NzzzIn7HMzQoJgpajQg7oLU1WMR_BI0W6arnsVVt7HaAO_fbLUKxP25WJOLyd6o9zVOv2eijls
+SkySport8.de,DE - Sky Sport 8,https://iptv-epg.org/images/Go4zJHzte9DK7FsWMHqQkqfSQTCHx22L5GQtjfQY9MwMjkaPj25CUVy2VsdbozfWyw3PMaTcOIWFKA1_wBAXCOlg2ZO72HEUsMCzopqsyl5ZnH4
+SkySport9.de,DE - Sky Sport 9,https://iptv-epg.org/images/8aW0x0GLdNk9lk5Vi6hWON_kWxC7B9iotuy2Tsp71kgI6WztwFxU_WLKA_lUeWG0pAmmHzfX3fQF78Iot42bHbQtg_tkYNRZRzac6qo-bPC1_Tc
+SkySport10.de,DE - Sky Sport 10,https://iptv-epg.org/images/QKSRT_logd75qpg8atDtNLMCubdbPtLLYZU1PtlnePjxi6zsk0PtqiKlCRSqOg6MjNAqKH1QOiV8fGMyQQ-EA78sSTft3aIhdKQLSsdtFwPnX9T_
+SkySportAustria1.de,DE - Sky Sport Austria 1,https://iptv-epg.org/images/nJzp1McVpyptTMZoPpxc1SnSb8PfpNV9S-5W9GcXqVWbQeHw9F1OSQZaHW7FcnD3sgd0YH5UF6AYK-nrl1Fn7bT73w6RoZueUY6J5HYjeFAQoDY3ivXL7Y5f
+SkySportBundesliga.de,DE - Sky Sport Bundesliga,https://iptv-epg.org/images/ZxWWbF_WBTKI1SzMhkDiYjYBj5wQwm4o1MB8oO6jbP0izMjl-p5FF7mFXtOzZ8ImnN32XGIhP32aPTzIuGA7kYcmjiyzZEAUGTIXnTA0SZwQ0RKjjmw3ZzDQe3A
+SkySportBundesliga1.de,DE - Sky Sport Bundesliga 1,https://iptv-epg.org/images/IZhAtI9yKW-CCNxM7X4nQ-4unctPGydGH1mU9xuzkmN53tra4tbLL7rxN4rPRphGoOXEQG9prQKYnI1z213fbYSvyT_NMUYt3GDGzDi1RSPGjDuveCsdB4zrgCJU
+SkySportBundesliga2.de,DE - Sky Sport Bundesliga 2,https://iptv-epg.org/images/v72e34uB7aahAZYGKZZ5WR7MC76h8pqVpZvzNiptrAGxyTTt8VD7PAm4RSKaI40LloDLSXWS1UKk3wcY6YlRt9YFXxR6wOzj8HGqxl1HJP7yH999vbVIhWBPwk8W
+SkySportBundesliga3.de,DE - Sky Sport Bundesliga 3,https://iptv-epg.org/images/0HGjMWtk8T7FB99NWNHmCZvRka8o5eIYL_JUfmqRYtMnQcSa83xXGL3-cOVavtG7g5VDCmz4zoa6nzmXf-KLlaJJysyo5rgkgJOAl9b5I4ccmcWduXbUVof_4SIJ
+SkySportBundesliga4.de,DE - Sky Sport Bundesliga 4,https://iptv-epg.org/images/37_ySkQGSfhLvVzMP3T9qmdzDKP_OFCJdqIUk3bfiupn7f8JrSYyAqlWIbeMDLTcR0di4pcp-JUWqk3W9qY4PheW7vOO_eg0_libyv405TZ6AUiOj0exnHS2zYm_
+SkySportBundesliga5.de,DE - Sky Sport Bundesliga 5,https://iptv-epg.org/images/pISu5vOpBb38iTHvChuAIIc6qp6BR2h4f54KbCUA1YN_Dc_03z5cvrnihhiHXLXd5Q2nMmetSjaq5xs3I6MUbtvV48zkvs0Ys3TDIVhS2Os3tm1Hslxq24r6ZiqZ
+SkySportBundesliga6.de,DE - Sky Sport Bundesliga 6,https://iptv-epg.org/images/NIu1nZZG_SrqbWBrwtjkTOM2Iqrr0MW-GOMvxhWQU6Nklplj6IbmBNZe55nHy4TYHoou48lUcTPIhv21H_ik65icp0In1Xty80UtGGa29zTNxey8oDnoxS6m-tc6
+SkySportBundesliga7.de,DE - Sky Sport Bundesliga 7,https://iptv-epg.org/images/WzEFLnkgxtyk-KeJEbyEHCuYnvZHOh_cF4-ucUyRinbL1PlyyZnv1wTkR0BDnHNeL2ECoXRp2UL_XvUWfaLkNF7vs5MDBXNbXZGeCM51rpdVAv9ehAzjagZjl8gO
+SkySportBundesliga8.de,DE - Sky Sport Bundesliga 8,https://iptv-epg.org/images/QFrzNBsIjgAuqFhx5D7URO98N61iKK6eFGn4J_crZkQb1a7pD6qKM9Vfmbtoa8OD5VfbehlScAM7faJR8HuBknwjApW2xPsb4VI8p7daYMgNcQpok0v4FEpG6HIR
+SkySportBundesliga9.de,DE - Sky Sport Bundesliga 9,https://iptv-epg.org/images/fvxOOoHUBiEhxQWXINHdLLhCBM9KVHk-z_xa_t7b9G4P0G454z3bCh7qF8u-Xu-NnHxtxmxRHLnT39z1OD8gQTTcx6MbU34yN_iHRUZx_mx7hbL_A3V4yHxeSkdO
+SkySportBundesliga10.de,DE - Sky Sport Bundesliga 10,https://iptv-epg.org/images/blKMOq7Bmf-aA0nYa0eMn3PZnhUApjzL4svMRVgDsA_WIfgC2rBUDBB-g1VbICRqy8DQzc5Tb-fdpYcQSUemuF7AXADQdep7vSC0fiwU1ewBo8HNi2MUrkAfoi6bjQ
+SkySportBundesligaUHD.de,DE - Sky Sport Bundesliga UHD,https://iptv-epg.org/images/Fxk_JZLa-jak5X6IuHMNo9s-lPynwsph_UOOiYP3mxoZijsnXQqJ8RVNw5P4k6lPMtribsf1oMTZEVg__m1uQlxvcUnL6NqmKXgUZ17ZlxeAclYju5g4XVyxPefuBfk
+SkySportF1.de,DE - Sky Sport F1,https://iptv-epg.org/images/7_xjtMSCzF1SS7XUU9THdGmTe81FSEhd3wCOn_U-w4VVgX7cmLrQsuWi7Op6UBYkz6OTKEYNr2oxb1YMWVLiW2CSPkffoaMPo1QBMm95XBb9kT28
+SkySportGolf.de,DE - Sky Sport Golf,https://iptv-epg.org/images/7kNUTq7bwdMHyl4QbVSdJUPVwletndqWkLhG-KyGrlwPF_FpfLZs2V8G6u9EMxBfnGx7badIEDddkeSJiFzMkM8-HkY7wYVzK9JKtkGvNlU3xgwEh6A
+SkySportKompakt1.de,DE - Sky Sport Kompakt 1,https://iptv-epg.org/images/7jWfGCCZDMYVZ2fNi_sHalIem1KNoq2sz-RTj3jYmY21ei1sYhl1LLQtxLpVhkYeIiP6Xcdj9wHOen1_dAG4DiojBKrUHY4gXk4nwybz2EBFIy8Gd9uv0ZtJ
+SkySportKompakt2.de,DE - Sky Sport Kompakt 2,https://iptv-epg.org/images/_eG2r4lcQj3LNfheHUcSHvn6oWyCP94G4vXhfrW-mBc6JMnOvnCgURr7x9TiplPEayF-6TwOqcQMoQY0-uWBHa3-bwAzX-w9g2x6wNUOIZNzLotUA22UpnML
+SkySportKompakt3.de,DE - Sky Sport Kompakt 3,https://iptv-epg.org/images/3SPEBJmAezmeiDGOoewyd_rhwTt5vNUH-GjVmffQ5Fz3MMtO50w50qCkoEtua_JZ9YzOcFi6sXyEdCvlcP8NoAMXxAb-nhZafP4Ny3zEJCAp7H9Elv3ni7FQ
+SkySportKompakt4.de,DE - Sky Sport Kompakt 4,https://iptv-epg.org/images/ztCtcdWvDYVUP2OxwqIysoiV-97EyjJrXHUo34BvIZVR4_VDoQZANbQr_gtQzKpKoZWo7CAP_ps7gCiU93CE1JIbimpuOAi6FBvrnFgGHxg3eDVMcFj3htlQ
+SkySportKompakt5.de,DE - Sky Sport Kompakt 5,https://iptv-epg.org/images/WzV6j0Suw8TMt0nX1yVM9_uzHNbBCxTrWB66AAknpJqS6u-2bqxah1APA-tlAlzOkvQalsIlmKoLA_I_K42BUnLGC2B29dcgDH-wbpAVjwBxm3qXUPY4VyIM
+SkySportMix.de,DE - Sky Sport Mix,https://iptv-epg.org/images/9OuAmamyL2nmjCc9tWImq13P8eIpBEwiY4NSJzuSUjWQ33hnKvWcRszG0ZrhE9Bh-YIj9hLGZvthg1Xt9tQ168uG7t5qMiplDHBeCAjQw4myyOi-yw
+SkySportNews.de,DE - Sky Sport News,https://iptv-epg.org/images/49bYeaxESmCBbttk5gZPsCDCpr65tVJW_govm6Fq7rOCZOQ4448D3glUnhcxW5K63Mbubh8UkoaRAJqvGk4nRIQiv4jjWEKZ9g4IBaqYcoKWylmJCEs
+SkySportPremierLeague.de,DE - Sky Sport Premier League,https://iptv-epg.org/images/6dU6I0VGnJ1mYuHcXKDa676l0DTG7o-Up_h-3UZf4haotiSvx6bvT9kBFDpQG51SCbuLGaczLC9KKGgKFJPkzjKnEjzzj9YTVoQn9s5-bMuzAfatDg4GB2r0o5tW8yc
+SkySportTennis.de,DE - Sky Sport Tennis,https://iptv-epg.org/images/1jR4wMUoE4gUBh-WSTzk9TiFMqm0VTOsTtFBYDOeq-NurqMSvvSCLXMrI9j7hupOD_P9VOA29JvYvbbxv7K44wqjwS-BnqYoMe4-v3DOLVXWijpsXJxd6g
+SkySportTopEvent.de,DE - Sky Sport Top Event,https://iptv-epg.org/images/khfIXA-AuNIbW-xzf5_XQond6FVO4OgZgjdFDgr5RdleyIAo2g8fHemMZ5YVzi5ryFvVHG0ftsO0N9fMAVumKVHZEVx_g3aeaPEUMnf-P7Ls1Z9AmkdBhCXx
+SkySportUHD.de,DE - Sky Sport UHD,https://iptv-epg.org/images/m_GiQ92Ono2hzf8klicHBUb7d90Sjiz9uZ2ji_ggR52ePI-APSh_xs-M3TCDvlnhidjcY0VdEJjXRVpmmovUK-TgWNG_MZaIkx74JM-UbJODHDaVcw
+SkyAtlantic.de,DE - SkyAtlantic,https://iptv-epg.org/images/eYk5z30xh6jlzYDSTGfvEaTn3J30X3BMiCyMOW9_TeUpn7kAvTwtcjcQh8BVyO_2t2qOLQ_PwjWZTCaS-DRFGJSNr7QxAZqs3bjiuWQ4l7hxnwzDiA
+SkyKrimi.de,DE - SkyKrimi,https://iptv-epg.org/images/msGTOi1lN8Y0UTkPeXgXdnV3g_2fB2BD7OTY9_sY-4gdyCFsVgdVhmbi_Yo2bKmgU0FLPCOdCng5XA1x8v6Jim8yH_6nezfjyrepgFVrm3r5AA
+sonnenklarTV.de,DE - sonnenklar.TV,https://iptv-epg.org/images/7AeLX-6N5V1bYIuPljYhjCSoFxIYgRoBovIY8gCplXTpjhcatQnZQA1qm9KMoMletyh831Ntx8sn1d-0a8kxoC6FpST-d-DS0aiKumsigDBw46XiU8w
+SpiegelGeschichte.de,DE - Spiegel Geschichte,https://iptv-epg.org/images/I5iW7m8aKwE4YhLpcswYBwpSWQ72fGZ7XmBjbNYho6tS_C1b5lPD75fwjDrHbK_U3fzYIU8ujR1BuyNJu2Nm3lAbX7iLmL_T8Jpl0eWcR6AdUI0-yTHna45pZA
+SPORT1.de,DE - SPORT1,https://iptv-epg.org/images/9vjCITuLUXRee57XdZDYCV71nnIlpR-Fu_I0-5NBVYouRGHjXvny7egNJQr3jyvgOOAl79qpMilhNH9byAUoo1eEeXXMacPHmQGMqW-mBbw
+SPORT1+.de,DE - SPORT1+,https://iptv-epg.org/images/uIiN5sdyLsuT8KaZFfhm1MszLMu2dL3u4yOXl-YHJKqPWR4CsJYMzBtDduW1AsRhXXZkpadgJz3zUs28FI88hW1WHJt0aChE-DrD11BfJzH85g4
+Sport1-myTeamTV.de,DE - Sport 1 - myTeamTV,https://iptv-epg.org/images/6SjzUNW_hjaeLMQvAuI5z7Dt5srGafEBD_2ZKOzK5nFdI9p65vuHlNW2UEVVeMN98voxyPUTtFq4oKNqczsdLgiPcObkHrpyPoJG9gLOuyGiyAaD4LZkp-M
+Sport2-myTeamTV.de,DE - Sport 2 - myTeamTV,https://iptv-epg.org/images/o1wOCB2Y8Ccm8AUThHWVg0CsWUr0YIhtUsZZ34AjvdL9cM4w4jEtUbzBL2W6wh1g0dbh0oe9XenqWv3y7_E6cJEtjll2HdIjFuULfjiR9ICmwH1uPkbOM14
+Sport3-myTeamTV.de,DE - Sport 3 - myTeamTV,https://iptv-epg.org/images/wKh__izE5Ctf199AOy7b4RN5DftZp8njDubj-k8J5ZPka0QnhZBUgcvFfWRlBN0GO3SWwKPkYzBsnT2r6QlVWQ5NqRsrFt0taJV8nL0dkz5EPED9Zb49lsY
+Sport4-myTeamTV.de,DE - Sport 4 - myTeamTV,https://iptv-epg.org/images/7gVpUEz3eZCX8laa2pYiAfrQ6FmaWtNfpPwPAPHeP-QAFD0fuL8MBboG9oGoPHF9f9XuaYtpWkegcLlZSYDiPHnkaGo41lhFXhsqG7r14dvfdvq0Uw9ATdQ
+Sport5-myTeamTV.de,DE - Sport 5 - myTeamTV,https://iptv-epg.org/images/dgQZPvMV5C_-nVMbDMhMdUk2_sMg1hmJyJz90VIN8KBSt4L_bdruAN_q2YaGynzM8_n9sLrCZbK_F_6ycY36JlCC3zAU8Ai9bL8HcXFEmnDZRkvJWjVAlWQ
+Sport6-myTeamTV.de,DE - Sport 6 - myTeamTV,https://iptv-epg.org/images/fovSusNRrBQrTUTHuFUrEcAZDiBETUTN2dA71ngk7itcXWBHFSONUcVpWOqRAqHFLM4WNm8wqNBr2wrJ_L4vooAyIDnYiPGLtldYBhP3pLETv65ZMrcNO60
+Sport7-myTeamTV.de,DE - Sport 7 - myTeamTV,https://iptv-epg.org/images/COTedrenDymx65vvH4PI4q9zj-ZGVkIeK2PKSAwWYxp566sxS7HSfg8g2j7rnHLlUiUJ-nWGn_IggDjt1pdsxhTpBrz1CQkjrOBPmZ_kVL5nXSwoC1c6KwI
+Sport8-myTeamTV.de,DE - Sport 8 - myTeamTV,https://iptv-epg.org/images/4c39zmhMZ_DwDYJmgzfzVsrQMrMoB8sxk6MqAtqBWvNo37qOP_LtsVOTnVRAxEjHjChBD9881DX82cnxaEo8YhxFjoU-e9zdXC7MLiT3i_NN--5rq0vVgTQ
+Sport9-myTeamTV.de,DE - Sport 9 - myTeamTV,https://iptv-epg.org/images/x3Yth9qeJ_h-Id174UVvTSr4rjGwRtgZ2OVwgtd4Zaq4PXF61ddLZq7wHAgHTj_WTJEY06uTSXC32L8qg2mOUFxWwxtkCEi8VJnqd9-ttB5C2qewqs6zWxk
+Sport10-myTeamTV.de,DE - Sport 10 - myTeamTV,https://iptv-epg.org/images/ZsN54YUZczv4tBydPhIkYxBzGEKqBXkT_EhTAVvCK70zsIIGB9R8rVrFNPku52ilPqg_yFq-gGCZvjUz6WSAbFJnm--LjycHFOW4IrV63NJDH-KmGMn9tREf
+Sport11-myTeamTV.de,DE - Sport 11 - myTeamTV,https://iptv-epg.org/images/E2YTitwkBg_0KKRxCQAoWvcax6vpClKzHcCkZXb1p8WuJjtOVmVIkBaHSRWl91ZajKtXtfbOGqfRCABkOSvfUeGqt9yUTNpnKwEBtYwT0C2pg_roCw8Mwwpq
+Sport12-myTeamTV.de,DE - Sport 12 - myTeamTV,https://iptv-epg.org/images/wfb3iOVcNbyxlQ-mtpRiA07HBb-j6rh8TCLNczBbQ0n4YrelpDiZlMciW-TpvQfMfmpoda1Lk1onbgojk95VCFn1_r19hhfWJf24_Ow7uncHKb34lFFy8SfB
+Sport13-myTeamTV.de,DE - Sport 13 - myTeamTV,https://iptv-epg.org/images/MmX_w8vwbII1wJTU9X59yWj4oFwOOsVbxTW11BgGgAPTon80brO2bhfVZj0aSLJI-jDt0lVaTFGOlpicaxOSHJoXpzBfVBKof5vOFQePlpmjSzJlJ6MV9WWr
+Sport14-myTeamTV.de,DE - Sport 14 - myTeamTV,https://iptv-epg.org/images/Pw0w2h4iyN_fsiRm1YetaWAhw01DWHbUfJCptFjVxRfXZobTKNB2OpJq4SY0DGY-Qa501pqLBDaVfQEhYlFaq5JcVnUoUH5MvQNPk4KSGvU_aJXR3nsze0EL
+Sport15-myTeamTV.de,DE - Sport 15 - myTeamTV,https://iptv-epg.org/images/wSo_EmE036-GRMg_QxyHl2aUQdSjyBv-i68BlPGByVOHP29cWKhu_QAudvnpkb58Dni8VUnf_u9FiPeGeLhaUtNowNN81zyfpYK7cSdGeMONOIfS3VnhTWHn
+Sport16-myTeamTV.de,DE - Sport 16 - myTeamTV,https://iptv-epg.org/images/vd1jJVxTD0xcDuk-Vykw9QZztWKuuSlkRsobRWH6BkAA5U9MXo6-gHInFPXkHr3bkLRmZ38RwRsiRc6tkuAp3Zn-nzUj46LVjq-SSwpZf9u1fHj-1lxkvc9R
+Sport17-myTeamTV.de,DE - Sport 17 - myTeamTV,https://iptv-epg.org/images/Pb_MH-tgKgxBBWvWSHBTwnpQODhUiR_wFu-FKyN8GTqg0NeQRKgGJc5v3wq3F6KD2xJ8JWpHx6YduqL_Jlm9rot6eancdLPPh4nhXVCywtTqyADxFiz0sefF
+Sport18-myTeamTV.de,DE - Sport 18 - myTeamTV,https://iptv-epg.org/images/7qC0QprX2eyA6zyk79hDJkGoLGeAMBrSRoIjxbl9NU70QfHJRjnF5vcMacmaPEYu23mQpXskojW3OQnwI3A1phBYwF4Z6NO5tPN2Wwa_LmIXpkw_R5sdDHGQ
+SportFree-myTeamTV.de,DE - Sport Free - myTeamTV,https://iptv-epg.org/images/wq-CxfgRBJPu5JS15ODtlr5QD8uSl-10JnlsdE_v9DgBmi1QDndBaVMlvfMyhbr-lACG2w0_sESN5F6c92G_TY1nXe4rcc3ObE4cBqZD5RTf4pAIfdG89rBeRSE
+Sportdeutschlandtv.de,DE - Sportdeutschland.tv,https://iptv-epg.org/images/sgWMsxG8YWYpgYLUwXXAm59LyHOBUGfsIBO_G43tNOXzY7nyQbkH1mWNHa2WymXiqtoUW00_CAYNuQ2AFI3HxG3HDX7xciI7KOSdMA7GndQveNAt-fSytrhBD08
+SPORTDIGITALFUSSBALL.de,DE - SPORTDIGITAL FUSSBALL,https://iptv-epg.org/images/9gnkJxInoqhLyHK0YVlJY93xlwHmHMVurrsMYpWVJCLvCP-7wVhA_b1LJLNam703ZFK0VL2FjUwmolygsgK1RYixCDR8NTWJdkvjvnnIk26tovxjfQqtMwsOa7k_bg
+SportdigitalFUSSBALL2.de,DE - Sportdigital FUSSBALL 2,https://iptv-epg.org/images/eQKK12-3oWwyZpN_3qUAgONQT1c4Tl0yNvVp1Ms8xiECpH2SrZyRs7BFg92tZHuW5lYtlv2fSK3f_83rh4Tdmr6Xg4xYUDsQnJkN-ZHX-GhlnQSTAwdaadd4DW0WhXI
+SRFernsehen.de,DE - SR Fernsehen,https://iptv-epg.org/images/QbKo9mtKNLuFJyj1rr9ULns5VtxncT1blo6XPHznliNroHIDQKgh6nitH5NAGqgUn2gGLPC4nbm3_s9ixirWwz5hTnlqzZ_7uzaPXvh-Rs9hWhHApQ
+StingrayClassica.de,DE - Stingray Classica,https://iptv-epg.org/images/9U_m1ItyWPjX3wKfOXIMkg_5LnTPRlBuzXHksqszniZeObFPQaxYK3n2Rr8BKZt44597zifNQ6P2lcaaypOiNLDw_KzHx69nIJ2ntewQkcxcQ00iNdGl7pGW
+StingrayDJAZZ.de,DE - Stingray DJAZZ,https://iptv-epg.org/images/iebaBpLCMSTtV6McwkXyMmhwJKpT9FFQbdqhAgA6KnWxokv0oiFmuwnip2Qnmvsv9PmxEf58iDkx5vkamqxHrQH0ApqQw8MW0rNglOYY1tAkqWDW7rBW
+StingrayiConcerts.de,DE - Stingray iConcerts,https://iptv-epg.org/images/RCBFl2Tx-S8TL4FXMuUMXAgPMdf8P4PJjxVPFtq_yRBHlDYO2cG4WxK4nQyqiOJKuI_zPA6VHwrvCGCP_NpeA3RuSsgBpCcRrYeNMYMS2whFocwpVISl8SkhKg
+Studio47.de,DE - Studio 47,https://iptv-epg.org/images/At2ehvllW504qS9E5KHdh94EPnugP8oCviAkW0TQvQZSSgFTImIa3DtYgSGowHC2NeqvkbZVb4YfWabMIJtPVoSJgHr6a765-IVSlH9uYpHk0g
+SuperRTL.de,DE - Super RTL,https://iptv-epg.org/images/DUntzqpJL_eJcQq1wgKkLPimhD40-C09QInvunvwLhXyisvVNypGS9gEHLysHip23cXwSABLJI-n-mRJduRC-aFQ5EIATC4ZPi93Na9CF8DTXw
+SWRBW.de,DE - SWR BW,https://iptv-epg.org/images/9s9J8UkVJinQrPVZ3f2gDG4_tLCWdZ6pVf_TSSlGozEfgyZf7eeMvFG04EMGwOcZ23RRh1R7OgGLZMeFB36kLBBYO8t_Ek5TCA2e9qzIWg
+SWRRP.de,DE - SWR RP,https://iptv-epg.org/images/gV5mZi5xEUvYqN88m1tDxoIko0TEN-t8fvEcS1AXGFE7qh6ED0pTWezBxT1VswKLTB4vQRqv4dQVZmy7TomtIQkFv-xhz-l3AgoEtzkF9g
+tagesschau24.de,DE - tagesschau24,https://iptv-epg.org/images/nCBfOVYit0-apkjv1mbPXJejmh1BzJED3nGVZxo_eJwd6ei_1NDPnfgkduH8nF5C3jRXIP1STT9chhMjLOGfb9DA1YhBC6Y4w9dIYEJc-qujWYeuI-E
+Tele5.de,DE - Tele 5,https://iptv-epg.org/images/-9Gb0XZgvvzbWRVk310UFbzIMPlunDqUdu_BMnfwYQZmxBzMLvmkbKOgGI4S6EVH4YTuXYNfx5vknkoPQ6DP6jQKwayrkTvFs6grTlqRMg
+TeleBomTeleDom.de,DE - TeleBom TeleDom,https://iptv-epg.org/images/LKExttr8Don_coYWuT5pS6dZ_Si59z2SfrS-aVM1gi45abv1RhhJc1edpewakfiR3unqn8x5r2laGCMZ_J2wpvarW1fKE5O-xOGN-3UpzWMT-hBSIQZbAQ
+TestkanalH01.de,DE - Testkanal H01,https://iptv-epg.org/images/5cHzopA0uH4etlFrs9aW4tsbbPd4aKHvaH_pzLoO4OMY0BbHPMycli5hxdseTYu1jcp5iksuaMw8tKW7L5-Zj116eglAoNNlC6PmoOhY7_-D1ew0Nhx7
+TestkanalI01.de,DE - Testkanal I01,https://iptv-epg.org/images/IM7a4wl-mLtfiGR-9SshEdBRSlNGppyuCXX8uSQl76whte3_aufEOMDrRQxsvary-RtjI01_CA5vZ-q0KUmbyOLyI0yCIopZdyFCVUgDr_XCL0IwXn7f
+TestkanalI03.de,DE - Testkanal I03,https://iptv-epg.org/images/QU0w4-rCZt34jsL6wLq4U9Ikn2P3kSOCeUKKtF2urr0E1_RKV9rpIDCEhSdFl_36F93XUJsc50iwF1vYfocVhd8O9JiWhNCXsMorVsQqOrwdBuB6n4QN
+TestkanalL01.de,DE - Testkanal L01,https://iptv-epg.org/images/y4NHE6oAJQQNA_WvPU8RQVzwZa3riiRVQwVTnll9vdpjre-kGneJ4q4Khfm3Dm30MWp_tbzU8QfT1e3lCPOvPS8MW1x-JPRhQy-utLQOzfVX1lu1wQ-u
+TestkanalL02.de,DE - Testkanal L02,https://iptv-epg.org/images/Y0QehibIYrqOeC3r06Bn3YjN737_-3LK-3_OJoZ8KzLuw0-uFGfU5Lqfw5SHq9Oo39zGgY4Di0IG4dZqBe4Pt1kzqlZ0m7rWBgxih12AAzNGxaHjAp6s
+TestkanalL03.de,DE - Testkanal L03,https://iptv-epg.org/images/pC_E4EeN6UlPIqjqRNeVsC1wiL-UfWj2Uwnu0J5NnB1kVDTgtOdyDqUifLMvdrXGzcdvpWfwpoD0l9z-iqCpOEzkPXCOAw_1uRRp7_tjd79Bmy8GVqI-
+TestkanalL04.de,DE - Testkanal L04,https://iptv-epg.org/images/zDVzL1AxWjQbXliATyPK4bFWnVWDRINeSnNIeETdz8iPWvnxF5ri4MTwYfnKSQXzDm_TLiLb58twDsm9obLz1lZZbh_XCt7AoVAd1HP6qGw7a4y5MZGm
+TestkanalL05.de,DE - Testkanal L05,https://iptv-epg.org/images/Lr2Ln21c3hnSQ4jFmAor4ScobctDK_DI2s9U_wWfwSJLMt7KF53liL88z7qvUQlRz7n49OajmieRbc6FXFuiRvkDW9eBn4esCGjoQ29lnyoUc4ZEfA7d
+TestkanalL06.de,DE - Testkanal L06,https://iptv-epg.org/images/AjauHDlP7sV3JqG8bvDP26gFAu92GtAdGiqgyjVcg5uJCh90AO0qn-hOS2tfNYdI5NsoqZdOvr0SONmhuRgqNwPHM40da-J5rQHw7H8i5MekXkX-3zxS
+TestkanalL07.de,DE - Testkanal L07,https://iptv-epg.org/images/wI8Svqi-P-vPDtXDfl3COFR1z0GGzohfN4w4OvqkJNRe_RpmBVYGCDEMfYt9g3R6QPEuXo7ZozDq0SStdrTgp54HRv_PUKskGMVyTC7Ri5eMaR2OG-lz
+Thriller.de,DE - Thriller,https://iptv-epg.org/images/tdAGF8RnIsitTHmxZo5QXuMIbF__jTwGd6AOknU7g6NGlEdw-Ds5LgnoEW0C_cmJzE5Fm74vbB9GkRiKoWr6TtBYML-Qbb1_8SajWDP-quSSXQ
+TLC.de,DE - TLC,https://iptv-epg.org/images/LpxExQNBSdXm-vXldKwG12cRg3UmqiddSkyLd1d0eSAkzB2pxM63tZdpbiiZfXenzTfx9QjwkrdXYEc7Hjd1PKs4S1_WXpwXLPUDP7E
+TOGGOplus.de,DE - TOGGO plus,https://iptv-epg.org/images/yh5zdPr4jjzRzUsKOB1ab7IlqN90Fz-LzCrRxA4CHa3Z2rIktufwKWnIvenq9E0eqgO6VhRRWHFIhP9ZJssWG3KWbAogt91D782UIx-lnjhjIhw
+Travelxp.de,DE - Travelxp,https://iptv-epg.org/images/j5IHcXoAW8MglCPUPQ1Nlh2_77-C0sbp1ZqRNXPCkgsGK1qfTwPCD09fZJfPP6Jkp2Y6ogLqOVRQifEr0wpISiafREUwVS-l9M7uJ1XBigSREw
+TV5MONDEEurope.de,DE - TV5MONDE Europe,https://iptv-epg.org/images/b3wZhsKZbo9RfsUmwZS31E01xJiZBZOa1cd_4U1Pk-fQ2FYEjXTBZoNW2UU8qUBJaMVPeyANledP9iwegjF7TzzT8ZyAPPAfBssYsFUZncE6HEdGWPRPqA
+TV8Int.de,DE - TV8 Int,https://iptv-epg.org/images/t4ERwZR2KT7bkreCGXgLCvDzJaa44gBTAV_PFrt1-rElN7wvF7qM-38WTqDxuKdqGGgNs0zRBH6dS7srxpBJzwtjpd8h5G5TCof9zEZpQd0
+TVMainfranken.de,DE - TV Mainfranken,https://iptv-epg.org/images/uzkplUvQvxYj_OqSDC3KsLDuhLmS9x2vFN3cS2Ys8HYUA_SYJVnMtjlf83LmKE9jwdB2W7JElMrKAbq1IxMiG9aQrQQUAhHoRRLoseYpOWDDdBn2-xs4
+TVMittelrhein.de,DE - TV Mittelrhein,https://iptv-epg.org/images/9ZHq9ZC-shMMkkX6Cyu6d6yKsSD2-yinfaMbflebIBL4buex9gGhlEX4brZyGG1tbYFfYE_jGEoB8xLFzC2alqkda7MX9dyRdIYnYCelvgbsjCVdsbDs
+TVOberfranken.de,DE - TV Oberfranken,https://iptv-epg.org/images/_6KdPVzNTX-92kxFv3BMPn_XRvbQYUvVfzOhTXccNxSFvSf8ocRd4dKdQdnXX3fk281zcKT0-YEmNMvLFD9CBLRs72PQflMM4yKO9A3yFyjBdqDBTd-k
+TVPolonia.de,DE - TV Polonia,https://iptv-epg.org/images/8W8-4MBOsI31oBE7ABOO4WTz9oeAe5csGMzI0yQPvjSXgDWxUxohb0uOY33-hll9EbRf0Kre2o285MhUenYq5jJs9-0THoJX0Mo4gJ9xHZrazTo
+TVWestsachsen.de,DE - TV Westsachsen,https://iptv-epg.org/images/4lgDr3Q4WXoIDWyRkZQMkBEe3eIiS2iA5sUQpjylCASUGlznWW6X9ZE8LKXUZm3cvGmu5o3W21M-Jjs2N590EHNEgr3G8cIQy5KXkdzR5CZWhy5g2edm
+TVBerlin.de,DE - TV.Berlin,https://iptv-epg.org/images/NBLI8zHGR5rEFU2FAhqtV5a2OmjE1HlWdLFYF0h-rsOJCCOIAX1yUjWUw1rEJUpqAtW5D02itBbp_Uho3SHSGcA5e3hVv0CU3khaIrhb3CK75Q
+tvingolstadt.de,DE - tv.ingolstadt,https://iptv-epg.org/images/d5OoEuID8qX5pZQPO9LGSaeueEGXYnVEDelary41ABYAX9o53exuZDMcNTordNg0IVosAJ5qANlOBQSeBoRU0m6hYUKLC8oGtKnlOcOq4buTYCyRZak
+TVAOstbayern.de,DE - TVA Ostbayern,https://iptv-epg.org/images/YZUOhnmOZL8shgDb1B5OefzTslopRZfsCZWAJPQuQk1ctD6QR6XGjTNKjIoSRPUr1mzORXZxGWnlNTUnhLzNyJIPHCnlev8vPDQKwHrkRncCk7R141w
+UniversalTV.de,DE - Universal TV,https://iptv-epg.org/images/y8yDHbnyGY8mtkT3Bn1-xzaAXRhVBHstXzGpglYceR3SL7BLzPBDiPOtj653stFPZwHdg1QKj4aBzaji2jeZBnusKGo8ln0wouT3ECDC9weCHYHWhQ
+Utopja.de,DE - Utopja,
+VfBStuttgart.de,DE - VfB Stuttgart,https://iptv-epg.org/images/y-t_RkHF_469b-c3B4IDiOWRJm7LqPQz2hTuka1kOrkZKC20QmU1ve3PeCdhjik13VCPt80iwIoPVsU1iNyp5qGve9m-GceHKIDh5PRZuSV-9Lp8aF4
+VFLBochum.de,DE - VFL Bochum,https://iptv-epg.org/images/3inW2ePw4DupagQAAFUfgI7RvoSyqZfFuhys6Dvd3ETXBolW0OQvQYzf34bMVEl_Ha6FhLHPDG-EPt1dwMlINoMzHmQ7RknOf_XAYh2st8NEg0U
+VFLWolfsburg.de,DE - VFL Wolfsburg,https://iptv-epg.org/images/0ScylYHPV_8XrohuIn-7bDqtnwl4fAIZLkOuU10zh3tegYyDVXoBrXbmJ3lHapGE6yDYhZsWgk7ol1mWCqy4sV-xFWuxTqYSKnLi3HXV2GeWdN8eNmE
+VolksmusikTV.de,DE - Volksmusik.TV,https://iptv-epg.org/images/bHT9D7NhwfYkaAUqz1tGA4M8LO3m7EBJsAVjL4tU5WxlmxF3b5Pz6r3LCnd6E4oLtZ-RN7BEhugK0zhJk-WYjk7MH98_qWXQWOaBL5rOINByItmgyoU
+VOX.de,DE - VOX,https://iptv-epg.org/images/TPRKoHn47x34bJqPGYdnXjeqv6_SgyaaA6S9W5mMfNlUAUaa7Blfevv1mggIPlwgaNsbHTQeWHDBmA13__AOMvC1ddqVYy5Pl2TkVF0
+VOXup.de,DE - VOXup,https://iptv-epg.org/images/KGJstd6CYv6PcGhloB-LGCiqbFwwgTvRgAzl0x44hPrzbUWdBpnUvGNWAr-PRNTKrQ9dyniGUAahQiqkXWP_3BVcUIYNHDSBX9BoiudI4g
+WaidwerkTV.de,DE - Waidwerk TV,https://iptv-epg.org/images/rIKFu83fZX_zBZDZOLADzCRpagnwbwPhWooC4NBP3jyIxhmlPOsR6LmZw3p85FLy1a25zvPl1SEnIRr6e7n-6JcLw5aPrVdNd09JC-_7gQgm6JFF
+WarnerTVComedy.de,DE - Warner TV Comedy,https://iptv-epg.org/images/BEfmwY3DCCXl_HdJmfDhl9EV5B3lrrB71yginNnC2lqhBHIMyckLunoNkSZbA64bMLKxMc-FeVE4McgWzYwS_yFrVBSFj0mIFTO7dhayPI0N4vJpxYdUAQ
+WarnerTVFilm.de,DE - Warner TV Film,https://iptv-epg.org/images/8BzLixijH58K6gcXxBGI3pu6BvdRl49BH-HT8lVS53aZKBtXRriAlxVnEV8r83bQr4DiaVxUmnedDg664xkoEjbSCYBRujElh9-7nV5t8-26FX08pqw
+WarnerTVSerie.de,DE - Warner TV Serie,https://iptv-epg.org/images/AeCAamoLHhA_jldKyZ4csvPlOb0G0JUgg7yT7k_xtdaN46J5o02w2zKDeeHTCNBe1e1UmohNG34Mf-8wREBRP-Tek12hlen-DaHKy0qpA7ez3_2418Ki
+WDR.de,DE - WDR,https://iptv-epg.org/images/KoenFHbGMJPFXW1n9GP6ujwkG0azvLloySlcCmk9XE9TOZXqm_fvXL9wLt1cS2V0NUA7iAGQtv5RNyKb_lxuIrv8TsZI8MOGzzrMlrc
+WDRAachen.de,DE - WDR Aachen,https://iptv-epg.org/images/0UH0k0WqEIXL8hjsnUs3do5Gut5T4LJBYyhovRKM5rccV0DWT93rQZys8pB2tKtTxKxIbNxDfwnMGNHiwGOuEx44cdk-28vwMiWZOkV3BydTNVU
+WDRBielefeld.de,DE - WDR Bielefeld,https://iptv-epg.org/images/uXRA8N8EW7Bj8l816Jltwd8f02ZBGBkBzE-9cHCyJU0pSmix96ByhuiIRU6BBkmtKSUsRj_E2xrHQITZ3HEdieA-QUhdFn7neAmEUNuEXpioCpUVn8A
+WDRBonn.de,DE - WDR Bonn,https://iptv-epg.org/images/SN1A5Dxkid7wBGyJWDvM4Oo0zagMgyOizFN5TvtI7Vx9r4yP9bVpK0A1dwSWoN5P1rxYZOXOvcUUBooc7yFrFOKEqBblON-AwSl63i4QB6Nu
+WDRDortmund.de,DE - WDR Dortmund,https://iptv-epg.org/images/VVujhgQETXcdIKRaZUVI2AALdAW99GdEidY-NTBw-612Zb-mrjW_wcNAldVMV4-VUG4i4Yuc3nAlgmoptSex_5MBIJQ_Mh4-wtoMmQrLXiP_Xmw_yQ
+WDRDuisburg.de,DE - WDR Duisburg,https://iptv-epg.org/images/alFBbgArR6kGENL-M5WatdXNbhvkLN8Tyy_2sFQEIF_6rnjXZ371NWM_EZfBK2RAECTA5Ed6SFJG01mi7ZEx2RWRF8XcZMaTrLPNoI8t41vmsKh1UQ
+WDREssen.de,DE - WDR Essen,https://iptv-epg.org/images/-F1ZFmaTYWnjRbSElzI1pZbnnpJQ-d8mxpDzzPXmgHHbUr7MPUJEdw-Eao1D7_3TkOX8xfcBLuTaO5Y3l-FnhiBU2529TtfzJK07yp1OdO_FUw
+WDRSiegen.de,DE - WDR Siegen,https://iptv-epg.org/images/WzWc2kOBuJ33uYevdsDp4vEF6uS9y5m9sHA0mWp7DbFMsAiwcCThWrrHwsX5qL5umogW-ndhbBG0YpNBLHjaynVZuvUiJlGDTSIPCQl6574adzk
+WDRWuppertal.de,DE - WDR Wuppertal,https://iptv-epg.org/images/Iij69RAl4SKcszl9LXAvcH_0x3IJPUiW30bYaEF2F2tgm6nQq_Ey3OB5B_n74WpKeqGbAVKFSxyl4TpgplPekynziisks6zFEanSXMV90V2TO4JtBmU
+wedomovies.de,DE - wedo movies,
+wedosports.de,DE - wedo sports,
+WELT.de,DE - WELT,https://iptv-epg.org/images/rYm_cJ6eMehcpm1XwZcnOD50M3Zbg8yA8XDzrfjuwfACZy4o27OcF19WXg9LcL87B9Oi601UZiokFYYSTp-Zv-KWgYP6oRL_uFhT-5pI
+WeltderWunder.de,DE - Welt der Wunder,https://iptv-epg.org/images/FzJp7MOPQ4_SkRMeMm4pc5dnnkG4O3QCOiDjQQJ-rOB82JI4U3siFMU8Rs4qBBmJ4AaqPM1VOkOyVMVaY6zNJXlt071S9Ki92hFuP8BAZbqXAQJ-artx
+WerderBremen.de,DE - Werder Bremen,https://iptv-epg.org/images/9xXPisxKtvf5rb0MEM_PnEggBztVtvrz0Ad0pRZ-klI5rXwcW6bG-wGZ0HOBEFpIUnVXfSHqlbL4p9pcMdTg73F7tbU_r2a70iaL3zsSv8RNSVBqfgg
+wettercomTV.de,DE - wetter.com TV,https://iptv-epg.org/images/QoLJPeMkf4ASKBgfviN0d-7ia_LXdTEz-Nm0iRj03nGk8Sn2wXhsa0l8ZMWua97KzQ0CFmzlHBtPaQDGgQ--G-iWnepqW87ncfvpXBGAXbg-Q49mQg
+WorldofFreesports.de,DE - World of Freesports,https://iptv-epg.org/images/Zz97Yi9obb3vB7hqVmrv6NNVFdiv_CBpSFPHrZKqVRZACUz48LNsgj7a549qiafhfn08ZZMMr1dqrJK8OJJx1zQy9plzU0kD5FWB_sIEXSup7D2guxxxuX0y_g
+WWTV.de,DE - WWTV,https://iptv-epg.org/images/NP9WDzzRHbT0q3eRRnWIA71rlRHFtdPCBlBC2rtMM_kflAw1SGNyhSj6vk0V09xgXUPoFkodcBXhqQWxhRL_hbpHq0mC_O8kqQqBo7SX
+Xplore.de,DE - Xplore,https://iptv-epg.org/images/X2qRHigoRiRC2rXUEfN6CATwu7GRM4knk3dfpkgDRdTZ_PqRO-HB2mYbfh0EWjG5B4mOafkxyMTRsdU3eEJWIRms5nfnH77sJRkt0jLkKcc
+ZDF.de,DE - ZDF,https://iptv-epg.org/images/bQIuBmQ7uSBq6k1jUHAnLzUMpez579oYf6lE0t2PiM9hK2R9WHxJnFR8xD3Cl8nXtniivd_fgkC3pahQFpLUvH-rifyv84gIJHZM5Ng
+ZDFinfo.de,DE - ZDFinfo,https://iptv-epg.org/images/0c9mkkA5EcPvRiB-BvohTCu0fhG8mrn-jhLTUK2FmCxER3WyBYoLb2P3vpxu4J-pa4NWHxt062KKTnmKv5jb_pGRkmM-YoIvHdmTIdGdUa29
+zdf_neo.de,DE - zdf_neo,https://iptv-epg.org/images/LiY6tdFakzlhb67I5Z6KLxy6ZhtlujMRgXi2pagi3NtXILPBHqGRzbJUC1CVirUIulGXtFlG1-hYrCeHmn7GLHJeXDxgRUdbVBJG9-9xikwU
+ZeeOne.de,DE - Zee One,https://iptv-epg.org/images/uM5Jw3R3LlZkC6devlVrIq0xra1V3nbZ9xNpYuiQrfTQp5nODZN9HUtphGE4OTiig9-BkS1pJhul5YP-u45ZsbLMI-33KUlzlfJJOjQLa64
+ZWEIMUSICTELEVISION.de,DE - ZWEI MUSIC TELEVISION,https://iptv-epg.org/images/nctGlCcx9NiLaWb-ORFkxAN75BV6t7RF1cJ16FjPIYBnFLj1fi2EYzdiDGkV0dMSw1pLpSog_bfRXzcytG6ndKbJO3UiKT-y0BC63VWtH6y9Jrmd1sXmz2XgVAU2
+WDRFernsehenK&#xF6;ln.de,DE - WDR Fernsehen Köln,https://iptv-epg.org/images/nL-Y05xPF3QbXHxnBUNSuMVuUz7hl_C-ib0otEjocT8hTHxgJLcFhzo3Xv8QHJQqTTX7t-svk4kRzitDBTD05YCT8hwHkLq6tk0E5UOCqENBk2klrcoY3KwUk_uInso
+Kom&#xF6;dien.de,DE - Komödien,https://iptv-epg.org/images/hN3f98nRQusXc3kr3hnL99hP6t5ud19uqEQpzvp_otPPudmTIjUFjsQuhLtUyrmhjENodEJLI1xY7AjiCd85lJeqtu-SgQnw5FmmfKp7gEb0uWEG5La-
+BayernM&#xFC;nchen.de,DE - Bayern München,https://iptv-epg.org/images/cAoVfSmK-cABhiS4XzBVAc0FKNXx2CQHjBRqkIqj1U2MU49XATU1ezsf3GZK7-xrGBbS5P7V3APLCO18r1gj8P3IOy8P9ofAjxFsjQrACtPBO885uc8_uRHdsgM
+BorussiaM&#xF6;nchengladbach.de,DE - Borussia Mönchengladbach,https://iptv-epg.org/images/atehUF4cXGGjjoyR_e0BvLDrlLnUuek5KYmE6CO1pyNf-mzqkLsyTjRLkgXMnOh6Dvji87muZNEeBWSY-7H2_hSoq-RYLP3AVTQNShNp19owKUfPpEMNgVe_ChfwLe9ANF4J9Myy
+munchentv.de,DE - münchen.tv,https://iptv-epg.org/images/-n3h5WYHar9qYeudFrMPIvbxH4dtIjuHCez9M3NZhJ9LUjk_mLr9icplEBHKFGwk8wKAXxScmJHL6wq_0jit9JAMHSX5DDPnbSdulMh06zi7fUQ
+BRFernsehenSud.de,DE - BR Fernsehen Süd,https://iptv-epg.org/images/Vwpp5GYx9Yd-aw43wQeLFLVX_sC47UOlRQU-rMRrNk4wSVjce04TmKCA6vOk8Tz5ItHpumgJG-CFbLgv7wle4PfvXMRy3qUpK6P1dLyRkGxgjQxauWM7Lw
+allgautv.de,DE - allgäu.tv,https://iptv-epg.org/images/BA3X-ZDWKY2WSreAPUW0VaaRfrynoKepT2rb-B0EjbKEtsKRKmmbiKSfgVyt6PPP48HUFq0gYUeotuCiI1878pXklMI6ZEyYdiivdZwOIs8FoA
+MDRThuringen.de,DE - MDR Thüringen,https://iptv-epg.org/images/4mit6tybFI-Q5jXBuAZGByEWT2n7wYkl27S6Xmcbx3CmTU7ruYKJxXdK95BzefBp20TOQu01HWLcrMR3H4NGZvtffok7IKyM-8Anzmevk76gXiLX-Fs
+HaberTurk.de,DE - Haber Türk,https://iptv-epg.org/images/G1mGrBZRjG0M4Bc4wFZ2glRg0zhdZH7163lVM1JvO6zb2EWDoUejAabxfs30AYB1M-GBGdsOWUXJcMk15pG7hxGKFpZJG21xHG8FsjB9HSohPM8
+ULKETV.de,DE - ÜLKE TV,https://iptv-epg.org/images/di8hhzEcCMszhyfU2EaE-FsfB6SNvLZgxJvn7RFU9ATxtsZzS8kBHVy1EWGCZvhI23Fg5Y2k2Kem_eymJHlqjJjGm9sbB6JUT-pnPS1v1T4
+BadenTVSud.de,DE - Baden TV Süd,https://iptv-epg.org/images/YFouQTlTtf9GhUmjmKEXGNwvpE15QwJr9_omd6PMiOvyryRafBkmLalONxTZQ6tgyPSYZpZbNgdMOWjd9O35DSPPr4erOwgOxWVLsqMM9BDlcFkO
+WDRDusseldorf.de,DE - WDR Düsseldorf,https://iptv-epg.org/images/t3p1LTkkjj5_PeNh_6nPhtO9_q9uVDqMIRILIcT_OiCsGZmmAUQhvaK0LJb2YsLuBV6XsynBj6JhMJKWEolcfGxSn_NIhU58hUjNEEF9HPD6VNR7ZtwZ
+WDRMunster.de,DE - WDR Münster,https://iptv-epg.org/images/rDOFNAXpT5El5kdMs9aAUFFO5X6PI1YuBmHhksRwWRBVk5lnfzosN8nW4djbf3h0PPKjQPwzz-X_LnfBNz6QpPBABk1tl7cmX5VFEtP4kOD93B73
+OKWeinstrabe.de,DE - OK Weinstraße,https://iptv-epg.org/images/Jzas5I-DEjZei6pO1dEueqKu-fKLC8ePLsErF0Mwwdv03uROjwCIVILJ-6M4bBT-K3AWrSEmYyK5VPMe37sVWH1ONTvJuUtn83kL03BvFfd5UPEOCFo
+Hohenrausch.de,DE - Höhenrausch,https://iptv-epg.org/images/NSs7X7OsEAbr7vSYdwGiGj4hAawhJh_18t3-3TnTZ_ZehM7gD_YraDr8QDRTcHW2iVRLL9quI47n1kI0XABTPTWUw7BQawOZdpo5_rAHsgLpgMSuNA
+SkyCinemaHighlights.de,DE - Sky Cinema Highlights,https://iptv-epg.org/images/CSLLML69ShKyYoT0U3DCRAHrTtXm6On-Vi-UtrSdyesIXDc8y6IP5qp_vstw-g-9x6q1BOzGSCwraccEGQPj_VTNixvJFNZbzOs9kmb7E6-RveR3J8nFPGw4TjxQ
+SkyCinemaFeelgood.de,DE - Sky Cinema Feelgood,https://iptv-epg.org/images/TxOOTyApp_OUDbV3BFnkFII1M6UoRLwysduGuvMF2iAU5LeYr6TUx8regFlQXIUJyuKulHsmU4BwDJ9boLY9F-jeZ1TmM8NMzh5U_c7rAcx3s6KRDLRMTpK9WQ
