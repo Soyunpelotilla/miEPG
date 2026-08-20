@@ -205,6 +205,13 @@ FoxSports2.ar,FOX Sports 2 AR,https://images.open-epg.com/16782312.png
 FoxSports3.ar,FOX Sports 3 AR,https://images.open-epg.com/16782313.png
 TVPublica.ar,TV Publica,https://iptv-epg.org/logos/Argentina/TVPublica.ar.png
 Telefe.ar,Telefe,https://iptv-epg.org/logos/Argentina/Telefe.ar.png
+ESPN.co,ESPN CO,
+ESPN 2.co,ESPN 2 CO,
+ESPN 3.co,ESPN 3 CO,
+ESPN 4.co,ESPN 4 CO,
+ESPN 5.co,ESPN 5 CO,
+ESPN 6.co,ESPN 6 CO,
+ESPN 7.co,ESPN 7 CO,
 Univision.us,Univision East,https://iptv-epg.org/logos/USA/Univision.us.png
 UnivisionWest.us,Univision West,https://iptv-epg.org/logos/USA/UnivisionWest.us.png
 UnivisionWXTV.us,Univision WXTV,https://iptv-epg.org/logos/USA/UnivisionWest.us.png
