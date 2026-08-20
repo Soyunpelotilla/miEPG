@@ -3,6 +3,7 @@ https://iptv-epg.org/files/epg-es.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
 https://www.open-epg.com/files/argentina.xml.gz
 https://www.open-epg.com/files/mexico2.xml.gz
+https://www.open-epg.com/files/colombia2.xml.gz
 https://iptv-epg.org/files/epg-us.xml
 https://iptv-epg.org/files/epg-gb.xml
 https://iptv-epg.org/files/epg-it.xml
