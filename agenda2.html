@@ -1,0 +1,1260 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<script>(function(){var h=window.matchMedia("(pointer: fine)").matches,k=navigator.maxTouchPoints===0||h;if(k)document.documentElement.classList.add("tv-box");}());</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TiroAlPalo - Agenda</title>
+<meta name="theme-color" content="#0f1923">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="dns-prefetch" href="https://leiflix.vercel.app">
+<link rel="preconnect" href="https://leiflix.vercel.app">
+<link rel="dns-prefetch" href="https://matchstream.do">
+<link rel="preconnect" href="https://matchstream.do">
+<link rel="dns-prefetch" href="https://cors.io">
+<link rel="preconnect" href="https://cors.io">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+<style>
+.material-symbols-outlined{font-variation-settings:'FILL' 1,'wght' 400,'GRAD' 0,'opsz' 48;display:inline-block;width:1.3rem;height:1.3rem;text-align:center;overflow:hidden;vertical-align:middle;}
+:root{
+color-scheme:dark;
+--bg:#0f1923;--blue:#448aff;--blue-dim:rgba(68,138,255,0.4);
+--blue-top:rgba(68,138,255,0.9);--green:#00dc64;
+--green-dim:rgba(0,220,100,0.35);--green-top:rgba(0,220,100,0.8);
+--red:#ff4444;--text:#fff;--muted:#7a8fa8;--border:#2a3a50;--nav-bg:#0a1520;
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;user-select:none}
+body{background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,sans-serif;
+min-height:100vh;display:flex;flex-direction:column;align-items:center;
+padding:6px;padding-bottom:66px;overflow-x:hidden}
+/* prevent comp badge flash */
+.comp { contain: layout; }
+.card { contain: layout style; }
+/* loader */
+#lw{position:fixed;top:0;left:0;width:100%;height:3px;z-index:9999;transition:opacity .4s}
+#lb{height:100%;width:30%;background:var(--blue);box-shadow:0 0 10px var(--blue);animation:sl 1.6s infinite ease-in-out}
+@keyframes sl{0%{transform:translateX(-100%)}100%{transform:translateX(430%)}}
+.loaded #lw{opacity:0;pointer-events:none}
+#sp{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);z-index:9000}
+.spin{width:44px;height:44px;border:4px solid rgba(68,138,255,.15);border-top-color:var(--blue);border-radius:50%;animation:ro 1s linear infinite}
+@keyframes ro{to{transform:rotate(360deg)}}
+@keyframes blink-marker{0%,100%{opacity:1}50%{opacity:.2}}
+/* layout */
+#container{width:95%;max-width:500px;display:flex;flex-direction:column;gap:10px;min-height:60vh}
+#channels-view{display:none;width:95%;max-width:500px;flex-direction:column;gap:10px;min-height:60vh}
+/* day header */
+.dh{width:100%;display:flex;align-items:center;gap:4px;padding:8px 20px;
+font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:var(--blue);
+position:sticky;top:0;background:var(--bg);z-index:100;white-space:nowrap}
+.dh::before,.dh::after{content:"";flex:1;height:1px;background:var(--blue);opacity:.4;margin:0 8px}
+/* card */
+.card{display:flex;flex-direction:column;align-items:center;gap:5px;
+padding:8px 14px 10px;width:100%;
+border:1px solid var(--blue-dim);border-top:2px solid var(--blue-top);
+border-radius:10px;background:linear-gradient(160deg,#1a2e45 0%,#142236 100%);
+transition:opacity .3s,transform .3s,max-height .6s;
+}
+.card.live{border-color:rgba(0,220,100,0.35)!important;border-top-color:rgba(0,220,100,0.8)!important;background:linear-gradient(160deg,#0f2e1a 0%,#0a2214 100%)!important}
+/* finished: animate out then remove */
+@keyframes fadeScaleOut{
+0%{opacity:1;transform:scale(1);max-height:400px;margin-bottom:0;padding-top:16px;padding-bottom:18px}
+60%{opacity:0;transform:scale(.93)}
+100%{opacity:0;transform:scale(.93);max-height:0;margin-bottom:-10px;padding-top:0;padding-bottom:0}
+}
+.card.finishing{animation:fadeScaleOut .6s cubic-bezier(.4,0,.2,1) forwards;overflow:hidden;pointer-events:none}
+/* competition badge */
+.comp{width:100%;text-align:center;font-size:.6rem;font-weight:800;
+text-transform:uppercase;letter-spacing:2px;padding:4px 12px;border-radius:10px;
+background:var(--blue);color:#fff;text-shadow:0 1px 3px rgba(0,0,0,.4);margin-bottom:2px;
+display:flex;align-items:center;justify-content:center;box-sizing:border-box;}
+/* live badge */
+.sbadge{font-size:.58rem;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;
+display:block;margin:2px 0;text-align:center}
+.sbadge.lb{color:var(--green)}
+@keyframes bk{0%,100%{opacity:1}50%{opacity:.2}}
+/* match row */
+.mrow{width:100%;display:flex;align-items:center;justify-content:space-between;gap:6px}
+.tside{display:flex;flex-direction:column;align-items:center;gap:4px;flex:1;min-width:0}
+.tname{font-size:0.8rem!important;font-weight:700;text-align:center;line-height:1.25;word-break:break-word;max-width:200px!important}
+.mctr{display:flex;flex-direction:column;align-items:center;flex:0 0 auto;padding:0 4px}
+.mtime{font-size:1.2rem;font-weight:800;color:#fff;line-height:1}
+.live .mtime{animation:bk 1s infinite}
+.mvs{font-size:.65rem;font-weight:800;color:var(--muted);letter-spacing:2px;margin-top:4px}
+.card.live .mvs{color:#00aa4a}
+/* single event row */
+.erow{display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%;gap:6px;text-align:center}
+.etime{font-size:1.1rem;font-weight:800;color:#fff;line-height:1}
+.live .etime{animation:bk 1s infinite}
+.esep{display:none}
+.ename{font-size:.8rem;font-weight:600;line-height:1.35;text-align:center}
+/* channel flags row */
+.chw{display:flex;flex-direction:row;overflow-x:auto;gap:6px;width:100%;align-self:stretch;margin-top:3px;
+padding:2px 2px 6px 2px;scrollbar-width:none;
+-webkit-overflow-scrolling:touch;box-sizing:border-box;
+justify-content:flex-start;align-items:stretch;}
+.chw::-webkit-scrollbar{display:none}
+.chw:has(.chbtn:first-child:nth-last-child(1)),
+.chw:has(.chbtn:first-child:nth-last-child(2)){justify-content:center;overflow-x:hidden;}
+/* Canales Dimensiones */
+.chbtn{flex:0 0 105px;min-height:64px;padding:6px 8px;border-radius:12px;
+border:1px solid var(--blue-dim);background:linear-gradient(145deg,#243d5c,#1a2e45);
+display:flex;align-items:center;justify-content:center;
+cursor:pointer;text-decoration:none;font-size:1.4rem;
+-webkit-user-drag:none;
+transition:all .15s cubic-bezier(.4,0,.2,1)}
+.chbtn img{width:92%;height:92%;object-fit:contain;display:block;-webkit-user-drag:none;pointer-events:none}
+/* Espacio horizontal entre banderas dentro del mismo botón */
+.chbtn .flag-emoji {
+margin: 0 4px;
+font-size: 2rem;
+}
+.chbtn img {
+margin: 0 4px;
+box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+}
+.ch-card img {
+margin: 0 4px;
+box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+}
+.chbtn:active{transform:scale(.88);filter:brightness(1.5)}
+.card.live .chbtn{background:linear-gradient(145deg,#163d28,#0f2e1c)!important;border-color:rgba(0,220,100,.4)!important}
+/* progress bar — below channels */
+.pw{width:100%;height:3px;background:rgba(91,143,212,.15);border-radius:2px;overflow:hidden;margin-top:8px}
+.pb{height:100%;border-radius:2px;background:linear-gradient(90deg,#5b8fd4,#7aaee8);transform-origin:left center;transition:transform 1s linear}
+/* channels tab */
+.ch-grid{display:flex;flex-wrap:wrap;gap:10px;padding:0 0 8px;justify-content:center}
+.ch-card{flex:0 0 140px;height:80px;padding:0 10px;border-radius:12px;
+border:1px solid var(--blue-dim);background:linear-gradient(145deg,#243d5c,#1a2e45);
+display:flex;align-items:center;justify-content:center;
+text-decoration:none;cursor:pointer;font-size:1.4rem;
+transition:all .15s cubic-bezier(.4,0,.2,1)}
+.ch-card:active{transform:scale(.88);filter:brightness(1.5)}
+.ch-card-name{font-size:.78rem;font-weight:800;color:#fff;letter-spacing:.5px}
+.ch-card-lang{font-size:1.4rem}
+/* nav */
+.bnav{position:fixed;bottom:0;left:0;right:0;height:52px;background:var(--nav-bg);
+border-top:1px solid var(--border);display:flex;justify-content:space-around;align-items:stretch;z-index:1000}
+.ni{display:flex;flex-direction:column;align-items:center;justify-content:center;
+color:var(--muted);font-size:.54rem;font-weight:700;gap:2px;flex:1;cursor:pointer;padding-bottom:4px;transition:color .15s}
+.ni.active{color:var(--blue)}
+/* error */
+#err{display:none;text-align:center;padding:20px;color:var(--muted);
+position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);
+flex-direction:column;align-items:center;gap:10px;width:90%;max-width:360px;z-index:500}
+.si{font-size:2.6rem}.st{font-size:1rem;font-weight:700;color:var(--text)}.ss{font-size:.8rem;opacity:.75}
+.rbtn{margin-top:8px;padding:8px 22px;background:var(--blue);border:none;
+border-radius:8px;color:#fff;font-weight:700;font-size:.8rem;cursor:pointer}
+/* responsive */
+@media(min-width:768px){
+#container,#channels-view{max-width:680px;width:90%}
+.tname{font-size:1.1rem!important;max-width:160px!important}
+.mtime{font-size:2.4rem!important}
+.ch-card{width:calc(33.33% - 6px)}
+.chbtn{flex:0 0 160px!important;min-height:92px!important;height:auto!important;font-size:1.8rem!important;padding:8px 10px!important;}
+.chbtn img { margin: 0 6px; height: 34px; }
+.chw{justify-content:center!important;overflow-x:hidden!important;}
+}
+@media(min-width:1200px){
+#container,#channels-view{max-width:860px;width:75%}
+.card{padding:8px 14px 10px!important;gap:5px!important;border-radius:10px!important}
+.mtime{font-size:1.2rem!important}
+.ch-card{width:calc(25% - 6px)}
+.chw{gap:6px!important;margin-top:3px!important;padding:2px 2px 6px 2px!important;justify-content:center!important;overflow-x:hidden!important;}
+.sbadge{font-size:.6rem!important;margin:3px 0 2px 0!important}
+.comp{padding:4px 12px!important;margin-top:4px!important}
+.chbtn{flex:0 0 105px!important;min-height:54px!important;height:auto!important;padding:6px 8px!important;}
+}
+@media(min-width:1800px){
+#container,#channels-view{max-width:1100px;width:72%}
+.card{padding:10px 16px 12px!important}
+.mtime{font-size:1.5rem!important}
+.chw{justify-content:center!important;overflow-x:hidden!important;}
+}
+@media(max-width:390px){
+.tname{font-size:0.8rem!important;max-width:160px!important}
+.mtime{font-size:1.2rem!important}
+.card{padding:8px 12px 10px!important}
+.chw{gap:6px!important}
+.chbtn img { margin: 0 3px; }
+}
+/* TV Box: nav arriba */
+html.tv-box .bnav{top:0!important;bottom:auto!important;border-top:none!important;border-bottom:1px solid var(--border)!important;}
+html.tv-box body{padding-top:58px!important;padding-bottom:30px!important;}
+html.tv-box .dh{position:static!important;}
+html.tv-box .ni{font-size:1.1rem!important;font-weight:700!important;letter-spacing:1.5px!important;gap:6px!important;flex-direction:row!important;justify-content:center!important;align-items:center!important;padding-bottom:0!important;}
+html.tv-box .ni svg{width:22px!important;height:22px!important;}
+html.tv-box .chw{overflow-x:hidden!important;justify-content:center!important;align-items:flex-start!important;flex-wrap:wrap!important;gap:8px!important;align-self:stretch!important;}
+html.tv-box .chw .chbtn{flex:0 0 105px!important;height:66px!important;min-height:unset!important;align-self:flex-start!important;}
+html.tv-box .chw .chbtn img{height:32px!important;width:auto!important;max-width:85px!important;}
+/* Popup de links */
+#links-popup-overlay{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.82);display:none;justify-content:center;align-items:center;z-index:3000}
+#links-popup-overlay.open{display:flex}
+#links-popup{background:#1a2535;width:85%;max-width:300px;max-height:75vh;overflow-y:auto;border-radius:14px;padding:18px 14px 14px;border:1px solid var(--blue-dim)}
+#links-popup-title{text-align:center;font-size:.78rem;font-weight:800;color:var(--blue);margin-bottom:14px;letter-spacing:.5px;text-transform:uppercase}
+.lp-item{display:flex;justify-content:space-between;align-items:center;background:#243d5c;padding:11px 14px;margin-bottom:8px;border-radius:10px;font-size:.72rem;font-weight:700;color:#a8c8f0;border:1px solid rgba(68,138,255,.3);cursor:pointer;transition:background .15s}
+.lp-item:active,.lp-item:hover{background:var(--blue);color:#fff;border-color:var(--blue)}
+.lp-num{font-size:.6rem;opacity:.7}
+</style>
+<style>html.tv-box .comp{font-size:1rem!important;}</style></head>
+<body>
+<div id="lw"><div id="lb"></div></div>
+<div id="sp"><div class="spin"></div></div>
+<div id="container"></div>
+<div id="channels-view"></div>
+<div id="err">
+<div class="si">⚠️</div>
+<div class="st">No se pudo cargar</div>
+<div class="ss" id="emsg">Comprueba tu conexión</div>
+<button class="rbtn" onclick="loadData()">Reintentar</button>
+</div>
+<div id="links-popup-overlay" onclick="closeLinksPopup(event)">
+<div id="links-popup" onclick="event.stopPropagation()">
+<div id="links-popup-title">Selecciona enlace</div>
+<div id="links-popup-list"></div>
+</div>
+</div>
+<nav class="bnav">
+<div class="ni active" id="ni-ev" onclick="switchTab('events')">
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+<rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
+</svg>
+<span>EVENTOS</span>
+</div>
+</nav>
+<script>
+const FLAGS={
+'GB':'gb','US':'us','ES':'es','DE':'de','FR':'fr','IT':'it',
+'BR':'br','PT':'pt','SA':'sa','TR':'tr','GR':'gr','NL':'nl',
+'AR':'ar','MX':'mx','CO':'co','CL':'cl','PE':'pe','VE':'ve',
+'CA':'ca','AU':'au','JP':'jp','KR':'kr','CN':'cn','RU':'ru',
+'PL':'pl','SE':'se','NO':'no','DK':'dk','FI':'fi','BE':'be',
+'CH':'ch','AT':'at','CZ':'cz','SK':'sk','HU':'hu','RO':'ro',
+'BG':'bg','HR':'hr','RS':'rs','UA':'ua','IL':'il','ZA':'za','NG':'ng',
+'EG':'eg','MA':'ma','IN':'in','PK':'pk','ID':'id','TH':'th',
+'EC':'ec','BO':'bo','PY':'py','UY':'uy','CR':'cr','GT':'gt',
+'PA':'pa','DO':'do','CU':'cu','IR':'ir','IQ':'iq',
+'AE':'ae','QA':'qa','KW':'kw','LB':'lb','JO':'jo',
+'TN':'tn','LY':'ly','DZ':'dz','KE':'ke','GH':'gh','SN':'sn','TZ':'tz',
+'KZ':'kz','GE':'ge','AM':'am','AZ':'az','BY':'by',
+'LT':'lt','LV':'lv','EE':'ee','SI':'si','BA':'ba','MK':'mk',
+'AL':'al','ME':'me','LU':'lu','IE':'ie','IS':'is',
+'NZ':'nz','SG':'sg','MY':'my','VN':'vn','PH':'ph','TW':'tw','HK':'hk',
+'ENGLISH':'gb','SPANISH':'es','GERMAN':'de','FRENCH':'fr','ITALIAN':'it',
+'BRAZILIAN':'br','PORTUGUESE':'pt','ARABIC':'sa','TURKISH':'tr','GREEK':'gr','DUTCH':'nl',
+'RUSSIAN':'ru','POLISH':'pl','SWEDISH':'se','NORWEGIAN':'no','DANISH':'dk',
+'FINNISH':'fi','CZECH':'cz','SLOVAK':'sk','HUNGARIAN':'hu','ROMANIAN':'ro',
+'BULGARIAN':'bg','CROATIAN':'hr','SERBIAN':'rs','UKRAINIAN':'ua','HEBREW':'il',
+'JAPANESE':'jp','KOREAN':'kr','CHINESE':'cn','THAI':'th','INDONESIAN':'id',
+'PERSIAN':'ir','FARSI':'ir','CATALAN':'es',
+'ENGLAND':'gb','BRITAIN':'gb','UK':'gb','SCOTLAND':'gb','WALES':'gb','IRELAND':'ie',
+'GERMANY':'de','AUSTRIA':'at','SWITZERLAND':'ch',
+'SPAIN':'es','MEXICO':'mx','ARGENTINA':'ar','COLOMBIA':'co','CHILE':'cl',
+'PERU':'pe','VENEZUELA':'ve','ECUADOR':'ec','BOLIVIA':'bo','PARAGUAY':'py','URUGUAY':'uy',
+'BRAZIL':'br','PORTUGAL':'pt','FRANCE':'fr','ITALY':'it','NETHERLANDS':'nl',
+'BELGIUM':'be','SWEDEN':'se','NORWAY':'no','DENMARK':'dk','FINLAND':'fi',
+'POLAND':'pl','HUNGARY':'hu','ROMANIA':'ro',
+'BULGARIA':'bg','CROATIA':'hr','SERBIA':'rs','UKRAINE':'ua',
+'RUSSIA':'ru','TURKEY':'tr','GREECE':'gr','ISRAEL':'il',
+'SAUDI ARABIA':'sa','UAE':'ae','QATAR':'qa','KUWAIT':'kw','EGYPT':'eg',
+'MOROCCO':'ma','NIGERIA':'ng','SOUTH AFRICA':'za','GHANA':'gh',
+'USA':'us','CANADA':'ca','AUSTRALIA':'au','NEW ZEALAND':'nz',
+'JAPAN':'jp','SOUTH KOREA':'kr','CHINA':'cn','TAIWAN':'tw',
+'INDIA':'in','PAKISTAN':'pk','INDONESIA':'id','THAILAND':'th',
+'SINGAPORE':'sg','MALAYSIA':'my','VIETNAM':'vn','PHILIPPINES':'ph','IRAN':'ir',
+'CANAL+':'fr','CANAL PLUS':'fr','CANAL+ FOOT':'fr','CANAL+ SPORT':'fr',
+'CANAL+ PREMIER LEAGUE':'fr','CANAL+ LIGUE 1':'fr',
+'BEIN':'qa','BEIN SPORTS':'qa',
+'ESTONIA':'ee','LATVIA':'lv','LITHUANIA':'lt','SLOVENIA':'si',
+'BOSNIA':'ba','NORTH MACEDONIA':'mk','ALBANIA':'al','MONTENEGRO':'me','LUXEMBOURG':'lu',
+'ICELAND':'is','GEORGIA':'ge','ARMENIA':'am','AZERBAIJAN':'az','BELARUS':'by',
+'KAZAKHSTAN':'kz',
+};
+const DAY_ES={
+'Monday':'Lunes','Tuesday':'Martes','Wednesday':'Miércoles',
+'Thursday':'Jueves','Friday':'Viernes','Saturday':'Sábado','Sunday':'Domingo'
+};
+const WDAYS=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+function flagOf(lang){
+if(!lang)return'';
+const parts=lang.split(/[&,]+/).map(x=>x.trim().toUpperCase()).filter(Boolean);
+const imgs=parts.map(x=>{
+const code=FLAGS[x];
+if(code)return'<img src="https://flagcdn.com/'+code+'.svg" style="border-radius:3px;object-fit:contain;box-shadow:0 1px 3px rgba(0,0,0,0.3);" loading="lazy">';
+return null;
+}).filter(Boolean);
+if(!imgs.length)return'<span style="font-size:1.1rem;opacity:.5">?​</span>';
+if(imgs.length>=3){
+return'<div style="display:flex;flex-direction:row;align-items:center;justify-content:center;gap:3px;width:100%;height:100%;padding:6px;">'+
+imgs.map(img=>img.replace('style="','style="flex:1;min-width:0;max-height:28px;height:28px;width:auto;')).join('')+
+'</div>';
+}
+return imgs.map(img=>img.replace('style="','style="height:32px;width:auto;margin:0 4px;')).join('');
+}
+function chKey(url){const m=url.match(/\/([^\/]+)\.php/);return m?m[1].toUpperCase():url}
+function addOneHour(raw){
+const[rh,rm]=raw.split(':').map(Number);
+const h=(rh+1)%24,m=rm;
+const isNextDay=(rh+1)>=24||h<7;
+return{h,m,str:String(h).padStart(2,'0')+':'+String(m).padStart(2,'0'),isNextDay};
+}
+function getStatus(h,m,isToday,title){
+if(!isToday)return'upcoming';
+const now=new Date(),s=new Date(now);
+s.setHours(h,m,0,0);
+const d=now-s;
+if(d<0)return'upcoming';
+const up=(title||'').toUpperCase();
+let dur=null;
+for(const x of DURATIONS){
+if(up.includes(x.k)){
+if(x.sub){if(up.includes(x.sub)){dur=x.d;break;}}
+else if(dur===null){dur=x.d;}
+}
+}
+if(dur===null){
+const isSoccer=getSportColor(title||'')===null;
+dur=isSoccer?DEFAULT_SOCCER:DEFAULT_OTHER;
+}
+if(d<dur*60000)return'live';
+return'fin';
+}
+function getLivePct(h,m,title){
+const now=new Date(),s=new Date(now);
+s.setHours(h,m,0,0);
+const up=title.toUpperCase();
+let dur=null;
+for(const x of DURATIONS){
+if(up.includes(x.k)){
+if(x.sub){if(up.includes(x.sub)){dur=x.d;break;}}
+else if(dur===null){dur=x.d;}
+}
+}
+if(dur===null){
+const isSoccer=getSportColor(title)===null;
+dur=isSoccer?DEFAULT_SOCCER:DEFAULT_OTHER;
+}
+return Math.min(1,Math.max(0,(now-s)/(dur*60000)));
+}
+let allBlocks=[];
+
+function getStatus(h,m,isToday,dur){
+if(!isToday)return'upcoming';
+const now=new Date(),s=new Date(now);
+s.setHours(h,m,0,0);
+const d=now-s;
+if(d<0)return'upcoming';
+if(d<dur*60000)return'live';
+return'fin';
+}
+function getLivePct(h,m,dur){
+const now=new Date(),s=new Date(now);
+s.setHours(h,m,0,0);
+return Math.min(1,Math.max(0,(now-s)/(dur*60000)));
+}
+
+function evId(ev){
+return'ev-'+ev.esT.replace(':','')+'-'+ev.title.replace(/[^a-z0-9]/gi,'').substring(0,10);
+}
+const ICON_MAP={
+'FÚTBOL SALA': { n:'sports_soccer',      c:'#2e7d52' },
+'FÚTBOL':      { n:'sports_soccer',      c:'#0288d1' },
+'BALONCESTO':  { n:'sports_basketball',  c:'DarkOrange' },
+'BASKETBALL':  { n:'sports_basketball',  c:'DarkOrange' },
+'NBA':         { n:'sports_basketball',  c:'DarkOrange' },
+'EUROLEAGUE':  { n:'sports_basketball',  c:'DarkOrange' },
+'EUROLIGA':    { n:'sports_basketball',  c:'DarkOrange' },
+'ACB':         { n:'sports_basketball',  c:'DarkOrange' },
+'NCAAB':       { n:'sports_basketball',  c:'DarkOrange' },
+'WNBA':        { n:'sports_basketball',  c:'DarkOrange' },
+'AFRICA LEAGUE':{ n:'sports_basketball', c:'DarkOrange' },
+'TENIS':       { n:'sports_baseball',  c:'#27ae60' },
+'TENNIS':      { n:'sports_tennis',    c:'gold' },
+'ATP':         { n:'sports_tennis',    c:'gold' },
+'WTA':         { n:'sports_tennis',    c:'gold' },
+'WIMBLEDON':   { n:'sports_tennis',    c:'gold' },
+'ROLAND GARROS':{ n:'sports_tennis',   c:'gold' },
+'PÁDEL':       { n:'padel',            c:'#7b1fa2' },
+'PADEL':       { n:'sports_tennis',    c:'#7b1fa2' },
+'FÓRMULA 1':   { n:'f1-car', c:'Crimson' },
+'FORMULA 1':   { n:'f1-car', c:'Crimson' },
+'FÓRMULA 2':   { n:'f1-car', c:'Crimson' },
+'FORMULA 2':   { n:'f1-car', c:'Crimson' },
+'FÓRMULA E':   { n:'f1-car', c:'Crimson' },
+'FORMULA E':   { n:'f1-car', c:'Crimson' },
+'SUPERBIKE':   { n:'two_wheeler', c:'Crimson' },
+'SUPERSPORT':  { n:'two_wheeler', c:'Crimson' },
+'WORLDWCR':    { n:'two_wheeler', c:'Crimson' },
+'WORLD WCR':   { n:'two_wheeler', c:'Crimson' },
+'NASCAR':      { n:'nascar_car', c:'Crimson' },
+'AUTOMOVILISMO':{ n:'f1-car', c:'#7b1fa2' },
+'MOTORSPORT':  { n:'f1-car', c:'#7b1fa2' },
+'MOTOR SPORT': { n:'f1-car', c:'#7b1fa2' },
+'MOTORSPORTS': { n:'f1-car', c:'#7b1fa2' },
+'MOTOR SPORTS':{ n:'f1-car', c:'#7b1fa2' },
+'RACING':      { n:'f1-car', c:'#7b1fa2' },
+'MOTOCICLISMO':{ n:'sports_motorsports', c:'Crimson' },
+'MOTOGP':      { n:'sports_motorsports', c:'Crimson' },
+'RALLY':       { n:'sports_motorsports', c:'Crimson' },
+'CICLISMO':    { n:'pedal_bike',       c:'DarkOrange' },
+'GOLF':        { n:'sports_golf',      c:'#2d8a4e' },
+'BALONMANO':   { n:'sports_handball',  c:'Tomato' },
+'HANDBALL':    { n:'sports_handball',  c:'Tomato' },
+'KVINDELIGAEN':{ n:'sports_handball',  c:'Tomato' },
+'BAMBUSA':     { n:'sports_handball',  c:'Tomato' },
+'UFC':         { n:'sports_mma',   c:'Crimson' },
+'MMA':         { n:'sports_mma',   c:'Crimson' },
+'BOXEO':       { n:'sports_mma',       c:'Crimson' },
+'BOXING':      { n:'sports_mma',       c:'Crimson' },
+'NHL':         { n:'database',         c:'#bd2973' },
+'ICE HOCKEY':  { n:'database',         c:'#bd2973' },
+'HOCKEY HIELO':{ n:'database',         c:'#bd2973' },
+'HOCKEY':      { n:'database',         c:'#bd2973' },
+'WORLD CHAMPIONSHIPS':{ n:'database',  c:'#bd2973' },
+'WRC':         { n:'wrc-helmet',        c:'Crimson' },
+'ONE':         { n:'sports_mma',     c:'Crimson' },
+'PDC':         { n:'dart-svg',          c:'#607080' },
+'DARTS':       { n:'dart-svg',          c:'#607080' },
+'NRL':         { n:'sports_rugby',     c:'DarkOrange' },
+'AFL':         { n:'sports_rugby',     c:'DarkOrange' },
+'CAGE WARRIORS':{ n:'sports_kabaddi',  c:'Crimson' },
+'RUGBY':       { n:'sports_rugby',     c:'DarkOrange' },
+'WATERPOLO':   { n:'pool',             c:'aquamarine' },
+'ATLETISMO':   { n:'sprint',           c:'Sienna' },
+'NFL':              { n:'sports_football',  c:'DarkOrange' },
+'MLB':              { n:'sports_baseball',  c:'#c0392b' },
+'BASEBALL':         { n:'sports_baseball',  c:'#c0392b' },
+'BÉISBOL':          { n:'sports_baseball',  c:'#c0392b' },
+'FÚTBOL AMERICANO': { n:'sports_rugby',     c:'DarkOrange' },
+'AMERICAN FOOTBALL':{ n:'sports_rugby',     c:'DarkOrange' },
+'AMERICAN-FOOTBALL':{ n:'sports_rugby',     c:'DarkOrange' },
+'LUCHA':            { n:'sports_mma',       c:'#cc0000' },
+'LUCHA LIBRE':      { n:'sports_mma',       c:'#cc0000' },
+'FIGHT':            { n:'sports_mma',       c:'#cc0000' },
+'FIGHTING':         { n:'sports_mma',       c:'#cc0000' },
+'WRESTLING':        { n:'sports_mma',       c:'#cc0000' },
+};
+function getSportData(text){
+const up=text.toUpperCase().replace(/-/g,' ');
+for(const[k,v] of Object.entries(ICON_MAP)){
+if(k.length<=4){
+if(new RegExp('\\b'+k+'\\b').test(up)) return v;
+} else {
+if(up.includes(k)) return v;
+}
+}
+return null;
+}
+function getSportColor(text){
+const d=getSportData(text);
+return d?d.c:null;
+}
+function getSportIconHtml(data){
+if(!data) return '<i class="material-symbols-outlined" style="font-variation-settings:\'FILL\' 1;font-size:1.1rem;margin-right:6px;vertical-align:middle;color:#ffffff">emoji_events</i>';
+if(data.n==='database'){
+return '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="margin-right:6px;vertical-align:middle;flex-shrink:0"><ellipse cx="12" cy="9" rx="10" ry="3" fill="#ffffff"/><path d="M2 10.5v4.5c0 1.66 4.48 3 10 3s10-1.34 10-3v-4.5c0 1.66-4.48 3-10 3s-10-1.34-10-3z" fill="#ffffff"/></svg>';
+}
+if(data.n==='nascar_car'){
+return `<svg xmlns="http://www.w3.org/2000/svg" width="22" height="11" viewBox="0 0 12800 6400" style="margin-right:6px;vertical-align:middle;flex-shrink:0"><g transform="translate(0,6400) scale(1,-1)" fill="#ffffff"><path d="M3565 5336 c-106 -30 -101 -26 -108 -111 -4 -42 -9 -80 -12 -85 -6 -10 -246 -105 -590 -234 -448 -167 -1052 -415 -1173 -483 -78 -43 -193 -91 -250 -104 -23 -5 -98 -14 -165 -19 -67 -6 -167 -19 -222 -30 -154 -31 -340 -49 -563 -57 l-203 -6 -43 -66 c-59 -91 -60 -95 -26 -130 37 -37 38 -65 3 -150 -25 -62 -27 -78 -31 -256 l-4 -190 -38 -32 c-91 -78 -133 -209 -134 -418 0 -194 11 -396 26 -482 13 -71 14 -74 72 -122 69 -58 130 -129 158 -184 64 -126 534 -211 1384 -250 l92 -4 -6 119 c-6 142 8 256 49 383 112 352 394 622 756 722 90 26 112 28 278 28 165 0 188 -2 278 -27 201 -56 361 -152 504 -302 140 -145 222 -293 274 -492 21 -79 24 -109 23 -279 -1 -127 -6 -214 -16 -263 l-15 -73 3006 7 c1653 4 3007 8 3009 9 1 1 -8 37 -20 81 -19 67 -22 105 -22 259 -1 166 1 187 27 279 117 421 467 736 885 797 119 17 325 7 432 -21 239 -63 453 -205 601 -399 70 -92 154 -267 185 -386 24 -88 27 -119 27 -260 1 -116 -4 -181 -16 -234 -10 -41 -16 -75 -15 -76 2 -1 62 2 133 6 266 16 458 45 525 79 48 24 97 81 127 146 l24 52 -16 157 c-15 152 -15 163 4 284 63 388 50 680 -35 802 -134 193 -526 336 -1429 519 -737 149 -1322 209 -2033 210 -228 0 -226 0 -347 85 -187 131 -1045 607 -1471 815 -383 187 -788 281 -1439 332 -208 17 -1106 16 -1400 0 -121 -7 -314 -19 -430 -27 -302 -22 -286 -22 -341 10 -140 81 -187 94 -269 71z m1885 -333 c6 -37 38 -238 71 -446 32 -209 66 -422 75 -474 9 -52 15 -96 13 -97 -11 -9 -1699 29 -1951 44 -206 13 -417 36 -485 54 -98 26 -198 119 -249 231 -35 75 -36 172 -5 255 17 45 30 61 68 86 83 54 135 80 253 127 341 136 858 230 1460 267 269 16 270 16 511 18 l227 2 12 -67z m630 47 c264 -18 777 -110 1029 -186 186 -56 445 -188 756 -387 211 -134 274 -181 250 -185 -75 -12 -133 -50 -162 -106 -19 -35 -21 -136 -4 -179 l11 -27 -907 2 -906 3 -59 160 c-110 302 -298 878 -298 916 0 6 95 2 290 -11z"/><path d="M2633 3125 c-223 -40 -410 -141 -568 -306 -132 -138 -213 -283 -262 -467 -22 -83 -26 -119 -26 -247 -1 -169 10 -236 65 -382 87 -230 271 -436 493 -551 85 -44 178 -78 271 -98 107 -23 312 -23 419 1 392 84 699 375 802 761 23 86 26 120 27 254 1 158 -5 199 -46 330 -98 310 -355 567 -668 669 -150 50 -354 64 -507 36z m350 -301 c249 -56 457 -247 543 -499 25 -72 28 -95 28 -220 1 -153 -15 -228 -74 -345 -94 -186 -283 -337 -485 -386 -96 -24 -268 -24 -360 0 -320 84 -544 355 -562 681 -20 359 209 673 558 765 94 24 253 26 352 4z"/><path d="M10700 3119 c-390 -84 -696 -376 -797 -759 -31 -117 -41 -292 -24 -411 33 -227 150 -453 318 -609 267 -250 643 -344 993 -249 117 32 283 118 380 196 487 396 518 1128 67 1560 -97 93 -166 140 -290 198 -137 64 -235 86 -407 91 -120 3 -162 0 -240 -17z m445 -313 c238 -81 409 -258 486 -506 30 -96 33 -289 5 -388 -110 -400 -513 -637 -911 -536 -149 38 -313 147 -402 267 -176 238 -203 533 -71 797 34 69 60 103 138 180 77 78 111 104 181 139 129 65 207 81 364 77 109 -3 143 -7 210 -30z"/></g></svg>`;
+}
+if(data.n==='two_wheeler'){
+return '<i class="material-symbols-outlined" style="font-variation-settings:\'FILL\' 1;font-size:1.1rem;margin-right:6px;vertical-align:middle;color:#ffffff">two_wheeler</i>';
+}
+if(data.n==='f1-car'){
+return '<svg xmlns="http://www.w3.org/2000/svg" width="22" height="11" viewBox="0 0 12800 6400" style="margin-right:6px;vertical-align:middle;flex-shrink:0"><g transform="translate(0,6400) scale(1,-1)" fill="#ffffff"><path d="M5065 4798 c-174 -32 -209 -39 -222 -47 -14 -7 67 -26 217 -49 l45 -7 21 -65 c40 -125 41 -122 -29 -146 -34 -12 -120 -48 -192 -79 -71 -32 -242 -106 -380 -165 -137 -60 -387 -167 -555 -240 -168 -73 -366 -158 -440 -190 -74 -32 -272 -117 -440 -190 -357 -155 -599 -259 -873 -377 l-197 -85 -73 68 c-188 179 -404 266 -661 265 -87 0 -223 -19 -272 -38 -12 -4 -14 40 -14 320 l0 326 -24 28 -24 28 -476 3 -476 3 0 -736 0 -735 115 0 c63 0 115 -3 115 -6 0 -3 -52 -62 -115 -130 l-115 -125 0 -310 0 -309 342 0 342 0 57 -40 c187 -131 424 -194 639 -170 174 20 315 72 450 166 l55 39 3560 5 3560 5 3 23 c2 12 -2 22 -8 22 -7 0 -10 51 -8 168 l3 167 141 3 142 3 30 -66 c115 -244 342 -434 602 -504 584 -158 1167 257 1197 852 3 59 7 107 9 107 2 0 157 20 346 45 189 25 353 45 366 45 l22 0 0 -245 0 -245 -24 -12 c-22 -9 -35 -4 -113 46 -48 32 -131 79 -183 104 l-95 47 -142 3 -143 4 0 -286 0 -286 763 0 c419 1 782 5 807 9 79 16 80 20 80 287 0 232 0 233 -24 261 -24 27 -26 28 -128 27 -93 -1 -192 -19 -331 -60 -16 -5 -17 8 -15 207 l3 212 135 27 c271 55 373 103 330 156 -37 44 -309 150 -550 215 -158 43 -189 51 -320 80 -426 95 -879 164 -1345 204 -38 4 -103 15 -143 26 -98 27 -233 37 -345 25 -51 -6 -132 -10 -182 -10 -49 0 -290 1 -535 2 -245 2 -599 -3 -787 -9 l-341 -11 -34 26 c-19 14 -51 32 -71 41 -49 20 -107 6 -188 -46 -42 -28 -71 -39 -97 -39 -29 0 -45 -7 -67 -30 -32 -34 -52 -36 -237 -23 -91 6 -98 8 -98 27 1 15 15 28 53 46 29 14 58 37 66 51 13 24 13 30 -3 54 -26 39 -116 77 -198 83 l-68 5 0 -117 0 -116 40 0 c37 0 52 -11 31 -24 -4 -3 -170 0 -367 6 l-359 12 -380 116 -380 117 -3 83 -3 83 -50 56 -50 56 -148 0 c-135 0 -151 2 -171 20 -27 24 -50 74 -50 110 0 22 4 25 33 25 62 0 67 15 67 208 0 159 -2 174 -20 192 -11 11 -31 20 -43 20 -21 0 -26 9 -46 80 -12 45 -24 87 -28 95 -4 12 4 15 38 16 24 0 60 6 79 13 29 11 35 18 35 42 0 23 -7 33 -35 46 -29 15 -61 18 -195 17 -88 -1 -182 -6 -210 -11z"/></g></svg>';
+}
+if(data.n==='wrc-helmet'){
+return '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="margin-right:6px;vertical-align:middle;flex-shrink:0" fill="#ffffff"><path d="M16,6l3,4h2c1.11,0,2,0.89,2,2v3h-2c0,1.66-1.34,3-3,3s-3-1.34-3-3H9c0,1.66-1.34,3-3,3s-3-1.34-3-3H1v-3c0-1.11,0.89-2,2-2l3-4H16 M10.5,7.5H6.75L4.86,10h5.64V7.5 M12,7.5V10h5.14l-1.89-2.5H12 M6,13.5c-0.83,0-1.5,0.67-1.5,1.5s0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5S6.83,13.5,6,13.5 M18,13.5c-0.83,0-1.5,0.67-1.5,1.5s0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5S18.83,13.5,18,13.5z"/><rect fill="none" width="24" height="24"/></svg>';
+}
+if(data.n==='dart-svg'){
+return '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 463.001 463.001" style="margin-right:6px;vertical-align:middle;flex-shrink:0" fill="#ffffff"><path d="M436.591,124.023c-1.925-3.666-6.459-5.08-10.127-3.153c-3.668,1.925-5.079,6.459-3.154,10.127C439.462,161.758,448,196.512,448,231.5c0,57.829-22.52,112.197-63.411,153.089s-95.26,63.412-153.089,63.412s-112.197-22.52-153.089-63.412S15,289.329,15,231.5S37.52,119.303,78.411,78.411C119.303,37.52,173.671,15,231.5,15c34.999,0,69.762,8.542,100.531,24.704c3.667,1.929,8.201,0.514,10.127-3.152c1.926-3.667,0.515-8.201-3.152-10.127C306.095,9.138,268.92,0,231.5,0C169.664,0,111.53,24.08,67.805,67.805S0,169.664,0,231.5s24.08,119.971,67.805,163.695c43.725,43.725,101.859,67.805,163.695,67.805s119.971-24.08,163.695-67.805C438.92,351.471,463,293.336,463,231.5C463,194.092,453.868,156.927,436.591,124.023z"/><path d="M326.764,83.296c2.093-3.575,0.892-8.169-2.684-10.261C296.106,56.657,264.092,48,231.5,48C130.318,48,48,130.318,48,231.5c0,101.183,82.317,183.5,183.5,183.5S415,332.683,415,231.5c0-32.582-8.651-64.587-25.02-92.556c-2.093-3.576-6.688-4.777-10.261-2.685c-3.575,2.092-4.777,6.687-2.685,10.261C392.059,172.193,400,201.578,400,231.5c0,92.912-75.589,168.5-168.5,168.5S63,324.412,63,231.5C63,138.589,138.589,63,231.5,63c29.931,0,59.324,7.946,85.002,22.979C320.075,88.072,324.671,86.87,326.764,83.296z"/><path d="M302.222,105.809c1.844-3.709,0.331-8.21-3.378-10.054C277.81,85.301,255.153,80,231.5,80C147.963,80,80,147.963,80,231.5s67.963,151.5,151.5,151.5S383,315.038,383,231.5c0-24.147-5.823-48.174-16.841-69.485c-1.903-3.68-6.429-5.12-10.106-3.218c-3.68,1.902-5.12,6.427-3.218,10.107C362.898,188.369,368,209.429,368,231.5c0,75.267-61.233,136.5-136.5,136.5S95,306.767,95,231.5C95,156.234,156.234,95,231.5,95c21.314,0,41.727,4.773,60.668,14.188C295.876,111.03,300.378,109.518,302.222,105.809z"/><path d="M262.712,140.377c1.03-4.012-1.387-8.1-5.399-9.13C248.924,129.092,240.24,128,231.5,128C174.43,128,128,174.43,128,231.5s46.43,103.5,103.5,103.5S335,288.57,335,231.5c0-8.763-1.099-17.471-3.265-25.88c-1.033-4.011-5.119-6.423-9.134-5.393c-4.011,1.033-6.425,5.123-5.392,9.134c1.852,7.188,2.79,14.637,2.79,22.139c0,48.799-39.701,88.5-88.5,88.5S143,280.299,143,231.5s39.701-88.5,88.5-88.5c7.481,0,14.911,0.934,22.082,2.775C257.591,146.805,261.681,144.388,262.712,140.377z"/><path d="M231.5,175c4.143,0,7.5-3.358,7.5-7.5s-3.357-7.5-7.5-7.5c-39.425,0-71.5,32.075-71.5,71.5s32.075,71.5,71.5,71.5s71.5-32.075,71.5-71.5c0-4.142-3.357-7.5-7.5-7.5s-7.5,3.358-7.5,7.5c0,31.154-25.346,56.5-56.5,56.5S175,262.654,175,231.5S200.346,175,231.5,175z"/><path d="M331.605,120.788c-3.207-1.595-6.761-2.444-10.449-2.444c-6.281,0-12.184,2.446-16.616,6.884l-49.656,49.656c-4.438,4.439-6.884,10.34-6.884,16.616c0,3.686,0.85,7.241,2.445,10.448l-24.249,24.249c-2.929,2.929-2.929,7.678,0,10.606c1.465,1.464,3.385,2.197,5.304,2.197s3.839-0.732,5.304-2.197l24.248-24.248c3.207,1.595,6.761,2.444,10.449,2.444c6.281,0,12.184-2.446,16.616-6.884l49.656-49.656c4.438-4.439,6.884-10.34,6.884-16.616c0-3.686-0.85-7.241-2.445-10.448L354.607,119H399.5c1.989,0,3.896-0.79,5.304-2.197l56-56c2.145-2.145,2.786-5.371,1.625-8.173c-1.16-2.803-3.896-4.63-6.929-4.63H415V7.5c0-3.034-1.827-5.768-4.63-6.929c-2.803-1.161-6.028-0.519-8.174,1.626l-56,56C344.79,59.603,344,61.511,344,63.5v44.893L331.605,120.788z M327.165,147.853l-49.659,49.66c-1.603,1.604-3.735,2.487-6.006,2.487s-4.404-0.883-6.009-2.491c-1.606-1.606-2.491-3.74-2.491-6.009s0.885-4.403,2.491-6.009l49.659-49.66c1.603-1.604,3.735-2.487,6.006-2.487s4.404,0.883,6.009,2.491C330.479,139.148,330.479,144.54,327.165,147.853z M359,66.607l41-41V55.5c0,4.142,3.357,7.5,7.5,7.5h29.894l-41,41h-26.787l19.197-19.197c2.929-2.929,2.929-7.678,0-10.606c-2.93-2.929-7.678-2.929-10.607,0L359,93.393V66.607z"/></svg>';
+}
+if(/^\p{Emoji}/u.test(data.n)){
+return `<span style="font-size:1rem;margin-right:6px;vertical-align:middle;line-height:1;">${data.n}</span>`;
+}
+return `<i class="material-symbols-outlined" style="font-variation-settings:'FILL' 1;font-size:1.1rem;margin-right:6px;vertical-align:middle;color:#ffffff">${data.n}</i>`;
+}
+const LEAGUE_FLAGS=[
+{k:'CHAMPIONS LEAGUE', f:'eu'}, {k:'UEFA CHAMPIONS',  f:'eu'},
+{k:'EUROPA LEAGUE',    f:'eu'}, {k:'UEFA EUROPA',     f:'eu'},
+{k:'UEFA CONFERENCE',  f:'eu'}, {k:'EURO ',           f:'eu'},
+{k:'PREMIER LEAGUE',   f:'gb-eng'}, {k:'FA CUP',          f:'gb-eng'},
+{k:'CHAMPIONSHIP',     f:'gb-eng'}, {k:'LEAGUE ONE',      f:'gb-eng'},
+{k:'LEAGUE TWO',       f:'gb-eng'},
+{k:'LALIGA',           f:'es'}, {k:'LA LIGA',         f:'es'},
+{k:'COPA DEL REY',     f:'es'}, {k:'PRIMERA RFEF',    f:'es'},
+{k:'AUSTRIA BUNDESLIGA',f:'at'},
+{k:'BUNDESLIGA',       f:'de'}, {k:'DFB POKAL',       f:'de'},
+{k:'LIGUE 1',          f:'fr'}, {k:'LIGUE 2',         f:'fr'},
+{k:'COUPE DE FRANCE',  f:'fr'},
+{k:'SERIE A',          f:'it'}, {k:'SERIE B',         f:'it'},
+{k:'COPPA ITALIA',     f:'it'},
+{k:'PRIMEIRA LIGA',    f:'pt'}, {k:'TAÇA DE PORTUGAL',f:'pt'},
+{k:'LIGA PORTUGAL',    f:'pt'},
+{k:'EREDIVISIE',       f:'nl'},
+{k:'JUPILER',          f:'be'},
+{k:'SÜPER LIG',        f:'tr'}, {k:'SUPER LIG',       f:'tr'},
+{k:'SCOTTISH PREM',    f:'gb-sct'},{k:'SCOTTISH',     f:'gb-sct'},
+{k:'BRASILEIRAO',      f:'br'}, {k:'CAMPEONATO BRASILEIRO',f:'br'},
+{k:'LIGA MX',          f:'mx'},
+{k:'MLS',              f:'us'}, {k:'USL',             f:'us'},
+{k:'J LEAGUE',         f:'jp'}, {k:'J1 LEAGUE',       f:'jp'},
+{k:'K LEAGUE',         f:'kr'},
+{k:'CHINESE SUPER',    f:'cn'},
+{k:'SAUDI PRO LEAGUE', f:'sa'}, {k:'SAUDI LEAGUE',    f:'sa'},
+{k:'SUPER LEAGUE GREECE',f:'gr'},
+{k:'RPL',              f:'ru'},
+{k:'EKSTRAKLASA',      f:'pl'},
+{k:'ALLSVENSKAN',      f:'se'},
+{k:'ELITESERIEN',      f:'no'},
+{k:'SUPERLIGA',        f:'dk'},
+{k:'VEIKKAUSLIIGA',    f:'fi'},
+{k:'JUPILER',          f:'be'},
+{k:'AUSTRIA BUNDESLIGA',f:'at'},
+{k:'BELGIAN',          f:'be'},
+{k:'ENGLAND',          f:'gb'}, {k:'ENGLISH',         f:'gb'},
+{k:'SPAIN',            f:'es'}, {k:'SPANISH',         f:'es'},
+{k:'GERMANY',          f:'de'}, {k:'GERMAN',          f:'de'},
+{k:'FRANCE',           f:'fr'}, {k:'FRENCH',          f:'fr'},
+{k:'ITALY',            f:'it'}, {k:'ITALIAN',         f:'it'},
+{k:'PORTUGAL',         f:'pt'}, {k:'PORTUGUESE',      f:'pt'},
+{k:'NETHERLANDS',      f:'nl'}, {k:'DUTCH',           f:'nl'},
+{k:'BELGIUM',          f:'be'},
+{k:'TURKEY',           f:'tr'}, {k:'TURKISH',         f:'tr'},
+{k:'ARGENTINA',        f:'ar'},
+{k:'BRAZIL',           f:'br'}, {k:'BRAZILIAN',       f:'br'},
+{k:'MEXICO',           f:'mx'},
+{k:'COLOMBIA',         f:'co'},
+{k:'CHILE',            f:'cl'},
+{k:'PERU',             f:'pe'},
+{k:'VENEZUELA',        f:'ve'},
+{k:'ECUADOR',          f:'ec'},
+{k:'BOLIVIA',          f:'bo'},
+{k:'PARAGUAY',         f:'py'},
+{k:'URUGUAY',          f:'uy'},
+{k:'USA',              f:'us'},
+{k:'POLAND',           f:'pl'},
+{k:'SWEDEN',           f:'se'}, {k:'SEWDEN',          f:'se'},
+{k:'NORWAY',           f:'no'},
+{k:'DENMARK',          f:'dk'},
+{k:'FINLAND',          f:'fi'},
+{k:'AUSTRIA',          f:'at'},
+{k:'GREECE',           f:'gr'},
+{k:'RUSSIA',           f:'ru'},
+{k:'UKRAINE',          f:'ua'},
+{k:'JAPAN',            f:'jp'},
+{k:'SOUTH KOREA',      f:'kr'},
+{k:'CHINA',            f:'cn'},
+{k:'SAUDI',            f:'sa'},
+{k:'MOROCCO',          f:'ma'},
+{k:'EGYPT',            f:'eg'},
+{k:'NIGERIA',          f:'ng'},
+{k:'SOUTH AFRICA',     f:'za'},
+{k:'AUSTRALIA',        f:'au'},
+{k:'IRAN',             f:'ir'},
+{k:'INDIA',            f:'in'},
+{k:'ISRAEL',           f:'il'},
+{k:'SWITZERLAND',      f:'ch'}, {k:'SWISS',           f:'ch'},
+{k:'CROATIA',          f:'hr'},
+{k:'SERBIA',           f:'rs'},
+{k:'CZECH',            f:'cz'},
+{k:'SLOVAKIA',         f:'sk'},
+{k:'HUNGARY',          f:'hu'},
+{k:'ROMANIA',          f:'ro'},
+{k:'BULGARIA',         f:'bg'},
+{k:'PRIMERA DIVISION', f:'ar'},
+];
+const COUNTRY_WORDS=[
+'ENGLAND','ENGLISH','SPAIN','SPANISH','GERMANY','GERMAN','FRANCE','FRENCH',
+'ITALY','ITALIAN','PORTUGAL','PORTUGUESE','NETHERLANDS','DUTCH','BELGIUM','BELGIAN',
+'TURKEY','TURKISH','SCOTLAND','SCOTTISH','ARGENTINA','BRAZIL','BRAZILIAN',
+'MEXICO','COLOMBIA','CHILE','PERU','VENEZUELA','ECUADOR','BOLIVIA','PARAGUAY','URUGUAY',
+'USA','POLAND','SWEDEN','SEWDEN','NORWAY','DENMARK','FINLAND','AUSTRIA','GREECE',
+'RUSSIA','UKRAINE','JAPAN','SOUTH KOREA','CHINA','SAUDI','MOROCCO','EGYPT',
+'NIGERIA','SOUTH AFRICA','AUSTRALIA','IRAN','INDIA','ISRAEL','SWITZERLAND','SWISS',
+'CROATIA','SERBIA','CZECH','SLOVAKIA','HUNGARY','ROMANIA','BULGARIA',
+];
+function getLeagueFlag(league){
+const up=league.toUpperCase();
+for(const{k,f} of LEAGUE_FLAGS){
+if(up.includes(k)) return f;
+}
+return null;
+}
+function stripCountryFromLabel(label, flagCode){
+if(!flagCode) return label;
+let result=label.toUpperCase();
+for(const w of COUNTRY_WORDS){
+const re=new RegExp('\\b'+w+'\\b','g');
+result=result.replace(re,'');
+}
+return result.replace(/\s{2,}/g,' ').trim();
+}
+const SPORT_ES={
+'FOOTBALL':'FÚTBOL','SOCCER':'FÚTBOL','BASEBALL':'BÉISBOL','BASKETBALL':'BALONCESTO',
+'TENNIS':'TENIS','GOLF':'GOLF','RUGBY':'RUGBY','HOCKEY':'HOCKEY',
+'ICE HOCKEY':'HOCKEY HIELO','BOXING':'BOXEO','WRESTLING':'LUCHA LIBRE','FIGHT':'LUCHA','FIGHTING':'LUCHA','AMERICAN FOOTBALL':'FÚTBOL AMERICANO','AMERICAN-FOOTBALL':'FÚTBOL AMERICANO','BÉISBOL':'BÉISBOL',
+'CYCLING':'CICLISMO','ATHLETICS':'ATLETISMO','SWIMMING':'NATACIÓN',
+'VOLLEYBALL':'VOLEIBOL','HANDBALL':'BALONMANO','MOTORSPORT':'AUTOMOVILISMO',
+'MOTOR SPORT':'AUTOMOVILISMO','RACING':'CARRERAS','DARTS':'DARDOS',
+'SNOOKER':'SNOOKER','CRICKET':'CRICKET','AMERICAN FOOTBALL':'FÚTBOL AMERICANO',
+'OTHER':'OTROS','OTHERS':'OTROS','MIXED':'VARIOS','MULTI SPORT':'MULTIDEPORTE',
+'SPORTS':'DEPORTES','MARTIAL ARTS':'ARTES MARCIALES','COMBAT SPORTS':'DEPORTES DE COMBATE',
+'EXTREME SPORTS':'DEPORTES EXTREMOS','WINTER SPORTS':'DEPORTES DE INVIERNO',
+'WATER SPORTS':'DEPORTES ACUÁTICOS','TRACK AND FIELD':'ATLETISMO',
+'EQUESTRIAN':'EQUITACIÓN','GYMNASTICS':'GIMNASIA','MMA':'MMA','UFC':'UFC',
+'NBA':'NBA','NFL':'NFL','NHL':'NHL','MLB':'BÉISBOL','NRL':'NRL','AFL':'AFL',
+};
+function translateSportLabel(label){
+const normalized=label.replace(/-/g,' ').trim();
+const up=normalized.toUpperCase();
+const sorted=Object.entries(SPORT_ES).sort((a,b)=>b[0].length-a[0].length);
+for(const[k,v] of sorted){
+if(up===k) return v;
+}
+for(const[k,v] of sorted){
+if(up.includes(k)){
+return normalized.replace(new RegExp(k,'i'),v);
+}
+}
+return normalized;
+}
+function buildCompBadge(label,card){
+label=label.replace(/-/g,' ').trim();
+const sportData=getSportData(label);
+const sportColor=sportData?sportData.c:null;
+const c=document.createElement('div');
+c.className='comp';
+c.style.display='flex';
+c.style.alignItems='center';
+c.style.justifyContent='center';
+let iconHtml, flagHtml='', displayLabel=translateSportLabel(label).toUpperCase();
+const isOtros=displayLabel==='OTROS'||displayLabel==='OTHERS'||displayLabel==='VARIOS'||displayLabel==='OTHER';
+if(sportData){
+iconHtml=getSportIconHtml(sportData);
+if(sportColor) c.style.background=sportColor;
+} else {
+if(isOtros){
+iconHtml='';
+c.style.background='#ffcc00';
+c.style.color='#ffffff';
+} else {
+iconHtml='<i class="material-symbols-outlined" style="font-variation-settings:\'FILL\' 1;font-size:1.1rem;margin-right:5px;vertical-align:middle;color:#ffffff">sports_soccer</i>';
+}
+const flagCode=getLeagueFlag(label);
+if(flagCode){
+flagHtml='<img src="https://flagcdn.com/'+flagCode+'.svg" style="height:12px;width:auto;border-radius:1px;vertical-align:middle;margin-right:5px;flex-shrink:0;" loading="lazy">';
+displayLabel=stripCountryFromLabel(label, flagCode);
+if(!displayLabel) displayLabel=label.toUpperCase();
+}
+}
+c.innerHTML=iconHtml+flagHtml+displayLabel.replace(/\s*\/\s*\w+/g,'').trim();
+card.appendChild(c);
+}
+function buildCard(ev){
+const card=document.createElement('div');
+card.className='card'+(ev.st==='live'?' live':'');
+card.id=evId(ev);
+card.dataset.h=ev.h;
+card.dataset.m=ev.m;
+card.dataset.title=ev.title;
+card.dataset.dur=ev.dur||120;
+const cm=ev.title.match(/^([^:]+):\s+(.+)$/);
+const rawVsTitle=cm?cm[2]:ev.title;
+const vsTitle=rawVsTitle.replace(/\s+@\s+/,' vs ');
+const mp=vsTitle.match(/^(.+?)\s+(?:x|vs\.?)\s+(.+)$/i);
+const compLabel=cm?cm[1].trim():null;
+if(compLabel){
+buildCompBadge(compLabel,card);
+}
+if(ev.st==='live'){
+const b=document.createElement('span');b.className='sbadge lb';
+b.textContent='🟢 EN DIRECTO';card.appendChild(b);
+}
+if(mp){
+const row=document.createElement('div');row.className='mrow';
+row.innerHTML=`<div class="tside"><div class="tname">${mp[1].trim()}</div></div>
+<div class="mctr"><div class="mtime">${ev.esT}</div><div class="mvs">VS</div></div>
+<div class="tside"><div class="tname">${mp[2].trim()}</div></div>`;
+card.appendChild(row);
+}else{
+const row=document.createElement('div');row.className='erow';
+row.innerHTML=`<span class="ename">${cm?cm[2]:ev.title}</span><span class="etime">${ev.esT}</span>`;
+card.appendChild(row);
+}
+if(ev.chs.length){
+const w=document.createElement('div');w.className='chw';
+if(document.documentElement.classList.contains('tv-box')){
+w.style.justifyContent='center';
+w.style.alignSelf='stretch';
+w.style.flexWrap='wrap';
+w.style.overflowX='hidden';
+}
+const ES_LATAM_CODES=['ES','AR','MX','CO','CL','PE','VE','EC','BO','PY','UY','CR','PA','DO','CU','GT',
+'SPANISH','CATALAN','SPAIN','MEXICO','ARGENTINA','COLOMBIA','CHILE','PERU','VENEZUELA',
+'ECUADOR','BOLIVIA','PARAGUAY','URUGUAY','COSTA RICA','GUATEMALA'];
+const PT_BR_CODES=['PT','BR','PORTUGUESE','BRAZILIAN','PORTUGAL','BRAZIL'];
+const LANG_PRI=(l)=>{const u=(l||'').toUpperCase();if(ES_LATAM_CODES.includes(u))return 0;if(PT_BR_CODES.includes(u))return 1;return 2;};
+const CH_COUNTRY_SUFFIXES=[
+'Argentina','Spain','Mexico','Colombia','Chile','Peru','Venezuela',
+'Ecuador','Bolivia','Paraguay','Uruguay','Brazil','Brasil',
+'England','Germany','France','Italy','Portugal','Netherlands',
+'Turkey','Greece','Poland','Sweden','Norway','Denmark','Finland',
+'Austria','Russia','Ukraine','Japan','Australia','India','USA',
+'United States','Saudi Arabia','South Africa','South Korea',
+'Switzerland','Croatia','Serbia','Slovakia','Hungary','Romania','Bulgaria',
+'Belgium','Israel','Egypt','Morocco','Nigeria','Pakistan','Indonesia','Thailand',
+'Canada','China'
+];
+const sorted=[...ev.chs].sort((a,b)=>LANG_PRI(a.lang)-LANG_PRI(b.lang));
+for(const ch of sorted){
+const urls=ch.urls||[ch.url].filter(Boolean);
+if(!urls.length)continue;
+const btn=document.createElement('div');btn.className='chbtn';
+btn.style.flexDirection='column';btn.style.gap='4px';btn.style.cursor='pointer';
+let chName=ch.name||'';
+if(ch.lang){
+for(const cs of CH_COUNTRY_SUFFIXES){
+const re=new RegExp('\\s+'+cs+'$','i');
+chName=chName.replace(re,'').trim();
+}
+}
+chName=chName.replace(/^(Spanish|English|French|German|Italian|Portuguese|Arabic|Dutch|Turkish|Russian|Chinese|Japanese|Korean|Polish|Swedish|Norwegian|Danish|Finnish|Greek|Hungarian|Romanian|Czech|Slovak|Bulgarian|Croatian|Serbian|Ukrainian|Hebrew|Indonesian|Thai|Persian|Hindi)\s*[-–]\s*/i,'').trim();
+let flagHtml=flagOf(ch.lang);
+if(!flagHtml||flagHtml.includes('?')){
+const nameUp=(ch.name||'').toUpperCase();
+const fallbackLang=Object.keys(FLAGS).find(k=>nameUp.includes(k));
+if(fallbackLang) flagHtml=flagOf(fallbackLang);
+}
+btn.innerHTML=flagHtml+
+'<span style="font-size:.62rem;font-weight:700;color:rgba(255,255,255,.85);text-align:center;letter-spacing:.3px;line-height:1.2;max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">'+
+chName+'</span>';
+const chKey2=chName||ch.lang||'ch';
+const lsKey='lnk_'+btoa(unescape(encodeURIComponent(chKey2+ev.title))).replace(/=/g,'').substring(0,32);
+const lsTs='lts_'+lsKey;
+function getNextUrl(){
+const now=Date.now();
+const last=parseInt(localStorage.getItem(lsTs)||'0');
+let idx=0;
+if(urls.length>1){
+if(now-last>900000){ idx=0; }
+else { idx=((parseInt(localStorage.getItem(lsKey)||'0')+1)%urls.length); }
+}
+localStorage.setItem(lsKey,idx);
+localStorage.setItem(lsTs,now);
+return urls[idx];
+}
+if(urls.length===1){
+btn.addEventListener('click',()=>window.open(urls[0],'_blank','noopener,noreferrer'));
+} else if(_hasKeyboard){
+btn.addEventListener('click',()=>window.open(getNextUrl(),'_blank','noopener,noreferrer'));
+} else {
+let lpTimer=null,lpFired=false;
+btn.addEventListener('pointerdown',()=>{
+lpFired=false;
+lpTimer=setTimeout(()=>{ lpFired=true; lpTimer=null; openLinksPopup(chKey2,urls); },500);
+});
+btn.addEventListener('pointerup',()=>{
+if(lpTimer!==null){ clearTimeout(lpTimer); lpTimer=null; if(!lpFired) window.open(getNextUrl(),'_blank','noopener,noreferrer'); }
+});
+btn.addEventListener('pointercancel',()=>{ clearTimeout(lpTimer); lpTimer=null; });
+btn.addEventListener('contextmenu',(e)=>{ e.preventDefault(); openLinksPopup(chKey2,urls); });
+btn.addEventListener('dragstart',(e)=>e.preventDefault());
+}
+w.appendChild(btn);
+}
+card.appendChild(w);
+}
+if(ev.st==='live'){
+const pct=getLivePct(ev.h,ev.m,ev.dur||120);
+const pw=document.createElement('div');pw.className='pw';
+const pb=document.createElement('div');pb.className='pb';
+pb.style.transform=`scaleX(${pct.toFixed(4)})`;
+pw.appendChild(pb);card.appendChild(pw);
+}
+return card;
+}
+function animateOut(card){
+if(card&&!card.classList.contains('finishing')){
+card.classList.add('finishing');
+card.addEventListener('animationend',()=>card.remove(),{once:true});
+}
+}
+function dayLabel(dayName){
+const now=new Date();
+const todayIdx=now.getDay();
+const dayIdx=WDAYS.indexOf(dayName);
+const diff=(dayIdx-todayIdx+7)%7;
+const dayEs=(DAY_ES[dayName]||dayName).toUpperCase();
+const d=new Date(now);
+d.setDate(d.getDate()+diff);
+const dia=d.getDate();
+const meses=['ENERO','FEBRERO','MARZO','ABRIL','MAYO','JUNIO','JULIO','AGOSTO','SEPTIEMBRE','OCTUBRE','NOVIEMBRE','DICIEMBRE'];
+const mes=meses[d.getMonth()];
+let prefix='';
+if(diff===0)prefix='<span style="color:var(--text,#fff);font-weight:400;margin-right:4px">HOY</span>';
+else if(diff===1)prefix='<span style="color:var(--text,#fff);font-weight:400;margin-right:4px">MAÑANA</span>';
+return prefix+dayEs+' <span style="color:var(--text,#fff);font-weight:400;margin-left:4px">'+dia+' '+mes+'</span>';
+}
+function renderEvents(show=true){
+const cont=document.getElementById('container');
+cont.style.display='none';
+cont.innerHTML='';
+const oldClock=document.getElementById('time-marker-container');
+if(oldClock)oldClock.remove();
+for(const b of allBlocks){
+const visible=b.evs.filter(ev=>ev.st!=='fin');
+if(!visible.length)continue;
+const dh=document.createElement('div');dh.className='dh';
+dh.innerHTML=dayLabel(b.day);
+cont.appendChild(dh);
+const todayIdx=new Date().getDay();
+const isToday=WDAYS.indexOf(b.day)===todayIdx;
+let lastLiveInserted=false;
+for(let i=0;i<visible.length;i++){
+const ev=visible[i];
+const isLast=ev.st==='live'&&(i===visible.length-1||visible[i+1].st!=='live');
+cont.appendChild(buildCard(ev));
+if(isLast&&isToday&&!lastLiveInserted){
+lastLiveInserted=true;
+insertClock(cont);
+}
+}
+}
+if(show){
+document.fonts.ready.then(()=>{
+cont.style.display='flex';
+});
+}
+}
+function insertClock(cont){
+var existing=document.getElementById('time-marker-container');
+if(existing)existing.remove();
+var now=new Date();
+var t=now.getHours().toString().padStart(2,'0')+':'+now.getMinutes().toString().padStart(2,'0');
+var div=document.createElement('div');
+div.id='time-marker-container';
+div.className='dh';
+div.style.cssText='position:static;background:transparent;margin:10px 0;animation:blink-marker 2s infinite;z-index:1;';
+var txt=document.createElement('span');
+txt.id='real-time-marker';
+txt.style.cssText='margin:0;color:#fff;';
+txt.textContent=t;
+div.appendChild(txt);
+cont.appendChild(div);
+}
+function renderChannels(){
+const cv=document.getElementById('channels-view');cv.innerHTML='';
+for(const b of allBlocks){
+if(!b.chList.length)continue;
+const dh=document.createElement('div');dh.className='dh';
+dh.innerHTML=dayLabel(b.day);
+cv.appendChild(dh);
+const grid=document.createElement('div');grid.className='ch-grid';
+for(const ch of b.chList){
+const a=document.createElement('a');a.className='ch-card';
+a.href=ch.url;a.target='_blank';a.rel='noopener noreferrer';
+a.innerHTML=flagOf(ch.lang);
+grid.appendChild(a);
+}
+cv.appendChild(grid);
+}
+}
+function updateStatuses(){
+if(!allBlocks.length)return;
+const todayIdx=new Date().getDay();
+for(const b of allBlocks){
+const isToday=WDAYS.indexOf(b.day)===todayIdx;
+for(const ev of b.evs){
+const prev=ev.st;
+ev.st=getStatus(ev.h,ev.m,isToday,ev.dur);
+if(ev.st==='fin'&&prev!=='fin'){
+const card=document.getElementById(evId(ev));
+animateOut(card);
+} else if(ev.st==='live'&&prev!=='live'){
+const card=document.getElementById(evId(ev));
+if(card){
+card.classList.add('live');
+if(!card.querySelector('.sbadge')){
+const b2=document.createElement('span');b2.className='sbadge lb';
+b2.textContent='🟢 EN DIRECTO';
+const compEl=card.querySelector('.comp');
+if(compEl)compEl.after(b2);else card.prepend(b2);
+}
+}
+}
+}
+}
+}
+function updateProgressBars(){
+document.querySelectorAll('.card.live').forEach(card=>{
+const pb=card.querySelector('.pb');
+if(!pb)return;
+const h=+card.dataset.h,m=+card.dataset.m,dur=+card.dataset.dur||120;
+const pct=getLivePct(h,m,dur);
+pb.style.transform=`scaleX(${pct.toFixed(4)})`;
+});
+}
+let curTab='events';
+function switchTab(tab){
+curTab='events';
+document.getElementById('ni-ev').classList.add('active');
+document.getElementById('container').style.display='flex';
+document.getElementById('channels-view').style.display='none';
+window.scrollTo({top:0,behavior:'instant'});
+document.documentElement.scrollTop=0;
+document.body.scrollTop=0;
+}
+const TIROALPALO_BASE='https://tiroalpalooff.com';
+const DIRECTO_URL=TIROALPALO_BASE+'/directo';
+const PROXIES=['https://proxylive.vercel.app/','https://proxys-oeyb.onrender.com/','https://cors.io/?u='];
+const CACHE_KEY='ag2_cache';
+function saveCache(data){
+try{localStorage.setItem(CACHE_KEY,JSON.stringify({data}));}catch(e){}
+}
+function loadCache(){
+try{const raw=localStorage.getItem(CACHE_KEY);if(!raw)return null;return JSON.parse(raw).data||null;}catch(e){return null;}
+}
+async function fetchHTML(url){
+let lastErr;
+const attempts=[url,...PROXIES.map(p=>p.includes('?')?`${p}${encodeURIComponent(url)}`:`${p}${url}`)];
+try{
+return await Promise.any(attempts.map(u=>
+fetch(u,{cache:'no-cache'}).then(async r=>{
+if(!r.ok)throw new Error('bad status');
+const text=await r.text();
+// proxies sometimes wrap in JSON
+try{const d=JSON.parse(text);if(d&&d.body!==undefined)return typeof d.body==='string'?d.body:JSON.stringify(d.body);}catch(e){}
+return text;
+})
+));
+}catch(e){lastErr=e;throw lastErr;}
+}
+function parseHourMin(timeStr){
+// "18:00" or "(18:00)" or "21:00 aprox."
+const m=timeStr.match(/(\d{1,2}):(\d{2})/);
+if(!m)return null;
+return{h:parseInt(m[1]),m:parseInt(m[2])};
+}
+async function buildFromTiroAlPalo(){
+const html=await fetchHTML(DIRECTO_URL);
+const parser=new DOMParser();
+const doc=parser.parseFromString(html,'text/html');
+// Events listed as <li> containing <h3><a href="...">Title (HH:MM)</a></h3>
+const links=Array.from(doc.querySelectorAll('li h3 a, article h2 a, .items-row h2 a, h3 a')).filter(a=>{
+const href=a.getAttribute('href')||'';
+return href.includes(TIROALPALO_BASE)||href.startsWith('/');
+});
+if(!links.length)return null;
+const todayIdx=new Date().getDay();
+const dayName=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'][todayIdx];
+const evMap=new Map();
+const toMin=t=>{const[hh,mm]=t.split(':').map(Number);return hh<7?-(7*60-(hh*60+mm)):hh*60+mm};
+// Fetch each event page to get stream links (limit to 15 to avoid flooding)
+const toFetch=links.slice(0,15);
+await Promise.allSettled(toFetch.map(async a=>{
+const rawTitle=a.textContent.trim();
+const timeMatch=rawTitle.match(/\((\d{1,2}:\d{2}[^)]*)\)/);
+if(!timeMatch)return;
+const timeRaw=timeMatch[1];
+const hm=parseHourMin(timeRaw);
+if(!hm)return;
+const esT=hm.h.toString().padStart(2,'0')+':'+hm.m.toString().padStart(2,'0');
+// Infer category from URL segments: /futbol/europa-league/... → "EUROPA LEAGUE"
+let href=a.getAttribute('href')||'';
+if(!href.startsWith('http'))href=TIROALPALO_BASE+href;
+const parts=href.replace(TIROALPALO_BASE,'').split('/').filter(Boolean);
+let category='';
+if(parts.length>=2){
+category=parts[1].replace(/-/g,' ').toUpperCase();
+}
+// Clean title: remove time portion
+const cleanTitle=rawTitle.replace(/\s*\(\d{1,2}:\d{2}[^)]*\)/,'').trim();
+const fullTitle=category?category+': '+cleanTitle:cleanTitle;
+const key=esT+'|'+fullTitle;
+if(!evMap.has(key)){
+evMap.set(key,{esT,h:hm.h,m:hm.m,title:fullTitle,dur:120,chs:[],url:href});
+}
+// Fetch event page for stream links
+try{
+const evHtml=await fetchHTML(href);
+const evDoc=parser.parseFromString(evHtml,'text/html');
+// Stream buttons: <a href="...player..."><img ...></a> inside article body
+const streamAnchors=Array.from(evDoc.querySelectorAll('article a[href], .item-page a[href], .com-content-article a[href]')).filter(a2=>{
+const h2=a2.getAttribute('href')||'';
+// Has child image and points to an external player
+return a2.querySelector('img')&&h2.startsWith('http')&&!h2.includes('tiroalpalooff.com')&&!h2.includes('youtube')&&!h2.includes('twitter')&&!h2.includes('x.com');
+});
+const ev=evMap.get(key);
+if(!ev)return;
+streamAnchors.forEach((a2,i)=>{
+const url2=a2.getAttribute('href');
+const lang='ES';
+const flagCode='ES';
+const chKey=lang+'|'+flagCode+'|'+i;
+ev.chs.push({key:chKey,name:'Directo '+(i+1),lang:flagCode,urls:[url2]});
+});
+// Fallback: if no stream anchors found, add the event page itself as channel
+if(!streamAnchors.length){
+ev.chs.push({key:'TAP|ES',name:'TiroAlPalo',lang:'ES',urls:[href]});
+}
+}catch(e){}
+}));
+const evs=[...evMap.values()]
+.filter(ev=>ev.chs.length>0)
+.map(ev=>({...ev,st:getStatus(ev.h,ev.m,true,ev.dur)}))
+.sort((a,b)=>toMin(a.esT)-toMin(b.esT));
+if(!evs.length)return null;
+return[{day:dayName,evs,chList:[]}];
+}
+function langToFlagCode(lang){
+const up=(lang||'').toUpperCase().trim();
+if(!up)return'ES';
+if(FLAGS[up])return up;
+// Match whole words only (e.g. "ARABIC" must match the full alias, not have
+// a short code like "AR" (Argentina) match as a prefix of it).
+const words=up.split(/[^A-Z]+/).filter(Boolean);
+for(const w of words){
+if(FLAGS[w])return w;
+}
+// Fall back to longest known alias that is fully contained as a whole word
+const sorted=Object.keys(FLAGS).sort((a,b)=>b.length-a.length);
+const found=sorted.find(k=>new RegExp('\\b'+k+'\\b').test(up));
+return found||'GB';
+}
+async function loadData(silent=false){
+const sp=document.getElementById('sp');
+document.getElementById('err').style.display='none';
+if(!silent){
+sp.style.display='flex';
+document.body.classList.remove('loaded');
+}
+let parsed=null,lastErr='';
+try{
+parsed=await buildFromTiroAlPalo();
+if(parsed)saveCache(parsed);
+else lastErr='Sin eventos disponibles';
+}catch(e){lastErr='No se pudo acceder al servidor';}
+if(parsed){
+allBlocks=parsed;
+renderEvents();
+renderChannels();
+switchTab(curTab);
+if(window._remoteControl&&!window._remoteControl.focusedEl){
+setTimeout(()=>window._remoteControl.focusFirst(),100);
+}
+}else if(!silent){
+const el=document.getElementById('err');
+el.style.display='flex';el.style.flexDirection='column';el.style.alignItems='center';
+document.getElementById('emsg').textContent=lastErr||'No se pudo acceder al servidor';
+}
+if(!silent){
+sp.style.display='none';
+document.body.classList.add('loaded');
+}
+}
+document.getElementById('channels-view').style.display='none';
+(function(){
+try{
+const cached=loadCache();
+if(!cached)return;
+allBlocks=cached;
+renderEvents(false);
+renderChannels();
+}catch(e){}
+})();
+loadData();
+setInterval(()=>loadData(true), 5*60*1000);
+const _hasFinePointer = window.matchMedia('(pointer: fine)').matches;
+const _hasKeyboard = navigator.maxTouchPoints === 0 || _hasFinePointer;
+let RemoteControl = null;
+if (_hasKeyboard) { RemoteControl = window._remoteControl = {
+focusedEl: null,
+getFocusables() {
+return Array.from(document.querySelectorAll('.chbtn')).filter(el => {
+const r = el.getBoundingClientRect();
+return r.width > 0 && r.height > 0;
+});
+},
+getNavItems() {
+return Array.from(document.querySelectorAll('.ni')).filter(el => {
+const r = el.getBoundingClientRect();
+return r.width > 0 && r.height > 0;
+});
+},
+focus(el) {
+if (!el) return;
+if (this.focusedEl) this.focusedEl.classList.remove('tv-focus');
+this.focusedEl = el;
+el.classList.add('tv-focus');
+const navH = 58;
+const margin = 12;
+const r = el.getBoundingClientRect();
+if (r.top < navH + margin) {
+el.scrollIntoView({ block: 'center', behavior: 'instant' });
+} else if (r.bottom > window.innerHeight - margin) {
+const parentCard = el.closest('.card');
+if (parentCard) {
+const cr = parentCard.getBoundingClientRect();
+if (cr.bottom > window.innerHeight - margin) {
+window.scrollBy({ top: cr.bottom - window.innerHeight + 40, behavior: 'instant' });
+} else {
+window.scrollBy({ top: r.bottom - window.innerHeight + margin, behavior: 'instant' });
+}
+} else {
+window.scrollBy({ top: r.bottom - window.innerHeight + margin, behavior: 'instant' });
+}
+}
+},
+focusFirst() {
+const els = this.getFocusables();
+if (els.length > 0) this.focus(els[0]);
+},
+move(direction) {
+const els = this.getFocusables();
+if (els.length === 0) return;
+const isOnNav = this.focusedEl && this.getNavItems().includes(this.focusedEl);
+if (!this.focusedEl || (!els.includes(this.focusedEl) && !isOnNav)) {
+this.focus(els[0]); return;
+}
+if (isOnNav) {
+if (direction === 'down') {
+if (this.focusedEl) this.focusedEl.classList.remove('tv-focus');
+this.focusedEl = null;
+this.focus(els[0]);
+} else if (direction === 'left' || direction === 'right') {
+const navItems = this.getNavItems();
+const idx = navItems.indexOf(this.focusedEl);
+const nextIdx = direction === 'right' ? idx + 1 : idx - 1;
+if (nextIdx >= 0 && nextIdx < navItems.length) {
+if (this.focusedEl) this.focusedEl.classList.remove('tv-focus');
+this.focusedEl = navItems[nextIdx];
+navItems[nextIdx].classList.add('tv-focus');
+}
+}
+return;
+}
+if (direction === 'up') {
+const curR = this.focusedEl.getBoundingClientRect();
+const curCY = curR.top + curR.height / 2;
+const hasElAbove = els.some(el => {
+if (el === this.focusedEl) return false;
+const r = el.getBoundingClientRect();
+return (r.top + r.height / 2) < curCY - 10;
+});
+if (!hasElAbove) {
+window.scrollTo({ top: 0, behavior: 'instant' });
+const navItems = this.getNavItems();
+if (navItems.length > 0) {
+const curCX = curR.left + curR.width / 2;
+const closest = navItems.reduce((a, b) => {
+const aCX = a.getBoundingClientRect().left + a.getBoundingClientRect().width / 2;
+const bCX = b.getBoundingClientRect().left + b.getBoundingClientRect().width / 2;
+return Math.abs(aCX - curCX) <= Math.abs(bCX - curCX) ? a : b;
+});
+if (this.focusedEl) this.focusedEl.classList.remove('tv-focus');
+this.focusedEl = closest;
+closest.classList.add('tv-focus');
+}
+return;
+}
+}
+const curR = this.focusedEl.getBoundingClientRect();
+const curCX = curR.left + curR.width / 2;
+const curCY = curR.top + curR.height / 2;
+const parentCard = (direction === 'left' || direction === 'right')
+? this.focusedEl.closest('.card') : null;
+let best = null, bestScore = Infinity;
+els.forEach(el => {
+if (el === this.focusedEl) return;
+if (parentCard && el.closest('.card') !== parentCard) return;
+const r = el.getBoundingClientRect();
+const cx = r.left + r.width / 2;
+const cy = r.top + r.height / 2;
+const dx = cx - curCX;
+const dy = cy - curCY;
+let inDir = false;
+if (direction === 'right' && dx > 10) inDir = true;
+if (direction === 'left'  && dx < -10) inDir = true;
+if (direction === 'down'  && dy > 10) inDir = true;
+if (direction === 'up'    && dy < -10) inDir = true;
+if (!inDir) return;
+let axisD, crossD;
+if (direction === 'right' || direction === 'left') {
+axisD = Math.abs(dx); crossD = Math.abs(dy);
+} else {
+axisD = Math.abs(dy); crossD = Math.abs(dx);
+}
+const score = axisD + crossD * 1.2;
+if (score < bestScore) { bestScore = score; best = el; }
+});
+if (best) {
+if (direction === 'up' || direction === 'down') {
+const bestCard = best.closest('.card');
+if (bestCard && bestCard !== this.focusedEl.closest('.card')) {
+const firstInCard = els.find(el => el.closest('.card') === bestCard);
+if (firstInCard) best = firstInCard;
+}
+}
+this.focus(best);
+}
+},
+confirm() {
+if (!this.focusedEl) return;
+const el = this.focusedEl;
+if (el.classList.contains('ni')) {
+el.classList.remove('tv-focus');
+this.focusedEl = null;
+}
+el.click();
+}
+};
+const tvStyle = document.createElement('style');
+tvStyle.textContent = `
+.tv-focus { outline: none !important; border-color: var(--blue) !important; filter: brightness(1.4) !important; z-index: 10 !important; position: relative; }
+.chbtn.tv-focus { border: 1px solid var(--blue-dim) !important; box-shadow: 0 0 0 2px #ffffff !important; }
+.card.live .chbtn.tv-focus { border: 1px solid rgba(0,220,100,.4) !important; box-shadow: 0 0 0 2px #ffffff !important; }
+.ni.tv-focus { outline: none !important; box-shadow: inset 0 -3px 0 var(--blue) !important; filter: brightness(1.6) !important; background: rgba(68,138,255,0.12) !important; }
+`;
+document.head.appendChild(tvStyle);
+document.addEventListener('keydown', (e) => {
+if (!RemoteControl) return;
+switch(e.keyCode) {
+case 37: e.preventDefault(); RemoteControl.move('left');  break;
+case 38: e.preventDefault(); RemoteControl.move('up');    break;
+case 39: e.preventDefault(); RemoteControl.move('right'); break;
+case 40: e.preventDefault(); RemoteControl.move('down');  break;
+case 13: case 23: e.preventDefault(); RemoteControl.confirm(); break;
+}
+});
+}
+function openLinksPopup(title,urls){
+document.getElementById('links-popup-title').textContent=title||'Selecciona enlace';
+const list=document.getElementById('links-popup-list');
+list.innerHTML='';
+urls.forEach((url,i)=>{
+const item=document.createElement('div');item.className='lp-item';
+let label=url;
+try{const u=new URL(url);label=u.hostname.replace(/^www\./,'').toUpperCase();}catch(e){label=url.replace(/^https?:\/\/(www\.)?/,'').split('/')[0].toUpperCase();}
+item.innerHTML='<span style="flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">'+label+'</span><span class="lp-num">'+(i+1)+'/'+urls.length+'</span>';
+item.addEventListener('click',()=>{ window.open(url,'_blank','noopener,noreferrer'); closeLinksPopup(); });
+list.appendChild(item);
+});
+document.getElementById('links-popup-overlay').classList.add('open');
+}
+function closeLinksPopup(e){
+if(!e||e.target===document.getElementById('links-popup-overlay')){
+document.getElementById('links-popup-overlay').classList.remove('open');
+}
+}
+setInterval(()=>{updateStatuses();updateProgressBars();},30*1000);
+setInterval(()=>{
+const m=document.getElementById('real-time-marker');
+if(m){const n=new Date();m.textContent=n.getHours().toString().padStart(2,'0')+':'+n.getMinutes().toString().padStart(2,'0');}
+},60*1000);
+</script>
+</body>
+</html>
