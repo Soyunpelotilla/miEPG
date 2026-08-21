@@ -175,7 +175,6 @@ Motorvision,Motorvision,https://raw.githubusercontent.com/davidmuma/picons_doble
 ESPN Deportes,ESPN Deportes,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png
 TUDN (Estados Unidos),TUDN (Estados Unidos),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png
 TUDN (México),TUDN (México),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png
-FOX SPORTS,FOX SPORTS MX,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png
 FOXSports.mx,FOX SPORTS,https://iptv-epg.org/logos/Mexico/FOXSports.mx.png
 FOX SPORTS 2,FOX SPORTS 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png
 FOX SPORTS 3,FOX SPORTS 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%203.png
@@ -210,8 +209,8 @@ ESPN 2.co,ESPN 2 CO,
 ESPN 3.co,ESPN 3 CO,
 ESPN 4.co,ESPN 4 CO,
 ESPN 5.co,ESPN 5 CO,
-ESPN 6.co,ESPN 6 CO,
-ESPN 7.co,ESPN 7 CO,
+ESPN 6 HD.co,ESPN 6 CO,
+ESPN 7 HD.co,ESPN 7 CO,
 Univision.us,Univision East,https://iptv-epg.org/logos/USA/Univision.us.png
 UnivisionWest.us,Univision West,https://iptv-epg.org/logos/USA/UnivisionWest.us.png
 UnivisionWXTV.us,Univision WXTV,https://iptv-epg.org/logos/USA/UnivisionWest.us.png
@@ -220,13 +219,10 @@ UNIVERSO.us,Universo,https://iptv-epg.org/logos/USA/UNIVERSO.us.png
 Telemundo.us,Telemundo East,https://iptv-epg.org/logos/USA/Telemundo.us.png
 TelemundoWest.us,Telemundo West,https://iptv-epg.org/logos/USA/TelemundoWest.us.png
 FoxDeportes.us,FOX DEPORTES,https://iptv-epg.org/logos/USA/FoxDeportes.us.png
-NBAtv.us,NBA TV,https://iptv-epg.org/logos/USA/NBAtv.us.png
 FoxSports1.us,FOX SPORTS 1 US,https://iptv-epg.org/logos/USA/FoxSports1.us.png
 FoxSports2.us,FOX SPORTS 2 US,https://iptv-epg.org/logos/USA/FoxSports2.us.png
 ESPN.us,ESPN US,https://iptv-epg.org/logos/USA/ESPN.us.png
-ESPNU.us,ESPN U US,https://iptv-epg.org/logos/USA/ESPNU.us.png
 ESPN2.us,ESPN 2 US,https://iptv-epg.org/logos/USA/ESPN2.us.png
-TennisChannel.us,TENNIS CHANNEL US,https://iptv-epg.org/logos/USA/TennisChannel.us.png
 LaLigaTVEspanol.us,LaLiga TV US,https://iptv-epg.org/logos/UK/LaLigaTVEspanol.us.png
 beINSportsEnEspanol.us,BEIN SPORTS ESP,https://iptv-epg.org/logos/USA/beINSportsEnEspanol.us.png
 UK | TNT Sports 1,UK | TNT Sports 1,https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png
@@ -234,7 +230,6 @@ UK | TNT Sports 2,UK | TNT Sports 2,https://tv.assets.pressassociation.io/1fda86
 UK | TNT Sports 3,UK | TNT Sports 3,https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png
 UK | TNT Sports 4,UK | TNT Sports 4,https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png
 UK | Sky Sports +,UK | Sky Sports +,https://tv.assets.pressassociation.io/d55ab11f-7aca-5e2b-b620-bf147b49744c.png
-UK | Sky Sports F1,UK | Sky Sports F1,https://tv.assets.pressassociation.io/697b9b06-530b-5dd9-a4c7-1947e2ab93d7.png
 UK | Sky Sports Football,UK | Sky Sports Football,https://tv.assets.pressassociation.io/c7c1f241-4754-502b-aa34-24fc98aba436.png
 UK | Sky Sports Main Event,UK | Sky Sports Main Event,https://tv.assets.pressassociation.io/4a35f45e-79c6-5da0-b2fb-c9192eb9f24b.png
 UK | Sky Sports Premier League,UK | Sky Sports Premier League,https://tv.assets.pressassociation.io/2a51b9ff-b27d-53dc-be74-aac95ecd291e.png
@@ -252,17 +247,4 @@ PT | DAZN 2,PT | DAZN 2,https://raw.githubusercontent.com/davidmuma/picons_doble
 PT | DAZN 3,PT | DAZN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png
 PT | DAZN 4,PT | DAZN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png
 PT | DAZN 5,PT | DAZN 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png
-PT | Sport TV 1,PT | Sport TV 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%201.png
-PT | Sport TV 2,PT | Sport TV 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%202.png
-PT | Sport TV 3,PT | Sport TV 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%203.png
-PT | Sport TV 4,PT | Sport TV 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%204.png
-PT | Sport TV 5,PT | Sport TV 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%205.png
-PT | Sport TV 6,PT | Sport TV 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%206.png
-PT | Sport TV 7,PT | Sport TV 7,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_7HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png
-FR · CANAL+ Sport,FR · CANAL+ Sport,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CANAL%2B%20Sport.png
-FR · CANAL+ Sport 360,FR · CANAL+ Sport 360,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CANAL%2B%20Sport%20360.png
-FR · beIN SPORTS 1,FR · beIN SPORTS 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png
-FR · beIN SPORTS 2,FR · beIN SPORTS 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png
-FR · beIN SPORTS 3,FR · beIN SPORTS 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png
-TV5 Monde Europe HD,TV5 Monde Europe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV5%20Monde%20Europe.png
 SuperTennis.it,SuperTennis,https://iptv-epg.org/logos/Italy/SuperTennis.it.png
