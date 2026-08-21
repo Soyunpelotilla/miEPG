@@ -11267,7 +11267,6 @@ CBSWHIO.us,US - CBS WHIO Dayton OH,https://iptv-epg.org/images/Nxbei_4DAPbbyw7vQ
 CBSWHLT.us,US - CBS WHLT HATTIESBURG Laurel MS,https://iptv-epg.org/images/7TNkrD62yBiwVFGlGsZN4NwRwhDZQbkKrVbgLSgK8Gq4-L6VkJD0D6j-JmMUq5uSX7eFYTeN92rrO9MgydEgxYM6NIH-BYBPQtjvze4
 CBSWHNT.us,US - CBS WHNT Huntsville AL,https://iptv-epg.org/images/Bwoj-aAV4hKUUhnGiSIFNcH6HZqdw0wSYj9mvVSdwI4iWneSqJdrjM9TlhecElSyeLKVQD51d29XGYLYj8MF03FpDavXblQ3voxszx8
 CBSWHP.us,US - CBS WHP Harrisburg Lancaster York PA,https://iptv-epg.org/images/ctlkSPXn4Or0J9YOy9RRf7b6WKdVPbx6OW5FvQOQs-MTIZwzJpnH6HdqSQ3VTLAodr_9vtQvXxqe8IksmIfgJsQCg0DuFtMuqOBG_A
-CBSWIAT.us,US - CBS WIAT Birmingham AL,https://iptv-epg.org/images/BOThmVSOWOXNOgRy-ZEpZfClcR3ppHXp7bf2w7nfff1pSKW4zwM_U7dNbxQCNhYOnTc0MGhotTGk-qAfwb3AI7KNlI4uJ2gJP8Z7oBg
 CBSWIBW.us,US - CBS WIBW Topeka KS,https://iptv-epg.org/images/tGBeCQpoutjLiwqgiY1kBBudeB9eZD0mXf1dI29-AuVcwx_TR-z86B9MjxHtVzg3uPIO3uDV1vTLtlXzxiab0YdEU8XOL5kiMHYbPdU
 CBSWIFR.us,US - CBS WIFR Rockford IL,https://iptv-epg.org/images/IN_Mk6k8eY1-txwYsM6f9p_YVi_CqumJomuZqyjZUlBICr8K-X-r7W1c3mfWpdWQbbV2tIAKRttwjGm48J435trHYGfAslLxA9oeNqs
 CBSWINK.us,US - CBS WINK Fort Myers FL,https://iptv-epg.org/images/okmhlUUaMbMG4e6IF_CCy7_N2P0LxHCZW2ivrdHOPPDSZgHG3hqewn2Sxfz-JqKhAPjLouCnI_c6wRQ1Gp7TOem_ABXSJeKtVCAsB6w
