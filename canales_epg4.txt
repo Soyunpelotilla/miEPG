@@ -1,227 +1,146 @@
-# Fuente: https://www.open-epg.com/files/argentina.xml.gz
-24/7CanaldeNoticias.ar,24/7 Canal de Noticias.ar,https://images.open-epg.com/x925.png
-A24.ar,A24.ar,https://images.open-epg.com/x927.png
-AandE.ar,AandE.ar,https://images.open-epg.com/x928.png
-AdrenalinaSports.ar,Adrenalina Sports.ar,https://images.open-epg.com/25729.png
-AdultSwim.ar,Adult Swim.ar,https://images.open-epg.com/x929.png
-AlientoVision.ar,Aliento Vision.ar,https://images.open-epg.com/25731.png
-Allegro.ar,Allegro.ar,https://images.open-epg.com/x930.png
-Amc.ar,Amc.ar,https://images.open-epg.com/26617.png
-AmcSeries.ar,Amc Series.ar,https://images.open-epg.com/x931.png
-America.ar,America.ar,https://images.open-epg.com/x932.png
-AmericaSports.ar,America Sports.ar,https://images.open-epg.com/x1556.png
-AnimalPlanet.ar,Animal Planet.ar,https://images.open-epg.com/x934.png
-Antena3.ar,Antena 3.ar,https://images.open-epg.com/x935.png
-Ar12.ar,Ar12.ar,https://images.open-epg.com/x936.png
-AreaPlus.ar,Area Plus.ar,https://images.open-epg.com/25739.png
-ArgentinisimaSatelital.ar,Argentinisima Satelital.ar,https://images.open-epg.com/16782263.png
-Atrescine.ar,Atrescine.ar,https://images.open-epg.com/x1555.png
-Atreseries.ar,Atreseries.ar,https://images.open-epg.com/16782264.png
-AXN.ar,AXN.ar,https://images.open-epg.com/16782265.png
-AzCorazon.ar,Az Corazon.ar,https://images.open-epg.com/32604.png
-BabyTv.ar,Baby Tv.ar,https://images.open-epg.com/16782266.png
-BbcWorldNews.ar,Bbc World News.ar,https://images.open-epg.com/x937.png
-Bloomberg.ar,Bloomberg.ar,https://images.open-epg.com/16782267.png
-BoliviaTv.ar,Bolivia Tv.ar,https://images.open-epg.com/25743.png
-BravoTv.ar,Bravo Tv.ar,https://images.open-epg.com/11574616.png
-C5N.ar,C5N.ar,https://images.open-epg.com/16782268.png
-Cablenoticias.ar,Cablenoticias.ar,https://images.open-epg.com/x1017.png
-Canal10.ar,Canal 10.ar,https://images.open-epg.com/32608.png
-Canal10MardelPlata.ar,Canal 10 Mar del Plata.ar,https://images.open-epg.com/35605.png
-Canal10RioNegro.ar,Canal 10 Rio Negro.ar,https://images.open-epg.com/35606.png
-Canal1Colombia.ar,Canal 1 Colombia.ar,https://images.open-epg.com/x1558.png
-Canal20.ar,Canal 20.ar,https://images.open-epg.com/32612.png
-Canal24horas.ar,Canal 24horas.ar,https://images.open-epg.com/x1016.png
-Canal26.ar,Canal 26.ar,https://images.open-epg.com/x933.png
-Canal3Rosario.ar,Canal 3 Rosario.ar,https://images.open-epg.com/25745.png
-Canal4Montecarlo.ar,Canal 4 Montecarlo.ar,https://images.open-epg.com/32614.png
-Canal7BahiaBlanca.ar,Canal 7 Bahia Blanca.ar,https://images.open-epg.com/35608.png
-Canal8MardelPlata.ar,Canal 8 Mar del Plata.ar,https://images.open-epg.com/35609.png
-Canal9Televida.ar,Canal 9 Televida.ar,https://images.open-epg.com/35610.png
-CanalA.ar,Canal A.ar,https://images.open-epg.com/x938.png
-CanalCapitalColombia.ar,Canal Capital Colombia.ar,https://images.open-epg.com/x1020.png
-CanalCityTV.ar,Canal CityTV.ar,https://images.open-epg.com/x1031.png
-CanaldelaCiudad.ar,Canal de la Ciudad.ar,https://images.open-epg.com/16782271.png
-CanaldelaMusica.ar,Canal de la Musica.ar,https://images.open-epg.com/x940.png
-CanaldeTest.ar,Canal de Test.ar,https://images.open-epg.com/x1034.png
-CanalInstitucionalColombia.ar,Canal Institucional Colombia.ar,https://images.open-epg.com/x1030.png
-CanalLaTeleParaguay.ar,Canal La Tele Paraguay.ar,https://images.open-epg.com/x1029.png
-CanalLuz.ar,Canal Luz.ar,https://images.open-epg.com/25749.png
-CanalOrbe21.ar,Canal Orbe 21.ar,https://images.open-epg.com/16782269.png
-CanalRural.ar,Canal Rural.ar,https://images.open-epg.com/16782273.png
-CanalSeñalColombia.ar,Canal Señal Colombia.ar,https://images.open-epg.com/x1026.png
-CanalSNTParaguay.ar,Canal SNT Paraguay.ar,https://images.open-epg.com/x1025.png
-CanalU.ar,Canal U.ar,https://images.open-epg.com/32621.png
-CanalVasco.ar,Canal Vasco.ar,https://images.open-epg.com/x1032.png
-Cartoonito.ar,Cartoonito.ar,https://images.open-epg.com/11574624.png
-CartoonNetwork.ar,Cartoon Network.ar,https://images.open-epg.com/16782275.png
-CineAr.ar,CineAr.ar,https://images.open-epg.com/16782276.png
-Cinecanal.ar,Cinecanal.ar,https://images.open-epg.com/16782277.png
-CineLatino.ar,Cine Latino.ar,https://images.open-epg.com/16782278.png
-Cinemax.ar,Cinemax.ar,https://images.open-epg.com/16782280.png
-CiudadMagazine.ar,Ciudad Magazine.ar,https://images.open-epg.com/16782281.png
-Clan.ar,Clan.ar,https://images.open-epg.com/x941.png
-CN23.ar,CN23.ar,https://images.open-epg.com/16782282.png
-CNN.ar,CNN.ar,https://images.open-epg.com/16782283.png
-CnnChile.ar,Cnn Chile.ar,https://images.open-epg.com/32631.png
-CnnenEspañol.ar,Cnn en Español.ar,https://images.open-epg.com/x942.png
-ComedyCentral.ar,Comedy Central.ar,https://images.open-epg.com/16782285.png
-ConexionEducativa.ar,Conexion Educativa.ar,https://images.open-epg.com/16782286.png
-ConstruirTV.ar,Construir Tv.ar,https://images.open-epg.com/16782287.png
-CronicaTV.ar,Cronica Tv.ar,https://images.open-epg.com/16782288.png
-Daystar.ar,Daystar.ar,https://images.open-epg.com/26632.png
-DePelicula.ar,De Pelicula.ar,https://images.open-epg.com/x943.png
-DeporTv.ar,DeporTv.ar,https://images.open-epg.com/35620.png
-DHE.ar,DHE.ar,https://images.open-epg.com/26634.png
-Discovery.ar,Discovery.ar,https://images.open-epg.com/x944.png
-DiscoveryHomeAndHealth.ar,DiscoveryHomeAndHealth.ar,https://images.open-epg.com/16782291.png
-DiscoveryKids.ar,Discovery Kids.ar,https://images.open-epg.com/25674.png
-DiscoveryScience.ar,Discovery Science.ar,https://images.open-epg.com/26636.png
-DiscoveryTheater.ar,Discovery Theater.ar,https://images.open-epg.com/x945.png
-DiscoveryTurbo.ar,Discovery Turbo.ar,https://images.open-epg.com/x947.png
-DiscoveryWorld.ar,Discovery World.ar,https://images.open-epg.com/x948.png
-Disney+.ar,Disney+.ar,https://images.open-epg.com/x951.png
-DisneyChannel.ar,Disney Channel.ar,https://images.open-epg.com/16782294.png
-DisneyJunior.ar,Disney Junior.ar,https://images.open-epg.com/16782295.png
-DwEspañol.ar,Dw Español.ar,https://images.open-epg.com/25776.png
-E!Entertainment.ar,E! Entertainment.ar,https://images.open-epg.com/25678.png
-ElDoce.ar,El Doce.ar,https://images.open-epg.com/32609.png
-ElGarage.ar,El Garage.ar,https://images.open-epg.com/35621.png
-ElGourmet.ar,El Gourmet.ar,https://images.open-epg.com/35622.png
-ElNueve.ar,El Nueve.ar,https://images.open-epg.com/16782301.png
-ElSeisTV.ar,El Seis Tv.ar,https://images.open-epg.com/35624.png
-ElTrece.ar,El Trece.ar,https://images.open-epg.com/16782302.png
-Encuentro.ar,Encuentro.ar,https://images.open-epg.com/16782303.png
-Enlace.ar,Enlace.ar,https://images.open-epg.com/x957.png
-Espn.ar,Espn.ar,https://images.open-epg.com/25689.png
-Espn2.ar,Espn 2.ar,https://images.open-epg.com/25683.png
-Espn3.ar,Espn 3.ar,https://images.open-epg.com/25684.png
-Espn4.ar,Espn 4.ar,https://images.open-epg.com/x960.png
-Espn6.ar,Espn 6.ar,https://images.open-epg.com/x962.png
-EspnExtra.ar,Espn Extra.ar,https://images.open-epg.com/16782308.png
-EspnPremium.ar,Espn Premium.ar,https://images.open-epg.com/x964.png
-Eurochannel.ar,Eurochannel.ar,https://images.open-epg.com/x967.png
-EuropaEuropa.ar,Europa Europa.ar,https://images.open-epg.com/x970.png
-EventosHd.ar,Eventos Hd.ar,https://images.open-epg.com/22422.png
-EventosParaTodos.ar,Eventos Para Todos.ar,https://images.open-epg.com/22422.png
-Ewtn.ar,Ewtn.ar,https://images.open-epg.com/16782310.png
-ExpressFan.ar,Express Fan.ar,https://images.open-epg.com/25793.png
-FilmAndArts.ar,FilmAndArts.ar,https://images.open-epg.com/16782311.png
-FoodNetwork.ar,Food Network.ar,https://images.open-epg.com/25690.png
-FoxSports.ar,Fox Sports.ar,https://images.open-epg.com/x972.png
-FoxSports2.ar,Fox Sports 2.ar,https://images.open-epg.com/16782312.png
-FoxSports3.ar,Fox Sports 3.ar,https://images.open-epg.com/16782313.png
-France24enEspañol.ar,France 24 en Español.ar,https://images.open-epg.com/x973.png
-FX.ar,FX.ar,https://images.open-epg.com/16782316.png
-GaliciaTv.ar,Galicia Tv.ar,https://images.open-epg.com/11574651.png
-Golden.ar,Golden.ar,https://images.open-epg.com/16782320.png
-GoldenEdge.ar,Golden Edge.ar,https://images.open-epg.com/16782321.png
-GolfChannel.ar,Golf Channel.ar,https://images.open-epg.com/x974.png
-HAPSATV.ar,HAPSATV.ar,https://images.open-epg.com/16782324.png
-HBO.ar,HBO.ar,https://images.open-epg.com/16782325.png
-HBO2.ar,HBO 2.ar,https://images.open-epg.com/x975.png
-HBOFamily.ar,HBO Family.ar,https://images.open-epg.com/16782327.png
-HBOMundi.ar,HBO Mundi.ar,https://images.open-epg.com/16782328.png
-HBOPlus.ar,HBO Plus.ar,https://images.open-epg.com/x976.png
-HBOPop.ar,HBO Pop.ar,https://images.open-epg.com/16782333.png
-HBOSignature.ar,HBO Signature.ar,https://images.open-epg.com/x977.png
-HBOXtreme.ar,HBO Xtreme.ar,https://images.open-epg.com/16782338.png
-HGTV.ar,HGTV.ar,https://images.open-epg.com/16782339.png
-HispanTV.ar,HispanTV.ar,https://images.open-epg.com/16782340.png
-History.ar,History.ar,https://images.open-epg.com/16782341.png
-History2.ar,History 2.ar,https://images.open-epg.com/16782342.png
-HolaTV.ar,Hola TV.ar,https://images.open-epg.com/16782343.png
-HTV.ar,HTV.ar,https://images.open-epg.com/16782344.png
-InvestigationDiscovery.ar,Investigation Discovery.ar,https://images.open-epg.com/x946.png
-KZO.ar,KZO.ar,https://images.open-epg.com/x978.png
-LaNacion+.ar,La Nacion+.ar,https://images.open-epg.com/x979.png
-LasEstrellas.ar,Las Estrellas.ar,https://images.open-epg.com/16782349.png
-Lifetime.ar,Lifetime.ar,https://images.open-epg.com/x980.png
-LoveNature.ar,Love Nature.ar,https://images.open-epg.com/x981.png
-Metro.ar,Metro.ar,https://images.open-epg.com/11574657.png
-MovistarEventos.ar,Movistar Eventos.ar,https://images.open-epg.com/35636.png
-MTV.ar,MTV.ar,https://images.open-epg.com/x983.png
-MultivisionFederal.ar,Multivision Federal.ar,https://images.open-epg.com/25823.png
-MusicTop.ar,MusicTop.ar,https://images.open-epg.com/16782357.png
-NationalGeographic.ar,National Geographic.ar,https://images.open-epg.com/x984.png
-NBATV.ar,NBA TV.ar,https://images.open-epg.com/16782361.png
-Netflix.ar,Netflix.ar,https://images.open-epg.com/x985.png
-NetTV.ar,Net TV.ar,https://images.open-epg.com/16782362.png
-NHKWorldJapan.ar,NHK World Japan.ar,https://images.open-epg.com/x1028.png
-Nickelodeon.ar,Nickelodeon.ar,https://images.open-epg.com/x986.png
-NickJr.ar,NickJr.ar,https://images.open-epg.com/16782364.png
-NickMusic.ar,Nick Music.ar,https://images.open-epg.com/x1033.png
-NTN24NuestraTeleNoticias.ar,NTN24 Nuestra Tele Noticias.ar,https://images.open-epg.com/x1027.png
-NuevoTiempo.ar,Nuevo Tiempo.ar,https://images.open-epg.com/25828.png
-PakaPaka.ar,PakaPaka.ar,https://images.open-epg.com/16782366.png
-Paravision.ar,Paravision.ar,https://images.open-epg.com/x1021.png
-Pasiones.ar,Pasiones.ar,https://images.open-epg.com/16782368.png
-PenthouseGold.ar,Penthouse Gold.ar,https://images.open-epg.com/16782369.png
-Playboy.ar,Playboy.ar,https://images.open-epg.com/16782370.png
-PlimPlim.ar,Plim Plim.ar,https://images.open-epg.com/x988.png
-PrimeVideo.ar,Prime Video.ar,https://images.open-epg.com/35643.png
-PXSports.ar,PX Sports.ar,https://images.open-epg.com/35644.png
-QuieroMusica.ar,Quiero Musica.ar,https://images.open-epg.com/x987.png
-RadioCadena.ar,Radio Cadena.ar,https://images.open-epg.com/x989.png
-RadioContinental.ar,Radio Continental.ar,https://images.open-epg.com/x990.png
-RadioLa100.ar,Radio La 100.ar,https://images.open-epg.com/x991.png
-RadioMitre.ar,Radio Mitre.ar,https://images.open-epg.com/x992.png
-RadioNacional.ar,Radio Nacional.ar,https://images.open-epg.com/x993.png
-RaiItalia.ar,Rai Italia.ar,https://images.open-epg.com/16782372.png
-RtsTelevisionSantafesina.ar,Rts Television Santafesina.ar,https://images.open-epg.com/25833.png
-RussiaToday.ar,Russia Today.ar,https://images.open-epg.com/16782373.png
-SBTBrasil.ar,SBT Brasil.ar,https://images.open-epg.com/25834.png
-Sextreme.ar,Sextreme.ar,https://images.open-epg.com/x995.png
-SomosAmba.ar,Somos Amba.ar,https://images.open-epg.com/x994.png
-SonyChannel.ar,Sony Channel.ar,https://images.open-epg.com/x997.png
-SonyMovies.ar,Sony Movies.ar,https://images.open-epg.com/x996.png
-Space.ar,Space.ar,https://images.open-epg.com/16782376.png
-StarChannel.ar,Star Channel.ar,https://images.open-epg.com/x999.png
-StudioUniversal.ar,Studio Universal.ar,https://images.open-epg.com/x1000.png
-SunChannel.ar,Sun Channel.ar,https://images.open-epg.com/x1018.png
-TCM.ar,TCM.ar,https://images.open-epg.com/16782393.png
-TECtv.ar,TECtv.ar,https://images.open-epg.com/x1001.png
-Tele10.ar,Tele 10.ar,https://images.open-epg.com/25844.png
-Teleantioquia.ar,Teleantioquia.ar,https://images.open-epg.com/x1024.png
-Telecaribe.ar,Telecaribe.ar,https://images.open-epg.com/x1023.png
-Telediario.ar,Telediario.ar,https://images.open-epg.com/16782395.png
-Telefe.ar,Telefe.ar,https://images.open-epg.com/x1002.png
-TelefeBahiaBlanca.ar,Telefe Bahia Blanca.ar,https://images.open-epg.com/x1004.png
-TelefeCordoba.ar,Telefe Cordoba.ar,https://images.open-epg.com/16782397.png
-TelefeNeuquen.ar,Telefe Neuquen.ar,https://images.open-epg.com/x1005.png
-TelefeRosario.ar,Telefe Rosario.ar,https://images.open-epg.com/x1003.png
-TelefeSantaFe.ar,Telefe Santa Fe.ar,https://images.open-epg.com/16782399.png
-Telehit.ar,Telehit.ar,https://images.open-epg.com/16782400.png
-Telemax.ar,Telemax.ar,https://images.open-epg.com/x1006.png
-Telemundo.ar,Telemundo.ar,https://images.open-epg.com/25716.png
-Telenostalgia.ar,Telenostalgia.ar,https://images.open-epg.com/x1022.png
-TeleSUR.ar,TeleSUR.ar,https://images.open-epg.com/25850.png
-TierraMiaTV.ar,TierraMia TV.ar,https://images.open-epg.com/16782405.png
-TLC.ar,TLC.ar,https://images.open-epg.com/x949.png
-TLNovelas.ar,TLNovelas.ar,https://images.open-epg.com/16782407.png
-TN.ar,TN.ar,https://images.open-epg.com/16782408.png
-TNT.ar,TNT.ar,https://images.open-epg.com/16782409.png
-TNTNovelas.ar,TNT Novelas.ar,https://images.open-epg.com/25720.png
-TNTSeries.ar,TNT Series.ar,https://images.open-epg.com/16782410.png
-TNTSportsPremium.ar,TNT Sports Premium.ar,https://images.open-epg.com/x1007.png
-Tooncast.ar,Tooncast.ar,https://images.open-epg.com/x1010.png
-TurismoVisionArgentina.ar,Turismo Vision Argentina.ar,https://images.open-epg.com/16782413.png
-TV5MondeAmeriqueLatine.ar,TV5Monde Amerique Latine.ar,https://images.open-epg.com/x1011.png
-TVChile.ar,TV Chile.ar,https://images.open-epg.com/16782420.png
-TVCiudad.ar,TV Ciudad.ar,https://images.open-epg.com/16782415.png
-TVE.ar,TVE.ar,https://images.open-epg.com/16782417.png
-TVGlobo.ar,TV Globo.ar,https://images.open-epg.com/16782418.png
-TVNacionalUruguay.ar,TV Nacional Uruguay.ar,https://images.open-epg.com/16782419.png
-TVPublica.ar,TVPublica.ar,https://images.open-epg.com/x1012.png
-TyCSports.ar,TyC Sports.ar,https://images.open-epg.com/16782422.png
-TyCSports2.ar,TyC Sports 2.ar,https://images.open-epg.com/16782423.png
-UniversalTV.ar,Universal TV.ar,https://images.open-epg.com/16782424.png
-UruguayNaturalTV.ar,Uruguay Natural TV.ar,https://images.open-epg.com/16782425.png
-USA.ar,USA.ar,https://images.open-epg.com/25725.png
-Venus.ar,Venus.ar,https://images.open-epg.com/16782426.png
-Volver.ar,Volver.ar,https://images.open-epg.com/16782430.png
-VTV.ar,VTV.ar,https://images.open-epg.com/16782431.png
-Warner.ar,Warner.ar,https://images.open-epg.com/x1013.png
-WobiTV.ar,WobiTV.ar,https://images.open-epg.com/x1015.png
-YouTube.ar,YouTube.ar,https://images.open-epg.com/x1014.png
-ZooMoo.ar,ZooMoo.ar,https://images.open-epg.com/x1559.png
+# Fuente: https://www.open-epg.com/files/mexico2.xml.gz
+AAndE MUNDO.mx,AAndE MUNDO.mx,
+ADN 40.mx,ADN 40.mx,
+ADRENALINA SPORTS.mx,ADRENALINA SPORTS.mx,
+ADULT SWIM.mx,ADULT SWIM.mx,
+ANIMAL PLANET.mx,ANIMAL PLANET.mx,
+ANTENA 3.mx,ANTENA 3.mx,
+APRENDE+.mx,APRENDE+.mx,
+AXN.mx,AXN.mx,
+AZ CINEMA.mx,AZ CINEMA.mx,
+AZ CLIC.mx,AZ CLIC.mx,
+AZ CORAZON.mx,AZ CORAZON.mx,
+AZTECA 7.mx,AZTECA 7.mx,
+AZTECA DEPORTES.mx,AZTECA DEPORTES.mx,
+AZTECA UNO.mx,AZTECA UNO.mx,
+BABY TV.mx,BABY TV.mx,
+BANDAMAX.mx,BANDAMAX.mx,
+BITIME.mx,BITIME.mx,
+CANAL 11.mx,CANAL 11.mx,
+CANAL 22 CONACULTA.mx,CANAL 22 CONACULTA.mx,
+CANAL 5.mx,CANAL 5.mx,
+CANAL 6 +.mx,CANAL 6 +.mx,
+CANAL CATORCE.mx,CANAL CATORCE.mx,
+CANAL DE LAS ESTRELLAS +2.mx,CANAL DE LAS ESTRELLAS +2.mx,
+CANAL DE LAS ESTRELLAS.mx,CANAL DE LAS ESTRELLAS.mx,
+CANAL DEL CONGRESO.mx,CANAL DEL CONGRESO.mx,
+CARTOON NETWORK.mx,CARTOON NETWORK.mx,
+CARTOONITO.mx,CARTOONITO.mx,
+CINE LATINO.mx,CINE LATINO.mx,
+CINECANAL.mx,CINECANAL.mx,
+CINEMAX.mx,CINEMAX.mx,
+CLAROSPORTS.mx,CLAROSPORTS.mx,
+CNN EN ESPAÑOL.mx,CNN EN ESPAÑOL.mx,
+CNN INTERNACIONAL.mx,CNN INTERNACIONAL.mx,
+COMEDY CENTRAL.mx,COMEDY CENTRAL.mx,
+DE PELICULA.mx,DE PELICULA.mx,
+DISCOVERY CHANNEL HD.mx,DISCOVERY CHANNEL HD.mx,
+DISCOVERY HOME AND HEALTH.mx,DISCOVERY HOME AND HEALTH.mx,
+DISCOVERY ID.mx,DISCOVERY ID.mx,
+DISCOVERY KIDS.mx,DISCOVERY KIDS.mx,
+DISCOVERY TLC.mx,DISCOVERY TLC.mx,
+DISCOVERY TURBO.mx,DISCOVERY TURBO.mx,
+DISNEY JR.mx,DISNEY JR.mx,
+DISNEY.mx,DISNEY.mx,
+DISTRITO COMEDIA.mx,DISTRITO COMEDIA.mx,
+EL FINANCIERO.mx,EL FINANCIERO.mx,
+EL HERALDO.mx,EL HERALDO.mx,
+ENLACE.mx,ENLACE.mx,
+ENTERTAINMENT.mx,ENTERTAINMENT.mx,
+ESPN 2.mx,ESPN 2.mx,
+ESPN 3.mx,ESPN 3.mx,
+ESPN 4.mx,ESPN 4.mx,
+ESPN.mx,ESPN.mx,
+EXA TV.mx,EXA TV.mx,
+FOOD NETWORK.mx,FOOD NETWORK.mx,
+FORO TV.mx,FORO TV.mx,
+FOX SPORTS 2.mx,FOX SPORTS 2.mx,
+FOX SPORTS 3.mx,FOX SPORTS 3.mx,
+FOX SPORTS PREMIUM.mx,FOX SPORTS PREMIUM.mx,
+FOX SPORTS.mx,FOX SPORTS.mx,
+FX.mx,FX.mx,
+GOLDEN EDGE.mx,GOLDEN EDGE.mx,
+GOLDEN.mx,GOLDEN.mx,
+GUSTO TV.mx,GUSTO TV.mx,
+H2.mx,H2.mx,
+HBO 2.mx,HBO 2.mx,
+HBO FAMILY.mx,HBO FAMILY.mx,
+HBO.mx,HBO.mx,
+HISTORY.mx,HISTORY.mx,
+IMAGEN TELEVISION.mx,IMAGEN TELEVISION.mx,
+JUSTICIA TV.mx,JUSTICIA TV.mx,
+LA MEJOR TV.mx,LA MEJOR TV.mx,
+LA MEXICANATV.mx,LA MEXICANATV.mx,
+LIFETIME.mx,LIFETIME.mx,
+LOVE NATURE.mx,LOVE NATURE.mx,
+MARIAVISIÓN.mx,MARIAVISIÓN.mx,
+MAX PRIME.mx,MAX PRIME.mx,
+MAX UP.mx,MAX UP.mx,
+MAX.mx,MAX.mx,
+MILENIO.mx,MILENIO.mx,
+MTV.mx,MTV.mx,
+MX NUESTRO CINE.mx,MX NUESTRO CINE.mx,
+NATIONAL GEOGRAPHIC.mx,NATIONAL GEOGRAPHIC.mx,
+NICK JR.mx,NICK JR.mx,
+NICKELODEON.mx,NICKELODEON.mx,
+NUEVE.mx,NUEVE.mx,
+ONCE NIÑOS.mx,ONCE NIÑOS.mx,
+PAY TV FOX.mx,PAY TV FOX.mx,
+PLIM PLIM.mx,PLIM PLIM.mx,
+POPCORN.mx,POPCORN.mx,
+RADIO CAÑON GDL.mx,RADIO CAÑON GDL.mx,
+RADIO CAÑON ZAC.mx,RADIO CAÑON ZAC.mx,
+SONY MOVIES.mx,SONY MOVIES.mx,
+SONY.mx,SONY.mx,
+SPACE.mx,SPACE.mx,
+STAR CHANNEL.mx,STAR CHANNEL.mx,
+STARLINK.mx,STARLINK.mx,
+STINGRAY AÑOS 80.mx,STINGRAY AÑOS 80.mx,
+STINGRAY AÑOS 90.mx,STINGRAY AÑOS 90.mx,
+STINGRAY CLÁSICOS INDIE.mx,STINGRAY CLÁSICOS INDIE.mx,
+STINGRAY CLÁSICOS PARA TODOS.mx,STINGRAY CLÁSICOS PARA TODOS.mx,
+STINGRAY COCKTAIL LOUNGE.mx,STINGRAY COCKTAIL LOUNGE.mx,
+STINGRAY EL SALON CHILL.mx,STINGRAY EL SALON CHILL.mx,
+STINGRAY ESPECIALES.mx,STINGRAY ESPECIALES.mx,
+STINGRAY EXITOS RECIENTES.mx,STINGRAY EXITOS RECIENTES.mx,
+STINGRAY EXITOS TROPICALES.mx,STINGRAY EXITOS TROPICALES.mx,
+STINGRAY HARD ROCK.mx,STINGRAY HARD ROCK.mx,
+STINGRAY JAZZ LATINO.mx,STINGRAY JAZZ LATINO.mx,
+STINGRAY LATIN LOUNGE.mx,STINGRAY LATIN LOUNGE.mx,
+STINGRAY MAESTROS DEL JAZZ.mx,STINGRAY MAESTROS DEL JAZZ.mx,
+STINGRAY MARIACHI PARA SIEMPRE.mx,STINGRAY MARIACHI PARA SIEMPRE.mx,
+STINGRAY ÓPERA PLUS.mx,STINGRAY ÓPERA PLUS.mx,
+STINGRAY POP ADULTO.mx,STINGRAY POP ADULTO.mx,
+STINGRAY POP LATINO ACTUAL.mx,STINGRAY POP LATINO ACTUAL.mx,
+STINGRAY REGGAETÓN.mx,STINGRAY REGGAETÓN.mx,
+STINGRAY ROCK ALTERNATIVO.mx,STINGRAY ROCK ALTERNATIVO.mx,
+STINGRAY ROCK EN ESPAÑOL.mx,STINGRAY ROCK EN ESPAÑOL.mx,
+STINGRAY ROMANCE LATINO.mx,STINGRAY ROMANCE LATINO.mx,
+STINGRAY SALSA Y MERENGUE.mx,STINGRAY SALSA Y MERENGUE.mx,
+STINGRAY SÓLO PARA PEQUES.mx,STINGRAY SÓLO PARA PEQUES.mx,
+STINGRAY VIEJITAS PERO BUENÍSIMAS.mx,STINGRAY VIEJITAS PERO BUENÍSIMAS.mx,
+STINGRAY VIVA MEXICO.mx,STINGRAY VIVA MEXICO.mx,
+STUDIO UNIVERSAL.mx,STUDIO UNIVERSAL.mx,
+TELEFORMULA.mx,TELEFORMULA.mx,
+TELEHIT MUSICA.mx,TELEHIT MUSICA.mx,
+TELEHIT.mx,TELEHIT.mx,
+TELEMUNDO.mx,TELEMUNDO.mx,
+TELERITMO.mx,TELERITMO.mx,
+TLNOVELAS.mx,TLNOVELAS.mx,
+TNT NOVELAS.mx,TNT NOVELAS.mx,
+TNT SERIES.mx,TNT SERIES.mx,
+TNT.mx,TNT.mx,
+TUDN.mx,TUDN.mx,
+TV MIGRANTE.mx,TV MIGRANTE.mx,
+TV UNAM.mx,TV UNAM.mx,
+ULTRA BANDA.mx,ULTRA BANDA.mx,
+UNICABLE.mx,UNICABLE.mx,
+UNIVERSAL CHANNEL.mx,UNIVERSAL CHANNEL.mx,
+UNIVERSAL CINEMA.mx,UNIVERSAL CINEMA.mx,
+UNIVERSAL COMEDY.mx,UNIVERSAL COMEDY.mx,
+UNIVERSAL CRIME.mx,UNIVERSAL CRIME.mx,
+UNIVERSAL PREMIERE.mx,UNIVERSAL PREMIERE.mx,
+UNIVERSAL REALITY.mx,UNIVERSAL REALITY.mx,
+USA NETWORK.mx,USA NETWORK.mx,
+WARNER.mx,WARNER.mx,
+ZOOMOO.mx,ZOOMOO.mx,
