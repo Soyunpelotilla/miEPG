@@ -6339,7 +6339,6 @@ JusticeCentral.us,US - JUSTICE CENTRAL,https://iptv-epg.org/images/YHc0l1DQoYoyy
 KidoodleTV.us,US - Kidoodle TV,https://iptv-epg.org/images/hyt-9etNdZCq-29VETg2aE1ftVgW35Ti9hNfWowQJJpzasLx0B0f2WyaZKS2Q9ogSP487biW2PADyNV53jiMKb9Hzi2rL82PFRxIaGw9PDA
 KidsInTheHall.us,US - Kids in the Hall,https://iptv-epg.org/images/nhksLKumPfeHcxbyIhHgg4kXhr81cNU2ciE2uqA8GJnFcWjMHKygaey4IcHAmrMuPEO3QsxqyVgk5el1WBrJofALSG9F1v9nv60vHyvMnvTXVWQ
 KidsStreet.us,US - Kids Street,https://iptv-epg.org/images/TcIm-U6xPt7XiIITg8tVg-D6iVLsEo3p1yxrWG2XVN7uLJUw4ujMwosv6BKpiL4ZmfUD6Il9OM5BrIBD2dAhPvgtZ8i-AI-HPkJ8usN6LAw
-LacrosseTV.us,US - Lacrosse TV,https://iptv-epg.org/images/apQkBJO1XGEz1hphyoAPrxefx-Wmt1KnzdmQXP4bmMN_QYJmeZhaajIbdY_V_ORq63lSR7AzsXH3la12u8UP7VnwOc4o6SEBDpRtCXa_wqc
 LaffMore.us,US - Laff More,https://iptv-epg.org/images/TxIfCKuxzdLVFo5WuiTlP_F4qrGbXwqsY97VNJFdIH5cYyst7lJYVIjjBncpSbUTEzJ5AFLCjTmmjvafTc8oXCV5jp1JyuBNDmPa25tu
 Laff.us,US - LAFF TV,https://iptv-epg.org/images/oYrKvJGEZjxrrZUdYLhCr74WgV577LJGIRf4HqF-hf2sSrnD2flnP72nA24zmW0GbKqbZ1UIGyrJDRNEsTrc93ePmRUeuXmbTpY
 LawAndCrime.us,US - Law &amp; Crime,https://iptv-epg.org/images/cKmrLbgZcNRHhYT3g-VXSUdiHTcIeSRu-p6S_6Nm7MMrqALb0aZ72P-LAS3jmlKc7MNoZ8si6rNJF43bRahqyUtTgz3eKSwV6S8yfTiVOjEs
