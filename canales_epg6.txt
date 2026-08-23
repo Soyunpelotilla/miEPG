@@ -1,4 +1,4 @@
-# Fuente: https://iptv-epg.org/files/epg-us.xml
+# Fuente: https://iptv-epg.org/files/epg-us.xml.gz
 AbbotsfordCanucks.ahl,AHL - Abbotsford Canucks,https://iptv-epg.org/images/z9_Di9RvsgiivDXN-o28Oi3qTF5l0tNnG12ML1bJB6OHGx0L3uRa9-6Yn0pup73unTzYzkFQORV_zDD1SItJtJ2M2G5XlOVTguUCF5XdBuj-pa4dIqEEeg
 BakersfieldCondors.ahl,AHL - Bakersfield Condors,https://iptv-epg.org/images/jeQWnZp9eo9eYTccApwmAVuZ98N9UPfMD2rDcld-YX0-u6EscyTJeB8oCNRwfSi-p3tPDDMhAXZgPckfq5neAS9IFq8ww1Ye_1iaCeJ0PdhSbJHxMScDhoM
 BellevilleSenators.ahl,AHL - Belleville Senators,https://iptv-epg.org/images/lkx9_VcJKW7x4PLY_lUHtGh1NbtBu8sEFw5v58YR0s7pbw12sl2J_l7z-CZKyCsdz2ePb3owb28-lt1L7FiiDkVBUvA7VIkibIFmR2qIdQS1eD9I_h9qBr8
