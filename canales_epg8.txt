@@ -1,0 +1,307 @@
+# Fuente: https://iptv-epg.org/files/epg-it.xml.gz
+Mediaset20.it,IT - 20 Mediaset,https://iptv-epg.org/images/d14y9IEduJCqSxEcSuWVD_SZnZ_YUZa3MrZSfm-iACGsajc9EGGdwawV37RT7_gHZVLcOoE00_65liS9tdyk9w2T0c2fulhFEYLuDsN9jlwojQ
+-frisbee-.it,IT - -frisbee-,https://iptv-epg.org/images/i3zlXVMYI3qmS52chZeTqu1j-7BBFFGpAocx5VWCeef1acXVtoBujsH6aVtCaKt5M8AZtBVooUyCyVD8o7VQ3T-8KbiyEamtKS0tQItfzFFF
+ACISportTv.it,IT - ACI Sport Tv,https://iptv-epg.org/images/mA5D8UuIRuFo_D5T7OXqvprRJYqQvf2XeXL6ZZ1MCcKM0r3ZWa9Prsiw_lLPxDpWswlSBnKKGzM7LA3aKDH4FFjv1gaQh22STbiRmVc0ZfX1aA
+AlJazeeraIntl.it,IT - Al Jazeera Intl.,https://iptv-epg.org/images/ykWww1z__FtNCcpqqdheF7kk7dBLOqLxPNTmXRlwpUSGyQZuov0nZJ7SqBKTi0iKseXl1aNW-ReqV9KNW7JaM_CW7Lfr1TZnaHQmEfBgubYVE7lTtw
+AlmaTV.it,IT - Alma TV,https://iptv-epg.org/images/GiCxaN03c3xLaiY-vXvpcoj_ThdLLbgUub3I80lbqonn5tOJJW7RAWOFaoAGM_lgGI9D2GAmNAA9C2KXFl07VulM9mYbXv0OggiH6HTY
+Automoto.it,IT - Automoto,https://iptv-epg.org/images/JAZXLu7TK8vHWfL2sr53mwuvzFpDS08z5M2sJeguUEfzjFNuGzGEsFv2c9NQg56gheBFj2Shee_vMrpY9L32kil6hk1sT1bnXWkUPCBPhWI
+BabyTV.it,IT - BabyTV,https://iptv-epg.org/images/bucwvcjLulaNtQjYgfxIC8JhjYRNY4F4kAy94f95seyU-iwDoMDp3a16IhFR0O0PGfuiVjRbkKMP7H5ZkB7jkgDmwco2RqwUARcoozbk
+BIKE.it,IT - BIKE,https://iptv-epg.org/images/E8JawlE1csdwQjPSUU8ItMMllisEL55ozUBoS-AFuSYn0gbWVD8BUs6NBHD5JUOxyIRtYr8Sai4dapKCPvlfw1CHE6S3sT2lEoGx4w
+Blaze.it,IT - Blaze,https://iptv-epg.org/images/IWpbO6J5WzRoq-veyoDzp-hb6biRrA8aYVLHp9sHyP6s3OyD5uhEAublcKFQ7QqFnNSByAc9f7PpPHW7sGdFqMpF9sAcV5NcGII2SbU
+Bloomberg.it,IT - Bloomberg,https://iptv-epg.org/images/Bc7bOdz_t-K7vO3vohHW_kTOXkvUmAER0FhHMMd4XcJ5ZgABySchMEoTO4Df6rAF1z0mQL9tQsfUalOtfOi_Flf8n0kGBHgRzjsdfTh7i4iu
+Boing.it,IT - Boing,https://iptv-epg.org/images/-2eyOdtmQD_pHhzksx2nxvflsbVBoHVaRkeg5XdHwn1G5dHT51oqpbuSfMzqVPx--lbz_-krt2fd_eet0jlLxIkYNvG5GMaO64_6d2g
+Boomerang.it,IT - Boomerang,https://iptv-epg.org/images/_Xy-WcYPoooamXiNE4iFLq-HYtksBZjQ_fvv_U8KSiH7v5WYWVXeUBCAn1UkWnpFJEM2e6p9RBMBAfrOu_naukvWZoKMinnjZiK4SsXds4tL
+Boomerang+1.it,IT - Boomerang +1,https://iptv-epg.org/images/h-34VY20p9VKJqjDlmpTHg-_lN7-DiO0fAgUJXVKCY20v-ljkqp2P76UNuYvnE_LhNuMBYGtuKC64zdZHSdGZyW3L5yxUS-Z8H_95Q2ksbyvE701qQ
+CACCIAePesca.it,IT - CACCIA e Pesca,https://iptv-epg.org/images/1LQ0HVumddKVncZ5w0J0b8bP1JScJCnqLDbSX6qf2s-H34mgwq-U4qJsBGJCjhr5mBGC9Ws5ZCs5HdH4Q-J-n_y3BN6laSInkZmX2GcdQtX0XKPl
+CacciaePESCA.it,IT - Caccia e PESCA,https://iptv-epg.org/images/0UCEjLkbUbCmt3e9NvGKmUUIUbRtAikRg6E8t5yznDJZMBKgS8YcXxen8Nt2Pa3R-ndAv0z0xTf7em6mzQdi945wKSxdaTMZplugAmbuVhiWZh8y
+Canale5.it,IT - Canale 5,https://iptv-epg.org/images/C9_jU-XOZ8pmNZYMpCZwYsfHF7GigQkOEevSBJ6Ap0VnDpfzzSs_erggv075aZbTefHQmecyGns132LE6dE_c0gKLEvZkQJkeY0dMoZ1wA
+Cartoon+1.it,IT - Cartoon +1,https://iptv-epg.org/images/RW90JtzG5VpRXMU3hpdoQ8_tfOYZ7qj-wt7Hy-ZwwFlHP4Qvj12REbDWYMpuZfOIAsxYrVfAfafm4dduYuctDHURfXFGhSf30sl_sxuDpPnCcMg
+CartoonNetwork.it,IT - Cartoon Network,https://iptv-epg.org/images/KmRb0u4gHgh3BJ1Vmb4T5dNfh38AmWj8pF3Pur_0ZvvSZh5SNKqFcTBQdLVZl357hA_YGDiOBxmU4jg-RgVcGq_WoXzxevJ7HCio8nN2m_qQ7eqdd1E
+CARTOONITO.it,IT - CARTOONITO,https://iptv-epg.org/images/ToU8IH2tptxFMZjGLFKk04BqxRRh9AdO8lw6N-ASARgNlGl4AEdVycVn20aB4ax3iHMfCuR_tmIqfRkqdKgljp3l4g23MWf9zlRXRG4ZXFyqdA
+cielo.it,IT - cielo,https://iptv-epg.org/images/EXdgJ7d1jzrpT81-53GNm4zyZuAi0sL7lKQieZB12t4tnWUk8erAoS0lVkjEP38ptnW6WIqPdXot7jvVnMFBkGNJfSQHtTUQi7_ax4k
+Cine34.it,IT - Cine34,https://iptv-epg.org/images/aOLxDPAGnKEi_bWk-0nUUFbdSuWNz7IyhWHw9qZQmd3SXx22v-GG0EVuyNr24sDPaXDwkzOKnYW0BSIjA3etPkvzcBYSJXYjB_XmDPMq
+ClassCNBC.it,IT - Class CNBC,https://iptv-epg.org/images/ZTr7y4rWZLNJaa4-tUbT0aQSswIhug1hg-Z8vt39tDAA7tC2iUreCqXgRfn_dvtbVKJcH0cqZSDJNTG8yKfLJakmpzsDYR2eqg_TcDi5uF0z
+Classica.it,IT - Classica,https://iptv-epg.org/images/X2PrhJ6YmLf-3qkMm1MKA1ETYQPcJEdtLSkMpKXhHejZY4Bnith1uAxd6iwj6bgDFql57Ybkv9RYBzff8irps4pYOIDPhgqFF_L0ZmBROJY
+CNBC.it,IT - CNBC,https://iptv-epg.org/images/ZeXkXvTevcmKOM6T66eOrJMf1avKE7xpbpPY-yVLax4qi6wS-AM7Go7-PCSOuVfa0SLLMSihQ7cbkNJPmvT-q-P_Mc4buYxTLbYz3w
+CNNIntl.it,IT - CNN Intl.,https://iptv-epg.org/images/mKVPwKOj5XAYszT94PQC5eTZ_vOA_CUs46c4LqN0MKZBzZ3GYBfiR-F7cl3eFB6T4RcrYjtNnnPIxbrjTdwlO-jbqhAEM4XLer8VdaW9VA
+Comedy+1.it,IT - Comedy +1,https://iptv-epg.org/images/H5UiBo_mglOsipGLoEJoFnna6X-7E4ydzpiMfEKZ7GM8V4CKROWVJ5P44WY-GR3S_picPdTfAGgCZoFIB32C6kaOWjRGFW_CO9-V-XehsFJ3Pg
+ComedyCentral.it,IT - Comedy Central,https://iptv-epg.org/images/6xyw90Hf80t4UKp6w54YlS5Zhte2iMI9OQkpTaoxdvUZszE-I6K-orjNH_4O1Pw4j5htyn-uyT9KBu5AgfAGlUhK-hV222I--eodBueSKwA6Ju0U0A
+DAZN1.it,IT - DAZN 1,https://iptv-epg.org/images/La2BWWMEr7CcGKQ8r304WYNg3iS6IoUm6imGlkb-1jH1ye7zuv0Taeejkh-uiJmQczsx2pbtfnMx8WPS5Gq6ctbUvArMurnUSTzmo3U
+Dazn1Linear.it,IT - Dazn 1 - Linear,https://iptv-epg.org/images/58j3M95ctEI94RbNCxMxML27tFDXZN4m-vk0agmxsGoMn5Cz_qUu7CTxlE2NmMhVwpdV_pBjuebndTidhthDqT-2Sl_iSSFswjlGUM08ry85ukE
+DAZN2.it,IT - DAZN 2,https://iptv-epg.org/images/gbabIwQIpKKWxRrtAjzKsEkpyWxWd2Y1IHg29nacqiaZzLfCudrygxn4orUUQdXG24ErLbTjt2GcOVzwMtBno0BqS8RFAhgWcjitfU0
+DAZN3.it,IT - DAZN 3,https://iptv-epg.org/images/sUWBqF1XjHqFHgeNWPPWpGXCoCxNGYfWpWUWU-ClWaUqayQ3eHLaS5mKpZLWt4k3swuhncJ5mQPll_1kwEDx1hhHE467wDtkgcFqs50
+DAZN4.it,IT - DAZN 4,https://iptv-epg.org/images/GygXrHtxRsdMTSG-RCwWgcxhzAMBglxn-VB2TgClwkF0Yig9wwXj7mTqMg2iOtlLG6Pndjuc6oeN89QIJl-yORQsXdmWOA6IN54PjH4
+DAZN5.it,IT - DAZN 5,https://iptv-epg.org/images/hFjYSnOsM4vE2j-EBujBuWyRijJ0KluqOy_bZPrh8mLWZwk9TuK6kRjgHbAHKJQ0b4z_zJJUnBwvqdLYkER2VBs_d9rAmpVeSakog9E
+DAZN6.it,IT - DAZN 6,https://iptv-epg.org/images/uN6ctgZm9xsYQfs_imoen8wtpM_VeXMRQ7qsFJEFh6YBpWiYLohqvnfDA1JO8M77BGQ3nIXTsNURvR4Gs1qyNk3MM73z6eD-Aq95EJM
+DAZN7.it,IT - DAZN 7,https://iptv-epg.org/images/Fc4UqgJ0EvCyXoiewMknz2Jx86yAxx6EbPV7GII7m8I0VB6Ym_D7VbZHOhRQNUeIyjjNSnA1vofMCkwtrywrTF3HQFR2XhAXdUxLrXA
+DAZN8.it,IT - DAZN 8,https://iptv-epg.org/images/oQQG4eZjUmwYW4xJtU8kL20pYCoEvQczZlXmYADh3qCl9INx9EW7HMP57esTyADyeo1mSeKWYy41E076F8o7mrilh7h-eFyXRJ_Z82c
+DAZN9.it,IT - DAZN 9,https://iptv-epg.org/images/EwJPuQ2it6aR2DmknT9MBstPQ3NUgfiVczZtlSZgmzu3QxYMpLgg5BKO0nSyhXjSEKfVa-9FHDEVYk6B6BPfoUrRedFho2XkdEx9zq4
+DAZN10.it,IT - DAZN 10,https://iptv-epg.org/images/RZTcpf7Pi1yIdXj-7ruyo7lPG7vwJpMpWzf8bV0WuEYTJBKZRL36SRRy2zaN3EsmfSp_lsE3lSwsAgo1_KqRpoUxEIWYrNXXkvv4G-9C
+DAZN11.it,IT - DAZN 11,https://iptv-epg.org/images/9bUaxSCnMjp7la5P8yo4hO3gJW_pUmHXg7Rbib6AhWKOa9-n17gX5rifJ-OA1SKlpuIjcOI2EaXfN1eQ34LRBLrs7M9SUWqbpCToPP4r
+DAZN12.it,IT - DAZN 12,https://iptv-epg.org/images/dQ9fpTS63ncywbyeZzu74IbBxOGLJy4scJsxYGQ54DvyZGP3NCmLICckzXl0IEVtzLiTOkJWLon-rCHncOmNoOiapVGT7ipZdGEpASZ8
+DAZN13.it,IT - DAZN 13,https://iptv-epg.org/images/246-drxIuBCipBmczoeYKPpKw4xr6Xh99FqsGH2rgBytvm6fWf4qAzHi0DU6JLPVuO3t13_2BjauC1nMNHwxpUqMYRs03I8ucT6Jjp8d
+DAZN14.it,IT - DAZN 14,https://iptv-epg.org/images/LZ1JvYsP26a7AwJ_H1qZBjd4RtiWFLRRDXobHg-7CyeHmAeTHTHQlUVLVk5Tyz-u0IzPpVLfBfJ68yKKYRTlzSihvba5PK-_D8Ctors8
+DAZN15.it,IT - DAZN 15,https://iptv-epg.org/images/PtkS_-cEXUzAlCijgjj01p4V6n2Z8xxTBRDIOt59lOe9wvrjuVWKYymPAFEWbmDDmY5tnwlwP-RCkMVbjX_c2crZ4s8mJMAzb1TdqygM
+DAZN16.it,IT - DAZN 16,https://iptv-epg.org/images/Ax6GmZSqGsEWI85mqP3wfL0HwKHjBS1FhUpiJ7II3WYQr0RvhEf6ZqWuV0rniOb7eVX7aEAOC8xOCvQH9XCbwTmIFnKOq1nP4lJ2Qld1
+DAZN17.it,IT - DAZN 17,https://iptv-epg.org/images/vbsEeGoSv6jwPI-g-nFJPSDryYjL3IGUb0FvVTIfCeaQVy6WHbwjVcp3w-ORE1pRvE-BRItLC78_JKia1zuW9WMz55twb_vmH4fMT0SX
+DAZN18.it,IT - DAZN 18,https://iptv-epg.org/images/wCV-QHRd3uo5BjxsSzo4JPpk2EG8EQaNYGkn2ApKPGO0MGm2TjUDGSYoRZNh21Is6XtwBjWWiC7iqLB8mtGZiO7fIYwxPYNytPLX71Qi
+DAZN19.it,IT - DAZN 19,https://iptv-epg.org/images/U6xmGFK2kpKTK7Y0MTnFcbXpJ4Bn3VxFqnRi2m49OkIOREEHE2fWore-z4Id0zcvL26FZ8nI9ZVjBy6ABVRX_Bemn0whD0ZnhTqJqs0d
+DAZN20.it,IT - DAZN 20,https://iptv-epg.org/images/yOm01KNchepKvOHwscwder-zLcXYVGfgCdffFtOaP1Qsh1AroKYqCT4s7i2rPurQEzFOmi_He72FKVMPZgvQHv_pLJADMFGZlwysPnE7
+DAZN21.it,IT - DAZN 21,https://iptv-epg.org/images/8eJlhD96jlkxznPgtPm7aOf-1eN0tHr4zXwq0iqdjrsI7JhAy0Yrw6gwZDL3nIlYjeFfNIz7njjPfVm06Az0udnFuSLRAijFUmFz7d_t
+DAZN22.it,IT - DAZN 22,https://iptv-epg.org/images/yTfheoP6wMm3zzpBapc9AwvpwdAvBB82OKo5sI9QlNnwpS4G9nQTI3JSgNWXdG6H2ztb0jJrde-ukCtpbaSI4syWdZ6kyhSVbopOx2KP
+DAZN23.it,IT - DAZN 23,https://iptv-epg.org/images/AMZUwEQ3spcxCCMDTymUWtmqs9e2XlBkoGQGbjRZLmobr8NiXsNvmCY55zGSLXw7b1qYbM3W01mPIKUPmbtWjIrbmQ3X0Fxww5TMWOMm
+DAZN24.it,IT - DAZN 24,https://iptv-epg.org/images/dmhuVqYaGzq1-PYPUxPgnpzQdgsJg2WFvn_yTu8J1GGr9NWbKMc1m1gGBg5SfIe_otG22q2LQNcdiG5PbW9Wr6Rl0iMXhri5iAkgdxaM
+DAZN25.it,IT - DAZN 25,https://iptv-epg.org/images/VuBSn5a3uVMXaEZHC5cqSCC2M52UdmKiiwKqfqW-3KYXljBkZ_ZnDaRic8bBPpCuKstzxXaMMucLmdVABEb18LbyUdxulDUZv5-VSAcZ
+DAZN26.it,IT - DAZN 26,https://iptv-epg.org/images/aywcjRf-EmxiEerhv1BnTooFlL8Ad6Bve66z9gHgtbHx6c52xiZTTT-R0TMte1FV9Yiy_w3bjK2dw2wLbNzUbN4sV53BrPH4iE6Gq-0O
+DAZN27.it,IT - DAZN 27,https://iptv-epg.org/images/udEh0EbThVS8OM4TCsAfJ8gfFrZMLUQyEx-j44m_2sg6U1IRJ6T5LwBdooiIrwMNXICTH7NwoIouvSpuPJRAwPWVr4NugnO6_m86APfE
+DAZN28.it,IT - DAZN 28,https://iptv-epg.org/images/2HG7DrzEaaUReRXXgub3Rd_VIUBdvjYTqLRaRFzahfuRJFZuFjfHrvZD5NgGklHXJmFVXxsrpo07Xo7CliQ6woWrxkaw6XFrKtSlRfQx
+DAZN29.it,IT - DAZN 29,https://iptv-epg.org/images/Ax0-Pke0Wu_bdjQ9ne528Nkei5PR8dGkzAp0AN8f8ituy0pn7f60oujQ0SVDmp193kGlIoYfillfRG_FcknOc3_52gWBtrx1ZcbkVFLn
+DAZN30.it,IT - DAZN 30,https://iptv-epg.org/images/0helCIhP1LBBKFqJ9MPLama6SSl1ODIvsCA6_mmDApcRVKnfu3FuzLaPmyWQExdC9MAkZTwbvHACfRHQghxUCuQVfzjba-GlOTnTQCQU
+DAZN31.it,IT - DAZN 31,https://iptv-epg.org/images/xQCdiHI2s-VkLM3DLzpHpbO8hYqXQLUw6nPZkNaXrBZZsxDzstDBQ-cntekXzQlOBKFpEKAxscpiVxmhMsUdVtXBjobb1VFezv3DY5dV
+DAZN32.it,IT - DAZN 32,https://iptv-epg.org/images/89lPrMBRz3M1j_49iJMxd6KqmfZQ4Q1tBcUEMq9wvndc0DSHa2wMJ0nl2StskugIEA0aEzQavz8JJseVkz7ibjMDjiJ6R6BMaAMnbBTH
+DAZN33.it,IT - DAZN 33,https://iptv-epg.org/images/kBn-fLXlQwdjMYBEoPBUOJSvIr7SJQha2UKCSy3TXajTxp4tUd7-1aox4apj3eR0hb7DiQMfP6Gs8M4WxTtIS8v_Ncz9GqSUdWSHHcDR
+DAZN34.it,IT - DAZN 34,https://iptv-epg.org/images/lBwFAD9dAM2R9qjilqOXG4eKbP2xvyXru6YNZkP9ksUzHZnvmaRSZJXtwxVYZESqcBlOb9YkmIWvBaKcEimjZF9zizZD72WHwxKIvWsz
+DAZN35.it,IT - DAZN 35,https://iptv-epg.org/images/hTltRunArC4kVj3BOeaAoCx8TO_Q-xahwm-RZJoKDonNezAgDw2wqatUtsS8l-akqjK6ze-7i1KVgMxYtgAu-WFb4k0uhRblLW2J0-aY
+DAZN36.it,IT - DAZN 36,https://iptv-epg.org/images/oOeKY7pRLnPwiWizt2qnFLDE-okhw3OA_zE6jdJ7mgGvuNS7iFPUehGB98TCH9Rrv3N9KMqLy9iQAUhD5ri_tX0cLArf9YkhIOjYRWu6
+DAZN37.it,IT - DAZN 37,https://iptv-epg.org/images/hwhMWiYMiXtriWsGJW-FLP_CB2wcJiA4BheMwp6HKvfsn2miU6gIV7jFuGOv6dx11m4nIg_eVoNKTdBhoPmhwYC0w-jQhH1CX4WZy8Qt
+DAZN38.it,IT - DAZN 38,https://iptv-epg.org/images/VgkDKd0_ot9E7N3r1C78TMld_VkBRn1dBC3l1Vc0bYJ74aqvLwofuvId1b59d6DJOytVVBXT9QK4P4EX0qWMqMRfWFvCGDul9mkE8PaU
+DAZN39.it,IT - DAZN 39,https://iptv-epg.org/images/Y7HwGoqmlF57XZZAAJ6zZwKVAXH9v1SM_vs6EffjTHr3p6azPagif8bp8HHv28EosL-eOakxvHUc3AdUUB4ae2myixrRhFVB5RgTdUiz
+DAZN40.it,IT - DAZN 40,https://iptv-epg.org/images/ppSOHn0qP0In8-UknUTSeHxIODpnRDnIuGAl9fU0h_8niXhRr28iciyXBk2Y662986L_VANHYBD5qsGfHQtHRB5Nlqq5iiJJuxRnsHZm
+DAZN41.it,IT - DAZN 41,https://iptv-epg.org/images/kgefpWJ720DaSR_QhMEmd84-u9_z_lrBRt4M3HlOAUPKJn1Rd901QhZcerIFzCV_ex5LY39-C_FRywiTpaguP__0AMhUFf1y6K5qc_ac
+DAZN42.it,IT - DAZN 42,https://iptv-epg.org/images/r6zOLlSkiHOD9HIiIiY_skW6CkS2pANmWyVP-UTAmV9LDPHYvIgTOIChYj3AFFcVlM3985a5STIukrQemGiJW7PNHbqwzf2fbmvM0636
+DAZN43.it,IT - DAZN 43,https://iptv-epg.org/images/Ljo5LtCaKl6iG8CU2ydSIswrWO29g_jBrSKd8rUX6vBZHAx_yfKuQXwwUt713FyKOXl3s1dm8UNx0yLv9rHtQDqkf4IRGEATz6BpjhMQ
+DAZN44.it,IT - DAZN 44,https://iptv-epg.org/images/Prn9SIyi41W7z6cUzJQPSmFl6jmlAS872iccQTC3M78M9WVpIfR9Y9LtEgmQhmlVOyMuBDDKGW_U-Sp3FiUb-iu7wZAYC94LkN0F1LVZ
+DAZN45.it,IT - DAZN 45,https://iptv-epg.org/images/ep2EC28uPoBqpIWnLL82bE5ITAf6_9xAqnVtJSIpCti2bj_hoPgVStCHp2fD996QgxHWX6whPEPb4gYJCUGAOfnrdt-z14YTMC4Ir--B
+DAZN46.it,IT - DAZN 46,https://iptv-epg.org/images/Fcx_AfeqiaZHuQtMF5JVZAigsMONnotUy6Dfbz5AE7luuAL6agEmJ8p5P1UqdI1u8mgUn6BZg1MOVbIdu9OsFoa78D6K4_TEy3B_iM2r
+DAZN47.it,IT - DAZN 47,https://iptv-epg.org/images/UsyyIpwSdocCLJ--Lvb6GASVqM43cOMn41Gmt-V4R_SYwETarLjsChf7XQYU3Yz3D6g_opcsfANbZKj5cNuCrzgTIQVzUZQKxvN94zZk
+DAZN48.it,IT - DAZN 48,https://iptv-epg.org/images/T6VYhpedWRyEnwf313uoOvv5yj_mlHhjrGcDXXuxxZxXFnFbvEh0rUlzCocIbzYIp1lQJupqqZuw2nzv2CPDg6yCJxG8V5pj8RkF4VE-
+DAZN49.it,IT - DAZN 49,https://iptv-epg.org/images/Wcf52N-IRvdJWdatOFf_XHB2A40AiC0nqch_nDAoGeV_DM61SBtL4TzEScZGGZK5x4EmFLniSiyzWtbAqerOXfmJtCB7V0TWUlAEBraP
+DAZN50.it,IT - DAZN 50,https://iptv-epg.org/images/Tcvfi-tFvwWHj3ftnm1IFkjUcl6hcM3LOToI5MdRQsM2oPTVrIzDjRWOc13ubzCJuLInEzIH_mL1H-wa2VsCN5InWVXkLeTy_f1dgHsQ
+DAZN51.it,IT - DAZN 51,https://iptv-epg.org/images/aD_2FHsdcsODihpMEIz0p81luJ66kPTNKOjrKTNdaazL9N4ulOgG563er7bN6HK6P0NWNvTWi1NUdxYQudSBNZ3uDFJ0GuIR_tz-OeTB
+DAZN52.it,IT - DAZN 52,https://iptv-epg.org/images/AkSXwC6wTLbtjlJ8Y1tq6QtDNadjsNeioLSeklZKI37IlqxANIAu11XssvjyhrkXBvf9VuUEgzo1BoUZrhh9suLdfQQa9iESVi9AYsMa
+DAZN53.it,IT - DAZN 53,https://iptv-epg.org/images/NccYg4qb5xJ1e5pteL0sb8wH1w98DKZ_nbsElIiF9hrdqo8ikWuP74U0QwgLcd1ffvePWzJQu1Tyu3xzYjqv38duH-SjFmUfff5lQixH
+DAZN54.it,IT - DAZN 54,https://iptv-epg.org/images/HbMDcGBrGbCWBCQ2rK-RuYGdyDGzsW80NXWy4f6_zBy3k2qO7p3RejjM-S8Q5IZMoUlnWerJjDHkLlQOjDgJj7YO_W-jMw1Mx1QHOy8v
+DAZN55.it,IT - DAZN 55,https://iptv-epg.org/images/zOluBn1P82j3hN3sWXWYoZG2Spa9yXiWkpjUVfgiXT4RXXca61WhPQo3bsnnTCM16NXPVnrD4rJT6ccXgt1e7Mm_L0OUJf2DZzVZXWSs
+DAZN56.it,IT - DAZN 56,https://iptv-epg.org/images/PLArGseBjhZZ5rEU5Sb4Z0n3gBhZs1o7vFFvMIfiHhY6Ms660-4c91_LYmPGKBQp2V_HlupzrVMdtGG_3cQroEeQpsX2-TVK-q6xBdJu
+DAZN57.it,IT - DAZN 57,https://iptv-epg.org/images/2EZJ9k7-M_8u-qxOc4DzdTei0eyRUnmsJgTplgB5KPpXOijJKTAt9h-niWaP7mmNWcqWuSU9Cb6GUbd-GKeljryjw8gkKZxYUnsfWyWe
+DAZN58.it,IT - DAZN 58,https://iptv-epg.org/images/wBOPpBWeavE0xk6qFSGeIlATscCiT9ZV9QPNgRhnvmMEewyNjwnD4UBXOyFy8QON6HHJVWrMwj9i3OSYUSl5SwXMwYPY9DBFy750UVyJ
+DAZN59.it,IT - DAZN 59,https://iptv-epg.org/images/DGb80gcpBeTGLIzTOmlFm9FhQrLo_p3oLlfmGrcIPXWEsnPXk5ublMZLNoW7Lva9615doOmWyR71huZJKK-Rk3_DmnThiNSvQNZYcr6B
+DAZN60.it,IT - DAZN 60,https://iptv-epg.org/images/u3i6l6EHKungpkbbmVBVvctxnTGHn3v8U2ZrYKo5nXVavAc-fTly6hPAQ9albtZldCiP_8STJtXAyMNdCZXzRITfQUtVN3_eccRczeiE
+DAZN61.it,IT - DAZN 61,https://iptv-epg.org/images/5O4xk6RFb0DoqbZhmXYvFggm80ggJaxAPkKETQAH74WrMf9QhmKpzFWYgCq6SEukt0cZwnu2dUblc9ZCU-b5DFJfV7b5AaflsxNJPR0e
+DAZN62.it,IT - DAZN 62,https://iptv-epg.org/images/N0nyc1sfdl8X1yuRF2CteFMcx_n-qadrrHkjhb-t1YFLltKr1RX4Ic9PC5can2Wpx7Sx-cQ1S5g6dRCFCYFdzUuGOZo5SeLe8IXZknid
+DAZN63.it,IT - DAZN 63,https://iptv-epg.org/images/DUNgCiydaTEumlk9IUUUaRGqWFcR6F9iP3h-BPGMyuBvK3W3quICoMrZ18n4HROz5iFgRsqzMiayp2cHb1tO-FwMZfnr29IWNu4PPHlv
+DAZN64.it,IT - DAZN 64,https://iptv-epg.org/images/lAbZl0Jnnr8Nu2_bdKq0uuGdFIjxjV7vwOZfrxj2MGoMRZFSm5p4rLnFKE8amuuyRsoo8aFCxYG6itBkDInUP7VUzXy_aiMuwSbBeWQf
+DAZN65.it,IT - DAZN 65,https://iptv-epg.org/images/i7iNwHn8doxTfMpNvckj9b0kLeo1LhytVZaIN_tZKJkMVzlZZLiDLyC1p4IfJK2U8P6pw5WlxKTahEzMfsx85-JU7OwwlqV5Dd5e5G7w
+DAZN66.it,IT - DAZN 66,https://iptv-epg.org/images/1kAuXAzesdmqjaKYnZH2Tef48kHxIorT_AAg8mCYPNXVSnD9eSvQCFnOY2Bs3c9mpwIEDuicU4tF6QvORDZ0AQ48VOcuHfjHmXyxEw7V
+DAZN67.it,IT - DAZN 67,https://iptv-epg.org/images/7L49uiT_ipS1Pgw22-RvYSsDCzCghb2tUOzb0_LSdC1VYR9zySMtQZgQcD67vRp0-HUNP9qXQWil8wf5UwjIykBf_M-QTG2V1Lb7Ozvz
+DAZN68.it,IT - DAZN 68,https://iptv-epg.org/images/qffQQkXvbhlEkJiPXTAhn4j7lAMtNlBM9QsjwGYy3tUQigxgJWBOe1ehzzZKs5EmU3n74iYG6PguN1Ip25ejB58Ead25w29SdFOpZDAe
+DAZN69.it,IT - DAZN 69,https://iptv-epg.org/images/t998RlIiOe7hTePVOiE8B4RwpHXgbYiV6zZvdO66z-T6xqc1ErBEje7hZQFjyHJ9CmyIVE-fzALki2U4dYXtWXJYHvHmlSK9jNlxiVIn
+DAZN70.it,IT - DAZN 70,https://iptv-epg.org/images/q4p1jl9iA5p3HBfcKZVV8hcLsEOQkCthsrFrF1Yuj3hSIKnXCv0jSW_BiRJ1zB8lnbAD1PpocILKgVWo21BZCk24WB2owGq9Zs_usURZ
+DAZN71.it,IT - DAZN 71,https://iptv-epg.org/images/tDosAHmp54bVh0h4UTO1n3aF-GrzxkIoMviDy_pLOWPORbUx_AbNZKM_Wk-EMKMHDMC-OH9x2tMqtVsYNFLPohh-F9Qz3EiVM1q5O7kh
+DAZN72.it,IT - DAZN 72,https://iptv-epg.org/images/K7baCDpxvAXk3hs0fzsc887w9MNEFgA5OgghvIQJwYZdjkK2-oIHgEtJddw_31jiJ5XeenKQpWyOde7lcvDWRo8UmaWy5nqJtbdAhjhA
+DAZN73.it,IT - DAZN 73,https://iptv-epg.org/images/4g262lAbxOpHf1XVuEDZ1vZCvV9IGfW4PIE5tBK-Gr-UD9RDMAO4V5eSTiZtJO8mLc5Gp80BHp-ZITqM9wR5PFSCpTJrtgM9k_C79yJx
+DAZN74.it,IT - DAZN 74,https://iptv-epg.org/images/CCH-auRzarCJunJfQ3OSVBeC64zLSOG_sxppqri0Z6XknXVFqkqVz-cuL0QxHc-eFxwL7kEHBcuLWKmJk-_P_CdRMsG2tRZS6cTZB_Tq
+DAZN75.it,IT - DAZN 75,https://iptv-epg.org/images/FlW2jX4bgTdaCbAA49QTXEt8bK8v07TjKanaZPaBSGrljwwJhBL9totPSnyZg0iJLnknzCJHLUo0pI0XxROYYUpMBx398lwaooPhrv07
+DAZN76.it,IT - DAZN 76,https://iptv-epg.org/images/-MPtM5TmEKZ3BqtBefWRKtNXYj2lr8ZubUsA9zQ09o9OOoI-ZcSj6iVgLWzOqOhWsLau-ML0bmwr5Vq13AOOSFmsW-cMzetqE97Er6la
+DAZN77.it,IT - DAZN 77,https://iptv-epg.org/images/fQuyJeWQP2N9RGa1yEhP8Al5LeyFASITRAUKix7uHigUEk7DB3atk_kjdzA9mbFUpfSng5wuMiMnIA29U2QTl7opCWpnWVSDClTVDcSY
+DAZN78.it,IT - DAZN 78,https://iptv-epg.org/images/vEY32vwVuCfMVc0Iez6j8oj-Epah9IsPztcc0Cq6OugQz1zUuCb8tvRLPmcJNQczUdV6Z7zMsA5nABrDlnLRIb9FdEiQ1K-1zX3_vTPu
+DAZN79.it,IT - DAZN 79,https://iptv-epg.org/images/xqppDU7XOmPVW6dgKJ7JZM75P6SiMkvR8Fu4DGkzs4d-QtMCo25oD_9ynUrvaXYtnSnt6n_8dGouT1v6ijISXUSRF-buWbY5XzwKmeG-
+DAZN80.it,IT - DAZN 80,https://iptv-epg.org/images/pRWZFIGDSGN8Hu3KcBvA6iq3MSZdbJkAzCDNoSiXGSKfcKcqpi9e0pL4GSFM2cVvMEuItSvZxN2fRF-f3tJb7gII6kbmQR9ireDAckwL
+DAZN81.it,IT - DAZN 81,https://iptv-epg.org/images/sQTeYvB3KYKz3cnLfQqUYaAnG3OW9uAwXP1sF96kOtjoANwNQl9Kiw8Ry3UbT9_kXJTMIuUSOYs5M5bDvzligdiE0fVUxG5KuU491Qar
+DAZN82.it,IT - DAZN 82,https://iptv-epg.org/images/9Grp3q1bMIWGvjJ48gYdXLHnrgBbQA6ZYMrCQlLP2dEdNs74S7iIHDvxI6zGbvPon797bMZr5_ookBQuLc7sSc_GCLuQcN066HPedEV_
+DAZN83.it,IT - DAZN 83,https://iptv-epg.org/images/Gu5lV3hJRStfVEGYRgksiaskCI10Dy02Ip9dBcTxdL1fJaxubQOrU0-KbSqj_B3yJqEankA12nXtLiMLsV8cch6lhp7P3ESn7ArRa6xb
+DAZN84.it,IT - DAZN 84,https://iptv-epg.org/images/NgCKicXctvE4GTwVLTd6M-CVTx8RHzrWd3HhatBvQ9pKU1ZTXwwV6eitEp20c_7wXYee3eMymRnYToEmsHX4AXh4og6Zi-FLPTRRMB88
+DAZN85.it,IT - DAZN 85,https://iptv-epg.org/images/PgGg7fsrT_zHQNoXmpWab-VTOPb3Tt5ctGYnedPwpGUHeqPyDUWZ612L5Tk8eQ8DEagmNton3PjWC31I06F52ZH_zCjIFhz77GhdcCV2
+DAZN86.it,IT - DAZN 86,https://iptv-epg.org/images/3w7FlpRCP2tJUT3lTscVuRj865EIQU6NafzG6ThetWInJHzks5K075pk4hs5aFqUIoR9Qbu0t_gSbLtPLHogJN1weJ4KMgkUhTttaISy
+DAZN87.it,IT - DAZN 87,https://iptv-epg.org/images/6QMs9veE036n7Nb56g3tBgLyVlKqLq0uNJpQ66iIFzbX2wSET1cHIWaSP0pf80qkcTtyc7rafTef6P9ES9FOH4AkQLCQbTrVAlONTgU4
+DAZN88.it,IT - DAZN 88,https://iptv-epg.org/images/Ctwl-O85k4c66cVsicvXmE9vlHJOYClV2JpOWCS1XETsbdxRwPs-zL3wD5k0N8VT_Cguf3ov3h0DvDWLsL6wQUODVd1DQ6I3AFzLGO10
+DAZN89.it,IT - DAZN 89,https://iptv-epg.org/images/sFXztHKGeNHMrDOFKr8F8Do81BTORh-e2LKO8VK8_cYeI7H7dZJRrKY4DL1WHJnQUMQ3KhFkDostOxTr8RWiKkoNg9JKtaM-udAin-ut
+DAZN90.it,IT - DAZN 90,https://iptv-epg.org/images/rbTmYcG9tocsBdQd-idzJI7HhGWrLBf1md8TJmd8PflwLGZz8JB2Ywy0qPvChBhPiY7QvmukZFznElQn_gzDwb5UXR70heaoF4tnuWBd
+DAZN91.it,IT - DAZN 91,https://iptv-epg.org/images/5zy7UNKUtzh2czefJQivcWJ98fbXS40ag6mYJZ1w9iWKox9JIE8xDVHo9oLdRW17SyFzVOuP5V5PpmWePJ11piSzgpo_wT4qfHzP4kV7
+DAZN92.it,IT - DAZN 92,https://iptv-epg.org/images/kMyhYX7CKbC8QhQnWqQYxbLJU-cFPF4pUWj-8bezJibadFSOtIRWmYg1tGFR6Y44CorH02DhwDWJzhjohWdf8XSu2GAR40_fWFAyuoXY
+DAZN93.it,IT - DAZN 93,https://iptv-epg.org/images/spwZHXCC6JIiSoJaXNQiHyl91mswFqBAqTmU_3AJDTUiCaCkgcJ1J8k_xHZfsYB8h0QaEijgl80jkfyINyfuThT72OwC-IY9hFuokjse
+DAZN94.it,IT - DAZN 94,https://iptv-epg.org/images/4ErxnlpSFNUqS2EwiUOyMahxqr4-5c2INOMcj8cMZYkeaqBnDeiKWvhZby-0kEcUr7eVv4ky-E2UmI1KdoUVChTMgXTYDIygs2K1ArEc
+DAZN95.it,IT - DAZN 95,https://iptv-epg.org/images/bG7VGBI6d56HWDyi6upoC3S6cMXTui6dK1TDOFV5TuoEDf_lGOzArMu0IdI37dn0lF_EW_ll7yjidMXmfPAoBRkrGojaLSP7eW5MLV8n
+DAZN96.it,IT - DAZN 96,https://iptv-epg.org/images/q-xPax6jNGMYQtCtF1oitnvot2TRgkliX1gyq7xy7AMBBeZFFkpPMkn3Nk3EZqc0hVkhiv_BfnMAYZWysEvf6kSuDp5bO3786WQGIRtd
+DAZN97.it,IT - DAZN 97,https://iptv-epg.org/images/xcPEX1Da5c7vnpaQXyNbTBy59n1Rwcjr9vY4_dSsfLUt8gjLzaRGqbVfrWUgLRizsYBDwNum1pDLdMt-odZegLf25z7I7LqvZPDe6GT2
+DAZN98.it,IT - DAZN 98,https://iptv-epg.org/images/rgJQNpjIw8CTVOeR3ftc0d9wIXbG94r3mTS0XsSMag9HCV9EdveS9NP0SUNpkzgBOLO5ko7gZlgfyWXeNQND9rxYnX3YJu_08swGSZLH
+DAZN99.it,IT - DAZN 99,https://iptv-epg.org/images/ppGCP6Mc0UCMh8LfIoNt7SKoWQaRUDnYVjhhmF4cXClQm3ncpMdrH3vDZ7bEWyNZR3Bm_IXMBWus5oFa_pZMHl6C3LetJWSZnyHP1jT7
+DAZN100.it,IT - DAZN 100,https://iptv-epg.org/images/6UWNBB82CJmoHUsNQ5zxj9GvCJJwntvdK5xquteIMERc2y11iHAdv0V3wxdi08YzlcTz0kjXlvOqm_lu9XQQ74rni_o5UQbt8_fEr0h1JA
+DeAJunior.it,IT - DeAJunior,https://iptv-epg.org/images/DPPGF1c35C4dgiUBPQOR4OSOodgBuvdGfp60UNqmdKoLlK84VgQGfp940onTTpDEikjUcWO4V5ARkLVl8KqRoI627KDA4I-WfoqrULZRH30u
+DeAKids.it,IT - DeAKids,https://iptv-epg.org/images/Q-QzUljp85gXp27evpQ6SbL6alwkUXrFGKEqWXUQfa-Q6NIt9LbvxSoDwnpWpvqluLiV0zPNXcnX1FB8F-UhSY6cxPw-wvRZyk-nYCD6AQ
+DeAKids+1.it,IT - DeAKids +1,https://iptv-epg.org/images/AhAg7cWfx05kDuj73gisQ6jIRGkwMMlUkqV5OrJn8TBR9aaG2NTceF-zbCiz-prr1z6nqyCoWr-rGwRVyroswvtzoYTcn2LjTQ0GiX415MCu2lE
+DeejayTV.it,IT - Deejay TV,https://iptv-epg.org/images/OdIVB6fzs9hpRkU85-ygoepLC-NFUlnbh5whfrORCFFomIENGtWp-mCSn851Nny-oAB1gPFAYTa-rIPFIR4NzF66E5KeGlRUsCtILapWUD0
+Discovery.it,IT - Discovery,https://iptv-epg.org/images/ByIwXivDJOPHfF7sTddy5DsTlbQvYbzlFVz8_0ZXWS8Oa0kyLnhqOxQjrrW3GjjZ5v24b-MxUqaFhyV25egf5VkFVPf6JDgSKBagGOLakCkP
+Discovery+1.it,IT - Discovery +1,https://iptv-epg.org/images/FDpIeLLI_tSdUQHSOyR_x8CNmK-caSWGatst-4K_ej1YcOWfVv1pe2VWksKmq6gY9ps90FuIND84mT_QPE6RCAC_5JD6v_gNttbsDU9pylvoCVA2Cw
+DiscoverySci.it,IT - Discovery Sci,https://iptv-epg.org/images/TqgOv9-sZRvgVeJ3qpCUVQXxPZUYX1affmCRnndJjENWaAEGx7gzTBqheS6QCYtZzxAUD7NQkuBlf0ltk3rTfGtyn6reV5fH5YnQe81d8LjdfQbR
+DMAX.it,IT - DMAX,https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q
+EmiliaRomagna24.it,IT - Emilia Romagna 24,https://iptv-epg.org/images/grF499QwLGCi7CehOAshfTm9_CLPeX2ngjJcRWexvkRn3O1LQb30ausvJASUlYVTVNYdVDiRoGekHd9R966ZnhQGPHU4BB3pvpRZX9Wel6QH_yPp1Zn_
+Euronews.it,IT - Euronews,https://iptv-epg.org/images/lV3wnWa4M3vjXEwS7gwR2rj0HW8xrSokeip_b631_OzVig_TawNTBi3z_hd3ZGkBoZGlR0e1eZ6a7cBmAhez3nLnSCqM9GIA8odrkFs1OVQ
+Eurosport.it,IT - Eurosport,https://iptv-epg.org/images/NUvT2nAR4QbmsYQ4orZmrLkxtg51xdmOaqQwqBhPbGf_pE_6nwo04fKDtYpCxc0tHTcdPUC55eqL12zz8OhQKlQ313Yb8_fHLaf7keI89LHB
+Eurosport2.it,IT - Eurosport 2,https://iptv-epg.org/images/P7x5a-boGSx0f0ZKr7GhK2f4Y0yOQ1x4aA3swihWnMonIyeh9eVS8KDMZmKdydSpBktCriOzCAIPXGbwve2FjeUqXTlqbNdPgxMFt0qnNXh0Iw
+ExplorerChannel.it,IT - Explorer Channel,https://iptv-epg.org/images/N7DsgsaA30tMYoV7_GXzqs_cn8WbhztPVXqJcofs-RyjKz7nBUyC8nRfWhsUOBMJ0zV9ug59FTiFnbiZFA6ceTpx83r60zwEOZHOMJg8-CkL2W2crIFM
+FashionTV.it,IT - Fashion TV,https://iptv-epg.org/images/BQHnKL4oC_2VfhtQDUQj5mU3Soh2NqEbpFtaqAjU_zU_sdbG8pA08vQ-KoyPfAGUPJFlWcKjfQ3vy4pGdtWkA5mmpoYPPppM9vDEbF4E8ABJ
+Focus.it,IT - Focus,https://iptv-epg.org/images/1oPQrrYhFqdcZV9kfBsPEoWXmOwkl2_XpXevOUAAS0iIAFu1JUVnK-2UV_g0HR2P9lZrXXocS0Rwnpmc4Ey-6gCy7IiU3wb4qFjj0Ho
+FoodNetwork.it,IT - Food Network,https://iptv-epg.org/images/iwO3iPrxhDB5v2PlE_pqRh3OshYhwEJnr9T8HYGTAjtREx3xPWcoEgwrzjp6Be8TWaMq9MexcjPxleJRZth9w_SsN6T4MltkxOWeN68voO-wYK8
+Fox.it,IT - Fox,https://iptv-epg.org/images/jMt85JMqEF7OaDJ9Ki3LjzBFn7S5LgOemAn14CnsYMwxtExHccutQnRzyj06EiQcaOk0KPkI69A0FkLlT3m62g2RdJFlk81u-KER
+Fox+1.it,IT - Fox +1,https://iptv-epg.org/images/fUGYMf-qli2XOryuiZ8f8unc12R1xgCLlWDcur0FPRV-OmhEXbLHojZAufJiUxIy5mvJDy9GgSClT33wZrzsllDuRFSw7J5SXiolgZSMjg
+FoxBusiness.it,IT - Fox Business,https://iptv-epg.org/images/nftej3mKD5VOVSk5sVz4yF4idrOHTwy3TGBP7uROFHDoRsrwkQ397JbG1uwyodJLU8tV-cryUS8T8w7rZTPz05_ulx3_hffL0CBiq2BiNrgxiV0
+FoxNews.it,IT - Fox News,https://iptv-epg.org/images/H5k20j3-sYp1ynluqD93TzCxx9n83Bv-nJxqnHjIdOwZ1fjD5IFRejWVFop18hAbWRxrPK2DnPLA_pcIEKcD-D5CWWucyFhuHNqD3-UBKw
+France24English.it,IT - France 24 English,https://iptv-epg.org/images/R8jtMTDfPtBb19VGJWN7z0wYQV9UHSEegoQxXTLtCX1kTP9Hj0Nze8M5o1F8iA85RG7uwZnYJzs2JZ-qXlak2MkOwyp8uNMn3ETXTK4mOWeX_PmgwzEJ
+France24Francais.it,IT - France 24 Francais,https://iptv-epg.org/images/ze00Hq9HyrNsDXBiNo9HdcgmE7atGj3kKcLqejwmPgtGMPywFud5Y07hUPHq6Hy-gEW-j0OFfyPXyPuIoCBbKM--GNk00JzxqJRxRRBVhjp6-OPu9CKx_A
+GamberoRosso.it,IT - Gambero Rosso,https://iptv-epg.org/images/gNXnz8QUKGvnQxz1LlJqi1uAte4HqgdxWxCiOE2jf7Ihz5jcoZbvsEzveXikM3ptmop0nqAKotMCdKSYWHoGU31LRmgfDSSqWBA9ucN9qe-ugN76
+GIALLO.it,IT - GIALLO,https://iptv-epg.org/images/VGA013AU3EF243QZPFWXrLz1JoNwZUPTMf_FBDldo46wiGfk9chkhxei_NfmOEBtORqkuQnp-3UrKPlhTo2LNQUiprmB_bqnTeLr423h
+HGTV.it,IT - HGTV,https://iptv-epg.org/images/vhZVIJC6fX7PzVHeZZTU00ZI-2lzT7YBXXa44N9mQS6298wXyzz3SescRVGr7ntd_owtsK_UbujE8PoKqgbLFBeydAWJ_EkzKqFbcw
+History.it,IT - History,https://iptv-epg.org/images/t_kYph7u86XxQ6aqxcZJspd66wUgN4finzeZeDNYIysYreOsNlFaZy80HS5G13pRDbIVOudoTUU32p2WRYRORIUHGL85eqxn4ORE9l0f2w
+History+1.it,IT - History +1,https://iptv-epg.org/images/36Z7K1BfLisFWQ8zy8ceBbHwCaG2s6MTd5d6yU1o1Nk9w8Un88jlFwPJGOFVD2qVdZFcBRmu-f7jCyG8p7dGu918vrXpQ7BZKDfTadKNwN2i1EU
+HorseTV.it,IT - Horse TV,https://iptv-epg.org/images/49q6SdZb8_NGLol1lYKHDyZU_ZJWMLg0Qg-D0DRJLsZ6Nk1uPF1DjoT9hfo1BIC2LZXlQ5gbs0X-2-tDBjV1Nlc4nKsO3lIW4L4z4gWvAg
+i24news.it,IT - i24news,https://iptv-epg.org/images/itiUiQUyiTXG172DTFx87a7oziSEnnGbZy5br6rwU7uPih24dFrIdBuVFzy1zCp3BrEMP6aP5QGxF3bm3Tag7ARC_wdLTLtgH586mrggcA
+InterTV.it,IT - Inter TV,https://iptv-epg.org/images/5q99hMjTzRPZamzcU5FudaPBZUKbKzreFNntjFpec7nEGiWe77z25uE2R0-gOnXovmdXqxMd4Cu1raYFBWK01OVmgY3KWqDCZT4n43dPiQ
+Iris.it,IT - Iris,https://iptv-epg.org/images/ijxxwVmU2SPW7zUcsCJxmHR05bbZRaZ1za8vWeXkYaytfGmE2W0useFgQOh9mMhQAofZOl9TS5WKtOGBvTi1BCem-yPRjywrcNOhmA
+Italia1.it,IT - Italia 1,https://iptv-epg.org/images/F6lZAY7BxOYRF1yvl0rA9QtUzfQlwE8FbGxwXhEPxzqig0SRqdRYXKGdbkB3yFG_Sj2VmUrl6PHJYbQyCjpibJoSxpOjcgWtHhgG1x5JaQ
+Italia2.it,IT - Italia 2,https://iptv-epg.org/images/jonv__2UnzxPkRy1EYUBsebm7hPUOMwd5qVuLub-CPRMQAkuztrpvFt-QS2Ct7ja4wOlPhxr1L6vsssyT_NAMNrqIQZ2e7BLDWzKDg4z7g
+ItalianFishingTV.it,IT - Italian Fishing TV,https://iptv-epg.org/images/-E6e17qcnxQ8amEqxk5pQIjxG9ONmu9cHyXD-uB6VHskjZuExO6w2R93cYZr94x8A_6CtFlYTuH3LqZKXtvpJuQV3t-PjMQG9nWC9wElq8sp-q1pDBiz1A
+K2.it,IT - K2,https://iptv-epg.org/images/Un_gRCsZQgelEnM-aDYBve6EL5xhEXD8yW66pltUuO2vxdxPsh9SD-jiI-YfZ2dY3ixiExx7K9J-PviqaXh8stOxPMr0GFwE0vg
+La7.it,IT - La7,https://iptv-epg.org/images/wMdSEiT4yZKmgYc_mp7m0UVdUR3mJrMYsortBTulgp6bLKxuP1WYFE5TedrNqATnGvPHor4KO1msFCN3qfpLKoS8inoevXNvmh4h
+La7D.it,IT - La7D,https://iptv-epg.org/images/qxPUPjPQRixxvVoNxT2-7V2CQASU-YWr8Qp4JeRvZYjWloiHK4IpzO_jvrfQLDI1B_KoE0udtxzjslrLDaz7-r26BLOooIVKT69MTg
+La5.it,IT - La 5,https://iptv-epg.org/images/ToKDhvoZPcFtjivQGOozupJNCNQRoPCk0l1M-i8QH5dOJYZlpLilwJcjq8KFF7Ll6rjHzNI1gXxuAHUaaXxDqtOWgHfv5sX81lPk
+LazioStyleCh.it,IT - Lazio Style Ch,https://iptv-epg.org/images/NCLU_mOHauICKiE_gk0N3pC_aqD9VIJtz7lI55-JPO7Dwh4m-pjy7fxYChJyRi9WnTvoozKK73l4i65vYv_abDB2xoDtos6v0tDKxYxjfF85LAel
+Mediaset27Twentyseven.it,IT - Mediaset 27 Twentyseven,https://iptv-epg.org/images/fTwchIi7h4KvUlFCppUO1I77WCXTC7Xr_TQtTYbgZO-XK9YoNDT9MchaKPwTkxagGSrI7u9CtsBn0YhWL4Z1Wyesp2lVa2wm7-hb5fkipUJ2KrCj-Q529orDzpdG
+MediasetExtra.it,IT - Mediaset Extra,https://iptv-epg.org/images/ARKL75cWQkCJ_iPf1JQbxjKZ7c6Io0DxVlj9HYry3p_DFE9MfXGtFeNf1iWNu8yN1PZSXtvqCIM1LLaVVA3d1NPyl9dVEDYLfbjYlsIyk9TCBR1GOg
+MilanTV.it,IT - Milan TV,https://iptv-epg.org/images/n1GhTs3gTidJ5rYEg9yw-mCRlPysnRPmdNcKEDA3N40rLutqJjmh7O-0Lxi3v9oW3qhJ83Spejzo0qsQPl05CK9lQJo63bH1X9U-F9ZHwg
+MotorTrend.it,IT - Motor Trend,https://iptv-epg.org/images/qLFdJwvuPNG7kg1w9e9vGJbLIboJf6EeCq9hOP3y96scoxCqzfDhAPJ83QWePgGqtei51IUWZMwM8cTRqXiNY2UaQv_arRprjkM2i4wyeY8n-w
+MTV.it,IT - MTV,https://iptv-epg.org/images/_fai0_dtZisqXRzB0DeTQ-C-2bEAk7HCTPujDnLDNimC-yFi3uo-Qk0zuDJQKZr_wuo-WM46R0s2fB3sak_9sqBIL9FrwCf49iTi
+MTVMusic.it,IT - MTV Music,https://iptv-epg.org/images/K5v4IwDK-jdu-ZjPI4Q8E4cu2EIA_W3RbLk91kUoSYVTaJq3mH3N5E_ITr3mUyeVDATbj6S5GyN3URZin1gMKqgWDtC3-c4cgsx0whks_mc
+NatGeoWild.it,IT - NatGeo Wild,https://iptv-epg.org/images/mdPR6XPNB50mW8wVdqoVxJK5es_BGP7ADOQVp77s5CLNQbDiIwC-twKtTRKHAhudMzk5Rl_BhZsTfMLt7pgyAU6xCm1alZGHjGat8FuaYlB_VA
+NatGeoWild+1.it,IT - NatGeo Wild +1,https://iptv-epg.org/images/w_WdcqD9_2PiDUnvdXgLOt0rHolc_FFOXOcypxgWOtDyYxSDUbsYVl9Z3Pu1HH5aIYTZJeBab1pmeND003Wh4T720DQwK63WbLdCcp6hqnNvIausBdk
+NationalGeo.it,IT - NationalGeo,https://iptv-epg.org/images/vtxrnMGj6HNZhUBGhU25qmdWsrGVFtEwiVqR6ZFduqbeoD0iGGQn5CKasgMCEiqDyUhPTVY6WRckStgH_cMfcGXLbtL7USD_FKQKeGB0lAJu7-U
+NationalGeo+1.it,IT - NationalGeo +1,https://iptv-epg.org/images/0zYvQ5zFlbgq0aPXbBhPGAKPDcuZ9nF1_6usYID3TWXUCVl5TCBarTabOwwaUSMLDpVxGYTCcHd8gUI5mbnkPpLSejG5PYIO4sGS1SoM_tqYicKtAPSi
+NickJr.it,IT - Nick Jr,https://iptv-epg.org/images/xqJZRRuJKuXRZ8Wvxr4nBFIc9LgQ_2v3AdGJeza2gW1i5V4A2-cg-knFsQuXRitRO0LiQHZx-i_8GZ1XK3lNAvOXDzZkXIn5s99fvw9X
+NickJr+1.it,IT - Nick Jr +1,https://iptv-epg.org/images/I0tvFsNNSfj6VhkJ0Hm-tjxcrXXmjeysm8Jx1lgitDe9FLC63aJDn3235XIf7dLXBkMkFRuDOBcHtGB-75Qu9Y3kTv1fgUWLWt74AbW2SAEXzA
+Nickelodeon.it,IT - Nickelodeon,https://iptv-epg.org/images/xm9PIywjW32eCH1L9DWupNdccVsyMuIQPafqvbg6ZhsEDccN76wuZFQG9eensc5HPK9abjbBNBEICGp8FlFDQ60kD0v-TgizH7Z63q0ld82-CGo
+Nickelodeon+1.it,IT - Nickelodeon +1,https://iptv-epg.org/images/Epw9tScWWnfF0TfiREHImjn_TzkbM4XgF50THbuzqpwhmgqANtDorUTjphaLF9XyBJIDGr_7xNWXEI19-DUXKk3rs19V2gKzo2dN0qr-vwutkG-m5LaV
+NOVE.it,IT - NOVE,https://iptv-epg.org/images/dnviFkfUtgoNVBKsVi9nyStEqitT9JZ8QsGrOlExvKyyMG-XjOzRtx9_dZ8BWapgnxmeTyGb5jf7O4p4NGpUyMDiIFs2W88oiJPIVQ
+Primafila1.it,IT - Primafila 1,https://iptv-epg.org/images/gX0AAsTasHAHaRiY2uts3XUxQbb2dqIT08QzxVrgjFLg310lGgeF0hP8OOxVJNXwNz5HP-tkfDG2sX2uQOh21iqzr5vWfS_wAkyw0q859BbeyA
+Primafila2.it,IT - Primafila 2,https://iptv-epg.org/images/i6X0m5aRCMpi0utDGUcpCAJAR6CXC1YB3xPjnQACs4IW87CIX8kX57260gEy5KbZ17gL7gDYgyNXWwSse2xkEdBjwzEEJp9kLjed6VxtSMY6ww
+Primafila3.it,IT - Primafila 3,https://iptv-epg.org/images/ESVFCVYDB3JOUJPdMgMU2J_tBT7LC2630RRdstnzb9GhwyJksZ0ly5E2GolsZpKB5BBwM9tF1sbDcMMxRu0rvgB5dzm9j3AHPcjttHlUeGODEQ
+Primafila4.it,IT - Primafila 4,https://iptv-epg.org/images/9SO6CI9UIFkV9P2PvWA1bRX8P0byld5PZ8tgqoosarnxNffe3kSYEQMvJd6U_YDCK8_JGqgPj4zxzKN25a0dA-IrcqYkYZmh5HlCld7lKUeNMw
+Primafila5.it,IT - Primafila 5,https://iptv-epg.org/images/P3rhvKyHwvJzmZ8RZoJMh-rjlvx3T8UjqnK3KVpBq4LCD41g5YvfOQYSAnDbuk5pQjXG9Lk7SetNfiBS7TBkM1Gx9LqGLH_SkDhwg3fvlbHZxw
+QVC.it,IT - QVC,https://iptv-epg.org/images/S-_fMlHkN-zAgFsgfYlkMflA8TvySxQZ_2iBNCb2-jshkQJ33wuH2Hls8qO_P6GSXOfGEXluSa1NdYtIAPPD6vTFCZBggYsnTd8r
+RadioItaliaTrendTv.it,IT - Radio Italia Trend Tv,https://iptv-epg.org/images/gIvReG1O8H6TVZWSOlgx9tNLH_8FcVevcJ3D6FumMudiRguFgxN4w6kj2xWwD-4hKcQ39LU3ejPg2mFxLQ2eKNFay1U8VHUQrsf-uUIs_rhCE6Rz_B5oXYf4
+RadioItaliaTV.it,IT - Radio Italia TV,https://iptv-epg.org/images/EHs5gr1qagmY3JZEPNLSTV9s_7Vqvcbn4MQpfn9_1g9twhxsMcf6Ree3eP1oclAcYjJowK5YLHdedaTa8RxxNTPM-8PWoIbzgyB4c8rwSIUc3sJHDA
+RadioMonteCarlo.it,IT - Radio Monte Carlo,https://iptv-epg.org/images/RsQ3jWuyu4EUXXGuNsaulXboiCTl4Qz9IS4QAApEsZquji8KW44P6PUAXoTj630Is2L0sF-pkl_M-sdVIb-zqmBC0_mkS1z_0wzNVDFlXhFNc5O-JC7j
+RADIOFRECCIA.it,IT - RADIOFRECCIA,https://iptv-epg.org/images/lD-4jzuPS2MYrlaLhjalFhrxTq6S7fB2ncm7zjfCvKh4jEoQxo9gQL65bRIDPJiCB2WCfm8ibwrCLXoPk72UkC80a6iye1SCdscZJqyL4qvfX1X7
+RADIONORBATV.it,IT - RADIONORBA TV,https://iptv-epg.org/images/e6s_NHc3IJzRGxMPv9mU7kI-miazt1bj0OTBEOC04Lh55E1fd5lWjcGUrN2lwsxUJIHqVx_3afubef8l7V-zu543v9pBVD8m8styVKpkv0ylM4zP
+Rai1.it,IT - Rai 1,https://iptv-epg.org/images/Gs37GhTMJpTSbC67BhHRddcB1gtmIOWv2SZ_5U_mujS-SWMrkfoGfaK3K5DPcpbu2oHQpAe2GmDIQyAtmWyy2wJ2vERj9NCtxFVCww
+Rai2.it,IT - Rai 2,https://iptv-epg.org/images/r9JypxrlYM42craPXAVOCtmBA0UGhidpW5arFwRQ_oD8W5U5FWfxsYbpGRfVt6nObdnUeWMKSwAU6BgXWVKOSWe2f6YJVCmuJHf1nw
+Rai3.it,IT - Rai 3,https://iptv-epg.org/images/0Fs3VC7FdajKPA1Wfjy2jhHcP5fR4rxdXDIDQR13Lzq0cvHxgp1M5G5hu_REBX-6iaMEIzy0JmOrX6EGAtWTbRXZcNeaAwq1v3puMQ
+Rai4.it,IT - Rai 4,https://iptv-epg.org/images/RkLOoCn9zCMVBR6By5Z1WbWeMk84f2FfTz-Z5n9Wo2RiAGxDpHQ57MqBGAWm3HXw-I_g0O8iNQtHGNAapHhyvDY5dI05qhbUMlTaUA
+Rai5.it,IT - Rai 5,https://iptv-epg.org/images/cPkL6YO2dnwmE1tdD4rcImKb03cf4_C3Tm3ELJFfvm8Wex6mmBGIGUyiS3BVQE0ys5c0_u6JTHRyc_-kKS7EKXfKo_9FvpHhKcmuVg
+RaiGulp.it,IT - Rai Gulp,https://iptv-epg.org/images/kZD8dRTfVFOMi2P9k4Fk-fT6RT57jQOLgYU-mQZLYM61nJcRQu7FlisR5p3Yfk75cI4RS6Y693_D75zMymFuZyoN5FSA8-mSzhdNLngXiA
+RaiMovie.it,IT - Rai Movie,https://iptv-epg.org/images/MtqfMrSs5oGWClyHE46ZIv-mLSmhVqdy72mQcZbcIY12Rb_iXnp1XhTAfcISNeUSJgIz5kE51i5lPznxo17GWZHZw1Qtn4NtaJQUohNGtDg
+RaiNews.it,IT - Rai News,https://iptv-epg.org/images/9RywuGnBux7XLkgMtkZb2Hg1DTwC4ttBq44uOMEn_OkKMTjMafqhmvYBF8pNEd8rVnE24ADEcKAZ_fWE-qWCEs8b5RgckAk-oCg607pzOw
+RaiPremium.it,IT - Rai Premium,https://iptv-epg.org/images/TYHq8j0Qa9yGJYWEqZZVYa3NB01U5-YMQQaE6IRB1Si8jFCJy0sKT_xqxvtsSMndIwn7SJPVE9o7wZzxJZbT0mCJZhwiK86gdko_VEPKEUhFKg
+RaiScuola.it,IT - Rai Scuola,https://iptv-epg.org/images/LC85h6VRzvZcEDBvA5tL3pGsKo_p1sIzX3FPkuckJ28kZTWMA37Nq9IxCWAcwUzLi3wFNUVt8lUP7D4cwk1rZM8J9g0wCEQGM0UpmDm5YWWm
+RAISport.it,IT - RAI Sport,https://iptv-epg.org/images/HhQE_8gizDPsQaY2m0xF6Qy1sb1ZQLFvOCw3lDgHD04Hts3qr-XvSs9LRLT22rCXwLRHvoE43rpzFAqiEUykZcr6HXv3FVgfFnEUzBOopWo
+RaiSport1.it,IT - Rai Sport 1,https://iptv-epg.org/images/89aH2Nqe9Dyvi0-a5Wrn2s9jJQ16LE3sw0aFOmu-F6NwwmGaHiYZVK_t0V9EYHyyM49w4M7EpzzTik28302CePvr0lKejjTE9Ue_v_L8Xbv2
+RaiStoria.it,IT - Rai Storia,https://iptv-epg.org/images/akdxcleOYOnavrZMtiEKCUZCk8jbJk3lEXQNkG5YEISL3IlTy3d1aOHN1fRWqp2jKS6ZJbdgTvNIJRTexGvCNYWepPxXMrXtEG9zCDFnf0Wt
+RaiYoyo.it,IT - Rai Yoyo,https://iptv-epg.org/images/Bw8haReM9t90m3kAb3XcskcNlygIWJd2y1KlbrDcor4rFqw9ADPlhIyklNWMiG7YfgsxGZ3C9zcIa0bnzZd4PVxxQwtk_g-7wN-znQ3QPA
+RealTime.it,IT - Real Time,https://iptv-epg.org/images/QsqdSyPbwL74h0OKIBW1jsR-nxIKoleS7YWJkRKoWOUIHc1JzX7anL2xzYUPijMUvoLV_Eco0oZeF30v6RSYHXzmx6yp1RcCtZq-PxJbqQU
+Rete4.it,IT - Rete 4,https://iptv-epg.org/images/uSN5KWwn-zSOsWAiXOuKNqHfiInUTyJGe6VR3T4Wf7ChPOgeMp_H4xepb1Q_-Zqk9xoRjut1uybkwyS7H5HLCjm4tfSIVyyFX9lOTaU
+RomaTV.it,IT - Roma TV,https://iptv-epg.org/images/_uxgzABYczsioV4Zw_mJX57zk-23qqoKczIhAh3w1j40KFRVXPAyY4HYE4kx4_SRJHxVLIoudXzVVRy4gDMf0JpaoNfa5ojWp7H8k680
+RSILA1.it,IT - RSI LA 1,https://iptv-epg.org/images/NPLuX9cTmwbSGFLwSzabteW2wpcDp86yEeOFtzce_fo0n-SuX2Hy-Ib1N7wWt6BogHUnyy-EMlYeXrkhv70KNqU8wIM9h56Yc25_thGn
+RSILA2.it,IT - RSI LA 2,https://iptv-epg.org/images/dHK15EfQbjz4VHtcqkCEG98M1RcnVs0SmprM3-cu6xxWv-hs32OzCqXlzCYipcIn-d0gJ08peKXb6eLllNb4oXRjwJb7HVdzXjggAoMg
+RTDoc.it,IT - RT Doc,https://iptv-epg.org/images/wjZ1r4XzeXJHPEsRmTmZ-c5gRjvU6QZKEjJ83H1gKSbeEDuylaFX4PH9mmrHnJFsY0huF_1P7fOrfIbD1mXkWAFY8nxd4G_yfVuXUUI
+RTL1025.it,IT - RTL 102.5,https://iptv-epg.org/images/QtycMcfAzRH0i0N0PTHQ2_WWx44RYg0AyGvCJhcE5BEd2Oz6UFUcFMe5RS_4WZdKUknrGetp9Iq1zfTWVpPFKoNatsuNXnoQiXRrjNZqpQ
+SanMarinoRTV.it,IT - San Marino RTV,https://iptv-epg.org/images/BWcCEo_Ie1hh2DsLbg6IqYjTTr1YJEIbiITzWy1irmGZ1C2-MldxxCeevX4dFw7n26DBd0_mRT-1NHl_IY8pMYmj_9l3sSKQsPbzIcQbotBbiMPp
+SkyArte.it,IT - Sky Arte,https://iptv-epg.org/images/Jb1Vvjh07hwjA46jKe1BmMWcGzJ5keVxjdi2HdpNPR6H2buwQUr-u8Rat2thqFaGvfwgOmET2JSlP9SK-Pm7eWABuupB0KfrPHQR9uFDbw
+SkyArte+1.it,IT - Sky Arte +1,https://iptv-epg.org/images/8dE7GUSt0V7c5R0cwv_A3phf2l2ICaJsRdiYjZcUh6BWlmXfH6Rjs4Z4UYAm56fwzw5X1wMzHvaWaKOsjD0Sd6QO0dfF_vuqQtTW5Mi52hSBk-M
+SkyAtlantic.it,IT - Sky Atlantic,https://iptv-epg.org/images/eK3zNXjP7rxRYYg37ZxgbHAWS8zN8aE9knm8FBEXrX1lQABdc2HWDZEFgk9BcjfvqFf4ajpqekUGcSnkBcbnts6bT-U79ybDMNNQNW1spYqtBWw
+SkyAtlantic+1.it,IT - Sky Atlantic +1,https://iptv-epg.org/images/II03SyAe2ewUL6_IOBozMqUYzBqZGeadLWYxzhsgToHbp2Nk2bhkJP63AcX6O7HeIupGflDlJL3QRSDNp56mVYC-yCKaNaQZTTHWtzrQKUFEWNoNTbOk
+SkyCinemaAction.it,IT - Sky Cinema Action,https://iptv-epg.org/images/hkke1o9jILfO9DRlmJBaQ_iVlw8WT1vNGRelSfoi7xS263Zpub9tBryNxUlKkrWx5IjRyk4pw3Fi7HoW7hK43hKGiobrWtFPy04FJDJRyzbm5ndmNMsl
+SkyCinemaCollection.it,IT - Sky Cinema Collection,https://iptv-epg.org/images/AtrVQdmYlyOZPSko8hv_g-a99_1G0iAN7IawwbxehC9twMEw-_TWjgDmJ5WEhjHJ_bPD_kictac2WrpQOoZNE9c-kfE9E_zaf_v3II0qhAVtbTQyx23TT1XrDQ
+SkyCinemaComedy.it,IT - Sky Cinema Comedy,https://iptv-epg.org/images/PX6OMpvfKjpN_t8rmReUoJ1IO5E_cF6XnOgNwk4otPMPTW7METZc-aTAIb9BqnfERShCO0tocvy7JBufQcsqbTdM22foeVSaIFlShpZyzzxVlAokSTMX
+SkyCinemaDrama.it,IT - Sky Cinema Drama,https://iptv-epg.org/images/DvdqH5QGQmNQZuBj3c3SS-WwoEIMQIaWtvTOCKXwItAfhrPCtlQWrx0F5xjEbCLg1KrhHiPnbleQwytNeD6vknNO5BjXQ3wkSDt1XWx3wBB0fYpRHaU
+SkyCinemaDue.it,IT - Sky Cinema Due,https://iptv-epg.org/images/7-9Pb-Atu2dN5JnDesZDrIzF_gptlkFobGUcsL0MPz7BB0dC_4nCfGi0rP6-4DdUejTFfsNtNqKKKTHr7GkKJmwpUr1QFA37jm5eNUGrf6cNycwS
+SkyCinemaDue+24.it,IT - Sky Cinema Due +24,https://iptv-epg.org/images/3S2810cZAoasETnhdPtVspvGVrq3y14Y1O9vGXnzv6E5Ee9MSwqS49rQ2xnaNSJZ9wj_nO8MlLE96SizCsK6NuA0rRS6BfIEHnEhVSoeWQeVhD1iUP5TAp4
+SkyCinemaFamily.it,IT - Sky Cinema Family,https://iptv-epg.org/images/ivqu6BBPiXXQpOEp6C-p0HqAxZJ1N3WODUTqxVzVTJjnaMBihORbU24Ayk8qgLlPjGekF1t6niGFOec1cVwxzrHcLiL80Q5R-OVZlXhTWzd5eL7MdKTZ
+SkyCinemaRomance.it,IT - Sky Cinema Romance,https://iptv-epg.org/images/EQ6jhk3wmrtbfZpz_w8jzZ3OH3Hb-Z6DCRyQSDlJ2fV4VA02eooyIcf3A7lt51gdE831VGp_gOAhNjESoH0tk8s8INSopHIYDIqZxSCzDwEpW29PO_lC6Q
+SkyCinemaSuspense.it,IT - Sky Cinema Suspense,https://iptv-epg.org/images/t5MMRgzyyeNiN1hTOZQ22aeLtYfq-am-2NV3VvfJg9H-qrmcWto8rkZQV5prrhm5VDXYBuW5PRTtdnMFg5sheBiumaoUEL_U9viBbiCawjj8R1LL7eAlA7c
+SkyCinemaUno.it,IT - Sky Cinema Uno,https://iptv-epg.org/images/2iJuKNKDBiC2-kjWQ_IghOMkQkDCCCd8CxC4WRVNXNIZ9Zs278mcpv0TWGuN01t9bpBPgCoXetNv8XFNgtNg3hIAR7ntE28N0b0lsGX-SNNYqHBo
+SkyCinemaUno+24.it,IT - Sky Cinema Uno +24,https://iptv-epg.org/images/8CrEf1nYLwh0tWTykDmE8oj8Vvi5n12RQLFRESacFySBkKe5gz-RtyyZZ0PW-KebKWNrzhlCGH3QCHCgoOf-SVHlIIu6cihyKBb1iuQzRaoLZoKAyhVK-O8
+SkyCrime.it,IT - Sky Crime,https://iptv-epg.org/images/aykW13R5XgxI_LGbsYiNQbSu03hFHrpWMxsXSAUF87YYVeChwLclxLi-UktTDnwZsIwIOj6368EpkzAR0H-8spS9NEaD06dicpa67lleHqc
+SkyDocumentaries.it,IT - Sky Documentaries,https://iptv-epg.org/images/7eyhi7yC3ISFxnFOTl4_qo-u60MC_BLYpY0Ys5XqnsaAlLEbM7FHDMvyn1z-M5AA1wD7fDOJ19XVyh6cmPl-ZczvhOuY12FHCJrbKVAdRi2y-a8jwhHhvw
+SkyDocumentaries+1.it,IT - Sky Documentaries +1,https://iptv-epg.org/images/OXzzBofNQYwLLJ11ixNwIcIfRNRT3L6m0-TyL4GZU8OYCal2m1vjrIMpSoFNY1JfjLMjDEx9Tc3bzIll2Y2cy6eYtSKseeiU8G76B0q3vt6lQaIEncEofoxAFto
+SkyInvestigation.it,IT - Sky Investigation,https://iptv-epg.org/images/bySYKiC1_ME1H3iyIY-S0T3aprwTSTjshhszTfHdJr2G6eafNzKdlXYJETWgUcCFtqFyGfNeJn2bfmXxOigetEnNg_rVcaLovtwgUxDaoRUkvongcc5Hig
+SkyInvestigationMaratone.it,IT - Sky Investigation Maratone,https://iptv-epg.org/images/dnLVOOHeNhvbbX0avkpv2T5UVyJKcrsrjR4oQeoxF0gB2XO2HOT9D0l1KkQyIarR_vqXCxh4gzjAW0AaBLFtMLk0wAZNXZHKacUbnGLzhlAYvydMYAm6bThucyVJLXIp
+SkyMeteo24.it,IT - Sky Meteo24,https://iptv-epg.org/images/GCfwzFO4n6mJm3oauN2xw58zEJyUGhTSuv2S-EP8FGDpsQmC2e3-MIp1oco2YeMCZtLLgjtYWfdSrlAtxEC4JM4x9UKs6NV42vvVvnWLvgIcRg
+SkyNature.it,IT - Sky Nature,https://iptv-epg.org/images/744avY2NcO5KUWXSd3hmSs-1GvdMbTCTk4U-z6H9OkwpG8BeaV-RHJVTlIsgoeN6pVOT3jUKjXdnHRvMwglPirnTEjdZyR5Y02QvqqFpXhhI
+SkyNews.it,IT - Sky News,https://iptv-epg.org/images/t1XkCxFMKgqpBMNV5JluSxyZ4LFuBeHoSB2-FJMoz7HZmAfTXWKfumTnWRUIzUVxftIFemBBusdgGBI6qX0wX2I5sY3RZ1lqRGVhr8qzPw
+SkySerie.it,IT - Sky Serie,https://iptv-epg.org/images/OGyN6j32Tge5GezGeSclY89ou5d_quV9kWjgvzyHSyYtkK97U_mSP9kd4dlI8ATcgPTOSu9hd3JzBt0DB0X9JG7pb0xJFbhEYhNodJD13I8
+SkySerie+1.it,IT - Sky Serie +1,https://iptv-epg.org/images/OY8pQ2NzaGh5ScKLOWdke2pCZSoD2w3q6UTVJukgUtnmRo1DAZct474i-qLLB9latG4yLUCQQ4gxzZPENBA8eGGH83aqslb1EutQ8RauX-fXWVgf
+SkySport.it,IT - Sky Sport,https://iptv-epg.org/images/m38-7j2uJheTnBE5G73Xzd-i3HnmDQQzIptNkswl-DRBF7HvQuM9Q6tr8s8l7Zi4X_FlnXMnSoDJFpi9pYW9aAlxrPQhXYW3koX6rZHVbBg
+SkySport24.it,IT - Sky Sport24,https://iptv-epg.org/images/DLdtGXZqwpM58uOlIwIE_D6mnKHe0pr__1k_xqOed5UEN3JwEjT_vnf_vclA6N0W4tn1UaTQVnq9eeCrFlsVX-vQEhSXI0QKgH0OOH-_---3lQ
+SkySport4K.it,IT - Sky Sport 4K,https://iptv-epg.org/images/JmJ9xJNO6BLwphsjXzkKpGbqmx_gr3_oqfh5M4MJUeLA4cT1laAbcnkAUP6ndIyPW3kflSyk9IwKvjYN2BR1JOHjDVOeCD5iDsfgK7I3hO1_Aw
+SkySport251.it,IT - Sky Sport 251,https://iptv-epg.org/images/vRh-xUAe9HVjbSX-5HN_xDepkGf9a-7THs6ZMly7H6_lMnC71zvBYajrss4QRTOkrDfBkbfyIsUdhULStOwh66ijlDmQdsYJOLgONT7raAVEYP0
+SkySport252.it,IT - Sky Sport 252,https://iptv-epg.org/images/_sopNfqc-7usmWUCggVIPnHfSUCbUmoINxL6QSBFHLI9MOf79NnF-3vQpvxSe1GvXr95L7zvj-wn2SumHvm3BSDO31zg_rES7ZV32nDHggxRQwQ
+SkySport253.it,IT - Sky Sport 253,https://iptv-epg.org/images/2ViClI5QUHHb6rOSP7bBo1-Ae-wnNURkQQmZJhnQYGmBUkHvTh5JoainZCdU7iyBkHHMrXJPgWbK8BQ2GKlU7VzttFyCGk6_4QUBQhEXQKobjgU
+SkySport254.it,IT - Sky Sport 254,https://iptv-epg.org/images/JRMLd1-1CYRKGeeiHG-N0MVjV6TSIqtrAqrqDn7JHEQyFG2zXwLZzJsZ9t44wTUqFcxbqWADDip1Kh2OL_LHH30CAqVIiH9IWjIMTOSq0T3Gq7M
+SkySport255.it,IT - Sky Sport 255,https://iptv-epg.org/images/xFQR4gUjlL7EWhXvsvGWaQmlK3j9KJEx9typ7EmuDWTrpzwEqMaNvkDiPRnnuMhVb_eOvcFq8r4D4NjoH_XFhtkcsciEKFkzrsUSu3HnDb_X2GM
+SkySport256.it,IT - Sky Sport 256,https://iptv-epg.org/images/ikGpiOkbNs4aVElxzigZigAQu1_EdJDsTspXLipx9MITIGcyB9he0TqEjKuZs9ZRgyCNWfs4MjlBjFII0BkfAI37lsUSbjvnXByx07Jo1uLh9kI
+SkySport257.it,IT - Sky Sport 257,https://iptv-epg.org/images/QUGuUC6zzwqkzRxE2U6YmpskTYpXc8OIoWRO_pNVdGWl4WaSMdjw76jufpsCEE3PhjvQTrZcL7fxhJ-DWztDkpBDUiqt7auIDtQ_OaRIH7Bj_g0
+SkySport258.it,IT - Sky Sport 258,https://iptv-epg.org/images/LCqFiqEYaEqZ1FqcRsarfHgrn_kprwqmbmK-E6OrINATR3QiihyKnelQ8FSOtLSYroDxil2ZjsqzZjd-JilWfwV4nrGmBYjHbpeBTJVnN6NpuNI
+SkySport259.it,IT - Sky Sport 259,https://iptv-epg.org/images/TWgqiDrd3pdWu1nLu2OD06kWlqA-2KGfPfKM-oJwZzAw5IfkVLoiPG5DdyPzeu-rb6ftdE3-vJ0qWhK7UjUCuxtlVHlt0RRfMlAUg1aacZ6AHLQ
+SkySport260.it,IT - Sky Sport 260,https://iptv-epg.org/images/noO2JWpF67YN4dR1DpYlGiGELC7fYi2lb0DcoDrtoYpoZSCZgZe-YPwpX3agZJz6MmKV9T3N3W7AmdWklzFL4KxibLaBoMVLBLP_-NHTHQ4YHTE
+SkySport261.it,IT - Sky Sport 261,https://iptv-epg.org/images/lF3Rj4wDFtGiFrklpkGA2PYThKtx0CWCgks7yNuHhAnrTt8EZtna3Ms_cSwUfuZMew98dEej_26c0R7582iGjsCT-mzSijTEXUXG1sUq4WJ6k5M
+SkySportArena.it,IT - Sky Sport Arena,https://iptv-epg.org/images/CMhUmKpArW69-pBMq_IQGANlgzQbMLr-3Qkk0rFuu4ZEdJ1lj-Mx9UOOO7TAV-jbvJUUjDm1GAoAklbLpL0BuUyPhPaHxb4NMT1B6bhNdU-l9_hCxA
+SkySportCalcio.it,IT - Sky Sport Calcio,https://iptv-epg.org/images/PFGz2oTAXV6WlSxBzJ4cZAPrfmhJNIszj8hLFAXArV_whU3fxMAB5Zw-ZBfZ1GIuyT-4EjmR9K6czdIzzBc0HhhwpHTGe1trmlTnqn9B51OsQKY0_IQ
+SkySportF1.it,IT - Sky Sport F1,https://iptv-epg.org/images/q6IK4z9shH_9TLJ7BybUiuwfyu-zm0lFwrGVnCq72Dh_ZXMewcseMxQhkm_CcmKMh_g9lILInkMV5h46WWXKuf-L4ZgB-UlQoPf-3qlXl9YUZw
+SkySportGolf.it,IT - Sky Sport Golf,https://iptv-epg.org/images/VyaEQGDT1V0drL1juCXU3Krx1vGVLT4a8DcSU6KKR4QUAMJk68LoQzreVnnVzO4yesQk5GftM7Pbxg_3rvQnckGeDMvCLGuCR8j__Bo0cZ_lP9-X
+SkySportLegend.it,IT - Sky Sport Legend,https://iptv-epg.org/images/dC7dy7wesrqMwIm4dyavHjSJrsuTjHZtq9_62Swop-0BUnVeEzTXcd_m_4CVRbbaufCk76mak1t3tmw8ME6YoZuJVCwpXce6NAnGqwP3JTUf2eE8Fhk
+SkySportMax.it,IT - Sky Sport Max,https://iptv-epg.org/images/tHLnymTFHwKCjTk3nnTcjfjNGremHACxt5Ciut7pVZbEZ_KGPnPiq1RhuAsFlIVeAQve4Ungt45zxGC2gx0bGJ8qlmt2kE5XGiGR7LdV-uLTsoY
+SkySportMotoGP.it,IT - Sky Sport MotoGP,https://iptv-epg.org/images/LGLs-3cq9PynwBDM9GzSIFwH7wnkBsSfno8_gra5AWoVaQIUZQtyjr4T1MiDmimYEBD6rtUmjQvTQlPNRRdfV-eRnpNWBXEEaUumqyNy1kEF9o56na8
+SkySportNBA.it,IT - Sky Sport NBA,https://iptv-epg.org/images/ZNxOfrSty5jySvZOdWe-pv-5Nor6eT17oGYJYGfb-dBo3k8aKx5_hMYZ1DWZS_esjMsKAkby7i-wNesnPDKHGv8-aCMe0XHIlqcHm2ErZZVvU8A
+SkySportTennis.it,IT - Sky Sport Tennis,https://iptv-epg.org/images/xwYVe7bzHc6goEXLVsHWmbIbrBeU7Zw1MxnqR_jwSc6bFFFZk3Gu1XDRrDisDRwkvorHLhsg2F5Bnegzrvb_0agoXx67FgZw_DqI5yEpTKpk6w2ah6s
+SkySportUno.it,IT - Sky Sport Uno,https://iptv-epg.org/images/GIVlANHcdSnXkieNuX8mn2Gz6jkRDnBdxF2TybdXBnSibZ2jwHzJ_Z1SSdq2dQVyfpTMqzSkdcsYN2zU8cthtVI7HceJn3HJx_ndxAf_l63Y-uI
+SkyTG24.it,IT - Sky TG24,https://iptv-epg.org/images/YzoPRpK2KwpoBp0pmY9QyRP9S1u658p63y3MQijCFKkTIoojMTg_hVUteF3c-bKWvvBv1qeq9vsCP12guQYgyEd3UtIfgYWossqpfpr-DQ
+SkyUno.it,IT - Sky Uno,https://iptv-epg.org/images/MbCOg1ipKtytRR8oZGdjeJjhipWfrcO6Ebc4EAq31_H4Nu9KSiQTytXImzYA4_moYNx-RO5DfjH1CiIk1sagcesFqm2Hhot3TvJU6Aae
+SkyUno+.it,IT - Sky Uno +,https://iptv-epg.org/images/gv6TilmTQ3flOboyBnr7A6U0MsueTSWPEDj3N10uss25ipv3_6RPWWq5TsBMIy-x0Enjm2NZAtkjfHQP73v3PcKR5Er2y2SN98rl8DeGNQl-
+SkyUno+1.it,IT - Sky Uno +1,https://iptv-epg.org/images/z9mZjjuHcrrzo2VZiI0acGoB7VgGaG30h0qiLoWvsbydvB6bfTNMZbfqyL2pADw7ar_oKCjrFXGwaSXi72-2n-rHr6ETf7WKY3YpvhYGBdLNrA
+Sportitalia.it,IT - Sport Italia,https://iptv-epg.org/images/2q1R_KJxK9hMcXnZjnNy-W2bbpW0NhwmbaAtxlAJ7HRtLM0K7-Tzq4xkwcMvPPew_Mu-d3tcJn80N94MeCHnOm29yO__TFyC5baXA6NcAxKjqe8
+Super!.it,IT - Super!,https://iptv-epg.org/images/yIMDsKP_7ajZyi1djZZP1SoBoV9VNeOFHhrF6KCtm8hn4alMs8Kl1pk2sEk-bNDarU2igaZCXVhcZauIbhyKvYmUdyGd35FtSUqOrIqtbuw
+SuperTennis.it,IT - SuperTennis,https://iptv-epg.org/images/iuQZs_HqabMyrq7RgP2Hq7DYzwPNG7AcrJB_bPXweFPdNoL_WyfG5pkNWbJV0uGTu7QrpIR7Q-Bx1MWg_5Xl58yC-G7CtmxHMavNmTyAQx3WSP4
+TGNORBA24.it,IT - TG NORBA 24,https://iptv-epg.org/images/bwRlAbSu2cp7YF17tL8kFpO3Gb8ln5HqfgxJdx-9-_ebbtW2vFD025Sllb94nZBvdLjD9xydcmrb1hh8jWJpLl1pE-ZiUfyayTe6sjzYqiEw
+TgCom24.it,IT - TgCom24,https://iptv-epg.org/images/mQsF-heu6GgKZgBWCoTEmScSmtxgaq3QIhHXxj2m2Mu-SuXAApUAKbfFhdstMssFEg0MBgRNUyBbTFfo7-e3HX41tykQW58Q-EtzcPu1kg
+TOPcrime.it,IT - TOPcrime,https://iptv-epg.org/images/EJlGr68hud43fpgn35tq20pYHFfGrrcJVkd5lxbLCHNo81MvWhOMIO-dlvKWqcpMJ6fjGHARV9ka3mBGQbmLost_7zu8shbIk_4w7c2ZLbM
+TorinoChannel.it,IT - Torino Channel,https://iptv-epg.org/images/cTz-uvUDW7x0ytw0wpgiS8SIF4BDJ4W4EJqLLmKO_-nsjHon0r2zdRxaOXwNEAIrsbsBdm05d_wYv3cxPCTvyEoLZht3dUbPWVX33xI7h6L9G6feUA
+TRMh24.it,IT - TRM h24,https://iptv-epg.org/images/ZULCXWIuxOovobn-tvYaeKu__sW5MyaXR2ep6pgbkAVFBqHxajlUg1RJkLyYPB6EtPCisdbrk4drDv7Fc_uFyYFF8e1Ngag9uwvaU_L6
+TV8.it,IT - TV8,https://iptv-epg.org/images/W9gxd2oul2lX9RwFt9LlKhdx2Zmq71Ds537xqdvTOREShsbnjHkUYzm_d8BDWSpuWQ3Ut0oXJO0zEj7Tlv6W3S6sJ9T1wt45NAZZ
+TV2000.it,IT - TV2000,https://iptv-epg.org/images/J5DGl_bZ2ne5BTayny7sM6t0Gwr5kAfqm2ycZ4qlQuWZvHmQN2NwehsLKs9yXkA_9njbwVUXAFR1nUgHl28QBLzLnYIKNobj0-AomLpH
+UnireSat.it,IT - UnireSat,https://iptv-epg.org/images/r2dgFZCtD-XmAZZXDST9W4cU9Nkgjd6L1YkAwkM7ljltrb5xZHZAMkEGFO3sR6-LFhZfaOamzAZpg7rABqj9v2mGPrcMwiXd48u8Q5J1pQ4
+VH1.it,IT - VH1,https://iptv-epg.org/images/D3ttKVFTYI8ooF_DULMPvgUOmNlfwu0EVmbdVnhqS7QS99VZbheI5bqwfXdlcrZo13N0rhsrmDUjkPIuYwr2W7U5_Oex0RU_OSvf
+WarnerTV.it,IT - Warner TV,https://iptv-epg.org/images/p_y19xpCJO8bF0clQ5K__TkODFmw6xi6qd2yYxoNCaGTv5wpwpBvP85eqOsA7IKWBdilNi7mqTZgFKFPe9LvT8sJ5dUAjIZna1V55-lSmTg
+ZONADAZN.it,IT - ZONA DAZN,https://iptv-epg.org/images/TI_b3pyMLtO7sDFlOodWpfMfe0Am3e-Elm6BHH-xM73GiYNJP7SY50cx_Y1JBhqU-Xm64RMvoeKNTtJKSF6ydFKIKjHD7HDb6APalnvtYQQ
+ZONADAZN2.it,IT - ZONA DAZN 2,https://iptv-epg.org/images/SJzJcqvSoxnuEuOi7on7aAAy4f5yyfVoc8CYrXzoIRVhqChqEgKJmBbaV7wluj-diu_uvPzNrDtIh-LaQrXRrMzDEl_WCSFUQrW_Md3Hh5QR
+ZONADAZN3.it,IT - ZONA DAZN 3,https://iptv-epg.org/images/qlLr_dvL6OQty5WBDBPgPYFxDup7oQDUqntnfHjsgEdNB40U-GrrTWSkhymB1JBzMeTU1rMhF3wNdWltLntU2dTzK5UeaFmxWkjVuGmv8Hx4
+ZONADAZN4.it,IT - ZONA DAZN 4,https://iptv-epg.org/images/tTNHPTs6z9Yn9B23UjtCBnPf378QJ9jSOdntiLL3JZBpbwCBZi0kf6TivOOumRNkjjRKR_ngNrxVJ9CTIFArYiK4p7J_7C1FMpGJooDz1zBT
+ZONADAZN5.it,IT - ZONA DAZN 5,https://iptv-epg.org/images/Z9ShFKo1e53kjwsmQdDY7B70jhsu6Z5IC2RBeXw9t_npxpB7hsMLNFbnJfknsx0HBlQ9xPtOVIpkCqlPdZpkxzJW-CJ8p6NF_v3mXO7yHzwg
+ATALANTA.SerieA,SERIEA - ATALANTA,https://iptv-epg.org/images/eGM7x3tezG4FxN-KpRr6bjrn_gapXJTq79icnlGtN98bdFgGHMZEw4a_04BLW0_WrR4wsjxCl0NnsPcK5MRj2A7haSDz2aXRL8EUY1pOk00blrnr
+BOLOGNA.SerieA,SERIEA - BOLOGNA,https://iptv-epg.org/images/eb6JUeua1A4DwDAaPpfTcxGRbhZpHSnxTLDz3U8gGBGYxNqB6O0i-ShKf5ZWug-0IvZGJ3D8LXGlBsWImKyHU7WhkYi-jo9WuAIxulEP0McWXj0
+CAGLIARI.SerieA,SERIEA - CAGLIARI,https://iptv-epg.org/images/bH-SNP9oIlhtYEX_t-kCXux9dQZf_B4OMvkVWqed2ErLHiRwDqc9WtxKV2irpxRq_qTD-J6vtO9wCHLr9k-3LONleZOkE3vdHDLK8WvDzvKQztRy
+COMO.SerieA,SERIEA - COMO,https://iptv-epg.org/images/c_O04wzmF3vfB9WyXX7J5IMIXXnHer9he8qjudTfqMckjuahDBc8V3DLgJRvAuz_hrSHzCPbCPlDQ_NoRsjN3iZhj_BnXt5pGbh_wWvRYzs
+CREMONESE.SerieA,SERIEA - CREMONESE,https://iptv-epg.org/images/TBIf_BHB9ji7z5C6bohxOabEr36Vond4bwUt0ulr4LwxXAylzK2I9KqIyJSjqhW1loa0y0a1wht6ncVyZ74XhTTf1xUUj7UrW-R75AwCwknnxjZOVQ
+FIORENTINA.SerieA,SERIEA - FIORENTINA,https://iptv-epg.org/images/L2rX_WdcgdFaaGJ51Wr_QaZHBJsCohFb9fhW1MGnKXguwZk7pTiSFNmuO-FeNglmw-V6Ps3SbNTW0h1MV_ef8woMXT3Vp3FOCeue1rz2kOsWSjAX_bQ
+GENOA.SerieA,SERIEA - GENOA,https://iptv-epg.org/images/XQGE83HOkdKam99MGuewaH5CKnzkiL59UX4gfr_yvfSuqy_JnaZw--vdudoU487dWXIvymCiBcgBDriT9NTKPyOBYjfPfE_PkcShgozVco7T
+HELLASVERONA.SerieA,SERIEA - HELLAS VERONA,https://iptv-epg.org/images/0wVldpf3xNVmfm5mwdYXXpId2zukemJqpYBdkWcXC1kXyNnxHFwnUsthnDHgssPM4QWTiQH4S2uREvJuDZD4qFhDZyF8m4I9nPm28gfDEgEwjXGoggKzaw
+INTER.SerieA,SERIEA - INTER,https://iptv-epg.org/images/aI7Irg4V4cflkxLodggnOnhv-V3ob8ZX4cdBRFlUM_EGMILp2B6sG5hbhrRZWFMhdQQlpEaniXJQCpz7iuftE0_5zYREdH-FGlkOB65hP-4h
+JUVENTUS.SerieA,SERIEA - JUVENTUS,https://iptv-epg.org/images/cnkBhYWjlS-odHEnpdvKZAz-QQz6O0AcB--ZjyPBgGGtxqoOQpShdBALGbXwy_bjh4qYiqtqwxQZPqxfd8W3m6nNKs8cUwUBM2UNzn8dm1jpdSX_
+LAZIO.SerieA,SERIEA - LAZIO,https://iptv-epg.org/images/WxuwfKBdlCW27orYWdAAIz32FeQUkvxpGRoxQeBpk9TiRrkVZ-aBkDtT8pvyvmF13Lin6F18wKdPz0hHEbOpT3Y8W_EiiWlZmTybwptWsgc9
+LECCE.SerieA,SERIEA - LECCE,https://iptv-epg.org/images/VQw0YpaRSvD8lRSxhLXwgNXrjp4mCs0tmXpv4W04IK7xHMBW-t00JFfF4BkFWVnsbGwDcfQ8y2hAvLb5qvFm7sxWP7tsYQWRVwofUaxjvuzP
+MILAN.SerieA,SERIEA - MILAN,https://iptv-epg.org/images/LtcTXIrMqFkHazucot-68enD049Yb2w_b4tlp1ZT1aUyFiZpB7pYRAO6MjCa5pnZRtCXNrl6npZsvvugKryVVbgceDblcsRbWDhVdVkptQDG
+NAPOLI.SerieA,SERIEA - NAPOLI,https://iptv-epg.org/images/Fx1ZzoLe1ZXmFJxoBp90yt_iC4bvt1sog34O4k22NbzB-qJt-YuYkdqBOAo3QwG17ik02eyrQcgkcGxYkKNzm01IudVS6fahanAs8Z5RU1rgbQ
+PARMA.SerieA,SERIEA - PARMA,https://iptv-epg.org/images/f6ewY1q2FV9EYa5ewzPtJ1y0u7ibWOv184spEKVqBBSXTkb6RVhGX51msOwh1TNQmnewsq-hYtGnCsZ2PkaReNmnpTRj8dhXzKfwVn3DavsP
+PISA.SerieA,SERIEA - PISA,https://iptv-epg.org/images/nKuqLdHroizmcLAP9mlbyfMEtFWhsEx8UU5LLhfDxLUxkOjNYSiDxlNukaEedJbSL6nl3QhvzAPoiNA0yCDvEUilmxbuSF7VumkPcCmlZYg
+ROMA.SerieA,SERIEA - ROMA,https://iptv-epg.org/images/YGUvjPOr_fZbZnU_zml2-IhTfPn9Hu0gYoXRaadWHYvJdkEpYIdtTH5rcdwdpFJoESl2bl4rKstL7xgyAU6_iPGTLlgDcLZe8UqjzHnAms0
+SASSUOLO.SerieA,SERIEA - SASSUOLO,https://iptv-epg.org/images/iW0ElBnuue_CmLH3-0CRYqPrcSYhlA0SbJUvrv1vPWaUF2pLsXnCIlyMXL04ZlckoYIaXvqium8_fls52vMrdSUJoNLu_M6O3IwLqBHfLJIPGYll
+TORINO.SerieA,SERIEA - TORINO,https://iptv-epg.org/images/pwWxWoj125BYb7S_7HNAOZt8bzwA1cV0ZQmtvOBCaby_GQK06cq9kqN5GLvKzNg75MLIRpNLQ8YqbNijbpF7vswnY0SuVuHIXHkKSwpjtrpIYA
+UDINESE.SerieA,SERIEA - UDINESE,https://iptv-epg.org/images/TuIBOWWc1AjReO8A7k5MKO46gk4EEKrE6F1gvvgKUVlpRBsolU4s62Ffzm2-o5mma8S2dCrnwm_kcenXIJV_jxcWhr81jSUizA2Gyq4rIXhaWTw

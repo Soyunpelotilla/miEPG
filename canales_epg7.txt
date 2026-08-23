@@ -1,4 +1,4 @@
-# Fuente: https://iptv-epg.org/files/epg-gb.xml
+# Fuente: https://iptv-epg.org/files/epg-gb.xml.gz
 AccringtonStanleyFC.efl,EFL - Accrington Stanley FC,https://iptv-epg.org/images/K-4ZPelKGxcU-czf7OmFcer8eHPK42dhSZpy_cBecLes80P5-q_N0fvDbpIobuxSaJm62cQFTzbGGdkR7lk2ZQx9XXXEhRwv9fYzrsb6nGkcKIbM_gPAhXA
 AFCWimbledon.efl,EFL - AFC Wimbledon,https://iptv-epg.org/images/PGLoKUWABokxzTyHxE6jxwTPjXcaxjafRT3JZOgHB7Yoqwf5RRuh1_4bgyhPtGOUIOYfQjTLOuDzdxSLjY1CtwZV8i7NRkYgpD0-DXkltoOWDw
 Barnet.efl,EFL - Barnet,https://iptv-epg.org/images/IfUwAceoHtHcfmzuM-Ra_22ebVH77tH5_0wiT6DOiQyX877ijsD3wL8T8qGZHHJBns6Qbxs-tgaCdaU755Lj8pyfjW5Shh_lQ7OYxA
