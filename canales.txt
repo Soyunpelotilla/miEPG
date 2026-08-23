@@ -226,9 +226,6 @@ FoxSports2.us,FOX SPORTS 2 US,https://iptv-epg.org/logos/USA/FoxSports2.us.png
 ESPN.us,ESPN US,https://iptv-epg.org/logos/USA/ESPN.us.png
 ESPN2.us,ESPN 2 US,https://iptv-epg.org/logos/USA/ESPN2.us.png
 LaLigaTVEspanol.us,LaLiga TV US,https://iptv-epg.org/logos/UK/LaLigaTVEspanol.us.png
-beINSportsEnEspanol.us,BEIN SPORTS ESP,https://iptv-epg.org/logos/USA/beINSportsEnEspanol.us.png
-paramount+,PARAMOUNT+,
-peacocktv,PEACOCKTV,
 UK | TNT Sports 1,UK | TNT Sports 1,https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png
 UK | TNT Sports 2,UK | TNT Sports 2,https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png
 UK | TNT Sports 3,UK | TNT Sports 3,https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png
