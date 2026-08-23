@@ -249,4 +249,4 @@ PT | DAZN 3,PT | DAZN 3,https://raw.githubusercontent.com/davidmuma/picons_doble
 PT | DAZN 4,PT | DAZN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png
 PT | DAZN 5,PT | DAZN 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png
 SuperTennis.it,SuperTennis,https://iptv-epg.org/logos/Italy/SuperTennis.it.png
-SkySportF1.it,IT - Sky Sport F1 Italia,https://iptv-epg.org/images/q6IK4z9shH_9TLJ7BybUiuwfyu-zm0lFwrGVnCq72Dh_ZXMewcseMxQhkm_CcmKMh_g9lILInkMV5h46WWXKuf-L4ZgB-UlQoPf-3qlXl9YUZw
+SkySportF1.it,IT - Sky Sport F1,https://iptv-epg.org/images/q6IK4z9shH_9TLJ7BybUiuwfyu-zm0lFwrGVnCq72Dh_ZXMewcseMxQhkm_CcmKMh_g9lILInkMV5h46WWXKuf-L4ZgB-UlQoPf-3qlXl9YUZw
