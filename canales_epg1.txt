@@ -450,7 +450,6 @@ Unbeaten (DAZN),Unbeaten (DAZN),https://raw.githubusercontent.com/davidmuma/pico
 Mundial (DAZN),Mundial (DAZN),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mundial%20(DAZN).png
 NFL Network (DAZN),NFL Network (DAZN),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network%20(DAZN).png
 Red Bull TV (DAZN),Red Bull TV (DAZN),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV%20(DAZN).png
-Primera Federación (DAZN),Primera Federación (DAZN),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n%20(DAZN).png
 DAZN Bundesliga,DAZN Bundesliga,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Bundesliga 2,DAZN Bundesliga 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Bundesliga 3,DAZN Bundesliga 3,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
