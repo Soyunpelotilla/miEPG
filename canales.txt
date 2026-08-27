@@ -201,9 +201,9 @@ Espn2.ar,ESPN 2 AR,https://images.open-epg.com/25683.png
 Espn3.ar,ESPN 3 AR,https://images.open-epg.com/25684.png
 Espn4.ar,ESPN 4 AR,https://images.open-epg.com/x960.png
 Espn6.ar,ESPN 6 AR,https://images.open-epg.com/x962.png
-FoxSports.ar,FOX Sports AR,https://images.open-epg.com/x972.png
-FoxSports2.ar,FOX Sports 2 AR,https://images.open-epg.com/16782312.png
-FoxSports3.ar,FOX Sports 3 AR,https://images.open-epg.com/16782313.png
+FoxSports.ar,FOX SPORTS AR,https://images.open-epg.com/x972.png
+FoxSports2.ar,FOX SPORTS 2 AR,https://images.open-epg.com/16782312.png
+FoxSports3.ar,FOX SPORTS 3 AR,https://images.open-epg.com/16782313.png
 TVPublica.ar,TV Publica,https://iptv-epg.org/logos/Argentina/TVPublica.ar.png
 Telefe.ar,Telefe,https://iptv-epg.org/logos/Argentina/Telefe.ar.png
 ESPN.co,ESPN CO,
@@ -248,6 +248,3 @@ PT | DAZN 2,PT | DAZN 2,https://raw.githubusercontent.com/davidmuma/picons_doble
 PT | DAZN 3,PT | DAZN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png
 PT | DAZN 4,PT | DAZN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png
 PT | DAZN 5,PT | DAZN 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png
-SuperTennis.it,SuperTennis,https://iptv-epg.org/logos/Italy/SuperTennis.it.png
-SkySportF1.it,IT - Sky Sport F1,https://iptv-epg.org/images/q6IK4z9shH_9TLJ7BybUiuwfyu-zm0lFwrGVnCq72Dh_ZXMewcseMxQhkm_CcmKMh_g9lILInkMV5h46WWXKuf-L4ZgB-UlQoPf-3qlXl9YUZw
-SuperTennis.it,IT - SuperTennis,https://iptv-epg.org/images/iuQZs_HqabMyrq7RgP2Hq7DYzwPNG7AcrJB_bPXweFPdNoL_WyfG5pkNWbJV0uGTu7QrpIR7Q-Bx1MWg_5Xl58yC-G7CtmxHMavNmTyAQx3WSP4
