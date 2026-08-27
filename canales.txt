@@ -177,7 +177,7 @@ Motorvision,Motorvision,https://raw.githubusercontent.com/davidmuma/picons_doble
 ESPN Deportes,ESPN Deportes,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png
 TUDN (Estados Unidos),TUDN (Estados Unidos),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png
 TUDN (México),TUDN (México),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png
-FOXSports.mx,FOX SPORTS,https://iptv-epg.org/logos/Mexico/FOXSports.mx.png
+FOX SPORTS,FOX SPORTS,https://iptv-epg.org/logos/Mexico/FOXSports.mx.png
 FOX SPORTS 2,FOX SPORTS 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png
 FOX SPORTS 3,FOX SPORTS 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%203.png
 ESPN,ESPN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png
