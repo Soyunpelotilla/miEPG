@@ -250,4 +250,3 @@ PT | DAZN 4,PT | DAZN 4,https://raw.githubusercontent.com/davidmuma/picons_doble
 PT | DAZN 5,PT | DAZN 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png
 DAZN1.de,DE - DAZN 1,https://iptv-epg.org/images/E8gJZ4iWs8XTvzMoLg5ZpzD3ydRWv6fDTgjdtS5kvKnjSXRLCZAgxtNuDidDge8-k3AeuMJ71g0K8XI1wD1N32wpzxgaLDUb_Xq9EGdc8g
 DAZN2.de,DE - DAZN 2,https://iptv-epg.org/images/N_Buxpo07GZyYGsCRFxYmAWvuOOB73q6rvSTN4e086H_AYd-IiExLpoCI2YS2Sj6uRnatRLb9buqkqqblGMx_Q7-CcPzUkj0Q1o7k6v4fg
-
