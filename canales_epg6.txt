@@ -11216,7 +11216,6 @@ CBSKXII.us,US - CBS KXII Sherman TX,https://iptv-epg.org/images/ElDWUPfPAiAIbD-r
 CBSKXJB.us,US - CBS KXJB KX4 Fargo ND,https://iptv-epg.org/images/wGP3QtJ9-6dzuILJKCvC7HTZbRJDGoV3sS3RwBrk48tZNhIYt_U90EjMosLKooddIv5Xz1TCbQK2Qxbeaa3mDuOaee94-bfKy6A7nqQ
 CBSKXLF.us,US - CBS KXLF Butte MT,https://iptv-epg.org/images/QYdu_jVcj7JtbvKQviHLg9n8DyWjCKkRnPM2f3yd_04RvevHBelpQ0oLCDgcfFXduHB0lPTs21StJaz9VdX-BQEwg3urZKYMWCq0vVI
 CBSKXLH.us,US - CBS KXLH Helena MT,https://iptv-epg.org/images/o0iHXF9bKx9kfm00y_rQzRBs1NL__h2r9O1owHiKH2LcDstA5Zdk-C_rjJbZBt-MI_mjz0OXIh5Gd2euItlzCV0U58aQh1s8_Z3SqVU
-CBSKXMB.us,US - CBS KXMB Bismarck ND,https://iptv-epg.org/images/qSm50CN2yagkPUz0H0vHC3qZV-JN8KxRvM7YosRNHfAWy-UhVe3kADkj-RIrhL1gOCqfqoB6u8jD2UFe4UaTpZ-XzpSGt3U5rWKp0D8
 CBSKXTS.us,US - CBS KXTS Victoria TX,https://iptv-epg.org/images/hEJ4Qu6RrMHbB9hnSB3a8YSolbw7WpWWVH01uBQQTxbeS8HeUJtHb4hrovew6U46A2cm3yPoGefn6CZJsBcpNjybYmL323WmXNUvz5w
 CBSKYES.us,US - CBS KYES Anchorage AK,https://iptv-epg.org/images/ADrGke0IbqbuioAw6abWekVpb-3wZ380tn2WqzsPs1YuIM-t1ZDll05rNWBsuy8bAeSlkBIXliWBMKfP3_zU6qx8rsxv_jlB-8gIwno
 CBSKYEX.us,US - CBS KYEX Juneau Douglas AK,https://iptv-epg.org/images/4F3lGzZ77U8g-wEHHtgNos9vNzOYhGVd_8kD5XyieH3arXu54-PJ3y3Bb_7-ozk2jWqdtWMXZE4OhVRfrdHSUR001FNlBcyTX8OodUI
@@ -11418,7 +11417,6 @@ CWKVCW.us,US - CW KVCW Las Vegas NV,https://iptv-epg.org/images/CJkX18kUu2xE8sT5
 CWKVIADT2.us,US - CW KVIA-DT2 El Paso TX,https://iptv-epg.org/images/EMjlYw-DiHfEZipKXYp4yUcOmhZVjZd7QiFAiHe6KCH5iFwYgCoD8isgyEqdaQP3Fpo1YkEzDdHmQCIYfzJvS7HSs3pt1qHir_BshErDNQ
 CWKWGN.us,US - CW KWGN Denver CO,https://iptv-epg.org/images/CI6yqEufiTZo9QjVofYxps-X8q5KQCVw7iW3hQmetuA5hoVNGjAph-Da2AnLy1UP2BIRT5YNl5Jsno2RtakmDHpkUo52sO4X7_NWOQ
 CWKXJBLD2.us,US - CW KXJB-LD2 Fargo ND,https://iptv-epg.org/images/bg_EfFYWHBVNBuDC3qs08k54o4YkXvoRSDZLiGKw9dU1cCJxta802ISknhCf_LMdnOBSLBiBb6NJQUYqp81sl5pr1mceXZVvGs-ASeDA4A
-CWKXMBDT2.us,US - CW KXMB-DT2 Bismarck ND,https://iptv-epg.org/images/wpqcZXpjVXWmjaOkga2xy1jjbuk-O9S_r3IRoAsCTPTYI0ATBARs8UeZyZo3XXEy-4wZ62C0244Bv0Re5TxOuFKtjdnI_OgwvKNUy_6NIg
 CWKXTU.us,US - CW KXTU Colorado Springs Pueblo CO,https://iptv-epg.org/images/7adR13qDQgj0J-fzcPXRq7RpeK77jHC-z2szjL4Y9SAaagjHFlFK2fGpQFq8ix_2d1G4obJQPAXUK60c8OsDwGc1Yua8n32HQcZc7g
 CWKYCWS.us,US - CW KYCW Springfield Osage Beach MO,https://iptv-epg.org/images/2wePnQPgkthdXkuU9ZxPBefujPwbDdHpI-_h6pFj7sv4w-8k684dmDjzGDpozvPAyDYBLaoKvmGWUuYJ3pyTR4V9CeZOg_8uSDpuW6I
 CWKYLXLD2.us,US - CW KYLX-LD2 Laredo TX,https://iptv-epg.org/images/nWzyOVl-wwlj6FLoH7-EaLU_ltWJ7hvzy5OiZjzprwFyPboJMk4pCjl82Up3ySNB6wnIIDPoQ0JWW_b-RYLNoAWoGu_j4ZkvycKXVMd-Ug
