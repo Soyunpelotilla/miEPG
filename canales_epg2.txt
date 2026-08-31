@@ -1,5 +1,5 @@
 # Fuente: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
-69fc906b90dc413f536059a1,H2O &amp; Friends,https://images.pluto.tv/channels/69fc906b90dc413f536059a1/colorLogoPNG_1780583615660.png
+680ba9878e4b08935e31462b,Top Gear: Racing Icons,https://images.pluto.tv/channels/680ba9878e4b08935e31462b/colorLogoPNG_1748523330362.png
 5f984f4a09e92d0007d74647,Archivos Forenses,https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1763542909820.png
 612ce5214bb5790007ad3016,Pluto TV Paranormal,https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png
 5f1acbed25948a0007ffbe65,Los archivos del FBI,https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png
@@ -9,7 +9,6 @@
 60ed5fb9c4716d0007d180c5,Cazador de Homicidas,https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png
 654a35ce346f420008d5c36e,Pluto TV Invasión Alien,https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG_1781530240161.png
 6682bd9b8768aa0008f25be5,Los misterios de Murdoch,https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/colorLogoPNG_1764691773450.png
-664c76d68ea5560008c6c7a4,Alerta Cobra,https://images.pluto.tv/channels/664c76d68ea5560008c6c7a4/colorLogoPNG.png
 6304f530440dc90007f514d3,Poirot &amp; Miss Marple,https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png
 60c343007bcabe0007242aa6,El Comisario,https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png
 5f1aca8310a30e00074fab92,Los Asesinatos de Midsomer,https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png
@@ -32,7 +31,6 @@
 662a69daa0a74e00087a1c72,Pluto TV Telenovelas Clásicas,https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png
 65dded6966eec80008947157,¡Llama a la Comadrona!,https://images.pluto.tv/channels/65dded6966eec80008947157/colorLogoPNG_1775051870040.png
 6475bfec536e0c0008858e9f,Pluto TV K-Drama,https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png
-5f1ac8f49205650007bc15f1,Pluto TV Series,https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png
 60dafb9a0df1ba000758d37b,BBC Series,https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png
 65b91e530d9ab40008340d8d,Al salir de clase,https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png
 65dded9a0d456100081417ae,Primeval,https://images.pluto.tv/channels/65dded9a0d456100081417ae/colorLogoPNG.png
@@ -80,7 +78,6 @@
 608035b8d8705f0007260287,Pluto TV Anime,https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png
 632c6df43d2bc5000751f621,Inazuma Eleven,https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png
 683457e5f59cc6a13212fce4,Lupin,https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/colorLogoPNG_1754485275244.png
-61373c865ed5810007173fbc,Avatar,https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png
 628751bb7154a40007168843,South Park,https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png
 6a0c25d1c3b9403659196293,Terapia con Charlie,https://images.pluto.tv/channels/6a0c25d1c3b9403659196293/colorLogoPNG_1780923463926.png
 5f1abce155a03d0007718834,Pluto TV Comedia made in Spain,https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png
@@ -96,13 +93,13 @@
 5f98537a5a4341000733aefe,MTV Embarazada a los 16,https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png
 5f1aadf373bed3000794d1d7,MTV Originals,https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png
 600169ec77e6f70008fa9cf0,MTV Ink Master,https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG_1783599834588.png
-627d3176d7dfa500077042f1,MTV Geordies,https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png
 6130d8dc943001000708548d,MTV Reality,https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1783323270470.png
 5f1aca0b4e448e00075e7c5e,Bob Esponja,https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png
 6181404ef48321000797bc41,iCarly,https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png
 63eb944dc111bc0008fe7021,Pluto TV Teen,https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png
-6523f672a6c38300088cb807,El Reino Infantil,https://images.pluto.tv/channels/6523f672a6c38300088cb807/colorLogoPNG.png
+69fc906b90dc413f536059a1,H2O &amp; Friends,https://images.pluto.tv/channels/69fc906b90dc413f536059a1/colorLogoPNG_1780583615660.png
 6a0c25fe09705ebdf7e4599a,Pippi Calzaslargas,https://images.pluto.tv/channels/6a0c25fe09705ebdf7e4599a/colorLogoPNG_1780925919473.png
+6523f672a6c38300088cb807,El Reino Infantil,https://images.pluto.tv/channels/6523f672a6c38300088cb807/colorLogoPNG.png
 63c69c87808b740007599fe1,Érase una vez...,https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png
 68779a09c691b3f0964127c6,Heidi,https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png
 610c09219fc0430007a3fce6,Rugrats,https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png
@@ -141,4 +138,3 @@
 60d3583ef310610007fb02b1,Euronews,https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png
 66c45c0de7f5e80008b82005,CNN Headlines International,https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1775159727857.png
 6231ede1be5b460007f91bc1,CBS News 24/7,https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png
-68345650e8377f86acdeda83,Pluto TV Series de Terror,https://images.pluto.tv/channels/68345650e8377f86acdeda83/colorLogoPNG_1751021711627.png
