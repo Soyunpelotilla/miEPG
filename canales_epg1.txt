@@ -514,6 +514,7 @@ DSPORTS 4,DSPORTS 4,https://dsports-widgets.tbxnet.com/assets/images/channels/16
 DSPORTS 5,DSPORTS 5,https://dsports-widgets.tbxnet.com/assets/images/channels/1618.png
 beIN SPORTS en español,beIN SPORTS en español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png
 beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png
+Atrescine,Atrescine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atrescine.png
 CNN en Español,CNN en Español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CNN%20en%20Espa%C3%B1ol.png
 Concert Channel,Concert Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Concert%20Channel.png
 Star TVE HD,Star TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.png
@@ -534,9 +535,6 @@ Sky Sports 16,Sky Sports 16,https://raw.githubusercontent.com/davidmuma/picons_d
 ESPN Argentina,ESPN Argentina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Argentina.png
 ESPN 2 Argentina,ESPN 2 Argentina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202%20Argentina.png
 ESPN 3 Argentina,ESPN 3 Argentina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203%20Argentina.png
-Atrescine,Atrescine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atrescine.png
-Vivid TV,Vivid TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivid%20TV.png
-MTV Classic,MTV Classic,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Classic.png
 FR · Infosport+,FR · Infosport+,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Infosport%2B.png
 FR · L’Equipe,FR · L’Equipe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/L%E2%80%99Equipe.png
 FR · Premiere Futebol Clube,FR · Premiere Futebol Clube,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Premiere%20Futebol%20Clube.png

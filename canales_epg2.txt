@@ -1,140 +1,388 @@
-# Fuente: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
-680ba9878e4b08935e31462b,Top Gear: Racing Icons,https://images.pluto.tv/channels/680ba9878e4b08935e31462b/colorLogoPNG_1748523330362.png
-5f984f4a09e92d0007d74647,Archivos Forenses,https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1763542909820.png
-612ce5214bb5790007ad3016,Pluto TV Paranormal,https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png
-5f1acbed25948a0007ffbe65,Los archivos del FBI,https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png
-64a3f200f238ce0008d47247,Pluto TV True Crime,https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png
-5f1acba0d1f6340007db8843,Los nuevos detectives,https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png
-64ddcbb14c5ed80008fad416,Crimen &amp; Historia,https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png
-60ed5fb9c4716d0007d180c5,Cazador de Homicidas,https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png
-654a35ce346f420008d5c36e,Pluto TV Invasión Alien,https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG_1781530240161.png
-6682bd9b8768aa0008f25be5,Los misterios de Murdoch,https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/colorLogoPNG_1764691773450.png
-6304f530440dc90007f514d3,Poirot &amp; Miss Marple,https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png
-60c343007bcabe0007242aa6,El Comisario,https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png
-5f1aca8310a30e00074fab92,Los Asesinatos de Midsomer,https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png
-61bb2814ac085a00074309a6,Unidad de investigación,https://images.pluto.tv/channels/61bb2814ac085a00074309a6/colorLogoPNG.png
-66d71f8ee5de930008016f83,Alice Nevers,https://images.pluto.tv/channels/66d71f8ee5de930008016f83/colorLogoPNG_1730816120590.png
-6964d2179ba4ac18051a18ce,Léo Mattéï: Brigada de protección,https://images.pluto.tv/channels/6964d2179ba4ac18051a18ce/colorLogoPNG_1777976845815.png
-66d71c656b63480008cf0427,Cherif,https://images.pluto.tv/channels/66d71c656b63480008cf0427/colorLogoPNG.png
-65cf6ab58145cb0008129ca8,Pluto TV Series criminales,https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png
-6745f0643a61d40008a61510,Rookie Blue,https://images.pluto.tv/channels/6745f0643a61d40008a61510/colorLogoPNG.png
-619b9f16b8fee4000832d447,El Detective Endeavour,https://images.pluto.tv/channels/619b9f16b8fee4000832d447/colorLogoPNG.png
-657868a7a620e30008fdbfeb,Embrujadas,https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1770028317031.png
-6578808014fbe400086e21bc,Medium,https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png
-6812206e1b3e3be031a5c363,Águila Roja,https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/colorLogoPNG_1754647874286.png
-65787f2eb228b7000843fa5c,Star Trek: Voyager,https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png
-5f1acce7f17797000718f9be,Ana y los 7,https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png
-5f1acd36779de70007a680d1,Curro Jiménez,https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png
-6245c03922d9d4000760d205,Melrose Place,https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png
-683457aebbc703dfd45a89eb,Merlí,https://images.pluto.tv/channels/683457aebbc703dfd45a89eb/colorLogoPNG_1749718381815.png
-69c5100c3d2597380f0f6422,Gata salvaje,https://images.pluto.tv/channels/69c5100c3d2597380f0f6422/colorLogoPNG_1784105533317.png
-662a69daa0a74e00087a1c72,Pluto TV Telenovelas Clásicas,https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png
-65dded6966eec80008947157,¡Llama a la Comadrona!,https://images.pluto.tv/channels/65dded6966eec80008947157/colorLogoPNG_1775051870040.png
-6475bfec536e0c0008858e9f,Pluto TV K-Drama,https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png
-60dafb9a0df1ba000758d37b,BBC Series,https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png
-65b91e530d9ab40008340d8d,Al salir de clase,https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png
-65dded9a0d456100081417ae,Primeval,https://images.pluto.tv/channels/65dded9a0d456100081417ae/colorLogoPNG.png
-65ddec1ef7f0af0008be4b65,Pluto TV Series Sci-Fi,https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png
-60218baa464ef900073168c1,Empeños a lo bestia,https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png
-60d356a534f63f000850cdd7,Top Gear,https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG_1756396834691.png
-6335a6b6e6f7a600076e589e,Cazasubastas,https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png
-6554bd45aa9ffb00088e5589,COPS,https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png
-6080345ebb49b90007ce0baf,Pluto TV Motor,https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png
-60e45687313c5f0007bc8e94,El encantador de perros,https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png
-65254e8d81f9420008342cee,La fiebre del Jade,https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png
-68adc697116b783a33f99e6c,Pluto TV Impacto,https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png
-61b9edc4a4ca6100070bb407,Ice Pilots,https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png
-60e4573c9f963e00077ecf25,Mi Extraña Obsesión,https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png
-65bd0f53dc10a40008e68b96,Pluto TV Gasolina,https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/colorLogoPNG_1747382175081.png
-68adc3fdd8f7693ae347a63a,Los Gipsy Kings,https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/colorLogoPNG_1759420523581.png
-69c51060ed1b1f1acb5092dc,Alaska y Mario,https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/colorLogoPNG_1778483817519.png
-6578836cdfed030008ce5bdb,Sí quiero ese vestido,https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/colorLogoPNG.png
-686cd84603ad75cfd132d672,America's Next Top Model,https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png
-68d566603d3a9580eb461251,Paramount Network de Pluto TV,https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png
-5f1ac2591dd8880007bb7d6d,Pluto TV Cine Acción,https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png
-6267d4d1fb694f0007a6af0e,Pluto TV Horror,https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png
-6385e82900ab2e000768a058,Pluto TV Western,https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png
-5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png
-5f1ac8099c49f600076579b2,Pluto TV Cine Comedia,https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png
-5f1ac8a87cd38d000745d7cf,Pluto TV Thrillers,https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png
-5f6a38eaa5b68b0007a00e7a,Pluto TV Sci-Fi,https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png
-645a309c5a0cd5000873f609,Pluto TV Catástrofes,https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png
-65786888b228b7000843ad9a,Pluto TV Zombies,https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png
-66b0dfa1d512590008bfa7fd,Pluto TV Gore &amp; Slasher,https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png
-65ce480a78df2200131c597b,Pluto TV Psycho,https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png
-61373bb45168fe000773eecd,Pluto TV Cine Clásico,https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png
-6086d3f420fc8500075f8dbf,Runtime,https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png
-5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico,https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png
-655b5d865812e80008843bd1,Pluto TV Comedias Románticas,https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png
-5f1ac947dcd00d0007937c08,Pluto TV Cine Drama,https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png
-676e7b4a4bd636000819c6a7,SensaCine TV x Pluto,https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png
-60cc807324d60a0007708dc8,Pluto TV Cine de autor,https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png
-68e8fd7c3ede4398bc69af93,Dragon Ball Z,https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG_1775550158845.png
-629a066860ef810008267b70,Detective Conan,https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG_1780997960365.png
-685a996c7c4f2ad40cb4f276,Dragon Ball,https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/colorLogoPNG_1756876796024.png
-680ba8992472a7200a183eb5,One Piece,https://images.pluto.tv/channels/680ba8992472a7200a183eb5/colorLogoPNG_1748955630923.png
-680ba8c3a48b3ead0db701cc,Los caballeros del Zodiaco,https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/colorLogoPNG_1758616347633.png
-63eb96754e83e70008ab8941,Yu-Gi-Oh!,https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png
-608035b8d8705f0007260287,Pluto TV Anime,https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png
-632c6df43d2bc5000751f621,Inazuma Eleven,https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png
-683457e5f59cc6a13212fce4,Lupin,https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/colorLogoPNG_1754485275244.png
-628751bb7154a40007168843,South Park,https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png
-6a0c25d1c3b9403659196293,Terapia con Charlie,https://images.pluto.tv/channels/6a0c25d1c3b9403659196293/colorLogoPNG_1780923463926.png
-5f1abce155a03d0007718834,Pluto TV Comedia made in Spain,https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png
-68de3db35fc0afe85de0b843,Comedia a lo bestia de Pluto TV,https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png
-5f28009b150b2500077766b8,Vaya semanita,https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png
-63d7a8e5a9957100086bfc23,South Park Versión Original,https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png
-5f1abf5fafb5ee0007d4d0ca,FailArmy,https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png
-604f8125c6669b00077f7699,Wipeout,https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png
-63eb9495a8b227000841bf64,MTV Vergüenza ajena,https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png
-5f1ab3c7778230000735cf41,MTV Catfish TV Show,https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png
-62ac3d7dc23b400008ae5b5a,MTV Jerseys,https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png
-604f81a49ef73300070e554f,MTV Teen Mom,https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png
-5f98537a5a4341000733aefe,MTV Embarazada a los 16,https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png
-5f1aadf373bed3000794d1d7,MTV Originals,https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png
-600169ec77e6f70008fa9cf0,MTV Ink Master,https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG_1783599834588.png
-6130d8dc943001000708548d,MTV Reality,https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1783323270470.png
-5f1aca0b4e448e00075e7c5e,Bob Esponja,https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png
-6181404ef48321000797bc41,iCarly,https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png
-63eb944dc111bc0008fe7021,Pluto TV Teen,https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png
-69fc906b90dc413f536059a1,H2O &amp; Friends,https://images.pluto.tv/channels/69fc906b90dc413f536059a1/colorLogoPNG_1780583615660.png
-6a0c25fe09705ebdf7e4599a,Pippi Calzaslargas,https://images.pluto.tv/channels/6a0c25fe09705ebdf7e4599a/colorLogoPNG_1780925919473.png
-6523f672a6c38300088cb807,El Reino Infantil,https://images.pluto.tv/channels/6523f672a6c38300088cb807/colorLogoPNG.png
-63c69c87808b740007599fe1,Érase una vez...,https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png
-68779a09c691b3f0964127c6,Heidi,https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png
-610c09219fc0430007a3fce6,Rugrats,https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png
-61373f1a12dd9f00077dcd6f,Las Tortugas Ninja,https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png
-62568a94ed1f380007b0211f,Winx Club,https://images.pluto.tv/channels/62568a94ed1f380007b0211f/colorLogoPNG.png
-68e8fe3bcba140ddfe903677,Monster High,https://images.pluto.tv/channels/68e8fe3bcba140ddfe903677/colorLogoPNG_1761210192673.png
-68d27949793c71d988ca624c,Los Pitufos,https://images.pluto.tv/channels/68d27949793c71d988ca624c/colorLogoPNG_1760370849099.png
-609e7e423e9173000706a681,Pluto TV Kids Classics,https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png
-5f1aab1d29b39600073e243f,Pluto TV Kids,https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png
-5f1aa9bcd8160700076d45d1,Pluto TV Junior,https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png
-6888928eb52fb742416673d2,Mattel Junior,https://images.pluto.tv/channels/6888928eb52fb742416673d2/colorLogoPNG_1765806188472.png
-688892172928933015abe479,Barbie &amp; Friends,https://images.pluto.tv/channels/688892172928933015abe479/colorLogoPNG_1765806030713.png
-61922be835f3910007fc58f6,En el punto de mira,https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png
-600ae6a78d801e0007117d21,Pluto TV Animales,https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png
-60dd6b1da79e4d0007309455,Nature Time,https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png
-67517f923a61d40008c451f0,Historia y Vida,https://images.pluto.tv/channels/67517f923a61d40008c451f0/colorLogoPNG.png
-5f1acdaa8ba90f0007d5e760,Pluto TV Cocina,https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png
-61cd7b49543066000713b620,Pluto TV Historia,https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png
-622f42b831233300078658cc,Ciudadanos por el mundo,https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png
-690dd10a37b131228d76d5b1,El Mueble,https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png
-64db2e0835425100080f2f5a,Pluto TV Diseño,https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png
-65786abdb3801200084c593a,Homeful,https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png
-69b3db5d61e8e298254c7108,Space Live,https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/colorLogoPNG_1775061733929.png
-686cd8bb9d079f48dbbdfecb,Metal Rocks,https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/colorLogoPNG_1756372280523.png
-6080381ab7c9ea00074ec64c,World Poker Tour,https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png
-65f96cd34e01740008ef1c97,Realmadrid TV,https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png
-6793ac47f5c74bff95d18a99,TOP BARÇA,https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/colorLogoPNG.png
-660c29f80cd4630008f1547c,FIFA+,https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png
-67921b873de7c8cf94233f52,UFC,https://images.pluto.tv/channels/67921b873de7c8cf94233f52/colorLogoPNG.png
-696e02423b9ce349c90edef9,Rally TV,https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png
-6a6a02ae3ee9d966427e62c4,NFL Channel,https://images.pluto.tv/channels/6a6a02ae3ee9d966427e62c4/colorLogoPNG_1785333367393.png
-69148c470155f9b136b5d856,Pluto TV Snooker 900,https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png
-67164414e40c4a00087f450d,MODUS Super Series Darts,https://images.pluto.tv/channels/67164414e40c4a00087f450d/colorLogoPNG_1732095042151.png
-69f9c50202b6c1c00a213519,Dominance FC TV,https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/colorLogoPNG_1777976664055.png
-67517fae5534bb0008187997,Actualidad 360,https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png
-60d3583ef310610007fb02b1,Euronews,https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png
-66c45c0de7f5e80008b82005,CNN Headlines International,https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1775159727857.png
-6231ede1be5b460007f91bc1,CBS News 24/7,https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png
+# Fuente: https://www.open-epg.com/files/spain.xml.gz
+1Plus1News.es,1+1 News.es,https://images.open-epg.com/x2089.png
+1Plus1Travel.es,1+1 Travel.es,https://images.open-epg.com/x2090.png
+24Horas.es,24 Horas.es,https://images.open-epg.com/18051928.png
+2M.es,2M.es,https://images.open-epg.com/18549705.png
+324.es,3/24.es,https://images.open-epg.com/18051929.png
+33.es,33.es,https://images.open-epg.com/12900990.png
+3CatInfo.es,3CatInfo.es,https://images.open-epg.com/12900991.png
+7TVRegionMurcia.es,7 TV Región Murcia.es,https://images.open-epg.com/12900992.png
+8MadridTV.es,8Madrid TV.es,https://images.open-epg.com/18750514.png
+8TV.es,8 TV.es,https://images.open-epg.com/18051931.png
+ActionHollywoodMovies.es,Action Hollywood Movies.es,https://images.open-epg.com/4916.png
+Actualidad360.es,Actualidad 360.es,https://images.open-epg.com/25841988.png
+AguilaRoja.es,Águila Roja.es,https://images.open-epg.com/x2091.png
+AlJazeera.es,Al Jazeera.es,https://images.open-epg.com/4922.png
+Alquiler1.es,Alquiler 1.es,https://images.open-epg.com/18051934.png
+AMC.es,AMC.es,https://images.open-epg.com/17480.png
+AMCBreak.es,AMC Break.es,https://images.open-epg.com/4924.png
+AMCCrime.es,AMC Crime.es,https://images.open-epg.com/4925.png
+AMCSelekt.es,AMC Selekt.es,https://images.open-epg.com/x2093.png
+AnaYLos7.es,Ana y los 7.es,https://images.open-epg.com/4927.png
+AndaluciaTV.es,Andalucía TV.es,https://images.open-epg.com/4928.png
+AnimeVision.es,Anime Visión.es,https://images.open-epg.com/18549670.png
+AnimeVisionClassics.es,Anime Visión Classics.es,https://images.open-epg.com/18549669.png
+Antena3.es,Antena 3.es,https://images.open-epg.com/4929.png
+APunt.es,À Punt.es,https://images.open-epg.com/12900993.png
+AragonTV.es,Aragón TV.es,https://images.open-epg.com/4931.png
+AragonTVInt.es,Aragón TV Int.es,https://images.open-epg.com/4930.png
+ArmoniaTeVeSana.es,Armonía TeVe Sana.es,https://images.open-epg.com/4932.png
+AtlanticoTV.es,Atlántico TV.es,https://images.open-epg.com/22814301.png
+Atreseries.es,Atreseries.es,https://images.open-epg.com/18051946.png
+AXN.es,AXN.es,https://images.open-epg.com/4938.png
+AXNMovies.es,AXN Movies.es,https://images.open-epg.com/4936.png
+AZCorazon.es,AZ Corazón.es,https://images.open-epg.com/17487.png
+AztecaInternacional.es,Azteca Internacional.es,https://images.open-epg.com/4939.png
+BabySharkTV.es,Baby Shark TV.es,https://images.open-epg.com/18549632.png
+BabyTV.es,Baby TV.es,https://images.open-epg.com/17489.png
+BBCEarth.es,BBC Earth.es,https://images.open-epg.com/12901006.png
+BBCFood.es,BBC Food.es,https://images.open-epg.com/12901007.png
+BBCHistory.es,BBC History.es,https://images.open-epg.com/12901008.png
+BBCLifestyle.es,BBC Lifestyle.es,https://images.open-epg.com/12901009.png
+BBCNews.es,BBC News.es,https://images.open-epg.com/12901010.png
+BBCSeries.es,BBC Series.es,https://images.open-epg.com/12901011.png
+BBCTopGear.es,BBC Top Gear.es,https://images.open-epg.com/12901012.png
+BBCWorld.es,BBC World.es,https://images.open-epg.com/6464371.png
+BeINSports.es,BeIN Sports.es,https://images.open-epg.com/17493.png
+BeMad.es,Be Mad.es,https://images.open-epg.com/4943.png
+Beteve.es,Betevé.es,https://images.open-epg.com/18051956.png
+BetisTV.es,Betis TV.es,https://images.open-epg.com/4945.png
+Beyblade.es,Beyblade.es,https://images.open-epg.com/18549624.png
+BFMTV.es,BFM TV.es,https://images.open-epg.com/4946.png
+Bloomberg.es,Bloomberg.es,https://images.open-epg.com/12901015.png
+BloombergOriginals.es,Bloomberg Originals.es,https://images.open-epg.com/x2072.png
+BobEsponja.es,Bob Esponja.es,https://images.open-epg.com/18549733.png
+Boing.es,Boing.es,https://images.open-epg.com/4949.png
+BOMCine.es,BOM Cine.es,https://images.open-epg.com/x2092.png
+Caillou.es,Caillou.es,https://images.open-epg.com/18549706.png
+Calle13.es,Calle 13.es,https://images.open-epg.com/18051960.png
+Canal11Internacional.es,Canal 11 Internacional.es,https://images.open-epg.com/4951.png
+Canal24horas.es,Canal 24 horas.es,https://images.open-epg.com/4952.png
+CanalCocina.es,Canal Cocina.es,https://images.open-epg.com/4955.png
+CanalDeLasEstrellas.es,Canal de las Estrellas.es,https://images.open-epg.com/12901018.png
+CanalExtremadura.es,Canal Extremadura.es,https://images.open-epg.com/4957.png
+CanalExtremaduraSat.es,Canal Extremadura Sat.es,https://images.open-epg.com/4956.png
+CanalFlixOle1.es,Canal FlixOlé 1.es,https://images.open-epg.com/12901021.png
+CanalFlixOle2.es,Canal FlixOlé 2.es,https://images.open-epg.com/12901022.png
+CanalParlamento.es,Canal Parlamento.es,https://images.open-epg.com/17504.png
+CanalRED.es,Canal RED.es,https://images.open-epg.com/24659315.png
+CanalSur.es,Canal Sur.es,https://images.open-epg.com/4964.png
+CanalSurAndalucia.es,Canal Sur Andalucía.es,https://images.open-epg.com/4963.png
+CaracolTV.es,Caracol TV.es,https://images.open-epg.com/17509.png
+CartoonClassics.es,Cartoon Classics.es,https://images.open-epg.com/x2088.png
+CastillaLaManchaTV.es,Castilla-La Mancha TV.es,https://images.open-epg.com/18051971.png
+Cazavision.es,Cazavisión.es,https://images.open-epg.com/17512.png
+CazaYPesca.es,Caza y Pesca.es,https://images.open-epg.com/17511.png
+CGTNDocumentary.es,CGTN Documentary.es,https://images.open-epg.com/12901029.png
+CGTNEspanol.es,CGTN Español.es,https://images.open-epg.com/18051973.png
+CineFeelGoodVerdiTV.es,Cine Feel Good Verdi TV.es,https://images.open-epg.com/4966.png
+CineFriki.es,Cine Friki.es,https://images.open-epg.com/4967.png
+CinesVerdiTV.es,Cines Verdi TV.es,https://images.open-epg.com/4969.png
+CineWestern.es,Cine Western.es,https://images.open-epg.com/4968.png
+Clan.es,Clan.es,https://images.open-epg.com/18051974.png
+Clic.es,Clic.es,https://images.open-epg.com/4971.png
+CMMTV.es,CMM TV.es,https://images.open-epg.com/4973.png
+CNBC.es,CNBC.es,https://images.open-epg.com/18051976.png
+CNNInternacional.es,CNN Internacional.es,https://images.open-epg.com/18051978.png
+ComedyCentral.es,Comedy Central.es,https://images.open-epg.com/12901037.png
+CookingPanda.es,Cooking Panda.es,https://images.open-epg.com/4976.png
+Corazon.es,Corazón.es,https://images.open-epg.com/4977.png
+COSMO.es,COSMO.es,https://images.open-epg.com/12901038.png
+CrimenYHistoria.es,Crimen &amp; Historia.es,https://images.open-epg.com/x2087.png
+CryBabies.es,Cry Babies.es,https://images.open-epg.com/18549703.png
+Cuatro.es,Cuatro.es,https://images.open-epg.com/17521.png
+Cubavision.es,Cubavisión.es,https://images.open-epg.com/12901040.png
+CuentameComoPaso.es,Cuéntame cómo pasó.es,https://images.open-epg.com/22283379.png
+CURIOSITYNow.es,CURIOSITY Now.es,https://images.open-epg.com/18549625.png
+CurroJimenez.es,Curro Jiménez.es,https://images.open-epg.com/4981.png
+CyLTV.es,CyLTV.es,https://images.open-epg.com/17523.png
+Dark.es,Dark.es,https://images.open-epg.com/17524.png
+DAZN1.es,DAZN 1.es,https://images.open-epg.com/12901042.png
+DAZN2.es,DAZN 2.es,https://images.open-epg.com/12901043.png
+DAZN3.es,DAZN3.es,https://images.open-epg.com/6464406.png
+DAZN4.es,DAZN4.es,https://images.open-epg.com/6464407.png
+DAZNF1.es,DAZN F1.es,https://images.open-epg.com/12901049.png
+DAZNLALIGA.es,DAZN LALIGA.es,https://images.open-epg.com/12901051.png
+DAZNLALIGA2.es,DAZN LALIGA 2.es,https://images.open-epg.com/12901050.png
+DAZNMotoGP.es,DAZN MotoGP.es,https://images.open-epg.com/14455462.png
+Decasa.es,Decasa.es,https://images.open-epg.com/4983.png
+DeutscheWelle.es,Deutsche Welle.es,https://images.open-epg.com/6464409.png
+DFBPlayTV.es,DFB Play TV.es,https://images.open-epg.com/x2086.png
+DharMannTV.es,Dhar Mann TV.es,https://images.open-epg.com/18549690.png
+Discovery.es,Discovery.es,https://images.open-epg.com/12901052.png
+DiscoveryMax.es,Discovery Max.es,https://images.open-epg.com/18051985.png
+DisneyChannel.es,Disney Channel.es,https://images.open-epg.com/18051987.png
+DisneyJunior.es,Disney Junior.es,https://images.open-epg.com/18051988.png
+Divinity.es,Divinity.es,https://images.open-epg.com/18051990.png
+Djazz.es,Djazz.es,https://images.open-epg.com/x2080.png
+DKISS.es,DKISS.es,https://images.open-epg.com/17534.png
+DMAX.es,DMAX.es,https://images.open-epg.com/12901056.png
+Dreamworks.es,Dreamworks.es,https://images.open-epg.com/12901057.png
+DuckTV.es,DuckTV.es,https://images.open-epg.com/4992.png
+DW.es,DW.es,https://images.open-epg.com/4994.png
+Ecuavisa.es,Ecuavisa.es,https://images.open-epg.com/x2085.png
+ElClubDeLaComedia.es,El club de la comedia.es,https://images.open-epg.com/x2084.png
+ElConfidencial.es,El Confidencial.es,https://images.open-epg.com/18549741.png
+ElGarageTV.es,El Garage TV.es,https://images.open-epg.com/18051992.png
+ElHormiguero.es,El Hormiguero.es,https://images.open-epg.com/x2083.png
+ElPais.es,El País.es,https://images.open-epg.com/18549754.png
+ElToroTV.es,El Toro TV.es,https://images.open-epg.com/17537.png
+ElTreceInternacional.es,El Trece Internacional.es,https://images.open-epg.com/17538.png
+Energy.es,Energy.es,https://images.open-epg.com/18051993.png
+EnFamilia.es,En Familia.es,https://images.open-epg.com/5003.png
+EquipoDeInvestigacion.es,Equipo de investigación.es,https://images.open-epg.com/x2082.png
+EscapaTV.es,EscapaTV.es,https://images.open-epg.com/5004.png
+Esport3.es,Esport 3.es,https://images.open-epg.com/17541.png
+EstiloYVida.es,Estilo y Vida.es,https://images.open-epg.com/22283334.png
+ETB1.es,ETB 1.es,https://images.open-epg.com/18051995.png
+ETB1ON.es,ETB1ON.es,https://images.open-epg.com/12901065.png
+ETB2.es,ETB 2.es,https://images.open-epg.com/18051996.png
+ETB2ON.es,ETB2ON.es,https://images.open-epg.com/18750538.png
+Euronews.es,Euronews.es,https://images.open-epg.com/5010.png
+Eurosport1.es,Eurosport 1.es,https://images.open-epg.com/18051999.png
+Eurosport2.es,Eurosport 2.es,https://images.open-epg.com/18052000.png
+EWTN.es,EWTN.es,https://images.open-epg.com/12901070.png
+ExtremeSports.es,Extreme Sports.es,https://images.open-epg.com/17550.png
+FactoriaDeFiccion.es,Factoría de Ficción.es,https://images.open-epg.com/12901071.png
+FailArmy.es,FailArmy.es,https://images.open-epg.com/18549728.png
+FDF.es,FDF.es,https://images.open-epg.com/18052002.png
+FilmYCo.es,Film&amp;Co.es,https://images.open-epg.com/5016.png
+Flooxer.es,Flooxer.es,https://images.open-epg.com/x2081.png
+FoQ.es,FoQ.es,https://images.open-epg.com/x2079.png
+ForensicFiles.es,Forensic Files.es,https://images.open-epg.com/18549642.png
+France24.es,France 24.es,https://images.open-epg.com/17556.png
+France24Fast.es,France 24 Fast.es,https://images.open-epg.com/18549768.png
+FuelTV.es,Fuel TV.es,https://images.open-epg.com/5019.png
+GOL.es,GOL.es,https://images.open-epg.com/17559.png
+GrossOutTV.es,Gross Out TV.es,https://images.open-epg.com/5020.png
+H2OYFriends.es,H2O &amp; Friends.es,https://images.open-epg.com/18549622.png
+HBOMaxAvances.es,HBO Max Avances.es,https://images.open-epg.com/12901074.png
+HeritagePlus.es,Heritage+.es,https://images.open-epg.com/5021.png
+Historia.es,Historia.es,https://images.open-epg.com/5024.png
+HistoriaYVida.es,Historia y Vida.es,https://images.open-epg.com/5023.png
+HolaPlay.es,¡Hola! Play.es,https://images.open-epg.com/18549643.png
+Hollywood.es,Hollywood.es,https://images.open-epg.com/5025.png
+HollywoodPlus1.es,Hollywood +1.es,https://images.open-epg.com/17561.png
+HustlerTV.es,Hustler TV.es,https://images.open-epg.com/5027.png
+i24News.es,i24 News.es,https://images.open-epg.com/17563.png
+IB3.es,IB3.es,https://images.open-epg.com/5028.png
+IberaliaTV.es,Iberalia TV.es,https://images.open-epg.com/12901076.png
+iCarly.es,iCarly.es,https://images.open-epg.com/18549734.png
+IdeasEn5Minutos.es,Ideas en 5 Minutos.es,https://images.open-epg.com/18549753.png
+InazumaEleven.es,Inazuma Eleven.es,https://images.open-epg.com/25841952.png
+INFAST.es,INFAST.es,https://images.open-epg.com/x2076.png
+InformacionTV.es,Información TV.es,https://images.open-epg.com/18750545.png
+InglesTotal.es,Inglés Total.es,https://images.open-epg.com/5031.png
+INTER247.es,INTER 24/7.es,https://images.open-epg.com/18549673.png
+INTROUBLE.es,INTROUBLE.es,https://images.open-epg.com/x2078.png
+INWONDER.es,INWONDER.es,https://images.open-epg.com/x2075.png
+ITAAvanzado.es,ITA Avanzado.es,https://images.open-epg.com/5034.png
+ITAIntermedio.es,ITA Intermedio.es,https://images.open-epg.com/5035.png
+ITAPrincipiante.es,ITA Principiante.es,https://images.open-epg.com/5036.png
+JournyTV.es,Journy TV.es,https://images.open-epg.com/25842065.png
+JustForLaughs.es,Just For Laughs.es,https://images.open-epg.com/18549749.png
+Kidz.es,Kidz.es,https://images.open-epg.com/x2074.png
+KNovelasEnEspanol.es,K-Novelas en Español.es,https://images.open-epg.com/24598317.png
+LA1.es,LA 1.es,https://images.open-epg.com/18052013.png
+La1Catalunya.es,La 1 Catalunya.es,https://images.open-epg.com/17567.png
+La2.es,La 2.es,https://images.open-epg.com/5038.png
+La2Catalunya.es,La 2 Catalunya.es,https://images.open-epg.com/17570.png
+La7.es,La 7.es,https://images.open-epg.com/12901079.png
+La8.es,La 8.es,https://images.open-epg.com/6464440.png
+La8Burgos.es,La 8 Burgos.es,https://images.open-epg.com/17572.png
+La8Mediterraneo.es,La 8 Mediterráneo.es,https://images.open-epg.com/5040.png
+LaAbejaMaya.es,La Abeja Maya.es,https://images.open-epg.com/18549781.png
+LaFiebreDelJade.es,La Fiebre del Jade.es,https://images.open-epg.com/18549626.png
+LaLigaTVBAR.es,LaLiga TV BAR.es,https://images.open-epg.com/6464443.png
+LaLigaTVHypermotion.es,LaLiga TV Hypermotion.es,https://images.open-epg.com/12901085.png
+LaLigaTVHypermotion2.es,LaLiga TV Hypermotion 2.es,https://images.open-epg.com/23444228.png
+LaLigaTVHypermotion3.es,LaLiga TV Hypermotion 3.es,https://images.open-epg.com/23444229.png
+LaOchoTV.es,La Ocho TV.es,https://images.open-epg.com/12901080.png
+LaOtra.es,La Otra.es,https://images.open-epg.com/17574.png
+Las3Mellizas.es,Las 3 Mellizas.es,https://images.open-epg.com/18549700.png
+LaSexta.es,La Sexta.es,https://images.open-epg.com/18750553.png
+LevanteTV.es,Levante TV.es,https://images.open-epg.com/6464445.png
+LOLEspana.es,LOL España.es,https://images.open-epg.com/23395153.png
+LoveThePlanet.es,Love The Planet.es,https://images.open-epg.com/5046.png
+LoveWine.es,Love Wine.es,https://images.open-epg.com/5047.png
+Mega.es,Mega.es,https://images.open-epg.com/5048.png
+MentesInquietas.es,Mentes Inquietas.es,https://images.open-epg.com/x2073.png
+Mezzo.es,Mezzo.es,https://images.open-epg.com/5051.png
+MezzoLive.es,Mezzo Live.es,https://images.open-epg.com/5049.png
+MiCasa.es,Mi Casa.es,https://images.open-epg.com/22283388.png
+MMATV.es,MMA TV.es,https://images.open-epg.com/5054.png
+Motorvision.es,Motorvision.es,https://images.open-epg.com/18549780.png
+MovieMusic.es,Movie Music.es,https://images.open-epg.com/x2077.png
+MovistarAccion.es,Movistar Acción.es,https://images.open-epg.com/x2070.png
+MovistarCero.es,Movistar Cero.es,https://images.open-epg.com/15534232.png
+MovistarCineEspanol.es,Movistar Cine Español.es,https://images.open-epg.com/17585.png
+MovistarClasicos.es,Movistar Clásicos.es,https://images.open-epg.com/12901089.png
+MovistarComedia.es,Movistar Comedia.es,https://images.open-epg.com/17586.png
+MovistarDeportes.es,Movistar Deportes.es,https://images.open-epg.com/17589.png
+MovistarDeportes2.es,Movistar Deportes 2.es,https://images.open-epg.com/12901091.png
+MovistarDeportes3.es,Movistar Deportes 3.es,https://images.open-epg.com/12901092.png
+MovistarDeportes4.es,Movistar Deportes 4.es,https://images.open-epg.com/12901093.png
+MovistarDeportes5.es,Movistar Deportes 5.es,https://images.open-epg.com/12901094.png
+MovistarDocumentales.es,Movistar Documentales.es,https://images.open-epg.com/12901098.png
+MovistarDrama.es,Movistar Drama.es,https://images.open-epg.com/6464415.png
+MovistarEstrenos.es,Movistar Estrenos.es,https://images.open-epg.com/12901101.png
+MovistarF1.es,Movistar F1.es,https://images.open-epg.com/17591.png
+MovistarGolf.es,Movistar Golf.es,https://images.open-epg.com/17593.png
+MovistarGolf2.es,Movistar Golf 2.es,https://images.open-epg.com/12901102.png
+MovistarHits.es,Movistar Hits.es,https://images.open-epg.com/12901104.png
+MovistarIndie.es,Movistar Indie.es,https://images.open-epg.com/12901105.png
+MovistarLaLigaHDR.es,Movistar La Liga HDR.es,https://images.open-epg.com/12901110.png
+MovistarLaLigaTV.es,Movistar La Liga TV.es,https://images.open-epg.com/12901111.png
+MovistarLigaDeCampeones.es,Movistar Liga de Campeones.es,https://images.open-epg.com/6464451.png
+MovistarLigaDeCampeones2.es,Movistar Liga de Campeones 2.es,https://images.open-epg.com/12901122.png
+MovistarLigaDeCampeones3.es,Movistar Liga de Campeones 3.es,https://images.open-epg.com/23444238.png
+MovistarLigaDeCampeones4.es,Movistar Liga de Campeones 4.es,https://images.open-epg.com/23444239.png
+MovistarLigaDeCampeones5.es,Movistar Liga de Campeones 5.es,https://images.open-epg.com/23444240.png
+MovistarMotoGP.es,Movistar Moto GP.es,https://images.open-epg.com/17582.png
+MovistarOrgullo.es,Movistar Orgullo.es,https://images.open-epg.com/19648032.png
+MovistarOriginales.es,Movistar Originales.es,https://images.open-epg.com/12901131.png
+MovistarPlus.es,Movistar Plus.es,https://images.open-epg.com/12901139.png
+MovistarSeries.es,Movistar Series.es,https://images.open-epg.com/x2071.png
+MovistarVacaciones.es,Movistar Vacaciones.es,https://images.open-epg.com/19648034.png
+MovistarVamos.es,Movistar Vamos.es,https://images.open-epg.com/12901134.png
+MovistarVamos2.es,Movistar Vamos 2.es,https://images.open-epg.com/12901133.png
+MovistarVamos3.es,Movistar Vamos 3.es,https://images.open-epg.com/12901100.png
+MTV.es,MTV.es,https://images.open-epg.com/18052040.png
+MTV80s.es,MTV 80s.es,https://images.open-epg.com/x2069.png
+MTVCatfish.es,MTV Catfish.es,https://images.open-epg.com/18549721.png
+MTVCribs.es,MTV Cribs.es,https://images.open-epg.com/18549724.png
+MTVMusic.es,MTV Music.es,https://images.open-epg.com/x2068.png
+Multicine.es,Multicine.es,https://images.open-epg.com/x2067.png
+MundoSeries.es,Mundo Series.es,https://images.open-epg.com/5057.png
+MyPadelTV.es,MyPadel TV.es,https://images.open-epg.com/18549661.png
+MyZenTV.es,MyZen TV.es,https://images.open-epg.com/17606.png
+NatGeoWild.es,Nat Geo Wild.es,https://images.open-epg.com/18052049.png
+NationalGeographic.es,National Geographic.es,https://images.open-epg.com/18052050.png
+Naturescape.es,Naturescape.es,https://images.open-epg.com/x2066.png
+NavarraTV.es,Navarra TV.es,https://images.open-epg.com/12901143.png
+NegociosTV.es,Negocios TV.es,https://images.open-epg.com/12901144.png
+Neox.es,Neox.es,https://images.open-epg.com/18750559.png
+NestingTV.es,Nesting TV.es,https://images.open-epg.com/5063.png
+NHKWorldPremium.es,NHK World Premium.es,https://images.open-epg.com/5065.png
+Nickelodeon.es,Nickelodeon.es,https://images.open-epg.com/18052054.png
+NickJunior.es,Nick Junior.es,https://images.open-epg.com/18052053.png
+Nova.es,Nova.es,https://images.open-epg.com/17615.png
+NOW70s.es,NOW 70&apos;s.es,https://images.open-epg.com/5068.png
+NOW80s.es,NOW 80&apos;s.es,https://images.open-epg.com/5069.png
+NOWRock.es,NOW Rock.es,https://images.open-epg.com/5070.png
+NuestraTele.es,Nuestra Tele.es,https://images.open-epg.com/6464464.png
+Odisea.es,Odisea.es,https://images.open-epg.com/6464465.png
+OficiosPerdidos.es,Oficios Perdidos.es,https://images.open-epg.com/5073.png
+OriginalesPorMPlus.es,Originales por M+.es,https://images.open-epg.com/x2065.png
+ParamountChannel.es,Paramount Channel.es,https://images.open-epg.com/18052057.png
+ParamountNetwork.es,Paramount Network.es,https://images.open-epg.com/17619.png
+PeopleAreAwesome.es,People Are Awesome.es,https://images.open-epg.com/5080.png
+PitufoTV.es,Pitufo TV.es,https://images.open-epg.com/18549769.png
+PlanetaDeCine.es,Planeta de Cine.es,https://images.open-epg.com/5084.png
+PlayboyTV.es,Playboy TV.es,https://images.open-epg.com/6464468.png
+PlutoTVCocina.es,Pluto TV Cocina.es,https://images.open-epg.com/18549725.png
+PlutoTVKids.es,Pluto TV Kids.es,https://images.open-epg.com/18549722.png
+Pocoyo.es,Pocoyó.es,https://images.open-epg.com/5085.png
+PrimeraFederacion.es,Primera Federación.es,https://images.open-epg.com/12901149.png
+Private.es,Private.es,https://images.open-epg.com/5087.png
+ProTVInternacional.es,Pro TV Internacional.es,https://images.open-epg.com/17624.png
+QelloConcerts.es,Qello Concerts.es,https://images.open-epg.com/5088.png
+QuantumMakers.es,Quantum Makers.es,https://images.open-epg.com/22283302.png
+QwestTV.es,Qwest TV.es,https://images.open-epg.com/x2064.png
+RealMadridTV.es,Real Madrid TV.es,https://images.open-epg.com/18052059.png
+RecordNews.es,Record News.es,https://images.open-epg.com/5090.png
+RecordTV.es,Record TV.es,https://images.open-epg.com/17626.png
+Rugrats.es,Rugrats.es,https://images.open-epg.com/18549736.png
+Runtime.es,Runtime.es,https://images.open-epg.com/5103.png
+RuntimeAccion.es,Runtime Acción.es,https://images.open-epg.com/5095.png
+RuntimeASangreFria.es,Runtime A Sangre Fría.es,https://images.open-epg.com/5094.png
+RuntimeClasicos.es,Runtime Clásicos.es,https://images.open-epg.com/5096.png
+RuntimeComedia.es,Runtime Comedia.es,https://images.open-epg.com/5097.png
+RuntimeCrimen.es,Runtime Crimen.es,https://images.open-epg.com/5098.png
+RuntimeFamilia.es,Runtime Familia.es,https://images.open-epg.com/x2063.png
+RuntimeRomance.es,Runtime Romance.es,https://images.open-epg.com/5100.png
+RuntimeSeries.es,Runtime Series.es,https://images.open-epg.com/5101.png
+RuntimeThrillerTerror.es,Runtime Thriller + Terror.es,https://images.open-epg.com/5102.png
+Saten100Espanol.es,Satén 100% Español.es,https://images.open-epg.com/5104.png
+SatenClassy.es,Satén Classy.es,https://images.open-epg.com/5105.png
+SatenLuxury.es,Satén Luxury.es,https://images.open-epg.com/5106.png
+SatenTitanes.es,Satén Titanes.es,https://images.open-epg.com/5107.png
+SICInternacional.es,SIC Internacional.es,https://images.open-epg.com/5109.png
+SICNoticias.es,SIC Noticias.es,https://images.open-epg.com/5110.png
+SinFiltros.es,Sin Filtros.es,https://images.open-epg.com/5111.png
+SkyNewsInternational.es,Sky News International.es,https://images.open-epg.com/18549687.png
+SkyShowtime1.es,SkyShowtime 1.es,https://images.open-epg.com/12901152.png
+SOLMusica.es,SOL Música.es,https://images.open-epg.com/5112.png
+Somos.es,Somos.es,https://images.open-epg.com/6464471.png
+SonyOneExitos.es,Sony One Éxitos.es,https://images.open-epg.com/18549664.png
+SonyOneSeriesComedia.es,Sony One Series Comedia.es,https://images.open-epg.com/18549662.png
+SpaceLive.es,Space Live.es,https://images.open-epg.com/20236806.png
+Squirrel.es,Squirrel.es,https://images.open-epg.com/13113903.png
+STARChannel.es,STAR Channel.es,https://images.open-epg.com/12901153.png
+StingrayClassica.es,Stingray Classica.es,https://images.open-epg.com/x2062.png
+SundanceTV.es,Sundance TV.es,https://images.open-epg.com/6464474.png
+SuperToonsTV.es,SuperToons TV.es,https://images.open-epg.com/18549787.png
+SurfChannel.es,Surf Channel.es,https://images.open-epg.com/18549685.png
+SX3.es,SX3.es,https://images.open-epg.com/6464475.png
+Syfy.es,Syfy.es,https://images.open-epg.com/6464476.png
+Taroteame.es,Taroteame.es,https://images.open-epg.com/17632.png
+TCM.es,TCM.es,https://images.open-epg.com/6464477.png
+TCMPlus1.es,TCM +1.es,https://images.open-epg.com/17633.png
+TeenVee.es,Teen Vee.es,https://images.open-epg.com/18549767.png
+Telecinco.es,Telecinco.es,https://images.open-epg.com/17636.png
+Teledeporte.es,Teledeporte.es,https://images.open-epg.com/18052067.png
+TeleElx.es,Tele Elx.es,https://images.open-epg.com/6464478.png
+Telemadrid.es,Telemadrid.es,https://images.open-epg.com/17639.png
+TelemadridInt.es,Telemadrid Int..es,https://images.open-epg.com/12901159.png
+TeleRibera.es,TeleRibera.es,https://images.open-epg.com/17640.png
+teleSUR.es,teleSUR.es,https://images.open-epg.com/18052070.png
+Teletubbies.es,Teletubbies.es,https://images.open-epg.com/23395154.png
+TelevisionCanaria.es,TelevisiónCanaria.es,https://images.open-epg.com/17642.png
+Ten.es,Ten.es,https://images.open-epg.com/18052071.png
+TennisChannel.es,Tennis Channel.es,https://images.open-epg.com/x2061.png
+ThePetCollective.es,The Pet Collective.es,https://images.open-epg.com/18549726.png
+TodoNovelas.es,Todo Novelas.es,https://images.open-epg.com/5144.png
+ToonGoggles.es,Toon Goggles.es,https://images.open-epg.com/5146.png
+ToonGogglesEN.es,Toon Goggles EN.es,https://images.open-epg.com/5145.png
+TopBarca.es,Top Barça.es,https://images.open-epg.com/19757645.png
+TPA.es,TPA.es,https://images.open-epg.com/18052074.png
+TPA7.es,TPA7.es,https://images.open-epg.com/5148.png
+TPA8.es,TPA8.es,https://images.open-epg.com/5149.png
+TraceBrasil.es,Trace Brasil.es,https://images.open-epg.com/5150.png
+TraceLatina.es,Trace Latina.es,https://images.open-epg.com/5151.png
+TraceSportStars.es,Trace Sport Stars.es,https://images.open-epg.com/5152.png
+TraceUrban.es,Trace Urban.es,https://images.open-epg.com/5153.png
+Trailers.es,Trailers.es,https://images.open-epg.com/5154.png
+TRECE.es,TRECE.es,https://images.open-epg.com/12901164.png
+TV3.es,TV3.es,https://images.open-epg.com/18052082.png
+TV3Cat.es,TV3 Cat.es,https://images.open-epg.com/17651.png
+TV5Monde.es,TV5 Monde.es,https://images.open-epg.com/18052083.png
+TVCanaria.es,TV Canaria.es,https://images.open-epg.com/12901165.png
+TVChile.es,TV Chile.es,https://images.open-epg.com/17646.png
+TVColombia.es,TV Colombia.es,https://images.open-epg.com/18052077.png
+TVEInternacional.es,TVE Internacional.es,https://images.open-epg.com/17656.png
+TVEInternacionalAsia.es,TVE Internacional Asia.es,https://images.open-epg.com/17655.png
+TVG.es,TVG.es,https://images.open-epg.com/5165.png
+TVG2.es,TVG 2.es,https://images.open-epg.com/5164.png
+TVPolonia.es,TV Polonia.es,https://images.open-epg.com/17649.png
+TVRioja.es,TV Rioja.es,https://images.open-epg.com/18750570.png
+UCL.es,UCL.es,https://images.open-epg.com/12901175.png
+VaughanTV.es,Vaughan TV.es,https://images.open-epg.com/x2060.png
+Veo7.es,Veo7.es,https://images.open-epg.com/12901176.png
+VePlusTV.es,Ve Plus TV.es,https://images.open-epg.com/17661.png
+ViajesYSabores.es,Viajes y Sabores.es,https://images.open-epg.com/x2059.png
+VideoGameHeroes.es,Video Game Heroes.es,https://images.open-epg.com/18549684.png
+ViralTV.es,Viral TV.es,https://images.open-epg.com/17663.png
+VivirConGatos.es,Vivir con gatos.es,https://images.open-epg.com/5173.png
+VivirConPerros.es,Vivir con perros.es,https://images.open-epg.com/5174.png
+WarnerTV.es,Warner TV.es,https://images.open-epg.com/12901177.png
+WaterBear.es,WaterBear.es,https://images.open-epg.com/18549742.png
+WeatherSpy.es,WeatherSpy.es,https://images.open-epg.com/5177.png
+WedoBigStories.es,Wedo Big Stories.es,https://images.open-epg.com/5178.png
+XMO.es,X-MO.es,https://images.open-epg.com/5180.png
+XtremSports.es,Xtrem Sports.es,https://images.open-epg.com/5181.png
+XTRM.es,XTRM.es,https://images.open-epg.com/6464499.png
+YuGiOh.es,Yu-Gi-Oh!.es,https://images.open-epg.com/18549714.png
+ZenLIFE.es,ZenLIFE.es,https://images.open-epg.com/5183.png
+ZTV.es,ZTV.es,https://images.open-epg.com/17666.png
+ZUTTV.es,ZUT TV.es,https://images.open-epg.com/5184.png
