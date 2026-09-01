@@ -185,7 +185,7 @@ ESPN 2,ESPN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/i
 ESPN 3,ESPN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
 ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
 SkySports1.mx,Sky Sports 1 MX,https://i.postimg.cc/g0DD2NHP/skysports1.png
-SkySports16.mx,Sky Sports 16 MX,https://i.postimg.cc/RV4Zcd7z/skylaliga.webp
+Sky Sports 16,Sky Sports 16 MX,https://i.postimg.cc/RV4Zcd7z/skylaliga.webp
 SkySports24.mx,Sky Sports 24 MX,https://i.postimg.cc/rFfM5kyT/skybundesliga.webp
 FOX SPORTS PREMIUM.mx,Fox Sports Premium,
 Azteca7.mx,Azteca 7,https://i.postimg.cc/LXPfc5Wj/IMG-20260227-142913.png
