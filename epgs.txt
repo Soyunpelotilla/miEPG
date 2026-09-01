@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV
 https://i.mjh.nz/SamsungTVPlus/es.xml.gz
 https://www.open-epg.com/files/mexico2.xml.gz
 https://www.open-epg.com/files/colombia2.xml.gz
+https://rdjytkjhv.pages.dev/epg/dsports.xml
 https://iptv-epg.org/files/epg-us.xml.gz
 https://iptv-epg.org/files/epg-gb.xml.gz
 https://iptv-epg.org/files/epg-de.xml.gz
