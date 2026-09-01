@@ -184,9 +184,8 @@ ESPN,ESPN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/
 ESPN 2,ESPN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png
 ESPN 3,ESPN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
 ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
-SkySports1.mx,Sky Sports 1 MX,https://i.postimg.cc/g0DD2NHP/skysports1.png
-Sky Sports 16,Sky Sports 16 MX,https://i.postimg.cc/RV4Zcd7z/skylaliga.webp
-SkySports24.mx,Sky Sports 24 MX,https://i.postimg.cc/rFfM5kyT/skybundesliga.webp
+SkySports1.mx,Sky Sports 1 MX,https://iptv-epg.org/images/i__M6UumcLJgY6QqFCGsA2Idj4Qj2xxhFFQlZBjI1r5ibee3eseGnrn0z13MLrwgtmMIMvNvpXlxww0VbnLWFJiVUTUTxypK9hyVMLG_GLzOIVw
+SkySports16.mx,Sky Sports 16 MX,https://iptv-epg.org/images/x_s1qxicw_tuE5dr-EulcCn-RivbCq_UBa6daLWgBiMfvd2gm--J82j86jS68cc7ZNzr6gj4m5MbkvQOEj5MIUQ5L9h7JwKK6Q8BFeW4pXquJj1x
 FOX SPORTS PREMIUM.mx,Fox Sports Premium,
 Azteca7.mx,Azteca 7,https://i.postimg.cc/LXPfc5Wj/IMG-20260227-142913.png
 CANAL 5.mx,Canal 5 MX,https://iptv-epg.org/logos/Mexico/Canal5.mx.png
