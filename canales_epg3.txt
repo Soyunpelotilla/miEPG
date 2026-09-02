@@ -1,2 +1,0 @@
-# Fuente: https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg42.xml.gz
-13de.ar,13 de,https://logo.m3uassets.com/eltrece.png
