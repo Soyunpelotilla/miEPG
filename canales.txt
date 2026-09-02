@@ -185,8 +185,7 @@ ESPN,ESPN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/
 ESPN 2,ESPN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png
 ESPN 3,ESPN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
 ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
-SkySports1.mx,Sky Sports 1 MX,https://iptv-epg.org/images/i__M6UumcLJgY6QqFCGsA2Idj4Qj2xxhFFQlZBjI1r5ibee3eseGnrn0z13MLrwgtmMIMvNvpXlxww0VbnLWFJiVUTUTxypK9hyVMLG_GLzOIVw
-I446.52300.schedulesdirect.org,Sky Sports LaLiga,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52300_dark_360w_270h.png
+155368,Fox,https://emby.tmsimg.com/assets/GNLZZGG0027PYSD.png
 FOX SPORTS PREMIUM.mx,Fox Sports Premium,
 Azteca7.mx,Azteca 7,https://i.postimg.cc/LXPfc5Wj/IMG-20260227-142913.png
 CANAL 5.mx,Canal 5 MX,https://iptv-epg.org/logos/Mexico/Canal5.mx.png
