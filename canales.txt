@@ -205,7 +205,7 @@ FoxSports2.ar,FOX SPORTS 2 AR,https://images.open-epg.com/16782312.png
 FoxSports3.ar,FOX SPORTS 3 AR,https://images.open-epg.com/16782313.png
 TVPublica.ar,TV Publica,https://iptv-epg.org/logos/Argentina/TVPublica.ar.png
 Telefe.ar,Telefe,https://iptv-epg.org/logos/Argentina/Telefe.ar.png
-DSports.co,DSPORTS CO,
+DSports.co,DSports.co,
 ESPN.co,ESPN CO,
 ESPN 2.co,ESPN 2 CO,
 ESPN 3.co,ESPN 3 CO,
