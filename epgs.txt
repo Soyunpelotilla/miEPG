@@ -1,7 +1,8 @@
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor.xml.gz
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
 https://cdn.epg.guru/7daygracenote/Mexico.xml
-https://cdn.epg.guru/7daygracenote/Colombia.xml
+https://www.open-epg.com/files/colombia2.xml.gz
+https://rdjytkjhv.pages.dev/epg/dsports.xml
 https://iptv-epg.org/files/epg-us.xml.gz
 https://iptv-epg.org/files/epg-gb.xml.gz
 https://iptv-epg.org/files/epg-de.xml.gz
