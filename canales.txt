@@ -124,7 +124,6 @@ Calle 13 HD,Calle 13,https://raw.githubusercontent.com/davidmuma/picons_dobleM/m
 Cosmo HD,Cosmo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png
 SyFy HD,SyFy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png
 Canal Hollywood HD,Canal Hollywood,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png
-SkyShowtime,SkyShowtime 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png
 AMC HD,AMC,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png
 AMC Break,AMC Break,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png
 AMC Crime,AMC Crime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png
@@ -146,7 +145,6 @@ BBC Earth,BBC Earth,https://raw.githubusercontent.com/davidmuma/picons_dobleM/ma
 NatureTime,NatureTime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png
 Love the Planet,Love the Planet,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20the%20Planet.png
 Thrillers (Rakuten TV),Thrillers (Rakuten TV),https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/5728a608-5527-4d19-a4cc-18ca9f019688.png
-ESBA2200004G5,MyTime Movie Network,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20260127T040117SQUARE.png
 Cine Español (Rakuten TV),Cine Español (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2da65634-f27e-48f9-8f3b-a03bd31cbade.png
 Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV),https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6a3d067c-8cb2-4581-84e1-f284ee948e3a.png
 Películas de Drama (Rakuten TV),Películas de Drama (Rakuten TV),https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ee3c242a-398d-4d9e-9a79-c8c6427278c0.png
