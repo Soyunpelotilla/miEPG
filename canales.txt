@@ -178,7 +178,6 @@ FOX SPORTS 3,FOX SPORTS 3,https://raw.githubusercontent.com/davidmuma/picons_dob
 SkySports1.mx,Sky Sports 1 MX,https://iptv-epg.org/images/i__M6UumcLJgY6QqFCGsA2Idj4Qj2xxhFFQlZBjI1r5ibee3eseGnrn0z13MLrwgtmMIMvNvpXlxww0VbnLWFJiVUTUTxypK9hyVMLG_GLzOIVw
 SkySports16.mx,Sky Sports 16 MX,https://iptv-epg.org/images/x_s1qxicw_tuE5dr-EulcCn-RivbCq_UBa6daLWgBiMfvd2gm--J82j86jS68cc7ZNzr6gj4m5MbkvQOEj5MIUQ5L9h7JwKK6Q8BFeW4pXquJj1x
 SkySports24.mx,Sky Sports 24 MX,https://iptv-epg.org/images/wAyadYeUA-lIf3Mti7DxpIxG_rZYKf0jW-3f9m6n4PrbavqpmQAhrGsJvZ01kim2LcwyvVvh4oBZF-48nhATtO7ZzC1MwqQxtZwdCgHl8u2BvmK7
-
 ESPN,ESPN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png
 ESPN 2,ESPN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png
 ESPN 3,ESPN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
