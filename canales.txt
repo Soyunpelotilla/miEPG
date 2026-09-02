@@ -45,7 +45,6 @@ M+ Deportes 6,M+ Deportes 6,https://raw.githubusercontent.com/davidmuma/picons_d
 M+ Deportes 7,M+ Deportes 7,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png
 M+ Deportes 8,M+ Deportes 8,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%208.png
 M+ Golf HD,M+ Golf,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png
-M+ Golf 2 HD,M+ Golf 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png
 DAZN F1 HD,DAZN F1,https://i.postimg.cc/NMyFk1DQ/daznf1.png
 DAZN 1 HD,DAZN 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png
 DAZN 2 HD,DAZN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png
@@ -97,12 +96,9 @@ La Otra,La Otra,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master
 Real Madrid TV,Real Madrid TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png
 Betis TV,Betis TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png
 TV3,TV3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png
-TV3CAT Catalunya,TV3CAT Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3CAT%20Catalunya.png
 Esport 3,Esport 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png
 Canal Sur Andalucía,Canal Sur Andalucía,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png
 CMM TV,CMM TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png
-À Punt,À Punt,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png
-Punt 3,Punt 3,https://www.punt3.es/android-icon-192x192.png
 Aragón TV,Aragón TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png
 Aragón TV Internacional,Aragón TV Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png
 TV Canaria,TV Canaria,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Canaria.png
@@ -179,6 +175,10 @@ TUDN (México),TUDN (México),https://raw.githubusercontent.com/davidmuma/picons
 FOX SPORTS,FOX SPORTS,https://iptv-epg.org/logos/Mexico/FOXSports.mx.png
 FOX SPORTS 2,FOX SPORTS 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png
 FOX SPORTS 3,FOX SPORTS 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%203.png
+SkySports1.mx,Sky Sports 1 MX,https://iptv-epg.org/images/i__M6UumcLJgY6QqFCGsA2Idj4Qj2xxhFFQlZBjI1r5ibee3eseGnrn0z13MLrwgtmMIMvNvpXlxww0VbnLWFJiVUTUTxypK9hyVMLG_GLzOIVw
+SkySports16.mx,Sky Sports 16 MX,https://iptv-epg.org/images/x_s1qxicw_tuE5dr-EulcCn-RivbCq_UBa6daLWgBiMfvd2gm--J82j86jS68cc7ZNzr6gj4m5MbkvQOEj5MIUQ5L9h7JwKK6Q8BFeW4pXquJj1x
+SkySports24.mx,Sky Sports 24 MX,https://iptv-epg.org/images/wAyadYeUA-lIf3Mti7DxpIxG_rZYKf0jW-3f9m6n4PrbavqpmQAhrGsJvZ01kim2LcwyvVvh4oBZF-48nhATtO7ZzC1MwqQxtZwdCgHl8u2BvmK7
+
 ESPN,ESPN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png
 ESPN 2,ESPN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png
 ESPN 3,ESPN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
@@ -190,9 +190,6 @@ ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/i
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
-TNTSportsPremium.ar,TNT Sports Premium,https://images.open-epg.com/x1007.png
-TyC Sports,TyC Sports,https://r2.thesportsdb.com/images/media/channel/logo/8wjzn31605555626.png
-TyCSports2.ar,TyC Sports 2,https://iptv-epg.org/logos/Argentina/TyCSports2.ar.png
 Espn.ar,ESPN AR,https://images.open-epg.com/25689.png
 Espn2.ar,ESPN 2 AR,https://images.open-epg.com/25683.png
 Espn3.ar,ESPN 3 AR,https://images.open-epg.com/25684.png
@@ -201,8 +198,6 @@ Espn6.ar,ESPN 6 AR,https://images.open-epg.com/x962.png
 FoxSports.ar,FOX SPORTS AR,https://images.open-epg.com/x972.png
 FoxSports2.ar,FOX SPORTS 2 AR,https://images.open-epg.com/16782312.png
 FoxSports3.ar,FOX SPORTS 3 AR,https://images.open-epg.com/16782313.png
-TVPublica.ar,TV Publica,https://iptv-epg.org/logos/Argentina/TVPublica.ar.png
-Telefe.ar,Telefe,https://iptv-epg.org/logos/Argentina/Telefe.ar.png
 DSports.co,DSports.co,
 ESPN.co,ESPN CO,
 ESPN 2.co,ESPN 2 CO,
@@ -211,10 +206,6 @@ ESPN 4.co,ESPN 4 CO,
 ESPN 5.co,ESPN 5 CO,
 ESPN 6 HD.co,ESPN 6 CO,
 ESPN 7 HD.co,ESPN 7 CO,
-Univision.us,Univision East,https://iptv-epg.org/logos/USA/Univision.us.png
-UnivisionWest.us,Univision West,https://iptv-epg.org/logos/USA/UnivisionWest.us.png
-UnivisionWXTV.us,Univision WXTV,https://iptv-epg.org/logos/USA/UnivisionWest.us.png
-UniMas.us,UniMas,https://iptv-epg.org/logos/USA/UniMas.us.png
 UNIVERSO.us,Universo,https://iptv-epg.org/logos/USA/UNIVERSO.us.png
 Telemundo.us,Telemundo East,https://iptv-epg.org/logos/USA/Telemundo.us.png
 TelemundoWest.us,Telemundo West,https://iptv-epg.org/logos/USA/TelemundoWest.us.png
@@ -223,20 +214,15 @@ FoxSports1.us,FOX SPORTS 1 US,https://iptv-epg.org/logos/USA/FoxSports1.us.png
 FoxSports2.us,FOX SPORTS 2 US,https://iptv-epg.org/logos/USA/FoxSports2.us.png
 ESPN.us,ESPN US,https://iptv-epg.org/logos/USA/ESPN.us.png
 ESPN2.us,ESPN 2 US,https://iptv-epg.org/logos/USA/ESPN2.us.png
-LaLigaTVEspanol.us,LaLiga TV US,https://iptv-epg.org/logos/UK/LaLigaTVEspanol.us.png
 UK | TNT Sports 1,UK | TNT Sports 1,https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png
 UK | TNT Sports 2,UK | TNT Sports 2,https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png
 UK | TNT Sports 3,UK | TNT Sports 3,https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png
 UK | TNT Sports 4,UK | TNT Sports 4,https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png
-UK | Sky Sports +,UK | Sky Sports +,https://tv.assets.pressassociation.io/d55ab11f-7aca-5e2b-b620-bf147b49744c.png
 UK | Sky Sports Football,UK | Sky Sports Football,https://tv.assets.pressassociation.io/c7c1f241-4754-502b-aa34-24fc98aba436.png
 UK | Sky Sports Main Event,UK | Sky Sports Main Event,https://tv.assets.pressassociation.io/4a35f45e-79c6-5da0-b2fb-c9192eb9f24b.png
 UK | Sky Sports Premier League,UK | Sky Sports Premier League,https://tv.assets.pressassociation.io/2a51b9ff-b27d-53dc-be74-aac95ecd291e.png
-UK | Sky Sports Cricket,UK | Sky Sports Cricket,https://tv.assets.pressassociation.io/a7d89d33-c1ac-5323-9c3e-aa9a0c7aa367.png
 UK | Premier Sports 1,UK | Premier Sports 1,https://tv.assets.pressassociation.io/c45c421e-6415-5530-a3ae-9667368d1422.png
 UK | Premier Sports 2,UK | Premier Sports 2,https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png
-LaLigaTV.uk,LaLiga TV UK,https://iptv-epg.org/logos/UK/LaLigaTV.uk.png
-DE | Sky Sport Top Event,DE | Sky Sport Top Event,https://images.tvtoday.de/sender/small/skyste.png
 DE | Sky Sport F1,DE | Sky Sport F1,https://images.tvtoday.de/sender/small/skyf1.png
 DE | Rally TV,DE | Rally TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png
 DAZN1.de,DE - DAZN 1,https://iptv-epg.org/images/E8gJZ4iWs8XTvzMoLg5ZpzD3ydRWv6fDTgjdtS5kvKnjSXRLCZAgxtNuDidDge8-k3AeuMJ71g0K8XI1wD1N32wpzxgaLDUb_Xq9EGdc8g
