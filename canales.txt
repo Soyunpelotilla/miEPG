@@ -186,10 +186,6 @@ ESPN 2,ESPN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/i
 ESPN 3,ESPN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
 ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
 155368,FOX MX,https://emby.tmsimg.com/assets/GNLZZGG0027PYSD.png
-160692,Sky Sports 1 MX,https://emby.tmsimg.com/sources/generic/generic_sources_h5.png
-160690,Sky Sports 21 MX,https://emby.tmsimg.com/sources/generic/generic_sources_h5.png
-160691,Sky Sports 24 MX,https://emby.tmsimg.com/sources/generic/generic_sources_h5.png
-52300,Sky Sports LaLiga,https://emby.tmsimg.com/assets/s52300_ld_h9_aa.png
 123582,Fox Sports Premium,https://emby.tmsimg.com/assets/s123582_ld_h15_aa.png
 16464,Azteca 7 MX,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 16463,Canal 5 MX,https://emby.tmsimg.com/assets/s116152_ld_h15_aa.png
