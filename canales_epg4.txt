@@ -1,175 +1,152 @@
-# Fuente: https://iptv-epg.org/files/epg-mx.xml.gz
-A&amp;E.mx,MX - A&amp;E,https://iptv-epg.org/images/VcDTfP8gRuLGWxdPT0fvFImTqhgeuTri1ds28ixhj4hgNeZL49ANquiRaSFcuhYqaFJ4gZNRyvzyc2oTyrJJHDvEumO0UvO2yPfFUH-d
-A+.mx,MX - A+,https://iptv-epg.org/images/DFQ3fQzwRzbMBKxDwxBWr4qgoQP8Ps0CQ2D2XLDmun5PFWc3kJDckLZGJnKvrlGps-30gpvl0_dP2oskPGIGXKeL0bGso-ItreiNxAY
-adn40.mx,MX - adn40,https://iptv-epg.org/images/ADBN1fq3hOsfMtZnXz0wiQGUDCaLvwX-tf5ewuQQOZVT9-yufrJK1m44MggceOzp5z-4PK4hwvOKe5YAtsc0F-qzTmRqbX5bpc38IAHx
-AMC.mx,MX - AMC,https://iptv-epg.org/images/qLCLhpsRDIzf8Plvy1zwxKGb1DTzs33p6UgOoH1c9mn1_Yf6yU4dZzUiIveVGKgx_DHGHJp4866ra0mQblUQY9FL4Oi1x_oL7FkG3A
-AnimalPlanet.mx,MX - Animal Planet,https://iptv-epg.org/images/vkI7yd4xt_RpCrx6r21kPnCscWGBs3BpSAEfi-jTTqEC-2dWEjIRJZbm11wYLrIds1FX5KsKUvonONTSpF_6TOQGmRrEDkHvadv0WdJG1LC_Ah_XXQ
-ASN.mx,MX - ASN [Adrenalina Sports Network],https://iptv-epg.org/images/qRuZfjLfBVAQoOKk5MWM7C5bVPlIUOx5QpyjETcg5hSDT5B09lHuyXtiD9r3mIjPHzhMESeChgaxINi40aMfjm1YInDP8oKZtye6Lg
-AXN.mx,MX - AXN,https://iptv-epg.org/images/8D-Gq1JJxGLN4TEjfIzhm_ltYeq0LnpfDleH8_ydnAAS9t1sG4OP59kJs1f5wUFvfc9suObUpdOXBIOeLFaDy3-kVxExTs-zVgt5Cw
-AYMSports.mx,MX - AYM Sports,https://iptv-epg.org/images/rKekuBLIwPixJbCPb0-hwVLyMJcuqKm5gURmWIX1g37bZeWkFXnuFY5OcHY62nNxQ2i0dar2MrGL7yLKz42rnXBVU6Sps7prkxR2LTucQGeSNQ
-Azteca7.mx,MX - Azteca 7,https://iptv-epg.org/images/JvoZXsuwnPjc4vg3gV_andEtTcrP6QlTzilCUzwlv8wrIog5Yb--a0FFT_4RIwMgNiBnnN85TstPOBYb9p20XY2jsBKCyaBlFN_SqA3HIhM
-Azteca13.mx,MX - Azteca 13,https://iptv-epg.org/images/USg1qZ6V6sJi0Rc4FUP4-hV2INQCOrTKcjGu3NdOOYpAY5qWjOFjdS8hi9sjLvwE9wNx4kFID7dzJnpiJ2thqRE3Sp9XMlwbPgvwLR2KTpzo
-AztecaUno.mx,MX - Azteca Uno,https://iptv-epg.org/images/AP9vXjbBBVbU_jPtdkBUh0_S18KDIY0Udol-wdTBY1YVQ-eZbxXxn1VCZp53pDw3pv1V9ijDLps6Hj_sqw9lAVbXIW_i3cAjA4uNeSQRheFeKQ
-AztecaUno-1.mx,MX - Azteca Uno -1,https://iptv-epg.org/images/YJv2uE51rg_hCEKL8b3tqHJy1vbYWCi3tk34ub0AcxHZ6WFvi3zIWjEESx7ZIjaDH5kQbdGsym9JuwVUDTc6yoy0wKypsPLmdGKD5QtEC4PK7JoW
-AztecaUno-2.mx,MX - Azteca Uno -2,https://iptv-epg.org/images/5lUBmTVXRvq3-YAsgwLfPO8A_UHjgB57--NSA6C4Qfhc1fAwEQse8H-XGPsI8L954HganozbSl4MBkgcaPozgHzIa6t8XV_brimYBWH_ASqdID8m
-BabyTV.mx,MX - Baby TV,https://iptv-epg.org/images/orA9tCRoPGeGynV4KZXPF8sZoYKGUYDt59EPNF2p7J_L1iQyB7BudUIZ_kG9MGPu5Aemnpn18GxANQDpyV63n_BJN4ndchWEXPyQ9S1wlA
-Bandamax.mx,MX - Bandamax,https://iptv-epg.org/images/SVskjEdNtuEjSnBwQaULmsBZ94oaX_Pio_XSqe9m6zjc3WMH1sq_-GhbYElGjkkZB2D1w4pkGgyFHBxhcZINwDIlxgqgfVINIs4MZwRv4E46
-bitMe.mx,MX - bitMe,https://iptv-epg.org/images/tgQHQwc28giXdPIHaWrWnIzO6cRchgVaUoOgcXzUHu5yc7VOb5poykJi92_MpgW0ZoECFD95P82zPueQqXASI6pSNtMMDzeKKxsSPXCQ
-Canal4.mx,MX - Canal 4,https://iptv-epg.org/images/emVhG7CW5OR2plnjjxsP97rPfjSiIJ-jbyjApJmaaqTVW-c5dLG_rNlDdmXomwB-KO_g_qM7n77zbhNY47jnzLNzb5Tss9qENH5YH3PvKw
-Canal4TelevisaMexicali.mx,MX - Canal 4 Televisa Mexicali,https://iptv-epg.org/images/oJSfSU60rOyvRTcPdrHQqDZBYEENM38sF8X9McD5Yo1PQWRZK-5YqbpxMs2AZ8mWv1KTF8nkeZh7NBCtyX3rPPFsP1OcgMBvuBDxDGSXqNBjv_tY21bfVt7HS-5yaPk
-Canal5.mx,MX - Canal 5,https://iptv-epg.org/images/jQnQYLInVH7MB99Vt78IZh5j1KYs4wCZCmF1lCJN87u_f1lQVYXuPlbAUSFQZcB7AOdvQ7SmTs4B6DDXElRDvUBS2vfSV7bO3Hcmk1Sy3g
-Canal5Galavision.mx,MX - Canal 5 Galavision,https://iptv-epg.org/images/VFNh_aB9nrBOBjEVKC08ae-a21aOzYm1G7-utSNd2juj5uHzaSgOM8lpqrZu-NoMPtziJinsA-oHP8he6VLqxU7QMrWpjTfv8ysoZdpAyWPKCwBr9RfBzmk
-Canal6CDMX.mx,MX - Canal 6 CDMX,https://iptv-epg.org/images/6Auk-WnCFAvrbyrmjeoJHBtAyCdUXh_EKh1-GyWK_EhwmeiDdM153z199jlaz0iR3FA2LAiHNOEhoPXtN2lhhF9ie7BFyKmTyVCX-vLt9CgxeMg
-Canal6MultimediosMonterrey.mx,MX - Canal 6 Multimedios Monterrey,https://iptv-epg.org/images/JHR_0UbJdVPFLqAJxLvUQ5Fy399b4XReyiBY3J2PWh_rO4odORxMVvkngYm_k133v_bRA598kTEp6QWk-Y3p0v9kn1JoDKt0gJK1aEmhjQ1vDYLCO_j4yxwzO6oExhFXGbxw
-Canal12TelevisaTijuana.mx,MX - Canal 12 Televisa Tijuana,https://iptv-epg.org/images/6I6j_FCKOOTKZYiC-IAaCfdcbpVkizbw68dAUWbtP4m0XDaVQWonKu1k6fZDGPpm4AEiBp5gLdtTBwIxgQHxNYxz9Qw7znx6RsHS7BO8NdiJ5VPxgIX9tdmJ2YHhh-g
-Canal14.mx,MX - Canal 14,https://iptv-epg.org/images/DfXkxV-939ociQQ4tpVZqPl1yVPs9UyQbCFg5SjPbW5q7_BQUXcmT9R9oe15MAPzaEuv6O9-L_e1-aX2vLRI5-y6qPWhAXx1yuDwX7im-to
-Canal22.mx,MX - Canal 22,https://iptv-epg.org/images/wH5P9_wey373HwvsSWknH15Z2pU7CN-66-7mIRGIXbtUlYTqqA4O6wozzxvIGvyTnOrhHj02XQIA7r0NQWr9wEPAE3lTHfUx65FkCQ1qx3o
-Canal44-udgtv.mx,MX - Canal 44 - udgtv,https://iptv-epg.org/images/zi1UytVIyIDvfB2w8YJjrJUunHS265Kp11EHIZfhYJQ0-GOkB48JUqqDPA22oXJifvyk3aNmLGYxV3IqB1bEnauY0dclsrTy155eRXix7xyusl7glbw
-CanalDelCongreso.mx,MX - Canal Del Congreso,https://iptv-epg.org/images/vbgWD2q4ravTPLLP-TTA518OdfhwpHhKRpKrAty51_A59fgURXNNwEAf4eKd0EfNpV20N5aAy5PyEz9524m9HftHA8pkWDxMUs8ze6FuGuuuodnh8QMWOsQ
-CanalMexiquense.mx,MX - Canal Mexiquense,https://iptv-epg.org/images/pBgXgzgBBKEJZ1BJmHkzqrAmehH9AHhYMJnU0ILxr_x3gOr8WU5RdgCoMRjvPKMh0j_aAJOzgeq4zL9iust_GDXN22vaa0f2dbR4Odn6daTMDxuSFFWhog
-CanalNU.mx,MX - Canal NU,https://iptv-epg.org/images/O1tax7bFXPrVoltyhHlfDP-3rtdNW2kTfAoB6EkFEPzb2LDm8Da9v-cGwTkMR3V-_4CcrvH6s218zYIwBXlbtCaoSUAZEKd0Z2gppn4Ul1Y
-CanalOnce.mx,MX - Canal Once,https://iptv-epg.org/images/Rs82drCMaij586gjO4z8cFXgHPsBXeH4Fmp1MzBijzab4QJWwTVQPDN0RsLnPXQsB4QbF5SpH6JQmPadokgtpFQeD4GjH4PfjGg8TgA5ksjT3w
-CartoonNetwork.mx,MX - Cartoon Network,https://iptv-epg.org/images/aQJ-u8qfDffU_xnja5nF2NtsESSIHIO2P6UfC7sMLsON5eiFc-bkjBr5I8_kpcGobxiagXf89-euUFR1bFCHAcPZ2IE7T3Ypq9QeOWptmiUkHOMA1ueG
-Cartoonito.mx,MX - Cartoonito,https://iptv-epg.org/images/8p0p-LdijxdBmkeF_qZ8kGEVdWgRVVdsrRi_hrlTgtm_THilVktMdauth6wrVfAeOAJGsd6rIed0Uh2r7cw6kS4uDp2-HHDHsufwzz3OpyemcMI
-CineLatino.mx,MX - Cine Latino,https://iptv-epg.org/images/qbuuTYOgIhv0vn9MytpNnVB6a687-FZ1A8_S8wOZIhxyk4WFC5skZ2zV1a6Fk_CZpFx0_Va1QyLiMF0GeWIUU31Vz20bzLZjWRoIUdtzbrCdcVw
-CineMexicano.mx,MX - Cine Mexicano,https://iptv-epg.org/images/Icj5sX7tadB07RnE3pL90JPDruprROSOhWUcyZ-9TB0Oh4VJzR6mGiRDAKK6BYI2lOx8KN7p3pOJsftu7jZxdEPJlGCJ669f5RhLOro5HWX4dmJG5g
-Cinecanal.mx,MX - Cinecanal,https://iptv-epg.org/images/wXS_NPRoIhhzXIhOqPYQdZrVOALWpf5lVubkIYo94iVOVQUm7aXnKvKqAnM8nbc-Gr4OtL5Pz1PPSqPjBiCKYD1Ocwhr9VdasZjl32op_oOxDg
-Cinemax.mx,MX - Cinemax,https://iptv-epg.org/images/bdiv_z_x--HZi3fK6WJaGjTsr7eBjSzAjUJtytf_u-iffcoHuD9WntF42eOypfBUtDDdGP0GG9zFS0kyT3vPGBOMlwVCvrsaatZfa781GgU
-CNN.mx,MX - CNN,https://iptv-epg.org/images/SW3a9gQaoARq7K_s0OypXec-e3qz7phKSHyn_254XdOjRfl0OhQE4N_XekrWv0klHSFfRnP5XX0W7i5WNBgXnD6KN2XAvXJ9M_8rpA
-CNNInternational.mx,MX - CNN Internacional,https://iptv-epg.org/images/bqI0rn0nVeJR5Wp5k58J-oGZcnV4UVLvkqwcX738rMlC4PlEemO61Cp2S3khoFe7-1aPxLggPwkYXaVU-jwplNlrI4SfH-MhvCMJgrd7iARDz1oAKuY4_fg
-ComedyCentral.mx,MX - Comedy Central,https://iptv-epg.org/images/oKxa7QB5G7pSx5UI1_s1oV0fvF7Gk-N1x9l-acmfkoqMXPzlacnxzfHBs2asr3DE9BZjt3P-6SaGzm2JjFDG-q-sNPLtNW0UfEyKF_mEoielDbchmqA
-Discovery.mx,MX - Discovery,https://iptv-epg.org/images/FtZwzGFpikksbcMZ-FFyIxxCikFhyU8JVowffkVz2qbRjO56R221hn-5zVKUWqnOLQVZQs9Bu86DXwmlBQgr11tELu6FYlsk862ED0sqDaqOWQ
-DiscoveryChannel.mx,MX - Discovery Channel,https://iptv-epg.org/images/LwP--1EpDu9vTSBCeZSgxVVGwXb_anKO2Wr5e5yT6GZ9Msaqm2n5rUEXm6N0ndQ8OXm0Ww5QM7s_JrrsxRAXHe61H2yKsmBhIRKLKmRCMguJ5W9DyY-6k4w
-DiscoveryHome&amp;Health.mx,MX - Discovery Home &amp; Health,https://iptv-epg.org/images/hieY1KCg890JIGzoxxE_lc9B5tmbGTAukbCJxsSX4aqvNNKtdLkttHv2VX4TnaLYniQXF30Rpbu_S8zKT71GNgMtLHoQP-QvV1ELi8-QFELr4TLkymv4PAfHHW7todA
-DiscoveryKids.mx,MX - Discovery Kids,https://iptv-epg.org/images/I6UVZC0Src1Og1Q2OsgD0mfCJIA7CZ7ugryFkw-Ci6D5_235YrP-k9bCwaChBRCOPVD5Jz_KcY69AlJcMgzhfpyTC4zZDV4UiZwt5AaQDll4uXLZJtE
-DiscoveryScience.mx,MX - Discovery Science,https://iptv-epg.org/images/JxMKNxBj5tErsCgy_Tuh752r0XNtqoRGxcS2SM37fwn97erITte4w_A4nwoTRS-L0RbAHqBxgMO2X7dimuDxZjDEAuLTR0hzKK7EOfMovBxNfg4EBf3O8uw
-DiscoveryTheater.mx,MX - Discovery Theater,https://iptv-epg.org/images/xmkFzJ8rqORLejGGnv6QwGIBMYin4c5o45Z3vmaNjqYsFRd1hYvmvAriPxi_qR3mHYjxifvPv8whRptGrlWXwGW9At0j9p86dxmVCPaktcGCp6sypLKiVXA
-DiscoveryTurbo.mx,MX - Discovery Turbo,https://iptv-epg.org/images/TiM86ytmLJnd3NoFgWBv9sOs34TUUl_phMvHH7AENt0H8l9kvwk8hQN4TBzDwI5WdK_QilNHJN7yCnqbeAmHwAPWL3G8V4WRtQLpcIwtBEG7yD18gIhw
-DiscoveryWorld.mx,MX - Discovery World,https://iptv-epg.org/images/_LxwwlQP8DcEE0DVoENho-jfjrmGuRAmIlbcUhX6oT2oQKK25ep6hfG7w1NdN5aXMvq3xkdHesNZVLmkL3EbAC1UXIkKJlQ3xZMD_DsnnxNUbQ1DLAAZ
-DisneyChannel.mx,MX - Disney Channel,https://iptv-epg.org/images/WCxmjQdSeKrkXt-Bq_uv1utKl1iVKF34x4PdarXOXG6J3_FZP6QObOHafGvJnibVHvXWWJiMIyDId9Q01j-c7bWUnPzCmJjs-mqTh7YH5qFg8ytvrRc
-DisneyJunior.mx,MX - Disney Junior,https://iptv-epg.org/images/t3keq0nuPwBeK-v2F92mj-6UI5IL9RgUCgjGf9ldKWJz2L6JLzeVkIGHUGgI-Jd7y7HHZInwLgtthGwyUSDZziqS1wt65aBi5HO_U-Sawe2EUDQrjQ
-DisneyXD.mx,MX - Disney XD,https://iptv-epg.org/images/ONgugc95Yfq5Ulsk-T7yKbwcJBkQkMQC95FTw2Y26qnkJ1wrci8RsygziqB0okhY5P9E_ZCQbjtcQtwgip3UtY0UOVnmsc2o0u87xMYDWF4V
-DistritoComedia.mx,MX - Distrito Comedia,https://iptv-epg.org/images/OOoNprU9OnMJc0bZQkGpcdkF9jryy0HGmtdKUN6luGHKvvikdVWis6O2D7E4Crw5qVZlZ_t8I32cR6lTQo0SSfMFrbp6tFpyS_t9p78XBpi84mwfRHWeiA
-E!.mx,MX - E!,https://iptv-epg.org/images/64HgzAYXbQiEJcoYeZj8JQ-G4MVxvNK9Mb-Ko71S-y6RiZ3gIX-aSWaOcXALAZ0zP8Vc2ns7Y7fa3QAtNyfEOrXJf9twNih6y9ww8o0
-ElFinancieroBloomberg.mx,MX - El Financiero Bloomberg,https://iptv-epg.org/images/GRxxFlsF2Bo59ZM626IuBw4RiuhEix3TTO-QL_g4V7DCZzQlblgLU2PY5lebkjsNIoOtXApg6k0LTeJxvEyzGaUIXFDl0ASXxtisbo99lAvQdkNOZgpqydMRAxSvPQ
-ElGourmet.mx,MX - El Gourmet,https://iptv-epg.org/images/NO4Yn-FxneuEdPG9WRej8ZKuHSWK9fEqlsNiTeNVK80xKYhfdR9Ir2Xj5wtsHFPFCCu3PpuzG1FD70Lsv8bJtdMSmaFXhPCaPSBax7O67Al2FA
-ElNu9ve.mx,MX - El Nu9ve,https://iptv-epg.org/images/CBA6nN16Eghr4p35eXfe-BlnbQCRNMB-eNy5fsuGmq_6UkaONoYtilIFuwOtjVGljY-poN5fnKRLO2P8v81MyRvtrCT5KaMIMSlbt5pKA7Q
-ESNE.mx,MX - ESNE,https://iptv-epg.org/images/1XysAUQIJimmRjmVL88CcW9zoFC8kALJP5s9XhuUriI3JO8WNY9Qeq_9izj32Tnc8aZAprEdRPKX-WW5zrlLRytuowngROc-frbkxlo
-ESPN.mx,MX - ESPN,https://iptv-epg.org/images/N6i4zoun5DbhXzcTF8fyejclQxlEvQz8ThiN0JtXODxneYmOtHTp7DXV5vcbac8XgjI5d3XIQSmDTWJFF9jjMW68oNbRb6onKDccwZw
-ESPN2.mx,MX - ESPN 2,https://iptv-epg.org/images/EXbqW6j41pTa06jd3Es9FOe_-AsvQzGAFOa3j-PkQHHArUw8qZ53c5NU1a2c6QaMW70djyZnAeSzgWo7BsgIt1rbbFHbcRtEMRJM2Dx3
-ESPN3.mx,MX - ESPN 3,https://iptv-epg.org/images/_w_uczkCqez-J8eaCJX_uZdaCjPTfh4rr1UYDttv--d2kSflYLzfB_MwVonOqhIRJMEDJuVoVu9VhgVEDE6kCIVV_CGEQR8mbVqirscm
-ESPNNorte.mx,MX - ESPN Norte,https://iptv-epg.org/images/PeHl7kJrAumRI3Dh3_uHzaQMH-rLU4ECnYqFbnuDcocbsMUxzbTqB0T5EJbUXJQodEkFkQA4akYFqzg-_Yi9MiU46F_EmW1ojsvhOLW9fMNJbw
-ESPNNorte2.mx,MX - ESPN Norte 2,https://iptv-epg.org/images/EQf2xvQJ69xt_frg3nTHGByIekrvmgLxfI0ViaiQo8mYOLTRgecx8GtTaFNd-PU_x3jkfGbaLTFpQcXU3y3d8tPOEjOUdVvuEVL4sg0yCYjH6Bw
-ESPNNorte3.mx,MX - ESPN Norte 3,https://iptv-epg.org/images/iWNA5xPl_Bp3PNUoYAOuLNqOYfJNNgXOO7QRT_8bDZb69cekrg7_rrgmUmEZKwwLYbcm9wrXlAdsV05ajO_3jsI9AbKHcUftY3z43nllfBnOGqk
-ESPN+.mx,MX - ESPN+,https://iptv-epg.org/images/Co3YlQKsKzrJZiM44FNFVTvtKRwKQrN1LGf5rfXwAdub--TV6TnALrw4BJkivQ2-4Dxq8L9-c8a9k-L_ovvZdCuFooRp32VQb6VqxeQRz5w
-Euronews.mx,MX - Euronews,https://iptv-epg.org/images/Rc1aOjizbfAXckV7iSDWyCxcd0uCv0HVdnLXIPAPJZu5GXzUPSKf-lWc0mN4eBaGJox26m-5Q_fkDSBwrABT9NB_4p17VNvuGIbzC9-_z4nd
-EuropaEuropa.mx,MX - Europa Europa,https://iptv-epg.org/images/RYHeiqz09cgq6EOtv8Lr529JwNNLQjb49l2_hFACn4NP-5ivIFkARnJJNluEk11_DWStLxTSqz7MkGgtRitKFSshthPhCL6xuXeG9Q6MVB8W7fsN5g
-EWTN.mx,MX - EWTN,https://iptv-epg.org/images/sv_SMSOE8NY9c5uJgimWezTnC2gTCSzOwuNb_GTlFrinWy-cx-CP9q9NP2B_J1_tefdd9hU19aohzmB7yjr-_nODnZMZgMZzEzsvARE
-ExcelsiorTV.mx,MX - Excelsior TV,https://iptv-epg.org/images/GbIMJ3_HtXPbYmJPCNyzesBkuOG62JGlKxcpjIkOPcurq0OVBOV4BtzuOEi3AIOyvaKghCzBu_mR1c1GIlCEve-Kx_yJzjAX_Szdog7ajAbupu0p
-film&amp;arts.mx,MX - film&amp;arts,https://iptv-epg.org/images/CXvSFISNRxeLEYFJgncvG_GSU1M3_xscUs_j3yRPW2xu0zadHjbdR3HzzSNUiXSBiBwqx_Nd3bR8E0FqqoaCGLeAIWqysPUNdHO6MwgSDEMHbgAF
-FOROtv.mx,MX - FOROtv,https://iptv-epg.org/images/a-T61I4z0FA38lzeLJeb4vcSV9nIK-_ah0gKqFVEMkKCg0qNBC94qqoTA-Wi2c3Ax4uxlG0g35T7yycsQJGkwjh2JinPyPvqYLw0UBT_ZA
-FOXSports.mx,MX - FOX Sports,https://iptv-epg.org/images/-dh3QhictAVQMf-JvfJHvYwGgKrEh1S5ykT_bPBPf9TbEzLB3LpPSQuwIGE2dpsyUJG05cexs91GFPgTVa2Y15uf8fNTBHT3B3gInsSJOMFvZQ
-FOXSports2.mx,MX - FOX Sports 2,https://iptv-epg.org/images/6My2flDNOL8dMZXMi0DWw2xCfYb9lrAjj0rEn5pL5swiY36mXPGMO_kkZIbaVZLn6BLgjc0nRcDFPqYk4y51lDgXbP_Y2yRpoism_r4s9o18SHo
-FOXSports3.mx,MX - FOX Sports 3,https://iptv-epg.org/images/6nFZw3d2dnKJ1Fp_K1wVtZLwU_Ol900ce25SHlyGYUlNI-IxdL4K0plTWygNM8NCveUC9wPYM_LtTyZ76KbBZl3PFpQ3W0RituCeKh90Quf6Cy4
-FOXSportsPremium.mx,MX - FOX Sports Premium,https://iptv-epg.org/images/bQfRYqoZMHLwaz_NVswIsR6xuAd831L72hPK8L7eDBdmyYeyp1DcLFSKoV8g2GleZiJTYU8bUuiOcw38I5pgG-5EKL8JSgo0vVY2urbJl2qDW6H99g
-FX.mx,MX - FX,https://iptv-epg.org/images/5LYmx-AOCNU-grPfZtEs3GCVVDo8mjUevcFgpXtEMO5Cr8knCnq53dU4D_9ePhZRiQegV4Hde4AJk96JDktq--ftKqBIfI6RavMQ
-FXMovies.mx,MX - FX Movies,https://iptv-epg.org/images/bgKeYNRLStsn-HlDlo7zSlfPN88h2Bl-QDe5lsQM6gsEzS4FIgQ6BHShLtpHUZJdfcr_8hENHJGZrg8QKngJIQzpZjhSmKhBtJ5f7R2wOgMB
-Glitz.mx,MX - Glitz,https://iptv-epg.org/images/PEZ-QNBSr2jwwLUNkO3m4MKnAyzjMdxBUzK-xvG5yEOr9IJ24beRcJhVebEkTIjfOZsSN_ZNPXImaOo8BFYlv6EVn2MvYK279ovAiPA1
-Golden.mx,MX - Golden,https://iptv-epg.org/images/0uspBvMb_PtszIexu3L3rXXXpeWiiHABEYXSGf1cZDzMScCej_3gChC-9wLrklcB7JSgU_nfXt6YG9TbtTHAB1boaaG8afjDLZohk_z55A
-GoldenEdge.mx,MX - Golden Edge,https://iptv-epg.org/images/FclhhiNjAH2DmfZzxmTh9WwGpL-JSrerYQiOkFLy0v0zryHfZ3wLAvH0TdpoEcSLBaNkVqRUOyzfpDwJ77M7HfH70UUhrYgNXP7tRMBN1AhAIas
-GoldenPlus.mx,MX - Golden Plus,https://iptv-epg.org/images/5XxlUPSowrCaUf4aDRs1cxhBgWBZl_FA5-7_-Y2ceNCVjkXuHS3ezxrwxPW0JwmHJAZe_ZKSpkT7bCb1bahsY5pqigtILl8Kps159qZMAytYDyc
-GoldenPremier.mx,MX - Golden Premier,https://iptv-epg.org/images/SNFedttcUEABBaltwQqAdee1AZy4eD7V8hWeeBLGXzhpjs-DVRrx24y0x6neO_wMJRUUF7hUQ5bhhp_7zuUoA6pLdM0CDhfMEezaeIzwT7Su1krEuFk
-GoldenPremier2.mx,MX - Golden Premier 2,https://iptv-epg.org/images/xNfNRSN1nzkY2T073VbEyx4ZSSObx5Ekaz840xZa90pwnmaShVDmVsw23L2PAmWdkhg3PeS4tDsh9j2Gxl6rtszvW61K80MbyjvzWZf-0VbMMVVhvuPj
-HBO.mx,MX - HBO,https://iptv-epg.org/images/OpVbQCtFLJ_KiRA0BqybxIM2F-nTOzG4-98dx7j09m8sBiAO19Hhj-Y9RhYuNZhwAj40hf0ii85lqhfer8HqskcurLgAFVDnhoYzwg
-HBO2.mx,MX - HBO 2,https://iptv-epg.org/images/MzHFr-LNTJ6T7GddewiMD5Bzk7jlDarSAF3tFi_s7HizuGbmCVMKb8ei4cpnKd_EDngo76gc2RP8oX_ZUn5lSKltCbA42cDTyuvnmZg
-HBOFamily.mx,MX - HBO Family,https://iptv-epg.org/images/HtxclFNXIKojoPO6svFT7MRDx_7TQwIo20l3GRpTRypr69zfXll4Ai2CvoWbrm-UncgwZhVE0QcQVtyuIL9n5-EGYgpB0i3CCTX0cGliVViBsQ
-HBOMundi.mx,MX - HBO Mundi,https://iptv-epg.org/images/AfBsHufHdLD1W-B6tk-0Kkx_AxU-acOggaWX_kyZoLyMWQfiDkIQuJkBNAbSBZx7AmXdHS5bSCcbHI_dcC8_0e3S2_aT8m-AKmfHGq-IlPB1
-HBOMUNDI.mx,MX - HBO MUNDI,https://iptv-epg.org/images/O2mtDnVFMbHCWAl6AuuiInZ8gsruAsfPbQReKkGdjLHCVErOEbbZ8y6QYivtFvHC5PimJmWSxBFPms68sfnxFax5fG2KIfxfn30pWhtcquF1
-HBOPOP.mx,MX - HBO POP,https://iptv-epg.org/images/w1gZvD3stLDtnAAxvc3PHNsjrP7k28Q4JGvsLiiCzzcOzYOLO_m4gHqRbO5q4lf3AjubZ0ebjqNOjpMrOt12SIY-jjMLMmopVMwUIw0Hkw
-HBOSignature.mx,MX - HBO Signature,https://iptv-epg.org/images/cbqdA0KjRXSMWc2VhNAJq6Yf-ZH2otWdQzMwKVR7Asg9I4jHKg1F4dGc9hccJgzBbqDcvBtcVzDkaK1C-f4SYLCrQu1GHXFWX3M5gByd5U4rFiDyEw
-HBOXtreme.mx,MX - HBO Xtreme,https://iptv-epg.org/images/28H-CJ83blaJ9bgZij_aTvG0n6VsrjYdo7k3TViRWlsJUcUMc2Stes3QwYGKxrV0D_N8Fe4VPkz-9X5QIr1uNmlX70JzdyroNgB3jGDT6GCzmA
-History.mx,MX - History,https://iptv-epg.org/images/bx03Dke0O12dNPz5T1qtebZJnbuvxKV7OXtlNNjiQdUD8wrdZlJAkEQjbSsNd1Js9tA9aB2vYlE7WAR0FeNlQhk4oUBX3GhI-ctmJTXf46w
-History2.mx,MX - History 2,https://iptv-epg.org/images/diqDD85W8wYirr62eWRbU7KY2MYcKkNhhwwKnBRuo56tSN302SX2y1ZJ9pYeOujPRjqidsMot7W0ZbAcHyw3plMGJUPp_MGx8j028HD8aZ0x
-HolaTV.mx,MX - Hola TV,https://iptv-epg.org/images/IqeFDLEIrBAhwQ49cxdvFBETzgobmIiU5Cluhb7GlCe46KtK2tQg09dURXF6H-aVBiSxtqMGzLl_OpaQEFaw4bmyi1w0uqDwBt4h95pbIQ
-I-SAT.mx,MX - I-SAT,https://iptv-epg.org/images/LDJpC5mdH5UNsmoTlyaHCWm7g1A0zBjyxA0wFXBO6dgM97FLDUWSkspCKLl5SdHX-T1MJon4f_AuAIB0HaSDheAI2D0dTKtD0AaBrDXz
-ImagenTV.mx,MX - Imagen TV,https://iptv-epg.org/images/k_qE8E3YzXDXKm8ZH1W3-j8wccP95nzhrEZvPGa6tX5_FIorFOexUqaeEGY8DT_jD_mwbzzpixZne1-jE4OW4O7_h0LooeEXfN-mBDLgcoGx
-InvestigationDiscovery.mx,MX - Investigation Discovery,https://iptv-epg.org/images/T-xAjCgD6OoENFAqFcUJlYx19vhD2vEjysUrLJ9w8ExNffeLIAg4SOe-8qyDDZYFJed2Qj14U2wQOe1MLMvSI5ZOWH2ANSfzd0CNdxWILe9VEuAHvOuvq1afGZwAPB4
-JusticiaTV.mx,MX - Justicia TV,https://iptv-epg.org/images/pr7qhMKmdm81CfsvT8ZdhRcjg8BdQf7i9xWWGcf1Egq7yk52-YNYMrP5EK9ETAQoU9chHFvKcqi0Oa7RTgQ4HF4_vlP3YVgN7MkhM9gIe_2BVPc
-LasEstrellas.mx,MX - Las Estrellas,https://iptv-epg.org/images/BxFFtHBWA5cPPHWQuZPrlBlulefLsykX6i-cO6LZRAL0a3Me85HPgE0Vb-QSP_fJZRymINc9LEc7MmNldF-zAOpIuOz2MAwElK--yJJeepWRUBZzNQ
-LasEstrellas-1.mx,MX - Las Estrellas -1,https://iptv-epg.org/images/8Vcrku_V2hMpkA7mnGnrk_5XXWt9Xj-TQNKoIdqkv_6NuEoVVtJR-nzDavreusDmcgipNjgt_nNzvc8giyhv8FWfzInXesWE2Wx1jB2-cmc4YPSYCv2X
-LasEstrellas-2.mx,MX - Las Estrellas -2,https://iptv-epg.org/images/vKSrViuwlRl_Uk1VlL5d7s8XRo20AJPI20idGXOmpvoCC-Re_HUxPMuaRTmPEZ2TzJ-A6GEEHKEMXBWtVQuS4BAYI_afwEkhqA6BR2neydfZBI0gDsfa
-Lifetime.mx,MX - Lifetime,https://iptv-epg.org/images/wiYiaOJGlp4s8NklHB-3XuNCXmFf4M3Rp7Zgw7u7iFxaeoVC4m1fuTCY6_UY92zNCC6g3n8WzDMj0BW6GEhR4CPLpeJEJ_BTz74xsExY6d6C
-MilenioTV.mx,MX - Milenio TV,https://iptv-epg.org/images/2eGmh8SKNh4f8rZnFsple8cQaAVwddRPA0AeJI25ocb4yFfrwTSqJG_nlpGVxt97qSgUl9NSpdVYUy9ep3cVQVTISbtkiQRed9AN1p9MxM73KA
-MTV.mx,MX - MTV,https://iptv-epg.org/images/41PoR-RCVsYjY7nzVipGHYjpYsi48jmyNrNleBXDJfmFiTfDlm67tTh_GozfNB3nkAW2zVBXfQgqY-_qZez-sue5XCmRRgEhwPT3Nw
-MTV80s.mx,MX - MTV 80s,https://iptv-epg.org/images/MKA_hJofYPJbFm9oMP_Kq0FOczVz87dZZ--4D3aiIuquz5bPQgGnKI9SrGPnYvn3IW9F2iVWogBX3sNH3oH3KDNL8fNoQoQAtC6MUazsAA
-MTVHits.mx,MX - MTV Hits,https://iptv-epg.org/images/hh09ooIxBqfD5p-zln61-R5JoGCvMCmmhReephK4OJOc5ojtYCWI7iInOpq8DcXXMFb0PzBAuwXEaLzk8gHhfbQy51qVR4VD8a26-yQtztY
-MTVLive.mx,MX - MTV Live,https://iptv-epg.org/images/DtDpwtI74xvPFPdfXkxkA29p27I9KuHgeC5IuIU86hoR_ycvrcW8IAz_D_NgXGUcpaK0Qrzt7lkY5YuSVW4NmZc5kyHEaycnzq1nrc4XmD8
-MuchMusic.mx,MX - MuchMusic,https://iptv-epg.org/images/y4FI1r90BD42oBjJZjtm0AEx4kOslHm3N_4YKUfmESsZDldMdAiZnUIc9sNlYneC1SlM964ztEv9EPuc6LtXlJUUTPIWJVNyFXx21dvnndvuCw
-MultimediosPlus.mx,MX - Multimedios Plus,https://iptv-epg.org/images/XQHe6ipCzaYDguaLpwd58iI0aHH8yVdb8mL6xe3Pgapn1V2tO122piGR7y30Lvw8Q3FdY8VG3vwPwKJNLH1zKFfh0B9kr3tLHmsVC9kfia7ceW-my2hKUA
-Multipremier.mx,MX - Multipremier,https://iptv-epg.org/images/JfO8RTGs6eLxDLBv_OuEoM2l56qNUXes_C1dtLk1MgF3eyFuhs0ojmC9JFSyd5CZscRzIO6DMGlq0NcHNeT5ZxAJSoXLrbTS-_qr9KJ2JknK42PCzg
-MVS.mx,MX - MVS,https://iptv-epg.org/images/CV0Ue3l-NOkLQC7fZdicP9rTM-AQg7kR_FPQTlBauzkIWG9-mdxJgIf5aAc_PlzmTPwtZqB0XufvEtnih9JDx107XsLU-uCeG3N02g
-NationalGeographic.mx,MX - National Geographic,https://iptv-epg.org/images/tTeUomdsSY36WAoMcOxSDFGZkU43Z1lzJiVMaVe903tFO8lNFnJ8kRKC88-IiPoN4RtQx-iMXMPzGsFICcOnneKMDwWen9SpzEhbDU4obi7dBXk892AT0MqbpA
-Nick.mx,MX - Nick,https://iptv-epg.org/images/nadsrYUVn39wL8jZ0rIESHBIEiHC6ryuc-dXzG6-Fki7lGv4Yx5K3Cl5aY6nfMK9J8UTPqHnkpkxSfLH0GKrUnn2_CJ1z22MtIoC1-Q
-NickJr.mx,MX - Nick Jr.,https://iptv-epg.org/images/MkCVwgAdVGRf4DL40Ayz5oq21qM_Ir1ySQVjPjjlHZ7Ck_SHF0oHVSBGQPdpZyFqOCq1LsdIpDh17tMRjKaXrRxk7empksM8vnPB-weR9A
-ParamountNetwork.mx,MX - Paramount Network,https://iptv-epg.org/images/YoROOTn0QZwi86kmJ0Zz62l48iU83kdy2knieMcwjIjBoqLg74JADlbxpC4Xvmqc2sOm3CGuIShIs36lUXsMU58joLhkxxrjNNdTjemIA_Taz9IgghT3mq4
-Platino.mx,MX - Platino,https://iptv-epg.org/images/pxYm4E6hjgFDPYk3wySu6tgC211GTAx3q91Po5TavixRN2F-ifTk4EX59OZuS5R2AHKZJ_sRw547Refy1IK4tqv9zcSgE8ww7lBaTbxY9OQ
-RMS.mx,MX - RMS,https://iptv-epg.org/images/tK7PUtrvRqPytGrWvpHQvhclWvOYafMM4NHvu7YnYFtwdwHOHfsGEwbUuPVJpHHMC2ZjS9aDYpEZ6Xfirw_1000FfvbKFw2eKarZiQ
-RussiaToday.mx,MX - Russia Today,https://iptv-epg.org/images/zuvPQTsHPVWTnzz8SgZsLV50CWsACZtou3n5ZzFxzkPFeyqGzKsCeo1IIPSudXHihBi8GZ9mbDXj8BfiL1qLn5IsKU23DdC-7x7WuZtjqDff_tKL
-SkySports1.mx,MX - Sky Sports 1,https://iptv-epg.org/images/i__M6UumcLJgY6QqFCGsA2Idj4Qj2xxhFFQlZBjI1r5ibee3eseGnrn0z13MLrwgtmMIMvNvpXlxww0VbnLWFJiVUTUTxypK9hyVMLG_GLzOIVw
-SkySports16.mx,MX - Sky Sports 16,https://iptv-epg.org/images/x_s1qxicw_tuE5dr-EulcCn-RivbCq_UBa6daLWgBiMfvd2gm--J82j86jS68cc7ZNzr6gj4m5MbkvQOEj5MIUQ5L9h7JwKK6Q8BFeW4pXquJj1x
-SkySports21.mx,MX - Sky Sports 21,
-SkySports24.mx,MX - Sky Sports 24,https://iptv-epg.org/images/wAyadYeUA-lIf3Mti7DxpIxG_rZYKf0jW-3f9m6n4PrbavqpmQAhrGsJvZ01kim2LcwyvVvh4oBZF-48nhATtO7ZzC1MwqQxtZwdCgHl8u2BvmK7
-Sony.mx,MX - Sony,https://iptv-epg.org/images/WUFWtvOJlFBzBoyfUWYgK0T5i4GgMvCIGq3FqTDn0-sCb9U0d6PBUXAEJH9DOwqtfOFTS6UA6fzHebpE9iax2i_mvPVs4TLIXcDRnvY
-Space.mx,MX - Space,https://iptv-epg.org/images/-L48EZSmUoSOTklXC8Y1J8Jw2IWdBN0C1W7wMDYXyGickDyBZ5eCzhGFFMX9vsobm0-DdPiWdg9sLlv9TRK5U-pkYVPxbKLMDWeUhaVA
-StarAction.mx,MX - Star Action,https://iptv-epg.org/images/yeLqK2qA-1JpvaUSGkyFyRCu4HXGyhsJ34db9I7Vw-JjdRoDInz0BCvmpY4Q7_Ha8uEdPW0CslrayFE2LIKpm_XBGLZYQRoYOfm9YRNTZqe2r_k
-StarChannel.mx,MX - Star Channel,https://iptv-epg.org/images/m2cYK_pFrzY1rGVBad8sWqlbG7A083l-gBYYZLvwJASo4Zwq1UvyFaiMDFkuF0yMXj7Eo6m6rrQ9_uMb8Zvh5phyt8NWVh9mrebWOzBPyjtPpK7f
-StarComedy.mx,MX - Star Comedy,https://iptv-epg.org/images/EcT30AkRtOsh1N7bTYWmPcx6RCMD0QCGSPLApF3euCHuI2jHXCEp0PwCajvoycaRzDLLm58zVpTeel14xll10T3Vk4BmPXkc1pagCMaRkWzNgoI
-StarFun.mx,MX - Star Fun,https://iptv-epg.org/images/TbL5gL_K9GQFg2452ywiJxm7Ndsr0Lh-scYBXgHLBqnagciat7x-VtR6iJbKcZkKf_V7TW3CkUg1lHOki9hOSh9cflXHrwcaySYH-xXZVp4
-StarFunOeste.mx,MX - Star Fun (Oeste),https://iptv-epg.org/images/N5Z63iwMWTDepk_zbnqQQfUjdfhzjts53nABGFg8sNeFVxoT99cwuhnz8CJyx10BnlFLKA_Xu4P4C4_EujluyYzqMmOFI41MFn-Gt10No1MCi6GGHQ
-StarHits.mx,MX - Star Hits,https://iptv-epg.org/images/2-GrSDYWQVy4mharIKv9gDwg3ggZXGXHWqMxuqGTVN0kWVBdgrLMFkWDEUrihCqYylRQJJVFv1wOY70QNIY9LsEbplKyJ0d-QCrVZ5H0N24Z
-StarLife.mx,MX - Star Life,https://iptv-epg.org/images/3Vo7O9GRUjDP0rrKwRQpTgxNcEsHhoio5d7N92ElIH3j0rK20DlOHk4Ju6b92epStAa_3xtSlmxGi3N3SE6TAs8-n6GRXpLMGAQpNOTxnqKC
-StarSeriesOeste.mx,MX - Star Series (Oeste),https://iptv-epg.org/images/7Jidp6YBy68vWxJPHlkzAHSlzstCycdC8c-we4rZ1DJspZb8EjhFpa8CPuySRia5CWt47RyxHNwxlXjjUeU1jrKFLti_UEek5rFArYhdcOoyEYyVTeiL4g
-StarSeries.mx,MX - Star Series,https://iptv-epg.org/images/9RQziEDcx362b16P9Zbnyiq9o_qa0T506ZqDc3jLDdmZVIk4QDCjpH3ZRbxnov15rOVjhDEWVTL2wt-LYQ1KIb3SSIk2nqgdqTHu1s-DTJLz-gw
-StingrayClassica.mx,MX - Stingray Classica,
-StudioUniversal.mx,MX - Studio Universal,https://iptv-epg.org/images/czG-TMD9SjjUNSLoXtSJG3KTFnzKRzXzMMAeLwa-mLq-9FVZeWA8gnEHs930HAuFbwuwMoAqHKutxKPDk55AWsMMzI4fcAXIUFTfGAFdwaJ-6xwNqPCJvQ
-Syfy.mx,MX - Syfy,https://iptv-epg.org/images/K2tm3FuAxvYn0cUCGKmBsQRQXRCULjARn8LCx_oVaxCmHuXKW4_Yutts2bfXZljAQcyB0IY5cP7_MP2VKFLnTTruZ-5mAP-ECXYH2b4
-TBNEnlace.mx,MX - TBN Enlace,https://iptv-epg.org/images/deBlX_lrvoZ8IYdoFBd0TQ00E4unWY1sz_VdiI7M3IA4ghOU6le4hFVWosrePCLmoHHOSh-UKMQyNmV17p61PuEKoJODMi-ZUTCFPfYNpEvIwA
-TBS.mx,MX - TBS,https://iptv-epg.org/images/RsiRPz1zxcvvLEdIsUDlqCJNpOf9KfXNM7kGIM7c-X-T83TSwcQHtPSx0YDUxnXMksFoDy1lmhnTRrCYzLXafX6wBpbBhutghXlpCw
-TCM.mx,MX - TCM,https://iptv-epg.org/images/Upr2T0xIaKKppklbwNZ08BSZckEra1tKbkqR3ebMBQY8jSMF6QSAAquLG0tACE-QpZTnTy2AgwBOj4jRY-7slYoWE9dSSw7wj45LZQ
-TDN.mx,MX - TDN,https://iptv-epg.org/images/F8xQoBhlYuM5T2gXUs-42QE-xeUvPVZOKrZmgBUwdH-JhjVAYeEiP-lijDkMp4SuTSm8uRff5a6Y6RPHP8Rjj1RHPRyHhQWAgyRuZg
-TeleFormula.mx,MX - TeleFormula,https://iptv-epg.org/images/yzrqi1WEKmMCmjZLgXwA2qmrCH4IlSAbkfvuC3dwYIlMwGpQCAPDpfZBdrR6MUEwud-JfsSLr7arlUUI-r14sMDUkq-hlo2yEpM-gStV-Arey-9t
-Telehit.mx,MX - Telehit,https://iptv-epg.org/images/sWZAzMw6COq5aFjGY39s8LKmFiXFjXXDj-_smezuAx_IYzQ0iW87XDxEzLZoumJfQU14RUoic-jmmMjAA8XUQI7zmJxHpgZQdsAgqssP8zY
-Telemundo.mx,MX - Telemundo,https://iptv-epg.org/images/gBz71qdo9OkrhEuGSvkG_vN6kUQoZ6vivyKDbhogEc7gJH35A2UfFBa8M2ne-bYu5QY5oWmsf3WLM4KodtQnbROZOkLl7d6K-4Lm800YJHc6mQ
-TheNFLNetwork.mx,MX - The NFL Network,https://iptv-epg.org/images/BJyC6HXMK4AJEb8wHpTjRjJSDXPKqsMk5tzs6o3NMunc2hDcjpSjKn1gabouZ-F7pS3NrXbV3EFURYjoHRBwj9lBdpNgjt9JDBjBfbKJgEUEUifk4lw
-TIIN.mx,MX - TIIN,https://iptv-epg.org/images/fIMSZw62J_O2pC93aUoKN_z4o674P8Jclltgy8TqREo3nBAQI2fdX3UYe_eH_ao7kNWIW6wqGD-8OQB5mQ70MFQFjWMokePTfR4ha4c
-TLC.mx,MX - TLC,https://iptv-epg.org/images/5WHQOIPa085-BbH3kP-I8RFIaMTLFzz1hx9RtGkjo0PghQGHwiqAqPmbwixlKMNBNa8cZMrHoclA1yh_OAfWGQp1amkdGDK16VsODw
-TLNovelas.mx,MX - TLNovelas,https://iptv-epg.org/images/n3DSxQ_3BREDqYFzEynBnIAiA-55mJXf0uaDnApnZeHivhRNTvkl0XhsmvGSrGv2p_TSxEytHx62OLDOAFOCVLB80jelWLcteB43_tpIwpsTMA
-TNT.mx,MX - TNT,https://iptv-epg.org/images/f19WJNF3txRsauBbOkpQ0UsJ3DKYPJ1pBMDnsHfLkyN8IFWyKMPXDQtoWtnouzPaXi5Gzm3yQNqKkeDj2lGSRHzv_jeeLFDAmVfNHQ
-TNTNovelas.mx,MX - TNT Novelas,https://iptv-epg.org/images/UMTiAgTS70jPrtEQBXRd7CrsfmmCMaqa0PPnbgctvKZNYQVXUlmIFZHv_ETqJf30V-n38Y1i0hyCvJcjE9NN4TseiHElNFx8PHM1-1niO2PBS7A
-TNTSeries.mx,MX - TNT Series,https://iptv-epg.org/images/_2Uy3vlYKX4ItvcibYParEI8S0YhT7DTwORjkFghGzfuvauUow6YOX8cAAPML1_mQ3T9O2WKiTU5eziJk3q64C-fVi25BCL4DQ5-Jg0-B_4oTA
-Tooncast.mx,MX - Tooncast,https://iptv-epg.org/images/3nuQVlT8tVb81XFV6zyG8jMWeh44bZT3bmsZVVLpk6x8srvs1O7YyE7zmBLzxw907dXkoEmzAqol3eaYyTFj_z-SCOb7LL8ya3UekVN2QybB
-truTV.mx,MX - truTV,https://iptv-epg.org/images/pGlfqmBI2IT-m1JqQXKTizZC-MM1_goRCYeTW7Xu0GjmsmVJ50SLNyzBczudUQs06XPn4Vl_wpmKFYk7QVdDeluKZh95jRdFfvtzHbNg
-TUDNMexico.mx,MX - TUDN Mexico,https://iptv-epg.org/images/1rpExtt2TJem52VDhPngsJTJD0_9gcWvOGs9vBGylobrr6BekGDCadD17FZFS-m9jC_7BEX4EJ8DM38lMeif5IsbnHR9hmWZs9RvBXBYtFNPAPg
-TVCuatro.mx,MX - TV Cuatro,https://iptv-epg.org/images/FL5YjD7fNOgMDqrzqGsOk3cWdBXsX5QOVXymne_gvLwDbl9UZPExgh93x8FPjSrw1qP5NOLoiM1642gXaQHDQImFwbwJsnQ2qRTwcumFJ6g2
-TVUNAM.mx,MX - TV UNAM,https://iptv-epg.org/images/IHAVUMFN89vWiz1l-YAB3u7BGg8pAtaa29Mbvhvyc2YOym8j_WMkPBj8pHSetg7Yia7tfnItcOpTXT3jIcIS0C3gdYuKzYU6Jjrhlv1wXw
-TVCDeportes.mx,MX - TVC Deportes,https://iptv-epg.org/images/CVS42agJBAr4vrKC9a2skBAwFeRKXCTX760ibXxtWxVUDcd53nYuldsg0HG-bDQTv1wuI12aD8t_aKMzPwVWJcyON6SSptk-Yjm7PvmGYS3nXb0x
-TVE.mx,MX - TVE,https://iptv-epg.org/images/dBSu3-CzDI8Gd-VA-Vo7qGZXKp_BwjVpDkQTZazZ2cFHs_3dYG-_BoTl40NuIzv4L19f4ayBv44cPxrRxxm5NUIxjL0L0K8y-3Wz0w
-UniCable.mx,MX - UniCable,https://iptv-epg.org/images/mZhDMIgGBPBBphODFhOW2JZ1bc-wKsrCBadl3m7bFfxkVmS0lTrCEjPS483jUTQGUjcREEB61kdn3hfb97XaoQZRgr0_94xB5AMg2VLomTFc
-UniversalCinema.mx,MX - Universal Cinema,https://iptv-epg.org/images/D2sBZGdZlR51SkGlSQwKi2ZiS0R-URcpvFP0DBSwpEhK08BtgNd0OQohlTkEyxpA7zO2AgQuSU3zqkSexmlTTLM5DKCMWhcjz75o81bKYeEXEYDNTmGG4Q
-UniversalComedy.mx,MX - Universal Comedy,https://iptv-epg.org/images/bag-EM6n2upgt97YgEvyGgCUh8CKh98jhHxxnbBcYeLMlbp_KlziPBUX7R32DacApzWWT9wsGz7zlNwYF_8D-WRedCCtBBDDRM0m1-cidT-UyYiRmSeteQ
-UniversalCrime.mx,MX - Universal Crime,https://iptv-epg.org/images/9VY99PkIS9aL1Tr2Y6O1Lgn9Pdo8_cYvr5uemrwAxsrXI3i1xrf0KBsHhh_XTErS1bie2jbz9NFt_EzMifYY0stj2P-E0GUGDA6iDxurtOFTx7P99OrI
-UniversalPremiere.mx,MX - Universal Premiere,https://iptv-epg.org/images/1YW35bj3VzDpd0EDR_--hbKmuWGTUZk71LsHVHoXu7R4LYWfnL2DlxJhPH61zq7o4glBn6QMAYdbLKiw7VYEcEWKItKK46W-Wa2gvNgbQEeXsf7U_MCt1_uS
-UniversalReality.mx,MX - Universal Reality,https://iptv-epg.org/images/x-ddAB1TthvCFvpa44IFO0GIKbzyE5jcsGvpGsdAv9IBZKpTzpejFWAlBz-FO-peoqshSqnHUavlHKcFP9BXWGdFwIJ52gXH-ESMVXl0CZpeX5eULa3TKi8
-UniversalTV.mx,MX - Universal TV,https://iptv-epg.org/images/NrWGkSQkhDgUGV_Xhrg_i-BJX4KWGASDslWfAAJPwe59hcG17s5gZPhiMo0YcSRSdy8530iq8f77eAopMWKH5ZFxqiaUv2MxZofvIq7Els2uU7rZ
-Univision.mx,MX - Univision,https://iptv-epg.org/images/fvKmINMYNkVgrxSxY-TDJK8E1tgQQRJKW_OiBozHV3jVdOVPAQiPmcr6sQZ2fuYp25p2LE3tXm8YCzGph_kY5OZct1_IR7YHI43coF6BHoc6Bw
-VH1.mx,MX - VH1,https://iptv-epg.org/images/c57Jf3QSe--YFv4bTpOWNhuXluTwaH4sAzmJEssyoOAluaBIuIKUOSnLdBI-RwerrG_AfAZuwpAl6wsJE-GghKTaNBkpKHshbGhJWQ
-WarnerChannel.mx,MX - Warner Channel,https://iptv-epg.org/images/2UF-DH_mviRpA_npG-_sXOGtypKbrZBJajjN5IGxvWuKPM6kyiOL-iWPpy-OP9YuKS8dz8bPD6oUuqNWPo6G2Igg_k9LVMim-w3odtOaIWEfK5DBXMw
-WOBITV.mx,MX - WOBI TV,https://iptv-epg.org/images/3SSO-6sccdcyS7Zb_pX5HGh2ifFwYSrA8ibW__lYldZh7anXxVDyL_gBYim5IXRUgYglhkLvH3YxHfKtUgwS3Sxi10ka8csUxFg-i6NeoA
-AzCoraz&#xF3;n.mx,MX - Az Corazón,https://iptv-epg.org/images/PH7--1gxda9kZzIFmXJNjusySHwNxekQboFI1k-YVNGBKHZMbmidTo5mcZn_-oAnyM1s4PrNAGoXkdqswrV9LTjROKMk-Kq7m2atWQrE5hQwaFoxdJ-w
-CNNenEspa&#xF1;ol.mx,MX - CNN en Español,https://iptv-epg.org/images/tr-NRx7-p8k4Dv6tplW_ruQsFUQaAegPuDHpJieMfi1PIe58hPEzGDUAO9RDikRi-5q0AmnUKS9lgc_DuoJK2NRpnum0BJijcTJ8EqA3M-_7ZFfhdI_CL5eP
-DePel&#xED;cula.mx,MX - De Película,https://iptv-epg.org/images/YJnfTen2uCNk-E93layHsGIm9idDg3yfWZMIK-1qY66mZNXsBm7gvacH4747daRnJ8c13BvdvaCB95NMAkT4MjqiQyV-e1gdo7dkS1N3154q3d8WOWilYQ
-HBOPlusM&#xE9;xico.mx,MX - HBO Plus México,https://iptv-epg.org/images/UUWaDUlkqqrsN_JxGrDqGxDmzCHxMNMgztojchZe7wqi_poAsISYMXM8R6H3wmDRnZ_Giv3uUUGPdNdE3qne2scnAfo5TkbBnuIkDY50eeZYE8ECIZjbNNQQEw
-MaxPrimeM&#xE9;xico.mx,MX - Max Prime México,https://iptv-epg.org/images/WXCFD35Mdud_jystR7t1yHVxB7ghoiQ4PBeiA2aQtHLFUFGHCLYTak89dzzEP_za5tCfPVqSYcv6nFgw-695JzU9SsSBnQFy9YDLIfwJJlPHqufk-dRFv5HB7Ck
-M&#xE1;sChic.mx,MX - Más Chic,https://iptv-epg.org/images/WaTeFRkOpLr2THgubfilsYJ2sywzwkfFvk9BUhYWdL0Ro1Vvc7eS-YD1ccLs83kQbPCaJoMKPE0KmM0BUb6FoeLLJFr3Y6vFJaGJ2sfNWR-Jxx3jVA
-CanalTelehitMusica.mx,MX - Canal Telehit Música,https://iptv-epg.org/images/mugOXrIjyoY7HfLMzUFM3W7t9_7uv1sXF8N7lYL0WrKmlHQkRehpz9MSyXxtwqZjARO0LAKX5mw7wKwhJwxp3Yqrkzi105jzpThJddGBo73gHd9VSv6xf1hk-g
-StingrayiConcerts.mx,MX - Stingray iConcerts,
+# Fuente: https://www.open-epg.com/files/colombia2.xml.gz
+¡HOLA! TV SD.co,¡HOLA! TV SD.co,
+¡Hola! TV.co,¡Hola! TV.co,
+A&amp;E.co,A&amp;E.co,
+AdultSwim.co,AdultSwim.co,
+AMC HD.co,AMC HD.co,
+AMC.co,AMC.co,
+Animal Planet.co,Animal Planet.co,
+ATRES SERIES HD.co,ATRES SERIES HD.co,
+AXN.co,AXN.co,
+BabyTV.co,BabyTV.co,
+BaseBall Network 1.co,BaseBall Network 1.co,
+BBC World News.co,BBC World News.co,
+CableNoticias.co,CableNoticias.co,
+Canal 1.co,Canal 1.co,
+CANAL 1.co,CANAL 1.co,
+Canal Capital.co,Canal Capital.co,
+CANAL CONGRESO.co,CANAL CONGRESO.co,
+Canal Institucional.co,Canal Institucional.co,
+CANAL INSTITUCIONAL.co,CANAL INSTITUCIONAL.co,
+Canal Trece.co,Canal Trece.co,
+Canal TRO.co,Canal TRO.co,
+Canal Zoom.co,Canal Zoom.co,
+Caracol.co,Caracol.co,
+CARACOL.co,CARACOL.co,
+Cartoon Network.co,Cartoon Network.co,
+CARTOONITO.co,CARTOONITO.co,
+CINECANAL HD.co,CINECANAL HD.co,
+Cinecanal.co,Cinecanal.co,
+CINEMAX HD.co,CINEMAX HD.co,
+Cinemax.co,Cinemax.co,
+City TV.co,City TV.co,
+CNN Español.co,CNN Español.co,
+CNN INTERNACIONAL.co,CNN INTERNACIONAL.co,
+Comedy Central.co,Comedy Central.co,
+DAYSTAR.co,DAYSTAR.co,
+De Película.co,De Película.co,
+DHE HD.co,DHE HD.co,
+Discovery Channel.co,Discovery Channel.co,
+Discovery H&amp;H.co,Discovery H&amp;H.co,
+DISCOVERY HD THEATER.co,DISCOVERY HD THEATER.co,
+Discovery Kids.co,Discovery Kids.co,
+DISCOVERY SCIENCE.co,DISCOVERY SCIENCE.co,
+Discovery Theater.co,Discovery Theater.co,
+Discovery Turbo.co,Discovery Turbo.co,
+DISCOVERY WORLD HD.co,DISCOVERY WORLD HD.co,
+DISNEY +.co,DISNEY +.co,
+DISNEY CHANNEL HD.co,DISNEY CHANNEL HD.co,
+Disney Channel.co,Disney Channel.co,
+DISNEY JUNIOR.co,DISNEY JUNIOR.co,
+E! Entertainment TV.co,E! Entertainment TV.co,
+E!.co,E!.co,
+El Gourmet.co,El Gourmet.co,
+El Tiempo Televisión.co,El Tiempo Televisión.co,
+ENLACE.co,ENLACE.co,
+Época.co,Época.co,
+ESPN 2 HD.co,ESPN 2 HD.co,
+ESPN 2.co,ESPN 2.co,
+ESPN 3.co,ESPN 3.co,
+ESPN 4 HD.co,ESPN 4 HD.co,
+ESPN 4.co,ESPN 4.co,
+ESPN 5 HD.co,ESPN 5 HD.co,
+ESPN 5.co,ESPN 5.co,
+ESPN 6 HD.co,ESPN 6 HD.co,
+ESPN 6.co,ESPN 6.co,
+ESPN 7 HD.co,ESPN 7 HD.co,
+ESPN 7.co,ESPN 7.co,
+ESPN INTERNACIONAL.co,ESPN INTERNACIONAL.co,
+ESPN.co,ESPN.co,
+EUROPA EUROPA.co,EUROPA EUROPA.co,
+EWTN.co,EWTN.co,
+FILM &amp; ARTS.co,FILM &amp; ARTS.co,
+Food Network.co,Food Network.co,
+FX HD.co,FX HD.co,
+FX.co,FX.co,
+GOLDEN HD.co,GOLDEN HD.co,
+GOLDEN LATINO.co,GOLDEN LATINO.co,
+H&amp;H.co,H&amp;H.co,
+HBO 2.co,HBO 2.co,
+HBO FAMILY ESTE.co,HBO FAMILY ESTE.co,
+HBO Family.co,HBO Family.co,
+HBO MUNDI.co,HBO MUNDI.co,
+HBO PLUS ESTE.co,HBO PLUS ESTE.co,
+HBO POP.co,HBO POP.co,
+HBO SIGNATURE.co,HBO SIGNATURE.co,
+HBO XTREME.co,HBO XTREME.co,
+HBO.co,HBO.co,
+HGTV.co,HGTV.co,
+History 2.co,History 2.co,
+HISTORY CHANNEL HD.co,HISTORY CHANNEL HD.co,
+History Channel.co,History Channel.co,
+HISTORY CHANNEL.co,HISTORY CHANNEL.co,
+HTV.co,HTV.co,
+ID - Investigation Discovery.co,ID - Investigation Discovery.co,
+Las Estrellas.co,Las Estrellas.co,
+LIFETIME.co,LIFETIME.co,
+Love Nature.co,Love Nature.co,
+Mas Chic.co,Mas Chic.co,
+Milenio Tv.co,Milenio Tv.co,
+MTV 00S.co,MTV 00S.co,
+MTV Live.co,MTV Live.co,
+MTV.co,MTV.co,
+NAT GEO HD.co,NAT GEO HD.co,
+NAT GEO.co,NAT GEO.co,
+National Geographic.co,National Geographic.co,
+NETFLIX.co,NETFLIX.co,
+Nick Jr.co,Nick Jr.co,
+Nick Music.co,Nick Music.co,
+Nick.co,Nick.co,
+NTN24.co,NTN24.co,
+NUESTRA TELE.co,NUESTRA TELE.co,
+Paramount Channel.co,Paramount Channel.co,
+PASIONES.co,PASIONES.co,
+PRIME VIDEO.co,PRIME VIDEO.co,
+RCN Novelas.co,RCN Novelas.co,
+RCN.co,RCN.co,
+Señal Colombia.co,Señal Colombia.co,
+SEÑAL COLOMBIA.co,SEÑAL COLOMBIA.co,
+Sony.co,Sony.co,
+Space.co,Space.co,
+STAR +.co,STAR +.co,
+STAR CHANNEL HD.co,STAR CHANNEL HD.co,
+STAR CHANNEL.co,STAR CHANNEL.co,
+Star TVE HD.co,Star TVE HD.co,
+STINGRAY CONCERTS HD.co,STINGRAY CONCERTS HD.co,
+Studio Universal.co,Studio Universal.co,
+TCM.co,TCM.co,
+Teen Nick.co,Teen Nick.co,
+Teleantioquia.co,Teleantioquia.co,
+Telecafé.co,Telecafé.co,
+Telecaribe.co,Telecaribe.co,
+Telefé.co,Telefé.co,
+Teleislas.co,Teleislas.co,
+TELEMEDELLIN.co,TELEMEDELLIN.co,
+TELEMUNDO REGIONAL.co,TELEMUNDO REGIONAL.co,
+Telemundo.co,Telemundo.co,
+Telepacifico.co,Telepacifico.co,
+TELEVID.co,TELEVID.co,
+TLC.co,TLC.co,
+TLNOVELAS.co,TLNOVELAS.co,
+TNT HD.co,TNT HD.co,
+TNT Novelas.co,TNT Novelas.co,
+TNT Series.co,TNT Series.co,
+TNT.co,TNT.co,
+TOONCAST.co,TOONCAST.co,
+Universal TV.co,Universal TV.co,
+WARNER CHANNEL HD.co,WARNER CHANNEL HD.co,
+Warner Channel.co,Warner Channel.co,
+Win Sports.co,Win Sports.co,
+Win+Futbol.co,Win+Futbol.co,
+YOUTUBE KIDS.co,YOUTUBE KIDS.co,
+YOUTUBE.co,YOUTUBE.co,
