@@ -5,5 +5,4 @@ https://iptv-epg.org/files/epg-mx.xml.gz
 https://cdn.epg.guru/7daygracenote/Colombia.xml
 https://www.open-epg.com/files/colombia2.xml.gz
 https://iptv-epg.org/files/epg-de.xml.gz
-https://iptv-epg.org/files/epg-gb.xml.gz
 https://iptv-epg.org/files/epg-us.xml.gz
