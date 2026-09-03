@@ -224,8 +224,8 @@ UK | Premier Sports 1,UK | Premier Sports 1,https://tv.assets.pressassociation.i
 UK | Premier Sports 2,UK | Premier Sports 2,https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png
 DE | Sky Sport F1,DE | Sky Sport F1,https://images.tvtoday.de/sender/small/skyf1.png
 DE | Rally TV,DE | Rally TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png
-DAZN1.de,DE - DAZN 1,https://iptv-epg.org/images/E8gJZ4iWs8XTvzMoLg5ZpzD3ydRWv6fDTgjdtS5kvKnjSXRLCZAgxtNuDidDge8-k3AeuMJ71g0K8XI1wD1N32wpzxgaLDUb_Xq9EGdc8g
-DAZN2.de,DE - DAZN 2,https://iptv-epg.org/images/N_Buxpo07GZyYGsCRFxYmAWvuOOB73q6rvSTN4e086H_AYd-IiExLpoCI2YS2Sj6uRnatRLb9buqkqqblGMx_Q7-CcPzUkj0Q1o7k6v4fg
+451928,DE - DAZN 1,https://iptv-epg.org/images/E8gJZ4iWs8XTvzMoLg5ZpzD3ydRWv6fDTgjdtS5kvKnjSXRLCZAgxtNuDidDge8-k3AeuMJ71g0K8XI1wD1N32wpzxgaLDUb_Xq9EGdc8g
+451927,DE - DAZN 2,https://iptv-epg.org/images/N_Buxpo07GZyYGsCRFxYmAWvuOOB73q6rvSTN4e086H_AYd-IiExLpoCI2YS2Sj6uRnatRLb9buqkqqblGMx_Q7-CcPzUkj0Q1o7k6v4fg
 PT | DAZN 1,PT | DAZN 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png
 PT | DAZN 2,PT | DAZN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png
 PT | DAZN 3,PT | DAZN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png
