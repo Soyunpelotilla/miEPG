@@ -270,7 +270,7 @@ Fight Box HD,Fight Box,https://raw.githubusercontent.com/davidmuma/picons_dobleM
 Moto ADV,Moto ADV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png
 8madrid TV,8madrid TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png
 acontra+,acontra+,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/acontra%2B.png
-Atrescine,Atrescine,
+Atrescine,Atrescine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atrescine.png
 Nós Televisión,Nós Televisión,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/N%C3%B3s%20Televisi%C3%B3n.png
 TELEVIGO,TELEVIGO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TELEVIGO.png
 Lolly Kids,Lolly Kids,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lolly%20Kids.png
