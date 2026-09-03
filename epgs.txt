@@ -3,4 +3,9 @@ https://i.mjh.nz/PlutoTV/es.xml.gz
 https://cdn.epg.guru/7daygracenote/Mexico.xml
 https://cdn.epg.guru/7daygracenote/Colombia.xml
 https://www.open-epg.com/files/colombia2.xml.gz
-https://iptv-epg.org/files/epg-mhsivjubdq.xml.gz
+https://epg.pw/api/epg.xml?lang=en&date=20260903&channel_id=465156
+https://epg.pw/api/epg.xml?lang=en&date=20260903&channel_id=464949
+https://epg.pw/api/epg.xml?lang=en&date=20260903&channel_id=465198
+https://epg.pw/api/epg.xml?lang=en&date=20260903&channel_id=465373
+https://epg.pw/api/epg.xml?lang=en&date=20260903&channel_id=465248
+https://epg.pw/api/epg.xml?lang=en&date=20260903&channel_id=465280
