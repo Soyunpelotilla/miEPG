@@ -2,8 +2,6 @@ M+ LaLiga HD,M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM
 M+ LaLiga 2 HD,M+ LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png
 M+ LaLiga 3 HD,M+ LaLiga 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%203.png
 M+ LaLiga 4,M+ LaLiga 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%204.png
-M+ LaLiga 5,M+ LaLiga 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%205.png
-M+ LaLiga 6,M+ LaLiga 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%206.png
 DAZN LaLiga HD,DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
 DAZN LaLiga 2 HD,DAZN LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png
 DAZN LaLiga 3,DAZN LaLiga 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%203.png
@@ -53,9 +51,7 @@ DAZN 4 HD,DAZN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/maste
 Eurosport 1 HD,Eurosport 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png
 Eurosport 2,Eurosport 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png
 M+ LaLiga HDR,M+ LaLiga HDR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20HDR.png
-M+ LaLiga 2 HDR,M+ LaLiga 2 HDR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png
 M+ Liga de Campeones HDR,M+ Liga de Campeones HDR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HDR.png
-M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202%20HDR.png
 DAZN Baloncesto,DAZN Baloncesto,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png
 DAZN Baloncesto 2,DAZN Baloncesto 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
 DAZN Baloncesto 3,DAZN Baloncesto 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
