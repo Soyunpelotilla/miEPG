@@ -1,0 +1,2 @@
+# Fuente: https://epg.pw/api/epg.xml?lang=en&date=20260904&channel_id=540058
+540058,Sky Sport F1 [IT],https://epg.pw/media/images/epg/2026/04/26/20260426022223323597_44.png
