@@ -208,15 +208,10 @@ TelemundoWest.us,Telemundo West,https://iptv-epg.org/logos/USA/TelemundoWest.us.
 FoxDeportes.us,FOX DEPORTES,https://iptv-epg.org/logos/USA/FoxDeportes.us.png
 FoxSports1.us,FOX SPORTS 1 US,https://iptv-epg.org/logos/USA/FoxSports1.us.png
 FoxSports2.us,FOX SPORTS 2 US,https://iptv-epg.org/logos/USA/FoxSports2.us.png
-ESPN.us,ESPN US,https://iptv-epg.org/logos/USA/ESPN.us.png
-ESPN2.us,ESPN 2 US,https://iptv-epg.org/logos/USA/ESPN2.us.png
 UK | TNT Sports 1,UK | TNT Sports 1,https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png
 UK | TNT Sports 2,UK | TNT Sports 2,https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png
 UK | TNT Sports 3,UK | TNT Sports 3,https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png
 UK | TNT Sports 4,UK | TNT Sports 4,https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png
-UK | Sky Sports Football,UK | Sky Sports Football,https://tv.assets.pressassociation.io/c7c1f241-4754-502b-aa34-24fc98aba436.png
-UK | Sky Sports Main Event,UK | Sky Sports Main Event,https://tv.assets.pressassociation.io/4a35f45e-79c6-5da0-b2fb-c9192eb9f24b.png
-UK | Sky Sports Premier League,UK | Sky Sports Premier League,https://tv.assets.pressassociation.io/2a51b9ff-b27d-53dc-be74-aac95ecd291e.png
 UK | Premier Sports 1,UK | Premier Sports 1,https://tv.assets.pressassociation.io/c45c421e-6415-5530-a3ae-9667368d1422.png
 UK | Premier Sports 2,UK | Premier Sports 2,https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png
 DE | Sky Sport F1,DE | Sky Sport F1,https://images.tvtoday.de/sender/small/skyf1.png
