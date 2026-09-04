@@ -223,3 +223,4 @@ PT | DAZN 2,PT | DAZN 2,https://raw.githubusercontent.com/davidmuma/picons_doble
 PT | DAZN 3,PT | DAZN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png
 PT | DAZN 4,PT | DAZN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png
 PT | DAZN 5,PT | DAZN 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png
+540058,IT - Sky Sport F1,https://epg.pw/media/images/epg/2026/04/26/20260426022223323597_44.png
