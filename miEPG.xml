@@ -73139,26 +73139,6 @@
 			<value>5.0/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20260904120350 +0000" stop="20260904134650 +0000" channel="Pluto TV Cine Acción">
-    <title>Rescate en Damasco</title>
-    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
-    <desc>Adib Abdel Kareem escapó de Siria hace más de 30 años, dejando atrás al amor de su vida, Fátima, para establecerse en Toronto y empezar una nueva vida. Pero ahora debe regresar a su país cuando su hija Muna, que es periodista, desaparece en Damasco.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f4f5cc2fa72a5001a5fd6fb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20120101</date>
-    <series-id system="pluto">5f4f5cc2fa72a5001a5fd6f3</series-id>
-    <category>Action</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20260904134650 +0000" stop="20260904154750 +0000" channel="Pluto TV Cine Acción">
-    <title>Alpha</title>
-    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
-    <desc>Tres amigos se ven obligados a separarse tras un atraco frustrado. Ocho años más tarde, el destino los vuelve a unir a pesar de haber tomado caminos muy distintos.</desc>
-    <icon src="https://images.pluto.tv/episodes/62b479d9cb0324001353e300/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20130101</date>
-    <series-id system="pluto">62b479d7cb0324001353e2f9</series-id>
-    <category>Action</category>
-    <category>Movie</category>
-  </programme>
   <programme start="20260904154750 +0000" stop="20260904171802 +0000" channel="Pluto TV Cine Acción">
     <title>Prisioneros del sol</title>
     <episode-num system="original-air-date">20140708000000 +0000</episode-num>
@@ -73176,8 +73156,8 @@
     <icon src="https://images.pluto.tv/episodes/695b88d16a5d6e3860f6034a/poster_1767606482877.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19770303</date>
     <series-id system="pluto">695b88d06a5d6e3860f6032a</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260904185250 +0000" stop="20260904202302 +0000" channel="Pluto TV Cine Acción">
     <title>Prisioneros del sol</title>
@@ -73196,8 +73176,8 @@
     <icon src="https://images.pluto.tv/episodes/68fb4b5c3fb09016daa9f482/poster_1761310523950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20090101</date>
     <series-id system="pluto">68fb4b5b3fb09016daa9f463</series-id>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
   </programme>
   <programme start="20260904220515 +0000" stop="20260905000251 +0000" channel="Pluto TV Cine Acción">
     <title>Rompiendo las reglas</title>
@@ -73206,8 +73186,8 @@
     <icon src="https://images.pluto.tv/episodes/67ea41a989ba442cd95df321/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20080219</date>
     <series-id system="pluto">67ea41a889ba442cd95df2fc</series-id>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
   </programme>
   <programme start="20260905000251 +0000" stop="20260905014429 +0000" channel="Pluto TV Cine Acción">
     <title>Return of Special Forces V: Last Rescue</title>
@@ -73216,9 +73196,9 @@
     <icon src="https://images.pluto.tv/episodes/66a74c0457d82b0013027f17/poster_1769189044040.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20210101</date>
     <series-id system="pluto">66a74c0357d82b0013027ef8</series-id>
-    <category>Foreign Action &amp; Adventure</category>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
+    <category>Foreign Action &amp; Adventure</category>
   </programme>
   <programme start="20260905014429 +0000" stop="20260905032729 +0000" channel="Pluto TV Cine Acción">
     <title>Doble identidad</title>
@@ -73250,30 +73230,30 @@
     <icon src="https://images.pluto.tv/episodes/62b479d9cb0324001353e300/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130101</date>
     <series-id system="pluto">62b479d7cb0324001353e2f9</series-id>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
   </programme>
-  <programme start="20260904121350 +0000" stop="20260904135650 +0000" channel="Pluto TV Catástrofes">
-    <title>Tentáculos de las Bermudas</title>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-    <desc>Cuando el Air Force One cae sobre el Triángulo de las Bermudas, la Marina envía su mejor equipo de rescate. Pero mientras salvan el presidente, el equipo despierta a una criatura que amenaza a toda la costa este.</desc>
-    <icon src="https://images.pluto.tv/episodes/608fa38b6a72b000130cc8ae/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20140101</date>
-    <series-id system="pluto">608fa3896a72b000130cc8a8</series-id>
-    <category>Action</category>
-    <category>Science fiction</category>
+  <programme start="20260905053629 +0000" stop="20260905075329 +0000" channel="Pluto TV Cine Acción">
+    <title>Los tigres del tren</title>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>Un ferroviario en la China de 1941 lucha contra los japoneses para lograr comida para los pobres. Pronto se embarcarán en una misión suicida para volar un puente.</desc>
+    <icon src="https://images.pluto.tv/episodes/5fe9b75e4aa70a001a4fd2c7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20160101</date>
+    <series-id system="pluto">5fe9b75d4aa70a001a4fd2c1</series-id>
+    <category>Action Comedies</category>
     <category>Movie</category>
+    <category>Action</category>
   </programme>
-  <programme start="20260904135650 +0000" stop="20260904154050 +0000" channel="Pluto TV Catástrofes">
-    <title>La era del mañana</title>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-    <desc>Cuando el sol golpea un altar, escondido dentro de la antigua Pirámide del Sol en México, se crea un faro que desencadena una guerra relámpago alienígena. En cuestión de horas, sus platillos destruyen toda la infraestructura militar de la tierra.</desc>
-    <icon src="https://images.pluto.tv/episodes/608fa39b6a72b000130cca94/poster_1769193003470.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20140101</date>
-    <series-id system="pluto">608fa39a6a72b000130cca8e</series-id>
-    <category>Action</category>
-    <category>Science fiction</category>
+  <programme start="20260905075329 +0000" stop="20260905092246 +0000" channel="Pluto TV Cine Acción">
+    <title>12 Hours</title>
+    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
+    <desc>Sigue un juego de supervivencia en un mundo virtual similar a Matrix contra varios desafíos, incluido un monstruo aterrador.</desc>
+    <icon src="https://images.pluto.tv/episodes/66a75b8a17101c00138d8937/poster_1769189402117.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20220101</date>
+    <series-id system="pluto">66a75b8917101c00138d8918</series-id>
     <category>Movie</category>
+    <category>Action</category>
+    <category>Foreign Action &amp; Adventure</category>
   </programme>
   <programme start="20260904154050 +0000" stop="20260904171450 +0000" channel="Pluto TV Catástrofes">
     <title>Tormenta colosal</title>
@@ -73283,8 +73263,8 @@
     <date>20120101</date>
     <series-id system="pluto">604f88ff12d561001a4eef70</series-id>
     <category>Deadly Disasters</category>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
   </programme>
   <programme start="20260904171450 +0000" stop="20260904185550 +0000" channel="Pluto TV Catástrofes">
     <title>Titanic II</title>
@@ -73294,8 +73274,8 @@
     <date>20100101</date>
     <series-id system="pluto">603cf1264d8d87001aaa9099</series-id>
     <category>Deadly Disasters</category>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
   </programme>
   <programme start="20260904185550 +0000" stop="20260904205352 +0000" channel="Pluto TV Catástrofes">
     <title>El juego de Ender</title>
@@ -73304,9 +73284,9 @@
     <icon src="https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster_1777997882339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20131024</date>
     <series-id system="pluto">67516488a7fde50013705b8d</series-id>
+    <category>Movie</category>
     <category>Action</category>
     <category>Science fiction</category>
-    <category>Movie</category>
   </programme>
   <programme start="20260904205352 +0000" stop="20260904221429 +0000" channel="Pluto TV Catástrofes">
     <title>Dead Space: Downfall</title>
@@ -73315,9 +73295,9 @@
     <icon src="https://images.pluto.tv/episodes/68bfdbb9b76cf0ad370030d7/poster_1760454609292.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20081003</date>
     <series-id system="pluto">68bfdbb8b76cf0ad370030b6</series-id>
+    <category>Movie</category>
     <category>Anime Horror</category>
     <category>Anime</category>
-    <category>Movie</category>
   </programme>
   <programme start="20260904221429 +0000" stop="20260904234508 +0000" channel="Pluto TV Catástrofes">
     <title>La aventura del Poseidón: Capítulo 1</title>
@@ -73326,9 +73306,9 @@
     <icon src="https://images.pluto.tv/episodes/65c0cf2fb65b870013cb8aa5/poster_1769044682299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20050101</date>
     <series-id system="pluto">65c0cf2eb65b870013cb8a86</series-id>
-    <category>Adventure</category>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
+    <category>Adventure</category>
   </programme>
   <programme start="20260904234508 +0000" stop="20260905013008 +0000" channel="Pluto TV Catástrofes">
     <title>10.000 días</title>
@@ -73337,8 +73317,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4948bf61f1b1001afec82f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20140101</date>
     <series-id system="pluto">5f4948bb61f1b1001afec827</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme start="20260905013008 +0000" stop="20260905032352 +0000" channel="Pluto TV Catástrofes">
     <title>Amor de ida y vuelta</title>
@@ -73347,8 +73327,8 @@
     <icon src="https://images.pluto.tv/episodes/69fb6f5f4c1064447fbcb0ae/poster_1778085728331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20181107</date>
     <series-id system="pluto">69fb6f5e4c1064447fbcb08f</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme start="20260905032352 +0000" stop="20260905045516 +0000" channel="Pluto TV Catástrofes">
     <title>Vuelo 192</title>
@@ -73367,31 +73347,20 @@
     <icon src="https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster_1777997882339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20131024</date>
     <series-id system="pluto">67516488a7fde50013705b8d</series-id>
+    <category>Movie</category>
     <category>Action</category>
     <category>Science fiction</category>
-    <category>Movie</category>
   </programme>
-  <programme start="20260904120044 +0000" stop="20260904134444 +0000" channel="Pluto TV Sci-Fi">
-    <title>La era del mañana</title>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-    <desc>Cuando el sol golpea un altar, escondido dentro de la antigua Pirámide del Sol en México, se crea un faro que desencadena una guerra relámpago alienígena. En cuestión de horas, sus platillos destruyen toda la infraestructura militar de la tierra.</desc>
-    <icon src="https://images.pluto.tv/episodes/608fa39b6a72b000130cca94/poster_1769193003470.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20140101</date>
-    <series-id system="pluto">608fa39a6a72b000130cca8e</series-id>
-    <category>Action</category>
+  <programme start="20260905065318 +0000" stop="20260905082149 +0000" channel="Pluto TV Catástrofes">
+    <title>Infinitum</title>
+    <episode-num system="original-air-date">20210706000000 +0000</episode-num>
+    <desc>Jane debe cambiar su realidad en un universo paralelo por su cuenta.</desc>
+    <icon src="https://images.pluto.tv/episodes/68ff8bc4fa0f5ccff5ba09d5/poster_1761591054482.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20210706</date>
+    <series-id system="pluto">68ff8bc3fa0f5ccff5ba09b4</series-id>
+    <category>Movie</category>
+    <category>Adventure</category>
     <category>Science fiction</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20260904134444 +0000" stop="20260904152344 +0000" channel="Pluto TV Sci-Fi">
-    <title>San Andreas mega seísmo</title>
-    <episode-num system="original-air-date">20190101000000 +0000</episode-num>
-    <desc>Los científicos descubren algo horrible: el "Gran Terremoto" será en dos días y hundirá California en el océano. Su única esperanza es romper un volcán que desplazará la energía del terremoto y construirá una nueva corteza en la superficie.</desc>
-    <icon src="https://images.pluto.tv/episodes/6093a2a15cb63f001a15108f/poster_1768605484584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20190101</date>
-    <series-id system="pluto">6093a29f5cb63f001a151089</series-id>
-    <category>Deadly Disasters</category>
-    <category>Action</category>
-    <category>Movie</category>
   </programme>
   <programme start="20260904152344 +0000" stop="20260904165644 +0000" channel="Pluto TV Sci-Fi">
     <title>Moebius</title>
@@ -73410,9 +73379,9 @@
     <icon src="https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster_1777997882339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20131024</date>
     <series-id system="pluto">67516488a7fde50013705b8d</series-id>
+    <category>Movie</category>
     <category>Action</category>
     <category>Science fiction</category>
-    <category>Movie</category>
   </programme>
   <programme start="20260904185446 +0000" stop="20260904202643 +0000" channel="Pluto TV Sci-Fi">
     <title>La puerta</title>
@@ -73421,8 +73390,8 @@
     <icon src="https://images.pluto.tv/episodes/68c03881a64d66fd0ba4156d/poster_1757659172375.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19870421</date>
     <series-id system="pluto">68c03880a64d66fd0ba4154d</series-id>
-    <category>Cult Horror</category>
     <category>Horror</category>
+    <category>Cult Horror</category>
     <category>Movie</category>
   </programme>
   <programme start="20260904202643 +0000" stop="20260904220728 +0000" channel="Pluto TV Sci-Fi">
@@ -73432,8 +73401,8 @@
     <icon src="https://images.pluto.tv/episodes/67613d934bf27b00137538bb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20120731</date>
     <series-id system="pluto">67613d914bf27b0013753899</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme start="20260904220728 +0000" stop="20260905001928 +0000" channel="Pluto TV Sci-Fi">
     <title>¡Han llegado!</title>
@@ -73453,8 +73422,8 @@
     <date>20140101</date>
     <series-id system="pluto">5f4eacbedb45a1001a7950db</series-id>
     <category>Thriller</category>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme start="20260905014028 +0000" stop="20260905031928 +0000" channel="Pluto TV Sci-Fi">
     <title>San Andreas mega seísmo</title>
@@ -73464,8 +73433,8 @@
     <date>20190101</date>
     <series-id system="pluto">6093a29f5cb63f001a151089</series-id>
     <category>Deadly Disasters</category>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
   </programme>
   <programme start="20260905031928 +0000" stop="20260905050028 +0000" channel="Pluto TV Sci-Fi">
     <title>Oceans Rising</title>
@@ -73474,19 +73443,43 @@
     <icon src="https://images.pluto.tv/episodes/608fa3916a72b000130cc950/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20170101</date>
     <series-id system="pluto">608fa38f6a72b000130cc94a</series-id>
+    <category>Movie</category>
     <category>Action</category>
     <category>Science fiction</category>
-    <category>Movie</category>
   </programme>
-  <programme start="20260904125257 +0000" stop="20260904144657 +0000" channel="Pluto TV Psycho">
-    <title>La Casa Roja</title>
-    <episode-num system="original-air-date">19470101000000 +0000</episode-num>
-    <desc>Un anciano y su hermana ocultan un terrible secreto a su hija adolescente adoptiva, sobre una granja abandonada escondida, ubicada en lo profundo del bosque.</desc>
-    <icon src="https://images.pluto.tv/episodes/615eaaf374755c001a4ca3f8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19470101</date>
-    <series-id system="pluto">615eaaf274755c001a4ca3f2</series-id>
-    <category>Thriller</category>
+  <programme start="20260905050028 +0000" stop="20260905050828 +0000" channel="Pluto TV Sci-Fi">
+    <title>Fillers Pluto TV ES</title>
+    <episode-num system="onscreen">S01E105</episode-num>
+    <episode-num system="pluto">685bb385c28550566149060e</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Fillers Pluto TV ES</desc>
+    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <category>Series</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme start="20260905050828 +0000" stop="20260905064828 +0000" channel="Pluto TV Sci-Fi">
+    <title>Megashark Vs. Kolossus</title>
+    <episode-num system="original-air-date">20150101000000 +0000</episode-num>
+    <desc>En busca de una nueva fuente de energía, los rusos despiertan accidentalmente el Kolossus – un robot gigante de la Guerra Fría. Al mismo tiempo, aparece un nuevo Mega Shark, amenazando la seguridad mundial.</desc>
+    <icon src="https://images.pluto.tv/episodes/603cf12c4d8d87001aaa9124/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20150101</date>
+    <series-id system="pluto">603cf12b4d8d87001aaa911e</series-id>
     <category>Movie</category>
+    <category>Action</category>
+    <category>Science fiction</category>
+  </programme>
+  <programme start="20260905064828 +0000" stop="20260905081328 +0000" channel="Pluto TV Sci-Fi">
+    <title>Freaked. La disparatada parada de los monstruos</title>
+    <episode-num system="original-air-date">19930424000000 +0000</episode-num>
+    <desc>Ricky, contratado por una empresa para patrocinar un componente químico, descubre que la molécula es responsable de monstruosas deformidades.</desc>
+    <icon src="https://images.pluto.tv/episodes/6393110af1ac720013bca579/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19930424</date>
+    <series-id system="pluto">63931109f1ac720013bca572</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260904144657 +0000" stop="20260904161557 +0000" channel="Pluto TV Psycho">
     <title>La fugitiva</title>
@@ -73505,9 +73498,9 @@
     <icon src="https://images.pluto.tv/episodes/61c1dda942817b001a8bb0fb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19320101</date>
     <series-id system="pluto">61c1dda642817b001a8bb0f5</series-id>
-    <category>Horror Classics</category>
     <category>Horror</category>
     <category>Movie</category>
+    <category>Horror Classics</category>
   </programme>
   <programme start="20260904172357 +0000" stop="20260904183757 +0000" channel="Pluto TV Psycho">
     <title>Un cubo de sangre</title>
@@ -73516,9 +73509,9 @@
     <icon src="https://images.pluto.tv/episodes/62384c97ff21e500131cb61c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19590101</date>
     <series-id system="pluto">62384c95ff21e500131cb615</series-id>
-    <category>Horror Classics</category>
     <category>Horror</category>
     <category>Movie</category>
+    <category>Horror Classics</category>
   </programme>
   <programme start="20260904183757 +0000" stop="20260904201157 +0000" channel="Pluto TV Psycho">
     <title>Ausentes</title>
@@ -73537,9 +73530,9 @@
     <icon src="https://images.pluto.tv/episodes/69ef3509a68b1a2a81192065/poster_1777284362005.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130101</date>
     <series-id system="pluto">69ef3508a68b1a2a81192046</series-id>
-    <category>B-Movie Horror</category>
     <category>Horror</category>
     <category>Movie</category>
+    <category>B-Movie Horror</category>
   </programme>
   <programme start="20260904220225 +0000" stop="20260904234825 +0000" channel="Pluto TV Psycho">
     <title>Kill Switch</title>
@@ -73548,8 +73541,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4e1861fa72a5001a5fa980/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20080101</date>
     <series-id system="pluto">5f4e1861fa72a5001a5fa978</series-id>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
   </programme>
   <programme start="20260904234825 +0000" stop="20260905005825 +0000" channel="Pluto TV Psycho">
     <title>Dark Angel</title>
@@ -73562,8 +73555,8 @@
     <series-id system="pluto">5f89ffa5f75820001aa7bce4</series-id>
     <sub-title>Parte uno</sub-title>
     <category>Biographical Drama</category>
-    <category>Drama</category>
     <category>Series</category>
+    <category>Drama</category>
   </programme>
   <programme start="20260905005825 +0000" stop="20260905020925 +0000" channel="Pluto TV Psycho">
     <title>Dark Angel</title>
@@ -73576,8 +73569,8 @@
     <series-id system="pluto">5f89ffa5f75820001aa7bce4</series-id>
     <sub-title>Parte dos</sub-title>
     <category>Biographical Drama</category>
-    <category>Drama</category>
     <category>Series</category>
+    <category>Drama</category>
   </programme>
   <programme start="20260905020925 +0000" stop="20260905034525 +0000" channel="Pluto TV Psycho">
     <title>The Dead Girl ES</title>
@@ -73599,24 +73592,24 @@
     <category>Thriller</category>
     <category>Movie</category>
   </programme>
-  <programme start="20260904105153 +0000" stop="20260904134053 +0000" channel="Pluto TV Thrillers">
-    <title>Conspiración de poder</title>
-    <episode-num system="original-air-date">20150101000000 +0000</episode-num>
-    <desc>Tras un devastador accidente en una torre de perforación que provoca un auténtico desastre medioambiental, la agente federal Ellie Molaro emprende una investigación junto a un misterioso informante llamado Carter.</desc>
-    <icon src="https://images.pluto.tv/episodes/633a8ed1b2e75600132b489f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20150101</date>
-    <series-id system="pluto">633a8ecfb2e75600132b4898</series-id>
+  <programme start="20260905052225 +0000" stop="20260905072825 +0000" channel="Pluto TV Psycho">
+    <title>A pleno sol</title>
+    <episode-num system="original-air-date">19600101000000 +0000</episode-num>
+    <desc>Tom Ripley es un prodigioso impostor, gorrón, falsificador y delincuente de la improvisación en general</desc>
+    <icon src="https://images.pluto.tv/episodes/636e448136d64a0014593ff7/poster_1769194448912.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19600101</date>
+    <series-id system="pluto">636e448036d64a0014593ff0</series-id>
     <category>Thriller</category>
     <category>Movie</category>
   </programme>
-  <programme start="20260904134053 +0000" stop="20260904152853 +0000" channel="Pluto TV Thrillers">
-    <title>La marca del lobo</title>
-    <episode-num system="original-air-date">20060101000000 +0000</episode-num>
-    <desc>Hace diez años, una muchacha presencia el asesinato de su familia. La joven sobrevivió adentrándose en el bosque y convirtiéndose en algo que los cazadores nunca hallarían: un lobo. Ahora, a pesar de que vive al otro lado del mundo, ella sigue huyendo.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f4eac73db45a1001a794f79/poster_1769024522292.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20060101</date>
-    <series-id system="pluto">5f4eac6edb45a1001a794f71</series-id>
-    <category>Romance</category>
+  <programme start="20260905072825 +0000" stop="20260905092034 +0000" channel="Pluto TV Psycho">
+    <title>La muerte y la doncella</title>
+    <episode-num system="original-air-date">19940101000000 +0000</episode-num>
+    <desc>En un país imaginario que acaba de sufrir una terrible dictadura, viven Paulina Escobar y su marido Gerardo, un prestigioso abogado. Una noche, Gerardo tiene una avería con su coche, pero un hombre se ofrece a ayudarle…</desc>
+    <icon src="https://images.pluto.tv/episodes/673b0bedb7ea5e0013f37c81/poster_1769190843546.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19940101</date>
+    <series-id system="pluto">673b0becb7ea5e0013f37c61</series-id>
+    <category>Thriller</category>
     <category>Movie</category>
   </programme>
   <programme start="20260904152853 +0000" stop="20260904171353 +0000" channel="Pluto TV Thrillers">
@@ -73627,8 +73620,8 @@
     <date>19980101</date>
     <series-id system="pluto">61aa2e486011980013254712</series-id>
     <category>Biographical Drama</category>
-    <category>Drama</category>
     <category>Movie</category>
+    <category>Drama</category>
   </programme>
   <programme start="20260904171353 +0000" stop="20260904184653 +0000" channel="Pluto TV Thrillers">
     <title>Moebius</title>
@@ -73647,8 +73640,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4eac73db45a1001a794f79/poster_1769024522292.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20060101</date>
     <series-id system="pluto">5f4eac6edb45a1001a794f71</series-id>
-    <category>Romance</category>
     <category>Movie</category>
+    <category>Romance</category>
   </programme>
   <programme start="20260904203453 +0000" stop="20260904221002 +0000" channel="Pluto TV Thrillers">
     <title>Indomable</title>
@@ -73657,8 +73650,8 @@
     <icon src="https://images.pluto.tv/episodes/6735d9a1a7fde5001323b551/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20120118</date>
     <series-id system="pluto">6735d9a0a7fde5001323b52f</series-id>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
   </programme>
   <programme start="20260904221002 +0000" stop="20260905001302 +0000" channel="Pluto TV Thrillers">
     <title>Asesinos natos</title>
@@ -73687,9 +73680,9 @@
     <icon src="https://images.pluto.tv/episodes/6a0b42c1ffc6644289c55b73/poster_1779122882214.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20100101</date>
     <series-id system="pluto">6a0b42c0ffc6644289c55b54</series-id>
-    <category>Adventure</category>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
+    <category>Adventure</category>
   </programme>
   <programme start="20260905033354 +0000" stop="20260905033854 +0000" channel="Pluto TV Thrillers">
     <title>Fillers Pluto TV ES</title>
@@ -73711,32 +73704,29 @@
     <icon src="https://images.pluto.tv/episodes/627b5b7de500b000135db13e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19900101</date>
     <series-id system="pluto">627b5b7ce500b000135db137</series-id>
+    <category>Movie</category>
     <category>Comedy</category>
+  </programme>
+  <programme start="20260905053054 +0000" stop="20260905071611 +0000" channel="Pluto TV Thrillers">
+    <title>Llamada oculta</title>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Un psicópata utiliza el sistema de seguridad de alta tecnología de una familia para atraparlos en su propia casa.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a22b7e90eeacb3723674268/poster_1780660202912.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20140101</date>
+    <series-id system="pluto">6a22b60987a403a7cf599424</series-id>
+    <category>Thriller</category>
     <category>Movie</category>
   </programme>
-  <programme start="20260904120125 +0000" stop="20260904134822 +0000" channel="Pluto TV Cine Estelar">
-    <title>Juana de Arco</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">68ef5cf4393a03f3e39a6df5</episode-num>
-    <episode-num system="original-air-date">19990518000000 +0000</episode-num>
-    <desc>Guiada por visiones divinas, Juana de Arco, adolescente del siglo XV, lidera a Francia en guerra. Parte 2.</desc>
-    <icon src="https://images.pluto.tv/series/68ef5b8833c9798391286c00/tile_1760517003718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19990518</date>
-    <series-id system="pluto">68ef5b8833c9798391286c00</series-id>
-    <sub-title>Parte 2</sub-title>
-    <category>Adventure</category>
-    <category>Action</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20260904134822 +0000" stop="20260904151822 +0000" channel="Pluto TV Cine Estelar">
-    <title>Tapas</title>
-    <episode-num system="original-air-date">20050101000000 +0000</episode-num>
-    <desc>Varias historias se entrelazan en un barrio de trabajadores de una gran ciudad.</desc>
-    <icon src="https://images.pluto.tv/episodes/62876af6e26cc40014b2af56/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20050101</date>
-    <series-id system="pluto">62876af4e26cc40014b2af4f</series-id>
-    <category>Comedy</category>
+  <programme start="20260905071611 +0000" stop="20260905094811 +0000" channel="Pluto TV Thrillers">
+    <title>Distrito 34: Corrupción total</title>
+    <episode-num system="original-air-date">19900427000000 +0000</episode-num>
+    <desc>Un asistente del fiscal de distrito trabaja en un caso de asesinato y descrubre un camino de corrupción que lleva a la oficina del fiscal.</desc>
+    <icon src="https://images.pluto.tv/episodes/60798062235736001ac4abe4/poster_1779472082478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19900427</date>
+    <series-id system="pluto">60798060235736001ac4abde</series-id>
+    <category>Independent Drama</category>
     <category>Movie</category>
+    <category>Drama</category>
   </programme>
   <programme start="20260904151822 +0000" stop="20260904171652 +0000" channel="Pluto TV Cine Estelar">
     <title>Afterglow</title>
@@ -73745,8 +73735,8 @@
     <icon src="https://images.pluto.tv/episodes/6a0af401fcc735ec75f24dab/poster_1779102722132.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19970511</date>
     <series-id system="pluto">6a0af400fcc735ec75f24d8a</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260904171652 +0000" stop="20260904204252 +0000" channel="Pluto TV Cine Estelar">
     <title>JFK: Caso abierto</title>
@@ -73756,8 +73746,8 @@
     <date>19911219</date>
     <series-id system="pluto">6062dc47a224c9001bb82a44</series-id>
     <category>Independent Drama</category>
-    <category>Drama</category>
     <category>Movie</category>
+    <category>Drama</category>
   </programme>
   <programme start="20260904204252 +0000" stop="20260904225252 +0000" channel="Pluto TV Cine Estelar">
     <title>Amor y otras drogas</title>
@@ -73766,9 +73756,9 @@
     <icon src="https://images.pluto.tv/episodes/6076b681235736001ac445c1/poster_1778510162504.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20101124</date>
     <series-id system="pluto">6076b680235736001ac445bb</series-id>
-    <category>Romantic comedy</category>
-    <category>Romance</category>
     <category>Movie</category>
+    <category>Romance</category>
+    <category>Romantic comedy</category>
   </programme>
   <programme start="20260904225252 +0000" stop="20260905003535 +0000" channel="Pluto TV Cine Estelar">
     <title>Mátalos suavemente</title>
@@ -73797,9 +73787,9 @@
     <icon src="https://images.pluto.tv/episodes/627b5b82e500b000135db30f/poster_1779202147943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20100101</date>
     <series-id system="pluto">627b5b7fe500b000135db308</series-id>
-    <category>Adventure</category>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
+    <category>Adventure</category>
   </programme>
   <programme start="20260905055435 +0000" stop="20260905081548 +0000" channel="Pluto TV Cine Estelar">
     <title>Fahrenheit 11/9</title>
@@ -73808,18 +73798,19 @@
     <icon src="https://images.pluto.tv/episodes/6a0b3a544a77e2cd15d917fa/poster_1779120725587.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20180906</date>
     <series-id system="pluto">6a0b3a534a77e2cd15d917da</series-id>
+    <category>Movie</category>
     <category>Documentary</category>
-    <category>Movie</category>
   </programme>
-  <programme start="20260904125418 +0000" stop="20260904143818 +0000" channel="Pluto TV Cine Drama">
-    <title>El virginiano</title>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-    <desc>Cuando una escritora de la gran ciudad (Penny) comienza a preguntar sobre las atroces acciones de los ladrones de ganado, South rápidamente defiende la brutal realidad que impera el “código del Oeste”.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f4e184bfa72a5001a5fa7de/poster_1769023802918.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20140101</date>
-    <series-id system="pluto">5f4e184afa72a5001a5fa7d6</series-id>
-    <category>Western</category>
+  <programme start="20260905081548 +0000" stop="20260905102918 +0000" channel="Pluto TV Cine Estelar">
+    <title>La casa de la esperanza</title>
+    <episode-num system="original-air-date">20170324000000 +0000</episode-num>
+    <desc>La mujer del guardián del zoo cuenta la historia de los guardianes del zoo de Varsovia, Jan y Antonina Zabinski, que ayudaron a salvar a cientos de personas y animales durante la invasión nazi.</desc>
+    <icon src="https://images.pluto.tv/episodes/672dcaa24ad856001364e565/poster_1769190483091.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20170324</date>
+    <series-id system="pluto">672dcaa04ad856001364e544</series-id>
     <category>Movie</category>
+    <category>Drama</category>
+    <category>Historical Drama</category>
   </programme>
   <programme start="20260904143818 +0000" stop="20260904162018 +0000" channel="Pluto TV Cine Drama">
     <title>En lo profundo del bosque</title>
@@ -73887,9 +73878,9 @@
     <icon src="https://images.pluto.tv/episodes/685297f9b66727eb74e9e7f5/poster_1750243323978.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20210813</date>
     <series-id system="pluto">685297f8b66727eb74e9e7d5</series-id>
-    <category>Adventure</category>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
+    <category>Adventure</category>
   </programme>
   <programme start="20260905001533 +0000" stop="20260905021233 +0000" channel="Pluto TV Cine Drama">
     <title>Bajo la Piel</title>
@@ -73899,8 +73890,8 @@
     <date>20080101</date>
     <series-id system="pluto">5f4e1808fa72a5001a5fa329</series-id>
     <category>Biographical Drama</category>
-    <category>Drama</category>
     <category>Movie</category>
+    <category>Drama</category>
   </programme>
   <programme start="20260905021233 +0000" stop="20260905033033 +0000" channel="Pluto TV Cine Drama">
     <title>El Asesinato de Carrero Blanco</title>
@@ -73913,8 +73904,8 @@
     <series-id system="pluto">5f4f5cf4fa72a5001a5fda6f</series-id>
     <sub-title>Capitulo 1</sub-title>
     <category>Biographical Drama</category>
-    <category>Drama</category>
     <category>Series</category>
+    <category>Drama</category>
   </programme>
   <programme start="20260905033033 +0000" stop="20260905054133 +0000" channel="Pluto TV Cine Drama">
     <title>Extra-Terrestres</title>
@@ -73924,29 +73915,28 @@
     <date>20170102</date>
     <series-id system="pluto">5fc52624ce9667001a28eb5d</series-id>
     <category>Biographical Drama</category>
+    <category>Movie</category>
     <category>Drama</category>
-    <category>Movie</category>
   </programme>
-  <programme start="20260904122935 +0000" stop="20260904140735 +0000" channel="Pluto TV Cine Comedia">
-    <title>Tipos Legales</title>
-    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
-    <desc>Val (Al Pacino) sale de la cárcel tras cumplir 28 años de condena. Doc (Christopher Walken), su mejor amigo, le espera a la salida para ir a ver a Hirsch (Alan Arkin), otro viejo colega.</desc>
-    <icon src="https://images.pluto.tv/episodes/62876b04e26cc40014b2b7e5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20120101</date>
-    <series-id system="pluto">62876b03e26cc40014b2b7de</series-id>
-    <category>Comedy</category>
+  <programme start="20260905054133 +0000" stop="20260905071533 +0000" channel="Pluto TV Cine Drama">
+    <title>Animales Heridos</title>
+    <episode-num system="original-air-date">20010101000000 +0000</episode-num>
+    <desc>Silvio tiene una relación extraconyugal con Clàudia, una famosa interiorista. Su vida se verá alterada cuando llaman desde un periódico para realizar un reportaje sobre su casa y será Clàudia la encargada de hacerlo.</desc>
+    <icon src="https://images.pluto.tv/episodes/62a9e1e165c30400136ada5a/poster_1769041446333.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20010101</date>
+    <series-id system="pluto">62a9e1dc65c30400136ada53</series-id>
     <category>Movie</category>
+    <category>Drama</category>
   </programme>
-  <programme start="20260904140735 +0000" stop="20260904154010 +0000" channel="Pluto TV Cine Comedia">
-    <title>Incidencias</title>
-    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
-    <desc>Los pasajeros del tren comienzan a enfrentarse entre sí cuando su viaje se detiene en medio de la nada durante un clima peligroso.</desc>
-    <icon src="https://images.pluto.tv/episodes/66462697a08618001349157a/poster_1768599734197.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20160101</date>
-    <series-id system="pluto">66462696a08618001349155b</series-id>
-    <category>Comedy</category>
+  <programme start="20260905071533 +0000" stop="20260905091833 +0000" channel="Pluto TV Cine Drama">
+    <title>Regreso a Montauk</title>
+    <episode-num system="original-air-date">20170804000000 +0000</episode-num>
+    <desc>El escritor Max Zorn regresa a Nueva York para la promoción de su última novela, donde le espera su joven esposa Clara, quien lleva meses trabajando allí.</desc>
+    <icon src="https://images.pluto.tv/episodes/60d18638d2de2a001300367a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20170804</date>
+    <series-id system="pluto">60d18638d2de2a0013003674</series-id>
     <category>Movie</category>
-    <category>Foreign Comedies</category>
+    <category>Drama</category>
   </programme>
   <programme start="20260904154010 +0000" stop="20260904171810 +0000" channel="Pluto TV Cine Comedia">
     <title>Dos colgados en Chicago (Los visitantes cruzan el charco)</title>
@@ -73955,8 +73945,8 @@
     <icon src="https://images.pluto.tv/episodes/616698ee178213001ad6c5fc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20010101</date>
     <series-id system="pluto">616698ec178213001ad6c5f6</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260904171810 +0000" stop="20260904192410 +0000" channel="Pluto TV Cine Comedia">
     <title>Crónicas diplomáticas</title>
@@ -73965,9 +73955,9 @@
     <icon src="https://images.pluto.tv/episodes/60d2d7c7fad1f80013b31c2a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20140404</date>
     <series-id system="pluto">60d2d7c7fad1f80013b31c24</series-id>
-    <category>Comedy</category>
-    <category>Movie</category>
     <category>Political Comedies</category>
+    <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260904192410 +0000" stop="20260904210853 +0000" channel="Pluto TV Cine Comedia">
     <title>La segunda oportunidad</title>
@@ -73976,8 +73966,8 @@
     <icon src="https://images.pluto.tv/episodes/6a0c3771114ca7fcbe9c4467/poster_1779185522453.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20220408</date>
     <series-id system="pluto">6a0c3770114ca7fcbe9c4446</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260904210853 +0000" stop="20260904225232 +0000" channel="Pluto TV Cine Comedia">
     <title>Diario de un ejecutivo agresivo</title>
@@ -73986,9 +73976,9 @@
     <icon src="https://images.pluto.tv/episodes/654378c1a78f0d001a7ee478/poster_1782271106419.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20060608</date>
     <series-id system="pluto">654378c0a78f0d001a7ee459</series-id>
+    <category>Movie</category>
     <category>Late Night Comedies</category>
     <category>Comedy</category>
-    <category>Movie</category>
   </programme>
   <programme start="20260904225232 +0000" stop="20260905004617 +0000" channel="Pluto TV Cine Comedia">
     <title>El club de los incomprendidos</title>
@@ -73997,8 +73987,8 @@
     <icon src="https://images.pluto.tv/episodes/69fb677ddf4ded48bcb37e5c/poster_1778083710151.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20141201</date>
     <series-id system="pluto">69fb677cdf4ded48bcb37b40</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260905004617 +0000" stop="20260905022949 +0000" channel="Pluto TV Cine Comedia">
     <title>Movie 43</title>
@@ -74007,8 +73997,8 @@
     <icon src="https://images.pluto.tv/episodes/69fb6c89a3d970fa62b0f773/poster_1778085002652.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20121216</date>
     <series-id system="pluto">69fb6c88a3d970fa62b0f753</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260905022949 +0000" stop="20260905023449 +0000" channel="Pluto TV Cine Comedia">
     <title>Fillers Pluto TV ES</title>
@@ -74030,8 +74020,8 @@
     <icon src="https://images.pluto.tv/episodes/623c8df025269a0013a996a1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20170101</date>
     <series-id system="pluto">623c8c93ff21e500131dd633</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260905042149 +0000" stop="20260905062449 +0000" channel="Pluto TV Cine Comedia">
     <title>Mi casa en París</title>
@@ -74040,29 +74030,18 @@
     <icon src="https://images.pluto.tv/episodes/60d0438028f1d30013ed3e46/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20150807</date>
     <series-id system="pluto">60d0437e28f1d30013ed3e40</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
-  <programme start="20260904120627 +0000" stop="20260904135426 +0000" channel="Pluto TV Comedias Románticas">
-    <title>Diferencias irreconciliables</title>
-    <episode-num system="original-air-date">19840928000000 +0000</episode-num>
-    <desc>Alternando entre el pasado y el presente, una niña precoz demanda a sus padres egoístas la emancipación, sorprendiéndolos a ambos.</desc>
-    <icon src="https://images.pluto.tv/episodes/69a061598c539e794a9239d7/poster_1772118362154.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19840928</date>
-    <series-id system="pluto">69a061588c539e794a9239b6</series-id>
-    <category>Comedy</category>
+  <programme start="20260905062449 +0000" stop="20260905080629 +0000" channel="Pluto TV Cine Comedia">
+    <title>Red Dog, una historia de lealtad</title>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>Basada en una historia real, la película cuenta cómo un perro recorre Australia creando vínculos con los habitantes de un pueblo minero, convirtiéndose en un símbolo de amistad y lealtad.</desc>
+    <icon src="https://images.pluto.tv/episodes/69fb6c8ca3d970fa62b16b6f/poster_1778085005731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20110101</date>
+    <series-id system="pluto">69fb6c8ca3d970fa62b16b4f</series-id>
     <category>Movie</category>
-  </programme>
-  <programme start="20260904135426 +0000" stop="20260904152930 +0000" channel="Pluto TV Comedias Románticas">
-    <title>Querida Elisabeth</title>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>La vida de Sid Straw se desmorona a medida que trata de demostrar a sus amigos que entabló amistad con una celebridad mientras estaba en la universidad.</desc>
-    <icon src="https://images.pluto.tv/episodes/6502c8c53b20050013826194/poster_1768604674409.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20200101</date>
-    <series-id system="pluto">6502c8c33b20050013826175</series-id>
-    <category>Dark Humor &amp; Black Comedies</category>
     <category>Comedy</category>
-    <category>Movie</category>
   </programme>
   <programme start="20260904152930 +0000" stop="20260904171328 +0000" channel="Pluto TV Comedias Románticas">
     <title>Matrimonio Original</title>
@@ -74071,9 +74050,9 @@
     <icon src="https://images.pluto.tv/episodes/673b0d60882f6d0013934cfc/poster_1769191204290.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19410101</date>
     <series-id system="pluto">673b0d5e882f6d0013934cdd</series-id>
+    <category>Movie</category>
     <category>Romantic comedy</category>
     <category>Comedy</category>
-    <category>Movie</category>
   </programme>
   <programme start="20260904171328 +0000" stop="20260904185524 +0000" channel="Pluto TV Comedias Románticas">
     <title>Los líos de Gray</title>
@@ -74082,9 +74061,9 @@
     <icon src="https://images.pluto.tv/episodes/6735dc77b7ea5e0013a6b8e6/poster_1768606204192.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20061021</date>
     <series-id system="pluto">6735dc76b7ea5e0013a6b8c5</series-id>
-    <category>Romantic comedy</category>
-    <category>Romance</category>
     <category>Movie</category>
+    <category>Romance</category>
+    <category>Romantic comedy</category>
   </programme>
   <programme start="20260904185524 +0000" stop="20260904203830 +0000" channel="Pluto TV Comedias Románticas">
     <title>Con la magia en los zapatos</title>
@@ -74093,8 +74072,8 @@
     <icon src="https://images.pluto.tv/episodes/6729e43d2678a5001418eec6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20150315</date>
     <series-id system="pluto">6729e43c2678a5001418eea6</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260904203830 +0000" stop="20260904223535 +0000" channel="Pluto TV Comedias Románticas">
     <title>Algo Prestado</title>
@@ -74103,8 +74082,8 @@
     <icon src="https://images.pluto.tv/episodes/675824d22678a500143c745a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110420</date>
     <series-id system="pluto">675824d02678a500143c7439</series-id>
-    <category>Romance</category>
     <category>Movie</category>
+    <category>Romance</category>
   </programme>
   <programme start="20260904223535 +0000" stop="20260905002657 +0000" channel="Pluto TV Comedias Románticas">
     <title>La Fiera de mi Niña</title>
@@ -74113,9 +74092,9 @@
     <icon src="https://images.pluto.tv/episodes/673afddde103890013db9e17/poster_1769190841842.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19380101</date>
     <series-id system="pluto">673afddbe103890013db9df7</series-id>
+    <category>Movie</category>
     <category>Romantic comedy</category>
     <category>Comedy</category>
-    <category>Movie</category>
   </programme>
   <programme start="20260905002657 +0000" stop="20260905021003 +0000" channel="Pluto TV Comedias Románticas">
     <title>Con la magia en los zapatos</title>
@@ -74124,8 +74103,8 @@
     <icon src="https://images.pluto.tv/episodes/6729e43d2678a5001418eec6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20150315</date>
     <series-id system="pluto">6729e43c2678a5001418eea6</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260905021003 +0000" stop="20260905041756 +0000" channel="Pluto TV Comedias Románticas">
     <title>Hermosas criaturas</title>
@@ -74134,8 +74113,8 @@
     <icon src="https://images.pluto.tv/episodes/6761a171381eea0013640bd3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130119</date>
     <series-id system="pluto">6761a170381eea0013640bb3</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme start="20260905041756 +0000" stop="20260905054914 +0000" channel="Pluto TV Comedias Románticas">
     <title>Memoria Perdida</title>
@@ -74144,28 +74123,29 @@
     <icon src="https://images.pluto.tv/episodes/68ff8ff96e0067f40d0bab67/poster_1761598025370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20080116</date>
     <series-id system="pluto">68ff8ff86e0067f40d0bab47</series-id>
+    <category>Movie</category>
     <category>Drama</category>
-    <category>Movie</category>
   </programme>
-  <programme start="20260904115655 +0000" stop="20260904132938 +0000" channel="Pluto TV Cine Romántico">
-    <title>Aprendiz de gigoló</title>
-    <episode-num system="original-air-date">20130831000000 +0000</episode-num>
-    <desc>Un hombre convence a su amigo para trabajar como gigoló, lo que provoca situaciones cómicas y complicadas.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a0b31e59db2f8937b420af3/poster_1779118566155.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20130831</date>
-    <series-id system="pluto">6a0b31e49db2f8937b420ad4</series-id>
-    <category>Comedy</category>
+  <programme start="20260905054914 +0000" stop="20260905072238 +0000" channel="Pluto TV Comedias Románticas">
+    <title>Encuentra el amor en Valentine</title>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>Kennedy Blaine hereda un magnífico rancho en la pequeña población de Valentine y decide visitar la propiedad para ponerlo en venta. Cuando llega, Derek, el capataz, la confunde con una intrusa y la relación no empieza con buen pie.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a4cc5b16fa7bb8b799731bd/poster_1783416241978.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20160101</date>
+    <series-id system="pluto">6a4cc5b06fa7bb8b7997319d</series-id>
     <category>Movie</category>
+    <category>Romance</category>
   </programme>
-  <programme start="20260904132938 +0000" stop="20260904151638 +0000" channel="Pluto TV Cine Romántico">
-    <title>El amor no es lo que era</title>
-    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
-    <desc>Tres historias de amor que se desarrollan en la misma ciudad. Paz y Jorge llevan tres años casados pero su matrimonio no funciona, la relación se está apagando y ninguno de los dos encuentra la solución.</desc>
-    <icon src="https://images.pluto.tv/episodes/61a4a4efeeb8a3001307b624/poster_1769039282180.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20130101</date>
-    <series-id system="pluto">61a4a4eeeeb8a3001307b61e</series-id>
-    <category>Comedy</category>
+  <programme start="20260905072238 +0000" stop="20260905085738 +0000" channel="Pluto TV Comedias Románticas">
+    <title>Paris Can Wait</title>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>La vida de Anne (Diane Lane) se encuentra en una encrucijada. Casada desde hace muchos años con un exitoso productor de Hollywood (Alec Baldwin) adicto al trabajo.</desc>
+    <icon src="https://images.pluto.tv/episodes/62876b29e26cc40014b2dad1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20160101</date>
+    <series-id system="pluto">62876b27e26cc40014b2daca</series-id>
     <category>Movie</category>
+    <category>Romance</category>
+    <category>African-American Romance</category>
   </programme>
   <programme start="20260904151638 +0000" stop="20260904164650 +0000" channel="Pluto TV Cine Romántico">
     <title>Navidad vuelve a casa</title>
@@ -74174,9 +74154,9 @@
     <icon src="https://images.pluto.tv/episodes/68e61a03a44f8dcccdcfb835/poster_1760013583110.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20201221</date>
     <series-id system="pluto">68e61a02a44f8dcccdcfb815</series-id>
-    <category>Romantic comedy</category>
-    <category>Romance</category>
     <category>Movie</category>
+    <category>Romance</category>
+    <category>Romantic comedy</category>
   </programme>
   <programme start="20260904164650 +0000" stop="20260904182639 +0000" channel="Pluto TV Cine Romántico">
     <title>Will You Merry Me</title>
@@ -74185,8 +74165,8 @@
     <icon src="https://images.pluto.tv/episodes/697351e4f65a7c96c689128f/poster_1769165284842.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20081208</date>
     <series-id system="pluto">697351e3f65a7c96c689126f</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260904182639 +0000" stop="20260904195239 +0000" channel="Pluto TV Cine Romántico">
     <title>Amor en pleno vuelo</title>
@@ -74195,9 +74175,9 @@
     <icon src="https://images.pluto.tv/episodes/63d7c0b9e2a3e1001a7c5a2e/poster_1769036042856.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20200101</date>
     <series-id system="pluto">63d7c0b8e2a3e1001a7c5a10</series-id>
+    <category>Movie</category>
     <category>Romance</category>
     <category>Drama</category>
-    <category>Movie</category>
   </programme>
   <programme start="20260904195239 +0000" stop="20260904222339 +0000" channel="Pluto TV Cine Romántico">
     <title>Un asunto real</title>
@@ -74206,8 +74186,8 @@
     <icon src="https://images.pluto.tv/episodes/60d0435428f1d30013ed3465/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130301</date>
     <series-id system="pluto">60d0435328f1d30013ed345f</series-id>
-    <category>Romance</category>
     <category>Movie</category>
+    <category>Romance</category>
   </programme>
   <programme start="20260904222339 +0000" stop="20260904235734 +0000" channel="Pluto TV Cine Romántico">
     <title>Enamorarse</title>
@@ -74216,9 +74196,9 @@
     <icon src="https://images.pluto.tv/episodes/64fafeb6f6f05d00134d82a0/poster_1779201100411.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130101</date>
     <series-id system="pluto">64fafeb5f6f05d00134d8282</series-id>
+    <category>Movie</category>
     <category>Romantic comedy</category>
     <category>Comedy</category>
-    <category>Movie</category>
   </programme>
   <programme start="20260904235734 +0000" stop="20260905013734 +0000" channel="Pluto TV Cine Romántico">
     <title>Un amor de verano</title>
@@ -74227,9 +74207,9 @@
     <icon src="https://images.pluto.tv/episodes/63ce68b2798844001b194615/poster_1769036402405.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20190101</date>
     <series-id system="pluto">63ce68b0798844001b1945f5</series-id>
-    <category>Romance</category>
-    <category>Movie</category>
     <category>Foreign Romance</category>
+    <category>Movie</category>
+    <category>Romance</category>
   </programme>
   <programme start="20260905013734 +0000" stop="20260905031058 +0000" channel="Pluto TV Cine Romántico">
     <title>Encuentra el amor en Valentine</title>
@@ -74238,8 +74218,8 @@
     <icon src="https://images.pluto.tv/episodes/6a4cc5b16fa7bb8b799731bd/poster_1783416241978.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20160101</date>
     <series-id system="pluto">6a4cc5b06fa7bb8b7997319d</series-id>
-    <category>Romance</category>
     <category>Movie</category>
+    <category>Romance</category>
   </programme>
   <programme start="20260905031058 +0000" stop="20260905044525 +0000" channel="Pluto TV Cine Romántico">
     <title>La fuente de los deseos</title>
@@ -74248,8 +74228,8 @@
     <icon src="https://images.pluto.tv/episodes/6a4cc7193aa4669fc73bbef4/poster_1783416602842.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20170101</date>
     <series-id system="pluto">6a4cc7183aa4669fc73bbed4</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20260905044525 +0000" stop="20260905061531 +0000" channel="Pluto TV Cine Romántico">
     <title>Corazones perdidos</title>
@@ -74258,8 +74238,28 @@
     <icon src="https://images.pluto.tv/episodes/6a22ac370eeacb372363d01f/poster_1785234601801.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20171203</date>
     <series-id system="pluto">6a22a691a87694f9965e52eb</series-id>
-    <category>Romance</category>
     <category>Movie</category>
+    <category>Romance</category>
+  </programme>
+  <programme start="20260905061531 +0000" stop="20260905074211 +0000" channel="Pluto TV Cine Romántico">
+    <title>Mensaje De Amor En Una Botella</title>
+    <episode-num system="original-air-date">20190413000000 +0000</episode-num>
+    <desc>Desafortunadamente en el amor, Abbey comparte las frustraciones de sus citas con su tía, quien sugiere que escriba una carta de amor explicando los deseos de su verdadero corazón.</desc>
+    <icon src="https://images.pluto.tv/episodes/660d6952a79dde00142006b4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20190413</date>
+    <series-id system="pluto">660d6950a79dde0014200694</series-id>
+    <category>Movie</category>
+    <category>Drama</category>
+  </programme>
+  <programme start="20260905074211 +0000" stop="20260905092351 +0000" channel="Pluto TV Cine Romántico">
+    <title>Red Dog, una historia de lealtad</title>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>Basada en una historia real, la película cuenta cómo un perro recorre Australia creando vínculos con los habitantes de un pueblo minero, convirtiéndose en un símbolo de amistad y lealtad.</desc>
+    <icon src="https://images.pluto.tv/episodes/69fb6c8ca3d970fa62b16b6f/poster_1778085005731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20110101</date>
+    <series-id system="pluto">69fb6c8ca3d970fa62b16b4f</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
   </programme>
 	<programme start="20260904020600 +0200" stop="20260904043700 +0200" channel="Cines Verdi TV">
     <title>La venganza es mía</title>
@@ -94478,6 +94478,196 @@ From WIN Stadium in Wollongong, New South Wales, Australia.</desc>
 			<value>12</value>
 		</rating>
 	</programme>
+  <programme start="20260904120350 +0000" stop="20260904134650 +0000" channel="Pluto TV Cine Acción">
+    <title>Rescate en Damasco</title>
+    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
+    <desc>Adib Abdel Kareem escapó de Siria hace más de 30 años, dejando atrás al amor de su vida, Fátima, para establecerse en Toronto y empezar una nueva vida. Pero ahora debe regresar a su país cuando su hija Muna, que es periodista, desaparece en Damasco.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cc2fa72a5001a5fd6fb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20120101</date>
+    <series-id system="pluto">5f4f5cc2fa72a5001a5fd6f3</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904134650 +0000" stop="20260904154750 +0000" channel="Pluto TV Cine Acción">
+    <title>Alpha</title>
+    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
+    <desc>Tres amigos se ven obligados a separarse tras un atraco frustrado. Ocho años más tarde, el destino los vuelve a unir a pesar de haber tomado caminos muy distintos.</desc>
+    <icon src="https://images.pluto.tv/episodes/62b479d9cb0324001353e300/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130101</date>
+    <series-id system="pluto">62b479d7cb0324001353e2f9</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904121350 +0000" stop="20260904135650 +0000" channel="Pluto TV Catástrofes">
+    <title>Tentáculos de las Bermudas</title>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Cuando el Air Force One cae sobre el Triángulo de las Bermudas, la Marina envía su mejor equipo de rescate. Pero mientras salvan el presidente, el equipo despierta a una criatura que amenaza a toda la costa este.</desc>
+    <icon src="https://images.pluto.tv/episodes/608fa38b6a72b000130cc8ae/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20140101</date>
+    <series-id system="pluto">608fa3896a72b000130cc8a8</series-id>
+    <category>Action</category>
+    <category>Science fiction</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904135650 +0000" stop="20260904154050 +0000" channel="Pluto TV Catástrofes">
+    <title>La era del mañana</title>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Cuando el sol golpea un altar, escondido dentro de la antigua Pirámide del Sol en México, se crea un faro que desencadena una guerra relámpago alienígena. En cuestión de horas, sus platillos destruyen toda la infraestructura militar de la tierra.</desc>
+    <icon src="https://images.pluto.tv/episodes/608fa39b6a72b000130cca94/poster_1769193003470.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20140101</date>
+    <series-id system="pluto">608fa39a6a72b000130cca8e</series-id>
+    <category>Action</category>
+    <category>Science fiction</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904120044 +0000" stop="20260904134444 +0000" channel="Pluto TV Sci-Fi">
+    <title>La era del mañana</title>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Cuando el sol golpea un altar, escondido dentro de la antigua Pirámide del Sol en México, se crea un faro que desencadena una guerra relámpago alienígena. En cuestión de horas, sus platillos destruyen toda la infraestructura militar de la tierra.</desc>
+    <icon src="https://images.pluto.tv/episodes/608fa39b6a72b000130cca94/poster_1769193003470.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20140101</date>
+    <series-id system="pluto">608fa39a6a72b000130cca8e</series-id>
+    <category>Action</category>
+    <category>Science fiction</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904134444 +0000" stop="20260904152344 +0000" channel="Pluto TV Sci-Fi">
+    <title>San Andreas mega seísmo</title>
+    <episode-num system="original-air-date">20190101000000 +0000</episode-num>
+    <desc>Los científicos descubren algo horrible: el "Gran Terremoto" será en dos días y hundirá California en el océano. Su única esperanza es romper un volcán que desplazará la energía del terremoto y construirá una nueva corteza en la superficie.</desc>
+    <icon src="https://images.pluto.tv/episodes/6093a2a15cb63f001a15108f/poster_1768605484584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20190101</date>
+    <series-id system="pluto">6093a29f5cb63f001a151089</series-id>
+    <category>Deadly Disasters</category>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904125257 +0000" stop="20260904144657 +0000" channel="Pluto TV Psycho">
+    <title>La Casa Roja</title>
+    <episode-num system="original-air-date">19470101000000 +0000</episode-num>
+    <desc>Un anciano y su hermana ocultan un terrible secreto a su hija adolescente adoptiva, sobre una granja abandonada escondida, ubicada en lo profundo del bosque.</desc>
+    <icon src="https://images.pluto.tv/episodes/615eaaf374755c001a4ca3f8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19470101</date>
+    <series-id system="pluto">615eaaf274755c001a4ca3f2</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904105153 +0000" stop="20260904134053 +0000" channel="Pluto TV Thrillers">
+    <title>Conspiración de poder</title>
+    <episode-num system="original-air-date">20150101000000 +0000</episode-num>
+    <desc>Tras un devastador accidente en una torre de perforación que provoca un auténtico desastre medioambiental, la agente federal Ellie Molaro emprende una investigación junto a un misterioso informante llamado Carter.</desc>
+    <icon src="https://images.pluto.tv/episodes/633a8ed1b2e75600132b489f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20150101</date>
+    <series-id system="pluto">633a8ecfb2e75600132b4898</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904134053 +0000" stop="20260904152853 +0000" channel="Pluto TV Thrillers">
+    <title>La marca del lobo</title>
+    <episode-num system="original-air-date">20060101000000 +0000</episode-num>
+    <desc>Hace diez años, una muchacha presencia el asesinato de su familia. La joven sobrevivió adentrándose en el bosque y convirtiéndose en algo que los cazadores nunca hallarían: un lobo. Ahora, a pesar de que vive al otro lado del mundo, ella sigue huyendo.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4eac73db45a1001a794f79/poster_1769024522292.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20060101</date>
+    <series-id system="pluto">5f4eac6edb45a1001a794f71</series-id>
+    <category>Romance</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904120125 +0000" stop="20260904134822 +0000" channel="Pluto TV Cine Estelar">
+    <title>Juana de Arco</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">68ef5cf4393a03f3e39a6df5</episode-num>
+    <episode-num system="original-air-date">19990518000000 +0000</episode-num>
+    <desc>Guiada por visiones divinas, Juana de Arco, adolescente del siglo XV, lidera a Francia en guerra. Parte 2.</desc>
+    <icon src="https://images.pluto.tv/series/68ef5b8833c9798391286c00/tile_1760517003718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19990518</date>
+    <series-id system="pluto">68ef5b8833c9798391286c00</series-id>
+    <sub-title>Parte 2</sub-title>
+    <category>Adventure</category>
+    <category>Action</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20260904134822 +0000" stop="20260904151822 +0000" channel="Pluto TV Cine Estelar">
+    <title>Tapas</title>
+    <episode-num system="original-air-date">20050101000000 +0000</episode-num>
+    <desc>Varias historias se entrelazan en un barrio de trabajadores de una gran ciudad.</desc>
+    <icon src="https://images.pluto.tv/episodes/62876af6e26cc40014b2af56/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20050101</date>
+    <series-id system="pluto">62876af4e26cc40014b2af4f</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904125418 +0000" stop="20260904143818 +0000" channel="Pluto TV Cine Drama">
+    <title>El virginiano</title>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Cuando una escritora de la gran ciudad (Penny) comienza a preguntar sobre las atroces acciones de los ladrones de ganado, South rápidamente defiende la brutal realidad que impera el “código del Oeste”.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4e184bfa72a5001a5fa7de/poster_1769023802918.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20140101</date>
+    <series-id system="pluto">5f4e184afa72a5001a5fa7d6</series-id>
+    <category>Western</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904122935 +0000" stop="20260904140735 +0000" channel="Pluto TV Cine Comedia">
+    <title>Tipos Legales</title>
+    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
+    <desc>Val (Al Pacino) sale de la cárcel tras cumplir 28 años de condena. Doc (Christopher Walken), su mejor amigo, le espera a la salida para ir a ver a Hirsch (Alan Arkin), otro viejo colega.</desc>
+    <icon src="https://images.pluto.tv/episodes/62876b04e26cc40014b2b7e5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20120101</date>
+    <series-id system="pluto">62876b03e26cc40014b2b7de</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904140735 +0000" stop="20260904154010 +0000" channel="Pluto TV Cine Comedia">
+    <title>Incidencias</title>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>Los pasajeros del tren comienzan a enfrentarse entre sí cuando su viaje se detiene en medio de la nada durante un clima peligroso.</desc>
+    <icon src="https://images.pluto.tv/episodes/66462697a08618001349157a/poster_1768599734197.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20160101</date>
+    <series-id system="pluto">66462696a08618001349155b</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+    <category>Foreign Comedies</category>
+  </programme>
+  <programme start="20260904120627 +0000" stop="20260904135426 +0000" channel="Pluto TV Comedias Románticas">
+    <title>Diferencias irreconciliables</title>
+    <episode-num system="original-air-date">19840928000000 +0000</episode-num>
+    <desc>Alternando entre el pasado y el presente, una niña precoz demanda a sus padres egoístas la emancipación, sorprendiéndolos a ambos.</desc>
+    <icon src="https://images.pluto.tv/episodes/69a061598c539e794a9239d7/poster_1772118362154.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19840928</date>
+    <series-id system="pluto">69a061588c539e794a9239b6</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904135426 +0000" stop="20260904152930 +0000" channel="Pluto TV Comedias Románticas">
+    <title>Querida Elisabeth</title>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>La vida de Sid Straw se desmorona a medida que trata de demostrar a sus amigos que entabló amistad con una celebridad mientras estaba en la universidad.</desc>
+    <icon src="https://images.pluto.tv/episodes/6502c8c53b20050013826194/poster_1768604674409.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20200101</date>
+    <series-id system="pluto">6502c8c33b20050013826175</series-id>
+    <category>Dark Humor &amp; Black Comedies</category>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904115655 +0000" stop="20260904132938 +0000" channel="Pluto TV Cine Romántico">
+    <title>Aprendiz de gigoló</title>
+    <episode-num system="original-air-date">20130831000000 +0000</episode-num>
+    <desc>Un hombre convence a su amigo para trabajar como gigoló, lo que provoca situaciones cómicas y complicadas.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a0b31e59db2f8937b420af3/poster_1779118566155.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130831</date>
+    <series-id system="pluto">6a0b31e49db2f8937b420ad4</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20260904132938 +0000" stop="20260904151638 +0000" channel="Pluto TV Cine Romántico">
+    <title>El amor no es lo que era</title>
+    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
+    <desc>Tres historias de amor que se desarrollan en la misma ciudad. Paz y Jorge llevan tres años casados pero su matrimonio no funciona, la relación se está apagando y ninguno de los dos encuentra la solución.</desc>
+    <icon src="https://images.pluto.tv/episodes/61a4a4efeeb8a3001307b624/poster_1769039282180.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130101</date>
+    <series-id system="pluto">61a4a4eeeeb8a3001307b61e</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
 	<programme start="20260905130000 +0200" stop="20260905152000 +0200" channel="Primera Federación">
     <title>DIRECTO Jornada 2: Real Madrid Castilla - Juventud Torremolinos T26/27 · Primera Federación</title>
     <sub-title>2026 | TP | ★5.6/10</sub-title>
