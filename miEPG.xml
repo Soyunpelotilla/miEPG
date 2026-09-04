@@ -1442,6 +1442,13 @@
     <display-name>PT | DAZN 5 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" />
   </channel>
+  <channel id="IT - Sky Sport F1">
+    <display-name>IT - Sky Sport F1 SD</display-name>
+    <display-name>IT - Sky Sport F1 HD</display-name>
+    <display-name>IT - Sky Sport F1 FHD</display-name>
+    <display-name>IT - Sky Sport F1 4K</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/04/26/20260426022223323597_44.png" />
+  </channel>
 	<programme start="20260904071100 +0200" stop="20260904080000 +0200" channel="M+ LaLiga">
     <title>Antoine Griezmann. Enamorado del Atleti</title>
     <sub-title>2026 | TP | ★7.4/10</sub-title>
@@ -94478,6 +94485,451 @@ From WIN Stadium in Wollongong, New South Wales, Australia.</desc>
 			<value>12</value>
 		</rating>
 	</programme>
+  <programme start="20260904000000 +0000" stop="20260904010000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904010000 +0000" stop="20260904014000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Conf. Stampa Piloti</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904014000 +0000" stop="20260904014500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Pit Walk</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904014500 +0000" stop="20260904020000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Pit Walk</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904020000 +0000" stop="20260904034500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Gara</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904034500 +0000" stop="20260904040000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Pit Walk</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904040000 +0000" stop="20260904050000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Gara</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904050000 +0000" stop="20260904053000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Italia 1996 – F1</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904053000 +0000" stop="20260904061000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Conf. Stampa Piloti</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904061000 +0000" stop="20260904061500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Pit Walk</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904061500 +0000" stop="20260904063000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Pit Walk</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904063000 +0000" stop="20260904073000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Monza: Prove libere</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904073000 +0000" stop="20260904074000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Italia</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904074000 +0000" stop="20260904074500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Programmazione non disponibile</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904074500 +0000" stop="20260904075500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Programmazione non disponibile</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904075500 +0000" stop="20260904085500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Monza: Prove libere</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904085500 +0000" stop="20260904090000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Crazy Race</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904090000 +0000" stop="20260904100000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Crazy Race</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904100000 +0000" stop="20260904102500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Pre Libere</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904102500 +0000" stop="20260904103000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Prove libere 1</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904103000 +0000" stop="20260904113000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Prove libere 1</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904113000 +0000" stop="20260904113500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Post Libere</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904113500 +0000" stop="20260904115500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Post Libere</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904115500 +0000" stop="20260904125000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Monza: Qualifiche</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904125000 +0000" stop="20260904133000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Monza: Qualifiche</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904133000 +0000" stop="20260904135500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Pre Libere</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904135500 +0000" stop="20260904140000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Prove libere 2</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904140000 +0000" stop="20260904150000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Prove libere 2</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904150000 +0000" stop="20260904150500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Post Libere</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904150500 +0000" stop="20260904152500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Post Libere</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904152500 +0000" stop="20260904163000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Italia: Prove libere</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904163000 +0000" stop="20260904165500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Show</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904165500 +0000" stop="20260904170000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Inside The Team – Un Gp con Kimi</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904170000 +0000" stop="20260904173000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Un GP con Kimi</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904173000 +0000" stop="20260904174500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Monza: Qualifiche</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904174500 +0000" stop="20260904181500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Conf. Stampa Team Principal</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904181500 +0000" stop="20260904193000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Prove libere 2</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904193000 +0000" stop="20260904200000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Show</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904200000 +0000" stop="20260904204500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Inside The Team – Un Gp con Kimi</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904204500 +0000" stop="20260904220000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Prove libere 2</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904220000 +0000" stop="20260904223000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Italia 1996 – F1</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904223000 +0000" stop="20260904234500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Prove libere 2</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260904234500 +0000" stop="20260905000000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Show</title>
+    <desc />
+    <date>2026-09-04</date>
+  </programme>
+  <programme start="20260905001500 +0000" stop="20260905004500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Conf. Stampa Team Principal</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905004500 +0000" stop="20260905020000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Prove libere 2</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905020000 +0000" stop="20260905024500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Monza: Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905024500 +0000" stop="20260905040000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Prove libere 1</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905040000 +0000" stop="20260905044500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Monza: Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905044500 +0000" stop="20260905053000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Monza: Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905053000 +0000" stop="20260905060000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Show</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905060000 +0000" stop="20260905071000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Prove libere 2</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905071000 +0000" stop="20260905071500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Programmazione non disponibile</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905071500 +0000" stop="20260905072500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Programmazione non disponibile</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905072500 +0000" stop="20260905083000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Monza: Sprint Race</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905083000 +0000" stop="20260905084500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Italia</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905084500 +0000" stop="20260905093000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Italia: Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905093000 +0000" stop="20260905094500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Spielberg</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905094500 +0000" stop="20260905100000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Italia 1996 – F1</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905101500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Pre Libere</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905101500 +0000" stop="20260905102500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Pre Libere</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905102500 +0000" stop="20260905103000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Prove libere 3</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905103000 +0000" stop="20260905113000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Prove libere 3</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905113000 +0000" stop="20260905113500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Post Libere</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905113500 +0000" stop="20260905115500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Post Libere</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905115500 +0000" stop="20260905121000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Budapest</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905121000 +0000" stop="20260905131500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Monza: Sprint Race</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905131500 +0000" stop="20260905133000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Warm Up</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905133000 +0000" stop="20260905135500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Pre Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905135500 +0000" stop="20260905140000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905140000 +0000" stop="20260905151500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905151500 +0000" stop="20260905154500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Post Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905154500 +0000" stop="20260905161500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Show</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905161500 +0000" stop="20260905163000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Inside The Team – Un Gp con Kimi</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905163000 +0000" stop="20260905170000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905170000 +0000" stop="20260905171500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Giro d'Italia: Lewis &amp; Charles</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905171500 +0000" stop="20260905172000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905172000 +0000" stop="20260905174500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905174500 +0000" stop="20260905181500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Show</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905181500 +0000" stop="20260905183000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Monza: Sprint Race</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905183000 +0000" stop="20260905190000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Show</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905190000 +0000" stop="20260905191500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Italia</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905191500 +0000" stop="20260905192000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905192000 +0000" stop="20260905203000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905203000 +0000" stop="20260905203500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Italia 1996 – F1</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905203500 +0000" stop="20260905210000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Italia 1996 – F1</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905210000 +0000" stop="20260905221500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">GP Italia: Qualifiche</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905221500 +0000" stop="20260905224500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Show</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905224500 +0000" stop="20260905234500 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">Monza: Sprint Race</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
+  <programme start="20260905234500 +0000" stop="20260906000000 +0000" channel="IT - Sky Sport F1">
+    <title lang="zh">F1 Paddock Live Show</title>
+    <desc />
+    <date>2026-09-05</date>
+  </programme>
   <programme start="20260904120350 +0000" stop="20260904134650 +0000" channel="Pluto TV Cine Acción">
     <title>Rescate en Damasco</title>
     <episode-num system="original-air-date">20120101000000 +0000</episode-num>
