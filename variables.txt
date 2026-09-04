@@ -1,3 +1,3 @@
 display-name= SD, HD, FHD, 4K
-dias-pasados=3
-dias-futuros=5
+dias-pasados=2
+dias-futuros=2
