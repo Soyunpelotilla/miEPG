@@ -124,7 +124,7 @@ AMC Western,AMC Western,https://raw.githubusercontent.com/davidmuma/picons_doble
 Warner TV HD,Warner TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png
 AXN HD,AXN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png
 AXN Movies HD,AXN Movies,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png
-Sony One,
+643054b1fc3be59477853717-692232ee5cbe620c1f9b6bc5,Sony One Hits Comedia,
 643054b1fc3be59477853717-6922322350fe592fd6d5b7e6,Sony One Hits Acción,
 National Geographic HD,National Geographic,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png
 Nat Geo Wild HD,Nat Geo Wild,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png
