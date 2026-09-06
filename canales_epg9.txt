@@ -1,2 +1,2 @@
-# Fuente: https://epg.pw/api/epg.xml?lang=en&date=20260903&channel_id=451927
-451927,DAZN 2,
+# Fuente: https://epg.pw/api/epg.xml?lang=en&date=20260903&channel_id=451928
+451928,DAZN 1,
