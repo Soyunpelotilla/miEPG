@@ -11472,7 +11472,6 @@ CWWSTMDT2.us,US - CW WSTM-DT2 Syracuse NY,https://iptv-epg.org/images/6tskDTXbG8
 CWWTLF.us,US - CW WTLF Tallahassee FL,https://iptv-epg.org/images/Fg2BkUGvidJgvabl3xpaDAddXQLS06JMGVz_hbZhNyk8MzKXomIPKlXUMMnM_leTUnSA_Oswd7zOYWZYVmGYMwbYquLeNWJahxvsHQ
 CWWTOG.us,US - CW WTOG Tampa St. Petersburg FL,https://iptv-epg.org/images/NuILh7JBB9_YwJWehxvro0S_aZ3bhR5RRJk2XxBlpAcNciwYlkrAISmFsAGwubSifx94bF4B6CekwR3_YnHcVrEQDepK2ouoAx1Dhw
 CWWTOKDT3.us,US - CW WTOK-DT3 Meridian MS,https://iptv-epg.org/images/4kQyTfNmbKgwVh1Bcn6bg9jYOwGurHQefUxFoBfP0pYzMxq94ELRONo8LpcYgV3y0ic_MTMC-K3jX6y-aJL1Ju4DMEvl_O76_cB7UhOqyg
-CWWTTO.us,US - CW WTTO Birmingham AL,https://iptv-epg.org/images/SMnP0Br0OPMGh9DJpdZbzdiCGXKd0N_31KoMtLdIPgh32Rr5JZxVx0x90cWiuuUrGfKmmUPO9hWlrmwkhSWoxbcpVtNGNhDAln2MwA
 CWWTVGDT2.us,US - CW WTVG-DT2 Toledo OH,https://iptv-epg.org/images/kn8UUe-w92A-fEl9Rd-WYMVz_xWNKz6sbUmn5evMdgttzGMwl5D9RMSnXwcpUx6armAQeAHUQhCiurHJeZRyF48fcgkk7VzRn6OsQGv75Q
 CWWTVW.us,US - CW WTVW Evansville IN,https://iptv-epg.org/images/5euNBSN560R80L9FlbM6dUYSQYalZxM0tPQvlrfvq-KWxBwrVhGf7-j_ZrP-_xSUotZ87pdg9dN5e055EfZFbbHHAl0T63odSCPGXA
 CWWTVX.us,US - CW WTVX West Palm Beach FL,https://iptv-epg.org/images/Pwjc2npcPOkd37LqIMeWicUEJOaBkfZnF17cA8x9MU9n_TOoPHPzm5r-mp_qGjhKE8GPEquod6XNT9dLsmbp8I4Zb6flAqZ4BaEGIQ
