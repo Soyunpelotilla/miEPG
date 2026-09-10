@@ -196,14 +196,13 @@ Espn6.ar,ESPN 6 AR,https://images.open-epg.com/x962.png
 FoxSports.ar,FOX SPORTS AR,https://images.open-epg.com/x972.png
 FoxSports2.ar,FOX SPORTS 2 AR,https://images.open-epg.com/16782312.png
 FoxSports3.ar,FOX SPORTS 3 AR,https://images.open-epg.com/16782313.png
-107399,DSPORTS CO,https://emby.tmsimg.com/assets/s109752_ld_h15_ab.png
-ESPN.co,ESPN CO,
-ESPN 2.co,ESPN 2 CO,
-ESPN 3.co,ESPN 3 CO,
-ESPN 4.co,ESPN 4 CO,
-ESPN 5.co,ESPN 5 CO,
-ESPN 6 HD.co,ESPN 6 CO,
-ESPN 7 HD.co,ESPN 7 CO,
+ESPN.bo,ESPN BO
+ESPN2.bo,ESPN 2 BO
+ESPN3.bo,ESPN 3 BO
+ESPN4.bo,ESPN 4 BO
+ESPN5.bo,ESPN 5 BO
+ESPN6.bo,ESPN 6 BO
+ESPN7.bo,ESPN 7 BO
 UNIVERSO.us,Universo,https://iptv-epg.org/logos/USA/UNIVERSO.us.png
 Telemundo.us,Telemundo East,https://iptv-epg.org/logos/USA/Telemundo.us.png
 TelemundoWest.us,Telemundo West,https://iptv-epg.org/logos/USA/TelemundoWest.us.png
