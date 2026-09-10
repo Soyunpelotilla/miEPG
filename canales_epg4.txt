@@ -382,7 +382,7 @@
 112239,Fox Sports 3,https://emby.tmsimg.com/assets/s105006_ld_h15_aa.png
 123189,Fox Sports 3 (Argentina),https://emby.tmsimg.com/assets/GNLZZGG002KWYJP.png
 123582,Fox Sports Premium,https://emby.tmsimg.com/assets/s123582_ld_h15_aa.png
-204407,FOX+,https://emby.tmsimg.com/sources/generic/generic_sources_h5.png
+204407,FOX+,https://emby.tmsimg.com/assets/GNLZZGG003N9FMT.png
 58685,France 24,https://emby.tmsimg.com/assets/s58685_ld_h15_aa.png
 105781,France 24,https://emby.tmsimg.com/assets/s105780_ld_h15_ab.png
 70130,France 24 English,https://emby.tmsimg.com/assets/s70130_ld_h15_aa.png
