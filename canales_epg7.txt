@@ -11304,7 +11304,6 @@ CBSKBTX.us,US - CBS KBTX Bryan College Station TX,https://iptv-epg.org/images/Gp
 CBSKCBS.us,US - CBS KCBS Los Angeles CA,https://iptv-epg.org/images/9Mz4noAEqOAp0552PO3rz8ZlT4vrCUcTqCrbCyair1utV3oGULIVnBnme0ZYJ5rrjJw4yscgvPt7JLFDRfA6zLOjOctY3m70J4AcSas
 CBSKCCI.us,US - CBS KCCI Des Moines-Ames IA,https://iptv-epg.org/images/Zp3tqf_LdMuyORePWZ_8myYcb9iXGlH2NV9G61Q2OeYOwb3AjjylSx94xNxlUpz7YKGBUXsv2GndclmKDCIiNNGm3Y9fw6akYd2ZOgo
 CBSKCJO.us,US - CBS KCJO St. Joseph MO,https://iptv-epg.org/images/-Y93itjQHQF1XLakNdutm9_AOZnkzKtcwqmKHGnNOEC8D5MV6KKEVSPp5TG5HNdFV2c9WiGfyGH69snrR_4_xzMZHrJOFb7DEDzbinM
-CBSKCLO.us,US - CBS KCLO Rapid City SD,https://iptv-epg.org/images/5mRhE8gXk8eSMEo0sJWnXHsJIaDPun8v3G7WZrMzVMYRhOzzDxEEKgsRH6ZevUH4nN6VS5Lgbvby4xg4rMLhSYZc8h6vbQ2jU8H0Bk4
 CBSKCNC.us,US - CBS KCNC Denver CO,https://iptv-epg.org/images/JSihy4uFyrXlb9SQrLz5p_s4p7ImlO1L2Ry0r6I2innJP4d3siZcbp_ndIrRgzfq3kSQtyuZs4l5atD9plRUzNnFvUDsEZXE53OOB0s
 CBSKCTV.us,US - CBS KCTV Kansas City MO,https://iptv-epg.org/images/Ps4M6MUIUVJ5eWeiPVF5FHTVh2qDcN17pc009WWX_O5UPBEQNDqPgcUoOS418kf70szrhFZm7f-plsw_w-hu54SGNLmW-tM73hYrp-4
 CBSKDBC.us,US - CBS KDBC El Paso TX,https://iptv-epg.org/images/gR0HPd4GnAviLPxaF4r_yqK1XSMMWmVKD1wqGHyeUtHrmYnZf8vTaRB7UIFbkduiJkIkD-dCPXzuNpYobzcKvTmIRNIIFbNBOG1LykI
