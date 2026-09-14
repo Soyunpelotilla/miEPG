@@ -1,5 +1,4 @@
 # Fuente: https://i.mjh.nz/PlutoTV/es.xml.gz
-680ba9878e4b08935e31462b,Top Gear: Racing Icons,https://images.pluto.tv/channels/680ba9878e4b08935e31462b/colorLogoPNG_1748523330362.png
 6a43d3bae0c1a33841302952,Noche y día,https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png
 6a31544f2c1c785c1138dbb1,Mr. Bean,https://images.pluto.tv/channels/6a31544f2c1c785c1138dbb1/colorLogoPNG_1781617788564.png
 6a43d26599d7b121476c351c,Acapulco Shore,https://images.pluto.tv/channels/6a43d26599d7b121476c351c/colorLogoPNG_1787302997380.png

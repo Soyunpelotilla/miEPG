@@ -158,7 +158,7 @@
 47425,Canal Local,https://emby.tmsimg.com/sources/generic/generic_sources_h5.png
 16466,Canal Nueve,https://emby.tmsimg.com/assets/s116171_ld_h15_aa.png
 59528,Canal Nueve,https://emby.tmsimg.com/assets/s59528_ld_h15_aa.png
-15178,Canal Once,https://emby.tmsimg.com/assets/s116166_ld_h15_aa.png
+15178,Canal Once,https://emby.tmsimg.com/assets/GNLZZGG003NY4FL.png
 16211,Canal Sony,https://emby.tmsimg.com/assets/s16211_ld_h15_ab.png
 19385,Canal Sony,https://emby.tmsimg.com/assets/s19385_ld_h15_ac.png
 70312,Canal Sony,https://emby.tmsimg.com/assets/s70312_ld_h15_ab.png
@@ -846,7 +846,7 @@
 12024,XEFE Canal 2 Nuevo Laredo,https://emby.tmsimg.com/sources/generic/generic_sources_h5.png
 15232,XEIMT TV Metropolitan (Canal 22),https://emby.tmsimg.com/assets/s116168_ld_h15_aa.png
 102008,XEIMT-DT2 (SD Feed),https://emby.tmsimg.com/assets/s116168_ld_h15_aa.png
-87620,XEIPN-TDT,https://emby.tmsimg.com/assets/s116166_ld_h15_aa.png
+87620,XEIPN-TDT,https://emby.tmsimg.com/assets/GNLZZGG003NY4FL.png
 89260,XEIPN-TDT2,https://emby.tmsimg.com/assets/s116170_ld_h15_aa.png
 91710,XELN-TDT,https://emby.tmsimg.com/assets/s116152_ld_h15_aa.png
 88216,XEPM-TDT,https://emby.tmsimg.com/assets/s116151_ld_h15_ac.png
