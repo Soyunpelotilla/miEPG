@@ -292,7 +292,7 @@
 123192,Dreamworks HD,https://emby.tmsimg.com/assets/s123192_ld_h15_aa.png
 105771,DuckTv HD (Spanish),https://emby.tmsimg.com/sources/generic/generic_sources_h5.png
 102415,Duplicate XEIMT TV Metropolitan (Canal 22),https://emby.tmsimg.com/assets/s116168_ld_h15_aa.png
-102405,Duplicate XEIPN-TV Canal 11 (Once TV),https://emby.tmsimg.com/assets/s116166_ld_h15_aa.png
+102405,Duplicate XEIPN-TV Canal 11 (Once TV),https://emby.tmsimg.com/assets/GNLZZGG003NY4FL.png
 97020,Duplicate XEQ,https://emby.tmsimg.com/assets/s116171_ld_h15_aa.png
 102406,Duplicate XHIMT Canal 7 TV Azteca,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 102784,Duplicate XHTV-TDT,https://emby.tmsimg.com/assets/s66635_ld_h15_ac.png
@@ -561,7 +561,7 @@
 91644,NU Music,https://emby.tmsimg.com/assets/s47403_ld_h15_aa.png
 114360,Nu9ve,https://emby.tmsimg.com/assets/s59528_ld_h15_aa.png
 36139,Once,https://emby.tmsimg.com/assets/s116166_ld_h15_aa.png
-105162,Once,https://emby.tmsimg.com/assets/s116166_ld_h15_aa.png
+105162,Once,https://emby.tmsimg.com/assets/GNLZZGG003NY4FL.png
 179586,Once Niñas y Niños,https://emby.tmsimg.com/sources/generic/generic_sources_h5.png
 14776,Outdoor Channel,https://emby.tmsimg.com/assets/s14776_ld_h15_ab.png
 124934,Outdoor Channel,https://emby.tmsimg.com/assets/s14776_ld_h15_ab.png
@@ -935,7 +935,7 @@
 96655,XHCH-TDT,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 91806,XHCHL-TDT,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 96660,XHCHZ-TDT,https://emby.tmsimg.com/assets/s116152_ld_h15_aa.png
-91827,XHCIP-TDT,https://emby.tmsimg.com/assets/s116166_ld_h15_aa.png
+91827,XHCIP-TDT,https://emby.tmsimg.com/assets/GNLZZGG003NY4FL.png
 96740,XHCJ-TDT,https://emby.tmsimg.com/assets/s116153_ld_h15_ab.png
 60736,XHCJE-TDT,https://emby.tmsimg.com/assets/s116153_ld_h15_ab.png
 104728,XHCJE-TDT2,https://emby.tmsimg.com/assets/GNLZZGG002BFC89.png
@@ -952,9 +952,9 @@
 91745,XHCOL-TDT,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 96688,XHCOM-TDT,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 96724,XHCOV-TDT,https://emby.tmsimg.com/assets/s116152_ld_h15_aa.png
-48356,XHCOZ-TDT,https://emby.tmsimg.com/assets/s116166_ld_h15_aa.png
+48356,XHCOZ-TDT,https://emby.tmsimg.com/assets/GNLZZGG003NY4FL.png
 36712,XHCPA-TDT,https://emby.tmsimg.com/assets/s116151_ld_h15_ac.png
-131264,XHCPDJ-TDT,https://emby.tmsimg.com/assets/s116166_ld_h15_aa.png
+131264,XHCPDJ-TDT,https://emby.tmsimg.com/assets/GNLZZGG003NY4FL.png
 91789,XHCPE-TDT,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 96776,XHCPZ-TDT,https://emby.tmsimg.com/assets/s116153_ld_h15_ab.png
 96782,XHCQO-TDT,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
@@ -1186,7 +1186,7 @@
 91865,XHSFJ-TDT,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 96619,XHSJC-TDT,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 91746,XHSLA-TDT,https://emby.tmsimg.com/assets/s116152_ld_h15_aa.png
-91748,XHSLP-TDT,https://emby.tmsimg.com/assets/s116166_ld_h15_aa.png
+91748,XHSLP-TDT,https://emby.tmsimg.com/assets/GNLZZGG003NY4FL.png
 91716,XHSLS-TDT,https://emby.tmsimg.com/sources/generic/generic_sources_h5.png
 91715,XHSLT-TDT,https://emby.tmsimg.com/assets/s116151_ld_h15_ac.png
 18033,XHSLV-TV Canal 7,https://emby.tmsimg.com/assets/s116171_ld_h15_aa.png
@@ -1223,7 +1223,7 @@
 91788,XHTHP-TDT,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 68062,XHTIT-TDT,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 108058,XHTIT-TDT2,https://emby.tmsimg.com/assets/s116157_ld_h15_ab.png
-86764,XHTJB-TDT,https://emby.tmsimg.com/assets/s116166_ld_h15_aa.png
+86764,XHTJB-TDT,https://emby.tmsimg.com/assets/GNLZZGG003NY4FL.png
 96636,XHTK-TDT,https://emby.tmsimg.com/assets/s116151_ld_h15_ac.png
 48439,XHTLX-TDT,https://emby.tmsimg.com/sources/generic/generic_sources_h5.png
 91862,XHTM-TDT,https://emby.tmsimg.com/assets/s116151_ld_h15_ac.png
@@ -1235,7 +1235,7 @@
 91840,XHTOL-TDT,https://emby.tmsimg.com/assets/s116151_ld_h15_ac.png
 96734,XHTON-TDT,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 96761,XHTP-TDT,https://emby.tmsimg.com/assets/s116151_ld_h15_ac.png
-48134,XHTPG-TDT,https://emby.tmsimg.com/assets/s116166_ld_h15_aa.png
+48134,XHTPG-TDT,https://emby.tmsimg.com/assets/GNLZZGG003NY4FL.png
 36822,XHTPZ 24,https://emby.tmsimg.com/assets/s116171_ld_h15_aa.png
 96694,XHTPZ-TDT,https://emby.tmsimg.com/assets/s116171_ld_h15_aa.png
 91784,XHTRES-TDT,https://emby.tmsimg.com/assets/s111249_ld_h15_aa.png
