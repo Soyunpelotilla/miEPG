@@ -12866,7 +12866,7 @@ PlutoTVTrueCrime.pluto,PLUTO - Pluto TV True Crime,https://iptv-epg.org/images/j
 PlutoTVWesterns.pluto,PLUTO - Pluto TV Westerns,https://iptv-epg.org/images/quhcjOR297dfmektzfEERb63-lDOJCb6RJ0q5Femu7VhMJesCkP158L8KRMwUjotmUN7fCNsOTxF7XExeJxKnuRwSqhaLRHIKrvheHxE5NBxmJn3KT-XIXmpZ8E
 PokerGO.pluto,PLUTO - PokerGO,
 Pok&#xE9;mon.pluto,PLUTO - Pokémon,
-POWERNATION.pluto,PLUTO - POWERNATION,
+POWERNATION.pluto,PLUTO - POWERNATION,https://iptv-epg.org/images/Q0lq4Np2R4ZLjBUB-qgET618qYrQuiRepqTJbdN1UJofYVeGWL7Q5ArcsupVtvMQwufB0AdeUFSW-MQ9KOfc50Vy3l3P_8T2xHT58JF8kPVWHKu08F5MqE6AP3DmW_KqgJ5NlJSY
 ProjectRunway.pluto,PLUTO - Project Runway,
 PropertyBrothers.pluto,PLUTO - Property Brothers,
 QelloConcerts.pluto,PLUTO - Qello Concerts,
