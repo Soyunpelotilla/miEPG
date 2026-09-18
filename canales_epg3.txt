@@ -33,7 +33,7 @@
 643054b1fc3be59477853717-66840253cd6f1d394094114f,Runtime,https://provider-static.plex.tv/epg/cms/production/397a4a3a-ab7f-4b1b-b568-84b54c52fc56/Runtime_Spain_Dark_Mode_Logordcx.png
 643054b1fc3be59477853717-66841966702b9db9f8177256,Runtime Comedia,https://provider-static.plex.tv/epg/cms/production/05de98ea-6a31-46f4-9b8e-07c344d66510/Runtime_ES_Comedia_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-666e1af3d91d13cb4c8cbb6d,La Fiebre del Jade,https://provider-static.plex.tv/epg/cms/production/fd21a845-1ffb-443d-91de-35d2dc3cb12c/channel_logo_1500x1000_light.png.png
-643054b1fc3be59477853717-67d4afc7f6df733141442cb4,Z Nation,https://provider-static.plex.tv/epg/cms/staging/e81c109b-4ff2-4fa7-92fd-9ca68465a755/ZNation_Channel_Logo_White__1_.png
+643054b1fc3be59477853717-67d4afc7f6df733141442cb4,Z Nation,https://provider-static.plex.tv/epg/cms/production/cd7f2c5b-4bc1-4b86-a16f-477b5e6e58ce/ZNation_logo_1500x1000_light.png.png
 643054b1fc3be59477853717-6490e59918a55242eea95995,Todo Novelas,https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png
 643054b1fc3be59477853717-646d06c9b09f13b2d8af68d8,Azteca Internacional,https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png
 643054b1fc3be59477853717-64487696af92c31f4a190bc4,MyTime Movie Network,https://provider-static.plex.tv/epg/cms/production/eb43f8a1-fb9e-4a1b-b0db-0d720db95f66/MT_PLEX_1500x1000_SPAIN_WHITE_-_Sam_Abraham.png
@@ -153,7 +153,7 @@
 643054b1fc3be59477853717-674f6a6cf44561420465f9f3,Animation+,https://provider-static.plex.tv/epg/cms/production/d3f6d54b-64cf-44ed-a960-2feb1c4b05c7/US_STVP_AnimationPlus_logo_Color_1500x1000_-_Kai_Schneider.png
 643054b1fc3be59477853717-69011e71d320237a5a2d9f63,INTER 24/7,https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png
 643054b1fc3be59477853717-68caada21fabab6eb2e99331,Bassmaster,https://provider-static.plex.tv/epg/cms/production/f6d14e42-d9be-4f81-893f-cb676d32c473/BassmasterChannel_DarkBackground_-_Will_Flowers.png
-643054b1fc3be59477853717-614e286b2bac097ffd6fd6ab,Documentary+,https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png
+643054b1fc3be59477853717-614e286b2bac097ffd6fd6ab,Documentary+,https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png
 643054b1fc3be59477853717-65e0c8c6d899afe817b9d224,Cricket Gold,https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png
 643054b1fc3be59477853717-689e1f0dd84bfb3d54b6756f,Bizaar,https://provider-static.plex.tv/epg/cms/production/f40521f6-1074-4664-b673-96a2eab164a0/Bizaar_Logo_For_Dark_Background_-_1500_x_1000_-_Michael_Bromberg.png
 643054b1fc3be59477853717-60089d90f682a3002c348299,Euronews,https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png
@@ -263,7 +263,7 @@
 643054b1fc3be59477853717-6970fdabbde579fb71262401,Bowling TV,https://provider-static.plex.tv/epg/cms/production/573ed04e-775e-41c9-a367-81b9597eff00/Channel_Logo_Color_Evann_D___AdamoRDX_WHT_LETTERS.png
 643054b1fc3be59477853717-68a799722895f21006e758e4,TV5MONDE Info,https://provider-static.plex.tv/epg/cms/production/1ac1bf6b-ab6e-4a44-9268-c8c2374befce/TV5MONDE_INFO_WHT_1500x1000_-_Patrice.png
 643054b1fc3be59477853717-69814bbff871095eafc65925,Powernation,https://provider-static.plex.tv/epg/cms/production/a9bf659f-df1c-4572-856c-5b60fbc93467/powernationWhite_Logo__2_.png
-643054b1fc3be59477853717-66ce3e009ac0b1441b19ca29,Z Nation,https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png
+643054b1fc3be59477853717-66ce3e009ac0b1441b19ca29,Z Nation,https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png
 643054b1fc3be59477853717-67c2496d45ae99120c071588,Life Down Under,https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png
 643054b1fc3be59477853717-68b74890b5b437bf872b6b72,TV5MONDE Chefs,https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png
 643054b1fc3be59477853717-68b74a235dc5413c905efd62,TV5MONDE Voyage,https://provider-static.plex.tv/epg/cms/production/1fbf682f-90ba-4318-a649-12c7f89cdc48/LOGO_PLEX_VOYAGE_1500X1000_WHITE.png
