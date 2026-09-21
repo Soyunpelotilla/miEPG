@@ -172,7 +172,6 @@
 643054b1fc3be59477853717-693cbba358076a970420f597,Cesar's Pack Leader TV,https://provider-static.plex.tv/epg/cms/production/e24d3a4c-4948-4155-82c5-b7eec0fa50b8/Cesar_Logo_Transparent_WHTRDX.png
 643054b1fc3be59477853717-5f0ff262d71dcb00449ec018,Judge Nosey,https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png
 643054b1fc3be59477853717-60e737a4ebef9d002c4d0a0c,AfroLandTV,https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png
-643054b1fc3be59477853717-6216ae22c3bbca2de8704f65,Sports Illustrated TV,https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png
 643054b1fc3be59477853717-650b5bb3f4b2d9579946a500,Mythical 24/7,https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png
 643054b1fc3be59477853717-654eb862dde2222e8ba551f1,Stingray Holidayscapes,https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png
 643054b1fc3be59477853717-68d7f9b53b1f329cea126993,Dude Perfect,https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png
