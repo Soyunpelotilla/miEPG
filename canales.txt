@@ -207,6 +207,8 @@ ESPN7.bo,ESPN 7 BO
 UNIVERSO.us,Universo,https://iptv-epg.org/logos/USA/UNIVERSO.us.png
 Telemundo.us,Telemundo East,https://iptv-epg.org/logos/USA/Telemundo.us.png
 TelemundoWest.us,Telemundo West,https://iptv-epg.org/logos/USA/TelemundoWest.us.png
+Univision.us,Univision East,https://iptv-epg.org/images/9qkk-6fTzmvB83CRFDRSArMmecDQ1-9XbmhXryEzfZooqXnzbDzdfEoZJw77zd1mnT-w3CWmln3chFUvpa2czvMp2IFyO5eYhadYjZY9hQ
+UnivisionWest.us,Univision West,https://iptv-epg.org/images/-p17oM6ORTSzM6IbCbOlDn850bYpg9Af2VVQ-BiVFUUhyPaRoATnPZvg8PgN3j8VealO5s4cMZ-fkGp2DCOUthMAakpX4G1pWwxDdrM2S3qIia8
 FoxDeportes.us,FOX DEPORTES,https://iptv-epg.org/logos/USA/FoxDeportes.us.png
 FoxSports1.us,FOX SPORTS 1 US,https://iptv-epg.org/logos/USA/FoxSports1.us.png
 FoxSports2.us,FOX SPORTS 2 US,https://iptv-epg.org/logos/USA/FoxSports2.us.png
