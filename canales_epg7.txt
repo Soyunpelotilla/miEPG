@@ -11526,7 +11526,7 @@ CWKARDDT2.us,US - CW KARD-DT2 MONROE LA,https://iptv-epg.org/images/nr2pzy-ROi6p
 CWKASN.us,US - CW KASN Little Rock AR,https://iptv-epg.org/images/oC7YZNYcidbrLPzuOxhOmdErJvRu4uvZ9wmGaCOoENgU2mALnZ4knH0qj7yqiAt_TrMgS5qMBvovfi9J7Fr_chBonG4WESs-WG565g
 CWKASW.us,US - CW KASW Phoenix AZ,https://iptv-epg.org/images/DEpuVbtGY35Nvh77yz5rMvG96DWKgeGwhCACQTxEu1sQgOOR38FwOCkOe9vafxleVkGqOmAcEgvD-1acRYb_cqx0D8BLYna3OBAnsQ
 CWKCBA.us,US - CW KCBA Salinas CA,https://iptv-epg.org/images/_IsiN7uW6jNg6e_tPawb4wRh8CRI6Qb7Q3XaB4FNYv8jTS7C6UjXDW5SIgls_RZrC2Ng_9_l1VsncleHqZglFbRN9od-3eCzeP7ydQ
-CWKCLO.us,US - CW KCLO Rapid City SD,
+CWKCLO.us,US - CW KCLO Rapid City SD,https://iptv-epg.org/images/HhiwSxfGikgPzo3ZNQUXF3lP0aSUw6NL1DLa9myqjrzNKq3PqjCEzhWIND67q7pwBsi8pUWaSuMWmQw-EgOSHr6HA9Fk6hKeMuDpEA
 CWKCOYDT3.us,US - CW KCOY-DT3 Santa Maria San Luis Obispo CA,https://iptv-epg.org/images/9EueA3bOvIB5cCb4LrSz2rc3XEqsgJro2tFYfmo7PZposY9-aN2Emag49KLFehZ_hUfp1eBAE0o5KmVOi-jbRqMDheJmEl74z4ejiyQD0A
 CWKCRGDT3.US,US - CW KCRG-DT3 Cedar Rapids IA,https://iptv-epg.org/images/PxkfOEDPZTea9H_7d_x1KoSZwkmYhMj7QVVpp6rpKPKKWpf6tr5bep9ZNYziP-jIoE90H4_YIqwOcQK6PYE_MnOrnPXQGOlPgfROqXNv7A
 CWKCWE.us,US - CW KCWE Kansas City MO,https://iptv-epg.org/images/7v0x55LgSNs_r6opcV8me6JF7yBpipVSWUYUNEuwpHLbWrUiHXAmVUkwIQL2xBHTiSxrEeuXtTrNSOMkUzwEj6UkTw4ErgbL0WgxYA
