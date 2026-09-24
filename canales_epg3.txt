@@ -139,6 +139,7 @@
 643054b1fc3be59477853717-66f6b947515e742745f5ca34,21 Jump Street,https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png
 643054b1fc3be59477853717-6a9512a7f534d4312a699c22,SWAC TV,https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png
 643054b1fc3be59477853717-62280162c9f485cc7afe8c46,Powder TV,https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png
+643054b1fc3be59477853717-6aa9bc040832270987394353,Real Emergency,https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png
 643054b1fc3be59477853717-6227c215c9f485cc7afe8c41,Surfer TV,https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png
 643054b1fc3be59477853717-6a8786c4fa0d0293e2681b7c,GrowthDay Network,https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png
 643054b1fc3be59477853717-6a3c2c8c14e447db7984cc3a,Billboard Español TV,https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png
@@ -202,7 +203,6 @@
 643054b1fc3be59477853717-5f0ff266d71dcb00449ec030,WeatherSpy,https://provider-static.plex.tv/epg/cms/production/3b058b7e-f61e-4257-ae0c-894dd648565f/jukin_weatherspy_2_white.png
 643054b1fc3be59477853717-63d6f6c5a9e88ee909e7ee1f,Brat TV,https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png
 643054b1fc3be59477853717-621672612c2627c068e73ad6,Watch it Kid,https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png
-643054b1fc3be59477853717-627ec46a92d8e6a705784bd1,Ninja Kidz TV,https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png
 643054b1fc3be59477853717-5f12332eeca6a20040b328e5,SKWAD,https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png
 643054b1fc3be59477853717-652875586425fdb1f32d2169,World Surf League 24/7,https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png
 643054b1fc3be59477853717-618ab2f275913b296fbe56dd,Eddie's Wonderland,https://provider-static.plex.tv/epg/cms/production/a27f5de6-ea10-48ad-ab05-6a5c3e63d46c/Eddies-Wonderland_logo_dark.png
