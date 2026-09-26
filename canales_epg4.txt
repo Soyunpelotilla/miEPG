@@ -5,6 +5,7 @@
 163319,1BN,https://ebyl.tmsimg.com/assets/s163319_ld_h15_ab.png
 10002,3 Angels Broadcasting Network,https://ebyl.tmsimg.com/assets/s10002_ld_h15_aa.png
 104892,A MAS (Izzi),https://ebyl.tmsimg.com/assets/s116157_ld_h15_ab.png
+148508,A MAS HD,https://ebyl.tmsimg.com/assets/s116157_ld_h15_ab.png
 18955,A&amp;E,https://ebyl.tmsimg.com/assets/s10035_ld_h15_ab.png
 87004,A&amp;E,https://ebyl.tmsimg.com/assets/s10035_ld_h15_ab.png
 138735,A&amp;E,https:sources/generic/generic_sources_h5.png
@@ -32,6 +33,7 @@
 100431,AMC,https://ebyl.tmsimg.com/assets/s90653_ld_h15_ad.png
 17457,AMC Series,https://ebyl.tmsimg.com/assets/GNLZZGG002GM3XT.png
 34412,AMC Series,https://ebyl.tmsimg.com/assets/GNLZZGG002GM3XT.png
+96306,AMC Series HD,https://ebyl.tmsimg.com/assets/GNLZZGG002GM3XT.png
 16272,America 24,https://ebyl.tmsimg.com/assets/s16272_ld_h15_ac.png
 102993,América TV,https://ebyl.tmsimg.com/assets/s16395_ld_h15_ac.png
 102994,América TV HD,https://ebyl.tmsimg.com/assets/s16395_ld_h15_ac.png
@@ -96,6 +98,7 @@
 105163,AyM Sports HD,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9JW.png
 183940,Azteca 1,https:sources/generic/generic_sources_h5.png
 16464,Azteca 7,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
+124288,Azteca 7,https:sources/generic/generic_sources_h5.png
 114756,Azteca 7 HD,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 103803,Azteca 13-Delay HD,https:sources/generic/generic_sources_h5.png
 56276,Azteca 24 HD,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
@@ -113,13 +116,16 @@
 104918,Baby Tv,https://ebyl.tmsimg.com/assets/s56036_ld_h15_ab.png
 123604,Baby1,https://ebyl.tmsimg.com/assets/s50338_ld_h15_ab.png
 78831,BabyFirst,https://ebyl.tmsimg.com/assets/s78831_ld_h15_aa.png
+102124,BabyFirst Americas Spanish HD,https://ebyl.tmsimg.com/assets/s78831_ld_h15_aa.png
 50338,BabyFirst TV,https://ebyl.tmsimg.com/assets/s50338_ld_h15_ab.png
 18101,Bandamax,https://ebyl.tmsimg.com/assets/s18101_ld_h15_ac.png
+109098,Bandamax,https://ebyl.tmsimg.com/assets/s18101_ld_h15_ac.png
 36844,BBC News,https://ebyl.tmsimg.com/assets/s36844_ld_h15_ad.png
 109081,BBC News (Latin America) HD,https://ebyl.tmsimg.com/assets/s36844_ld_h15_ad.png
 89542,BBC News (North America),https://ebyl.tmsimg.com/assets/s89542_ld_h15_ab.png
 83285,BBC News HD,https://ebyl.tmsimg.com/assets/s83285_ld_h15_ab.png
 72801,Bitme,https://ebyl.tmsimg.com/assets/s72801_ld_h15_ab.png
+111747,Bitme,https://ebyl.tmsimg.com/assets/s72801_ld_h15_ab.png
 114666,Bloomberg Business Television HD 4K,https://ebyl.tmsimg.com/assets/s14755_ld_h15_ab.png
 84530,Bloomberg TV,https://ebyl.tmsimg.com/assets/s14755_ld_h15_ab.png
 75994,C5N,https://ebyl.tmsimg.com/assets/s75994_ld_h15_aa.png
@@ -133,6 +139,7 @@
 80064,Cali TV,https://ebyl.tmsimg.com/assets/s80064_ld_h15_aa.png
 106728,Canal (á) HD,https://ebyl.tmsimg.com/assets/s18075_ld_h15_aa.png
 16463,Canal 5,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
+124287,Canal 5,https:sources/generic/generic_sources_h5.png
 120638,Canal 6,https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
 124247,Canal 6,https:sources/generic/generic_sources_h5.png
 47604,Canal 7 Cancun,https:sources/generic/generic_sources_h5.png
@@ -142,6 +149,7 @@
 92395,Canal 14 HD,https://ebyl.tmsimg.com/assets/GNLZZGG0023XQ01.png
 87595,Canal 22,https://ebyl.tmsimg.com/assets/s116168_ld_h15_aa.png
 123863,Canal 22,https://ebyl.tmsimg.com/assets/s116168_ld_h15_aa.png
+114763,Canal 22 HD,https://ebyl.tmsimg.com/assets/s116168_ld_h15_aa.png
 91060,CANAL 22 INTERNACIONAL,https://ebyl.tmsimg.com/assets/s91071_ld_h15_aa.png
 91071,CANAL 22 INTERNACIONAL HD,https://ebyl.tmsimg.com/assets/s91071_ld_h15_aa.png
 104614,Canal 24 Horas Chile HD,https://ebyl.tmsimg.com/assets/s62889_ld_h9_aa.png
@@ -202,6 +210,7 @@
 70314,Cinemax,https://ebyl.tmsimg.com/assets/s16794_ld_h15_ab.png
 78538,Cinemax,https://ebyl.tmsimg.com/assets/s16794_ld_h15_ab.png
 101730,Cinemax,https://ebyl.tmsimg.com/assets/s16794_ld_h15_ab.png
+117262,Cinemax,https://ebyl.tmsimg.com/assets/s16794_ld_h15_ab.png
 106727,Ciudad Magazine HD,https://ebyl.tmsimg.com/assets/s16878_ld_h15_ab.png
 110045,Clan,https://ebyl.tmsimg.com/assets/s110045_ld_h15_aa.png
 97501,Claro Cinema,https://ebyl.tmsimg.com/assets/s106711_ld_h15_aa.png
@@ -216,6 +225,7 @@
 111305,Clic,https://ebyl.tmsimg.com/assets/s92197_ld_h15_ae.png
 89006,Club MTV,https://ebyl.tmsimg.com/assets/s89006_ld_h15_ac.png
 25042,CM Canal de la Musica,https://ebyl.tmsimg.com/assets/s25042_ld_h9_ab.png
+124842,CNBC,https://ebyl.tmsimg.com/assets/GNLZZGG002NF468.png
 58780,CNBC HD,https://ebyl.tmsimg.com/assets/GNLZZGG002NF45H.png
 113145,CNBC HD,https://ebyl.tmsimg.com/assets/GNLZZGG002NFJQJ.png
 165883,CNN,https://ebyl.tmsimg.com/assets/s10142_ld_h15_aa.png
@@ -239,6 +249,7 @@
 132423,Daystar Español,https://ebyl.tmsimg.com/assets/s132423_ld_h15_ac.png
 16288,De Película,https://ebyl.tmsimg.com/assets/s16288_ld_h15_ac.png
 19736,De Pelicula,https://ebyl.tmsimg.com/assets/s16288_ld_h15_ac.png
+117056,De Película,https://ebyl.tmsimg.com/assets/s16288_ld_h15_ac.png
 33628,De Pelicula Clasico,https://ebyl.tmsimg.com/assets/s33628_ld_h15_ac.png
 74016,De Pelicula Plus,https://ebyl.tmsimg.com/assets/s74016_ld_h15_ab.png
 91771,DeporTV HD,https://ebyl.tmsimg.com/assets/s91771_ld_h9_aa.png
@@ -262,7 +273,6 @@
 46608,Discovery Turbo,https://ebyl.tmsimg.com/assets/s46608_ld_h15_aa.png
 107611,Discovery Turbo,https://ebyl.tmsimg.com/assets/s46608_ld_h15_aa.png
 66488,Discovery World,https://ebyl.tmsimg.com/assets/s66488_ld_h15_aa.png
-114001,Discovery World HD,https://ebyl.tmsimg.com/assets/s66488_ld_h15_aa.png
 214471,Dish 150,https:sources/generic/generic_sources_h5.png
 214472,Dish 300,https:sources/generic/generic_sources_h5.png
 214473,Dish 400,https:sources/generic/generic_sources_h5.png
@@ -298,6 +308,7 @@
 102784,Duplicate XHTV-TDT,https://ebyl.tmsimg.com/assets/s66635_ld_h15_ac.png
 79318,DW,https://ebyl.tmsimg.com/assets/s79318_ld_h15_ab.png
 64230,DW en español,https://ebyl.tmsimg.com/assets/s64230_ld_h15_ag.png
+120555,DW Español,https:sources/generic/generic_sources_h5.png
 101257,E! Entertainment Television,https://ebyl.tmsimg.com/assets/s30259_ld_h15_aa.png
 30259,E! Entertainment TV,https://ebyl.tmsimg.com/assets/s30259_ld_h15_aa.png
 101734,E! Entertainment TV,https://ebyl.tmsimg.com/assets/s30259_ld_h15_aa.png
@@ -332,6 +343,7 @@
 47374,ESPN 6,https://ebyl.tmsimg.com/assets/s47374_ld_h15_ad.png
 79923,ESPN 6,https://ebyl.tmsimg.com/assets/s79923_ld_h15_ad.png
 25595,ESPN Deportes,https://ebyl.tmsimg.com/assets/s25595_ld_h15_aa.png
+67765,ESPN Dos Mexico (214A),https://ebyl.tmsimg.com/assets/s67765_ld_h15_aa.png
 106781,ESPN Premium Argentina (HD),https://ebyl.tmsimg.com/assets/s106781_ld_h15_ad.png
 79049,ESPN Tres North,https://ebyl.tmsimg.com/assets/s73833_ld_h15_aa.png
 73834,ESPN3,https://ebyl.tmsimg.com/assets/s73834_ld_h15_ab.png
@@ -373,6 +385,7 @@
 41677,Fox Sports,https://ebyl.tmsimg.com/assets/s41677_ld_h15_ac.png
 61704,Fox Sports,https://ebyl.tmsimg.com/assets/s41677_ld_h15_ac.png
 68952,FOX SPORTS,https:sources/generic/generic_sources_h5.png
+194676,Fox Sports,https:sources/generic/generic_sources_h5.png
 30262,FOX Sports (Cono Sur Argentina),https://ebyl.tmsimg.com/assets/s41677_ld_h15_ac.png
 66365,Fox Sports 2,https://ebyl.tmsimg.com/assets/s66365_ld_h15_ab.png
 71328,Fox Sports 2,https://ebyl.tmsimg.com/assets/s66365_ld_h15_ab.png
@@ -415,18 +428,18 @@
 42206,Globo,https://ebyl.tmsimg.com/assets/s42206_ll_h15_cc.png
 215979,GLOBO,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 16298,Golden,https://ebyl.tmsimg.com/assets/s50709_ld_h15_aa.png
+146603,Golden,https:sources/generic/generic_sources_h5.png
 16423,Golden Edge,https://ebyl.tmsimg.com/assets/s16423_ld_h15_aa.png
+146602,Golden Edge,https://ebyl.tmsimg.com/assets/s16423_ld_h15_aa.png
 19737,Golden Multiplex,https://ebyl.tmsimg.com/assets/s50709_ld_h15_aa.png
 68317,GOLDEN PLUS,https://ebyl.tmsimg.com/assets/GNLZZGG00284G3Y.png
 80596,Golden Premier,https://ebyl.tmsimg.com/assets/s80596_ld_h15_ab.png
 80660,Golden Premier,https://ebyl.tmsimg.com/assets/s80596_ld_h15_ab.png
 80804,Golden Premier,https://ebyl.tmsimg.com/assets/s80596_ld_h15_ab.png
 80805,Golden Premier 2,https://ebyl.tmsimg.com/assets/s80596_ld_h15_ab.png
-113812,Golden Premier HD,https://ebyl.tmsimg.com/assets/s80596_ld_h15_ab.png
 14899,Golf Channel,https://ebyl.tmsimg.com/assets/GNLZZGG002RFK1J.png
 61854,Golf Channel HD,https://ebyl.tmsimg.com/assets/GNLZZGG002RFQBE.png
 33561,Guatevision,https://ebyl.tmsimg.com/assets/s33561_ld_h15_ab.png
-12288,HBO,https://ebyl.tmsimg.com/assets/s12288_ld_h15_ab.png
 15361,HBO,https://ebyl.tmsimg.com/assets/s15361_ld_h15_ab.png
 16795,HBO,https://ebyl.tmsimg.com/assets/s12288_ld_h15_ab.png
 84823,HBO,https://ebyl.tmsimg.com/assets/s12288_ld_h15_ab.png
@@ -435,11 +448,13 @@
 34879,HBO Family,https://ebyl.tmsimg.com/assets/s34879_ld_h15_aa.png
 56092,HBO Family,https://ebyl.tmsimg.com/assets/s56092_ld_h15_ab.png
 80118,HBO Family,https://ebyl.tmsimg.com/assets/s34879_ld_h15_aa.png
+80550,HBO Family,https://ebyl.tmsimg.com/assets/s34879_ld_h15_aa.png
 68119,HBO Mundi,https://ebyl.tmsimg.com/assets/s70081_ld_h15_ab.png
 69097,HBO Mundi,https://ebyl.tmsimg.com/assets/s69097_ld_h15_ac.png
 80560,HBO Mundi,https://ebyl.tmsimg.com/assets/s70081_ld_h15_ab.png
 75537,HBO Plus,https://ebyl.tmsimg.com/assets/s34725_ld_h15_ab.png
 80112,HBO Plus,https://ebyl.tmsimg.com/assets/s34725_ld_h15_ab.png
+82003,HBO Plus,https://ebyl.tmsimg.com/assets/s34725_ld_h15_ab.png
 113954,HBO Plus,https://ebyl.tmsimg.com/assets/s34725_ld_h15_ab.png
 68134,HBO Pop,https://ebyl.tmsimg.com/assets/s68134_ld_h15_ab.png
 68301,HBO POP,https://ebyl.tmsimg.com/assets/s68134_ld_h15_ab.png
@@ -464,6 +479,7 @@
 80374,History 2,https://ebyl.tmsimg.com/assets/s80374_ld_h15_ae.png
 89610,History 2,https://ebyl.tmsimg.com/assets/s80374_ld_h15_ae.png
 100817,History 2,https://ebyl.tmsimg.com/assets/s80374_ld_h15_ae.png
+106094,History 2,https://ebyl.tmsimg.com/assets/s80374_ld_h15_ae.png
 113876,HLN,https://ebyl.tmsimg.com/assets/s113876_ld_h15_aa.png
 15969,HTV,https://ebyl.tmsimg.com/assets/s15969_ld_h15_aa.png
 110785,HTV,https://ebyl.tmsimg.com/assets/s15969_ld_h15_aa.png
@@ -514,6 +530,13 @@
 60939,Mexico Travel Channel,https://ebyl.tmsimg.com/assets/s60939_ld_h15_aa.png
 61719,Milenio,https://ebyl.tmsimg.com/assets/s61719_ld_h15_ab.png
 99566,Milenio TV HD,https://ebyl.tmsimg.com/assets/s61719_ld_h15_ab.png
+89808,MLB Extra Innings HD 3,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
+89809,MLB Extra Innings HD 4,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
+89810,MLB Extra Innings HD 5,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
+89811,MLB Extra Innings HD 6,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
+89812,MLB Extra Innings HD 7,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
+89813,MLB Extra Innings HD 8,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
+89814,MLB Extra Innings HD 9,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
 49261,Monte Maria TV,https:sources/generic/generic_sources_h5.png
 119829,Moto ADV,https://ebyl.tmsimg.com/assets/s119829_ld_h9_aa.png
 12712,MTV,https://ebyl.tmsimg.com/assets/s12712_ld_h15_ab.png
@@ -521,6 +544,7 @@
 97257,MTV,https://ebyl.tmsimg.com/assets/s12712_ld_h15_ab.png
 60964,MTV - Music Television HD,https://ebyl.tmsimg.com/assets/s60964_ld_h15_aa.png
 120767,MTV 00s,https://ebyl.tmsimg.com/assets/s56245_ld_h15_ab.png
+178518,MTV 00s,https:sources/generic/generic_sources_h5.png
 65060,MTV 80&apos;s,https://ebyl.tmsimg.com/assets/s65060_ld_h15_aa.png
 67787,MTV Hits,https://ebyl.tmsimg.com/assets/s67787_ld_h15_aa.png
 66419,MTV Live,https://ebyl.tmsimg.com/assets/s66419_ld_h15_aa.png
@@ -555,6 +579,7 @@
 101731,Nick,https://ebyl.tmsimg.com/assets/s101208_ld_h15_ab.png
 60295,Nick Jr.,https://ebyl.tmsimg.com/assets/s60295_ld_h15_aa.png
 84412,Nick Jr.,https://ebyl.tmsimg.com/assets/s60295_ld_h15_aa.png
+140983,Nickelodeon en Español,https://ebyl.tmsimg.com/assets/s140983_ld_h15_aa.png
 90209,Nickmusic,https://ebyl.tmsimg.com/assets/s90209_ld_h15_ac.png
 120979,Novelisima,https://ebyl.tmsimg.com/assets/s120979_ld_h15_aa.png
 61988,NTN24,https://ebyl.tmsimg.com/assets/s61988_ld_h15_ac.png
@@ -566,7 +591,7 @@
 14776,Outdoor Channel,https://ebyl.tmsimg.com/assets/s14776_ld_h15_ab.png
 124934,Outdoor Channel,https://ebyl.tmsimg.com/assets/s14776_ld_h15_ab.png
 46737,Outdoor Channel HD,https://ebyl.tmsimg.com/assets/s46737_ld_h15_ab.png
-185999,Outdoor Channel HD,https://ebyl.tmsimg.com/assets/s46737_ld_h15_ab.png
+124935,Outdoor Channel HD,https://ebyl.tmsimg.com/assets/s46737_ld_h15_ab.png
 87140,Pakapaka,https://ebyl.tmsimg.com/assets/s87140_ld_h15_ab.png
 73535,Panico,https://ebyl.tmsimg.com/assets/s73535_ld_h15_aa.png
 106214,Paramount,https://ebyl.tmsimg.com/assets/s106214_ld_h15_aa.png
@@ -596,7 +621,6 @@
 36479,Radio y Television de Veracruz (RTV),https://ebyl.tmsimg.com/assets/s36479_ld_h15_aa.png
 75785,RAI International Spanish,https://ebyl.tmsimg.com/assets/s75785_ld_h15_aa.png
 17250,Rai Italia,https://ebyl.tmsimg.com/assets/s75785_ld_h15_aa.png
-19040,Rai Italia,https://ebyl.tmsimg.com/assets/s75785_ld_h15_aa.png
 109462,Rai Italia HD,https://ebyl.tmsimg.com/assets/s75785_ld_h15_aa.png
 102110,Rai News 24 HD,https://ebyl.tmsimg.com/assets/s102110_ld_h15_ac.png
 46481,RCG Acuna Canal 36,https:sources/generic/generic_sources_h5.png
@@ -616,17 +640,12 @@
 79893,Show Business TV,https://ebyl.tmsimg.com/assets/s79893_ld_h9_aa.png
 32207,Siraj TV,https://ebyl.tmsimg.com/assets/s32207_ld_h9_ab.png
 47418,SKY Local News,https:sources/generic/generic_sources_h5.png
-16234,Sky News,https://ebyl.tmsimg.com/assets/s16234_ld_h15_ab.png
+170841,Sky News International Americas,https://ebyl.tmsimg.com/assets/s170841_ld_h15_aa.png
 50367,SKY One Mexico,https://ebyl.tmsimg.com/assets/s50367_ld_h9_aa.png
 47421,Sky Portal Interactivo,https:sources/generic/generic_sources_h5.png
-47352,Sky Premiere PPV 3,https:sources/generic/generic_sources_h5.png
-47353,Sky Premiere PPV 4,https:sources/generic/generic_sources_h5.png
-47354,Sky Premiere PPV 5,https:sources/generic/generic_sources_h5.png
-47355,Sky Premiere PPV 6,https:sources/generic/generic_sources_h5.png
-47356,Sky Premiere PPV 7,https:sources/generic/generic_sources_h5.png
-47357,Sky Premiere PPV 8,https:sources/generic/generic_sources_h5.png
 47423,SKY Special Weekends,https:sources/generic/generic_sources_h5.png
-160692,Sky Sports 1,https:sources/generic/generic_sources_h5.png
+160688,Sky Sports 1,https:sources/generic/generic_sources_h5.png
+160689,Sky Sports 16,https:sources/generic/generic_sources_h5.png
 160690,Sky Sports 21,https:sources/generic/generic_sources_h5.png
 160691,Sky Sports 24,https:sources/generic/generic_sources_h5.png
 123608,Sony Movies,https://ebyl.tmsimg.com/assets/s124605_ld_h15_aa.png
@@ -635,6 +654,7 @@
 60801,Space,https://ebyl.tmsimg.com/assets/s16499_ld_h15_aa.png
 62982,Space,https://ebyl.tmsimg.com/assets/s16499_ld_h15_aa.png
 66349,Space,https://ebyl.tmsimg.com/assets/s68021_ld_h15_aa.png
+68021,Space,https://ebyl.tmsimg.com/assets/s68021_ld_h15_aa.png
 70351,Space,https://ebyl.tmsimg.com/assets/s16499_ld_h15_aa.png
 15688,Star Channel,https://ebyl.tmsimg.com/assets/s75423_ld_h15_ac.png
 81785,Star Channel,https://ebyl.tmsimg.com/assets/s81785_ld_h15_ab.png
@@ -654,6 +674,7 @@
 88780,Stingray Clásicos Indie,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 76984,Stingray Clasicos Para Todos,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 67578,Stingray Classic Masters,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
+144888,Stingray Classica,https://ebyl.tmsimg.com/assets/s121177_ld_h15_aa.png
 77006,Stingray Club de Baile,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 114642,Stingray Cmusic,https://ebyl.tmsimg.com/assets/s114642_ld_h9_aa.png
 88773,Stingray Cocktail Lounge,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
@@ -679,6 +700,7 @@
 88779,Stingray Himnos del Rock,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 67564,Stingray Hip-Hop/R&amp;B,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 67555,Stingray Hit List,https://ebyl.tmsimg.com/assets/s21640_ld_h15_ac.png
+144887,Stingray Hits,https://ebyl.tmsimg.com/assets/s108571_ld_h15_aa.png
 76982,Stingray Holiday Hits,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 114648,Stingray iConcerts,https://ebyl.tmsimg.com/assets/s114648_ld_h9_aa.png
 76990,Stingray Jammin&apos; Reggae,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
@@ -687,6 +709,7 @@
 68629,Stingray Jazz Now,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 114657,Stingray Juice Box,https://ebyl.tmsimg.com/assets/s114657_ld_h9_aa.png
 28751,Stingray JUICEBOX,https://ebyl.tmsimg.com/assets/s28751_ld_h15_aa.png
+108709,Stingray JUICEBOX HD,https://ebyl.tmsimg.com/assets/s108709_ld_h15_aa.png
 67562,Stingray Jukebox Oldies,https://ebyl.tmsimg.com/assets/s21625_ld_h15_ac.png
 88774,Stingray Latin Lounge,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 114659,Stingray Loud,https://ebyl.tmsimg.com/assets/s114659_ld_h9_aa.png
@@ -741,6 +764,7 @@
 87167,Teleformula HD,https://ebyl.tmsimg.com/assets/s87167_ld_h15_aa.png
 15211,Telehit,https://ebyl.tmsimg.com/assets/s15211_ld_h15_aa.png
 15210,Telehit Música,https://ebyl.tmsimg.com/assets/s34394_ld_h15_ae.png
+116549,Telehit Música,https://ebyl.tmsimg.com/assets/s34394_ld_h15_ae.png
 73070,Telehit Música Plus,https://ebyl.tmsimg.com/assets/s73070_ld_h15_ab.png
 15036,Telemax (XEWH),https://ebyl.tmsimg.com/assets/s15036_ld_h9_aa.png
 64835,Telemundo Internacional,https://ebyl.tmsimg.com/assets/s64835_ld_h15_ac.png
@@ -754,6 +778,7 @@
 74420,TLC,https://ebyl.tmsimg.com/assets/s73822_ld_h15_ae.png
 107373,TLC,https://ebyl.tmsimg.com/assets/s73822_ld_h15_ae.png
 37232,TLNovelas,https://ebyl.tmsimg.com/assets/s37232_ld_h15_ab.png
+115895,TLNovelas,https://ebyl.tmsimg.com/assets/s37232_ld_h15_ab.png
 19384,TNT,https://ebyl.tmsimg.com/assets/s71148_ld_h15_aa.png
 80807,TNT,https://ebyl.tmsimg.com/assets/s71727_ld_h15_aa.png
 83143,TNT,https://ebyl.tmsimg.com/assets/s71148_ld_h15_aa.png
@@ -775,6 +800,7 @@
 38683,TUDN,https://ebyl.tmsimg.com/assets/s65129_ld_h15_aa.png
 65129,TUDN,https://ebyl.tmsimg.com/assets/s65129_ld_h15_aa.png
 77068,TUDN,https://ebyl.tmsimg.com/assets/s89113_ld_h15_ac.png
+89113,TUDN,https://ebyl.tmsimg.com/assets/s89113_ld_h15_ac.png
 16046,TV Chile,https://ebyl.tmsimg.com/assets/s16046_ld_h15_ab.png
 47558,TV Hidalgo,https:sources/generic/generic_sources_h5.png
 47627,TV Lobos,https:sources/generic/generic_sources_h5.png
@@ -793,6 +819,7 @@
 76283,TVC Deportes 2,https://ebyl.tmsimg.com/assets/s76283_ld_h15_aa.png
 16217,TVE,https://ebyl.tmsimg.com/assets/s16217_ld_h15_aa.png
 76112,TVE,https://ebyl.tmsimg.com/assets/s76112_ld_h15_aa.png
+116082,TVE America Television Española HD,https://ebyl.tmsimg.com/assets/s116082_ld_h15_aa.png
 90400,TVG,https://ebyl.tmsimg.com/assets/s90400_ld_h15_aa.png
 16275,TyC Sports,https://ebyl.tmsimg.com/assets/GNLZZGG0034VR6Y.png
 90677,TyC Sports HD,https://ebyl.tmsimg.com/assets/GNLZZGG0034VR6Y.png
@@ -801,14 +828,19 @@
 16521,Unicable,https://ebyl.tmsimg.com/assets/s16521_ld_h15_ad.png
 84425,Unicable,https://ebyl.tmsimg.com/assets/s16521_ld_h15_ad.png
 29058,UniMas,https://ebyl.tmsimg.com/assets/s29058_ld_h15_ab.png
+121869,Universal Cinema,https://ebyl.tmsimg.com/assets/s121869_ld_h15_aa.png
 122767,Universal Cinema,https://ebyl.tmsimg.com/assets/s121869_ld_h15_aa.png
 122548,Universal Cinema HD,https://ebyl.tmsimg.com/assets/s121869_ld_h15_aa.png
+121870,Universal Comedy,https://ebyl.tmsimg.com/assets/s121870_ld_h15_aa.png
 122769,Universal Comedy,https://ebyl.tmsimg.com/assets/s121870_ld_h15_aa.png
 122550,Universal Comedy HD,https://ebyl.tmsimg.com/assets/s121870_ld_h15_aa.png
+121868,Universal Crime,https://ebyl.tmsimg.com/assets/s121868_ld_h15_aa.png
 122765,Universal Crime,https://ebyl.tmsimg.com/assets/s121868_ld_h15_aa.png
 122551,Universal Crime HD,https://ebyl.tmsimg.com/assets/s121868_ld_h15_aa.png
+121866,Universal Premiere,https://ebyl.tmsimg.com/assets/s121866_ld_h15_aa.png
 122761,Universal Premiere,https://ebyl.tmsimg.com/assets/s121866_ld_h15_aa.png
 122545,Universal Premiere HD,https://ebyl.tmsimg.com/assets/s121866_ld_h15_aa.png
+121867,Universal Reality,https://ebyl.tmsimg.com/assets/s121867_ld_h15_aa.png
 122763,Universal Reality,https://ebyl.tmsimg.com/assets/s121867_ld_h15_aa.png
 122552,Universal Reality HD,https://ebyl.tmsimg.com/assets/s121867_ld_h15_aa.png
 16137,Universal TV,https://ebyl.tmsimg.com/assets/s53218_ld_h15_ab.png

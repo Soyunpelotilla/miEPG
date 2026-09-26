@@ -1289,7 +1289,6 @@ NHL15.dko,DKO - NHL 15,https://iptv-epg.org/images/88rwnodP8mgbb4CQoldvDdad9gBEX
 NHL16.dko,DKO - NHL 16,https://iptv-epg.org/images/Ur9jVtf-9TEojIj2QUAJIfvcmRcseTZUwoQ3AsgxqvhSfwm0pZ0WoPS8aOMb1v3-cp4QJPyGIS1SjetGxB2XNzYHryTse9RUhr12ew
 NHL17.dko,DKO - NHL 17,https://iptv-epg.org/images/j1VkeifPWyGiuJUFzo6Qy72Y5Fn49_fLKVMn4Jpuvrl3hUXv2Ylirb-W1sDCbJ1aqQLnJybscMKRbZ__JRJkwNmqEetu6FcoOKmmCg
 NHL18.dko,DKO - NHL 18,https://iptv-epg.org/images/ZD6R80jg6xb5byRcbpxkY_G--NOTVMt4thhZTuXla-GOdKLIwAvjpHDOwOlAfdOk40tC9GTH180Dz8R4w9a--dgV2qT2vtbR9SXZKA
-Eastern Illinois Panthers,Eastern Illinois Panthers,https://iptv-epg.org/images/qn4apCvwmjDu27ljPV6EGFo-YuAg6TMqSa4SybjuRoRxIeJkRHeLALTuaMmyuQQyHDYbLhJqIpExwUcR8UXonY0taEdBxIiWj-j_QnrWP8F_0A3NZ5utIwtVKwY
 BloomingtonBison.echl,ECHL - Bloomington Bison,https://iptv-epg.org/images/YXf5sefmif3D6zivMNYxSRYn_1NX895_gUBz7yQPn5O1oOsn_6tne2NTkp8_4w6gwiOjGJKkc19HVt5NbYNQTMI1dilNUbZ_pdZJpASLL5oTncEXEa2Qfw
 ToledoWalleye.echl,ECHL - Toledo Walleye,https://iptv-epg.org/images/BWabnGj7w9itZ0hrx9C9_yfLRIBygMKf896jKce1MPW0ivip-9qgvjT90mWmSKp6hIF4B8nM8IIE2xZEN2C6wtbFkkDKcI2x8WYHTga7oBRc5xMbkw
 ESPN1.ESPN,ESPN - ESPN 01 HD,https://iptv-epg.org/images/jQAVCFHz8v7oiAtDTl3IXGlMxQRVTFdCXjPbyOefNn2hX3hMwk-6m0In8EONqReTn6iz6O_rPtsQUl1ptyvtlYf6cRkzX9R5sdf7us8
