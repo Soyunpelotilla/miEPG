@@ -1260,6 +1260,13 @@
     <display-name>Canal 5 MX 4K</display-name>
     <icon src="https://emby.tmsimg.com/assets/s116152_ld_h15_aa.png" />
   </channel>
+  <channel id="Univision Network">
+    <display-name>Univision Network SD</display-name>
+    <display-name>Univision Network HD</display-name>
+    <display-name>Univision Network FHD</display-name>
+    <display-name>Univision Network 4K</display-name>
+    <icon src="https://ebyl.tmsimg.com/assets/s11118_ld_h15_ab.png" />
+  </channel>
   <channel id="DSPORTS">
     <display-name>DSPORTS SD</display-name>
     <display-name>DSPORTS HD</display-name>
@@ -129538,6 +129545,1998 @@ En Vivo</title>
     <length units="minutes">120</length>
     <icon src="https://ebyl.tmsimg.com/assets/p172187_v_v8_ad.jpg" />
     <episode-num system="dd_progid">MV00248357.0000</episode-num>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Univision Network">
+    <title>Mañana es para siempre</title>
+    <sub-title>Un nuevo amor</sub-title>
+    <desc>Carlos le pide a Martina que se case con él. Steve se alegra al saber que Venus ha aceptado formalizar su relación. Bárbara idea un plan para hacerle creer a Gonzalo que es una buena mujer. Miguel comienza a sentir un gran interés por Fernanda.</desc>
+    <credits>
+      <director>Salvador Garcini</director>
+      <actor>Silvia Navarro</actor>
+      <actor>Fernando Colunga</actor>
+      <actor>Lucero</actor>
+    </credits>
+    <date>20210602</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p19002263_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=19002122&amp;tmsId=EP036583870145</url>
+    <episode-num system="dd_progid">EP03658387.0145</episode-num>
+    <episode-num system="onscreen">S01E145</episode-num>
+    <episode-num system="common">S01E145</episode-num>
+    <episode-num system="xmltv_ns">0.144.</episode-num>
+    <episode-num system="original-air-date">2021-06-02 00:00:00</episode-num>
+    <previously-shown start="20210602000000" />
+    <rating system="MPAA">
+<value>TVPG</value>
+</rating>
+  </programme>
+  <programme start="20260926060000 +0000" stop="20260926070000 +0000" channel="Univision Network">
+    <title>Como dice el dicho</title>
+    <sub-title>Come y bebe que la vida es breve</sub-title>
+    <desc>Pame está obsesionada con el peso y, en su intento de ayudar a otros a adelgazar, vende productos que ponen en riesgo la vida de Evelyn. Pame llegará lejos para evitar que descubran lo que sucedió con Evelyn.</desc>
+    <credits>
+      <director>Emmanuel Duprez</director>
+      <actor>Michael Ronda</actor>
+      <actor>Wendy González</actor>
+      <actor>Sergio Corona</actor>
+    </credits>
+    <date>20240509</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p8513964_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=8513964&amp;tmsId=EP013814961798</url>
+    <episode-num system="dd_progid">EP01381496.1798</episode-num>
+    <episode-num system="onscreen">S14E116</episode-num>
+    <episode-num system="common">S14E116</episode-num>
+    <episode-num system="xmltv_ns">13.115.</episode-num>
+    <episode-num system="original-air-date">2024-05-09 00:00:00</episode-num>
+    <previously-shown start="20240509000000" />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260926070000 +0000" stop="20260926080000 +0000" channel="Univision Network">
+    <title>Desiguales</title>
+    <desc>Cinco mujeres de diferentes generaciones, estilos, nacionalidades y culturas entrelazan sus experiencias de vida ofreciendo una perspectiva única y multifacética sobre temas femeninos y de actualidad.</desc>
+    <credits>
+      <actor>Migbelis Castellanos</actor>
+      <actor>Karina Banda</actor>
+      <actor>Amara La Negra</actor>
+    </credits>
+    <date>20260925</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Anthology</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p26704781_b_h9_ad.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=26704781&amp;tmsId=EP050267570685</url>
+    <episode-num system="dd_progid">EP05026757.0685</episode-num>
+    <episode-num system="onscreen">S03E187</episode-num>
+    <episode-num system="common">S03E187</episode-num>
+    <episode-num system="xmltv_ns">2.186.</episode-num>
+    <episode-num system="original-air-date">2026-09-25 00:00:00</episode-num>
+    <previously-shown start="20260925000000" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260926080000 +0000" stop="20260926083000 +0000" channel="Univision Network">
+    <title>Vecinos</title>
+    <sub-title>Intercambio escolar</sub-title>
+    <desc>Marco le pedirá a Alejandra que le falsifique su boleta a cambio de dinero. Magdalena al ver la boleta de su hijo, estará orgullosa y pensará en mandarlo a una de las mejores escuelas del país.</desc>
+    <credits>
+      <director>Jorge Garza</director>
+      <actor>César Bono</actor>
+      <actor>Eduardo España</actor>
+      <actor>Macaria</actor>
+    </credits>
+    <date>20061021</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p310714_b_h9_ac.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=310714&amp;tmsId=EP008112010357</url>
+    <episode-num system="dd_progid">EP00811201.0357</episode-num>
+    <episode-num system="onscreen">S01E58</episode-num>
+    <episode-num system="common">S01E58</episode-num>
+    <episode-num system="xmltv_ns">0.57.</episode-num>
+    <episode-num system="original-air-date">2006-10-21 00:00:00</episode-num>
+    <previously-shown start="20061021000000" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260926083000 +0000" stop="20260926090000 +0000" channel="Univision Network">
+    <title>La familia P. Luche</title>
+    <sub-title>Reparaciones</sub-title>
+    <desc>Federica contrata un carpintero guapísimo para arreglar una puerta. Ludovico se pone muy celoso de Sebastián, el carpintero, y quiere demostrar que él puede hacer las cosas mejor. Ludovico hace un desastre en su casa.</desc>
+    <credits>
+      <actor>Eugenio Derbez</actor>
+      <actor>Consuelo Duval</actor>
+      <actor>Luis Manuel Ávila</actor>
+    </credits>
+    <date>20120812</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p254865_b_h9_ah.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=254865&amp;tmsId=EP006227610170</url>
+    <episode-num system="dd_progid">EP00622761.0170</episode-num>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <episode-num system="common">S03E10</episode-num>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <episode-num system="original-air-date">2012-08-12 00:00:00</episode-num>
+    <previously-shown start="20120812000000" />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926093500 +0000" channel="Univision Network">
+    <title>Vecinos</title>
+    <sub-title>Arturo sastre</sub-title>
+    <desc>Como alguien de los López Pérez debe trabajar, Arturo tendrá que ser sastre. Mientras tanto, Vanessa lleva a un gallo para cuidarlo.</desc>
+    <credits>
+      <director>Jorge Garza</director>
+      <actor>César Bono</actor>
+      <actor>Eduardo España</actor>
+      <actor>Macaria</actor>
+    </credits>
+    <date>20200913</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <length units="minutes">35</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p310714_b_h9_ac.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=310714&amp;tmsId=EP008112010529</url>
+    <episode-num system="dd_progid">EP00811201.0529</episode-num>
+    <episode-num system="onscreen">S09E07</episode-num>
+    <episode-num system="common">S09E07</episode-num>
+    <episode-num system="xmltv_ns">8.6.</episode-num>
+    <episode-num system="original-air-date">2020-08-02 00:00:00</episode-num>
+    <previously-shown start="20200802000000" />
+    <rating system="MPAA">
+<value>TVPG</value>
+</rating>
+  </programme>
+  <programme start="20260926093500 +0000" stop="20260926100000 +0000" channel="Univision Network">
+    <title>Noticiero N+ Univision: Edición nocturna</title>
+    <desc>Un repaso de las noticias ocurridas hasta el final el día. Tiene la información completa de las noticias de último minuto y registra con las cámaras desde el lugar de los hechos para que la audiencia quede bien informada antes de terminar el día.</desc>
+    <credits>
+      <actor>Elian Zidan</actor>
+    </credits>
+    <date>20260925</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <length units="minutes">25</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p270754_b_h9_ai.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=270754&amp;tmsId=EP000193302140</url>
+    <episode-num system="dd_progid">EP00019330.2140</episode-num>
+    <episode-num system="xmltv_ns">2025.190.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-25 00:00:00</episode-num>
+    <previously-shown start="20260925000000" />
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926103000 +0000" channel="Univision Network">
+    <title>Los González</title>
+    <sub-title>Leo es un estrella</sub-title>
+    <desc>Leo descubre que el Internet, después de todas las bromas que hizo, es una plataforma que crea fama, nada bueno para la familia.</desc>
+    <credits>
+      <actor>Raquel Pankowsky</actor>
+      <actor>Alejandro Cuétara</actor>
+    </credits>
+    <date>20260926</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p13461930_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=13211151&amp;tmsId=EP024969800015</url>
+    <episode-num system="dd_progid">EP02496980.0015</episode-num>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <episode-num system="common">S01E15</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260926103000 +0000" stop="20260926110000 +0000" channel="Univision Network">
+    <title>Los González</title>
+    <sub-title>La novia invisible de Nacho</sub-title>
+    <desc>Una relación entre dos menores no es lo que parece, aún más cuando uno de ellos no existe ¿Qué hará para Nacho para que le crean?.</desc>
+    <credits>
+      <actor>Raquel Pankowsky</actor>
+      <actor>Alejandro Cuétara</actor>
+    </credits>
+    <date>20260926</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p13461930_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=13211151&amp;tmsId=EP024969800016</url>
+    <episode-num system="dd_progid">EP02496980.0016</episode-num>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <episode-num system="common">S01E16</episode-num>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260926110000 +0000" stop="20260926113000 +0000" channel="Univision Network">
+    <title>Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260926</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p459763_b_h9_bf.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=459763&amp;tmsId=SH000193310000</url>
+    <episode-num system="dd_progid">SH00019331.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0925.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260926113000 +0000" stop="20260926120000 +0000" channel="Univision Network">
+    <title>Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260926</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p459763_b_h9_bf.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=459763&amp;tmsId=SH000193310000</url>
+    <episode-num system="dd_progid">SH00019331.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0925.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Univision Network">
+    <title>Atención, atención</title>
+    <sub-title>Los colores</sub-title>
+    <desc>Se ayuda a los niños a aprender sobre los colores que los rodean.</desc>
+    <credits>
+      <actor>Juan Manuel Rivera</actor>
+      <actor>Luis Seguinot</actor>
+      <actor>Nelson Camacho</actor>
+    </credits>
+    <date>20181103</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Music</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p7890540_b_h9_af.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=7890540&amp;tmsId=EP011989840088</url>
+    <episode-num system="dd_progid">EP01198984.0088</episode-num>
+    <episode-num system="onscreen">S06E10</episode-num>
+    <episode-num system="common">S06E10</episode-num>
+    <episode-num system="xmltv_ns">5.9.</episode-num>
+    <episode-num system="original-air-date">2018-11-03 00:00:00</episode-num>
+    <previously-shown start="20181103000000" />
+    <rating system="MPAA">
+<value>TVY</value>
+</rating>
+  </programme>
+  <programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Univision Network">
+    <title>Atención, atención</title>
+    <sub-title>Respeto</sub-title>
+    <desc>Amigos y familia son muy importantes y es por eso que en este episodio los niños aprenden sobre el respeto y cómo relacionarse con los demás.</desc>
+    <credits>
+      <actor>Juan Manuel Rivera</actor>
+      <actor>Luis Seguinot</actor>
+      <actor>Nelson Camacho</actor>
+    </credits>
+    <date>20260926</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Music</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p7890540_b_h9_af.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=7890540&amp;tmsId=EP011989840089</url>
+    <episode-num system="dd_progid">EP01198984.0089</episode-num>
+    <episode-num system="onscreen">S06E11</episode-num>
+    <episode-num system="common">S06E11</episode-num>
+    <episode-num system="xmltv_ns">5.10.</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+<value>TVY</value>
+</rating>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Univision Network">
+    <title>Babar y las aventuras de Badou</title>
+    <sub-title>El tótem que habla</sub-title>
+    <desc>Badou y Rhudi compiten para descubrir al tótem que habla, un artefacto mágico que ayudó a los elefantes y rinocerontes a ser amigos.</desc>
+    <credits>
+      <actor>Gordon Pinsent</actor>
+      <actor>Dallas Jokic</actor>
+      <actor>Samantha Weinstein</actor>
+    </credits>
+    <date>20140114</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Animals</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p8239042_b_h9_bi.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=8239042&amp;tmsId=EP013135390068</url>
+    <episode-num system="dd_progid">EP01313539.0068</episode-num>
+    <episode-num system="xmltv_ns">2025.0925.</episode-num>
+    <episode-num system="original-air-date">2014-01-14 00:00:00</episode-num>
+    <previously-shown start="20140114000000" />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Univision Network">
+    <title>Babar y las aventuras de Badou</title>
+    <sub-title>Diabluras de bananas</sub-title>
+    <desc>Badou debe reemplazar la escultura de cumpleaños de Lady Rataxes antes de que Cocodrilus la sustituya por una propia.</desc>
+    <credits>
+      <actor>Gordon Pinsent</actor>
+      <actor>Dallas Jokic</actor>
+      <actor>Samantha Weinstein</actor>
+    </credits>
+    <date>20140113</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Animals</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p8239042_b_h9_bi.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=8239042&amp;tmsId=EP013135390055</url>
+    <episode-num system="dd_progid">EP01313539.0055</episode-num>
+    <episode-num system="xmltv_ns">2025.0925.</episode-num>
+    <episode-num system="original-air-date">2014-01-13 00:00:00</episode-num>
+    <previously-shown start="20140113000000" />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Univision Network">
+    <title>Franklin and Friends</title>
+    <sub-title>Franklin, el ruidoso; Los súper detectives y el caso de la campana perdida</sub-title>
+    <desc>Franklin aprende que los reveses pueden ser oportunidades cuando se tuerce el tobillo. La campana de la escuela se pierde.</desc>
+    <credits>
+      <director>Lynn Reist</director>
+      <director>John Payne</director>
+      <actor>Graeme Jokic</actor>
+      <actor>Christian Martyn</actor>
+    </credits>
+    <date>20131214</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p8527494_b_h9_av.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=8527494&amp;tmsId=EP014831300258</url>
+    <episode-num system="dd_progid">EP01483130.0258</episode-num>
+    <episode-num system="onscreen">S02E23</episode-num>
+    <episode-num system="common">S02E23</episode-num>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
+    <episode-num system="original-air-date">2013-12-14 00:00:00</episode-num>
+    <previously-shown start="20131214000000" />
+    <rating system="MPAA">
+<value>TVY</value>
+</rating>
+  </programme>
+  <programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Univision Network">
+    <title>Franklin and Friends</title>
+    <sub-title>Los Súper Detectives y el caso de la nueva amiga; Franklin y su noche en Villa Corteza</sub-title>
+    <desc>Los Superdetectives usan sus habilidades para resolver misterios. Franklin y Oso intentan atrapar a una luciérnaga.</desc>
+    <credits>
+      <director>Lynn Reist</director>
+      <director>John Payne</director>
+      <actor>Graeme Jokic</actor>
+      <actor>Christian Martyn</actor>
+    </credits>
+    <date>20131215</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p8527494_b_h9_av.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=8527494&amp;tmsId=EP014831300267</url>
+    <episode-num system="dd_progid">EP01483130.0267</episode-num>
+    <episode-num system="onscreen">S02E24</episode-num>
+    <episode-num system="common">S02E24</episode-num>
+    <episode-num system="xmltv_ns">1.23.</episode-num>
+    <episode-num system="original-air-date">2013-12-15 00:00:00</episode-num>
+    <previously-shown start="20131215000000" />
+    <rating system="MPAA">
+<value>TVY</value>
+</rating>
+  </programme>
+  <programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Univision Network">
+    <title>Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260926</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p459763_b_h9_bf.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=459763&amp;tmsId=SH000193310000</url>
+    <episode-num system="dd_progid">SH00019331.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0925.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Univision Network">
+    <title>Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260926</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p459763_b_h9_bf.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=459763&amp;tmsId=SH000193310000</url>
+    <episode-num system="dd_progid">SH00019331.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0925.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Univision Network">
+    <title>Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260926</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p459763_b_h9_bf.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=459763&amp;tmsId=SH000193310000</url>
+    <episode-num system="dd_progid">SH00019331.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0925.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Univision Network">
+    <title>Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260926</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p459763_b_h9_bf.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=459763&amp;tmsId=SH000193310000</url>
+    <episode-num system="dd_progid">SH00019331.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0925.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Univision Network">
+    <title>Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260926</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p459763_b_h9_bf.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=459763&amp;tmsId=SH000193310000</url>
+    <episode-num system="dd_progid">SH00019331.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0925.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Univision Network">
+    <title>Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260926</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p459763_b_h9_bf.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=459763&amp;tmsId=SH000193310000</url>
+    <episode-num system="dd_progid">SH00019331.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0925.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260926180000 +0000" stop="20260926190000 +0000" channel="Univision Network">
+    <title>Lo tomas o lo dejas</title>
+    <sub-title>Gran oportunidad</sub-title>
+    <desc>Amine por fin es participante y se emociona al ver que es la elegida para concursar por el premio mayor y hará su mejor esfuerzo para ganar.</desc>
+    <credits>
+      <director>Jaime Escallón</director>
+      <actor>Paul Stanley</actor>
+    </credits>
+    <date>20250623</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Competition Reality</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p29596433_b_h9_ac.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=29596433&amp;tmsId=EP056270340076</url>
+    <episode-num system="dd_progid">EP05627034.0076</episode-num>
+    <episode-num system="onscreen">S01E56</episode-num>
+    <episode-num system="common">S01E56</episode-num>
+    <episode-num system="xmltv_ns">0.55.</episode-num>
+    <episode-num system="original-air-date">2025-06-23 00:00:00</episode-num>
+    <new />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926200000 +0000" channel="Univision Network">
+    <title>Monumental, Yuridia en vivo desde la Plaza de Toros La México</title>
+    <desc>Yuridia hizo historia en la Plaza de Toros México con un show monumental: un recorrido por sus más grandes éxitos, una producción imponente y un público que convirtió cada canción en un coro inolvidable.</desc>
+    <credits>
+      <actor>Yuridia</actor>
+    </credits>
+    <date>20250920</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Music</category>
+    <category lang="en">Concert</category>
+    <category lang="en">Latin</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p31179087_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=31179087&amp;tmsId=SH060393980000</url>
+    <episode-num system="dd_progid">SH06039398.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0925.</episode-num>
+    <episode-num system="original-air-date">2025-09-20 00:00:00</episode-num>
+    <previously-shown start="20250920000000" />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260926200000 +0000" stop="20260926210000 +0000" channel="Univision Network">
+    <title>Tu conexión</title>
+    <desc>Un espacio que pondrá sobre la mesa todo lo que ocurre dentro y fuera de la televisión.</desc>
+    <credits>
+      <actor>Arana Lemus</actor>
+      <actor>Jessi Rodríguez</actor>
+      <actor>Roberto Hernández</actor>
+    </credits>
+    <date>20260926</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34023187_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34023185&amp;tmsId=EP065987290003</url>
+    <episode-num system="dd_progid">EP06598729.0003</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="common">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="original-air-date">2026-09-02 00:00:00</episode-num>
+    <new />
+  </programme>
+  <programme start="20260926210000 +0000" stop="20260926213000 +0000" channel="Univision Network">
+    <title>Nosotros los guapos</title>
+    <sub-title>Cambiando de amigos</sub-title>
+    <desc>Vítor y Albertano consiguen trabajo en una estética, rodeados de bellas mujeres, pero aunque parecen estar en el paraíso, la amistad de los chicos se pondrá en riesgo, y descubrirán que las apariencias engañan.</desc>
+    <credits>
+      <director>Guillermo del Bosque</director>
+      <actor>Malillany Marín</actor>
+      <actor>Adrián Uribe</actor>
+      <actor>Ariel Miramontes</actor>
+    </credits>
+    <date>20170828</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Comedy drama</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p14566308_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=13091883&amp;tmsId=EP024732820114</url>
+    <episode-num system="dd_progid">EP02473282.0114</episode-num>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <episode-num system="common">S03E03</episode-num>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <episode-num system="original-air-date">2017-08-28 00:00:00</episode-num>
+    <previously-shown start="20170828000000" />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260926213000 +0000" stop="20260926220000 +0000" channel="Univision Network">
+    <title>Noticiero N+ Univision: Fin de semana</title>
+    <desc>La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.</desc>
+    <credits>
+      <actor>Félix De Bedout</actor>
+      <actor>Paulina Sodi</actor>
+    </credits>
+    <date>20260926</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p270755_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=270755&amp;tmsId=EP003810491452</url>
+    <episode-num system="dd_progid">EP00381049.1452</episode-num>
+    <episode-num system="xmltv_ns">2025.151.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-26 00:00:00</episode-num>
+    <new />
+    <live />
+  </programme>
+  <programme start="20260926220000 +0000" stop="20260926223000 +0000" channel="Univision Network">
+    <title>Fútbol central</title>
+    <desc>El programa elemental para los fans, el cual les indica qué buscar y esperar en la cancha en los próximos partidos y campeonatos.</desc>
+    <credits>
+      <actor>Ana Caty Hernández</actor>
+      <actor>Valeria Marín</actor>
+    </credits>
+    <date>20260926</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p9176142_b_h9_ah.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=9176142&amp;tmsId=EP015509270969</url>
+    <episode-num system="dd_progid">EP01550927.0969</episode-num>
+    <episode-num system="xmltv_ns">2025.81.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-26 00:00:00</episode-num>
+    <new />
+    <live />
+  </programme>
+  <programme start="20260926223000 +0000" stop="20260927010000 +0000" channel="Univision Network">
+    <title>Fútbol Mexicano Primera División</title>
+    <sub-title>Cruz Azul vs. Toluca</sub-title>
+    <desc>Acción de la jornada 10 del Torneo Apertura 2026. La Máquina busca busca el segundo lugar y los Diablos retener el liderato.</desc>
+    <date>20260926</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">150</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003BE9MB.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=9208870&amp;tmsId=EP015992495288</url>
+    <episode-num system="dd_progid">EP01599249.5288</episode-num>
+    <new />
+    <live />
+  </programme>
+  <programme start="20260927010000 +0000" stop="20260927033000 +0000" channel="Univision Network">
+    <title>Fútbol masculino amistosos internacionales</title>
+    <sub-title>México vs. Colombia</sub-title>
+    <desc>Partido amistoso internacional. México se enfrenta a Colombia, el partido está marcado por el debut de Rafael Marquez como DT del Tricolor. Desde el M&amp;T Bank Stadium, en Baltimore, Maryland.</desc>
+    <date>20260926</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">150</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003DVWSC.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=23914624&amp;tmsId=EP046279181170</url>
+    <episode-num system="dd_progid">EP04627918.1170</episode-num>
+    <new />
+    <live />
+  </programme>
+  <programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="Univision Network">
+    <title>Una familia de diez</title>
+    <sub-title>A trabajar todos</sub-title>
+    <desc>Plácido está preocupado a causa del desbalance económico que han sufrido por el incendio. Durante una reunión familiar, Plácido establece nuevas reglas y les exige a todos conseguir un trabajo.</desc>
+    <credits>
+      <actor>Jorge Ortiz de Pinedo</actor>
+      <actor>Eduardo Manzano</actor>
+      <actor>Zully Keith</actor>
+    </credits>
+    <date>20190901</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p309468_b_h9_ak.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=309468&amp;tmsId=EP009112420080</url>
+    <episode-num system="dd_progid">EP00911242.0080</episode-num>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="common">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <episode-num system="original-air-date">2019-09-01 00:00:00</episode-num>
+    <previously-shown start="20190901000000" />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVPG</value>
+</rating>
+  </programme>
+  <programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Univision Network">
+    <title>Noticiero N+ Univision: Fin de semana</title>
+    <sub-title>Edición nocturna</sub-title>
+    <desc>La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.</desc>
+    <credits>
+      <actor>Félix De Bedout</actor>
+      <actor>Paulina Sodi</actor>
+    </credits>
+    <date>20260926</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p270755_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=270755&amp;tmsId=EP003810491453</url>
+    <episode-num system="dd_progid">EP00381049.1453</episode-num>
+    <episode-num system="xmltv_ns">2025.152.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-26 00:00:00</episode-num>
+    <new />
+    <live />
+  </programme>
+  <programme start="20260927043000 +0000" stop="20260927053000 +0000" channel="Univision Network">
+    <title>Contacto deportivo</title>
+    <desc>El destino obligado de los amantes del deporte para estar al día con las noticias más importantes y los partidos más destacados de todos los principales deportes.</desc>
+    <credits>
+      <actor>Ramsés Sandoval</actor>
+    </credits>
+    <date>20260926</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Entertainment</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p11530834_b_h9_ag.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=11530834&amp;tmsId=EP021317722601</url>
+    <episode-num system="dd_progid">EP02131772.2601</episode-num>
+    <episode-num system="xmltv_ns">2025.270.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-26 00:00:00</episode-num>
+    <new />
+    <live />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260927053000 +0000" stop="20260927063000 +0000" channel="Univision Network">
+    <title>Tu conexión</title>
+    <desc>Un espacio que pondrá sobre la mesa todo lo que ocurre dentro y fuera de la televisión.</desc>
+    <credits>
+      <actor>Arana Lemus</actor>
+      <actor>Jessi Rodríguez</actor>
+      <actor>Roberto Hernández</actor>
+    </credits>
+    <date>20260926</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34023187_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34023185&amp;tmsId=EP065987290003</url>
+    <episode-num system="dd_progid">EP06598729.0003</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="common">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="original-air-date">2026-09-02 00:00:00</episode-num>
+    <previously-shown start="20260902000000" />
+  </programme>
+  <programme start="20260927063000 +0000" stop="20260927073000 +0000" channel="Univision Network">
+    <title>Monumental, Yuridia en vivo desde la Plaza de Toros La México</title>
+    <desc>Yuridia hizo historia en la Plaza de Toros México con un show monumental: un recorrido por sus más grandes éxitos, una producción imponente y un público que convirtió cada canción en un coro inolvidable.</desc>
+    <credits>
+      <actor>Yuridia</actor>
+    </credits>
+    <date>20250920</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Music</category>
+    <category lang="en">Concert</category>
+    <category lang="en">Latin</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p31179087_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=31179087&amp;tmsId=SH060393980000</url>
+    <episode-num system="dd_progid">SH06039398.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0926.</episode-num>
+    <episode-num system="original-air-date">2025-09-20 00:00:00</episode-num>
+    <previously-shown start="20250920000000" />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260927073000 +0000" stop="20260927083000 +0000" channel="Univision Network">
+    <title>Lo tomas o lo dejas</title>
+    <sub-title>Gran oportunidad</sub-title>
+    <desc>Amine por fin es participante y se emociona al ver que es la elegida para concursar por el premio mayor y hará su mejor esfuerzo para ganar.</desc>
+    <credits>
+      <director>Jaime Escallón</director>
+      <actor>Paul Stanley</actor>
+    </credits>
+    <date>20250623</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Competition Reality</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p29596433_b_h9_ac.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=29596433&amp;tmsId=EP056270340076</url>
+    <episode-num system="dd_progid">EP05627034.0076</episode-num>
+    <episode-num system="onscreen">S01E56</episode-num>
+    <episode-num system="common">S01E56</episode-num>
+    <episode-num system="xmltv_ns">0.55.</episode-num>
+    <episode-num system="original-air-date">2025-06-23 00:00:00</episode-num>
+    <previously-shown start="20250623000000" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260927083000 +0000" stop="20260927090000 +0000" channel="Univision Network">
+    <title>El Chavo</title>
+    <sub-title>Accidente de don Ramón</sub-title>
+    <desc>Don Ramón es atropellado por un camión y el Chavo pretende ser atropellado también para que Doña Clotilde lo atienda y le dé de comer igual como lo ha hecho con Don Ramón.</desc>
+    <credits>
+      <actor>Roberto Gómez Bolaños</actor>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Carlos Villagrán</actor>
+    </credits>
+    <date>19780612</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Comedy drama</category>
+    <category lang="en">Entertainment</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p373778_b_h9_af.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=373778&amp;tmsId=EP013802381010</url>
+    <episode-num system="dd_progid">EP01380238.1010</episode-num>
+    <episode-num system="onscreen">S01E199</episode-num>
+    <episode-num system="common">S01E199</episode-num>
+    <episode-num system="xmltv_ns">0.198.</episode-num>
+    <episode-num system="original-air-date">1978-06-12 00:00:00</episode-num>
+    <new />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927093000 +0000" channel="Univision Network">
+    <title>Nosotros los guapos</title>
+    <sub-title>Cambiando de amigos</sub-title>
+    <desc>Vítor y Albertano consiguen trabajo en una estética, rodeados de bellas mujeres, pero aunque parecen estar en el paraíso, la amistad de los chicos se pondrá en riesgo, y descubrirán que las apariencias engañan.</desc>
+    <credits>
+      <director>Guillermo del Bosque</director>
+      <actor>Malillany Marín</actor>
+      <actor>Adrián Uribe</actor>
+      <actor>Ariel Miramontes</actor>
+    </credits>
+    <date>20170828</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Comedy drama</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p14566308_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=13091883&amp;tmsId=EP024732820114</url>
+    <episode-num system="dd_progid">EP02473282.0114</episode-num>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <episode-num system="common">S03E03</episode-num>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <episode-num system="original-air-date">2017-08-28 00:00:00</episode-num>
+    <previously-shown start="20170828000000" />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260927093000 +0000" stop="20260927100000 +0000" channel="Univision Network">
+    <title>Noticiero N+ Univision: Fin de semana</title>
+    <sub-title>Edición nocturna</sub-title>
+    <desc>La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.</desc>
+    <credits>
+      <actor>Félix De Bedout</actor>
+      <actor>Paulina Sodi</actor>
+    </credits>
+    <date>20260926</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p270755_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=270755&amp;tmsId=EP003810491453</url>
+    <episode-num system="dd_progid">EP00381049.1453</episode-num>
+    <episode-num system="xmltv_ns">2025.152.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-26 00:00:00</episode-num>
+    <previously-shown start="20260926000000" />
+  </programme>
+  <programme start="20260927100000 +0000" stop="20260927103000 +0000" channel="Univision Network">
+    <title>Los González</title>
+    <sub-title>Leo cobra el dinero de Youtube</sub-title>
+    <desc>Lo mejor de hacer vídeos en Internet es recibir el pago, esto se transformará en una odisea para la familia.</desc>
+    <credits>
+      <actor>Raquel Pankowsky</actor>
+      <actor>Alejandro Cuétara</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p13461930_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=13211151&amp;tmsId=EP024969800017</url>
+    <episode-num system="dd_progid">EP02496980.0017</episode-num>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <episode-num system="common">S01E17</episode-num>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260927103000 +0000" stop="20260927110000 +0000" channel="Univision Network">
+    <title>Los González</title>
+    <sub-title>Leo busca trabajo desesperadamente</sub-title>
+    <desc>Leo deberá encontrar un trabajo rápidamente para poder sustentar su familia.</desc>
+    <credits>
+      <actor>Raquel Pankowsky</actor>
+      <actor>Alejandro Cuétara</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p13461930_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=13211151&amp;tmsId=EP024969800018</url>
+    <episode-num system="dd_progid">EP02496980.0018</episode-num>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <episode-num system="common">S01E18</episode-num>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260927110000 +0000" stop="20260927113000 +0000" channel="Univision Network">
+    <title>Operation Smile</title>
+    <desc>Operation Smile: transformando vidas y regalando sonrisas a los niños alrededor del mundo.</desc>
+    <date>20260927</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p19034567_b_h9_aa" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=19034567&amp;tmsId=SH036647820000</url>
+    <episode-num system="dd_progid">SH03664782.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0926.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260927113000 +0000" stop="20260927120000 +0000" channel="Univision Network">
+    <title>Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260927</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p459763_b_h9_bf.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=459763&amp;tmsId=SH000193310000</url>
+    <episode-num system="dd_progid">SH00019331.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0926.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Univision Network">
+    <title>Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260927</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p459763_b_h9_bf.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=459763&amp;tmsId=SH000193310000</url>
+    <episode-num system="dd_progid">SH00019331.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0926.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Univision Network">
+    <title>Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260927</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p459763_b_h9_bf.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=459763&amp;tmsId=SH000193310000</url>
+    <episode-num system="dd_progid">SH00019331.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0926.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Univision Network">
+    <title>La rosa de Guadalupe</title>
+    <sub-title>Una canita al aire</sub-title>
+    <desc>Yesenia y Manuel se comprometen y se juran amor para siempre, al presentarlo a su familia, su hermana lo reconoce, y recuerda que hace algún tiempo pasó una noche con él.</desc>
+    <credits>
+      <director>José Ángel García</director>
+      <director>Marta Luna</director>
+      <actor>Milia Nader</actor>
+      <actor>Diego Lara</actor>
+      <actor>Sandra Itzel</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p10811377_b_h9_ac.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=255240&amp;tmsId=EP010295002036</url>
+    <episode-num system="dd_progid">EP01029500.2036</episode-num>
+    <episode-num system="onscreen">S01E1847</episode-num>
+    <episode-num system="common">S01E1847</episode-num>
+    <episode-num system="xmltv_ns">0.1846.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Univision Network">
+    <title>Esta historia me suena</title>
+    <sub-title>Ya es muy tarde</sub-title>
+    <desc>Tras sentirse asfixiada por su abuela, Luna consigue trabajo en un estudio de tatuajes. Allí donde se enamorará de David, quien solo busca aprovecharse de ella.</desc>
+    <credits>
+      <actor>Maria José Loyola</actor>
+      <actor>Jan Carlo Bautista</actor>
+    </credits>
+    <date>20190524</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Music</category>
+    <category lang="en">Entertainment</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p17109887_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=17109886&amp;tmsId=EP032640570010</url>
+    <episode-num system="dd_progid">EP03264057.0010</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="common">S01E10</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="original-air-date">2019-05-24 00:00:00</episode-num>
+    <previously-shown start="20190524000000" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Univision Network">
+    <title>Esta semana</title>
+    <desc>Un programa dominical sobre las decisiones en Washington, D. C. y sus consecuencias en la vida cotidiana de los latinos que trabajan, votan y construyen sus vidas en Estados Unidos.</desc>
+    <credits>
+      <actor>Ilia Calderón</actor>
+      <actor>Enrique Acevedo</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Politics</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p32604057_b_h9_ad.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=32604057&amp;tmsId=EP063371770031</url>
+    <episode-num system="dd_progid">EP06337177.0031</episode-num>
+    <episode-num system="xmltv_ns">2025.29.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-27 00:00:00</episode-num>
+    <new />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Univision Network">
+    <title>El Vicky Van Show</title>
+    <desc>Vicky &quot;la Chama&quot; Van entrevista a grandes invitados y artistas, quienes comparten cómo es la vida tras la música.</desc>
+    <credits>
+      <actor>Vicky Van</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talk</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p31264180_b_h9_ab.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=31264180&amp;tmsId=EP060599420054</url>
+    <episode-num system="dd_progid">EP06059942.0054</episode-num>
+    <episode-num system="onscreen">S02E30</episode-num>
+    <episode-num system="common">S02E30</episode-num>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+    <episode-num system="original-air-date">2026-06-14 00:00:00</episode-num>
+    <new />
+    <rating system="MPAA">
+<value>TVPG</value>
+</rating>
+  </programme>
+  <programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Univision Network">
+    <title>Fútbol central</title>
+    <desc>El programa elemental para los fans, el cual les indica qué buscar y esperar en la cancha en los próximos partidos y campeonatos.</desc>
+    <credits>
+      <actor>Ana Caty Hernández</actor>
+      <actor>Valeria Marín</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p9176142_b_h9_ah.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=9176142&amp;tmsId=EP015509270970</url>
+    <episode-num system="dd_progid">EP01550927.0970</episode-num>
+    <episode-num system="xmltv_ns">2025.82.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-27 00:00:00</episode-num>
+    <new />
+    <live />
+  </programme>
+  <programme start="20260927173000 +0000" stop="20260927200000 +0000" channel="Univision Network">
+    <title>Fútbol Mexicano Primera División</title>
+    <sub-title>Pumas UNAM vs. Atlético San Luis</sub-title>
+    <desc>Acción de la jornada 10 del Torneo Apertura 2026. Pumas busca liguilla y los Potosinos su segunda victoria al hilo.</desc>
+    <date>20260927</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">150</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003BE6CK.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=9208870&amp;tmsId=EP015992495300</url>
+    <episode-num system="dd_progid">EP01599249.5300</episode-num>
+    <new />
+    <live />
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260927203000 +0000" channel="Univision Network">
+    <title>Tal para cual</title>
+    <sub-title>Sisi mamá</sub-title>
+    <desc>Nacól da la noticia que ya tiene novio y se quiere casar. El novio es hijo de Sisi, quien lo controla y maneja. Nacaranda y Nacasia hacen todo lo posible por convencer a Nacól de que ese matrimonio no le conviene.</desc>
+    <credits>
+      <director>Sergio Adrián Sánchez</director>
+      <actor>Consuelo Duval</actor>
+      <actor>Lorena de la Garza</actor>
+      <actor>Reynaldo Rossano</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p30145627_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=23073827&amp;tmsId=EP044787730057</url>
+    <episode-num system="dd_progid">EP04478773.0057</episode-num>
+    <episode-num system="onscreen">S04E13</episode-num>
+    <episode-num system="common">S04E13</episode-num>
+    <episode-num system="xmltv_ns">3.12.</episode-num>
+    <new />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260927203000 +0000" stop="20260927210000 +0000" channel="Univision Network">
+    <title>Noticiero N+ Univision: Fin de semana</title>
+    <desc>La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.</desc>
+    <credits>
+      <actor>Félix De Bedout</actor>
+      <actor>Paulina Sodi</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p270755_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=270755&amp;tmsId=EP003810491454</url>
+    <episode-num system="dd_progid">EP00381049.1454</episode-num>
+    <episode-num system="xmltv_ns">2025.153.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-27 00:00:00</episode-num>
+    <new />
+    <live />
+  </programme>
+  <programme start="20260927210000 +0000" stop="20260928000000 +0000" channel="Univision Network">
+    <title>Película</title>
+    <desc>Arte cinematográfico mundial.</desc>
+    <date>20260927</date>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <length units="minutes">180</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p809737_i_h9_ae.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=809737&amp;tmsId=SH016938330000</url>
+    <episode-num system="dd_progid">SH01693833.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.0926.</episode-num>
+    <new />
+    <rating system="MPAA">
+<value>TVG</value>
+</rating>
+  </programme>
+  <programme start="20260928000000 +0000" stop="20260928010000 +0000" channel="Univision Network">
+    <title>C.D.I. Código de investigación. Archivos abiertos</title>
+    <sub-title>Caso hermanos Alexander</sub-title>
+    <desc>El caso de los hermanos Tal, Oren y Alon Alexander sacudió a Nueva York al revelar una serie de abusos sexuales contra múltiples mujeres, presuntamente cometidos durante años en un contexto de poder, dinero y manipulación. Según la fiscalía, utilizaban su posición en el exclusivo mercado inmobiliario para captar víctimas y someterlas a situaciones de coerción.</desc>
+    <credits>
+      <actor>Borja Voces</actor>
+      <actor>Dra. Rosa Chang</actor>
+      <actor>Manny Ortega</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Documentary</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p31067734_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=31067734&amp;tmsId=EP060168590008</url>
+    <episode-num system="dd_progid">EP06016859.0008</episode-num>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <episode-num system="common">S02E04</episode-num>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="original-air-date">2026-08-03 00:00:00</episode-num>
+    <new />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928010000 +0000" stop="20260928030000 +0000" channel="Univision Network">
+    <title>Fútbol Mexicano Primera División</title>
+    <sub-title>León vs. Juárez</sub-title>
+    <desc>Acción de la jornada 10 del Torneo Apertura 2026. León busca mantenerse en liguilla y Juárez su segunda victoria al hilo.</desc>
+    <date>20260927</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">120</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003BE6HR.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=9208870&amp;tmsId=EP015992495336</url>
+    <episode-num system="dd_progid">EP01599249.5336</episode-num>
+    <new />
+    <live />
+  </programme>
+  <programme start="20260928030000 +0000" stop="20260928033000 +0000" channel="Univision Network">
+    <title>Noticiero N+ Univision: Fin de semana</title>
+    <desc>La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.</desc>
+    <credits>
+      <actor>Félix De Bedout</actor>
+      <actor>Paulina Sodi</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p270755_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=270755&amp;tmsId=EP003810491454</url>
+    <episode-num system="dd_progid">EP00381049.1454</episode-num>
+    <episode-num system="xmltv_ns">2025.153.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-27 00:00:00</episode-num>
+    <previously-shown start="20260927000000" />
+  </programme>
+  <programme start="20260928033000 +0000" stop="20260928033500 +0000" channel="Univision Network">
+    <title>Sabor de mañana</title>
+    <desc>Un adelanto de lo que va a pasar en Despierta América, El Gordo y La Flaca y Primer Impacto.</desc>
+    <date>20260925</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Community</category>
+    <category lang="en">News</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">5</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p17483527_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=17483527&amp;tmsId=EP033377261815</url>
+    <episode-num system="dd_progid">EP03337726.1815</episode-num>
+    <episode-num system="xmltv_ns">2025.191.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-25 00:00:00</episode-num>
+    <previously-shown start="20260925000000" />
+  </programme>
+  <programme start="20260928033500 +0000" stop="20260928040000 +0000" channel="Univision Network">
+    <title>Noticiero N+ Univision: Fin de semana</title>
+    <sub-title>Edición nocturna</sub-title>
+    <desc>La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.</desc>
+    <credits>
+      <actor>Félix De Bedout</actor>
+      <actor>Paulina Sodi</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <length units="minutes">25</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p270755_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=270755&amp;tmsId=EP003810491455</url>
+    <episode-num system="dd_progid">EP00381049.1455</episode-num>
+    <episode-num system="xmltv_ns">2025.154.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-27 00:00:00</episode-num>
+    <new />
+    <live />
+  </programme>
+  <programme start="20260928040000 +0000" stop="20260928050000 +0000" channel="Univision Network">
+    <title>La jugada</title>
+    <desc>El lugar para revivir los sucesos y las noticias más importantes del fin de semana, combinados con entrevistas, emotivas historias y reseñas de todo el mundo deportivo. Secciones dedicadas a fútbol, NFL, MLB, NBA y más.</desc>
+    <credits>
+      <actor>Antonio de Valdés</actor>
+      <actor>Enrique Burak</actor>
+      <actor>Francisco Fonseca</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p17112717_b_h9_ac.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=17112717&amp;tmsId=EP032648130338</url>
+    <episode-num system="dd_progid">EP03264813.0338</episode-num>
+    <episode-num system="xmltv_ns">2025.38.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-27 00:00:00</episode-num>
+    <new />
+    <live />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928050000 +0000" stop="20260928060000 +0000" channel="Univision Network">
+    <title>C.D.I. Código de investigación. Archivos abiertos</title>
+    <sub-title>Caso hermanos Alexander</sub-title>
+    <desc>El caso de los hermanos Tal, Oren y Alon Alexander sacudió a Nueva York al revelar una serie de abusos sexuales contra múltiples mujeres, presuntamente cometidos durante años en un contexto de poder, dinero y manipulación. Según la fiscalía, utilizaban su posición en el exclusivo mercado inmobiliario para captar víctimas y someterlas a situaciones de coerción.</desc>
+    <credits>
+      <actor>Borja Voces</actor>
+      <actor>Dra. Rosa Chang</actor>
+      <actor>Manny Ortega</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Documentary</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p31067734_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=31067734&amp;tmsId=EP060168590008</url>
+    <episode-num system="dd_progid">EP06016859.0008</episode-num>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <episode-num system="common">S02E04</episode-num>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="original-air-date">2026-08-03 00:00:00</episode-num>
+    <previously-shown start="20260803000000" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928060000 +0000" stop="20260928070000 +0000" channel="Univision Network">
+    <title>Esta semana</title>
+    <desc>Un programa dominical sobre las decisiones en Washington, D. C. y sus consecuencias en la vida cotidiana de los latinos que trabajan, votan y construyen sus vidas en Estados Unidos.</desc>
+    <credits>
+      <actor>Ilia Calderón</actor>
+      <actor>Enrique Acevedo</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Politics</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p32604057_b_h9_ad.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=32604057&amp;tmsId=EP063371770031</url>
+    <episode-num system="dd_progid">EP06337177.0031</episode-num>
+    <episode-num system="xmltv_ns">2025.29.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-27 00:00:00</episode-num>
+    <previously-shown start="20260927000000" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928070000 +0000" stop="20260928080000 +0000" channel="Univision Network">
+    <title>Esta historia me suena</title>
+    <sub-title>Ya es muy tarde</sub-title>
+    <desc>Tras sentirse asfixiada por su abuela, Luna consigue trabajo en un estudio de tatuajes. Allí donde se enamorará de David, quien solo busca aprovecharse de ella.</desc>
+    <credits>
+      <actor>Maria José Loyola</actor>
+      <actor>Jan Carlo Bautista</actor>
+    </credits>
+    <date>20190524</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Music</category>
+    <category lang="en">Entertainment</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p17109887_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=17109886&amp;tmsId=EP032640570010</url>
+    <episode-num system="dd_progid">EP03264057.0010</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="common">S01E10</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="original-air-date">2019-05-24 00:00:00</episode-num>
+    <previously-shown start="20190524000000" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928080000 +0000" stop="20260928090000 +0000" channel="Univision Network">
+    <title>El Vicky Van Show</title>
+    <desc>Vicky &quot;la Chama&quot; Van entrevista a grandes invitados y artistas, quienes comparten cómo es la vida tras la música.</desc>
+    <credits>
+      <actor>Vicky Van</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talk</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p31264180_b_h9_ab.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=31264180&amp;tmsId=EP060599420054</url>
+    <episode-num system="dd_progid">EP06059942.0054</episode-num>
+    <episode-num system="onscreen">S02E30</episode-num>
+    <episode-num system="common">S02E30</episode-num>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+    <episode-num system="original-air-date">2026-06-14 00:00:00</episode-num>
+    <previously-shown start="20260614000000" />
+    <rating system="MPAA">
+<value>TVPG</value>
+</rating>
+  </programme>
+  <programme start="20260928090000 +0000" stop="20260928093500 +0000" channel="Univision Network">
+    <title>Tal para cual</title>
+    <sub-title>Sisi mamá</sub-title>
+    <desc>Nacól da la noticia que ya tiene novio y se quiere casar. El novio es hijo de Sisi, quien lo controla y maneja. Nacaranda y Nacasia hacen todo lo posible por convencer a Nacól de que ese matrimonio no le conviene.</desc>
+    <credits>
+      <director>Sergio Adrián Sánchez</director>
+      <actor>Consuelo Duval</actor>
+      <actor>Lorena de la Garza</actor>
+      <actor>Reynaldo Rossano</actor>
+    </credits>
+    <date>20260928</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <length units="minutes">35</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p30145627_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=23073827&amp;tmsId=EP044787730057</url>
+    <episode-num system="dd_progid">EP04478773.0057</episode-num>
+    <episode-num system="onscreen">S04E13</episode-num>
+    <episode-num system="common">S04E13</episode-num>
+    <episode-num system="xmltv_ns">3.12.</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928093500 +0000" stop="20260928100000 +0000" channel="Univision Network">
+    <title>Noticiero N+ Univision: Fin de semana</title>
+    <sub-title>Edición nocturna</sub-title>
+    <desc>La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.</desc>
+    <credits>
+      <actor>Félix De Bedout</actor>
+      <actor>Paulina Sodi</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <length units="minutes">25</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p270755_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=270755&amp;tmsId=EP003810491455</url>
+    <episode-num system="dd_progid">EP00381049.1455</episode-num>
+    <episode-num system="xmltv_ns">2025.154.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-27 00:00:00</episode-num>
+    <previously-shown start="20260927000000" />
+  </programme>
+  <programme start="20260928100000 +0000" stop="20260928110000 +0000" channel="Univision Network">
+    <title>Mañana es para siempre</title>
+    <sub-title>Venganza</sub-title>
+    <desc>Eduardo teme que Artemio mate a Liliana. Artemio se molesta al saber que Liliana le entregó su diario a Eduardo. Eduardo descubre que Camilo es el responsable de haber golpeado a Steve. Eduardo le confiesa a Fernanda el amor que siente por ella.</desc>
+    <credits>
+      <director>Salvador Garcini</director>
+      <actor>Silvia Navarro</actor>
+      <actor>Fernando Colunga</actor>
+      <actor>Lucero</actor>
+    </credits>
+    <date>20210604</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p19002122_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=19002122&amp;tmsId=EP036583870146</url>
+    <episode-num system="dd_progid">EP03658387.0146</episode-num>
+    <episode-num system="onscreen">S01E146</episode-num>
+    <episode-num system="common">S01E146</episode-num>
+    <episode-num system="xmltv_ns">0.145.</episode-num>
+    <episode-num system="original-air-date">2021-06-04 00:00:00</episode-num>
+    <previously-shown start="20210604000000" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928110000 +0000" stop="20260928150000 +0000" channel="Univision Network">
+    <title>¡Despierta América!</title>
+    <desc>Revista matutina con noticias, temas de actualidad, reportajes de farándula, música e información práctica.</desc>
+    <credits>
+      <actor>Alan Tacher</actor>
+      <actor>Karla Martínez</actor>
+      <actor>Satcha Pretto</actor>
+    </credits>
+    <date>20260927</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Variety</category>
+    <category lang="en">Newsmagazine</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p226569_b_h9_al.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=226569&amp;tmsId=EP002191532188</url>
+    <episode-num system="dd_progid">EP00219153.2188</episode-num>
+    <episode-num system="xmltv_ns">2025.192.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-28 00:00:00</episode-num>
+    <new />
+    <live />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928150000 +0000" stop="20260928160000 +0000" channel="Univision Network">
+    <title>Como dice el dicho</title>
+    <sub-title>Al cielo no se sube con escaleras sino con obras buenas</sub-title>
+    <desc>Lorena abandona a su hijo Domingo cuando Matías, su pareja, decide llevársela y dejar al niño a su suerte. Además, Matías maltrata a Lorena, aumentando su sufrimiento.</desc>
+    <credits>
+      <director>Emmanuel Duprez</director>
+      <actor>Michael Ronda</actor>
+      <actor>Wendy González</actor>
+      <actor>Sergio Corona</actor>
+    </credits>
+    <date>20240909</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p8513964_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=8513964&amp;tmsId=EP013814961801</url>
+    <episode-num system="dd_progid">EP01381496.1801</episode-num>
+    <episode-num system="onscreen">S14E117</episode-num>
+    <episode-num system="common">S14E117</episode-num>
+    <episode-num system="xmltv_ns">13.116.</episode-num>
+    <episode-num system="original-air-date">2024-09-09 00:00:00</episode-num>
+    <previously-shown start="20240909000000" />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928160000 +0000" stop="20260928163000 +0000" channel="Univision Network">
+    <title>Noticiero N+ Univision: Edición digital</title>
+    <desc>Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por jóvenes periodistas en un ambiente informal.</desc>
+    <credits>
+      <actor>Carolina Sarassa</actor>
+      <actor>Borja Voces</actor>
+    </credits>
+    <date>20260928</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p13995473_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=13995473&amp;tmsId=EP026572962117</url>
+    <episode-num system="dd_progid">EP02657296.2117</episode-num>
+    <episode-num system="xmltv_ns">2025.196.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-28 00:00:00</episode-num>
+    <new />
+    <live />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928163000 +0000" stop="20260928170000 +0000" channel="Univision Network">
+    <title>Vecinos</title>
+    <sub-title>El trabajo de Alejandra</sub-title>
+    <desc>Miguelito P. Luche está de visita en el edificio de los vecinos y se reencuentra con el amor de su infancia. Además, Ale se ve obligada a conseguir trabajo.</desc>
+    <credits>
+      <director>Jorge Garza</director>
+      <actor>César Bono</actor>
+      <actor>Eduardo España</actor>
+      <actor>Macaria</actor>
+    </credits>
+    <date>20200920</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p310714_b_h9_ac.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=310714&amp;tmsId=EP008112010530</url>
+    <episode-num system="dd_progid">EP00811201.0530</episode-num>
+    <episode-num system="onscreen">S09E08</episode-num>
+    <episode-num system="common">S09E08</episode-num>
+    <episode-num system="xmltv_ns">8.7.</episode-num>
+    <episode-num system="original-air-date">2020-08-02 00:00:00</episode-num>
+    <previously-shown start="20200802000000" />
+    <rating system="MPAA">
+<value>TVPG</value>
+</rating>
+  </programme>
+  <programme start="20260928170000 +0000" stop="20260928180000 +0000" channel="Univision Network">
+    <title>¡Siéntese quien pueda!</title>
+    <desc>Una serie de panelistas destacados del mundo de la prensa de espectáculos participan en un reality entre ellos mientras se desarrolla el programa.</desc>
+    <credits>
+      <actor>Chiquibaby</actor>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <date>20260928</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p22720299_b_h9_ae.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=22720299&amp;tmsId=EP044110501019</url>
+    <episode-num system="dd_progid">EP04411050.1019</episode-num>
+    <episode-num system="onscreen">S04E191</episode-num>
+    <episode-num system="common">S04E191</episode-num>
+    <episode-num system="xmltv_ns">3.190.</episode-num>
+    <episode-num system="original-air-date">2026-09-28 00:00:00</episode-num>
+    <new />
+    <live />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928180000 +0000" stop="20260928190000 +0000" channel="Univision Network">
+    <title>¡Siéntese quien pueda!</title>
+    <desc>Una serie de panelistas destacados del mundo de la prensa de espectáculos participan en un reality entre ellos mientras se desarrolla el programa.</desc>
+    <credits>
+      <actor>Chiquibaby</actor>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <date>20260928</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Variety</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p22720299_b_h9_ae.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=22720299&amp;tmsId=EP044110501019</url>
+    <episode-num system="dd_progid">EP04411050.1019</episode-num>
+    <episode-num system="onscreen">S04E191</episode-num>
+    <episode-num system="common">S04E191</episode-num>
+    <episode-num system="xmltv_ns">3.190.</episode-num>
+    <episode-num system="original-air-date">2026-09-28 00:00:00</episode-num>
+    <previously-shown start="20260928000000" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928190000 +0000" stop="20260928200000 +0000" channel="Univision Network">
+    <title>Desiguales</title>
+    <desc>Cinco mujeres de diferentes generaciones, estilos, nacionalidades y culturas entrelazan sus experiencias de vida ofreciendo una perspectiva única y multifacética sobre temas femeninos y de actualidad.</desc>
+    <credits>
+      <actor>Migbelis Castellanos</actor>
+      <actor>Karina Banda</actor>
+      <actor>Amara La Negra</actor>
+    </credits>
+    <date>20260928</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Anthology</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p26704781_b_h9_ad.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=26704781&amp;tmsId=EP050267570686</url>
+    <episode-num system="dd_progid">EP05026757.0686</episode-num>
+    <episode-num system="onscreen">S03E188</episode-num>
+    <episode-num system="common">S03E188</episode-num>
+    <episode-num system="xmltv_ns">2.187.</episode-num>
+    <episode-num system="original-air-date">2026-09-28 00:00:00</episode-num>
+    <new />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928200000 +0000" stop="20260928210000 +0000" channel="Univision Network">
+    <title>El gordo y la flaca</title>
+    <desc>Chismes de celebridades y las últimas noticias de la industria del entretenimiento, en un programa que combina entrevistas con actores, músicos y celebridades.</desc>
+    <credits>
+      <actor>Raúl de Molina</actor>
+      <actor>Lili Estefan</actor>
+    </credits>
+    <date>20260928</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p374378_b_h9_ab.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=374378&amp;tmsId=EP002816202164</url>
+    <episode-num system="dd_progid">EP00281620.2164</episode-num>
+    <episode-num system="xmltv_ns">2025.192.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-28 00:00:00</episode-num>
+    <new />
+    <live />
+    <rating system="MPAA">
+<value>TVPG</value>
+</rating>
+  </programme>
+  <programme start="20260928210000 +0000" stop="20260928220000 +0000" channel="Univision Network">
+    <title>Primer impacto</title>
+    <desc>Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo. El programa también cuenta con dos segmentos de salud semanales.</desc>
+    <credits>
+      <actor>Pamela Silva Conde</actor>
+      <actor>Michelle Galvan</actor>
+      <actor>Borja Voces</actor>
+    </credits>
+    <date>20260928</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p468944_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=468944&amp;tmsId=EP000193172165</url>
+    <episode-num system="dd_progid">EP00019317.2165</episode-num>
+    <episode-num system="xmltv_ns">2025.192.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-28 00:00:00</episode-num>
+    <new />
+    <live />
+    <rating system="MPAA">
+<value>TVPG</value>
+</rating>
+  </programme>
+  <programme start="20260928220000 +0000" stop="20260928223000 +0000" channel="Univision Network">
+    <title>Noticiero N+ Univision: Edición digital</title>
+    <desc>Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por jóvenes periodistas en un ambiente informal.</desc>
+    <credits>
+      <actor>Carolina Sarassa</actor>
+      <actor>Borja Voces</actor>
+    </credits>
+    <date>20260928</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p13995473_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=13995473&amp;tmsId=EP026572962117</url>
+    <episode-num system="dd_progid">EP02657296.2117</episode-num>
+    <episode-num system="xmltv_ns">2025.196.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-28 00:00:00</episode-num>
+    <previously-shown start="20260928000000" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260928223000 +0000" stop="20260928230000 +0000" channel="Univision Network">
+    <title>Noticiero N+ Univision</title>
+    <desc>El noticiero transmite los acontecimientos mundiales que son de interés público para la comunidad hispana desde su sede en Florida e incluye reportajes de la política, el clima, los deportes, la educación, la inmigración, entre otros.</desc>
+    <credits>
+      <actor>Ilia Calderón</actor>
+    </credits>
+    <date>20260928</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p270752_b_h9_ac.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=270752&amp;tmsId=EP000193112166</url>
+    <episode-num system="dd_progid">EP00019311.2166</episode-num>
+    <episode-num system="xmltv_ns">2025.192.0/1</episode-num>
+    <episode-num system="original-air-date">2026-09-28 00:00:00</episode-num>
+    <new />
+    <live />
+  </programme>
+  <programme start="20260928230000 +0000" stop="20260929000000 +0000" channel="Univision Network">
+    <title>La rosa de Guadalupe</title>
+    <sub-title>El mal que entra en tu casa</sub-title>
+    <desc>Mariana y Lorenza son mejores amigas, pero la envidia las lleva a una lucha encarnizada por arruinarse la vida.</desc>
+    <credits>
+      <director>José Ángel García</director>
+      <director>Marta Luna</director>
+      <actor>Milia Nader</actor>
+      <actor>Diego Lara</actor>
+      <actor>Sandra Itzel</actor>
+    </credits>
+    <date>20260928</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p10811377_b_h9_ac.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=255240&amp;tmsId=EP010295002571</url>
+    <episode-num system="dd_progid">EP01029500.2571</episode-num>
+    <episode-num system="onscreen">S01E2354</episode-num>
+    <episode-num system="common">S01E2354</episode-num>
+    <episode-num system="xmltv_ns">0.2353.</episode-num>
+    <episode-num system="original-air-date">2026-05-29 00:00:00</episode-num>
+    <new />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260929000000 +0000" stop="20260929010000 +0000" channel="Univision Network">
+    <title>Sabor a ti, entre historias y secretos</title>
+    <sub-title>Heridas, secretos y amores</sub-title>
+    <desc>La muerte de Rosa reabre heridas, secretos y amores que el tiempo no logró borrar. Ángela se despide de su abuela.</desc>
+    <credits>
+      <director>Héctor Márquez</director>
+      <director>Carlos Santos</director>
+      <actor>Sachi Tamashiro</actor>
+      <actor>Palmeira Cruz</actor>
+      <actor>Rodrigo Vidal</actor>
+    </credits>
+    <date>20260921</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p33894947_b_h9_ab.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=33894947&amp;tmsId=EP065755240001</url>
+    <episode-num system="dd_progid">EP06575524.0001</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="common">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="original-air-date">2026-09-21 00:00:00</episode-num>
+    <new />
+    <premiere />
+  </programme>
+  <programme start="20260929010000 +0000" stop="20260929020000 +0000" channel="Univision Network">
+    <title>Tierra de amor y coraje</title>
+    <sub-title>Odio del pasado</sub-title>
+    <desc>Adela tiene odio por Jero y por cómo la trató en el pasado, por lo cual, al encontrarlo borracho, ocasiona un choque. Clara le confiesa a Jackie que está enamorada de uno de los Coraje. Clara va al hospital a ver a Jero y ve a Juan con Daniela.</desc>
+    <credits>
+      <director>Luis Manzo</director>
+      <director>Santiago Barbosa</director>
+      <actor>Emmanuel Palomares</actor>
+      <actor>Daniela Martínez</actor>
+      <actor>Emilio Osorio</actor>
+    </credits>
+    <date>20260928</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Western</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Entertainment</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p33694445_b_h9_ab.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=33694445&amp;tmsId=EP065401380016</url>
+    <episode-num system="dd_progid">EP06540138.0016</episode-num>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <episode-num system="common">S01E16</episode-num>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="original-air-date">2026-08-28 00:00:00</episode-num>
+    <new />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
+  </programme>
+  <programme start="20260929020000 +0000" stop="20260929030000 +0000" channel="Univision Network">
+    <title>Corazón de oro</title>
+    <desc>Luz está dispuesta a sacrificarlo todo por el amor que le tiene a su hija Catalina. Sin embargo, una herencia desata conflictos y ambición, pues ahora deberán defender su nueva fortuna, sin saber que Luz deberá elegir entre su hija y la justicia.</desc>
+    <credits>
+      <actor>Mayrín Villanueva</actor>
+      <actor>Gabriel Soto</actor>
+      <actor>Gala Montes</actor>
+    </credits>
+    <date>20260515</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Entertainment</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p32373314_b_h9_ab.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=32373314&amp;tmsId=EP063005040055</url>
+    <episode-num system="dd_progid">EP06300504.0055</episode-num>
+    <episode-num system="onscreen">S01E55</episode-num>
+    <episode-num system="common">S01E55</episode-num>
+    <episode-num system="xmltv_ns">0.54.</episode-num>
+    <episode-num system="original-air-date">2026-05-15 00:00:00</episode-num>
+    <new />
+    <rating system="MPAA">
+<value>TV14</value>
+</rating>
   </programme>
 	<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="DSPORTS">
     <title>Supercopa Internacional 2024: Vélez vs. Estudiantes</title>
