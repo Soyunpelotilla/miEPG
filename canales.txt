@@ -189,6 +189,7 @@ ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/i
 123582,Fox Sports Premium,https://emby.tmsimg.com/assets/s123582_ld_h15_aa.png
 16464,Azteca 7 MX,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
 16463,Canal 5 MX,https://emby.tmsimg.com/assets/s116152_ld_h15_aa.png
+11118,Univision Network,https://ebyl.tmsimg.com/assets/s11118_ld_h15_ab.png
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
