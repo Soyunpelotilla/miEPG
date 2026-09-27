@@ -98,8 +98,8 @@
 105163,AyM Sports HD,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9JW.png
 183940,Azteca 1,https:sources/generic/generic_sources_h5.png
 16464,Azteca 7,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
-124288,Azteca 7,https:sources/generic/generic_sources_h5.png
 114756,Azteca 7 HD,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
+124672,Azteca 7 HD,https:sources/generic/generic_sources_h5.png
 103803,Azteca 13-Delay HD,https:sources/generic/generic_sources_h5.png
 56276,Azteca 24 HD,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 141773,Azteca Deportes,https://ebyl.tmsimg.com/assets/s141773_ld_h15_ab.png
@@ -139,7 +139,6 @@
 80064,Cali TV,https://ebyl.tmsimg.com/assets/s80064_ld_h15_aa.png
 106728,Canal (á) HD,https://ebyl.tmsimg.com/assets/s18075_ld_h15_aa.png
 16463,Canal 5,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
-124287,Canal 5,https:sources/generic/generic_sources_h5.png
 120638,Canal 6,https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
 124247,Canal 6,https:sources/generic/generic_sources_h5.png
 47604,Canal 7 Cancun,https:sources/generic/generic_sources_h5.png
