@@ -208,17 +208,6 @@ ESPN4.bo,ESPN 4 BO
 ESPN5.bo,ESPN 5 BO
 ESPN6.bo,ESPN 6 BO
 ESPN7.bo,ESPN 7 BO
-ESPN HD.cl,ESPN CL
-ESPN 2.cl,ESPN 2 CL
-ESPN 2 HD.cl,ESPN 2 CL HD
-ESPN 3.cl,ESPN 3 CL
-ESPN 3 HD.cl,ESPN 3 CL HD
-ESPN 4.cl,ESPN 4 CL
-ESPN 5.cl,ESPN 5 CL
-ESPN 6.cl,ESPN 6 CL
-ESPN 6 HD.cl,ESPN 6 CL HD
-ESPN 7.cl,ESPN 7 CL
-ESPN 7 HD.cl,ESPN 7 CL HD
 UNIVERSO.us,Universo,https://iptv-epg.org/logos/USA/UNIVERSO.us.png
 Telemundo.us,Telemundo East,https://iptv-epg.org/logos/USA/Telemundo.us.png
 TelemundoWest.us,Telemundo West,https://iptv-epg.org/logos/USA/TelemundoWest.us.png
