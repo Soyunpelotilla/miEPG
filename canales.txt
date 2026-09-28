@@ -201,13 +201,13 @@ Espn6.ar,ESPN 6 AR,https://images.open-epg.com/x962.png
 FoxSports.ar,FOX SPORTS AR,https://images.open-epg.com/x972.png
 FoxSports2.ar,FOX SPORTS 2 AR,https://images.open-epg.com/16782312.png
 FoxSports3.ar,FOX SPORTS 3 AR,https://images.open-epg.com/16782313.png
-ESPN.bo,ESPN BO
-ESPN2.bo,ESPN 2 BO
-ESPN3.bo,ESPN 3 BO
-ESPN4.bo,ESPN 4 BO
-ESPN5.bo,ESPN 5 BO
-ESPN6.bo,ESPN 6 BO
-ESPN7.bo,ESPN 7 BO
+0411,ESPN CL,https://i.ibb.co/Ts2DxY0/0411.jpg
+0412,ESPN 2 CL,https://i.ibb.co/TMpFPTcj/0412.jpg
+0413,ESPN 3 CL,https://i.ibb.co/7dFHm7cM/0413.jpg
+0414,ESPN 4 CL,https://i.ibb.co/4gC4Sq5B/0414.jpg
+0415,ESPN 5 CL,https://i.ibb.co/ynRhShH9/0415.jpg
+0416,ESPN 6 CL,https://i.ibb.co/jvYjkKm1/0416.jpg
+0417,ESPN 7 CL,https://i.ibb.co/mFGmjNC8/0417.jpg
 UNIVERSO.us,Universo,https://iptv-epg.org/logos/USA/UNIVERSO.us.png
 Telemundo.us,Telemundo East,https://iptv-epg.org/logos/USA/Telemundo.us.png
 TelemundoWest.us,Telemundo West,https://iptv-epg.org/logos/USA/TelemundoWest.us.png
