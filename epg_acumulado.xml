@@ -81338,32 +81338,6 @@
     <title>Major Arena Soccer League</title>
     <desc>Sin detalles...</desc>
 	</programme>
-  <programme start="20260927180000 +0000" stop="20260927181500 +0000" channel="SKY SPORTS 1 MX">
-    <desc lang="es">SKY Sports.</desc>
-    <title lang="es">SKY Sports</title>
-  </programme>
-  <programme start="20260927181500 +0000" stop="20260927184500 +0000" channel="SKY SPORTS 1 MX">
-    <category lang="es">Deporte</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">Fútbol Español</category>
-    <desc lang="es">Desde el estadio San Mamés ubicado en la ciudad de Bilbao en el País Vasco en España, se enfrentan los equipos Athletic Club de Bilbao versus Real Madrid Club de Fútbol.</desc>
-    <icon src="https://iptv-epg.org/images/t2Ueu27N-aUQkJ5BBR7LWppnfTYbIEcHnDqaCfjxfQl91-3gxkrMnUi8CyTlMUzLvYaR_1t2PuEorCBYAy2stQ88ypzIYxVlPDrlZEp_2jgzvZiRgHIgRgosRrhTCKWMEaCQDupKcE0QJqMjBmfzFCaG87nq-g"/>
-    <title lang="es">Athletic Club Vs. Real Madrid</title>
-  </programme>
-  <programme start="20260927184500 +0000" stop="20260927204500 +0000" channel="SKY SPORTS 1 MX">
-    <desc lang="es">Alemania vs. Grecia
-En Vivo.</desc>
-    <title lang="es">Alemania vs. Grecia
-En Vivo</title>
-  </programme>
-  <programme start="20260927204500 +0000" stop="20260927224500 +0000" channel="SKY SPORTS 1 MX">
-    <desc lang="es">Italia vs. Bélgica.</desc>
-    <title lang="es">Italia vs. Bélgica</title>
-  </programme>
-  <programme start="20260927224500 +0000" stop="20260928004500 +0000" channel="SKY SPORTS 1 MX">
-    <desc lang="es">Gilbaltar vs. Andorra.</desc>
-    <title lang="es">Gilbaltar vs. Andorra</title>
-  </programme>
   <programme start="20260928004500 +0000" stop="20260928024500 +0000" channel="SKY SPORTS 1 MX">
     <desc lang="es">Alemania vs. Grecia.</desc>
     <title lang="es">Alemania vs. Grecia</title>
@@ -81528,32 +81502,6 @@ En Vivo</title>
     <desc lang="es">Canadá vs. Francia.</desc>
     <title lang="es">Canadá vs. Francia</title>
   </programme>
-  <programme start="20260927180000 +0000" stop="20260927183000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">LaLiga Highlights.</desc>
-    <title lang="es">LaLiga Highlights</title>
-  </programme>
-  <programme start="20260927183000 +0000" stop="20260927184500 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Sky Sports 16.</desc>
-    <title lang="es">Sky Sports 16</title>
-  </programme>
-  <programme start="20260927184500 +0000" stop="20260927204500 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Noruega vs. Portugal
-En Vivo.</desc>
-    <title lang="es">Noruega vs. Portugal
-En Vivo</title>
-  </programme>
-  <programme start="20260927204500 +0000" stop="20260927210000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Sky Sports 16.</desc>
-    <title lang="es">Sky Sports 16</title>
-  </programme>
-  <programme start="20260927210000 +0000" stop="20260927230000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Atlético de Madrid vs. CA Osasuna.</desc>
-    <title lang="es">Atlético de Madrid vs. CA Osasuna</title>
-  </programme>
-  <programme start="20260927230000 +0000" stop="20260928010000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Inglaterra vs. España.</desc>
-    <title lang="es">Inglaterra vs. España</title>
-  </programme>
   <programme start="20260928010000 +0000" stop="20260928030000 +0000" channel="SKY SPORTS 16 MX">
     <desc lang="es">Serbia vs. Países Bajos.</desc>
     <title lang="es">Serbia vs. Países Bajos</title>
@@ -81705,30 +81653,6 @@ En Vivo</title>
     <desc lang="es">Desde el estadio Vicente Calderón ubicado en la ciudad de Madrid, España, se enfrentan los equipos Club Atlético de Madrid versus el Real Madrid Club de Fútbol.</desc>
     <icon src="https://iptv-epg.org/images/9iRe48gWUBFpBYST9Dv8Ws2g42bnF9GrqJwimU8WFCfDPHqwzqstjyH3L7GOctcS6b6E2kaG3dGqasFs7l_cT4otNJ_LS3haRzsgQOxl93ZbmAVqBT1Nfdp8v0LDXiEduR7pwFv9nGw-Jl-d27NEyn7RLyMdzh2ZMfAz"/>
     <title lang="es">Atlético de Madrid vs. Real Madrid</title>
-  </programme>
-  <programme start="20260927180000 +0000" stop="20260927200000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Serbia vs. Países Bajos.</desc>
-    <title lang="es">Serbia vs. Países Bajos</title>
-  </programme>
-  <programme start="20260927200000 +0000" stop="20260927203000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">LaLiga Highlights.</desc>
-    <title lang="es">LaLiga Highlights</title>
-  </programme>
-  <programme start="20260927203000 +0000" stop="20260927204500 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Sky Sports 24.</desc>
-    <title lang="es">Sky Sports 24</title>
-  </programme>
-  <programme start="20260927204500 +0000" stop="20260927224500 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Noruega vs. Portugal.</desc>
-    <title lang="es">Noruega vs. Portugal</title>
-  </programme>
-  <programme start="20260927224500 +0000" stop="20260927230000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Sky Sports 24.</desc>
-    <title lang="es">Sky Sports 24</title>
-  </programme>
-  <programme start="20260927230000 +0000" stop="20260928010000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Atlético de Madrid vs. CA Osasuna.</desc>
-    <title lang="es">Atlético de Madrid vs. CA Osasuna</title>
   </programme>
   <programme start="20260928010000 +0000" stop="20260928030000 +0000" channel="SKY SPORTS 24 MX">
     <desc lang="es">Inglaterra vs. España.</desc>
@@ -89882,107 +89806,6 @@ En Vivo</title>
 <title>ESPN Compact - UEFA Champions League</title>
 <desc>Fútbol</desc>
 </programme>
-  <programme start="20260927180000 +0000" stop="20260927183000 +0000" channel="Universo">
-    <category lang="en">Sports</category>
-    <desc lang="en">Copa Mundial Femenina Sub-20 de la FIFA 2026: Ceremonia de premiación</desc>
-    <icon src="https://iptv-epg.org/images/vXLqm5uMX_FCKd1DQERHKzMR6nvBjSdu7AcdDsEHEOgTXcUHRR-xW6cvR-87rAl0URWkitG-b-GXXlVs2vtat8wU-YSgqcjGVNZl0-8ujGM"/>
-    <title lang="en">Copa Mundial Femenina Sub-20 de la FIFA 2026: Ceremonia de premiación</title>
-    <live/>
-  </programme>
-  <programme start="20260927183000 +0000" stop="20260927190000 +0000" channel="Universo">
-    <category lang="en">Community</category>
-    <category lang="en">Law</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Tony Salup</director>
-      <producer>David Gherardi</producer>
-      <producer>Marianth Villarroel</producer>
-    </credits>
-    <desc lang="en">Almas gemelas asesinas
-Nancy fue secuestrada y casi muere en manos del secuestrador. Ahora ella siente una conexión con el hombre como si fuera su alma gemela.</desc>
-    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
-    <previously-shown/>
-    <title lang="en">Caso cerrado</title>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260927200000 +0000" channel="Universo">
-    <category lang="en">Community</category>
-    <category lang="en">Law</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Tony Salup</director>
-      <producer>David Gherardi</producer>
-      <producer>Marianth Villarroel</producer>
-    </credits>
-    <desc lang="en">Pancakes asesinos; La tribu equivocada
-Nancy demanda a su hermana, por ella casi muere ahogada en una competencia de &quot;pancakes&quot;. Héctor pide el divorcio y la custodia de sus hijas, su esposa lo traicionó con quien menos lo esperaba.</desc>
-    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
-    <previously-shown/>
-    <title lang="en">Caso cerrado</title>
-  </programme>
-  <programme start="20260927200000 +0000" stop="20260927210000 +0000" channel="Universo">
-    <category lang="en">Community</category>
-    <category lang="en">Law</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Tony Salup</director>
-      <producer>David Gherardi</producer>
-      <producer>Marianth Villarroel</producer>
-    </credits>
-    <desc lang="en">Ocupa dominicano; Intercambiados
-Alejandro es un contratista que le permitió a un amigo vivir en una casa en venta, la cual destrozó. Ana supo a los dos años que le cambiaron a la bebé en el hospital, pero no desea devolverla.</desc>
-    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
-    <previously-shown/>
-    <title lang="en">Caso cerrado</title>
-  </programme>
-  <programme start="20260927210000 +0000" stop="20260927220000 +0000" channel="Universo">
-    <category lang="en">Community</category>
-    <category lang="en">Law</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Tony Salup</director>
-      <producer>David Gherardi</producer>
-      <producer>Marianth Villarroel</producer>
-    </credits>
-    <desc lang="en">Fértil agresión; En el nombre de Daniela
-Samanta quedó embarazada del amante de Sonia, de un modo insólito, y exige que ella le mantenga al niño. El espíritu de la niña Daniela se le aparece a Adriana y su esposo se ha obsesionado.</desc>
-    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
-    <previously-shown/>
-    <title lang="en">Caso cerrado</title>
-  </programme>
-  <programme start="20260927220000 +0000" stop="20260928000000 +0000" channel="Universo">
-    <category lang="en">Drama</category>
-    <category lang="en">Movie</category>
-    <credits>
-      <director>Fernando Durán Rojas</director>
-      <actor>Vicente Fernández</actor>
-      <actor>Lucía Méndez</actor>
-      <actor>Eduardo de la Peña</actor>
-      <actor>Fernando Soto</actor>
-      <actor>Rodrigo Puebla</actor>
-      <actor>Alicia Juárez</actor>
-      <actor>Jorge Russek</actor>
-    </credits>
-    <date>1974</date>
-    <desc lang="en">Gemelos idénticos, uno ingeniero y el otro asesino, luchan por el amor de la misma mujer.</desc>
-    <icon src="https://iptv-epg.org/images/_53OTCGfJaQa5x6PwBiDSa4nRZOVr1oKm4PrBtnkoyXkMs_0X9m8q1DA9y2R5yAqO60Efm_8buwyG3qv6aetQncZiKkw8GrvND441jPesdI"/>
-    <title lang="en">Juan Armenta, el Repatriado</title>
-  </programme>
-  <programme start="20260928000000 +0000" stop="20260928002000 +0000" channel="Universo">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">La acción de la temporada completa de la NFL está en Universo. Cada touchdown, cada victoria y toda la adrenalina del fútbol americano y en español. Sunday Night Football en Universo comienza.</desc>
-    <icon src="https://iptv-epg.org/images/gLv06VxSliGOeoWUmolq0kJniC4iAVqvySD3Kp6cU1tHxfwyGQ25LgltN4bcBHVYaTd9Tlz1yIFmcLEgAV9KCMTxFnDZCa6W3zo8FcYFPAU"/>
-    <title lang="en">Sunday Night Football en Universo</title>
-    <live/>
-  </programme>
   <programme start="20260928002000 +0000" stop="20260928033000 +0000" channel="Universo">
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
@@ -90566,108 +90389,6 @@ Jaime llega a México tras su salida forzada de Estados Unidos. Espera recuperar
     <icon src="https://iptv-epg.org/images/YmmPF1sipFqbYQQCetgMPD66OwpTsKL4Oco0nVd9DaWkVh9agBCQ1FLqQ5Ng1I-zx8wdG1qhyJx9nZtYrTQV9vl_whQOS8i9B2ExFM5VEIc"/>
     <previously-shown/>
     <title lang="en">Acércate a Rocío</title>
-  </programme>
-  <programme start="20260927173000 +0000" stop="20260927200000 +0000" channel="Telemundo East">
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Movie</category>
-    <credits>
-      <director>Dominic Sena</director>
-      <producer>Jerry Bruckheimer</producer>
-      <producer>Mike Stenson</producer>
-      <actor>Nicolas Cage</actor>
-      <actor>Angelina Jolie</actor>
-      <actor>Giovanni Ribisi</actor>
-      <actor>Delroy Lindo</actor>
-      <actor>Will Patton</actor>
-      <actor>Christopher Eccleston</actor>
-      <actor>Chi McBride</actor>
-      <actor>Robert Duvall</actor>
-      <actor>Scott Caan</actor>
-      <actor>Timothy Olyphant</actor>
-      <actor>William Scott</actor>
-      <actor>Vinnie Jones</actor>
-    </credits>
-    <date>2000</date>
-    <desc lang="en">Memphis abandonó hace mucho tiempo su vida criminal, pero ahora, para salvar la vida de su hermano, tendrá que firmar un peligroso contrato con la mafia y robar 50 autos, en una sola noche.</desc>
-    <icon src="https://iptv-epg.org/images/7HMBdsLbOEFTU-94sOAylZti-tYXXa10rZmetqSpsRwPUXE_lh2jRcCpaelfxHxa8MBVupMfYRph0qdWeZQPKqQUtmIAd7Z8gCuPDLF0bok"/>
-    <title lang="en">Gone in 60 Seconds</title>
-  </programme>
-  <programme start="20260927200000 +0000" stop="20260927220000 +0000" channel="Telemundo East">
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Movie</category>
-    <credits>
-      <director>Scott Waugh</director>
-      <producer>Kevin Templeton</producer>
-      <producer>Les Weldon</producer>
-      <actor>Jason Statham</actor>
-      <actor>Sylvester Stallone</actor>
-      <actor>Andy Garcia</actor>
-      <actor>50 Cent</actor>
-      <actor>Megan Fox</actor>
-      <actor>Dolph Lundgren</actor>
-      <actor>Tachakorn Yeerum</actor>
-      <actor>Iko Uwais</actor>
-      <actor>Randy Couture</actor>
-      <actor>Jacob Scipio</actor>
-      <actor>Levy Tran</actor>
-    </credits>
-    <date>2023</date>
-    <desc lang="en">Los Indestructibles viajan a Libia para impedir que el mercenario Suarto Rahmat robe cabezas nucleares para entregárselas a un misterioso terrorista al que llaman Ocelot, quien pretende provocar el estallido de la Tercera Guerra Mundial.</desc>
-    <icon src="https://iptv-epg.org/images/A9MhLjJ15zEvNKMSAjXWEnUYxWpY59EiX4rzmeOfqhD1l_5eUzNHnvR8igjvdh0Ze-lBqAURdjShjV29zWW-YZ98PIpcY-qTHyBYFUWMWWM"/>
-    <title lang="en">Expend4bles</title>
-  </programme>
-  <programme start="20260927220000 +0000" stop="20260927223000 +0000" channel="Telemundo East">
-    <category lang="en">Community</category>
-    <category lang="en">Law</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Tony Salup</director>
-      <producer>David Gherardi</producer>
-      <producer>Marianth Villarroel</producer>
-    </credits>
-    <desc lang="en">Sin derecho a nada
-Leo y Kenia buscan desalojar a su madrastra Rosa del apartamento que les pertenece tras la muerte de su padre. Ella asegura que su pareja se suicidó por el maltrato que recibía de sus hijos.</desc>
-    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
-    <previously-shown/>
-    <title lang="en">Caso cerrado</title>
-  </programme>
-  <programme start="20260927223000 +0000" stop="20260927230000 +0000" channel="Telemundo East">
-    <category lang="en">News</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Julio Vaqueiro</actor>
-    </credits>
-    <desc lang="en">Noticias Telemundo fin de semana es la fuente de información más confiable de la comunidad hispana en EE. UU. Su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
-    <icon src="https://iptv-epg.org/images/JySp7J3Mh88opQ5QDCJ21sWu9C63gxR6WHizcth23MWHhMfasmrGOV5QyU8WPXam3FSRP3xQb_yMx5sggxaJq0m3H9TVfCIjDkF6jBn_VuA"/>
-    <title lang="en">Noticias Telemundo fin de semana</title>
-    <new/>
-  </programme>
-  <programme start="20260927230000 +0000" stop="20260927235800 +0000" channel="Telemundo East">
-    <category lang="en">Competition reality</category>
-    <category lang="en">Cooking</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S05 E41 — De regreso al fogón
-Los concursantes son espectadores, mientras el chef José Infante enfrenta a los eliminados al villano de la cocina. Entre reproches e insultos se escoge a un ganador. Los jueces eligen al otro.</desc>
-    <episode-num>S05 E41</episode-num>
-    <icon src="https://iptv-epg.org/images/U5AgozArePNuX3TujklzbDmcCoZr_ONzuDTgKJZmVo_qMI6XByy9S8_nZIzf5K6lo5FfRV8GxYGc6EWydzHFz5oh6pknYhJxGE5cDHKqgK0"/>
-    <title lang="en">Top Chef VIP</title>
-    <new/>
-  </programme>
-  <programme start="20260927235800 +0000" stop="20260928020000 +0000" channel="Telemundo East">
-    <category lang="en">Competition reality</category>
-    <category lang="en">Cooking</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S05 E41 — De regreso al fogón
-Los concursantes son espectadores, mientras el chef José Infante enfrenta a los eliminados al villano de la cocina. Entre reproches e insultos se escoge a un ganador. Los jueces eligen al otro.</desc>
-    <episode-num>S05 E41</episode-num>
-    <icon src="https://iptv-epg.org/images/U5AgozArePNuX3TujklzbDmcCoZr_ONzuDTgKJZmVo_qMI6XByy9S8_nZIzf5K6lo5FfRV8GxYGc6EWydzHFz5oh6pknYhJxGE5cDHKqgK0"/>
-    <title lang="en">Top Chef VIP</title>
-    <new/>
   </programme>
   <programme start="20260928020000 +0000" stop="20260928030000 +0000" channel="Telemundo East">
     <category lang="en">Entertainment</category>
@@ -91409,82 +91130,6 @@ Cihan apoya a Alya en un momento decisivo, mientras Sadakat busca una salida al 
     <title lang="en">Lejos de ti</title>
     <new/>
   </programme>
-  <programme start="20260927180000 +0000" stop="20260927203000 +0000" channel="Telemundo West">
-    <category lang="en">Comedy</category>
-    <category lang="en">Movie</category>
-    <credits>
-      <director>Robert Farrelly</director>
-      <producer>Paul Brooks</producer>
-      <producer>Scott Niemeyer</producer>
-      <actor>Woody Harrelson</actor>
-      <actor>Kaitlin Olson</actor>
-      <actor>Matt Cook</actor>
-      <actor>Ernie Hudson</actor>
-      <actor>Cheech Marin</actor>
-      <actor>Madison Tevlin</actor>
-      <actor>Joshua Felder</actor>
-      <actor>Kevin Iannucci</actor>
-      <actor>Ashton Gunning</actor>
-      <actor>Matthew Von Der Ahe</actor>
-      <actor>Tom Sinclair</actor>
-      <actor>James Keith</actor>
-    </credits>
-    <date>2023</date>
-    <desc lang="en">Un entrenador de baloncesto tiene que dirigir a un equipo de personas con discapacidad psíquica como servicio a la comunidad por sus problemas con la Justicia. A pesar de que se muestra reacio, no tarda en entregarse con toda su alma al equipo.</desc>
-    <icon src="https://iptv-epg.org/images/P3P3f26pzXPDjyRv0ErQPfCK5S6NZVWqL6GTtiKJNoPiVFQKlmzxFvGgSxLdcH-4Weilcd6yHpJ37-6gnNd6aK7T1cD5XviS8o25aBjbIdg"/>
-    <title lang="en">Champions</title>
-  </programme>
-  <programme start="20260927203000 +0000" stop="20260927230000 +0000" channel="Telemundo West">
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Movie</category>
-    <credits>
-      <director>Dominic Sena</director>
-      <producer>Jerry Bruckheimer</producer>
-      <producer>Mike Stenson</producer>
-      <actor>Nicolas Cage</actor>
-      <actor>Angelina Jolie</actor>
-      <actor>Giovanni Ribisi</actor>
-      <actor>Delroy Lindo</actor>
-      <actor>Will Patton</actor>
-      <actor>Christopher Eccleston</actor>
-      <actor>Chi McBride</actor>
-      <actor>Robert Duvall</actor>
-      <actor>Scott Caan</actor>
-      <actor>Timothy Olyphant</actor>
-      <actor>William Scott</actor>
-      <actor>Vinnie Jones</actor>
-    </credits>
-    <date>2000</date>
-    <desc lang="en">Memphis abandonó hace mucho tiempo su vida criminal, pero ahora, para salvar la vida de su hermano, tendrá que firmar un peligroso contrato con la mafia y robar 50 autos, en una sola noche.</desc>
-    <icon src="https://iptv-epg.org/images/7HMBdsLbOEFTU-94sOAylZti-tYXXa10rZmetqSpsRwPUXE_lh2jRcCpaelfxHxa8MBVupMfYRph0qdWeZQPKqQUtmIAd7Z8gCuPDLF0bok"/>
-    <title lang="en">Gone in 60 Seconds</title>
-  </programme>
-  <programme start="20260927230000 +0000" stop="20260928010000 +0000" channel="Telemundo West">
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Movie</category>
-    <credits>
-      <director>Scott Waugh</director>
-      <producer>Kevin Templeton</producer>
-      <producer>Les Weldon</producer>
-      <actor>Jason Statham</actor>
-      <actor>Sylvester Stallone</actor>
-      <actor>Andy Garcia</actor>
-      <actor>50 Cent</actor>
-      <actor>Megan Fox</actor>
-      <actor>Dolph Lundgren</actor>
-      <actor>Tachakorn Yeerum</actor>
-      <actor>Iko Uwais</actor>
-      <actor>Randy Couture</actor>
-      <actor>Jacob Scipio</actor>
-      <actor>Levy Tran</actor>
-    </credits>
-    <date>2023</date>
-    <desc lang="en">Los Indestructibles viajan a Libia para impedir que el mercenario Suarto Rahmat robe cabezas nucleares para entregárselas a un misterioso terrorista al que llaman Ocelot, quien pretende provocar el estallido de la Tercera Guerra Mundial.</desc>
-    <icon src="https://iptv-epg.org/images/A9MhLjJ15zEvNKMSAjXWEnUYxWpY59EiX4rzmeOfqhD1l_5eUzNHnvR8igjvdh0Ze-lBqAURdjShjV29zWW-YZ98PIpcY-qTHyBYFUWMWWM"/>
-    <title lang="en">Expend4bles</title>
-  </programme>
   <programme start="20260928010000 +0000" stop="20260928013000 +0000" channel="Telemundo West">
     <category lang="en">Community</category>
     <category lang="en">Law</category>
@@ -92216,91 +91861,6 @@ Divididos en dos equipos, deben preparar un brunch, pero el desafío provoca un 
     <episode-num>S05 E43</episode-num>
     <icon src="https://iptv-epg.org/images/U5AgozArePNuX3TujklzbDmcCoZr_ONzuDTgKJZmVo_qMI6XByy9S8_nZIzf5K6lo5FfRV8GxYGc6EWydzHFz5oh6pknYhJxGE5cDHKqgK0"/>
     <title lang="en">Top Chef VIP</title>
-    <new/>
-  </programme>
-  <programme start="20260927173000 +0000" stop="20260927200000 +0000" channel="Univision East">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Pumas UNAM vs. Atlético San Luis
-Acción de la jornada 10 del Torneo Apertura 2026. Pumas busca liguilla y los Potosinos su segunda victoria al hilo.</desc>
-    <icon src="https://iptv-epg.org/images/skneVpi-DLgqh0nnMapJQ8UWFTJNIZDMZfQg4gDYKViXn2j74EKOpJTxoqJ5ByvDilqlm9wjoksVUN5YYjHoPl04bkbXEZUpyUeV8Y7Y3Ks"/>
-    <title lang="en">Fútbol Mexicano Primera División</title>
-    <live/>
-  </programme>
-  <programme start="20260927200000 +0000" stop="20260927203000 +0000" channel="Univision East">
-    <category lang="en">Comedy</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Sergio Sánchez</director>
-      <actor>Consuelo Duval</actor>
-      <actor>Lorena de la Garza</actor>
-      <actor>Reynaldo Rossano</actor>
-      <actor>Gustavo Munguia</actor>
-      <actor>Javier Carranza</actor>
-      <actor>El Indio Brayan</actor>
-      <actor>Nicole Vale</actor>
-      <actor>David Salomon</actor>
-      <actor>Maribel Fernández</actor>
-      <actor>Lupita Sandoval</actor>
-    </credits>
-    <desc lang="en">S04 E13 — Sisi mamá
-Nacól da la noticia que ya tiene novio y se quiere casar. El novio es hijo de Sisi, quien lo controla y maneja. Nacaranda y Nacasia hacen todo lo posible por convencer a Nacól de que ese matrimonio no le conviene.</desc>
-    <episode-num>S04 E13</episode-num>
-    <icon src="https://iptv-epg.org/images/igcm-fm_5U3fuqXeXA5Nxr1pcEBM98VLfroRloDVe8AeNt8iD8WOfYpFE370Iw-yR83_36_JnTklfiLSRxx_uAhr4fqe93DZ6JTosb5S8F0"/>
-    <title lang="en">Tal para cual</title>
-    <new/>
-  </programme>
-  <programme start="20260927203000 +0000" stop="20260927210000 +0000" channel="Univision East">
-    <category lang="en">News</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Martin Berlanga</actor>
-    </credits>
-    <desc lang="en">La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.</desc>
-    <icon src="https://iptv-epg.org/images/oHtV96LylPPXMR8kDCs2YcNjZtPDNJmBQ3SQxV37R17Ng5baR3WsfnPluVleSKRROWNNJlXmRjHzlFiVBJpT0033Dpc5M4JQZ3ecmlJNqmY"/>
-    <title lang="en">Noticiero N+ Univision: Fin de semana</title>
-    <live/>
-  </programme>
-  <programme start="20260927210000 +0000" stop="20260928000000 +0000" channel="Univision East">
-    <category lang="en">Action</category>
-    <category lang="en">Docudrama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Movie</category>
-    <credits>
-      <director>Paul Greengrass</director>
-      <producer>Scott Rudin</producer>
-      <producer>Dana Brunetti</producer>
-      <actor>Tom Hanks</actor>
-      <actor>Catherine Keener</actor>
-      <actor>Barkhad Abdi</actor>
-      <actor>Barkhad Abdirahman</actor>
-      <actor>Faysal Ahmed</actor>
-      <actor>Mahat Ali</actor>
-      <actor>Michael Chernus</actor>
-      <actor>Corey Johnson</actor>
-      <actor>Max Martini</actor>
-      <actor>Chris Mulkey</actor>
-      <actor>Yul Vazquez</actor>
-      <actor>David Warshofsky</actor>
-    </credits>
-    <date>2013</date>
-    <desc lang="en">En el año 2009, un grupo de piratas somalíes secuestran un barco carguero estadounidense y toman como rehenes a la tripulación. Entre ellos está el capitán del navío, Richard Phillips.</desc>
-    <icon src="https://iptv-epg.org/images/yStQkydIKaVl0cFp88iSIW3neUbX3aBamCPQOJjLowPp-mVkB0VO2ZaCoKgH02w3hXhMcQHXvj1sdPcP_0HV_GSBoBmW6HunUpO5lq_Os5I"/>
-    <title lang="en">Captain Phillips</title>
-    <new/>
-  </programme>
-  <programme start="20260928000000 +0000" stop="20260928010000 +0000" channel="Univision East">
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E04 — Caso hermanos Alexander
-El caso de los hermanos Tal, Oren y Alon Alexander sacudió a Nueva York al revelar una serie de abusos sexuales contra múltiples mujeres, presuntamente cometidos durante años en un contexto de poder, dinero y manipulación.</desc>
-    <episode-num>S02 E04</episode-num>
-    <icon src="https://iptv-epg.org/images/iHWIrezwqbRf_bciUpgUB8wPA7FHLxjjrRGHuQL549TqHNpPgFXlulMSk9HEucw02R5FFO4kVJYoJ9yQr1Va3fugCk4pCzN_Hy7vWMHb3vk"/>
-    <title lang="en">C.D.I. Código de investigación. Archivos abiertos</title>
     <new/>
   </programme>
   <programme start="20260928010000 +0000" stop="20260928030000 +0000" channel="Univision East">
@@ -93162,115 +92722,6 @@ Partido amistoso internacional. México se enfrenta a Perú. Desde el Sports Ill
     <title lang="en">Fútbol masculino amistosos internacionales</title>
     <live/>
   </programme>
-  <programme start="20260927173000 +0000" stop="20260927200000 +0000" channel="Univision West">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Pumas UNAM vs. Atlético San Luis
-Acción de la jornada 10 del Torneo Apertura 2026. Pumas busca liguilla y los Potosinos su segunda victoria al hilo.</desc>
-    <icon src="https://iptv-epg.org/images/skneVpi-DLgqh0nnMapJQ8UWFTJNIZDMZfQg4gDYKViXn2j74EKOpJTxoqJ5ByvDilqlm9wjoksVUN5YYjHoPl04bkbXEZUpyUeV8Y7Y3Ks"/>
-    <title lang="en">Fútbol Mexicano Primera División</title>
-    <live/>
-  </programme>
-  <programme start="20260927200000 +0000" stop="20260927210000 +0000" channel="Univision West">
-    <category lang="en">Drama</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>José Ángel García</director>
-      <director>Marta Luna</director>
-      <actor>Milia Nader</actor>
-      <actor>Diego Lara</actor>
-      <actor>Sandra Itzel</actor>
-      <actor>María Sandoval</actor>
-      <actor>Aminta Ireta</actor>
-      <actor>Aleyda Gallardo</actor>
-      <actor>Marisol del Olmo</actor>
-      <actor>Gerardo Murguía</actor>
-      <actor>Roxana Saucedo</actor>
-      <actor>Emmanuel Orenday</actor>
-      <actor>Francisco Avendaño</actor>
-      <actor>Maru Dueñas</actor>
-    </credits>
-    <desc lang="en">S01 E1847 — Una canita al aire
-Yesenia y Manuel se comprometen y se juran amor para siempre, al presentarlo a su familia, su hermana lo reconoce, y recuerda que hace algún tiempo pasó una noche con él.</desc>
-    <episode-num>S01 E1847</episode-num>
-    <icon src="https://iptv-epg.org/images/kkhAzgI0YGoCaStiKoJd9dTXiqBBDgcgJxzL3r-F37lfFXgTYfVCjkojBT04Z2HAzbq4TFNdbvDqeUD-VWNmBGzguaHkQpVnaNrdR1D9ZNg"/>
-    <previously-shown/>
-    <title lang="en">La rosa de Guadalupe</title>
-  </programme>
-  <programme start="20260927210000 +0000" stop="20260927220000 +0000" channel="Univision West">
-    <category lang="en">News</category>
-    <category lang="en">Politics</category>
-    <category lang="en">Special</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Un programa dominical sobre las decisiones en Washington, D. C. y sus consecuencias en la vida cotidiana de los latinos que trabajan, votan y construyen sus vidas en Estados Unidos.</desc>
-    <icon src="https://iptv-epg.org/images/3625KZEo98ohK6E6qUGbYureuTlYUHVQwvvWXHMrcFAhT-0NiHTy4jMiFnb4DccbRufZugEJVAp9xgq544uiAeK4jz1MkmeKDLK3YV7MIyk"/>
-    <title lang="en">Esta semana</title>
-    <new/>
-  </programme>
-  <programme start="20260927220000 +0000" stop="20260927230000 +0000" channel="Univision West">
-    <category lang="en">Entertainment</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E30
-Vicky &quot;la Chama&quot; Van entrevista a grandes invitados y artistas, quienes comparten cómo es la vida tras la música.</desc>
-    <episode-num>S02 E30</episode-num>
-    <icon src="https://iptv-epg.org/images/sc_ZODFdxcDqX7UZtHipwrsVhG6GGxPpEJsEeCw59xGC0owtSe7rVWPnfYJTlHsWnHZJwGspsyiPRzWmBD8UUDZfLJR3ihseYCA6jkQS5nY"/>
-    <title lang="en">El Vicky Van Show</title>
-    <new/>
-  </programme>
-  <programme start="20260927230000 +0000" stop="20260928000000 +0000" channel="Univision West">
-    <category lang="en">Drama</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>José Ángel García</director>
-      <director>Marta Luna</director>
-      <actor>Milia Nader</actor>
-      <actor>Diego Lara</actor>
-      <actor>Sandra Itzel</actor>
-      <actor>María Sandoval</actor>
-      <actor>Aminta Ireta</actor>
-      <actor>Aleyda Gallardo</actor>
-      <actor>Marisol del Olmo</actor>
-      <actor>Gerardo Murguía</actor>
-      <actor>Roxana Saucedo</actor>
-      <actor>Emmanuel Orenday</actor>
-      <actor>Francisco Avendaño</actor>
-      <actor>Maru Dueñas</actor>
-    </credits>
-    <desc lang="en">S01 E1847 — Una canita al aire
-Yesenia y Manuel se comprometen y se juran amor para siempre, al presentarlo a su familia, su hermana lo reconoce, y recuerda que hace algún tiempo pasó una noche con él.</desc>
-    <episode-num>S01 E1847</episode-num>
-    <icon src="https://iptv-epg.org/images/kkhAzgI0YGoCaStiKoJd9dTXiqBBDgcgJxzL3r-F37lfFXgTYfVCjkojBT04Z2HAzbq4TFNdbvDqeUD-VWNmBGzguaHkQpVnaNrdR1D9ZNg"/>
-    <previously-shown/>
-    <title lang="en">La rosa de Guadalupe</title>
-  </programme>
-  <programme start="20260928000000 +0000" stop="20260928003000 +0000" channel="Univision West">
-    <category lang="en">Comedy</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Sergio Sánchez</director>
-      <actor>Consuelo Duval</actor>
-      <actor>Lorena de la Garza</actor>
-      <actor>Reynaldo Rossano</actor>
-      <actor>Gustavo Munguia</actor>
-      <actor>Javier Carranza</actor>
-      <actor>El Indio Brayan</actor>
-      <actor>Nicole Vale</actor>
-      <actor>David Salomon</actor>
-      <actor>Maribel Fernández</actor>
-      <actor>Lupita Sandoval</actor>
-    </credits>
-    <desc lang="en">S04 E13 — Sisi mamá
-Nacól da la noticia que ya tiene novio y se quiere casar. El novio es hijo de Sisi, quien lo controla y maneja. Nacaranda y Nacasia hacen todo lo posible por convencer a Nacól de que ese matrimonio no le conviene.</desc>
-    <episode-num>S04 E13</episode-num>
-    <icon src="https://iptv-epg.org/images/igcm-fm_5U3fuqXeXA5Nxr1pcEBM98VLfroRloDVe8AeNt8iD8WOfYpFE370Iw-yR83_36_JnTklfiLSRxx_uAhr4fqe93DZ6JTosb5S8F0"/>
-    <title lang="en">Tal para cual</title>
-    <new/>
-  </programme>
   <programme start="20260928003000 +0000" stop="20260928010000 +0000" channel="Univision West">
     <category lang="en">News</category>
     <category lang="en">Public affairs</category>
@@ -94114,79 +93565,6 @@ Partido amistoso internacional. México se enfrenta a Perú. Desde el Sports Ill
     <title lang="en">Fútbol masculino amistosos internacionales</title>
     <live/>
   </programme>
-  <programme start="20260927180000 +0000" stop="20260927200000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Tigres UANL vs. Puebla
-Acción de la jornada 10 del Torneo Apertura 2026. Tigres busca alejarse de los últimos lugares y Puebla mantenerse en liguilla.</desc>
-    <icon src="https://iptv-epg.org/images/dH6VfRKSGjf_ibtKjqZO58N01v1ENXC44zked7VXTk9NmJlCkXJ3fcuno0byRZZuGHehx3mBYaN4uTub_QAB8vf0mp1uK0qWff-mgCcT8c4"/>
-    <previously-shown/>
-    <title lang="en">Fútbol Mexicano Primera División</title>
-  </programme>
-  <programme start="20260927200000 +0000" stop="20260927203000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E10 — Johan Cruyff
-Johan Cruyff es el padrino del fútbol moderno. Fue el artífice de que los Países Bajos llegaran a la final del Mundial de 1974.</desc>
-    <episode-num>S02 E10</episode-num>
-    <icon src="https://iptv-epg.org/images/bSYggnFIoXhMgDqmqT3UETAs25XEM_aBuIUzkdVlHDObTDQhk8d2yY0AeHKE6fVxL7UvmmhAe5Og4MIlNWeMa36Im_Dl4whRCSSe3Licne8"/>
-    <previously-shown/>
-    <title lang="en">El gran show del fútbol</title>
-  </programme>
-  <programme start="20260927203000 +0000" stop="20260927223000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Bolivia vs. Paraguay
-Cobertura del duelo amistoso entre selecciones sudamericanas. Desde el Audi Field, en Washington, Estados Unidos.</desc>
-    <icon src="https://iptv-epg.org/images/HRM2qOAxcHR1VphLmmSVUlOTqfjrdj9XrVwlKZGEwyZEmIpr3S1iIsyv01eR3ZoVgoBDuRShur502CyOG_YSw3LYraOMvfgs_kPveXgSbyc"/>
-    <title lang="en">Fútbol masculino amistosos internacionales</title>
-    <live/>
-  </programme>
-  <programme start="20260927223000 +0000" stop="20260927230000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E11 — Francia 98
-Un capitán discreto y silencioso, con un talento inigualable, que enalteció la Copa en Brasil en 2014: Philipp Lahm. Las grandes historias de la Copa de Francia en 1998 y un portero paraguayo tan controvertido como legendario, José Luis Chilavert.</desc>
-    <episode-num>S01 E11</episode-num>
-    <icon src="https://iptv-epg.org/images/oD_HHBoYzFXWjkUxjcN_EqQ5QCUAIRl5n7TJ9_paMClYqPWbDhjxAx2NY6aGImvyzw4MVa0Xny93gbNWE1Q-HzQeR2h7H3qZzAX4nKY9Rbs"/>
-    <previously-shown/>
-    <title lang="en">El gran show del fútbol</title>
-  </programme>
-  <programme start="20260927230000 +0000" stop="20260927233000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Los coprotagonistas de Pelé
-Pelé no ganó tres Copas del Mundo él solo.</desc>
-    <icon src="https://iptv-epg.org/images/bSYggnFIoXhMgDqmqT3UETAs25XEM_aBuIUzkdVlHDObTDQhk8d2yY0AeHKE6fVxL7UvmmhAe5Og4MIlNWeMa36Im_Dl4whRCSSe3Licne8"/>
-    <previously-shown/>
-    <title lang="en">El gran show del fútbol</title>
-  </programme>
-  <programme start="20260927233000 +0000" stop="20260928000000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E20 — Franz Beckenbauer
-Franz Beckenbauer, defensor y mediocampista, saboreó la gloria de la Copa del Mundo tanto como jugador como entrenador.</desc>
-    <episode-num>S02 E20</episode-num>
-    <icon src="https://iptv-epg.org/images/bSYggnFIoXhMgDqmqT3UETAs25XEM_aBuIUzkdVlHDObTDQhk8d2yY0AeHKE6fVxL7UvmmhAe5Og4MIlNWeMa36Im_Dl4whRCSSe3Licne8"/>
-    <previously-shown/>
-    <title lang="en">El gran show del fútbol</title>
-  </programme>
-  <programme start="20260928000000 +0000" stop="20260928020000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Tigres UANL vs. Atlético San Luis
-Acción de la jornada 9 del Torneo Apertura 2026. Las Amazonas buscan el liderato del Grupo A y San Luis el segundo lugar del Grupo B.</desc>
-    <icon src="https://iptv-epg.org/images/V0DyEJdwZ3t_Xr1_UWpM_f_jUdPnnOmYzCvwnJQ8EZSW05PZ_KhX1xBK4qGzw9HbWiWPF-biYZVfp--bykgLbD6yUobsXnGT0DjWcvQmcQA"/>
-    <title lang="en">Fútbol Mexicano Femenino Primera División</title>
-    <live/>
-  </programme>
   <programme start="20260928020000 +0000" stop="20260928030000 +0000" channel="FOX DEPORTES">
     <category lang="en">Sports talk</category>
     <category>Sports</category>
@@ -94651,46 +94029,6 @@ Acción del partido de la jornada 10 del Torneo Apertura 2026 de la Liga MX. Des
     <previously-shown/>
     <title lang="en">Chivas en Fox Deportes</title>
   </programme>
-  <programme start="20260927170000 +0000" stop="20260927190000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Drag racing</category>
-    <category lang="en">Sports</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Nationals at The Rock, Qualifying
-From Rockingham Speedway in Rockingham, NC.</desc>
-    <icon src="https://iptv-epg.org/images/l0XdKySv24X8O-TxybUXEaHlbQR-fmljMrZyYiXDn1yut1TGEDfAkV4DISmnbU0Hflc-9uJrt_JvbxUxmY5-hS19WIQk231V3Q2eop7yZaA"/>
-    <title lang="en">NHRA Drag Racing</title>
-    <new/>
-  </programme>
-  <programme start="20260927190000 +0000" stop="20260927220000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Drag racing</category>
-    <category lang="en">Sports</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Nationals at The Rock
-From Rockingham Speedway in Rockingham, NC.</desc>
-    <icon src="https://iptv-epg.org/images/ekxMetUAY6FsLHAsQNEF3GFydC_U1VOg6WUkC7AxoPyJaMdd9zPts1yt01jfjvq8Dmly_Irbg-jwp4YTNqvHhexZBiRyr81tD_ayj8388Lk"/>
-    <title lang="en">NHRA Drag Racing</title>
-    <live/>
-  </programme>
-  <programme start="20260927220000 +0000" stop="20260928000000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">England vs. Spain
-League A, Group 3.</desc>
-    <icon src="https://iptv-epg.org/images/d3LqcocZydehTOkgXh-eJjwVaGZnEpWIhzlo47uMdeCmtXZqf6Ir_Q8RdneQQIucEOgX6Q0iLHg-_cUyYgKED-ixP2nIA4vh_FL3qX8GpJM"/>
-    <previously-shown/>
-    <title lang="en">UEFA Nations League Soccer</title>
-  </programme>
-  <programme start="20260928000000 +0000" stop="20260928020000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Germany vs. Greece
-League A, Group 2.</desc>
-    <icon src="https://iptv-epg.org/images/BNrBDfCPWHSCRMD30bdYPo1OJ1P5z1EFaSa-DTTtyRDYPJEVcTf9YMPCI5DOyt0ozAOPScisA6PpVCSeL9zVbaN3iKQQ8JBRqTcbQNtpgU8"/>
-    <previously-shown/>
-    <title lang="en">UEFA Nations League Soccer</title>
-  </programme>
   <programme start="20260928020000 +0000" stop="20260928040000 +0000" channel="FOX SPORTS 1 US">
     <category lang="en">Sports</category>
     <category lang="en">Series</category>
@@ -94958,78 +94296,6 @@ The No. 7 Ohio State Buckeyes host the Illinois Fighting Illini at Ohio Stadium.
     <icon src="https://iptv-epg.org/images/X726O7OnNvwcCz1Hp6kvujIA8pzQTv5t4LSI3PaFYcyUNHxHGS1Ik0WMj_aNeRtKx-5W26eb3jp4ZpJ8H9JPH66CJHj4e-wQ7Khqn4LMgaE"/>
     <previously-shown/>
     <title lang="en">College Football</title>
-  </programme>
-  <programme start="20260927180000 +0000" stop="20260927183000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E11 — Beckenbauer
-Franz Beckenbauer tasted World Cup glory as both player and manager.</desc>
-    <episode-num>S02 E11</episode-num>
-    <icon src="https://iptv-epg.org/images/rXhMPoBx55dXstW1or1yNPvCjSIy4PBeNWMOw_bEBFMdFROUp12S5PybC4hY12t1cFuxxgMqkjINmBHhca947PUnGlVTpk0IhZgWItlZgz0"/>
-    <previously-shown/>
-    <title lang="en">Football's Greatest Stage</title>
-  </programme>
-  <programme start="20260927183000 +0000" stop="20260927203000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Germany vs. Greece
-League A, Group 2.</desc>
-    <icon src="https://iptv-epg.org/images/BNrBDfCPWHSCRMD30bdYPo1OJ1P5z1EFaSa-DTTtyRDYPJEVcTf9YMPCI5DOyt0ozAOPScisA6PpVCSeL9zVbaN3iKQQ8JBRqTcbQNtpgU8"/>
-    <title lang="en">UEFA Nations League Soccer</title>
-    <live/>
-  </programme>
-  <programme start="20260927203000 +0000" stop="20260927210000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E09 — Modrić
-Luka Modrić evolved into Croatia's World Cup puppet master. He helped unfancied Croatia to the brink of World Cup success.</desc>
-    <episode-num>S02 E09</episode-num>
-    <icon src="https://iptv-epg.org/images/rXhMPoBx55dXstW1or1yNPvCjSIy4PBeNWMOw_bEBFMdFROUp12S5PybC4hY12t1cFuxxgMqkjINmBHhca947PUnGlVTpk0IhZgWItlZgz0"/>
-    <previously-shown/>
-    <title lang="en">Football's Greatest Stage</title>
-  </programme>
-  <programme start="20260927210000 +0000" stop="20260927213000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Mbappé
-Kylian Mbappé is the modern face of football's biggest stage. A World Cup winner as a teenager, then the scorer of a World Cup final hat-trick, Mbappé is French footballing royalty.</desc>
-    <icon src="https://iptv-epg.org/images/rXhMPoBx55dXstW1or1yNPvCjSIy4PBeNWMOw_bEBFMdFROUp12S5PybC4hY12t1cFuxxgMqkjINmBHhca947PUnGlVTpk0IhZgWItlZgz0"/>
-    <previously-shown/>
-    <title lang="en">Football's Greatest Stage</title>
-  </programme>
-  <programme start="20260927213000 +0000" stop="20260927220000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Lionel Messi
-Captaining Argentina to glory at the 2022 World Cup cemented Lionel Messi's status as the greatest footballer in history.</desc>
-    <icon src="https://iptv-epg.org/images/rXhMPoBx55dXstW1or1yNPvCjSIy4PBeNWMOw_bEBFMdFROUp12S5PybC4hY12t1cFuxxgMqkjINmBHhca947PUnGlVTpk0IhZgWItlZgz0"/>
-    <previously-shown/>
-    <title lang="en">Football's Greatest Stage</title>
-  </programme>
-  <programme start="20260927220000 +0000" stop="20260927225000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Motorcycle</category>
-    <category lang="en">Series</category>
-    <category>Sports</category>
-    <desc lang="en">Springfield Mile II
-Motorcycle action from the American Flat Track racing series.</desc>
-    <icon src="https://iptv-epg.org/images/mlUIz2mCxrEGzr2fNNIy_BsJOe3GYZ1Wtwg1DRq79SXlLfUlh1MSKvt0NJ8gL-u1updpGDfQDFwTcw6Co7RfRw_Qn0P_OJtSjnNsM--6epA"/>
-    <previously-shown/>
-    <title lang="en">American Flat Track</title>
-  </programme>
-  <programme start="20260927225000 +0000" stop="20260928005000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Haiti vs. Costa Rica
-From Sabina Park in Kingston, Kingston, Jamaica.</desc>
-    <icon src="https://iptv-epg.org/images/zjakrS3LdqKX9day1wHO3zBDAf3cT4jdsYfXUV1u306Wtfo15XR2iAFpNRfdVmH0pdmcwWOtQnIylGcG_bD2dgW5_i2ezPBL42CXMOvKjwk"/>
-    <title lang="en">CONCACAF Nations League Soccer</title>
-    <live/>
   </programme>
   <programme start="20260928005000 +0000" stop="20260928030000 +0000" channel="FOX SPORTS 2 US">
     <category lang="en">Sports</category>
@@ -97759,6 +97025,740 @@ From FFB Field in Belize.</desc>
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FO0LA8P6ZCEJBB718LM8.jpg/a:p/im:i:c_limit,w_1920/FO0LA8P6ZCEJBB718LM8_reference_keyframe.jpg" />
 	</programme>
+  <programme start="20260927180000 +0000" stop="20260927181500 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">SKY Sports.</desc>
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20260927181500 +0000" stop="20260927184500 +0000" channel="SKY SPORTS 1 MX">
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <desc lang="es">Desde el estadio San Mamés ubicado en la ciudad de Bilbao en el País Vasco en España, se enfrentan los equipos Athletic Club de Bilbao versus Real Madrid Club de Fútbol.</desc>
+    <icon src="https://iptv-epg.org/images/t2Ueu27N-aUQkJ5BBR7LWppnfTYbIEcHnDqaCfjxfQl91-3gxkrMnUi8CyTlMUzLvYaR_1t2PuEorCBYAy2stQ88ypzIYxVlPDrlZEp_2jgzvZiRgHIgRgosRrhTCKWMEaCQDupKcE0QJqMjBmfzFCaG87nq-g"/>
+    <title lang="es">Athletic Club Vs. Real Madrid</title>
+  </programme>
+  <programme start="20260927184500 +0000" stop="20260927204500 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Alemania vs. Grecia
+En Vivo.</desc>
+    <title lang="es">Alemania vs. Grecia
+En Vivo</title>
+  </programme>
+  <programme start="20260927204500 +0000" stop="20260927224500 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Italia vs. Bélgica.</desc>
+    <title lang="es">Italia vs. Bélgica</title>
+  </programme>
+  <programme start="20260927224500 +0000" stop="20260928004500 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Gilbaltar vs. Andorra.</desc>
+    <title lang="es">Gilbaltar vs. Andorra</title>
+  </programme>
+  <programme start="20260927180000 +0000" stop="20260927183000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">LaLiga Highlights.</desc>
+    <title lang="es">LaLiga Highlights</title>
+  </programme>
+  <programme start="20260927183000 +0000" stop="20260927184500 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Sky Sports 16.</desc>
+    <title lang="es">Sky Sports 16</title>
+  </programme>
+  <programme start="20260927184500 +0000" stop="20260927204500 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Noruega vs. Portugal
+En Vivo.</desc>
+    <title lang="es">Noruega vs. Portugal
+En Vivo</title>
+  </programme>
+  <programme start="20260927204500 +0000" stop="20260927210000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Sky Sports 16.</desc>
+    <title lang="es">Sky Sports 16</title>
+  </programme>
+  <programme start="20260927210000 +0000" stop="20260927230000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Atlético de Madrid vs. CA Osasuna.</desc>
+    <title lang="es">Atlético de Madrid vs. CA Osasuna</title>
+  </programme>
+  <programme start="20260927230000 +0000" stop="20260928010000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Inglaterra vs. España.</desc>
+    <title lang="es">Inglaterra vs. España</title>
+  </programme>
+  <programme start="20260927180000 +0000" stop="20260927200000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Serbia vs. Países Bajos.</desc>
+    <title lang="es">Serbia vs. Países Bajos</title>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260927203000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">LaLiga Highlights.</desc>
+    <title lang="es">LaLiga Highlights</title>
+  </programme>
+  <programme start="20260927203000 +0000" stop="20260927204500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Sky Sports 24.</desc>
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20260927204500 +0000" stop="20260927224500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Noruega vs. Portugal.</desc>
+    <title lang="es">Noruega vs. Portugal</title>
+  </programme>
+  <programme start="20260927224500 +0000" stop="20260927230000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Sky Sports 24.</desc>
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20260927230000 +0000" stop="20260928010000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Atlético de Madrid vs. CA Osasuna.</desc>
+    <title lang="es">Atlético de Madrid vs. CA Osasuna</title>
+  </programme>
+  <programme start="20260927180000 +0000" stop="20260927183000 +0000" channel="Universo">
+    <category lang="en">Sports</category>
+    <desc lang="en">Copa Mundial Femenina Sub-20 de la FIFA 2026: Ceremonia de premiación</desc>
+    <icon src="https://iptv-epg.org/images/vXLqm5uMX_FCKd1DQERHKzMR6nvBjSdu7AcdDsEHEOgTXcUHRR-xW6cvR-87rAl0URWkitG-b-GXXlVs2vtat8wU-YSgqcjGVNZl0-8ujGM"/>
+    <title lang="en">Copa Mundial Femenina Sub-20 de la FIFA 2026: Ceremonia de premiación</title>
+    <live/>
+  </programme>
+  <programme start="20260927183000 +0000" stop="20260927190000 +0000" channel="Universo">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <desc lang="en">Almas gemelas asesinas
+Nancy fue secuestrada y casi muere en manos del secuestrador. Ahora ella siente una conexión con el hombre como si fuera su alma gemela.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <previously-shown/>
+    <title lang="en">Caso cerrado</title>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260927200000 +0000" channel="Universo">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <desc lang="en">Pancakes asesinos; La tribu equivocada
+Nancy demanda a su hermana, por ella casi muere ahogada en una competencia de &quot;pancakes&quot;. Héctor pide el divorcio y la custodia de sus hijas, su esposa lo traicionó con quien menos lo esperaba.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <previously-shown/>
+    <title lang="en">Caso cerrado</title>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260927210000 +0000" channel="Universo">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <desc lang="en">Ocupa dominicano; Intercambiados
+Alejandro es un contratista que le permitió a un amigo vivir en una casa en venta, la cual destrozó. Ana supo a los dos años que le cambiaron a la bebé en el hospital, pero no desea devolverla.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <previously-shown/>
+    <title lang="en">Caso cerrado</title>
+  </programme>
+  <programme start="20260927210000 +0000" stop="20260927220000 +0000" channel="Universo">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <desc lang="en">Fértil agresión; En el nombre de Daniela
+Samanta quedó embarazada del amante de Sonia, de un modo insólito, y exige que ella le mantenga al niño. El espíritu de la niña Daniela se le aparece a Adriana y su esposo se ha obsesionado.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <previously-shown/>
+    <title lang="en">Caso cerrado</title>
+  </programme>
+  <programme start="20260927220000 +0000" stop="20260928000000 +0000" channel="Universo">
+    <category lang="en">Drama</category>
+    <category lang="en">Movie</category>
+    <credits>
+      <director>Fernando Durán Rojas</director>
+      <actor>Vicente Fernández</actor>
+      <actor>Lucía Méndez</actor>
+      <actor>Eduardo de la Peña</actor>
+      <actor>Fernando Soto</actor>
+      <actor>Rodrigo Puebla</actor>
+      <actor>Alicia Juárez</actor>
+      <actor>Jorge Russek</actor>
+    </credits>
+    <date>1974</date>
+    <desc lang="en">Gemelos idénticos, uno ingeniero y el otro asesino, luchan por el amor de la misma mujer.</desc>
+    <icon src="https://iptv-epg.org/images/_53OTCGfJaQa5x6PwBiDSa4nRZOVr1oKm4PrBtnkoyXkMs_0X9m8q1DA9y2R5yAqO60Efm_8buwyG3qv6aetQncZiKkw8GrvND441jPesdI"/>
+    <title lang="en">Juan Armenta, el Repatriado</title>
+  </programme>
+  <programme start="20260928000000 +0000" stop="20260928002000 +0000" channel="Universo">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">La acción de la temporada completa de la NFL está en Universo. Cada touchdown, cada victoria y toda la adrenalina del fútbol americano y en español. Sunday Night Football en Universo comienza.</desc>
+    <icon src="https://iptv-epg.org/images/gLv06VxSliGOeoWUmolq0kJniC4iAVqvySD3Kp6cU1tHxfwyGQ25LgltN4bcBHVYaTd9Tlz1yIFmcLEgAV9KCMTxFnDZCa6W3zo8FcYFPAU"/>
+    <title lang="en">Sunday Night Football en Universo</title>
+    <live/>
+  </programme>
+  <programme start="20260927173000 +0000" stop="20260927200000 +0000" channel="Telemundo East">
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Movie</category>
+    <credits>
+      <director>Dominic Sena</director>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Mike Stenson</producer>
+      <actor>Nicolas Cage</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Giovanni Ribisi</actor>
+      <actor>Delroy Lindo</actor>
+      <actor>Will Patton</actor>
+      <actor>Christopher Eccleston</actor>
+      <actor>Chi McBride</actor>
+      <actor>Robert Duvall</actor>
+      <actor>Scott Caan</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>William Scott</actor>
+      <actor>Vinnie Jones</actor>
+    </credits>
+    <date>2000</date>
+    <desc lang="en">Memphis abandonó hace mucho tiempo su vida criminal, pero ahora, para salvar la vida de su hermano, tendrá que firmar un peligroso contrato con la mafia y robar 50 autos, en una sola noche.</desc>
+    <icon src="https://iptv-epg.org/images/7HMBdsLbOEFTU-94sOAylZti-tYXXa10rZmetqSpsRwPUXE_lh2jRcCpaelfxHxa8MBVupMfYRph0qdWeZQPKqQUtmIAd7Z8gCuPDLF0bok"/>
+    <title lang="en">Gone in 60 Seconds</title>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260927220000 +0000" channel="Telemundo East">
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Movie</category>
+    <credits>
+      <director>Scott Waugh</director>
+      <producer>Kevin Templeton</producer>
+      <producer>Les Weldon</producer>
+      <actor>Jason Statham</actor>
+      <actor>Sylvester Stallone</actor>
+      <actor>Andy Garcia</actor>
+      <actor>50 Cent</actor>
+      <actor>Megan Fox</actor>
+      <actor>Dolph Lundgren</actor>
+      <actor>Tachakorn Yeerum</actor>
+      <actor>Iko Uwais</actor>
+      <actor>Randy Couture</actor>
+      <actor>Jacob Scipio</actor>
+      <actor>Levy Tran</actor>
+    </credits>
+    <date>2023</date>
+    <desc lang="en">Los Indestructibles viajan a Libia para impedir que el mercenario Suarto Rahmat robe cabezas nucleares para entregárselas a un misterioso terrorista al que llaman Ocelot, quien pretende provocar el estallido de la Tercera Guerra Mundial.</desc>
+    <icon src="https://iptv-epg.org/images/A9MhLjJ15zEvNKMSAjXWEnUYxWpY59EiX4rzmeOfqhD1l_5eUzNHnvR8igjvdh0Ze-lBqAURdjShjV29zWW-YZ98PIpcY-qTHyBYFUWMWWM"/>
+    <title lang="en">Expend4bles</title>
+  </programme>
+  <programme start="20260927220000 +0000" stop="20260927223000 +0000" channel="Telemundo East">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <desc lang="en">Sin derecho a nada
+Leo y Kenia buscan desalojar a su madrastra Rosa del apartamento que les pertenece tras la muerte de su padre. Ella asegura que su pareja se suicidó por el maltrato que recibía de sus hijos.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <previously-shown/>
+    <title lang="en">Caso cerrado</title>
+  </programme>
+  <programme start="20260927223000 +0000" stop="20260927230000 +0000" channel="Telemundo East">
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Julio Vaqueiro</actor>
+    </credits>
+    <desc lang="en">Noticias Telemundo fin de semana es la fuente de información más confiable de la comunidad hispana en EE. UU. Su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
+    <icon src="https://iptv-epg.org/images/JySp7J3Mh88opQ5QDCJ21sWu9C63gxR6WHizcth23MWHhMfasmrGOV5QyU8WPXam3FSRP3xQb_yMx5sggxaJq0m3H9TVfCIjDkF6jBn_VuA"/>
+    <title lang="en">Noticias Telemundo fin de semana</title>
+    <new/>
+  </programme>
+  <programme start="20260927230000 +0000" stop="20260927235800 +0000" channel="Telemundo East">
+    <category lang="en">Competition reality</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S05 E41 — De regreso al fogón
+Los concursantes son espectadores, mientras el chef José Infante enfrenta a los eliminados al villano de la cocina. Entre reproches e insultos se escoge a un ganador. Los jueces eligen al otro.</desc>
+    <episode-num>S05 E41</episode-num>
+    <icon src="https://iptv-epg.org/images/U5AgozArePNuX3TujklzbDmcCoZr_ONzuDTgKJZmVo_qMI6XByy9S8_nZIzf5K6lo5FfRV8GxYGc6EWydzHFz5oh6pknYhJxGE5cDHKqgK0"/>
+    <title lang="en">Top Chef VIP</title>
+    <new/>
+  </programme>
+  <programme start="20260927235800 +0000" stop="20260928020000 +0000" channel="Telemundo East">
+    <category lang="en">Competition reality</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S05 E41 — De regreso al fogón
+Los concursantes son espectadores, mientras el chef José Infante enfrenta a los eliminados al villano de la cocina. Entre reproches e insultos se escoge a un ganador. Los jueces eligen al otro.</desc>
+    <episode-num>S05 E41</episode-num>
+    <icon src="https://iptv-epg.org/images/U5AgozArePNuX3TujklzbDmcCoZr_ONzuDTgKJZmVo_qMI6XByy9S8_nZIzf5K6lo5FfRV8GxYGc6EWydzHFz5oh6pknYhJxGE5cDHKqgK0"/>
+    <title lang="en">Top Chef VIP</title>
+    <new/>
+  </programme>
+  <programme start="20260927180000 +0000" stop="20260927203000 +0000" channel="Telemundo West">
+    <category lang="en">Comedy</category>
+    <category lang="en">Movie</category>
+    <credits>
+      <director>Robert Farrelly</director>
+      <producer>Paul Brooks</producer>
+      <producer>Scott Niemeyer</producer>
+      <actor>Woody Harrelson</actor>
+      <actor>Kaitlin Olson</actor>
+      <actor>Matt Cook</actor>
+      <actor>Ernie Hudson</actor>
+      <actor>Cheech Marin</actor>
+      <actor>Madison Tevlin</actor>
+      <actor>Joshua Felder</actor>
+      <actor>Kevin Iannucci</actor>
+      <actor>Ashton Gunning</actor>
+      <actor>Matthew Von Der Ahe</actor>
+      <actor>Tom Sinclair</actor>
+      <actor>James Keith</actor>
+    </credits>
+    <date>2023</date>
+    <desc lang="en">Un entrenador de baloncesto tiene que dirigir a un equipo de personas con discapacidad psíquica como servicio a la comunidad por sus problemas con la Justicia. A pesar de que se muestra reacio, no tarda en entregarse con toda su alma al equipo.</desc>
+    <icon src="https://iptv-epg.org/images/P3P3f26pzXPDjyRv0ErQPfCK5S6NZVWqL6GTtiKJNoPiVFQKlmzxFvGgSxLdcH-4Weilcd6yHpJ37-6gnNd6aK7T1cD5XviS8o25aBjbIdg"/>
+    <title lang="en">Champions</title>
+  </programme>
+  <programme start="20260927203000 +0000" stop="20260927230000 +0000" channel="Telemundo West">
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Movie</category>
+    <credits>
+      <director>Dominic Sena</director>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Mike Stenson</producer>
+      <actor>Nicolas Cage</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Giovanni Ribisi</actor>
+      <actor>Delroy Lindo</actor>
+      <actor>Will Patton</actor>
+      <actor>Christopher Eccleston</actor>
+      <actor>Chi McBride</actor>
+      <actor>Robert Duvall</actor>
+      <actor>Scott Caan</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>William Scott</actor>
+      <actor>Vinnie Jones</actor>
+    </credits>
+    <date>2000</date>
+    <desc lang="en">Memphis abandonó hace mucho tiempo su vida criminal, pero ahora, para salvar la vida de su hermano, tendrá que firmar un peligroso contrato con la mafia y robar 50 autos, en una sola noche.</desc>
+    <icon src="https://iptv-epg.org/images/7HMBdsLbOEFTU-94sOAylZti-tYXXa10rZmetqSpsRwPUXE_lh2jRcCpaelfxHxa8MBVupMfYRph0qdWeZQPKqQUtmIAd7Z8gCuPDLF0bok"/>
+    <title lang="en">Gone in 60 Seconds</title>
+  </programme>
+  <programme start="20260927230000 +0000" stop="20260928010000 +0000" channel="Telemundo West">
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Movie</category>
+    <credits>
+      <director>Scott Waugh</director>
+      <producer>Kevin Templeton</producer>
+      <producer>Les Weldon</producer>
+      <actor>Jason Statham</actor>
+      <actor>Sylvester Stallone</actor>
+      <actor>Andy Garcia</actor>
+      <actor>50 Cent</actor>
+      <actor>Megan Fox</actor>
+      <actor>Dolph Lundgren</actor>
+      <actor>Tachakorn Yeerum</actor>
+      <actor>Iko Uwais</actor>
+      <actor>Randy Couture</actor>
+      <actor>Jacob Scipio</actor>
+      <actor>Levy Tran</actor>
+    </credits>
+    <date>2023</date>
+    <desc lang="en">Los Indestructibles viajan a Libia para impedir que el mercenario Suarto Rahmat robe cabezas nucleares para entregárselas a un misterioso terrorista al que llaman Ocelot, quien pretende provocar el estallido de la Tercera Guerra Mundial.</desc>
+    <icon src="https://iptv-epg.org/images/A9MhLjJ15zEvNKMSAjXWEnUYxWpY59EiX4rzmeOfqhD1l_5eUzNHnvR8igjvdh0Ze-lBqAURdjShjV29zWW-YZ98PIpcY-qTHyBYFUWMWWM"/>
+    <title lang="en">Expend4bles</title>
+  </programme>
+  <programme start="20260927173000 +0000" stop="20260927200000 +0000" channel="Univision East">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Pumas UNAM vs. Atlético San Luis
+Acción de la jornada 10 del Torneo Apertura 2026. Pumas busca liguilla y los Potosinos su segunda victoria al hilo.</desc>
+    <icon src="https://iptv-epg.org/images/skneVpi-DLgqh0nnMapJQ8UWFTJNIZDMZfQg4gDYKViXn2j74EKOpJTxoqJ5ByvDilqlm9wjoksVUN5YYjHoPl04bkbXEZUpyUeV8Y7Y3Ks"/>
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <live/>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260927203000 +0000" channel="Univision East">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Sergio Sánchez</director>
+      <actor>Consuelo Duval</actor>
+      <actor>Lorena de la Garza</actor>
+      <actor>Reynaldo Rossano</actor>
+      <actor>Gustavo Munguia</actor>
+      <actor>Javier Carranza</actor>
+      <actor>El Indio Brayan</actor>
+      <actor>Nicole Vale</actor>
+      <actor>David Salomon</actor>
+      <actor>Maribel Fernández</actor>
+      <actor>Lupita Sandoval</actor>
+    </credits>
+    <desc lang="en">S04 E13 — Sisi mamá
+Nacól da la noticia que ya tiene novio y se quiere casar. El novio es hijo de Sisi, quien lo controla y maneja. Nacaranda y Nacasia hacen todo lo posible por convencer a Nacól de que ese matrimonio no le conviene.</desc>
+    <episode-num>S04 E13</episode-num>
+    <icon src="https://iptv-epg.org/images/igcm-fm_5U3fuqXeXA5Nxr1pcEBM98VLfroRloDVe8AeNt8iD8WOfYpFE370Iw-yR83_36_JnTklfiLSRxx_uAhr4fqe93DZ6JTosb5S8F0"/>
+    <title lang="en">Tal para cual</title>
+    <new/>
+  </programme>
+  <programme start="20260927203000 +0000" stop="20260927210000 +0000" channel="Univision East">
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Martin Berlanga</actor>
+    </credits>
+    <desc lang="en">La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.</desc>
+    <icon src="https://iptv-epg.org/images/oHtV96LylPPXMR8kDCs2YcNjZtPDNJmBQ3SQxV37R17Ng5baR3WsfnPluVleSKRROWNNJlXmRjHzlFiVBJpT0033Dpc5M4JQZ3ecmlJNqmY"/>
+    <title lang="en">Noticiero N+ Univision: Fin de semana</title>
+    <live/>
+  </programme>
+  <programme start="20260927210000 +0000" stop="20260928000000 +0000" channel="Univision East">
+    <category lang="en">Action</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Movie</category>
+    <credits>
+      <director>Paul Greengrass</director>
+      <producer>Scott Rudin</producer>
+      <producer>Dana Brunetti</producer>
+      <actor>Tom Hanks</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Barkhad Abdi</actor>
+      <actor>Barkhad Abdirahman</actor>
+      <actor>Faysal Ahmed</actor>
+      <actor>Mahat Ali</actor>
+      <actor>Michael Chernus</actor>
+      <actor>Corey Johnson</actor>
+      <actor>Max Martini</actor>
+      <actor>Chris Mulkey</actor>
+      <actor>Yul Vazquez</actor>
+      <actor>David Warshofsky</actor>
+    </credits>
+    <date>2013</date>
+    <desc lang="en">En el año 2009, un grupo de piratas somalíes secuestran un barco carguero estadounidense y toman como rehenes a la tripulación. Entre ellos está el capitán del navío, Richard Phillips.</desc>
+    <icon src="https://iptv-epg.org/images/yStQkydIKaVl0cFp88iSIW3neUbX3aBamCPQOJjLowPp-mVkB0VO2ZaCoKgH02w3hXhMcQHXvj1sdPcP_0HV_GSBoBmW6HunUpO5lq_Os5I"/>
+    <title lang="en">Captain Phillips</title>
+    <new/>
+  </programme>
+  <programme start="20260928000000 +0000" stop="20260928010000 +0000" channel="Univision East">
+    <category lang="en">Crime</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S02 E04 — Caso hermanos Alexander
+El caso de los hermanos Tal, Oren y Alon Alexander sacudió a Nueva York al revelar una serie de abusos sexuales contra múltiples mujeres, presuntamente cometidos durante años en un contexto de poder, dinero y manipulación.</desc>
+    <episode-num>S02 E04</episode-num>
+    <icon src="https://iptv-epg.org/images/iHWIrezwqbRf_bciUpgUB8wPA7FHLxjjrRGHuQL549TqHNpPgFXlulMSk9HEucw02R5FFO4kVJYoJ9yQr1Va3fugCk4pCzN_Hy7vWMHb3vk"/>
+    <title lang="en">C.D.I. Código de investigación. Archivos abiertos</title>
+    <new/>
+  </programme>
+  <programme start="20260927173000 +0000" stop="20260927200000 +0000" channel="Univision West">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Pumas UNAM vs. Atlético San Luis
+Acción de la jornada 10 del Torneo Apertura 2026. Pumas busca liguilla y los Potosinos su segunda victoria al hilo.</desc>
+    <icon src="https://iptv-epg.org/images/skneVpi-DLgqh0nnMapJQ8UWFTJNIZDMZfQg4gDYKViXn2j74EKOpJTxoqJ5ByvDilqlm9wjoksVUN5YYjHoPl04bkbXEZUpyUeV8Y7Y3Ks"/>
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <live/>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260927210000 +0000" channel="Univision West">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>José Ángel García</director>
+      <director>Marta Luna</director>
+      <actor>Milia Nader</actor>
+      <actor>Diego Lara</actor>
+      <actor>Sandra Itzel</actor>
+      <actor>María Sandoval</actor>
+      <actor>Aminta Ireta</actor>
+      <actor>Aleyda Gallardo</actor>
+      <actor>Marisol del Olmo</actor>
+      <actor>Gerardo Murguía</actor>
+      <actor>Roxana Saucedo</actor>
+      <actor>Emmanuel Orenday</actor>
+      <actor>Francisco Avendaño</actor>
+      <actor>Maru Dueñas</actor>
+    </credits>
+    <desc lang="en">S01 E1847 — Una canita al aire
+Yesenia y Manuel se comprometen y se juran amor para siempre, al presentarlo a su familia, su hermana lo reconoce, y recuerda que hace algún tiempo pasó una noche con él.</desc>
+    <episode-num>S01 E1847</episode-num>
+    <icon src="https://iptv-epg.org/images/kkhAzgI0YGoCaStiKoJd9dTXiqBBDgcgJxzL3r-F37lfFXgTYfVCjkojBT04Z2HAzbq4TFNdbvDqeUD-VWNmBGzguaHkQpVnaNrdR1D9ZNg"/>
+    <previously-shown/>
+    <title lang="en">La rosa de Guadalupe</title>
+  </programme>
+  <programme start="20260927210000 +0000" stop="20260927220000 +0000" channel="Univision West">
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <category lang="en">Special</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Un programa dominical sobre las decisiones en Washington, D. C. y sus consecuencias en la vida cotidiana de los latinos que trabajan, votan y construyen sus vidas en Estados Unidos.</desc>
+    <icon src="https://iptv-epg.org/images/3625KZEo98ohK6E6qUGbYureuTlYUHVQwvvWXHMrcFAhT-0NiHTy4jMiFnb4DccbRufZugEJVAp9xgq544uiAeK4jz1MkmeKDLK3YV7MIyk"/>
+    <title lang="en">Esta semana</title>
+    <new/>
+  </programme>
+  <programme start="20260927220000 +0000" stop="20260927230000 +0000" channel="Univision West">
+    <category lang="en">Entertainment</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S02 E30
+Vicky &quot;la Chama&quot; Van entrevista a grandes invitados y artistas, quienes comparten cómo es la vida tras la música.</desc>
+    <episode-num>S02 E30</episode-num>
+    <icon src="https://iptv-epg.org/images/sc_ZODFdxcDqX7UZtHipwrsVhG6GGxPpEJsEeCw59xGC0owtSe7rVWPnfYJTlHsWnHZJwGspsyiPRzWmBD8UUDZfLJR3ihseYCA6jkQS5nY"/>
+    <title lang="en">El Vicky Van Show</title>
+    <new/>
+  </programme>
+  <programme start="20260927230000 +0000" stop="20260928000000 +0000" channel="Univision West">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>José Ángel García</director>
+      <director>Marta Luna</director>
+      <actor>Milia Nader</actor>
+      <actor>Diego Lara</actor>
+      <actor>Sandra Itzel</actor>
+      <actor>María Sandoval</actor>
+      <actor>Aminta Ireta</actor>
+      <actor>Aleyda Gallardo</actor>
+      <actor>Marisol del Olmo</actor>
+      <actor>Gerardo Murguía</actor>
+      <actor>Roxana Saucedo</actor>
+      <actor>Emmanuel Orenday</actor>
+      <actor>Francisco Avendaño</actor>
+      <actor>Maru Dueñas</actor>
+    </credits>
+    <desc lang="en">S01 E1847 — Una canita al aire
+Yesenia y Manuel se comprometen y se juran amor para siempre, al presentarlo a su familia, su hermana lo reconoce, y recuerda que hace algún tiempo pasó una noche con él.</desc>
+    <episode-num>S01 E1847</episode-num>
+    <icon src="https://iptv-epg.org/images/kkhAzgI0YGoCaStiKoJd9dTXiqBBDgcgJxzL3r-F37lfFXgTYfVCjkojBT04Z2HAzbq4TFNdbvDqeUD-VWNmBGzguaHkQpVnaNrdR1D9ZNg"/>
+    <previously-shown/>
+    <title lang="en">La rosa de Guadalupe</title>
+  </programme>
+  <programme start="20260928000000 +0000" stop="20260928003000 +0000" channel="Univision West">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Sergio Sánchez</director>
+      <actor>Consuelo Duval</actor>
+      <actor>Lorena de la Garza</actor>
+      <actor>Reynaldo Rossano</actor>
+      <actor>Gustavo Munguia</actor>
+      <actor>Javier Carranza</actor>
+      <actor>El Indio Brayan</actor>
+      <actor>Nicole Vale</actor>
+      <actor>David Salomon</actor>
+      <actor>Maribel Fernández</actor>
+      <actor>Lupita Sandoval</actor>
+    </credits>
+    <desc lang="en">S04 E13 — Sisi mamá
+Nacól da la noticia que ya tiene novio y se quiere casar. El novio es hijo de Sisi, quien lo controla y maneja. Nacaranda y Nacasia hacen todo lo posible por convencer a Nacól de que ese matrimonio no le conviene.</desc>
+    <episode-num>S04 E13</episode-num>
+    <icon src="https://iptv-epg.org/images/igcm-fm_5U3fuqXeXA5Nxr1pcEBM98VLfroRloDVe8AeNt8iD8WOfYpFE370Iw-yR83_36_JnTklfiLSRxx_uAhr4fqe93DZ6JTosb5S8F0"/>
+    <title lang="en">Tal para cual</title>
+    <new/>
+  </programme>
+  <programme start="20260927180000 +0000" stop="20260927200000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tigres UANL vs. Puebla
+Acción de la jornada 10 del Torneo Apertura 2026. Tigres busca alejarse de los últimos lugares y Puebla mantenerse en liguilla.</desc>
+    <icon src="https://iptv-epg.org/images/dH6VfRKSGjf_ibtKjqZO58N01v1ENXC44zked7VXTk9NmJlCkXJ3fcuno0byRZZuGHehx3mBYaN4uTub_QAB8vf0mp1uK0qWff-mgCcT8c4"/>
+    <previously-shown/>
+    <title lang="en">Fútbol Mexicano Primera División</title>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260927203000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S02 E10 — Johan Cruyff
+Johan Cruyff es el padrino del fútbol moderno. Fue el artífice de que los Países Bajos llegaran a la final del Mundial de 1974.</desc>
+    <episode-num>S02 E10</episode-num>
+    <icon src="https://iptv-epg.org/images/bSYggnFIoXhMgDqmqT3UETAs25XEM_aBuIUzkdVlHDObTDQhk8d2yY0AeHKE6fVxL7UvmmhAe5Og4MIlNWeMa36Im_Dl4whRCSSe3Licne8"/>
+    <previously-shown/>
+    <title lang="en">El gran show del fútbol</title>
+  </programme>
+  <programme start="20260927203000 +0000" stop="20260927223000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Bolivia vs. Paraguay
+Cobertura del duelo amistoso entre selecciones sudamericanas. Desde el Audi Field, en Washington, Estados Unidos.</desc>
+    <icon src="https://iptv-epg.org/images/HRM2qOAxcHR1VphLmmSVUlOTqfjrdj9XrVwlKZGEwyZEmIpr3S1iIsyv01eR3ZoVgoBDuRShur502CyOG_YSw3LYraOMvfgs_kPveXgSbyc"/>
+    <title lang="en">Fútbol masculino amistosos internacionales</title>
+    <live/>
+  </programme>
+  <programme start="20260927223000 +0000" stop="20260927230000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S01 E11 — Francia 98
+Un capitán discreto y silencioso, con un talento inigualable, que enalteció la Copa en Brasil en 2014: Philipp Lahm. Las grandes historias de la Copa de Francia en 1998 y un portero paraguayo tan controvertido como legendario, José Luis Chilavert.</desc>
+    <episode-num>S01 E11</episode-num>
+    <icon src="https://iptv-epg.org/images/oD_HHBoYzFXWjkUxjcN_EqQ5QCUAIRl5n7TJ9_paMClYqPWbDhjxAx2NY6aGImvyzw4MVa0Xny93gbNWE1Q-HzQeR2h7H3qZzAX4nKY9Rbs"/>
+    <previously-shown/>
+    <title lang="en">El gran show del fútbol</title>
+  </programme>
+  <programme start="20260927230000 +0000" stop="20260927233000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Los coprotagonistas de Pelé
+Pelé no ganó tres Copas del Mundo él solo.</desc>
+    <icon src="https://iptv-epg.org/images/bSYggnFIoXhMgDqmqT3UETAs25XEM_aBuIUzkdVlHDObTDQhk8d2yY0AeHKE6fVxL7UvmmhAe5Og4MIlNWeMa36Im_Dl4whRCSSe3Licne8"/>
+    <previously-shown/>
+    <title lang="en">El gran show del fútbol</title>
+  </programme>
+  <programme start="20260927233000 +0000" stop="20260928000000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S02 E20 — Franz Beckenbauer
+Franz Beckenbauer, defensor y mediocampista, saboreó la gloria de la Copa del Mundo tanto como jugador como entrenador.</desc>
+    <episode-num>S02 E20</episode-num>
+    <icon src="https://iptv-epg.org/images/bSYggnFIoXhMgDqmqT3UETAs25XEM_aBuIUzkdVlHDObTDQhk8d2yY0AeHKE6fVxL7UvmmhAe5Og4MIlNWeMa36Im_Dl4whRCSSe3Licne8"/>
+    <previously-shown/>
+    <title lang="en">El gran show del fútbol</title>
+  </programme>
+  <programme start="20260928000000 +0000" stop="20260928020000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tigres UANL vs. Atlético San Luis
+Acción de la jornada 9 del Torneo Apertura 2026. Las Amazonas buscan el liderato del Grupo A y San Luis el segundo lugar del Grupo B.</desc>
+    <icon src="https://iptv-epg.org/images/V0DyEJdwZ3t_Xr1_UWpM_f_jUdPnnOmYzCvwnJQ8EZSW05PZ_KhX1xBK4qGzw9HbWiWPF-biYZVfp--bykgLbD6yUobsXnGT0DjWcvQmcQA"/>
+    <title lang="en">Fútbol Mexicano Femenino Primera División</title>
+    <live/>
+  </programme>
+  <programme start="20260927170000 +0000" stop="20260927190000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Drag racing</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Nationals at The Rock, Qualifying
+From Rockingham Speedway in Rockingham, NC.</desc>
+    <icon src="https://iptv-epg.org/images/l0XdKySv24X8O-TxybUXEaHlbQR-fmljMrZyYiXDn1yut1TGEDfAkV4DISmnbU0Hflc-9uJrt_JvbxUxmY5-hS19WIQk231V3Q2eop7yZaA"/>
+    <title lang="en">NHRA Drag Racing</title>
+    <new/>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260927220000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Drag racing</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Nationals at The Rock
+From Rockingham Speedway in Rockingham, NC.</desc>
+    <icon src="https://iptv-epg.org/images/ekxMetUAY6FsLHAsQNEF3GFydC_U1VOg6WUkC7AxoPyJaMdd9zPts1yt01jfjvq8Dmly_Irbg-jwp4YTNqvHhexZBiRyr81tD_ayj8388Lk"/>
+    <title lang="en">NHRA Drag Racing</title>
+    <live/>
+  </programme>
+  <programme start="20260927220000 +0000" stop="20260928000000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">England vs. Spain
+League A, Group 3.</desc>
+    <icon src="https://iptv-epg.org/images/d3LqcocZydehTOkgXh-eJjwVaGZnEpWIhzlo47uMdeCmtXZqf6Ir_Q8RdneQQIucEOgX6Q0iLHg-_cUyYgKED-ixP2nIA4vh_FL3qX8GpJM"/>
+    <previously-shown/>
+    <title lang="en">UEFA Nations League Soccer</title>
+  </programme>
+  <programme start="20260928000000 +0000" stop="20260928020000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Germany vs. Greece
+League A, Group 2.</desc>
+    <icon src="https://iptv-epg.org/images/BNrBDfCPWHSCRMD30bdYPo1OJ1P5z1EFaSa-DTTtyRDYPJEVcTf9YMPCI5DOyt0ozAOPScisA6PpVCSeL9zVbaN3iKQQ8JBRqTcbQNtpgU8"/>
+    <previously-shown/>
+    <title lang="en">UEFA Nations League Soccer</title>
+  </programme>
+  <programme start="20260927180000 +0000" stop="20260927183000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S02 E11 — Beckenbauer
+Franz Beckenbauer tasted World Cup glory as both player and manager.</desc>
+    <episode-num>S02 E11</episode-num>
+    <icon src="https://iptv-epg.org/images/rXhMPoBx55dXstW1or1yNPvCjSIy4PBeNWMOw_bEBFMdFROUp12S5PybC4hY12t1cFuxxgMqkjINmBHhca947PUnGlVTpk0IhZgWItlZgz0"/>
+    <previously-shown/>
+    <title lang="en">Football's Greatest Stage</title>
+  </programme>
+  <programme start="20260927183000 +0000" stop="20260927203000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Germany vs. Greece
+League A, Group 2.</desc>
+    <icon src="https://iptv-epg.org/images/BNrBDfCPWHSCRMD30bdYPo1OJ1P5z1EFaSa-DTTtyRDYPJEVcTf9YMPCI5DOyt0ozAOPScisA6PpVCSeL9zVbaN3iKQQ8JBRqTcbQNtpgU8"/>
+    <title lang="en">UEFA Nations League Soccer</title>
+    <live/>
+  </programme>
+  <programme start="20260927203000 +0000" stop="20260927210000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S02 E09 — Modrić
+Luka Modrić evolved into Croatia's World Cup puppet master. He helped unfancied Croatia to the brink of World Cup success.</desc>
+    <episode-num>S02 E09</episode-num>
+    <icon src="https://iptv-epg.org/images/rXhMPoBx55dXstW1or1yNPvCjSIy4PBeNWMOw_bEBFMdFROUp12S5PybC4hY12t1cFuxxgMqkjINmBHhca947PUnGlVTpk0IhZgWItlZgz0"/>
+    <previously-shown/>
+    <title lang="en">Football's Greatest Stage</title>
+  </programme>
+  <programme start="20260927210000 +0000" stop="20260927213000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Mbappé
+Kylian Mbappé is the modern face of football's biggest stage. A World Cup winner as a teenager, then the scorer of a World Cup final hat-trick, Mbappé is French footballing royalty.</desc>
+    <icon src="https://iptv-epg.org/images/rXhMPoBx55dXstW1or1yNPvCjSIy4PBeNWMOw_bEBFMdFROUp12S5PybC4hY12t1cFuxxgMqkjINmBHhca947PUnGlVTpk0IhZgWItlZgz0"/>
+    <previously-shown/>
+    <title lang="en">Football's Greatest Stage</title>
+  </programme>
+  <programme start="20260927213000 +0000" stop="20260927220000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Lionel Messi
+Captaining Argentina to glory at the 2022 World Cup cemented Lionel Messi's status as the greatest footballer in history.</desc>
+    <icon src="https://iptv-epg.org/images/rXhMPoBx55dXstW1or1yNPvCjSIy4PBeNWMOw_bEBFMdFROUp12S5PybC4hY12t1cFuxxgMqkjINmBHhca947PUnGlVTpk0IhZgWItlZgz0"/>
+    <previously-shown/>
+    <title lang="en">Football's Greatest Stage</title>
+  </programme>
+  <programme start="20260927220000 +0000" stop="20260927225000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Motorcycle</category>
+    <category lang="en">Series</category>
+    <category>Sports</category>
+    <desc lang="en">Springfield Mile II
+Motorcycle action from the American Flat Track racing series.</desc>
+    <icon src="https://iptv-epg.org/images/mlUIz2mCxrEGzr2fNNIy_BsJOe3GYZ1Wtwg1DRq79SXlLfUlh1MSKvt0NJ8gL-u1updpGDfQDFwTcw6Co7RfRw_Qn0P_OJtSjnNsM--6epA"/>
+    <previously-shown/>
+    <title lang="en">American Flat Track</title>
+  </programme>
+  <programme start="20260927225000 +0000" stop="20260928005000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Haiti vs. Costa Rica
+From Sabina Park in Kingston, Kingston, Jamaica.</desc>
+    <icon src="https://iptv-epg.org/images/zjakrS3LdqKX9day1wHO3zBDAf3cT4jdsYfXUV1u306Wtfo15XR2iAFpNRfdVmH0pdmcwWOtQnIylGcG_bD2dgW5_i2ezPBL42CXMOvKjwk"/>
+    <title lang="en">CONCACAF Nations League Soccer</title>
+    <live/>
+  </programme>
   <programme start="20260928162333 +0000" stop="20260928184033 +0000" channel="Pluto TV Cine Acción">
     <title>Los tigres del tren</title>
     <episode-num system="original-air-date">20160101000000 +0000</episode-num>
