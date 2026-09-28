@@ -8,11 +8,11 @@
 148508,A MAS HD,https://ebyl.tmsimg.com/assets/s116157_ld_h15_ab.png
 18955,A&amp;E,https://ebyl.tmsimg.com/assets/s10035_ld_h15_ab.png
 87004,A&amp;E,https://ebyl.tmsimg.com/assets/s10035_ld_h15_ab.png
-138735,A&amp;E,https:sources/generic/generic_sources_h5.png
+138735,A&amp;E,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 159469,A&amp;E SOUTH,https://ebyl.tmsimg.com/assets/s10035_ld_h15_ab.png
 101373,A+,https://ebyl.tmsimg.com/assets/s116157_ld_h15_ab.png
 108082,ABC ESP HD,https://ebyl.tmsimg.com/assets/s10003_ld_h15_ac.png
-105654,ACUSTIK TV,https:sources/generic/generic_sources_h5.png
+105654,ACUSTIK TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 32279,ADN 40,https://ebyl.tmsimg.com/assets/GNLZZGG002BFC89.png
 15384,ADN Noticias,https://ebyl.tmsimg.com/assets/GNLZZGG002BFC89.png
 75278,ADN Noticias HD,https://ebyl.tmsimg.com/assets/GNLZZGG002BFC89.png
@@ -23,7 +23,7 @@
 148503,Adult Swim,https://ebyl.tmsimg.com/assets/s148503_ld_h15_aa.png
 108507,Afizzionados HD,https://ebyl.tmsimg.com/assets/s108506_ld_h15_ab.png
 108506,Afizzionados SD,https://ebyl.tmsimg.com/assets/s108506_ld_h15_ab.png
-47605,Aguascalientes TV,https:sources/generic/generic_sources_h5.png
+47605,Aguascalientes TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 111165,Al Jazeera,https://ebyl.tmsimg.com/assets/s49968_ld_h15_ac.png
 102458,Al Jazeera HD,https://ebyl.tmsimg.com/assets/s49968_ld_h15_ac.png
 215977,AMBIE,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
@@ -47,7 +47,7 @@
 87915,Aprende+,https://ebyl.tmsimg.com/assets/s87915_ld_h15_ab.png
 28452,Arirang,https://ebyl.tmsimg.com/assets/s28452_ld_h15_aa.png
 120581,Arirang,https://ebyl.tmsimg.com/assets/s28452_ld_h15_aa.png
-36250,ARTS,https:sources/generic/generic_sources_h5.png
+36250,ARTS,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 82808,Atrescine,https://ebyl.tmsimg.com/assets/s82808_ld_h15_aa.png
 111412,Atrescine,https://ebyl.tmsimg.com/assets/s82808_ld_h15_aa.png
 90898,Atreseries,https://ebyl.tmsimg.com/assets/s90917_ld_h15_ac.png
@@ -96,11 +96,11 @@
 184496,AYM Sports 5,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9MV.png
 184497,AYM Sports 6,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9ME.png
 105163,AyM Sports HD,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9JW.png
-183940,Azteca 1,https:sources/generic/generic_sources_h5.png
+183940,Azteca 1,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 16464,Azteca 7,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 114756,Azteca 7 HD,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 124672,Azteca 7 HD,https:sources/generic/generic_sources_h5.png
-103803,Azteca 13-Delay HD,https:sources/generic/generic_sources_h5.png
+103803,Azteca 13-Delay HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 56276,Azteca 24 HD,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 141773,Azteca Deportes,https://ebyl.tmsimg.com/assets/s141773_ld_h15_ab.png
 142411,Azteca Deportes,https://ebyl.tmsimg.com/assets/s141773_ld_h15_ab.png
@@ -108,8 +108,8 @@
 100599,Azteca Internacional,https://ebyl.tmsimg.com/assets/s79968_ld_h15_af.png
 46607,Azteca Uno,https://ebyl.tmsimg.com/assets/s46607_ld_h15_aa.png
 52628,Azteca uno,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
-123854,Azteca uno,https:sources/generic/generic_sources_h5.png
-124284,Azteca uno,https:sources/generic/generic_sources_h5.png
+123854,Azteca uno,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+124284,Azteca uno,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 102456,Azteca uno menos dos horas,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 100034,Azteca uno menos una hora,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 56036,Baby Tv,https://ebyl.tmsimg.com/assets/s56036_ld_h15_ab.png
@@ -129,19 +129,19 @@
 114666,Bloomberg Business Television HD 4K,https://ebyl.tmsimg.com/assets/s14755_ld_h15_ab.png
 84530,Bloomberg TV,https://ebyl.tmsimg.com/assets/s14755_ld_h15_ab.png
 75994,C5N,https://ebyl.tmsimg.com/assets/s75994_ld_h15_aa.png
-51343,Cablevision Especial Channel,https:sources/generic/generic_sources_h5.png
-50572,Cablevision Infocable,https:sources/generic/generic_sources_h5.png
-73337,Cablevision Mex WOPGTV,https:sources/generic/generic_sources_h5.png
-69242,CABLEVISION MEXICO INFORMATION HD,https:sources/generic/generic_sources_h5.png
-59826,Cablevision Mosaico Noticias,https:sources/generic/generic_sources_h5.png
-60226,Cablevision MX Cable HD,https:sources/generic/generic_sources_h5.png
+51343,Cablevision Especial Channel,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+50572,Cablevision Infocable,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+73337,Cablevision Mex WOPGTV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+69242,CABLEVISION MEXICO INFORMATION HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+59826,Cablevision Mosaico Noticias,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+60226,Cablevision MX Cable HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 111582,Cadena Trendy,https://ebyl.tmsimg.com/assets/s111582_ld_h15_aa.png
 80064,Cali TV,https://ebyl.tmsimg.com/assets/s80064_ld_h15_aa.png
 106728,Canal (á) HD,https://ebyl.tmsimg.com/assets/s18075_ld_h15_aa.png
 16463,Canal 5,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 120638,Canal 6,https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
-124247,Canal 6,https:sources/generic/generic_sources_h5.png
-47604,Canal 7 Cancun,https:sources/generic/generic_sources_h5.png
+124247,Canal 6,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+47604,Canal 7 Cancun,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 110075,Canal 9,https://ebyl.tmsimg.com/assets/s110075_ld_h15_aa.png
 55180,Canal 13 Colombia,https://ebyl.tmsimg.com/assets/s55180_ld_h15_ah.png
 90518,Canal 14,https://ebyl.tmsimg.com/assets/GNLZZGG0023XQ01.png
@@ -157,12 +157,12 @@
 103103,Canal 26,https://ebyl.tmsimg.com/assets/s103103_ld_h15_ab.png
 105339,Canal 26,https://ebyl.tmsimg.com/assets/s103103_ld_h15_ab.png
 97155,Canal 44 (XHUDG-TDT),https://ebyl.tmsimg.com/assets/s116227_ld_h15_aa.png
-153920,Canal Catorce,https:sources/generic/generic_sources_h5.png
+153920,Canal Catorce,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 20548,Canal del Congreso,https://ebyl.tmsimg.com/assets/s20548_ld_h15_aa.png
 97369,Canal del Congreso HD,https://ebyl.tmsimg.com/assets/s80754_ld_h15_aa.png
 81622,Canal DHE,https://ebyl.tmsimg.com/assets/s81622_ld_h15_aa.png
 81623,Canal DHE HD,https://ebyl.tmsimg.com/assets/s81623_ld_h15_aa.png
-47425,Canal Local,https:sources/generic/generic_sources_h5.png
+47425,Canal Local,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 16466,Canal Nueve,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 59528,Canal Nueve,https://ebyl.tmsimg.com/assets/s59528_ld_h15_aa.png
 15178,Canal Once,https://ebyl.tmsimg.com/assets/GNLZZGG003NY4FL.png
@@ -186,7 +186,7 @@
 110816,Cartoonito,https://ebyl.tmsimg.com/assets/s26089_ld_h15_ac.png
 10098,CBS Corporation,https://ebyl.tmsimg.com/assets/s10098_ld_h15_aa.png
 108080,CBS ESP HD,https://ebyl.tmsimg.com/assets/s10098_ld_h15_aa.png
-93334,CCTV,https:sources/generic/generic_sources_h5.png
+93334,CCTV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 104529,CGTN,https://ebyl.tmsimg.com/assets/s104529_ld_h9_ac.png
 44479,CGTN Español,https://ebyl.tmsimg.com/assets/s44479_ld_h15_ab.png
 145043,Cindie TV,https://ebyl.tmsimg.com/assets/s145043_ld_h15_ab.png
@@ -272,13 +272,13 @@
 46608,Discovery Turbo,https://ebyl.tmsimg.com/assets/s46608_ld_h15_aa.png
 107611,Discovery Turbo,https://ebyl.tmsimg.com/assets/s46608_ld_h15_aa.png
 66488,Discovery World,https://ebyl.tmsimg.com/assets/s66488_ld_h15_aa.png
-214471,Dish 150,https:sources/generic/generic_sources_h5.png
-214472,Dish 300,https:sources/generic/generic_sources_h5.png
-214473,Dish 400,https:sources/generic/generic_sources_h5.png
-214474,Dish 500,https:sources/generic/generic_sources_h5.png
-214475,Dish 700,https:sources/generic/generic_sources_h5.png
-214476,Dish 800,https:sources/generic/generic_sources_h5.png
-214477,Dish 900,https:sources/generic/generic_sources_h5.png
+214471,Dish 150,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+214472,Dish 300,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+214473,Dish 400,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+214474,Dish 500,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+214475,Dish 700,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+214476,Dish 800,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+214477,Dish 900,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 19234,Disney Channel,https://ebyl.tmsimg.com/assets/s19234_ld_h15_ab.png
 79589,Disney Channel,https://ebyl.tmsimg.com/assets/s79589_ld_h15_aa.png
 107644,Disney Channel,https://ebyl.tmsimg.com/assets/s41223_ld_h15_aa.png
@@ -299,7 +299,7 @@
 123193,Dreamworks,https://ebyl.tmsimg.com/assets/s123192_ld_h15_aa.png
 123872,Dreamworks,https://ebyl.tmsimg.com/assets/s123192_ld_h15_aa.png
 123192,Dreamworks HD,https://ebyl.tmsimg.com/assets/s123192_ld_h15_aa.png
-105771,DuckTv HD (Spanish),https:sources/generic/generic_sources_h5.png
+105771,DuckTv HD (Spanish),https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 102415,Duplicate XEIMT TV Metropolitan (Canal 22),https://ebyl.tmsimg.com/assets/s116168_ld_h15_aa.png
 102405,Duplicate XEIPN-TV Canal 11 (Once TV),https://ebyl.tmsimg.com/assets/GNLZZGG003NY4FL.png
 97020,Duplicate XEQ,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
@@ -311,7 +311,7 @@
 101257,E! Entertainment Television,https://ebyl.tmsimg.com/assets/s30259_ld_h15_aa.png
 30259,E! Entertainment TV,https://ebyl.tmsimg.com/assets/s30259_ld_h15_aa.png
 101734,E! Entertainment TV,https://ebyl.tmsimg.com/assets/s30259_ld_h15_aa.png
-184598,Edye,https:sources/generic/generic_sources_h5.png
+184598,Edye,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 63328,Efekto Tv,https://ebyl.tmsimg.com/assets/s63328_ld_h15_ac.png
 87311,El Financiero,https://ebyl.tmsimg.com/assets/s87311_ld_h15_ab.png
 95630,El Financiero - Bloomberg TV HD,https://ebyl.tmsimg.com/assets/s95630_ld_h15_ad.png
@@ -346,7 +346,7 @@
 106781,ESPN Premium Argentina (HD),https://ebyl.tmsimg.com/assets/s106781_ld_h15_ad.png
 79049,ESPN Tres North,https://ebyl.tmsimg.com/assets/s73833_ld_h15_aa.png
 73834,ESPN3,https://ebyl.tmsimg.com/assets/s73834_ld_h15_ab.png
-159551,ESPN3,https:sources/generic/generic_sources_h5.png
+159551,ESPN3,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 33527,ETBN Enlace USA,https://ebyl.tmsimg.com/assets/s33527_ld_h15_aa.png
 16574,Eurochannel,https://ebyl.tmsimg.com/assets/s16574_ld_h15_aa.png
 40704,euronews,https://ebyl.tmsimg.com/assets/s40704_ld_h15_aa.png
@@ -376,14 +376,14 @@
 115731,Foro TV,https://ebyl.tmsimg.com/assets/s66635_ld_h15_ac.png
 72313,Foro TV HD,https://ebyl.tmsimg.com/assets/s66635_ld_h15_ac.png
 155368,Fox,https://ebyl.tmsimg.com/assets/GNLZZGG0027PYSD.png
-101732,Fox Life,https:sources/generic/generic_sources_h5.png
+101732,Fox Life,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 110959,Fox News,https://ebyl.tmsimg.com/assets/s110959_ld_h15_aa.png
 16374,Fox News Channel,https://ebyl.tmsimg.com/assets/s16374_ld_h15_ab.png
 46163,Fox News Channel,https://ebyl.tmsimg.com/assets/s46163_ld_h15_aa.png
 60179,Fox News Channel HD,https://ebyl.tmsimg.com/assets/s60179_ld_h15_ab.png
 41677,Fox Sports,https://ebyl.tmsimg.com/assets/s41677_ld_h15_ac.png
 61704,Fox Sports,https://ebyl.tmsimg.com/assets/s41677_ld_h15_ac.png
-68952,FOX SPORTS,https:sources/generic/generic_sources_h5.png
+68952,FOX SPORTS,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 194676,Fox Sports,https:sources/generic/generic_sources_h5.png
 30262,FOX Sports (Cono Sur Argentina),https://ebyl.tmsimg.com/assets/s41677_ld_h15_ac.png
 66365,Fox Sports 2,https://ebyl.tmsimg.com/assets/s66365_ld_h15_ab.png
@@ -419,8 +419,8 @@
 90315,Garage TV HD,https://ebyl.tmsimg.com/assets/GNLZZGG0034DN3N.png
 59836,GIGABITV,https://ebyl.tmsimg.com/assets/s59836_ld_h9_aa.png
 84094,GIGABITV HD,https://ebyl.tmsimg.com/assets/s59836_ld_h9_aa.png
-66136,Gigacable Aguascalientes TV,https:sources/generic/generic_sources_h5.png
-62009,Gigacable Canal Tecnico,https:sources/generic/generic_sources_h5.png
+66136,Gigacable Aguascalientes TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+62009,Gigacable Canal Tecnico,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 118698,Ginx TV International,https://ebyl.tmsimg.com/assets/s118698_ld_h9_ab.png
 125039,Ginx TV International,https://ebyl.tmsimg.com/assets/s118698_ld_h9_ab.png
 24459,Glitz,https://ebyl.tmsimg.com/assets/s61514_ld_h15_aa.png
@@ -495,8 +495,8 @@
 192102,Investigation Discovery HD,https://ebyl.tmsimg.com/assets/s65342_ld_h15_ac.png
 60799,ISAT 21 Mexico,https://ebyl.tmsimg.com/assets/s16497_ld_h15_aa.png
 59724,izzi,https://ebyl.tmsimg.com/assets/s59724_ld_h9_aa.png
-98718,izzi HD,https:sources/generic/generic_sources_h5.png
-109610,IZZI2,https:sources/generic/generic_sources_h5.png
+98718,izzi HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+109610,IZZI2,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 124018,JAJAJA,https://ebyl.tmsimg.com/assets/s124018_ld_h15_ab.png
 100795,Jesus Christ Network,https://ebyl.tmsimg.com/assets/s100795_ld_h6_aa.png
 62629,JUICY Spanish,https://ebyl.tmsimg.com/assets/s58684_ld_h15_aa.png
@@ -513,7 +513,7 @@
 114644,Latino Urbano,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 90682,Lifetime,https://ebyl.tmsimg.com/assets/s89197_ld_h15_ab.png
 106095,Lifetime,https://ebyl.tmsimg.com/assets/s89197_ld_h15_ab.png
-105818,LIGA MEXICANA DEL PACIFICO,https:sources/generic/generic_sources_h5.png
+105818,LIGA MEXICANA DEL PACIFICO,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 101252,LN+,https://ebyl.tmsimg.com/assets/s101238_ld_h15_aa.png
 101238,LN+ HD,https://ebyl.tmsimg.com/assets/s101238_ld_h15_aa.png
 12034,Maria Visión,https://ebyl.tmsimg.com/assets/s12034_ld_h15_aa.png
@@ -536,7 +536,7 @@
 89812,MLB Extra Innings HD 7,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
 89813,MLB Extra Innings HD 8,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
 89814,MLB Extra Innings HD 9,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
-49261,Monte Maria TV,https:sources/generic/generic_sources_h5.png
+49261,Monte Maria TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 119829,Moto ADV,https://ebyl.tmsimg.com/assets/s119829_ld_h9_aa.png
 12712,MTV,https://ebyl.tmsimg.com/assets/s12712_ld_h15_ab.png
 84432,MTV,https://ebyl.tmsimg.com/assets/s12712_ld_h15_ab.png
@@ -559,7 +559,7 @@
 101361,MX Nuestro Cine,https://ebyl.tmsimg.com/assets/s101361_ld_h15_aa.png
 16462,N+ Foro,https://ebyl.tmsimg.com/assets/s66635_ld_h15_ac.png
 105877,Nat Geo Kids,https://ebyl.tmsimg.com/assets/s104524_ld_h15_aa.png
-105878,Nat Geo Kids HD,https:sources/generic/generic_sources_h5.png
+105878,Nat Geo Kids HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 25068,National Geographic,https://ebyl.tmsimg.com/assets/s25068_ld_h15_ab.png
 88533,National Geographic,https://ebyl.tmsimg.com/assets/s25068_ld_h15_ab.png
 90918,National Geographic,https://ebyl.tmsimg.com/assets/s25068_ld_h15_ab.png
@@ -571,7 +571,7 @@
 34710,NFL Network,https://ebyl.tmsimg.com/assets/s34710_ld_h15_aa.png
 45399,NFL Network HD,https://ebyl.tmsimg.com/assets/s45399_ld_h15_aa.png
 19733,NHK TV World Premium,https://ebyl.tmsimg.com/assets/s19733_ld_h9_ab.png
-146653,NHK World Premium HD,https:sources/generic/generic_sources_h5.png
+146653,NHK World Premium HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 59155,NHK World TV,https://ebyl.tmsimg.com/assets/s59155_ld_h15_aa.png
 16707,Nick,https://ebyl.tmsimg.com/assets/s16707_ld_h15_ac.png
 101208,Nick,https://ebyl.tmsimg.com/assets/s101208_ld_h15_ab.png
@@ -586,7 +586,7 @@
 114360,Nu9ve,https://ebyl.tmsimg.com/assets/s59528_ld_h15_aa.png
 36139,Once,https://ebyl.tmsimg.com/assets/s116166_ld_h15_aa.png
 105162,Once,https://ebyl.tmsimg.com/assets/GNLZZGG003NY4FL.png
-179586,Once Niñas y Niños,https:sources/generic/generic_sources_h5.png
+179586,Once Niñas y Niños,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 14776,Outdoor Channel,https://ebyl.tmsimg.com/assets/s14776_ld_h15_ab.png
 124934,Outdoor Channel,https://ebyl.tmsimg.com/assets/s14776_ld_h15_ab.png
 46737,Outdoor Channel HD,https://ebyl.tmsimg.com/assets/s46737_ld_h15_ab.png
@@ -599,17 +599,17 @@
 106215,Paramount Network,https://ebyl.tmsimg.com/assets/s106215_ld_h15_aa.png
 71621,Pasiones TV Latin America,https://ebyl.tmsimg.com/assets/s71621_ld_h15_aa.png
 91978,Pasiones TV Latin America HD,https://ebyl.tmsimg.com/assets/s71621_ld_h15_aa.png
-214478,PBTV,https:sources/generic/generic_sources_h5.png
+214478,PBTV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 73704,Penthouse,https://ebyl.tmsimg.com/assets/s73704_ld_h15_aa.png
-80466,Planeta Fútbol 1 HD,https:sources/generic/generic_sources_h5.png
+80466,Planeta Fútbol 1 HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 54335,Playboy,https://ebyl.tmsimg.com/assets/s54335_ld_h15_aa.png
 39612,Playboy Latin Am Eng,https://ebyl.tmsimg.com/assets/s16788_ld_h15_aa.png
 70673,Playboy Latin America HD,https://ebyl.tmsimg.com/assets/s70673_ld_h15_aa.png
 16788,Playboy TV Latin America,https://ebyl.tmsimg.com/assets/s16788_ld_h15_aa.png
 168198,Plim Plim,https://ebyl.tmsimg.com/assets/s168198_ld_h15_aa.png
 50577,Plural TV,https://ebyl.tmsimg.com/assets/GNLZZGG002NX8RT.png
-37021,PPE BARKER,https:sources/generic/generic_sources_h5.png
-24102,PPE-1 Cablevision PPV,https:sources/generic/generic_sources_h5.png
+37021,PPE BARKER,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+24102,PPE-1 Cablevision PPV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 107338,Presumiendo México Televisión,https://ebyl.tmsimg.com/assets/s107338_ld_h15_aa.png
 72625,PX Sports,https://ebyl.tmsimg.com/assets/s72625_ld_h15_ab.png
 84072,PX Sports HD,https://ebyl.tmsimg.com/assets/s72625_ld_h15_ab.png
@@ -622,14 +622,14 @@
 17250,Rai Italia,https://ebyl.tmsimg.com/assets/s75785_ld_h15_aa.png
 109462,Rai Italia HD,https://ebyl.tmsimg.com/assets/s75785_ld_h15_aa.png
 102110,Rai News 24 HD,https://ebyl.tmsimg.com/assets/s102110_ld_h15_ac.png
-46481,RCG Acuna Canal 36,https:sources/generic/generic_sources_h5.png
+46481,RCG Acuna Canal 36,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 109784,Real Madrid TV,https://ebyl.tmsimg.com/assets/s109784_ld_h15_ab.png
 109786,Real Madrid TV HD,https://ebyl.tmsimg.com/assets/s109784_ld_h15_ab.png
 50798,Rede Globo INTL 2,https://ebyl.tmsimg.com/assets/s50798_ll_h15_cc.png
 97340,Rede Globo TV Internacional HD,https://ebyl.tmsimg.com/assets/s97340_ld_h15_aa.png
 39708,Rock Alternativo,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
 138947,Romance Channel,https://ebyl.tmsimg.com/assets/s138947_ld_h15_aa.png
-142035,Romance Channel SD,https:sources/generic/generic_sources_h5.png
+142035,Romance Channel SD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 69367,RT en español,https://ebyl.tmsimg.com/assets/s69367_ld_h6_aa.png
 72143,SeXtreme,https://ebyl.tmsimg.com/assets/s72143_ld_h15_aa.png
 75579,SeXtreme English,https://ebyl.tmsimg.com/assets/s72143_ld_h15_aa.png
@@ -638,15 +638,15 @@
 67454,Shorts TV,https://ebyl.tmsimg.com/assets/s67454_ld_h15_aa.png
 79893,Show Business TV,https://ebyl.tmsimg.com/assets/s79893_ld_h9_aa.png
 32207,Siraj TV,https://ebyl.tmsimg.com/assets/s32207_ld_h9_ab.png
-47418,SKY Local News,https:sources/generic/generic_sources_h5.png
+47418,SKY Local News,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 170841,Sky News International Americas,https://ebyl.tmsimg.com/assets/s170841_ld_h15_aa.png
 50367,SKY One Mexico,https://ebyl.tmsimg.com/assets/s50367_ld_h9_aa.png
-47421,Sky Portal Interactivo,https:sources/generic/generic_sources_h5.png
-47423,SKY Special Weekends,https:sources/generic/generic_sources_h5.png
+47421,Sky Portal Interactivo,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+47423,SKY Special Weekends,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 160688,Sky Sports 1,https:sources/generic/generic_sources_h5.png
 160689,Sky Sports 16,https:sources/generic/generic_sources_h5.png
-160690,Sky Sports 21,https:sources/generic/generic_sources_h5.png
-160691,Sky Sports 24,https:sources/generic/generic_sources_h5.png
+160690,Sky Sports 21,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+160691,Sky Sports 24,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 123608,Sony Movies,https://ebyl.tmsimg.com/assets/s124605_ld_h15_aa.png
 123690,Sony Movies,https://ebyl.tmsimg.com/assets/s124605_ld_h15_aa.png
 123692,Sony Movies,https://ebyl.tmsimg.com/assets/s124605_ld_h15_aa.png
@@ -750,7 +750,7 @@
 77022,Stingray Viejitas pero Buenísimas,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 76988,Stingray Viva Mexico,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 114661,Stingray Y2K,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-214480,STREM,https:sources/generic/generic_sources_h5.png
+214480,STREM,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 215978,STREY,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 29017,Studio Universal,https://ebyl.tmsimg.com/assets/s29017_ld_h15_aa.png
 62672,Studio Universal,https://ebyl.tmsimg.com/assets/s29017_ld_h15_aa.png
@@ -770,7 +770,7 @@
 101442,Telemundo Internacional,https://ebyl.tmsimg.com/assets/s102862_ld_h15_aa.png
 102862,Telemundo Internacional,https://ebyl.tmsimg.com/assets/s102862_ld_h15_aa.png
 32749,Teleritmo,https://ebyl.tmsimg.com/assets/s32749_ld_h15_ab.png
-49277,Telesecundaria,https:sources/generic/generic_sources_h5.png
+49277,Telesecundaria,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 45710,Telesecundaria 3 (TS3),https://ebyl.tmsimg.com/assets/s45710_ld_h15_ab.png
 61033,The Golf Channel Latinoamerica,https://ebyl.tmsimg.com/assets/s61033_ld_h15_ab.png
 101736,The Golf Channel Latinoamerica HD,https://ebyl.tmsimg.com/assets/s61033_ld_h15_ab.png
@@ -801,15 +801,15 @@
 77068,TUDN,https://ebyl.tmsimg.com/assets/s89113_ld_h15_ac.png
 89113,TUDN,https://ebyl.tmsimg.com/assets/s89113_ld_h15_ac.png
 16046,TV Chile,https://ebyl.tmsimg.com/assets/s16046_ld_h15_ab.png
-47558,TV Hidalgo,https:sources/generic/generic_sources_h5.png
-47627,TV Lobos,https:sources/generic/generic_sources_h5.png
+47558,TV Hidalgo,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+47627,TV Lobos,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 28440,TV Mexiquense,https://ebyl.tmsimg.com/assets/s28440_ld_h9_aa.png
 92422,TV Mexiquense HD,https://ebyl.tmsimg.com/assets/s28440_ld_h9_aa.png
 186893,TV Migrante,https://ebyl.tmsimg.com/assets/GNLZZGG00248E43.png
 186894,TV Migrante,https://ebyl.tmsimg.com/assets/GNLZZGG00248E43.png
-47664,TV Tabasquena,https:sources/generic/generic_sources_h5.png
+47664,TV Tabasquena,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 114312,TV UNAM,https://ebyl.tmsimg.com/assets/s116169_ld_h15_aa.png
-150613,TV Unam,https:sources/generic/generic_sources_h5.png
+150613,TV Unam,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 16422,TV5 Latin America,https://ebyl.tmsimg.com/assets/s16422_ld_h15_aa.png
 95641,TV5 Monde Europe HD,https://ebyl.tmsimg.com/assets/GNLZZGG002M09E0.png
 60855,TVC Delay Feed,https://ebyl.tmsimg.com/assets/s16292_ld_h9_ab.png
@@ -853,7 +853,7 @@
 148545,USA Network,https://ebyl.tmsimg.com/assets/s56727_ld_h15_ad.png
 99240,Ve Plus,https://ebyl.tmsimg.com/assets/s99240_ld_h15_aa.png
 16498,Venus,https://ebyl.tmsimg.com/assets/s16498_ld_h15_aa.png
-214479,VENUS,https:sources/generic/generic_sources_h5.png
+214479,VENUS,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 73140,Venus Latin America (ENGLISH),https://ebyl.tmsimg.com/assets/s16498_ld_h15_aa.png
 42567,VH1,https://ebyl.tmsimg.com/assets/s42567_ld_h15_aa.png
 88942,VH1,https://ebyl.tmsimg.com/assets/s42567_ld_h15_aa.png
@@ -874,7 +874,7 @@
 91847,XEDK-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 26130,XEFB,https://ebyl.tmsimg.com/assets/s26130_ld_h15_aa.png
 91729,XEFB-TDT,https://ebyl.tmsimg.com/assets/s26130_ld_h15_aa.png
-12024,XEFE Canal 2 Nuevo Laredo,https:sources/generic/generic_sources_h5.png
+12024,XEFE Canal 2 Nuevo Laredo,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 15232,XEIMT TV Metropolitan (Canal 22),https://ebyl.tmsimg.com/assets/s116168_ld_h15_aa.png
 102008,XEIMT-DT2 (SD Feed),https://ebyl.tmsimg.com/assets/s116168_ld_h15_aa.png
 87620,XEIPN-TDT,https://ebyl.tmsimg.com/assets/GNLZZGG003NY4FL.png
@@ -891,14 +891,14 @@
 100137,XEW-TV Canal 2 HD (Duplicate -2 Delay),https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 36266,XEW1,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 70110,XEW2 HD,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
-47440,XEWH-TDT,https:sources/generic/generic_sources_h5.png
+47440,XEWH-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91851,XEWO-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 69701,XEWT-TDT,https://ebyl.tmsimg.com/assets/s12028_ld_h15_aa.png
 91864,XEX-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 91660,XEZ-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 96764,XHA-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 60578,XHAB-TDT,https://ebyl.tmsimg.com/assets/s26130_ld_h15_aa.png
-109268,XHABC-TDT,https:sources/generic/generic_sources_h5.png
+109268,XHABC-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 96595,XHACC-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96596,XHACZ-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 36570,XHAE 05,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
@@ -908,9 +908,9 @@
 91657,XHAGU-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 96729,XHAH-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 96730,XHAJ-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
-36267,XHAK-TDT,https:sources/generic/generic_sources_h5.png
+36267,XHAK-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 96605,XHAL-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
-92093,XHAMO-TDT,https:sources/generic/generic_sources_h5.png
+92093,XHAMO-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 36575,XHAN-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 96701,XHAO-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 96606,XHAP-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
@@ -929,7 +929,7 @@
 91671,XHBC-TDT,https://ebyl.tmsimg.com/assets/s26130_ld_h15_aa.png
 96777,XHBD-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 96697,XHBE-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
-91828,XHBG-TDT,https:sources/generic/generic_sources_h5.png
+91828,XHBG-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91687,XHBJ-TDT,https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
 96944,XHBK-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 91673,XHBM-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
@@ -942,12 +942,12 @@
 91837,XHBUR-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96780,XHBX-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 36586,XHBZ-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
-48236,XHBZC-TDT,https:sources/generic/generic_sources_h5.png
+48236,XHBZC-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 96621,XHCAM-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
-96942,XHCAN-TDT,https:sources/generic/generic_sources_h5.png
+96942,XHCAN-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91829,XHCBM-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 16477,XHCC-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
-48187,XHCCA-TDT,https:sources/generic/generic_sources_h5.png
+48187,XHCCA-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 96566,XHCCB-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 91820,XHCCG-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96749,XHCCN-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
@@ -974,10 +974,10 @@
 104727,XHCJH-TDT2,https://ebyl.tmsimg.com/assets/GNLZZGG002BFC89.png
 91807,XHCK-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 36704,XHCKW-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
-91819,XHCL-TDT,https:sources/generic/generic_sources_h5.png
+91819,XHCL-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91733,XHCLP-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96731,XHCLV-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
-91700,XHCMO-TDT,https:sources/generic/generic_sources_h5.png
+91700,XHCMO-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91703,XHCNL-TDT,https://ebyl.tmsimg.com/assets/s26130_ld_h15_aa.png
 96575,XHCOC-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 91745,XHCOL-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
@@ -1003,7 +1003,7 @@
 120886,XHCTMY-TDT,https://ebyl.tmsimg.com/assets/s101096_ld_h15_aa.png
 120982,XHCTMZ-TDT,https://ebyl.tmsimg.com/assets/s101096_ld_h15_aa.png
 110575,XHCTNL-TDT,https://ebyl.tmsimg.com/assets/s101096_ld_h15_aa.png
-118085,XHCTNL-TDT4,https:sources/generic/generic_sources_h5.png
+118085,XHCTNL-TDT4,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 108118,XHCTRM-TDT,https://ebyl.tmsimg.com/assets/s101096_ld_h15_aa.png
 108119,XHCTRM-TDT4,https://ebyl.tmsimg.com/assets/s101096_ld_h15_aa.png
 107888,XHCTTI-TDT,https://ebyl.tmsimg.com/assets/s101096_ld_h15_aa.png
@@ -1037,7 +1037,7 @@
 65714,XHDTV-TDT,https://ebyl.tmsimg.com/assets/s61719_ld_h15_ab.png
 96647,XHDU-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96580,XHDUH-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
-96703,XHDY-TDT,https:sources/generic/generic_sources_h5.png
+96703,XHDY-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 96699,XHDZ-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 36722,XHEBC-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 96651,XHECA-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
@@ -1099,20 +1099,20 @@
 115498,XHIJ-TDT4,https://ebyl.tmsimg.com/assets/s91575_ld_h15_aa.png
 74616,XHILA-TDT,https://ebyl.tmsimg.com/assets/s74616_ld_h9_aa.png
 100026,XHIMT (2 Hour Delay),https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
-124954,XHIMT (Azteca 7),https:sources/generic/generic_sources_h5.png
+124954,XHIMT (Azteca 7),https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 85572,XHIMT-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96744,XHINC-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 91808,XHIR-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 96673,XHIT-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 96779,XHIV-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
-48257,XHIXM-TDT,https:sources/generic/generic_sources_h5.png
+48257,XHIXM-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 96648,XHIXZ-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 91866,XHJAL-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 100094,XHJAL-TDT2,https://ebyl.tmsimg.com/assets/GNLZZGG002BFC89.png
 96589,XHJCC-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 91692,XHJCH-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 67403,XHJCI-TDT,https://ebyl.tmsimg.com/assets/s26130_ld_h15_aa.png
-93253,XHJCI-TDT2,https:sources/generic/generic_sources_h5.png
+93253,XHJCI-TDT2,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91658,XHJCM-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 68084,XHJK-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 88217,XHJK-TDT2,https://ebyl.tmsimg.com/assets/GNLZZGG002BFC89.png
@@ -1123,10 +1123,10 @@
 96775,XHKC-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 91664,XHKD-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 91761,XHKF-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
-42606,XHKG-TDT,https:sources/generic/generic_sources_h5.png
+42606,XHKG-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91835,XHKW-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 96773,XHKYU-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
-91822,XHL-TDT,https:sources/generic/generic_sources_h5.png
+91822,XHL-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91622,XHLAR-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 79545,XHLAT-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 107977,XHLAT-TDT2,https://ebyl.tmsimg.com/assets/s116157_ld_h15_ab.png
@@ -1150,13 +1150,13 @@
 96700,XHMCH-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 91684,XHMEE-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 96759,XHMEN-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
-48424,XHMET-TDT,https:sources/generic/generic_sources_h5.png
+48424,XHMET-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91685,XHMEX-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 96760,XHMEY-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96848,XHMIS-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96737,XHMLA-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 91741,XHMNL-TDT,https://ebyl.tmsimg.com/assets/s116228_ld_h15_ab.png
-48116,XHMOR-TDT,https:sources/generic/generic_sources_h5.png
+48116,XHMOR-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91834,XHMOW-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 91749,XHMOY-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 96849,XHMSI-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
@@ -1166,11 +1166,11 @@
 101194,XHNAT-TDT2,https://ebyl.tmsimg.com/assets/s61719_ld_h15_ab.png
 101195,XHNAT-TDT3,https://ebyl.tmsimg.com/assets/s32749_ld_h15_ab.png
 91774,XHNCI-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
-96824,XHND-TDT,https:sources/generic/generic_sources_h5.png
+96824,XHND-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 44332,XHNOA Canal 22,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96609,XHNOA-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 109964,XHNON-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
-96610,XHNSS-TDT,https:sources/generic/generic_sources_h5.png
+96610,XHNSS-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91737,XHO-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 91738,XHOAH-TDT,https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
 96678,XHOMC-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
@@ -1180,7 +1180,7 @@
 120980,XHOW-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 96741,XHOXX-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 91868,XHP-TDT,https://ebyl.tmsimg.com/assets/s28440_ld_h9_aa.png
-47672,XHPAH-TDT,https:sources/generic/generic_sources_h5.png
+47672,XHPAH-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 96594,XHPAP-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 96581,XHPBC-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 120887,XHPBMY-TDT,https://ebyl.tmsimg.com/assets/s116170_ld_h15_aa.png
@@ -1195,14 +1195,14 @@
 96717,XHPSO-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 91861,XHPTP-TDT,https://ebyl.tmsimg.com/assets/s28440_ld_h9_aa.png
 120549,XHPTP-TDT2,https://ebyl.tmsimg.com/assets/s28440_ld_h9_aa.png
-36650,XHPUE 26,https:sources/generic/generic_sources_h5.png
+36650,XHPUE 26,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91826,XHPUR-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 96783,XHPVC-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 96662,XHPVJ-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96821,XHQ-TDT,https://ebyl.tmsimg.com/assets/s96947_ld_h15_aa.png
 36792,XHQCZ,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 91750,XHQCZ-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
-131267,XHQMGU-TDT,https:sources/generic/generic_sources_h5.png
+131267,XHQMGU-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 96747,XHQRO-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 91661,XHQUE-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 91662,XHQUR-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
@@ -1211,14 +1211,14 @@
 47208,XHRCS-TDT,https://ebyl.tmsimg.com/assets/s15036_ld_h9_aa.png
 81342,XHREY-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 102813,XHREY-TDT2,https://ebyl.tmsimg.com/assets/GNLZZGG002BFC89.png
-16459,XHS-TDT,https:sources/generic/generic_sources_h5.png
+16459,XHS-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 96704,XHSCC-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 96743,XHSCO-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 91865,XHSFJ-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96619,XHSJC-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 91746,XHSLA-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 91748,XHSLP-TDT,https://ebyl.tmsimg.com/assets/GNLZZGG003NY4FL.png
-91716,XHSLS-TDT,https:sources/generic/generic_sources_h5.png
+91716,XHSLS-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91715,XHSLT-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 18033,XHSLV-TV Canal 7,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 91782,XHSMT-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
@@ -1226,11 +1226,11 @@
 96584,XHSPC-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 87914,XHSPR-TDT,https://ebyl.tmsimg.com/assets/GNLZZGG0023XQ01.png
 101606,XHSPR-TDT2,https://ebyl.tmsimg.com/assets/s116169_ld_h15_aa.png
-131255,XHSPRCC-TDT,https:sources/generic/generic_sources_h5.png
+131255,XHSPRCC-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 120889,XHSPRM-TDT2,https://ebyl.tmsimg.com/assets/s116169_ld_h15_aa.png
 120888,XHSPRMT-TDT,https://ebyl.tmsimg.com/assets/GNLZZGG0023XQ01.png
 131260,XHSPROS-TDT4,https://ebyl.tmsimg.com/assets/s87915_ld_h15_ab.png
-47537,XHSTA-TDT,https:sources/generic/generic_sources_h5.png
+47537,XHSTA-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 96763,XHSTC-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 96756,XHSTE-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96757,XHSTV-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
@@ -1245,7 +1245,7 @@
 109817,XHTDMX-TDT,https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
 110436,XHTDMX-TDT (SD Feed),https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
 109855,XHTDMX-TDT2,https://ebyl.tmsimg.com/assets/s61719_ld_h15_ab.png
-109856,XHTDMX-TDT3,https:sources/generic/generic_sources_h5.png
+109856,XHTDMX-TDT3,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91783,XHTEM-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 96680,XHTEN-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 96714,XHTFL-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
@@ -1256,12 +1256,12 @@
 108058,XHTIT-TDT2,https://ebyl.tmsimg.com/assets/s116157_ld_h15_ab.png
 86764,XHTJB-TDT,https://ebyl.tmsimg.com/assets/GNLZZGG003NY4FL.png
 96636,XHTK-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
-48439,XHTLX-TDT,https:sources/generic/generic_sources_h5.png
+48439,XHTLX-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91862,XHTM-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
-117196,XHTMCH-TDT,https:sources/generic/generic_sources_h5.png
+117196,XHTMCH-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91740,XHTOB-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
-96612,XHTOE-TDT,https:sources/generic/generic_sources_h5.png
-48261,XHTOH-TDT,https:sources/generic/generic_sources_h5.png
+96612,XHTOE-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+48261,XHTOH-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91858,XHTOK-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 91840,XHTOL-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 96734,XHTON-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
@@ -1283,7 +1283,7 @@
 48293,XHUNAM,https://ebyl.tmsimg.com/assets/s116169_ld_h15_aa.png
 91791,XHUNAM-TDT,https://ebyl.tmsimg.com/assets/s116169_ld_h15_aa.png
 91702,XHURT-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
-96345,XHUS-TDT,https:sources/generic/generic_sources_h5.png
+96345,XHUS-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 36606,XHUT 13,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 96774,XHVAD-TDT,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 91792,XHVEL-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
@@ -1301,7 +1301,7 @@
 91751,XHWX-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 91754,XHX-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 91839,XHXEM-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
-96762,XHY-TDT,https:sources/generic/generic_sources_h5.png
+96762,XHY-TDT,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 91663,XHZ-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 91705,XHZAM-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 91691,XHZAT-TDT,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
