@@ -208,6 +208,7 @@ FoxSports3.ar,FOX SPORTS 3 AR,https://images.open-epg.com/16782313.png
 0415,ESPN 5 CL,https://i.ibb.co/ynRhShH9/0415.jpg
 0416,ESPN 6 CL,https://i.ibb.co/jvYjkKm1/0416.jpg
 0417,ESPN 7 CL,https://i.ibb.co/mFGmjNC8/0417.jpg
+0431,DSPORTS CO,https://i.ibb.co/xK8kgbqd/0431.jpg
 UNIVERSO.us,Universo,https://iptv-epg.org/logos/USA/UNIVERSO.us.png
 Telemundo.us,Telemundo East,https://iptv-epg.org/logos/USA/Telemundo.us.png
 TelemundoWest.us,Telemundo West,https://iptv-epg.org/logos/USA/TelemundoWest.us.png
