@@ -1,562 +1,563 @@
 # Fuente: https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml.gz
-0000,Sin información disponible,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0000.jpg
-0001,Programación Variada,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0001.jpg
-0002,PPV Eventos,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0002.jpg
-0101,Telecanal,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0101.jpg
-0102,La Red,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0102.jpg
-0103,TV Más,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0103.jpg
-0104,TVN,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0104.jpg
-0105,Mega,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0105.jpg
-0106,Chilevisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0106.jpg
-0107,Canal 13,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0107.jpg
-0108,UCV TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0108.jpg
-0109,Mega 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0109.jpg
-0110,TVR,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0110.jpg
-0111,Zona Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0111.jpg
-0112,Via X,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0112.jpg
-0113,13c,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0113.jpg
-0114,13 Rec,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0114.jpg
-0115,UChile TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0115.jpg
-0116,TV Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0116.jpg
-0117,TVN 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0117.jpg
-0118,Suyai TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0118.jpg
-0119,DOCU,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0119.jpg
-0120,Vía X 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0120.jpg
-0121,Mega Ficción,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0121.jpg
-0122,El 3 de Conce,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0122.jpg
-0123,Bombi TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0123.jpg
-0124,ISB - Iglesia en San Bernardo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0124.jpg
-0125,MiRadio TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0125.jpg
-0126,Antofagasta TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0126.jpg
-0127,Visión Plus TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0127.jpg
-0128,Arica TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0128.jpg
-0129,Lanco TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0129.jpg
-0130,TVO San Vicente de Tagua Tagua,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0130.jpg
-0131,ATV Valdivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0131.jpg
-0132,Iquique TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0132.jpg
-0133,Canal 2 San Antonio,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0133.jpg
-0134,SextaVisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0134.jpg
-0137,Hobikka TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0137.jpg
-0138,Tevex,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0138.jpg
-0139,ContiVisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0139.jpg
-0140,El Pingüino TV Punta Arenas,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0140.jpg
-0141,Patagonia Radio TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0141.jpg
-0142,TV Senado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0142.jpg
-0143,Cámara de Diputados Televisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0143.jpg
-0144,Holvoet TV Copiapó,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0144.jpg
-0145,ITV Patagonia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0145.jpg
-0146,Radio América TV La Serena,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0146.jpg
-0147,TV USACH,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0147.jpg
-0148,Telecanal Santa Cruz,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0148.jpg
-0149,Canal VTV Los Andes,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0149.jpg
-1149,Canal VTV Quillota,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0149.jpg
-0150,Sur TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0150.jpg
-0151,Calama TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0151.jpg
-0152,TV Más 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0152.jpg
-0153,Canal 9 Bío-Bío Televisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0153.jpg
-0154,Orbita TV Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0154.jpg
-0155,Canal TVU,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0155.jpg
-0156,UESTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0156.jpg
-0157,UTalca TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0157.jpg
-0158,Ruidos TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0158.jpg
-0159,Puranoticia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0159.jpg
-0160,13 Realities,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0160.jpg
-0161,13 Cultura,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0161.jpg
-0162,13 Pop,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0162.jpg
-0163,13 Festival,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0163.jpg
-0164,13 Teleseries,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0164.jpg
-0165,Nativa TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0165.jpg
-0166,Chilevisión Contigo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0166.jpg
-0167,Marga Marga TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0167.jpg
-0168,Thema TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0168.jpg
-0169,Canal 2 Vallenar,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0169.jpg
-0170,TV 2 Choapa,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0170.jpg
-0171,Girovisual,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0171.jpg
-0172,Vox Populi Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0172.jpg
-0173,En Linea Maule,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0173.jpg
-0174,TV5 Linares,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0174.jpg
-0175,TeleAngol,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0175.jpg
-0176,Pucón TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0176.jpg
-0177,T-ViNet TV Digital,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0177.jpg
-0178,Décima TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0178.jpg
-0179,Canal 2 Quellón,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0179.jpg
-0180,CHV de Culto,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0180.jpg
-0181,Porcel TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0181.jpg
-0182,AE Radio,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0182.jpg
-0183,Agricultura TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0183.jpg
-0184,Canal 15 TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0184.jpg
-0185,Romántica TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0185.jpg
-0186,La Nuestra Radio Streaming,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0186.jpg
-0187,Radio Hoy,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0187.jpg
-0188,Radio Infinita,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0188.jpg
-0189,La Metro,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0189.jpg
-0190,Polar TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0190.jpg
-0191,Soberanía TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0191.jpg
-0201,Canal 24 Horas,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0201.jpg
-0202,CNN Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0202.jpg
-0203,BíoBío TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0203.jpg
-0204,Telesur,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0204.jpg
-0205,DW Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0205.jpg
-0206,France 24 Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0206.jpg
-0207,CHV Noticias,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0207.jpg
-0208,Meganoticias,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0208.jpg
-0209,RT Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0209.jpg
-0210,CNN en Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0210.jpg
-0211,DNews,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0211.jpg
-0212,NTN 24,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0212.jpg
-0213,EuroNews,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0213.jpg
-0214,T13 en Vivo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0214.jpg
-0215,CNN International,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0215.jpg
-0216,BBC News,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0216.jpg
-0217,Fox News Channel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0217.jpg
-0218,TVE 24h,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0218.jpg
-0219,NHK World,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0219.jpg
-1219,NHK World Premium,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0219.jpg
-0220,Rai Italia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0220.jpg
-0221,CGTN Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0221.jpg
-0222,América 24,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0222.jpg
-0223,Al Jazeera • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0223.jpg
-1223,Al Jazeera • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0223.jpg
-0224,TV5 Monde,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0224.jpg
-0225,Arirang TV • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0225.jpg
-1225,Arirang TV • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0225.jpg
-0226,Megatiempo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0226.jpg
-0301,NTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0301.jpg
-0302,ETC TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0302.jpg
-0303,Nickelodeon • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0303.jpg
-1303,Nickelodeon • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0303.jpg
-0304,Disney Channel • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0304.jpg
-1304,Disney Channel • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0304.jpg
-0305,Cartoon Network • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0305.jpg
-1305,Cartoon Network • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0305.jpg
-0306,ZooMoo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0306.jpg
-0307,Nick Jr,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0307.jpg
-0308,Tooncast,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0308.jpg
-0309,DreamWorks TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0309.jpg
-0310,BabyFirst TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0310.jpg
-0311,Disney Junior • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0311.jpg
-1311,Disney Junior • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0311.jpg
-0312,Pakapaka,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0312.jpg
-0313,EnerGeek,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0313.jpg
-0314,EnerGeek FAN,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0314.jpg
-0315,Canal Infantil,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0315.jpg
-0316,Baby TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0316.jpg
-0317,Plim Plim TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0317.jpg
-0318,BitMe,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0318.jpg
-0319,FunBox,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0319.jpg
-0320,Senpai TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0320.jpg
-0321,Kidoo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0321.jpg
-0322,Vía X eSports,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0322.jpg
-0323,Discovery Kids • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0323.jpg
-1323,Discovery Kids • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0323.jpg
-0324,Cartoonito,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0324.jpg
-0325,FMH Animotion,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0325.jpg
-0329,Fix y Foxi,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0329.jpg
-0401,TNT Sports Premium Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0401.jpg
-0402,TNT Sports Premium 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0402.jpg
-0403,TNT Sports,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0403.jpg
-0404,TNT Sports Premium Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0404.jpg
-0405,BeIN Sports Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0405.jpg
-0406,BeIN Sports Xtra Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0406.jpg
-0407,NBA TV • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0407.jpg
-1407,NBA TV • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0407.jpg
-0408,Liga 1 Max • Perú,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0408.jpg
-0409,TyC Sports • LATAM,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0409.jpg
-1409,TyC Sports • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0409.jpg
-2409,TyC Sports 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0409.jpg
-3409,TyC Sports 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0409.jpg
-0410,Teletrak TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0410.jpg
-0411,ESPN • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0411.jpg
-1411,ESPN • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0411.jpg
-2411,ESPN • Cono Sur,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0411.jpg
-3411,ESPN • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0411.jpg
-4411,ESPN • Centro,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0411.jpg
-5411,ESPN • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0411.jpg
-0412,ESPN 2 • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0412.jpg
-1412,ESPN 2 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0412.jpg
-2412,ESPN 2 • Cono Sur,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0412.jpg
-3412,ESPN 2 • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0412.jpg
-4412,ESPN 2 • Norte,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0412.jpg
-5412,ESPN 2 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0412.jpg
-6412,ESPN 2 • LATAM,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0412.jpg
-0413,ESPN 3 • Cono Sur,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0413.jpg
-1413,ESPN 3 • Norte,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0413.jpg
-2413,ESPN 3 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0413.jpg
-0414,ESPN 4 • Cono Sur,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0414.jpg
-1414,ESPN 4 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0414.jpg
-2414,ESPN 4 • Centro,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0414.jpg
-0415,ESPN 5 • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0415.jpg
-1415,ESPN 5 • Cono Sur,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0415.jpg
-2415,ESPN 5 • Norte,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0415.jpg
-3415,ESPN 5 • LATAM,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0415.jpg
-0416,ESPN 6 • América Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0416.jpg
-0417,ESPN 7 • América Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0417.jpg
-0418,ESPN Premium • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0418.jpg
-1418,ESPN Premium • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0418.jpg
-2418,ESPN Deportes,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0418.jpg
-0419,Claro Sports • América Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0419.jpg
-0420,Claro Sports 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0420.jpg
-0421,CDO 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0421.jpg
-0422,CDO Premium,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0422.jpg
-0423,Adrenalina Sports Network,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0423.jpg
-0424,DAZN F1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0424.jpg
-0425,Sky One,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0425.jpg
-0426,Sky Sports 1 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0426.jpg
-1426,Sky Sports 16 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0426.jpg
-2426,Sky Sports 24 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0426.jpg
-0427,Eurosport 1 • España,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0427.jpg
-0428,Eurosport 2 • España,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0428.jpg
-0429,Win Sports • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0429.jpg
-0430,Win Sports Plus • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0430.jpg
-0431,DSports • América Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0431.jpg
-1431,DSports • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0431.jpg
-2431,DSports • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0431.jpg
-0432,DSports 2 • América Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0432.jpg
-1432,DSports 2 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0432.jpg
-2432,DSports 2 • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0432.jpg
-0433,DSports Plus • América Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0433.jpg
-1433,DSports Plus • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0433.jpg
-1436,Fox Sports • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0436.jpg
-1437,Fox Sports 2 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0437.jpg
-1438,Fox Sports 3 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0438.jpg
-0436,Fox Sports • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0436.jpg
-0437,Fox Sports 2 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0437.jpg
-0438,Fox Sports 3 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0438.jpg
-0439,Fox Sports Premium • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0439.jpg
-0440,Fox Deportes • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0440.jpg
-0441,TUDN • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0441.jpg
-1441,TUDN • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0441.jpg
-0442,Azteca Deportes • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0442.jpg
-0444,UFC,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0444.jpg
-0445,Tennis Channel • USA,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0445.jpg
-0446,Golf Channel • Latin America,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0446.jpg
-0447,RedBull TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0447.jpg
-0448,DSports Básico,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0448.jpg
-0449,DSports Premium,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0449.jpg
-0501,Stingray IConcerts,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0501.jpg
-0502,MTV Latino,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0502.jpg
-0503,Concert Channel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0503.jpg
-0504,HTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0504.jpg
-0505,Kids Stars,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0505.jpg
-0507,TeleHit,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0507.jpg
-0508,Telehit Música,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0508.jpg
-0509,Telehit Música Plus,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0509.jpg
-0510,Quiero Música en mi Idioma,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0510.jpg
-0511,MTV Live • USA,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0511.jpg
-0515,Teleritmo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0515.jpg
-0516,Bandamax,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0516.jpg
-0517,Mi Música Hits,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0517.jpg
-0518,Mi Música KPop,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0518.jpg
-0519,Mi Música Romántica,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0519.jpg
-0520,Mi Música Popular,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0520.jpg
-0521,Mi Música Reggaetón,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0521.jpg
-0522,Mi Música Salsa,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0522.jpg
-0526,Karavana TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0526.jpg
-0527,Karavana Urbano,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0527.jpg
-0528,OLD Music,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0528.jpg
-0529,KPOP,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0529.jpg
-0530,Exa TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0530.jpg
-0531,MTV U,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0531.jpg
-0532,MTV Classic,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0532.jpg
-0533,Allegro,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0533.jpg
-0534,CM El canal de la música,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0534.jpg
-0535,VM Latino,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0535.jpg
-0536,Carolina TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0536.jpg
-0537,Carolina TV 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0537.jpg
-0538,Claro Música Sin Límites,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0538.jpg
-0539,OH! Jazz,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0539.jpg
-0540,Rumba TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0540.jpg
-0541,Telenostalgia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0541.jpg
-0542,TierraMia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0542.jpg
-0543,Music TOP,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0543.jpg
-0544,Video Rola,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0544.jpg
-0601,Discovery Home and Health • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0601.jpg
-1601,Discovery Home and Health • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0601.jpg
-2601,Discovery Home and Health • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0601.jpg
-0602,Discovery Turbo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0602.jpg
-0603,HGTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0603.jpg
-0604,Investigation Discovery • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0604.jpg
-1604,Investigation Discovery • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0604.jpg
-2604,Investigation Discovery • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0604.jpg
-0605,Love Nature,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0605.jpg
-0606,E! Entertainment TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0606.jpg
-0607,Discovery World,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0607.jpg
-0608,Food Network,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0608.jpg
-0609,Lifetime • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0609.jpg
-1609,Lifetime • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0609.jpg
-0610,El Gourmet • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0610.jpg
-1610,El Gourmet • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0610.jpg
-0611,Tlnovelas • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0611.jpg
-1611,Tlnovelas • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0611.jpg
-0612,Kanal D Drama,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0612.jpg
-0613,Pasiones • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0613.jpg
-1613,Pasiones • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0613.jpg
-0614,Sun Channel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0614.jpg
-0615,Telemundo Internacional • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0615.jpg
-1615,Telemundo Internacional • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0615.jpg
-0616,Univisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0616.jpg
-0617,Galavisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0617.jpg
-0618,Atreseries • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0618.jpg
-1618,Atreseries • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0618.jpg
-0619,AMC Series,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0619.jpg
-0620,ARTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0620.jpg
-0621,Eurochannel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0621.jpg
-0622,Europa Europa,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0622.jpg
-0623,Enlace,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0623.jpg
-0624,Enlace Juvenil,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0624.jpg
-0625,EWTN • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0625.jpg
-1625,EWTN • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0625.jpg
-0626,Nuevo Tiempo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0626.jpg
-0627,MaríaVisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0627.jpg
-0628,Bethel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0628.jpg
-0629,Canal Luz,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0629.jpg
-0630,Azteca Internacional,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0630.jpg
-0631,Az Corazón,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0631.jpg
-0632,UCL TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0632.jpg
-0633,IVC Internacional,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0633.jpg
-0634,Unicable,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0634.jpg
-0635,Az Clic,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0635.jpg
-0636,TVE Internacional,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0636.jpg
-0637,Star TVE,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0637.jpg
-0638,ESNE TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0638.jpg
-0639,Cristovisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0639.jpg
-0640,Unife,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0640.jpg
-0641,Discovery Familia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0641.jpg
-0642,UniMás • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0642.jpg
-1642,UniMás • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0642.jpg
-0643,HispanTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0643.jpg
-0644,Novelísima,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0644.jpg
-0646,Universo • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0646.jpg
-1646,Universo • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0646.jpg
-0647,Telemundo Puerto Rico,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0647.jpg
-0648,El Garage TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0648.jpg
-0701,Discovery Channel • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0701.jpg
-1701,Discovery Channel • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0701.jpg
-2701,Discovery Channel • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0701.jpg
-3701,Discovery Channel • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0701.jpg
-0702,National Geographic • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0702.jpg
-2702,National Geographic • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0702.jpg
-0703,Discovery Science,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0703.jpg
-0704,Discovery Theater,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0704.jpg
-0705,Animal Planet • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0705.jpg
-1705,Animal Planet • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0705.jpg
-2705,Animal Planet • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0705.jpg
-0706,History • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0706.jpg
-1706,History • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0706.jpg
-0707,History 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0707.jpg
-0708,TLC • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0708.jpg
-1708,TLC • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0708.jpg
-2708,TLC • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0708.jpg
-3708,TLC • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0708.jpg
-0709,Atlas,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0709.jpg
-0710,¡Hola! TV • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0710.jpg
-1710,¡Hola! TV • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0710.jpg
-0711,Curiosity Stream,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0711.jpg
-0712,13 Viajes,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0712.jpg
-0713,13 Cocina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0713.jpg
-0714,13 Deportes,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0714.jpg
-0715,INTI,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0715.jpg
-0716,Teatrix,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0716.jpg
-0801,Star Channel • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0801.jpg
-1801,Star Channel • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0801.jpg
-2801,Star Channel • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0801.jpg
-3801,Star Channel • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0801.jpg
-0802,Canal DHE,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0802.jpg
-0804,Universal TV • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0804.jpg
-1804,Universal TV • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0804.jpg
-0805,TNT • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0805.jpg
-1805,TNT • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0805.jpg
-2805,TNT • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0805.jpg
-3805,TNT • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0805.jpg
-0806,Sony Channel • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0806.jpg
-1806,Sony Channel • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0806.jpg
-2806,Sony Channel • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0806.jpg
-3806,Sony Channel • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0806.jpg
-0807,TCM,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0807.jpg
-0808,A and E • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0808.jpg
-1808,A and E • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0808.jpg
-0809,USA Network,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0809.jpg
-0810,Sony Movies • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0810.jpg
-1810,Sony Movies • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0810.jpg
-2810,Sony Movies • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0810.jpg
-0811,FX • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0811.jpg
-1811,FX • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0811.jpg
-0812,Comedy Central,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0812.jpg
-0813,HBO • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0813.jpg
-1813,HBO • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0813.jpg
-2813,HBO • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0813.jpg
-3813,HBO • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0813.jpg
-0814,HBO 2 • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0814.jpg
-1814,HBO 2 • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0814.jpg
-0815,HBO Plus,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0815.jpg
-0816,HBO Family,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0816.jpg
-0817,HBO Signature,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0817.jpg
-0818,HBO Mundi,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0818.jpg
-0819,HBO Pop,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0819.jpg
-0820,HBO Xtreme,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0820.jpg
-0821,Golden • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0821.jpg
-1821,Golden • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0821.jpg
-2821,Golden • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0821.jpg
-0822,Golden Plus,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0822.jpg
-0823,Golden Edge • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0823.jpg
-1823,Golden Edge • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0823.jpg
-0824,Golden Premier,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0824.jpg
-1824,Golden Premier 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0824.jpg
-0825,Cine Familiar,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0825.jpg
-0826,Cine Hispano,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0826.jpg
-0827,Cine Premium,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0827.jpg
-0828,Cine Latino,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0828.jpg
-0829,Space • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0829.jpg
-1829,Space • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0829.jpg
-3829,Space • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0829.jpg
-0830,De Película • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0830.jpg
-1830,De Película • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0830.jpg
-0831,Clover Channel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0831.jpg
-0832,Warner Channel • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0832.jpg
-1832,Warner Channel • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0832.jpg
-0833,TNT Series • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0833.jpg
-1833,TNT Series • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0833.jpg
-2833,TNT Series • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0833.jpg
-0834,Studio Universal • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0834.jpg
-1834,Studio Universal • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0834.jpg
-2834,Studio Universal • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0834.jpg
-0835,TNT Novelas,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0835.jpg
-0836,AMC • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0836.jpg
-1836,AMC • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0836.jpg
-0837,Las Estrellas • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0837.jpg
-1837,Las Estrellas • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0837.jpg
-2837,Las Estrellas • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0837.jpg
-3837,Las Estrellas • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0837.jpg
-0838,MultiPremier,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0838.jpg
-0839,Multicinema,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0839.jpg
-0840,Cinemax • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0840.jpg
-1840,Cinemax • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0840.jpg
-0841,Universal Cinema • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0841.jpg
-1841,Universal Cinema • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0841.jpg
-0842,Universal Crime • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0842.jpg
-1842,Universal Crime • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0842.jpg
-0843,Universal Reality,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0843.jpg
-0844,Universal Premiere • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0844.jpg
-1844,Universal Premiere • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0844.jpg
-0845,Universal Comedy • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0845.jpg
-1845,Universal Comedy • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0845.jpg
-0846,Cinecanal • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0846.jpg
-1846,Cinecanal • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0846.jpg
-0847,AXN • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0847.jpg
-1847,AXN • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0847.jpg
-2847,AXN • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0847.jpg
-3847,AXN • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0847.jpg
-0848,Az Cinema,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0848.jpg
-0850,Adult Swim • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0850.jpg
-1850,Adult Swim • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0850.jpg
-0851,Film and Arts • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0851.jpg
-1851,Film and Arts • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0851.jpg
-0852,FMH Movies,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0852.jpg
-0853,FMH Family,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0853.jpg
-0854,FMH Kids,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0854.jpg
-0855,Pánico,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0855.jpg
-0856,Antena 3 Internacional,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0856.jpg
-0857,Canal Claro,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0857.jpg
-0858,Claro Cinema,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0858.jpg
-0859,Mórbido TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0859.jpg
-0863,Five Star Max,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0863.jpg
-0864,Action Max,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0864.jpg
-0865,More Max,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0865.jpg
-0866,Daystar en Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0866.jpg
-0867,De Película Clásico,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0867.jpg
-0868,De Película Plus,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0868.jpg
-0870,A3 Cine,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0870.jpg
-0901,TV Max • Panamá,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0901.jpg
-0902,Caracol TV • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0902.jpg
-0903,TV Pública • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0903.jpg
-0904,LN Más • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0904.jpg
-0905,TN • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0905.jpg
-0906,TV Globo • Brasil,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0906.jpg
-0907,Multivisión Federal • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0907.jpg
-0908,Tele 10 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0908.jpg
-0909,Telefe • Buenos Aires, Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0909.jpg
-1909,Telefe • Córdoba, Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0909.jpg
-2909,Telefe • Rosario, Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0909.jpg
-3909,Telefe • Santa Fe, Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0909.jpg
-4909,Telefe • Internacional,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0909.jpg
-0910,Latina • Perú,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0910.jpg
-0911,Canal 11 de Salta • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0911.jpg
-0912,Argentinísima Satelital • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0912.jpg
-0913,Canal 5 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0913.jpg
-0914,A La Cocina TV • Perú,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0914.jpg
-0915,El Trece • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0915.jpg
-0916,El Nueve • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0916.jpg
-0917,Canal 26 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0917.jpg
-0918,Metro • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0918.jpg
-0919,Canal de la Ciudad • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0919.jpg
-0920,Encuentro • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0920.jpg
-0921,PBO • Perú,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0921.jpg
-0922,IP Noticias • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0922.jpg
-0923,24-7 Canal de Noticias • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0923.jpg
-0924,Canal Rural • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0924.jpg
-0925,Telediario • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0925.jpg
-0926,T5 Satelital • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0926.jpg
-0927,DeporTV • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0927.jpg
-0928,Azteca Uno • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0928.jpg
-0929,Azteca 7 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0929.jpg
-0930,Canal 6 Multimedios TV • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0930.jpg
-0931,Imagen Televisión • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0931.jpg
-0932,C5N Canal 5 Noticias • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0932.jpg
-0933,Canal 5 TV Nacional • Uruguay,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0933.jpg
-0934,Crónica TV • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0934.jpg
-0935,América TV • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0935.jpg
-0936,Ciudad Magazine • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0936.jpg
-0937,Telemax • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0937.jpg
-0938,Canal 7 Santiago del Estero • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0938.jpg
-0939,Net TV • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0939.jpg
-0940,Canal 12 Córdoba • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0940.jpg
-0941,Canal 10 Córdoba • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0941.jpg
-0942,Doce TV Posadas • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0942.jpg
-0943,Canal RCN • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0943.jpg
-0944,Teleislas • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0944.jpg
-0945,City TV • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0945.jpg
-0946,Trece • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0946.jpg
-0947,Telecafé • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0947.jpg
-0948,Telecaribe • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0948.jpg
-0949,Telepacífico • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0949.jpg
-0950,Canal TRO • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0950.jpg
-0951,TV Agro • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0951.jpg
-0952,Teleamiga • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0952.jpg
-0953,Telemedellín • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0953.jpg
-0954,Telelima • Perú,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0954.jpg
-0955,América TV • Perú,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0955.jpg
-0956,ATB • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0956.jpg
-0957,PAT • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0957.jpg
-0958,RTP • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0958.jpg
-0959,Cadena A • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0959.jpg
-0960,F10 • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0960.jpg
-0961,Gigavisión • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0961.jpg
-0962,Canal 14 de Tic • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0962.jpg
-0963,Bravo TV • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0963.jpg
-0964,Canal E • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0964.jpg
-0965,TEST TRACE LATINA FEED CL7302,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0965.jpg
-0969,TEST SEXYHOT SRC GRACENOTE,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0969.jpg
-0970,AMERICA2 FEED PY SRC MTVPRGY,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0970.jpg
-0971,A24 FEED PY SRC MTVPRGY,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0971.jpg
-0972,A24 FEED PY SRC RTV1944,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0972.jpg
-0973,ZTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0973.jpg
-0974,ZTV 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0974.jpg
-0975,ZKids,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0975.jpg
-0976,AVI,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0976.jpg
-0977,AVI Rewind,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0977.jpg
-0978,AVI Kids,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0978.jpg
-0979,AVI Toons,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0979.jpg
-0980,AVI Action,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0980.jpg
-0981,AVI Horizon,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0981.jpg
-0982,AVI Garage,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0982.jpg
-0983,AVI Music,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0983.jpg
-0984,AVI Concert,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0984.jpg
-XXX0,Canal para adultos • Portal adultos,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/XXX0.jpg
-XXX1,Playboy TV • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/XXX1.jpg
-XXX2,Venus • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/XXX2.jpg
-XXX3,Sextreme • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/XXX3.jpg
-XXX4,Hustler TV • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/XXX4.jpg
-XXX5,Brazzer TV • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/XXX5.jpg
-XXX6,Juicy • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/XXX6.jpg
-XXX7,Penthouse • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/XXX7.jpg
-XXX8,XTSY • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/XXX8.jpg
+0000,Sin información disponible,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
+0001,Programación Variada,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0001.jpg
+0002,PPV Eventos,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0002.jpg
+0101,Telecanal,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0101.jpg
+0102,La Red,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0102.jpg
+0103,TV Más,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0103.jpg
+0104,TVN,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0104.jpg
+0105,Mega,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0105.jpg
+0106,Chilevisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0106.jpg
+0107,Canal 13,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0107.jpg
+0108,UCV TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0108.jpg
+0109,Mega 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0109.jpg
+0110,TVR,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0110.jpg
+0111,Zona Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0111.jpg
+0112,Via X,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0112.jpg
+0113,13c,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0113.jpg
+0114,13 Rec,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0114.jpg
+0115,UChile TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0115.jpg
+0116,TV Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0116.jpg
+0117,TVN 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0117.jpg
+0118,Suyai TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0118.jpg
+0119,DOCU,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0119.jpg
+0120,Vía X 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0120.jpg
+0121,Mega Ficción,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0121.jpg
+0122,El 3 de Conce,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0122.jpg
+0123,Bombi TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0123.jpg
+0124,ISB - Iglesia en San Bernardo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0124.jpg
+0125,MiRadio TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0125.jpg
+0126,Antofagasta TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0126.jpg
+0127,Visión Plus TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0127.jpg
+0128,Arica TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0128.jpg
+0129,Lanco TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0129.jpg
+0130,TVO San Vicente de Tagua Tagua,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0130.jpg
+0131,ATV Valdivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0131.jpg
+0132,Iquique TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0132.jpg
+0133,Canal 2 San Antonio,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0133.jpg
+0134,SextaVisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0134.jpg
+0137,Hobikka TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0137.jpg
+0138,Tevex,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0138.jpg
+0139,ContiVisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0139.jpg
+0140,El Pingüino TV Punta Arenas,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0140.jpg
+0141,Patagonia Radio TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0141.jpg
+0142,TV Senado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0142.jpg
+0143,Cámara de Diputados Televisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0143.jpg
+0144,Holvoet TV Copiapó,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0144.jpg
+0145,ITV Patagonia,https://i.ibb.co/2398QXvX/0145.jpg
+0146,Radio América TV La Serena,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0146.jpg
+0147,TV USACH,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0147.jpg
+0148,Telecanal Santa Cruz,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0148.jpg
+0149,Canal VTV Los Andes,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0149.jpg
+1149,Canal VTV Quillota,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0149.jpg
+0150,Sur TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0150.jpg
+0151,Calama TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0151.jpg
+0152,TV Más 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0152.jpg
+0153,Canal 9 Bío-Bío Televisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0153.jpg
+0154,Orbita TV Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0154.jpg
+0155,Canal TVU,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0155.jpg
+0156,UESTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0156.jpg
+0157,UTalca TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0157.jpg
+0158,Ruidos TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0158.jpg
+0159,Puranoticia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0159.jpg
+0160,13 Realities,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0160.jpg
+0161,13 Cultura,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0161.jpg
+0162,13 Pop,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0162.jpg
+0163,13 Festival,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0163.jpg
+0164,13 Teleseries,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0164.jpg
+0165,Nativa TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0165.jpg
+0166,Chilevisión Contigo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0166.jpg
+0167,Marga Marga TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0167.jpg
+0168,Thema TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0168.jpg
+0169,Canal 2 Vallenar,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0169.jpg
+0170,TV 2 Choapa,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0170.jpg
+0171,Girovisual,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0171.jpg
+0172,Vox Populi Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0172.jpg
+0173,En Linea Maule,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0173.jpg
+0174,TV5 Linares,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0174.jpg
+0175,TeleAngol,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0175.jpg
+0176,Pucón TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0176.jpg
+0177,T-ViNet TV Digital,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0177.jpg
+0178,Décima TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0178.jpg
+0179,Canal 2 Quellón,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0179.jpg
+0180,CHV de Culto,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0180.jpg
+0181,Porcel TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0181.jpg
+0182,AE Radio,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0182.jpg
+0183,Agricultura TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0183.jpg
+0184,Canal 15 TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0184.jpg
+0185,Romántica TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0185.jpg
+0186,La Nuestra Radio Streaming,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0186.jpg
+0187,Radio Hoy,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0187.jpg
+0188,Radio Infinita,https://i.ibb.co/35sNhXQS/0188.jpg
+0189,La Metro,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
+0190,Polar TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
+0191,Soberanía TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
+0201,Canal 24 Horas,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0201.jpg
+0202,CNN Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0202.jpg
+0203,BíoBío TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0203.jpg
+0204,Telesur,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0204.jpg
+0205,DW Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0205.jpg
+0206,France 24 Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0206.jpg
+0207,CHV Noticias,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0207.jpg
+0208,Meganoticias,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0208.jpg
+0209,RT Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0209.png
+0210,CNN en Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0210.jpg
+0211,DNews,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0211.jpg
+0212,NTN 24,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0212.jpg
+0213,EuroNews,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0213.jpg
+0214,T13 en Vivo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0214.jpg
+0215,CNN International,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0215.jpg
+0216,BBC News,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0216.jpg
+0217,Fox News Channel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0217.jpg
+0218,TVE 24h,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0218.jpg
+0219,NHK World,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0219.jpg
+1219,NHK World Premium,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0219.jpg
+0220,Rai Italia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0220.jpg
+0221,CGTN Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0221.jpg
+0222,América 24,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0222.jpg
+0223,Al Jazeera • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0223.jpg
+1223,Al Jazeera • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0223.jpg
+0224,TV5 Monde,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0224.jpg
+0225,Arirang TV • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0225.jpg
+1225,Arirang TV • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0225.jpg
+0226,Megatiempo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0226.jpg
+0301,NTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0301.jpg
+0302,ETC TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0302.jpg
+0303,Nickelodeon • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0303.jpg
+1303,Nickelodeon • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0303.jpg
+0304,Disney Channel • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0304.jpg
+1304,Disney Channel • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0304.jpg
+0305,Cartoon Network • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0305.jpg
+1305,Cartoon Network • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0305.jpg
+0306,ZooMoo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0306.jpg
+0307,Nick Jr,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0307.jpg
+0308,Tooncast,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0308.jpg
+0309,DreamWorks TV,https://i.ibb.co/CpT58kY5/0309.jpg
+0310,BabyFirst TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0310.jpg
+0311,Disney Junior • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0311.jpg
+1311,Disney Junior • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0311.jpg
+0312,Pakapaka,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0312.jpg
+0313,EnerGeek,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0313.jpg
+0314,EnerGeek FAN,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0314.jpg
+0315,Canal Infantil,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0315.jpg
+0316,Baby TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0316.jpg
+0317,Plim Plim TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0317.jpg
+0318,BitMe,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0318.jpg
+0319,FunBox,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0319.jpg
+0320,Senpai TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0320.jpg
+0321,Kidoo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0321.jpg
+0322,Vía X eSports,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0322.jpg
+0323,Discovery Kids • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0323.jpg
+1323,Discovery Kids • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0323.jpg
+0324,Cartoonito,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0324.jpg
+0325,FMH Animotion,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0325.jpg
+0329,Fix y Foxi,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0329.jpg
+0401,TNT Sports Premium Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0401.jpg
+0402,TNT Sports Premium 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0402.jpg
+0403,TNT Sports,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0403.jpg
+0404,TNT Sports Premium Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0404.jpg
+0405,BeIN Sports Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0405.jpg
+0406,BeIN Sports Xtra Español,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0406.jpg
+0407,NBA TV • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0407.jpg
+1407,NBA TV • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0407.jpg
+0408,Liga 1 Max • Perú,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0408.jpg
+0409,TyC Sports • LATAM,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0409.jpg
+1409,TyC Sports • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0409.jpg
+2409,TyC Sports 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0409.jpg
+3409,TyC Sports 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0409.jpg
+0410,Teletrak TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0410.jpg
+0411,ESPN • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0411.jpg
+1411,ESPN • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0411.jpg
+2411,ESPN • Cono Sur,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0411.jpg
+3411,ESPN • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0411.jpg
+4411,ESPN • Centro,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0411.jpg
+5411,ESPN • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0411.jpg
+0412,ESPN 2 • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0412.jpg
+1412,ESPN 2 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0412.jpg
+2412,ESPN 2 • Cono Sur,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0412.jpg
+3412,ESPN 2 • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0412.jpg
+4412,ESPN 2 • Norte,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0412.jpg
+5412,ESPN 2 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0412.jpg
+6412,ESPN 2 • LATAM,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0412.jpg
+0413,ESPN 3 • Cono Sur,https://i.ibb.co/7dFHm7cM/0413.jpg
+1413,ESPN 3 • Norte,https://i.ibb.co/7dFHm7cM/1413.jpg
+2413,ESPN 3 • Argentina,https://i.ibb.co/7dFHm7cM/2413.jpg
+0414,ESPN 4 • Cono Sur,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0414.jpg
+1414,ESPN 4 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0414.jpg
+2414,ESPN 4 • Centro,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0414.jpg
+0415,ESPN 5 • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0415.jpg
+1415,ESPN 5 • Cono Sur,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0415.jpg
+2415,ESPN 5 • Norte,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0415.jpg
+3415,ESPN 5 • LATAM,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0415.jpg
+0416,ESPN 6 • América Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0416.jpg
+0417,ESPN 7 • América Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0417.jpg
+0418,ESPN Premium • Chile,https://i.ibb.co/20hxZhgQ/0418.jpg
+1418,ESPN Premium • Argentina,https://i.ibb.co/20hxZhgQ/1418.jpg
+2418,ESPN Deportes,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/2418.jpg
+0419,Claro Sports • América Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0419.jpg
+0420,Claro Sports 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0420.jpg
+0421,CDO 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0421.jpg
+0422,CDO Premium,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0422.jpg
+0423,Adrenalina Sports Network,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0423.jpg
+0424,DAZN F1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0424.jpg
+0425,Sky One,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0425.jpg
+0426,Sky Sports 1 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0426.jpg
+1426,Sky Sports 16 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0426.jpg
+2426,Sky Sports 24 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0426.jpg
+0427,Eurosport 1 • España,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0427.jpg
+0428,Eurosport 2 • España,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0428.jpg
+0429,Win Sports • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0429.jpg
+0430,Win Sports Plus • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0430.jpg
+0431,DSports • América Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0431.jpg
+1431,DSports • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0431.jpg
+2431,DSports • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0431.jpg
+0432,DSports 2 • América Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0432.jpg
+1432,DSports 2 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0432.jpg
+2432,DSports 2 • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0432.jpg
+0433,DSports Plus • América Latina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0433.jpg
+1433,DSports Plus • Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0433.jpg
+1436,Fox Sports • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0436.jpg
+1437,Fox Sports 2 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/1437.jpg
+1438,Fox Sports 3 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0438.jpg
+0436,Fox Sports • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0436.jpg
+0437,Fox Sports 2 • México,https://i.ibb.co/Qvt14W5t/0437.jpg
+0438,Fox Sports 3 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0438.jpg
+0439,Fox Sports Premium • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0439.jpg
+0440,Fox Deportes • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0440.jpg
+0441,TUDN • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0441.jpg
+1441,TUDN • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0441.jpg
+0442,Azteca Deportes • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0442.jpg
+0444,UFC,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0444.jpg
+0445,Tennis Channel • USA,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0445.jpg
+0446,Golf Channel • Latin America,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0446.jpg
+0447,RedBull TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0447.jpg
+0448,DSports Básico,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0448.jpg
+0449,DSports Premium,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0449.jpg
+0501,Stingray IConcerts,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0501.png
+0502,MTV Latino,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0502.png
+0503,Concert Channel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0503.jpg
+0504,HTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0504.jpg
+0505,Kids Stars,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0505.jpg
+0507,TeleHit,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0507.jpg
+0508,Telehit Música,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0508.jpg
+0509,Telehit Música Plus,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0509.jpg
+0510,Quiero Música en mi Idioma,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0510.jpg
+0511,MTV Live • USA,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0511.jpg
+0515,Teleritmo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0515.jpg
+0516,Bandamax,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0516.jpg
+0517,Mi Música Hits,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0517.jpg
+0518,Mi Música KPop,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0518.jpg
+0519,Mi Música Romántica,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0519.jpg
+0520,Mi Música Popular,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0520.jpg
+0521,Mi Música Reggaetón,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0521.jpg
+0522,Mi Música Salsa,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0522.jpg
+0526,Karavana TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0526.jpg
+0527,Karavana Urbano,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0527.jpg
+0528,OLD Music,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0528.jpg
+0529,KPOP,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0529.jpg
+0530,Exa TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0530.jpg
+0531,MTV U,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0531.jpg
+0532,MTV Classic,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0532.jpg
+0533,Allegro,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0533.jpg
+0534,CM El canal de la música,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0534.jpg
+0535,VM Latino,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0535.jpg
+0536,Carolina TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0536.jpg
+0537,Carolina TV 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0537.jpg
+0538,Claro Música Sin Límites,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0538.jpg
+0539,OH! Jazz,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0539.jpg
+0540,Rumba TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0540.jpg
+0541,Telenostalgia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0541.jpg
+0542,TierraMia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0542.jpg
+0543,Music TOP,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0543.jpg
+0544,Video Rola,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0544.jpg
+0601,Discovery Home and Health • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0601.jpg
+1601,Discovery Home and Health • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0601.jpg
+2601,Discovery Home and Health • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0601.jpg
+0602,Discovery Turbo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0602.jpg
+0603,HGTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0603.jpg
+0604,Investigation Discovery • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0604.jpg
+1604,Investigation Discovery • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0604.jpg
+2604,Investigation Discovery • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0604.jpg
+0605,Love Nature,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0605.jpg
+0606,E! Entertainment TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0606.jpg
+0607,Discovery World,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0607.jpg
+0608,Food Network,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0608.jpg
+0609,Lifetime • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0609.jpg
+1609,Lifetime • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0609.jpg
+0610,El Gourmet • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0610.jpg
+1610,El Gourmet • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0610.jpg
+0611,Tlnovelas • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0611.jpg
+1611,Tlnovelas • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0611.jpg
+0612,Kanal D Drama,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0612.png
+0613,Pasiones • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0613.jpg
+1613,Pasiones • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0613.jpg
+0614,Sun Channel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0614.jpg
+0615,Telemundo Internacional • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0615.jpg
+1615,Telemundo Internacional • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0615.jpg
+0616,Univisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0616.jpg
+0617,Galavisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0617.jpg
+0618,Atreseries • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0618.jpg
+1618,Atreseries • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0618.jpg
+0619,AMC Series,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0619.jpg
+0620,ARTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0620.jpg
+0621,Eurochannel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0621.jpg
+0622,Europa Europa,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0622.jpg
+0623,Enlace,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0623.jpg
+0624,Enlace Juvenil,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0624.jpg
+0625,EWTN • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0625.jpg
+1625,EWTN • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0625.jpg
+0626,Nuevo Tiempo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0626.jpg
+0627,MaríaVisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0627.jpg
+0628,Bethel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0628.jpg
+0629,Canal Luz,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0629.jpg
+0630,Azteca Internacional,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0630.jpg
+0631,Az Corazón,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0631.jpg
+0632,UCL TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0632.jpg
+0633,IVC Internacional,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0633.jpg
+0634,Unicable,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0634.jpg
+0635,Az Clic,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0635.jpg
+0636,TVE Internacional,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0636.jpg
+0637,Star TVE,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0637.jpg
+0638,ESNE TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0638.jpg
+0639,Cristovisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0639.jpg
+0640,Unife,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0640.jpg
+0641,Discovery Familia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0641.jpg
+0642,UniMás • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0642.jpg
+1642,UniMás • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0642.jpg
+0643,HispanTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0643.jpg
+0644,Novelísima,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0644.jpg
+0646,Universo • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0646.jpg
+1646,Universo • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0646.jpg
+0647,Telemundo Puerto Rico,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0647.jpg
+0648,El Garage TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0648.jpg
+0701,Discovery Channel • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0701.jpg
+1701,Discovery Channel • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0701.jpg
+2701,Discovery Channel • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0701.jpg
+3701,Discovery Channel • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0701.jpg
+0702,National Geographic • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0702.jpg
+2702,National Geographic • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0702.jpg
+0703,Discovery Science,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0703.jpg
+0704,Discovery Theater,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0704.jpg
+0705,Animal Planet • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0705.jpg
+1705,Animal Planet • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0705.jpg
+2705,Animal Planet • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0705.jpg
+0706,History • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0706.jpg
+1706,History • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0706.jpg
+0707,History 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0707.jpg
+0708,TLC • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0708.jpg
+1708,TLC • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0708.jpg
+2708,TLC • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0708.jpg
+3708,TLC • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0708.jpg
+0709,Atlas,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0709.jpg
+0710,¡Hola! TV • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0710.jpg
+1710,¡Hola! TV • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0710.jpg
+0711,Curiosity Stream,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0711.jpg
+0712,13 Viajes,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0712.jpg
+0713,13 Cocina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0713.jpg
+0714,13 Deportes,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0714.jpg
+0715,INTI,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0715.jpg
+0716,Teatrix,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0716.jpg
+0801,Star Channel • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0801.jpg
+1801,Star Channel • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0801.jpg
+2801,Star Channel • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0801.jpg
+3801,Star Channel • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0801.jpg
+0802,Canal DHE,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0802.jpg
+0804,Universal TV • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0804.jpg
+1804,Universal TV • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0804.jpg
+0805,TNT • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0805.jpg
+1805,TNT • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0805.jpg
+2805,TNT • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0805.jpg
+3805,TNT • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0805.jpg
+0806,Sony Channel • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0806.jpg
+1806,Sony Channel • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0806.jpg
+2806,Sony Channel • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0806.jpg
+3806,Sony Channel • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0806.jpg
+0807,TCM,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0807.jpg
+0808,A and E • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0808.jpg
+1808,A and E • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0808.jpg
+0809,USA Network,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0809.jpg
+0810,Sony Movies • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0810.jpg
+1810,Sony Movies • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0810.jpg
+2810,Sony Movies • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0810.jpg
+0811,FX • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0811.jpg
+1811,FX • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0811.jpg
+0812,Comedy Central,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0812.jpg
+0813,HBO • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0813.jpg
+1813,HBO • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0813.jpg
+2813,HBO • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0813.jpg
+3813,HBO • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0813.jpg
+0814,HBO 2 • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0814.jpg
+1814,HBO 2 • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0814.jpg
+0815,HBO Plus,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0815.jpg
+0816,HBO Family,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0816.jpg
+0817,HBO Signature,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0817.jpg
+0818,HBO Mundi,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0818.jpg
+0819,HBO Pop,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0819.jpg
+0820,HBO Xtreme,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0820.jpg
+0821,Golden • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0821.jpg
+1821,Golden • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0821.jpg
+2821,Golden • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0821.jpg
+0822,Golden Plus,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0822.jpg
+0823,Golden Edge • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0823.jpg
+1823,Golden Edge • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0823.jpg
+0824,Golden Premier,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0824.jpg
+1824,Golden Premier 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0824.jpg
+0825,Cine Familiar,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0825.jpg
+0826,Cine Hispano,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0826.jpg
+0827,Cine Premium,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0827.jpg
+0828,Cine Latino,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0828.jpg
+0829,Space • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0829.jpg
+1829,Space • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0829.jpg
+3829,Space • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0829.jpg
+0830,De Película • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0830.jpg
+1830,De Película • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0830.jpg
+0831,Clover Channel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0831.jpg
+0832,Warner Channel • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0832.jpg
+1832,Warner Channel • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0832.jpg
+0833,TNT Series • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0833.jpg
+1833,TNT Series • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0833.jpg
+2833,TNT Series • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0833.jpg
+0834,Studio Universal • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0834.jpg
+1834,Studio Universal • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0834.jpg
+2834,Studio Universal • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0834.jpg
+0835,TNT Novelas,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0835.jpg
+0836,AMC • Feed 1,https://i.ibb.co/D6Wq8Xj/0836.jpg
+1836,AMC • Feed 2,https://i.ibb.co/D6Wq8Xj/1836.jpg
+0837,Las Estrellas • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0837.jpg
+1837,Las Estrellas • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0837.jpg
+2837,Las Estrellas • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0837.jpg
+3837,Las Estrellas • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0837.jpg
+0838,MultiPremier,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0838.jpg
+0839,Multicinema,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0839.jpg
+0840,Cinemax • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0840.jpg
+1840,Cinemax • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0840.jpg
+0841,Universal Cinema • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0841.png
+1841,Universal Cinema • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0841.png
+0842,Universal Crime • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0842.png
+1842,Universal Crime • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0842.png
+0843,Universal Reality,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0843.png
+0844,Universal Premiere • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0844.png
+1844,Universal Premiere • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0844.png
+0845,Universal Comedy • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0845.png
+1845,Universal Comedy • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0845.png
+0846,Cinecanal • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0846.jpg
+1846,Cinecanal • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0846.jpg
+0847,AXN • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0847.jpg
+1847,AXN • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0847.jpg
+2847,AXN • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0847.jpg
+3847,AXN • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0847.jpg
+0848,Az Cinema,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0848.jpg
+0850,Adult Swim • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0850.jpg
+1850,Adult Swim • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0850.jpg
+0851,Film and Arts • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0851.jpg
+1851,Film and Arts • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0851.jpg
+0852,FMH Movies,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0852.jpg
+0853,FMH Family,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0853.jpg
+0854,FMH Kids,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0854.jpg
+0855,Pánico,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0855.jpg
+0856,Antena 3 Internacional,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0856.jpg
+0857,Canal Claro,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0857.jpg
+0858,Claro Cinema,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0858.jpg
+0859,Mórbido TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0859.jpg
+0863,Five Star Max,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0863.jpg
+0864,Action Max,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0864.jpg
+0865,More Max,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0865.jpg
+0866,Daystar en Español,https://i.ibb.co/HDq7G2N1/0866.jpg
+0867,De Película Clásico,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0867.jpg
+0868,De Película Plus,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0868.jpg
+0870,A3 Cine,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0870.jpg
+0901,TV Max • Panamá,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0901.jpg
+0902,Caracol TV • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0902.jpg
+1902,Caracol TV • Internacional,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0902.jpg
+0903,TV Pública • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0903.jpg
+0904,LN Más • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0904.jpg
+0905,TN • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0905.jpg
+0906,TV Globo • Brasil,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0906.jpg
+0907,Multivisión Federal • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0907.jpg
+0908,Tele 10 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0908.jpg
+0909,Telefe • Buenos Aires, Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0909.jpg
+1909,Telefe • Córdoba, Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0909.jpg
+2909,Telefe • Rosario, Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0909.jpg
+3909,Telefe • Santa Fe, Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0909.jpg
+4909,Telefe • Internacional,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0909.jpg
+0910,Latina • Perú,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0910.jpg
+0911,Canal 11 de Salta • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0911.jpg
+0912,Argentinísima Satelital • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0912.jpg
+0913,Canal 5 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0913.jpg
+0914,A La Cocina TV • Perú,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0914.jpg
+0915,El Trece • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0915.jpg
+0916,El Nueve • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0916.jpg
+0917,Canal 26 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0917.jpg
+0918,Metro • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0918.jpg
+0919,Canal de la Ciudad • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0919.jpg
+0920,Encuentro • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0920.jpg
+0921,PBO • Perú,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0921.jpg
+0922,IP Noticias • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0922.jpg
+0923,24-7 Canal de Noticias • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0923.jpg
+0924,Canal Rural • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0924.jpg
+0925,Telediario • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0925.jpg
+0926,T5 Satelital • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0926.jpg
+0927,DeporTV • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0927.jpg
+0928,Azteca Uno • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0928.jpg
+0929,Azteca 7 • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0929.jpg
+0930,Canal 6 Multimedios TV • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0930.jpg
+0931,Imagen Televisión • México,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0931.jpg
+0932,C5N Canal 5 Noticias • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0932.jpg
+0933,Canal 5 TV Nacional • Uruguay,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0933.jpg
+0934,Crónica TV • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0934.jpg
+0935,América TV • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0935.jpg
+0936,Ciudad Magazine • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0936.jpg
+0937,Telemax • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0937.jpg
+0938,Canal 7 Santiago del Estero • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0938.jpg
+0939,Net TV • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0939.jpg
+0940,Canal 12 Córdoba • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0940.jpg
+0941,Canal 10 Córdoba • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0941.jpg
+0942,Doce TV Posadas • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0942.jpg
+0943,Canal RCN • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0943.jpg
+0944,Teleislas • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0944.jpg
+0945,City TV • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0945.jpg
+0946,Trece • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0946.jpg
+0947,Telecafé • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0947.jpg
+0948,Telecaribe • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0948.jpg
+0949,Telepacífico • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0949.jpg
+0950,Canal TRO • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0950.jpg
+0951,TV Agro • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0951.jpg
+0952,Teleamiga • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0952.jpg
+0953,Telemedellín • Colombia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0953.jpg
+0954,Telelima • Perú,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0954.jpg
+0955,América TV • Perú,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0955.jpg
+0956,ATB • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0956.jpg
+0957,PAT • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0957.jpg
+0958,RTP • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0958.jpg
+0959,Cadena A • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0959.jpg
+0960,F10 • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0960.jpg
+0961,Gigavisión • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0961.jpg
+0962,Canal 14 de Tic • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0962.jpg
+0963,Bravo TV • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0963.jpg
+0964,Canal E • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0964.jpg
+0965,TEST TRACE LATINA FEED CL7302,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0965.jpg
+0970,AMERICA2 FEED PY SRC MTVPRGY,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0970.jpg
+0971,A24 FEED PY SRC MTVPRGY,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0971.jpg
+0972,A24 FEED PY SRC RTV1944,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0972.jpg
+0973,ZTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0973.jpg
+0974,ZTV 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0974.jpg
+0975,ZKids,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0975.jpg
+0976,AVI,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0976.jpg
+0977,AVI Rewind,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0977.jpg
+0978,AVI Kids,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0978.jpg
+0979,AVI Toons,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
+0980,AVI Action,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
+0981,AVI Horizon,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
+0982,AVI Garage,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
+0983,AVI Music,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
+0984,AVI Concert,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
+XXX0,Canal para adultos • Portal adultos,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/XXX0.jpg
+XXX1,Playboy TV • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/XXX1.jpg
+XXX2,Venus • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/XXX2.jpg
+XXX3,Sextreme • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/XXX3.jpg
+XXX4,Hustler TV • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/XXX4.jpg
+XXX5,Brazzer TV • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/XXX5.jpg
+XXX6,Juicy • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/XXX6.jpg
+XXX7,Penthouse • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/XXX7.jpg
+XXX8,XTSY • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/XXX8.jpg
+XXX9,Sexy Hot • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
