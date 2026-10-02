@@ -31,7 +31,7 @@
 0127,Visión Plus TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0127.jpg
 0128,Arica TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0128.jpg
 0129,Lanco TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0129.jpg
-0130,TVO San Vicente de Tagua Tagua,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0000.jpg
+0130,TVO San Vicente de Tagua Tagua,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0130.jpg
 0131,ATV Valdivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0131.jpg
 0132,Iquique TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0132.jpg
 0133,Canal 2 San Antonio,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0133.jpg
@@ -91,7 +91,7 @@
 0188,Radio Infinita,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0188.jpg
 0189,La Metro,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0189.jpg
 0190,Polar TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0190.jpg
-0191,Soberanía TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0000.jpg
+0191,Soberanía TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0191.jpg
 0201,Canal 24 Horas,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0201.jpg
 0202,CNN Chile,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0202.jpg
 0203,BíoBío TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0203.jpg
@@ -288,7 +288,7 @@
 1610,El Gourmet • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0610.jpg
 0611,Tlnovelas • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0611.jpg
 1611,Tlnovelas • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0611.jpg
-0612,Kanal D Drama,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0612.png
+0612,Kanal D Drama,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0612.jpg
 0613,Pasiones • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0613.jpg
 1613,Pasiones • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0613.jpg
 0614,Sun Channel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0614.jpg
@@ -545,12 +545,12 @@
 0976,AVI,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0976.jpg
 0977,AVI Rewind,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0977.jpg
 0978,AVI Kids,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0978.jpg
-0979,AVI Toons,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0000.jpg
-0980,AVI Action,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0000.jpg
-0981,AVI Horizon,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0000.jpg
-0982,AVI Garage,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0000.jpg
-0983,AVI Music,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0000.jpg
-0984,AVI Concert,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0000.jpg
+0979,AVI Toons,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0979.jpg
+0980,AVI Action,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0980.jpg
+0981,AVI Horizon,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0981.jpg
+0982,AVI Garage,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0982.jpg
+0983,AVI Music,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0983.jpg
+0984,AVI Concert,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/0984.jpg
 XXX0,Canal para adultos • Portal adultos,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/XXX0.jpg
 XXX1,Playboy TV • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/XXX1.jpg
 XXX2,Venus • Adultos Desbloqueado,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/krusty/XXX2.jpg

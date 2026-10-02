@@ -42,6 +42,7 @@
 643054b1fc3be59477853717-66840a26cd6f1d3940941155,Runtime Crimen,https://provider-static.plex.tv/epg/cms/production/54114614-0221-4487-bcae-168f29eb082f/Runtime_ES_Crimen_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-68864d2d062dc5a487f806e0,Todo Pasión,https://provider-static.plex.tv/epg/cms/production/a0a3a170-5591-4904-8191-4766a2b203a6/LOGO_BLANC_-_JC_DERSOIRRDX.png
 643054b1fc3be59477853717-6684011fcd6f1d394094114d,Runtime Series,https://provider-static.plex.tv/epg/cms/production/077da4d3-b10f-4487-8765-3806a693f8fd/Runtime_ES_Series_Dark_Mode_Logordx.png
+643054b1fc3be59477853717-6ab3fb945364aa2377195427,COPS en Español,https://provider-static.plex.tv/epg/cms/production/bf146750-7c0d-4f41-878f-470c7d0d358b/Cops_channel_logo_white_1500x1000RDX.png
 643054b1fc3be59477853717-64d79408e5f67b0fab47ff24,Misterios sin Resolver,https://provider-static.plex.tv/epg/cms/production/f6a0825c-3f05-421a-a733-f5eb53c37f2a/Plex_FilmRise_MisteriosSinResolver_White_Logo.png
 643054b1fc3be59477853717-68645c1f1a2f321847ec0391,Platos Sucios,https://provider-static.plex.tv/epg/cms/production/295bd4d4-c84e-4cb7-a0fe-e96f66ba2c40/PLATOS_SUCIOS_channel_logo_colorRDX.png
 643054b1fc3be59477853717-64d4e82ac5d4668c9cb7b5df,Novelisima,https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png
@@ -75,6 +76,7 @@
 643054b1fc3be59477853717-686462bf1a2f321847ec0395,Comercio TV,https://provider-static.plex.tv/epg/cms/production/f13dd872-9888-4a98-953b-2d2cf306d69a/comercioDark_Logo__1_.png
 643054b1fc3be59477853717-65623e0eb7d737841f30a4ff,Cheaters en Español,https://provider-static.plex.tv/epg/cms/production/b0328822-b149-4524-ad89-1c87c2543268/FilmRise_CheatersEnEspanol_Logo_ColorRDX.png
 643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75,Naturaleza,https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png
+643054b1fc3be59477853717-6ab3fcd55364aa2377195429,JAIL en Español,https://provider-static.plex.tv/epg/cms/production/f117aa7d-1a3e-4d49-aa6a-5df7c97566bb/Jail_channel_logo_4c_1500x1000RDX.png
 643054b1fc3be59477853717-69ae4f38e657bab5f7a9b7ec,Bondi Rescue,https://provider-static.plex.tv/epg/cms/production/91ffbeaa-df66-4074-83d6-94cacb9622fa/Plex_Totem_BondiRescue_Logo_White_-_Rowan_Williams.png
 643054b1fc3be59477853717-63f0ca427b78030ed9990309,CombaTV,https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png
 643054b1fc3be59477853717-6469502df73356567a64ce8e,Clic,https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png
@@ -92,7 +94,7 @@
 643054b1fc3be59477853717-66841b30702b9db9f8177258,Runtime Clásicos,https://provider-static.plex.tv/epg/cms/production/8019022a-2401-4d51-990c-fdf0f5ac1f54/Runtime_ES_Clasicos_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-6334a8e48a7b2a349d903b8c,Billiard TV,https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png
 643054b1fc3be59477853717-643f0ecd76de2b4015ae6c01,PFL MMA,https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png
-643054b1fc3be59477853717-6448ba1baf92c31f4a190c27,JAIL,https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png
+643054b1fc3be59477853717-6ab56313177d989ab41dfd3b,JAIL,https://provider-static.plex.tv/epg/cms/production/f1c19736-b2df-4b76-8c29-b1832b1fab5d/Jail_channel_logo_4c_1500x1000RDX.png
 643054b1fc3be59477853717-5f6b8e7900b0950040d0f2b2,The World Poker Tour,https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png
 643054b1fc3be59477853717-6582a1316b91be4547aa153c,Hot Ones,https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png
 643054b1fc3be59477853717-652a8b001b5c74bc83cf727c,Dog Whisperer,https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png
@@ -119,7 +121,7 @@
 643054b1fc3be59477853717-5f0ff262d71dcb00449ec015,Nosey,https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png
 643054b1fc3be59477853717-67c247c345ae99120c071586,GFN Football TV,https://provider-static.plex.tv/epg/cms/production/db267869-c485-4e8d-985a-8876cf62790a/Channel_Logo_-_1500x1000.png
 643054b1fc3be59477853717-66f6b6baac1a1890ef197a4b,Hunter,https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png
-643054b1fc3be59477853717-626c1753ffda6789d20a452e,COPS,https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png
+643054b1fc3be59477853717-6ab2a5c24d0a0fea95319571,COPS,https://provider-static.plex.tv/epg/cms/production/2dddf084-d0b9-454f-b993-925d154dfc6d/Cops_channel_logo_white_1500x1000RDX.png
 643054b1fc3be59477853717-5fd115b8b7ef8d002dcf1817,Waypoint TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png
 643054b1fc3be59477853717-672948f0297d4ea7584a2e13,The Martha Stewart Channel,https://provider-static.plex.tv/epg/cms/production/a0aadc76-1caf-419f-83c7-ff8e066355a7/MSChannel_Logo_Light_-_Kimberly_DumerRDX.png
 643054b1fc3be59477853717-5f90ebc726350a002d40b136,RACER International,https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png
@@ -148,7 +150,6 @@
 643054b1fc3be59477853717-60aeb5cd87f9b1002ce12323,NHRA TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png
 643054b1fc3be59477853717-6578e7b5eef129f30fb38df7,Operation Repo,https://provider-static.plex.tv/epg/cms/production/9ea6fcd5-6337-4609-8b7c-290b0eb74c65/Oprepo_logo_-_James_PatrickRDX.png
 643054b1fc3be59477853717-61a945156547ba4d6d238dc9,Racing America,https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png
-643054b1fc3be59477853717-68c98e7460586565cc56baab,Crime Beat TV,https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png
 643054b1fc3be59477853717-63504925a97bd70eaef54f01,ACL Cornhole TV,https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png
 643054b1fc3be59477853717-66be944f8711311880995280,Action Hollywood Movies,https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png
 643054b1fc3be59477853717-674f6a6cf44561420465f9f3,Animation+,https://provider-static.plex.tv/epg/cms/production/d3f6d54b-64cf-44ed-a960-2feb1c4b05c7/US_STVP_AnimationPlus_logo_Color_1500x1000_-_Kai_Schneider.png
