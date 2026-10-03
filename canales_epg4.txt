@@ -13,7 +13,6 @@
 101373,A+,https://ebyl.tmsimg.com/assets/s116157_ld_h15_ab.png
 108082,ABC ESP HD,https://ebyl.tmsimg.com/assets/s10003_ld_h15_ac.png
 105654,ACUSTIK TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-32279,ADN 40,https://ebyl.tmsimg.com/assets/GNLZZGG002BFC89.png
 15384,ADN Noticias,https://ebyl.tmsimg.com/assets/GNLZZGG002BFC89.png
 75278,ADN Noticias HD,https://ebyl.tmsimg.com/assets/GNLZZGG002BFC89.png
 83162,Adrenalina Sports Network,https://ebyl.tmsimg.com/assets/s83162_ld_h15_ad.png
@@ -109,7 +108,6 @@
 52628,Azteca uno,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 120791,Azteca Uno,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 123854,Azteca uno,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-124242,Azteca uno,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 124284,Azteca uno,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 102456,Azteca uno menos dos horas,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 100034,Azteca uno menos una hora,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
@@ -949,7 +947,6 @@
 96654,XHAUC-TDT,https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
 54300,XHAW-TDT,https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
 99794,XHAW-TDT2,https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
-172879,XHAW2,https://ebyl.tmsimg.com/assets/s172879_ld_h15_aa.png
 96696,XHAZL-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 91671,XHBC-TDT,https://ebyl.tmsimg.com/assets/s26130_ld_h15_aa.png
 96777,XHBD-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
