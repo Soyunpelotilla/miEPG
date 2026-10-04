@@ -270,9 +270,9 @@
 0542,TierraMia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0542.jpg
 0543,Music TOP,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0543.jpg
 0544,Video Rola,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0544.jpg
-0601,Discovery Home and Health • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0601.jpg
-1601,Discovery Home and Health • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0601.jpg
-2601,Discovery Home and Health • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0601.jpg
+0601,Discovery Home &amp; Health • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0601.jpg
+1601,Discovery Home &amp; Health • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0601.jpg
+2601,Discovery Home &amp; Health • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0601.jpg
 0602,Discovery Turbo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0602.jpg
 0603,HGTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0603.jpg
 0604,Investigation Discovery • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0604.jpg
@@ -373,8 +373,8 @@
 2806,Sony Channel • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0806.jpg
 3806,Sony Channel • Feed 4,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0806.jpg
 0807,TCM,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0807.jpg
-0808,A and E • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0808.jpg
-1808,A and E • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0808.jpg
+0808,A&amp;E • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0808.jpg
+1808,A&amp;E • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0808.jpg
 0809,USA Network,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0809.jpg
 0810,Sony Movies • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0810.jpg
 1810,Sony Movies • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0810.jpg
@@ -449,8 +449,8 @@
 0848,Az Cinema,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0848.jpg
 0850,Adult Swim • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0850.jpg
 1850,Adult Swim • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0850.jpg
-0851,Film and Arts • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0851.jpg
-1851,Film and Arts • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0851.jpg
+0851,Film &amp; Arts • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0851.jpg
+1851,Film &amp; Arts • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0851.jpg
 0852,FMH Movies,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0852.jpg
 0853,FMH Family,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0853.jpg
 0854,FMH Kids,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0854.jpg
