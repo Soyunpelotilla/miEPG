@@ -59,6 +59,7 @@ DAZN Baloncesto,DAZN Baloncesto,https://raw.githubusercontent.com/davidmuma/pico
 DAZN Baloncesto 2,DAZN Baloncesto 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
 DAZN Baloncesto 3,DAZN Baloncesto 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
 DAZN MotoGP,DAZN MotoGP,https://i.postimg.cc/Dy3014Xz/daznmotogp.png
+Replay,Replay,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Replay.png
 Onetoro,Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
 Torolé TV,Torolé TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png
 La 1 HD,La 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png
