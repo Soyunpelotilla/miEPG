@@ -343,6 +343,13 @@
     <display-name>DAZN MotoGP 4K</display-name>
     <icon src="https://i.postimg.cc/Dy3014Xz/daznmotogp.png" />
   </channel>
+  <channel id="Replay">
+    <display-name>Replay SD</display-name>
+    <display-name>Replay HD</display-name>
+    <display-name>Replay FHD</display-name>
+    <display-name>Replay 4K</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Replay.png" />
+  </channel>
   <channel id="Onetoro">
     <display-name>Onetoro SD</display-name>
     <display-name>Onetoro HD</display-name>
@@ -9158,6 +9165,867 @@
 	<programme start="20261006003000 +0200" stop="20261006043000 +0200" channel="DAZN MotoGP">
     <title>Próximo evento el 08/10 a las 10:00</title>
     <desc>Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20261004063000 +0200" stop="20261004100000 +0200" channel="Replay">
+    <title>Teletienda</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
+· País: España</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTENF603136" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004100000 +0200" stop="20261004101500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: CE Sabadell - FC Andorra</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004101500 +0200" stop="20261004103000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Albacete BP - SD Eibar</title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004103000 +0200" stop="20261004104500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Cádiz CF - CD Leganés</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004104500 +0200" stop="20261004110000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: UD Almería - Burgos</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004110000 +0200" stop="20261004113000 +0200" channel="Replay">
+    <title>LaLiga FC Futures Torneo Internacional Orlando T2026 · Cuartos de final</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol 7) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol 7</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4498699" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261004113000 +0200" stop="20261004120000 +0200" channel="Replay">
+    <title>LaLiga FC Futures Torneo Internacional Orlando T2026 · Cuartos de final</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol 7) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol 7</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4498699" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261004120000 +0200" stop="20261004123000 +0200" channel="Replay">
+    <title>LaLiga FC Futures Torneo Internacional Orlando T2026 · Cuartos de final</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol 7) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol 7</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4498699" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261004123000 +0200" stop="20261004130000 +0200" channel="Replay">
+    <title>LaLiga FC Futures Torneo Internacional Orlando T2026 · Cuartos de final</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol 7) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol 7</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4498699" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261004130000 +0200" stop="20261004150000 +0200" channel="Replay">
+    <title>Liga francesa (F) T26/27 · Jornada 4: París FC - Lens</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) La Première Ligue es la máxima categoría del fútbol femenino francés. Está compuesta por doce equipos, muchos de ellos los mismos clubes de la Ligue 1.
+· País: Francia</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4413089" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004150000 +0200" stop="20261004154500 +0200" channel="Replay">
+    <title>DIRECTO Semifinales T2026 · LaLiga FC Futures Torneo Internacional Orlando</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol 7) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol 7</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4498699" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004154500 +0200" stop="20261004163000 +0200" channel="Replay">
+    <title>Semifinales T2026 · LaLiga FC Futures Torneo Internacional Orlando</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol 7) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol 7</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4498699" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004163000 +0200" stop="20261004164500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Cádiz CF - CD Leganés</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004164500 +0200" stop="20261004170000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: UD Almería - Burgos</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004170000 +0200" stop="20261004173000 +0200" channel="Replay">
+    <title>Tercer y Cuarto Puesto T2026 · LaLiga FC Futures Torneo Internacional Orlando</title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <desc>(Deportes,Fútbol 7) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol 7</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4505144" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004173000 +0200" stop="20261004174500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Albacete BP - SD Eibar</title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004174500 +0200" stop="20261004180000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Cádiz CF - CD Leganés</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004180000 +0200" stop="20261004181500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: UD Almería - Burgos</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004181500 +0200" stop="20261004183000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: CE Sabadell - FC Andorra</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004183000 +0200" stop="20261004203000 +0200" channel="Replay">
+    <title>DIRECTO Jornada 8: UD Las Palmas - Real Valladolid CF T26/27 · LALIGA HYPERMOTION</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) Las Palmas querrá dominar desde la posesión y la continuidad, con el objetivo de que el balón mande y el rival corra detrás. El Valladolid necesitará un plan compacto, más práctico y con menos concesiones en campo propio.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4503104" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004203000 +0200" stop="20261004214500 +0200" channel="Replay">
+    <title>Final T2026 · LaLiga FC Futures Torneo Internacional Orlando</title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <desc>(Deportes,Fútbol 7) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol 7</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4505144" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004214500 +0200" stop="20261004220000 +0200" channel="Replay">
+    <title>Play pádel T2026 E31</title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <desc>(Deportes,Programa deportes) Play pádel.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4413086" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004220000 +0200" stop="20261004230000 +0200" channel="Replay">
+    <title>Liga Nacional de Fuerza T2026 · Vinyols</title>
+    <sub-title>2026 | ⑦ | ★5.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) Los atletas de fuerza españoles se enfrentan a pruebas clásicas y algunas novedades.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4355538" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004230000 +0200" stop="20261004231500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Real Sporting - RC Celta B</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004231500 +0200" stop="20261004233000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Real Sociedad B - Granada CF</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004233000 +0200" stop="20261004234500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Girona FC - RCD Mallorca</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261004234500 +0200" stop="20261005000000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: UD Las Palmas - Real Valladolid CF</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005000000 +0200" stop="20261005001500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: CD Castellón - Ceuta FC</title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005001500 +0200" stop="20261005003000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Real Sporting - RC Celta B</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005003000 +0200" stop="20261005004500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Real Sociedad B - Granada CF</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005004500 +0200" stop="20261005010000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Girona FC - RCD Mallorca</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005010000 +0200" stop="20261005015000 +0200" channel="Replay">
+    <title>ESPN Combates históricos T1 · 2005 Vinicius Oliveira vs Kyler Phillips</title>
+    <sub-title>2025 | ⑱ | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) ESPN Combates históricos.
+· País: Estados Unidos</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4413499" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005015000 +0200" stop="20261005023000 +0200" channel="Replay">
+    <title>ESPN Combates históricos T1 · 2000 James Toney vs Terry McGroom</title>
+    <sub-title>2025 | ⑱ | ★5.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) ESPN Combates históricos.
+· País: Estados Unidos</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4413497" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005023000 +0200" stop="20261005063000 +0200" channel="Replay">
+    <title>Teletienda</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
+· País: España</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTENF603136" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005063000 +0200" stop="20261005100000 +0200" channel="Replay">
+    <title>Teletienda</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
+· País: España</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTENF603136" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005100000 +0200" stop="20261005104500 +0200" channel="Replay">
+    <title>Semifinales T2026 · LaLiga FC Futures Torneo Internacional Orlando</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol 7) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol 7</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4498699" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005104500 +0200" stop="20261005113000 +0200" channel="Replay">
+    <title>Semifinales T2026 · LaLiga FC Futures Torneo Internacional Orlando</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol 7) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol 7</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4498699" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005113000 +0200" stop="20261005124500 +0200" channel="Replay">
+    <title>Final T2026 · LaLiga FC Futures Torneo Internacional Orlando</title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <desc>(Deportes,Fútbol 7) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol 7</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4505144" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005124500 +0200" stop="20261005130000 +0200" channel="Replay">
+    <title>Resúmenes Liga F T26/27 · Jornada 1</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Programa deportes) Un compendio que resume lo mejor de la Primera División del fútbol femenino español. Los goles y las imágenes más espectaculares de la Liga centran la atención del programa.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4389192" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261005130000 +0200" stop="20261005131500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Girona FC - RCD Mallorca</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005131500 +0200" stop="20261005133000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Real Sporting - RC Celta B</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005133000 +0200" stop="20261005134500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: UD Las Palmas - Real Valladolid CF</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005134500 +0200" stop="20261005140000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Real Sociedad B - Granada CF</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005140000 +0200" stop="20261005141500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: CD Castellón - Ceuta FC</title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005141500 +0200" stop="20261005143000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Girona FC - RCD Mallorca</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005143000 +0200" stop="20261005163000 +0200" channel="Replay">
+    <title>Liga BBVA T14/15 · Jornada 29: Real Madrid - Granada</title>
+    <sub-title>2015 | TP | ★7.0/10</sub-title>
+    <desc>(Deportes,Fútbol) Domingo de Resurrección con matinal de fútbol en el Santiago Bernabéu. Tras la derrota en el Camp Nou, el Real Madrid se reencuentra con su afición dispuesto a ofrecerle una victoria ante el Granada.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLT1162395" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005163000 +0200" stop="20261005170000 +0200" channel="Replay">
+    <title>Resúmenes Liga F T26/27 · Jornada 1</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Programa deportes) Un compendio que resume lo mejor de la Primera División del fútbol femenino español. Los goles y las imágenes más espectaculares de la Liga centran la atención del programa.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4389192" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261005170000 +0200" stop="20261005171500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Girona FC - RCD Mallorca</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005171500 +0200" stop="20261005173000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: UD Las Palmas - Real Valladolid CF</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005173000 +0200" stop="20261005174500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Real Sociedad B - Granada CF</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005174500 +0200" stop="20261005180000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Real Sporting - RC Celta B</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005180000 +0200" stop="20261005181500 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: CD Castellón - Ceuta FC</title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005181500 +0200" stop="20261005183000 +0200" channel="Replay">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 8: Girona FC - RCD Mallorca</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005183000 +0200" stop="20261005190000 +0200" channel="Replay">
+    <title>LaLiga FC Futures Torneo Internacional Orlando T2026 · Fase de grupos: Sevilla FC - FC Barcelona</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4505147" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261005190000 +0200" stop="20261005193000 +0200" channel="Replay">
+    <title>LaLiga FC Futures Torneo Internacional Orlando T2026 · Fase de grupos: Real Betis - Villarreal CF</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4505149" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261005193000 +0200" stop="20261005200000 +0200" channel="Replay">
+    <title>LaLiga FC Futures Torneo Internacional Orlando T2026 · Fase de grupos: SE Palmeiras - Orlando City</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4505151" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261005200000 +0200" stop="20261005203000 +0200" channel="Replay">
+    <title>LaLiga FC Futures Torneo Internacional Orlando T2026 · Fase de grupos: Real Madrid - Getafe CF</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4505153" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261005203000 +0200" stop="20261005210000 +0200" channel="Replay">
+    <title>LaLiga FC Futures Torneo Internacional Orlando T2026 · Fase de grupos: Atlético de Madrid - Elche CF</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) LaLiga FC Futures se ha convertido en el torneo formativo más importante del mundo. Su edición internacional de otoño Sub-13, se disputa en Orlando del 2 al 4 de octubre.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4505155" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261005210000 +0200" stop="20261005230000 +0200" channel="Replay">
+    <title>Fútbol español 1ª División T99/00 · Barcelona - At. Madrid</title>
+    <sub-title>TP | ★5.6/10</sub-title>
+    <desc>(Deportes,Fútbol) Partido disputado en el estadio Camp Nou de Barcelona, perteneciente a la decimosexta jornada de Primera División, entre FC Barcelona y Atlético de Madrid.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF184086" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261005230000 +0200" stop="20261006000000 +0200" channel="Replay">
+    <title>ESPN Combates históricos T1 · 2005 Vinny Pazienza vs Dana Rosenblatt</title>
+    <sub-title>2025 | ⑱ | ★5.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) ESPN Combates históricos.
+· País: Estados Unidos</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4397021" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261006000000 +0200" stop="20261006005000 +0200" channel="Replay">
+    <title>ESPN Combates históricos T1 · 1999 Antonio Diaz vs Emmanuel Burton</title>
+    <sub-title>2025 | ⑱ | ★5.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) ESPN Combates históricos.
+· País: Estados Unidos</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4413495" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261006005000 +0200" stop="20261006010500 +0200" channel="Replay">
+    <title>Boxeo: combate Tyson vs Spinks</title>
+    <sub-title>1988 | ⑱ | ★6.0/10</sub-title>
+    <desc>(Deportes,Boxeo) El combate entre Mike Tyson y Michael Spinks, conocido como "Once and For All", tuvo lugar el 27 de junio de 1988 en el Convention Hall de Atlantic City, Nueva Jersey.
+· País: Estados Unidos</desc>
+    <category>Deportes, Boxeo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4083112" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261006010500 +0200" stop="20261006015500 +0200" channel="Replay">
+    <title>ESPN Combates históricos T1 · 2002 Óscar "Chololo" Larios vs Israel "Magnífico" Vázquez</title>
+    <sub-title>2025 | ⑱ | ★5.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) ESPN Combates históricos.
+· País: Estados Unidos</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4414004" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261006015500 +0200" stop="20261006023000 +0200" channel="Replay">
+    <title>Boxeo: combate Muhammad Ali vs George Foreman</title>
+    <sub-title>1974 | ⑱ | ★6.0/10</sub-title>
+    <desc>(Deportes,Boxeo) El 30 de octubre de 1974, Muhammad Ali y George Foreman se enfrentaron en el histórico combate conocido como "Rumble in the Jungle" en el Stade Tata Raphaël en Kinshasa, Zaire (actual República Democrática del Congo).</desc>
+    <category>Deportes, Boxeo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4087756" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261004021400 +0200" stop="20261004031800 +0200" channel="Onetoro">
     <title>El Triunfo de Fernando Lozano. A Toro Pasado</title>
@@ -76240,17 +77108,6 @@
 			<value>5.5/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261004083140 +0000" stop="20261004104840 +0000" channel="Pluto TV Cine Acción">
-    <title>Los tigres del tren</title>
-    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
-    <desc>Un ferroviario en la China de 1941 lucha contra los japoneses para lograr comida para los pobres. Pronto se embarcarán en una misión suicida para volar un puente.</desc>
-    <icon src="https://images.pluto.tv/episodes/5fe9b75e4aa70a001a4fd2c7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20160101</date>
-    <series-id system="pluto">5fe9b75d4aa70a001a4fd2c1</series-id>
-    <category>Movie</category>
-    <category>Action</category>
-    <category>Action Comedies</category>
-  </programme>
   <programme start="20261004104840 +0000" stop="20261004125500 +0000" channel="Pluto TV Cine Acción">
     <title>Rush</title>
     <episode-num system="original-air-date">20130927000000 +0000</episode-num>
@@ -76258,9 +77115,9 @@
     <icon src="https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster_1776168361199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130927</date>
     <series-id system="pluto">67371a40321c190013a008a0</series-id>
-    <category>Movie</category>
-    <category>Blockbusters</category>
     <category>Action</category>
+    <category>Blockbusters</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004125500 +0000" stop="20261004142230 +0000" channel="Pluto TV Cine Acción">
     <title>Traición</title>
@@ -76269,8 +77126,8 @@
     <icon src="https://images.pluto.tv/episodes/68ff943d71d0752d874680ff/poster_1761586762326.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20171128</date>
     <series-id system="pluto">68ff943c71d0752d874680e1</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004142230 +0000" stop="20261004155242 +0000" channel="Pluto TV Cine Acción">
     <title>Prisioneros del sol</title>
@@ -76279,8 +77136,8 @@
     <icon src="https://images.pluto.tv/episodes/6995bd74cb38872a7e69e648/poster_1772709450449.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20140708</date>
     <series-id system="pluto">6995bd73cb38872a7e69e629</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004155242 +0000" stop="20261004173542 +0000" channel="Pluto TV Cine Acción">
     <title>Mentiras e ilusiones</title>
@@ -76289,9 +77146,9 @@
     <icon src="https://images.pluto.tv/episodes/5f523c30db45a1001a79abf5/poster_1769034243308.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20090101</date>
     <series-id system="pluto">5f523c2fdb45a1001a79abed</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Adventure</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004173542 +0000" stop="20261004204842 +0000" channel="Pluto TV Cine Acción">
     <title>Moby Dick</title>
@@ -76300,9 +77157,9 @@
     <icon src="https://images.pluto.tv/episodes/627b5b82e500b000135db30f/poster_1779202147943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20100101</date>
     <series-id system="pluto">627b5b7fe500b000135db308</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Adventure</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004204842 +0000" stop="20261004222740 +0000" channel="Pluto TV Cine Acción">
     <title>Gangster Nº 1</title>
@@ -76311,9 +77168,9 @@
     <icon src="https://images.pluto.tv/episodes/6aad0061291eac08d1d826e6/poster_1789722722205.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20000609</date>
     <series-id system="pluto">6aad0060291eac08d1d826c3</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Adventure</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004222740 +0000" stop="20261005001040 +0000" channel="Pluto TV Cine Acción">
     <title>Contrato para matar</title>
@@ -76322,8 +77179,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4e1826fa72a5001a5fa547/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20170101</date>
     <series-id system="pluto">5f4e1825fa72a5001a5fa53f</series-id>
-    <category>Movie</category>
     <category>Action</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261005001040 +0000" stop="20261005020240 +0000" channel="Pluto TV Cine Acción">
     <title>Código Paz</title>
@@ -76332,30 +77189,30 @@
     <icon src="https://images.pluto.tv/episodes/5fc52503861be7001a6c2071/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20240205</date>
     <series-id system="pluto">5fc52503861be7001a6c206f</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Foreign Action &amp; Adventure</category>
-  </programme>
-  <programme start="20261004074248 +0000" stop="20261004091327 +0000" channel="Pluto TV Catástrofes">
-    <title>La aventura del Poseidón: Capítulo 1</title>
-    <episode-num system="original-air-date">20050101000000 +0000</episode-num>
-    <desc>El Poseidón es un enorme transatlántico de lujo que naufraga cuando unos terroristas hacen estallar unas bombas en pleno océano. El hundimiento sorprende a todos en plena nochevieja, y a partir de entonces los supervivientes intentarán ponerse a salvo.</desc>
-    <icon src="https://images.pluto.tv/episodes/65c0cf2fb65b870013cb8aa5/poster_1769044682299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20050101</date>
-    <series-id system="pluto">65c0cf2eb65b870013cb8a86</series-id>
     <category>Movie</category>
+  </programme>
+  <programme start="20261005020240 +0000" stop="20261005035328 +0000" channel="Pluto TV Cine Acción">
+    <title>Las nuevas aventuras de Aladino</title>
+    <episode-num system="original-air-date">20150829000000 +0000</episode-num>
+    <desc>Dos empleados fracasados de unos grandes almacenes planean robar la tienda tras el cierre. Pero cuando un grupo de niños aparece pidiendo una historia, los hombres improvisan y empiezan a contar su propia versión del cuento de Aladino.</desc>
+    <icon src="https://images.pluto.tv/episodes/69ef37dbfe5af36223d94c16/poster_1777285084839.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20150829</date>
+    <series-id system="pluto">69ef37dafe5af36223d94bf7</series-id>
     <category>Action</category>
     <category>Adventure</category>
-  </programme>
-  <programme start="20261004091327 +0000" stop="20261004112927 +0000" channel="Pluto TV Catástrofes">
-    <title>The unthinkable: The unthinkable</title>
-    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
-    <desc>Suecia se enfrenta a un misterioso y desconocido ataque. No hay tanques ni ejércitos enemigos acechando, sino sistemas informáticos que se caen repentinamente e instalaciones o infraestructuras que explotan de repente.</desc>
-    <icon src="https://images.pluto.tv/episodes/6299d399ba369d001340ea70/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20180101</date>
-    <series-id system="pluto">6299d395ba369d001340ea69</series-id>
     <category>Movie</category>
+  </programme>
+  <programme start="20261005035328 +0000" stop="20261005055711 +0000" channel="Pluto TV Cine Acción">
+    <title>ISRA-88</title>
+    <episode-num system="original-air-date">20170207000000 +0000</episode-num>
+    <desc>Un científico y un piloto se ofrecen voluntarios para una misión de alto nivel destinada a llegar al fin del universo. Después de 13 años, la nave se estrella en el fin del universo y se adentra en lo desconocido.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a2827a5a87694f996fd4c17/poster_1781016486208.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20170207</date>
+    <series-id system="pluto">6a2827a3a87694f996fd4bf7</series-id>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004112927 +0000" stop="20261004131427 +0000" channel="Pluto TV Catástrofes">
     <title>10.000 días</title>
@@ -76364,8 +77221,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4948bf61f1b1001afec82f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20140101</date>
     <series-id system="pluto">5f4948bb61f1b1001afec827</series-id>
-    <category>Movie</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004131427 +0000" stop="20261004150811 +0000" channel="Pluto TV Catástrofes">
     <title>Amor de ida y vuelta</title>
@@ -76374,8 +77231,8 @@
     <icon src="https://images.pluto.tv/episodes/69fb6f5f4c1064447fbcb0ae/poster_1778085728331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20181107</date>
     <series-id system="pluto">69fb6f5e4c1064447fbcb08f</series-id>
-    <category>Movie</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004150811 +0000" stop="20261004163935 +0000" channel="Pluto TV Catástrofes">
     <title>Vuelo 192</title>
@@ -76384,8 +77241,8 @@
     <icon src="https://images.pluto.tv/episodes/6a4cc2e13aa4669fc73ad234/poster_1783415522432.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20160101</date>
     <series-id system="pluto">6a4cc2e03aa4669fc73ad214</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004163935 +0000" stop="20261004183737 +0000" channel="Pluto TV Catástrofes">
     <title>El juego de Ender</title>
@@ -76394,9 +77251,9 @@
     <icon src="https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster_1777997882339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20131024</date>
     <series-id system="pluto">67516488a7fde50013705b8d</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004183737 +0000" stop="20261004200608 +0000" channel="Pluto TV Catástrofes">
     <title>Infinitum</title>
@@ -76405,9 +77262,9 @@
     <icon src="https://images.pluto.tv/episodes/68ff8bc4fa0f5ccff5ba09d5/poster_1761591054482.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20210706</date>
     <series-id system="pluto">68ff8bc3fa0f5ccff5ba09b4</series-id>
-    <category>Movie</category>
     <category>Adventure</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004200608 +0000" stop="20261004220410 +0000" channel="Pluto TV Catástrofes">
     <title>El juego de Ender</title>
@@ -76416,9 +77273,9 @@
     <icon src="https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster_1777997882339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20131024</date>
     <series-id system="pluto">67516488a7fde50013705b8d</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004220410 +0000" stop="20261004234510 +0000" channel="Pluto TV Catástrofes">
     <title>Oceans Rising</title>
@@ -76427,9 +77284,9 @@
     <icon src="https://images.pluto.tv/episodes/608fa3916a72b000130cc950/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20170101</date>
     <series-id system="pluto">608fa38f6a72b000130cc94a</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004234510 +0000" stop="20261005012610 +0000" channel="Pluto TV Catástrofes">
     <title>Oceans Rising</title>
@@ -76438,30 +77295,31 @@
     <icon src="https://images.pluto.tv/episodes/608fa3916a72b000130cc950/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20170101</date>
     <series-id system="pluto">608fa38f6a72b000130cc94a</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Science fiction</category>
-  </programme>
-  <programme start="20261004081312 +0000" stop="20261004093812 +0000" channel="Pluto TV Sci-Fi">
-    <title>Freaked. La disparatada parada de los monstruos</title>
-    <episode-num system="original-air-date">19930424000000 +0000</episode-num>
-    <desc>Ricky, contratado por una empresa para patrocinar un componente químico, descubre que la molécula es responsable de monstruosas deformidades.</desc>
-    <icon src="https://images.pluto.tv/episodes/6393110af1ac720013bca579/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19930424</date>
-    <series-id system="pluto">63931109f1ac720013bca572</series-id>
     <category>Movie</category>
-    <category>Comedy</category>
   </programme>
-  <programme start="20261004093812 +0000" stop="20261004112312 +0000" channel="Pluto TV Sci-Fi">
-    <title>C.H.U.D.</title>
-    <episode-num system="original-air-date">19840831000000 +0000</episode-num>
-    <desc>Una extraña serie de desapariciones repentinas en las calles de la ciudad de Nueva York parece apuntar hacia algo desagradable que vive en las alcantarillas.</desc>
-    <icon src="https://images.pluto.tv/episodes/6393088c753d210014220953/poster_1768600449139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19840831</date>
-    <series-id system="pluto">6393088b753d21001422094b</series-id>
+  <programme start="20261005012610 +0000" stop="20261005030510 +0000" channel="Pluto TV Catástrofes">
+    <title>San Andreas mega seísmo</title>
+    <episode-num system="original-air-date">20190101000000 +0000</episode-num>
+    <desc>Los científicos descubren algo horrible: el "Gran Terremoto" será en dos días y hundirá California en el océano. Su única esperanza es romper un volcán que desplazará la energía del terremoto y construirá una nueva corteza en la superficie.</desc>
+    <icon src="https://images.pluto.tv/episodes/6093a2a15cb63f001a15108f/poster_1768605484584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20190101</date>
+    <series-id system="pluto">6093a29f5cb63f001a151089</series-id>
+    <category>Action</category>
+    <category>Deadly Disasters</category>
     <category>Movie</category>
-    <category>Monsters</category>
-    <category>Horror</category>
+  </programme>
+  <programme start="20261005030510 +0000" stop="20261005044910 +0000" channel="Pluto TV Catástrofes">
+    <title>La era del mañana</title>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Cuando el sol golpea un altar, escondido dentro de la antigua Pirámide del Sol en México, se crea un faro que desencadena una guerra relámpago alienígena. En cuestión de horas, sus platillos destruyen toda la infraestructura militar de la tierra.</desc>
+    <icon src="https://images.pluto.tv/episodes/608fa39b6a72b000130cca94/poster_1769193003470.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20140101</date>
+    <series-id system="pluto">608fa39a6a72b000130cca8e</series-id>
+    <category>Action</category>
+    <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004112312 +0000" stop="20261004144232 +0000" channel="Pluto TV Sci-Fi">
     <title>Hijos de Dune</title>
@@ -76470,8 +77328,8 @@
     <icon src="https://images.pluto.tv/episodes/654a309a727df0001a281d6d/poster_1768609083561.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20030101</date>
     <series-id system="pluto">654a3098727df0001a281d4e</series-id>
-    <category>Movie</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004144232 +0000" stop="20261004160932 +0000" channel="Pluto TV Sci-Fi">
     <title>Shark Shock</title>
@@ -76480,9 +77338,9 @@
     <icon src="https://images.pluto.tv/episodes/636a6ef63cd246001343e17c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20170101</date>
     <series-id system="pluto">636a6ef53cd246001343e174</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004160932 +0000" stop="20261004175432 +0000" channel="Pluto TV Sci-Fi">
     <title>10.000 días</title>
@@ -76491,8 +77349,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4948bf61f1b1001afec82f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20140101</date>
     <series-id system="pluto">5f4948bb61f1b1001afec827</series-id>
-    <category>Movie</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004175432 +0000" stop="20261004192938 +0000" channel="Pluto TV Sci-Fi">
     <title>Código fuente</title>
@@ -76501,9 +77359,9 @@
     <icon src="https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster_1776175563370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110420</date>
     <series-id system="pluto">672dcc122678a50014518e37</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004192938 +0000" stop="20261004212322 +0000" channel="Pluto TV Sci-Fi">
     <title>Amor de ida y vuelta</title>
@@ -76512,8 +77370,8 @@
     <icon src="https://images.pluto.tv/episodes/69fb6f5f4c1064447fbcb0ae/poster_1778085728331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20181107</date>
     <series-id system="pluto">69fb6f5e4c1064447fbcb08f</series-id>
-    <category>Movie</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004212322 +0000" stop="20261004231610 +0000" channel="Pluto TV Sci-Fi">
     <title>Dead Zone</title>
@@ -76522,9 +77380,9 @@
     <icon src="https://images.pluto.tv/episodes/68d1524f5af694325f6c91be/poster_1779378841921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19831021</date>
     <series-id system="pluto">68d1524e5af694325f6c919e</series-id>
-    <category>Movie</category>
-    <category>Cult Horror</category>
     <category>Horror</category>
+    <category>Cult Horror</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004231610 +0000" stop="20261005005610 +0000" channel="Pluto TV Sci-Fi">
     <title>Arcadia</title>
@@ -76533,9 +77391,9 @@
     <icon src="https://images.pluto.tv/episodes/5f562de5f7db51001a3c5eb2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20160101</date>
     <series-id system="pluto">5f562de4f7db51001a3c5eaa</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261005005610 +0000" stop="20261005022354 +0000" channel="Pluto TV Sci-Fi">
     <title>La novena profecía</title>
@@ -76544,30 +77402,20 @@
     <icon src="https://images.pluto.tv/episodes/6426c7146113a5001a7b1c22/poster_1768604401940.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20190101</date>
     <series-id system="pluto">6426c7136113a5001a7b1c03</series-id>
-    <category>Movie</category>
-    <category>Supernatural Sci-Fi</category>
     <category>Science fiction</category>
-  </programme>
-  <programme start="20261004082123 +0000" stop="20261004093913 +0000" channel="Pluto TV Psycho">
-    <title>Barba azul</title>
-    <episode-num system="original-air-date">19441111000000 +0000</episode-num>
-    <desc>Un peligroso asesino, apodado Barba Azul, tiene aterrorizados a los habitantes de París. A todos menos a Lucille, una modesta costurera que, desoyendo el clamor popular, decide salir a dar un paseo nocturno por la ciudad.</desc>
-    <icon src="https://images.pluto.tv/episodes/6654637aaf79c70013a139fe/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19441111</date>
-    <series-id system="pluto">66546378af79c70013a139de</series-id>
+    <category>Supernatural Sci-Fi</category>
     <category>Movie</category>
-    <category>Horror Classics</category>
-    <category>Horror</category>
   </programme>
-  <programme start="20261004093913 +0000" stop="20261004111239 +0000" channel="Pluto TV Psycho">
-    <title>Fear X</title>
-    <episode-num system="original-air-date">20030404000000 +0000</episode-num>
-    <desc>Harry (John Turturro), un agente de seguridad de un centro comercial, se dedica a investigar obsesivamente el asesinato de su mujer.</desc>
-    <icon src="https://images.pluto.tv/episodes/655c77322f9f5b0013eca968/poster_1782271452232.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20030404</date>
-    <series-id system="pluto">655c77302f9f5b0013eca949</series-id>
+  <programme start="20261005022354 +0000" stop="20261005042156 +0000" channel="Pluto TV Sci-Fi">
+    <title>El juego de Ender</title>
+    <episode-num system="original-air-date">20131024000000 +0000</episode-num>
+    <desc>Harrison Ford, Asa Butterfield, Hailee Steinfeld, Ben Kingsley, Viola Davis y Abigail Breslin protagonizan esta aventura de ciencia ficción repleta de acción basada en la novela superventas.</desc>
+    <icon src="https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster_1777997882339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20131024</date>
+    <series-id system="pluto">67516488a7fde50013705b8d</series-id>
+    <category>Action</category>
+    <category>Science fiction</category>
     <category>Movie</category>
-    <category>Thriller</category>
   </programme>
   <programme start="20261004111239 +0000" stop="20261004124856 +0000" channel="Pluto TV Psycho">
     <title>Esposa desconocida</title>
@@ -76576,9 +77424,9 @@
     <icon src="https://images.pluto.tv/episodes/6a688614323bf2ec8cad0fb3/poster_1785234965807.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20120315</date>
     <series-id system="pluto">6a688613323bf2ec8cad0f93</series-id>
-    <category>Movie</category>
-    <category>B-Movie Horror</category>
     <category>Horror</category>
+    <category>B-Movie Horror</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004124856 +0000" stop="20261004141743 +0000" channel="Pluto TV Psycho">
     <title>Instafama</title>
@@ -76587,8 +77435,8 @@
     <icon src="https://images.pluto.tv/episodes/6a22ac3b0eeacb372364b758/poster_1780657211918.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20200101</date>
     <series-id system="pluto">6a22aa5187a403a7cf57fcef</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004141743 +0000" stop="20261004154852 +0000" channel="Pluto TV Psycho">
     <title>Secuestrada en la isla</title>
@@ -76597,8 +77445,8 @@
     <icon src="https://images.pluto.tv/episodes/6a4cc44f920a04f6d75267e5/poster_1783415922556.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20200101</date>
     <series-id system="pluto">6a4cc44e920a04f6d75267c6</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004154852 +0000" stop="20261004173452 +0000" channel="Pluto TV Psycho">
     <title>Dictado</title>
@@ -76607,9 +77455,9 @@
     <icon src="https://images.pluto.tv/episodes/5f4e1839fa72a5001a5fa6a3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20120101</date>
     <series-id system="pluto">5f4e1838fa72a5001a5fa69b</series-id>
-    <category>Movie</category>
-    <category>Horror Classics</category>
     <category>Horror</category>
+    <category>Horror Classics</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004173452 +0000" stop="20261004190852 +0000" channel="Pluto TV Psycho">
     <title>Ausentes</title>
@@ -76618,8 +77466,8 @@
     <icon src="https://images.pluto.tv/episodes/62b479e1cb0324001353e3ea/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20050101</date>
     <series-id system="pluto">62b479dfcb0324001353e3e3</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004190852 +0000" stop="20261004204218 +0000" channel="Pluto TV Psycho">
     <title>Fear X</title>
@@ -76628,8 +77476,8 @@
     <icon src="https://images.pluto.tv/episodes/655c77322f9f5b0013eca968/poster_1782271452232.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20030404</date>
     <series-id system="pluto">655c77302f9f5b0013eca949</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004204218 +0000" stop="20261004223839 +0000" channel="Pluto TV Psycho">
     <title>Dorian Gray</title>
@@ -76638,9 +77486,9 @@
     <icon src="https://images.pluto.tv/episodes/6729fd82c394bf0013295e33/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20090911</date>
     <series-id system="pluto">6729fd80c394bf0013295e12</series-id>
-    <category>Movie</category>
     <category>Crime</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004223839 +0000" stop="20261005004223 +0000" channel="Pluto TV Psycho">
     <title>Escobar: Paraíso perdido</title>
@@ -76649,8 +77497,8 @@
     <icon src="https://images.pluto.tv/episodes/674ef9d33b8ac60013ac0773/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20141105</date>
     <series-id system="pluto">674ef9d23b8ac60013ac0752</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261005004223 +0000" stop="20261005030054 +0000" channel="Pluto TV Psycho">
     <title>Cut off</title>
@@ -76659,19 +77507,18 @@
     <icon src="https://images.pluto.tv/episodes/64fafeb1f6f05d00134d817f/poster_1769045401491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20180101</date>
     <series-id system="pluto">64fafeb0f6f05d00134d8160</series-id>
-    <category>Movie</category>
     <category>Action</category>
-  </programme>
-  <programme start="20261004083549 +0000" stop="20261004105218 +0000" channel="Pluto TV Thrillers">
-    <title>El duodécimo hombre</title>
-    <episode-num system="original-air-date">20171225000000 +0000</episode-num>
-    <desc>En 1943, en la Noruega ocupada por Alemania, un grupo de saboteadores es traicionado y apresado por las tropas nazis. De los 12 integrantes del comando, sólo uno consigue sobrevivir.</desc>
-    <icon src="https://images.pluto.tv/episodes/67b5b84a5d2668ecc5083e62/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20171225</date>
-    <series-id system="pluto">67b5b8485d2668ecc5083e40</series-id>
     <category>Movie</category>
-    <category>Foreign Drama</category>
-    <category>Drama</category>
+  </programme>
+  <programme start="20261005030054 +0000" stop="20261005050051 +0000" channel="Pluto TV Psycho">
+    <title>Sudden Fear</title>
+    <episode-num system="original-air-date">19520101000000 +0000</episode-num>
+    <desc>Myra es una autora de teatro cuyas obras triunfan en los escenarios de Broadway, pero su feliz existencia se desmorona cuando escucha cómo su marido Lester planea matarla.</desc>
+    <icon src="https://images.pluto.tv/episodes/673f26638d00c60014a36f97/poster_1769192283280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19520101</date>
+    <series-id system="pluto">673f26618d00c60014a36f76</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004105218 +0000" stop="20261004124418 +0000" channel="Pluto TV Thrillers">
     <title>Darkness</title>
@@ -76680,9 +77527,9 @@
     <icon src="https://images.pluto.tv/episodes/5f4e182efa72a5001a5fa5d8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20020101</date>
     <series-id system="pluto">5f4e182dfa72a5001a5fa5d0</series-id>
-    <category>Movie</category>
-    <category>Horror Classics</category>
     <category>Horror</category>
+    <category>Horror Classics</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004124418 +0000" stop="20261004154120 +0000" channel="Pluto TV Thrillers">
     <title>El detective de Arthur Hailey</title>
@@ -76691,8 +77538,8 @@
     <icon src="https://images.pluto.tv/episodes/654a2dc905bcdf001a32a43d/poster_1782272529813.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20050101</date>
     <series-id system="pluto">654a2dc805bcdf001a32a41e</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004154120 +0000" stop="20261004172620 +0000" channel="Pluto TV Thrillers">
     <title>Cuatro vidas</title>
@@ -76701,8 +77548,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4f5cd8fa72a5001a5fd861/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20070101</date>
     <series-id system="pluto">5f4f5cd7fa72a5001a5fd859</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004172620 +0000" stop="20261004202322 +0000" channel="Pluto TV Thrillers">
     <title>El detective de Arthur Hailey</title>
@@ -76711,8 +77558,8 @@
     <icon src="https://images.pluto.tv/episodes/654a2dc905bcdf001a32a43d/poster_1782272529813.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20050101</date>
     <series-id system="pluto">654a2dc805bcdf001a32a41e</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004202322 +0000" stop="20261004220324 +0000" channel="Pluto TV Thrillers">
     <title>Sin rastro (Gone)</title>
@@ -76721,8 +77568,8 @@
     <icon src="https://images.pluto.tv/episodes/6729fab5b7ea5e0013fbd796/poster_1776174482126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20120221</date>
     <series-id system="pluto">6729fab3b7ea5e0013fbd775</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004220324 +0000" stop="20261004234336 +0000" channel="Pluto TV Thrillers">
     <title>La fuerza de la sangre</title>
@@ -76731,8 +77578,8 @@
     <icon src="https://images.pluto.tv/episodes/69a068616d7de5ca369b4b1e/poster_1772463641971.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19950513</date>
     <series-id system="pluto">69a068606d7de5ca369b4afe</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004234336 +0000" stop="20261005014859 +0000" channel="Pluto TV Thrillers">
     <title>Carga maldita</title>
@@ -76741,29 +77588,31 @@
     <icon src="https://images.pluto.tv/episodes/655b4a4224664a0013bc73af/poster_1768609441926.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19770101</date>
     <series-id system="pluto">655b4a4024664a0013bc7390</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
-  </programme>
-  <programme start="20261004062334 +0000" stop="20261004093634 +0000" channel="Pluto TV Cine Estelar">
-    <title>Moby Dick</title>
-    <episode-num system="original-air-date">20100101000000 +0000</episode-num>
-    <desc>El Pequod es un barco ballenero cuyo objetivo principal es cazar a la mítica ballena blanca. Al mando de la nave está el tiránico capitán Ahab, que vive obsesionado con la idea de capturar al animal que consiguió escapar después de arrancarle una pierna.</desc>
-    <icon src="https://images.pluto.tv/episodes/627b5b82e500b000135db30f/poster_1779202147943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20100101</date>
-    <series-id system="pluto">627b5b7fe500b000135db308</series-id>
     <category>Movie</category>
-    <category>Action</category>
-    <category>Adventure</category>
   </programme>
-  <programme start="20261004093634 +0000" stop="20261004113339 +0000" channel="Pluto TV Cine Estelar">
-    <title>Algo Prestado</title>
-    <episode-num system="original-air-date">20110420000000 +0000</episode-num>
-    <desc>Las amistades se ponen a prueba y los secretos salen a la luz cuando Rachel, soltera recalcitrante, se enamora de Dex, el prometido de su mejor amiga Darcy.</desc>
-    <icon src="https://images.pluto.tv/episodes/675824d22678a500143c745a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20110420</date>
-    <series-id system="pluto">675824d02678a500143c7439</series-id>
+  <programme start="20261005014859 +0000" stop="20261005035755 +0000" channel="Pluto TV Thrillers">
+    <title>Angustia mortal</title>
+    <episode-num system="original-air-date">19680911000000 +0000</episode-num>
+    <desc>Henry Clarke (Caine), un experto ladrón de joyas, ha estado recluido durante algún tiempo para intentar curar su adición al alcohol. Tras su recuperación, parece dispuesto a reanudar su carrera.</desc>
+    <icon src="https://images.pluto.tv/episodes/695b81c96a5d6e3860f4530e/poster_1767604681951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19680911</date>
+    <series-id system="pluto">695b81c86a5d6e3860f452ee</series-id>
+    <category>Thriller</category>
     <category>Movie</category>
-    <category>Romance</category>
+  </programme>
+  <programme start="20261005035755 +0000" stop="20261005040255 +0000" channel="Pluto TV Thrillers">
+    <title>Fillers Pluto TV ES</title>
+    <episode-num system="onscreen">S01E106</episode-num>
+    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Fillers Pluto TV</desc>
+    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme start="20261004113339 +0000" stop="20261004130845 +0000" channel="Pluto TV Cine Estelar">
     <title>Código fuente</title>
@@ -76772,9 +77621,9 @@
     <icon src="https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster_1776175563370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110420</date>
     <series-id system="pluto">672dcc122678a50014518e37</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004130845 +0000" stop="20261004151120 +0000" channel="Pluto TV Cine Estelar">
     <title>Albert Nobbs</title>
@@ -76783,9 +77632,9 @@
     <icon src="https://images.pluto.tv/episodes/69ef3d7811a68f7704228cac/poster_1777286521911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110831</date>
     <series-id system="pluto">69ef3d7811a68f7704228c8c</series-id>
-    <category>Movie</category>
     <category>Independent Drama</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004151120 +0000" stop="20261004172520 +0000" channel="Pluto TV Cine Estelar">
     <title>El tren de las 3:10 de James Mangold</title>
@@ -76794,8 +77643,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4e17f1fa72a5001a5fa195/poster_1778251681980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20070101</date>
     <series-id system="pluto">5f4e17f0fa72a5001a5fa18d</series-id>
-    <category>Movie</category>
     <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004172520 +0000" stop="20261004190457 +0000" channel="Pluto TV Cine Estelar">
     <title>Irrational Man</title>
@@ -76804,9 +77653,9 @@
     <icon src="https://images.pluto.tv/episodes/67371fe7a7fde5001326babc/poster_1779180383436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20150709</date>
     <series-id system="pluto">67371fe5a7fde5001326ba9b</series-id>
-    <category>Movie</category>
-    <category>Romantic comedy</category>
     <category>Comedy</category>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004190457 +0000" stop="20261004205257 +0000" channel="Pluto TV Cine Estelar">
     <title>Leyenda</title>
@@ -76815,9 +77664,9 @@
     <icon src="https://images.pluto.tv/episodes/6076b67c235736001ac4453d/poster_1778889602164.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19851025</date>
     <series-id system="pluto">6076b67b235736001ac44537</series-id>
-    <category>Movie</category>
-    <category>Classic Sci-Fi &amp; Fantasy</category>
     <category>Science fiction</category>
+    <category>Classic Sci-Fi &amp; Fantasy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004205257 +0000" stop="20261004230257 +0000" channel="Pluto TV Cine Estelar">
     <title>Amor y otras drogas</title>
@@ -76826,9 +77675,9 @@
     <icon src="https://images.pluto.tv/episodes/6076b681235736001ac445c1/poster_1778510162504.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20101124</date>
     <series-id system="pluto">6076b680235736001ac445bb</series-id>
-    <category>Movie</category>
-    <category>Romantic comedy</category>
     <category>Romance</category>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004230257 +0000" stop="20261005005918 +0000" channel="Pluto TV Cine Estelar">
     <title>Dorian Gray</title>
@@ -76837,9 +77686,9 @@
     <icon src="https://images.pluto.tv/episodes/6729fd82c394bf0013295e33/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20090911</date>
     <series-id system="pluto">6729fd80c394bf0013295e12</series-id>
-    <category>Movie</category>
     <category>Crime</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261005005918 +0000" stop="20261005024749 +0000" channel="Pluto TV Cine Estelar">
     <title>Ir a perderlo y perderse</title>
@@ -76848,18 +77697,19 @@
     <icon src="https://images.pluto.tv/episodes/69a16df16607b6b727172b47/poster_1772553584561.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19820820</date>
     <series-id system="pluto">69a16df06607b6b727172b27</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
-  <programme start="20261004075139 +0000" stop="20261004095439 +0000" channel="Pluto TV Cine Drama">
-    <title>Mi casa en París</title>
-    <episode-num system="original-air-date">20150807000000 +0000</episode-num>
-    <desc>Mathias, un desventurado neoyorquino sin esposa, sin hijos y sin un céntimo, hereda de su padre, con quien no se hablaba, una enorme en casa en París, de la que quiere deshacerse lo antes posible.</desc>
-    <icon src="https://images.pluto.tv/episodes/60d0438028f1d30013ed3e46/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20150807</date>
-    <series-id system="pluto">60d0437e28f1d30013ed3e40</series-id>
+  <programme start="20261005024749 +0000" stop="20261005040142 +0000" channel="Pluto TV Cine Estelar">
+    <title>Ju-on (La maldición)</title>
+    <episode-num system="original-air-date">20000211000000 +0000</episode-num>
+    <desc>Un profesor visita la casa de uno de sus alumnos después de que el chico desaparece, solo para encontrar una excusa horrorosa para su ausencia de la escuela.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a0b37814a77e2cd15d608e4/poster_1779120002219.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20000211</date>
+    <series-id system="pluto">6a0b37804a77e2cd15d60872</series-id>
+    <category>Horror</category>
+    <category>B-Movie Horror</category>
     <category>Movie</category>
-    <category>Comedy</category>
   </programme>
   <programme start="20261004095439 +0000" stop="20261004120809 +0000" channel="Pluto TV Cine Drama">
     <title>La casa de la esperanza</title>
@@ -76868,9 +77718,9 @@
     <icon src="https://images.pluto.tv/episodes/672dcaa24ad856001364e565/poster_1769190483091.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20170324</date>
     <series-id system="pluto">672dcaa04ad856001364e544</series-id>
-    <category>Movie</category>
     <category>Historical Drama</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004120809 +0000" stop="20261004140309 +0000" channel="Pluto TV Cine Drama">
     <title>El porvenir</title>
@@ -76879,9 +77729,9 @@
     <icon src="https://images.pluto.tv/episodes/60d2d7befad1f80013b30ffd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20160922</date>
     <series-id system="pluto">60d2d7bdfad1f80013b30ff7</series-id>
-    <category>Movie</category>
     <category>Drama</category>
     <category>Biographical Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004140309 +0000" stop="20261004161909 +0000" channel="Pluto TV Cine Drama">
     <title>El Lute II: Mañana seré libre</title>
@@ -76890,9 +77740,9 @@
     <icon src="https://images.pluto.tv/episodes/62a9e1ec65c30400136adbbd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19880101</date>
     <series-id system="pluto">62a9e1ea65c30400136adbb6</series-id>
-    <category>Movie</category>
     <category>Drama</category>
     <category>Biographical Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004161909 +0000" stop="20261004182144 +0000" channel="Pluto TV Cine Drama">
     <title>Albert Nobbs</title>
@@ -76901,9 +77751,9 @@
     <icon src="https://images.pluto.tv/episodes/69ef3d7811a68f7704228cac/poster_1777286521911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110831</date>
     <series-id system="pluto">69ef3d7811a68f7704228c8c</series-id>
-    <category>Movie</category>
     <category>Independent Drama</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004182144 +0000" stop="20261004201305 +0000" channel="Pluto TV Cine Drama">
     <title>Nora</title>
@@ -76912,9 +77762,9 @@
     <icon src="https://images.pluto.tv/episodes/6a219cd67918fece01f17a8c/poster_1780587735257.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20000519</date>
     <series-id system="pluto">6a219cd57918fece01f17a6b</series-id>
-    <category>Movie</category>
     <category>Independent Drama</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004201305 +0000" stop="20261004221212 +0000" channel="Pluto TV Cine Drama">
     <title>Escándalo</title>
@@ -76923,9 +77773,9 @@
     <icon src="https://images.pluto.tv/episodes/6aa3ce51da71d9a75ffc522e/poster_1789120082769.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19890303</date>
     <series-id system="pluto">6aa3ce50da71d9a75ffc520b</series-id>
-    <category>Movie</category>
     <category>Independent Drama</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004221212 +0000" stop="20261004234514 +0000" channel="Pluto TV Cine Drama">
     <title>Bajo amenaza</title>
@@ -76934,8 +77784,8 @@
     <icon src="https://images.pluto.tv/episodes/674efb32882f6d0013ac1364/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110907</date>
     <series-id system="pluto">674efb30882f6d0013ac1343</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004234514 +0000" stop="20261005013514 +0000" channel="Pluto TV Cine Drama">
     <title>Perdidos en el sol</title>
@@ -76944,30 +77794,42 @@
     <icon src="https://images.pluto.tv/episodes/5fe9b7634aa70a001a4fd31e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20160101</date>
     <series-id system="pluto">5fe9b7634aa70a001a4fd318</series-id>
-    <category>Movie</category>
     <category>Drama</category>
     <category>Biographical Drama</category>
-  </programme>
-  <programme start="20261004073340 +0000" stop="20261004091428 +0000" channel="Pluto TV Cine Comedia">
-    <title>El hotel de los fantasmas</title>
-    <episode-num system="original-air-date">19881118000000 +0000</episode-num>
-    <desc>El propietario de un castillo irlandés, agobiado por sus numerosas deudas, decide convertir su castillo en un hotel. El proyecto no cuaja, pero se le ocurre proclamar falsamente que el castillo está habitado por terribles fantasmas.</desc>
-    <icon src="https://images.pluto.tv/episodes/655c75d9b8262d0013a59d46/poster_1782272882560.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19881118</date>
-    <series-id system="pluto">655c75d7b8262d0013a59d27</series-id>
     <category>Movie</category>
-    <category>Foreign Comedies</category>
-    <category>Comedy</category>
   </programme>
-  <programme start="20261004091428 +0000" stop="20261004103801 +0000" channel="Pluto TV Cine Comedia">
-    <title>Tres pequeños ninjas</title>
-    <episode-num system="original-air-date">19920807000000 +0000</episode-num>
-    <desc>Tres hermanos han sido entrenados desde muy pequeños por su abuelo. Un día, un viejo "amigo" de éste vuelve a dar señales de vida pero el FBI le está investigando por una serie de turbios asuntos y pretende librarse de cualquier manera.</desc>
-    <icon src="https://images.pluto.tv/episodes/655c91ea174b1400143a712e/poster_1782274327105.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19920807</date>
-    <series-id system="pluto">655c91e8174b1400143a710f</series-id>
+  <programme start="20261005013514 +0000" stop="20261005032814 +0000" channel="Pluto TV Cine Drama">
+    <title>El código de Caín</title>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>La conocida periodista Sara Ogden recorre el mundo persiguiendo al porteador del misterioso "Sello de Caín“, pero ella no sospecha el peligro que corre su propia vida cuando llega a Bielorrusia</desc>
+    <icon src="https://images.pluto.tv/episodes/60cc7c67529bee00141df925/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20160101</date>
+    <series-id system="pluto">60cc7c66529bee00141df91f</series-id>
+    <category>Action</category>
     <category>Movie</category>
-    <category>Children</category>
+  </programme>
+  <programme start="20261005032814 +0000" stop="20261005033614 +0000" channel="Pluto TV Cine Drama">
+    <title>Fillers Pluto TV ES</title>
+    <episode-num system="onscreen">S01E105</episode-num>
+    <episode-num system="pluto">685bb385c28550566149060e</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Fillers Pluto TV ES</desc>
+    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261005033614 +0000" stop="20261005052214 +0000" channel="Pluto TV Cine Drama">
+    <title>El Chico de la Burbuja de Plástico</title>
+    <episode-num system="original-air-date">19760101000000 +0000</episode-num>
+    <desc>Cuenta la historia de Tod Lubitch, un niño que nace con una deficiencia en su sistema inmunológico y que debe crecer y permanecer toda su vida confinado en un ambiente estéril. Pero se enamora y deberá elegir entre vivir plenamente o confinado.</desc>
+    <icon src="https://images.pluto.tv/episodes/6405a759c33aa40013039533/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19760101</date>
+    <series-id system="pluto">6405a758c33aa40013039515</series-id>
+    <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004103801 +0000" stop="20261004120323 +0000" channel="Pluto TV Cine Comedia">
     <title>El super chef</title>
@@ -76976,9 +77838,9 @@
     <icon src="https://images.pluto.tv/episodes/655cbeea1d1d8e00135eca3f/poster_1782269644686.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19970131</date>
     <series-id system="pluto">655cbee81d1d8e00135eca20</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Action Comedies</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004120323 +0000" stop="20261004134503 +0000" channel="Pluto TV Cine Comedia">
     <title>Hiena salvaje</title>
@@ -76987,9 +77849,9 @@
     <icon src="https://images.pluto.tv/episodes/655cc5f22085480014d22ab2/poster_1769188322194.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19790101</date>
     <series-id system="pluto">655cc5f02085480014d22a94</series-id>
-    <category>Movie</category>
     <category>Action</category>
     <category>Action Comedies</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004134503 +0000" stop="20261004151416 +0000" channel="Pluto TV Cine Comedia">
     <title>El Ataque de los Tomates Asesinos</title>
@@ -76998,8 +77860,8 @@
     <icon src="https://images.pluto.tv/episodes/64fedcc0f6f05d00135e975e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19780101</date>
     <series-id system="pluto">64fedcbef6f05d00135e973f</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004151416 +0000" stop="20261004165700 +0000" channel="Pluto TV Cine Comedia">
     <title>Life of Brian</title>
@@ -77008,9 +77870,9 @@
     <icon src="https://images.pluto.tv/episodes/67405a5ae07f280013146825/poster_1768602602218.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19790101</date>
     <series-id system="pluto">67405a58e07f280013146803</series-id>
-    <category>Movie</category>
-    <category>Best of British Humor</category>
     <category>Comedy</category>
+    <category>Best of British Humor</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004165700 +0000" stop="20261004182815 +0000" channel="Pluto TV Cine Comedia">
     <title>Take the Money and Run</title>
@@ -77019,8 +77881,8 @@
     <icon src="https://images.pluto.tv/episodes/673f2c072678a500143eebe1/poster_1769191922048.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19690101</date>
     <series-id system="pluto">673f2c052678a500143eebc0</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004182815 +0000" stop="20261004195752 +0000" channel="Pluto TV Cine Comedia">
     <title>Atraco por duplicado</title>
@@ -77029,8 +77891,8 @@
     <icon src="https://images.pluto.tv/episodes/6729fc20321c1900139e5102/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110715</date>
     <series-id system="pluto">6729fc1e321c1900139e50e1</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004195752 +0000" stop="20261004214058 +0000" channel="Pluto TV Cine Comedia">
     <title>Con la magia en los zapatos</title>
@@ -77039,8 +77901,8 @@
     <icon src="https://images.pluto.tv/episodes/6729e43d2678a5001418eec6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20150315</date>
     <series-id system="pluto">6729e43c2678a5001418eea6</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004214058 +0000" stop="20261004232342 +0000" channel="Pluto TV Cine Comedia">
     <title>Life of Brian</title>
@@ -77049,9 +77911,9 @@
     <icon src="https://images.pluto.tv/episodes/67405a5ae07f280013146825/poster_1768602602218.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19790101</date>
     <series-id system="pluto">67405a58e07f280013146803</series-id>
-    <category>Movie</category>
-    <category>Best of British Humor</category>
     <category>Comedy</category>
+    <category>Best of British Humor</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004232342 +0000" stop="20261005010142 +0000" channel="Pluto TV Cine Comedia">
     <title>Tipos Legales</title>
@@ -77060,30 +77922,29 @@
     <icon src="https://images.pluto.tv/episodes/62876b04e26cc40014b2b7e5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20120101</date>
     <series-id system="pluto">62876b03e26cc40014b2b7de</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
-  </programme>
-  <programme start="20261004080824 +0000" stop="20261004095124 +0000" channel="Pluto TV Comedias Románticas">
-    <title>Nunca es tarde para enamorarse</title>
-    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
-    <desc>Narra la historia de Harvey (Dustin Hoffman), un hombre aburrido y cansado, que viaja a Londres para asistir a la boda de su hija con un hombre bastante mayor que ella. Allí, Harvey conocerá a una mujer (Emma Thompson) que le cambiará la vida.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f523c1adb45a1001a79ab0b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20080101</date>
-    <series-id system="pluto">5f523c19db45a1001a79ab03</series-id>
     <category>Movie</category>
-    <category>Romance</category>
-    <category>African-American Romance</category>
   </programme>
-  <programme start="20261004095124 +0000" stop="20261004113424 +0000" channel="Pluto TV Comedias Románticas">
-    <title>Una pizca de amor</title>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Saltan chispas entre un agente literario de libros de cocina y la presentadora de un programa de cocina.</desc>
-    <icon src="https://images.pluto.tv/episodes/63ce6a1a5b790200141046d3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20200101</date>
-    <series-id system="pluto">63ce6a185b790200141046b4</series-id>
+  <programme start="20261005010142 +0000" stop="20261005024521 +0000" channel="Pluto TV Cine Comedia">
+    <title>Diario de un ejecutivo agresivo</title>
+    <episode-num system="original-air-date">20060608000000 +0000</episode-num>
+    <desc>Jack Giamoro, el mejor cazatalentos de Los Ángeles, parece tenerlo todo: una carrera de éxito, dinero y una hermosa mujer. Pero se siente vacío y decide asistir a las clases de creación literaria del pomposo y temperamental sr. Primkin.</desc>
+    <icon src="https://images.pluto.tv/episodes/654378c1a78f0d001a7ee478/poster_1790670601556.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20060608</date>
+    <series-id system="pluto">654378c0a78f0d001a7ee459</series-id>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
     <category>Movie</category>
-    <category>Romantic comedy</category>
-    <category>Romance</category>
+  </programme>
+  <programme start="20261005024521 +0000" stop="20261005042921 +0000" channel="Pluto TV Cine Comedia">
+    <title>Morir en San Hilario</title>
+    <episode-num system="original-air-date">20040101000000 +0000</episode-num>
+    <desc>San Hilario vivía de su espléndido cementerio y de la habilidad de sus gentes para organizar los entierros más hermosos. La gente viajaba a San Hilario a morirse a gusto.</desc>
+    <icon src="https://images.pluto.tv/episodes/628637fb94317400134cb84d/poster_1768603373913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20040101</date>
+    <series-id system="pluto">628637f994317400134cb846</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004113424 +0000" stop="20261004130928 +0000" channel="Pluto TV Comedias Románticas">
     <title>A Christmas Kiss</title>
@@ -77092,8 +77953,8 @@
     <icon src="https://images.pluto.tv/episodes/6964f48c262748e8585d36ac/poster_1768223885398.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20111118</date>
     <series-id system="pluto">6964f48b262748e8585d368c</series-id>
-    <category>Movie</category>
     <category>Romance</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004130928 +0000" stop="20261004144628 +0000" channel="Pluto TV Comedias Románticas">
     <title>Christmas Mail</title>
@@ -77102,9 +77963,9 @@
     <icon src="https://images.pluto.tv/episodes/5f4ab3c5fa72a5001a5f7919/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20100101</date>
     <series-id system="pluto">5f4ab3c3fa72a5001a5f7913</series-id>
-    <category>Movie</category>
-    <category>Romantic comedy</category>
     <category>Romance</category>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004144628 +0000" stop="20261004163628 +0000" channel="Pluto TV Comedias Románticas">
     <title>Amanece En Edimburgo</title>
@@ -77113,8 +77974,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4e17f7fa72a5001a5fa1f0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130101</date>
     <series-id system="pluto">5f4e17f6fa72a5001a5fa1e8</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004163628 +0000" stop="20261004180048 +0000" channel="Pluto TV Comedias Románticas">
     <title>Transformaci√≥n Navide√±a</title>
@@ -77123,9 +77984,9 @@
     <icon src="https://images.pluto.tv/episodes/660d6954a79dde0014200720/poster_1769189043700.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20180101</date>
     <series-id system="pluto">660d6953a79dde0014200701</series-id>
-    <category>Movie</category>
-    <category>Romantic comedy</category>
     <category>Romance</category>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004180048 +0000" stop="20261004195231 +0000" channel="Pluto TV Comedias Románticas">
     <title>Mia Sarah</title>
@@ -77134,9 +77995,9 @@
     <icon src="https://images.pluto.tv/episodes/6646267ca086180013490df9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20061215</date>
     <series-id system="pluto">6646267ba086180013490dd8</series-id>
-    <category>Movie</category>
-    <category>Romantic comedy</category>
     <category>Romance</category>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004195231 +0000" stop="20261004213331 +0000" channel="Pluto TV Comedias Románticas">
     <title>3 Times A Charm</title>
@@ -77145,8 +78006,8 @@
     <icon src="https://images.pluto.tv/episodes/5f6316c1ddf1b7001a80d277/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110101</date>
     <series-id system="pluto">5f6316c0ddf1b7001a80d26f</series-id>
-    <category>Movie</category>
     <category>Romance</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004213331 +0000" stop="20261004231331 +0000" channel="Pluto TV Comedias Románticas">
     <title>Before You Say I Do</title>
@@ -77155,9 +78016,9 @@
     <icon src="https://images.pluto.tv/episodes/5f4948ab61f1b1001afec779/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20090101</date>
     <series-id system="pluto">5f4948a961f1b1001afec773</series-id>
-    <category>Movie</category>
     <category>Romance</category>
     <category>African-American Romance</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004231331 +0000" stop="20261005010203 +0000" channel="Pluto TV Comedias Románticas">
     <title>Primavera en Normandía</title>
@@ -77166,28 +78027,30 @@
     <icon src="https://images.pluto.tv/episodes/69fc6841fcc735ec75f0e37b/poster_1778149442732.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20140821</date>
     <series-id system="pluto">69fc6840fcc735ec75f0e35b</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
-  </programme>
-  <programme start="20261004082936 +0000" stop="20261004100300 +0000" channel="Pluto TV Cine Romántico">
-    <title>Encuentra el amor en Valentine</title>
-    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
-    <desc>Kennedy Blaine hereda un magnífico rancho en la pequeña población de Valentine y decide visitar la propiedad para ponerlo en venta. Cuando llega, Derek, el capataz, la confunde con una intrusa y la relación no empieza con buen pie.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a4cc5b16fa7bb8b799731bd/poster_1783416241978.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20160101</date>
-    <series-id system="pluto">6a4cc5b06fa7bb8b7997319d</series-id>
     <category>Movie</category>
-    <category>Romance</category>
   </programme>
-  <programme start="20261004100300 +0000" stop="20261004113306 +0000" channel="Pluto TV Cine Romántico">
-    <title>Corazones perdidos</title>
-    <episode-num system="original-air-date">20171203000000 +0000</episode-num>
-    <desc>Tras una ruptura sentimental, Marie pierde la Navidad; su madre le envía los adornos de su infancia con milagros.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a22ac370eeacb372363d01f/poster_1785234601801.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20171203</date>
-    <series-id system="pluto">6a22a691a87694f9965e52eb</series-id>
+  <programme start="20261005010203 +0000" stop="20261005023707 +0000" channel="Pluto TV Comedias Románticas">
+    <title>Querida Elisabeth</title>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>La vida de Sid Straw se desmorona a medida que trata de demostrar a sus amigos que entabló amistad con una celebridad mientras estaba en la universidad.</desc>
+    <icon src="https://images.pluto.tv/episodes/6502c8c53b20050013826194/poster_1768604674409.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20200101</date>
+    <series-id system="pluto">6502c8c33b20050013826175</series-id>
+    <category>Dark Humor &amp; Black Comedies</category>
+    <category>Comedy</category>
     <category>Movie</category>
-    <category>Romance</category>
+  </programme>
+  <programme start="20261005023707 +0000" stop="20261005042105 +0000" channel="Pluto TV Comedias Románticas">
+    <title>Matrimonio Original</title>
+    <episode-num system="original-air-date">19410101000000 +0000</episode-num>
+    <desc>La única comedia norteamericana del maestro Hitchcock trata sobre las relaciones de amor-odio de un sofisticado matrimonio de Nueva York que descubre que, debido a un error administrativo, no están legalmente casados.</desc>
+    <icon src="https://images.pluto.tv/episodes/673b0d60882f6d0013934cfc/poster_1769191204290.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19410101</date>
+    <series-id system="pluto">673b0d5e882f6d0013934cdd</series-id>
+    <category>Comedy</category>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004113306 +0000" stop="20261004134059 +0000" channel="Pluto TV Cine Romántico">
     <title>Hermosas criaturas</title>
@@ -77196,8 +78059,8 @@
     <icon src="https://images.pluto.tv/episodes/6761a171381eea0013640bd3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130119</date>
     <series-id system="pluto">6761a170381eea0013640bb3</series-id>
-    <category>Movie</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004134059 +0000" stop="20261004151557 +0000" channel="Pluto TV Cine Romántico">
     <title>Love After Love</title>
@@ -77206,8 +78069,8 @@
     <icon src="https://images.pluto.tv/episodes/6a219fa0a87694f9963ac5e9/poster_1780588449288.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20180330</date>
     <series-id system="pluto">6a219f9fa87694f9963ac5c9</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004151557 +0000" stop="20261004165903 +0000" channel="Pluto TV Cine Romántico">
     <title>Con la magia en los zapatos</title>
@@ -77216,8 +78079,8 @@
     <icon src="https://images.pluto.tv/episodes/6729e43d2678a5001418eec6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20150315</date>
     <series-id system="pluto">6729e43c2678a5001418eea6</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004165903 +0000" stop="20261004185608 +0000" channel="Pluto TV Cine Romántico">
     <title>Algo Prestado</title>
@@ -77226,8 +78089,8 @@
     <icon src="https://images.pluto.tv/episodes/675824d22678a500143c745a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110420</date>
     <series-id system="pluto">675824d02678a500143c7439</series-id>
-    <category>Movie</category>
     <category>Romance</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004185608 +0000" stop="20261004205025 +0000" channel="Pluto TV Cine Romántico">
     <title>La felicidad nunca viene sola</title>
@@ -77236,8 +78099,8 @@
     <icon src="https://images.pluto.tv/episodes/69ef3aa8598bd1d6b49aee5c/poster_1777285801867.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20120627</date>
     <series-id system="pluto">69ef3aa8598bd1d6b49aee3d</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004205025 +0000" stop="20261004225825 +0000" channel="Pluto TV Cine Romántico">
     <title>La secretaria</title>
@@ -77246,8 +78109,8 @@
     <icon src="https://images.pluto.tv/episodes/61dec523635aeb001ac7d7c9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20020920</date>
     <series-id system="pluto">61dec51d635aeb001ac7d7c3</series-id>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261004225825 +0000" stop="20261005003220 +0000" channel="Pluto TV Cine Romántico">
     <title>Enamorarse</title>
@@ -77256,9 +78119,9 @@
     <icon src="https://images.pluto.tv/episodes/64fafeb6f6f05d00134d82a0/poster_1779201100411.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130101</date>
     <series-id system="pluto">64fafeb5f6f05d00134d8282</series-id>
-    <category>Movie</category>
-    <category>Romantic comedy</category>
     <category>Comedy</category>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261005003220 +0000" stop="20261005021526 +0000" channel="Pluto TV Cine Romántico">
     <title>Con la magia en los zapatos</title>
@@ -77267,8 +78130,45 @@
     <icon src="https://images.pluto.tv/episodes/6729e43d2678a5001418eec6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20150315</date>
     <series-id system="pluto">6729e43c2678a5001418eea6</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261005021526 +0000" stop="20261005022326 +0000" channel="Pluto TV Cine Romántico">
+    <title>Fillers Pluto TV ES</title>
+    <episode-num system="onscreen">S01E105</episode-num>
+    <episode-num system="pluto">685bb385c28550566149060e</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Fillers Pluto TV ES</desc>
+    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261005022326 +0000" stop="20261005035426 +0000" channel="Pluto TV Cine Romántico">
+    <title>Navidad vuelve a casa</title>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Al borde de una promoción, una exitosa corredora de bienes raíces, ABBEY, se ve obligada a regresar a su ciudad natal para reparar una casa victoriana heredada de su abuela.</desc>
+    <icon src="https://images.pluto.tv/episodes/63d7b84c1fdb9b0013416f40/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20200101</date>
+    <series-id system="pluto">63d7b84b1fdb9b0013416f21</series-id>
+    <category>Romance</category>
+    <category>African-American Romance</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261005035426 +0000" stop="20261005040226 +0000" channel="Pluto TV Cine Romántico">
+    <title>Fillers Pluto TV ES</title>
+    <episode-num system="onscreen">S01E105</episode-num>
+    <episode-num system="pluto">685bb385c28550566149060e</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Fillers Pluto TV ES</desc>
+    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
 	<programme start="20261004020500 +0200" stop="20261004033800 +0200" channel="Cines Verdi TV">
     <title>Pussy Riot: una plegaria punk</title>
@@ -97910,6 +98810,185 @@ From Estadio Nacional Chelato Uclés in Honduras.</desc>
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FO7JB5190T65RV7ILDTF.jpg/a:p/im:i:c_limit,w_1920/FO7JB5190T65RV7ILDTF_reference_keyframe.jpg" />
 	</programme>
+  <programme start="20261004083140 +0000" stop="20261004104840 +0000" channel="Pluto TV Cine Acción">
+    <title>Los tigres del tren</title>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>Un ferroviario en la China de 1941 lucha contra los japoneses para lograr comida para los pobres. Pronto se embarcarán en una misión suicida para volar un puente.</desc>
+    <icon src="https://images.pluto.tv/episodes/5fe9b75e4aa70a001a4fd2c7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20160101</date>
+    <series-id system="pluto">5fe9b75d4aa70a001a4fd2c1</series-id>
+    <category>Movie</category>
+    <category>Action</category>
+    <category>Action Comedies</category>
+  </programme>
+  <programme start="20261004074248 +0000" stop="20261004091327 +0000" channel="Pluto TV Catástrofes">
+    <title>La aventura del Poseidón: Capítulo 1</title>
+    <episode-num system="original-air-date">20050101000000 +0000</episode-num>
+    <desc>El Poseidón es un enorme transatlántico de lujo que naufraga cuando unos terroristas hacen estallar unas bombas en pleno océano. El hundimiento sorprende a todos en plena nochevieja, y a partir de entonces los supervivientes intentarán ponerse a salvo.</desc>
+    <icon src="https://images.pluto.tv/episodes/65c0cf2fb65b870013cb8aa5/poster_1769044682299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20050101</date>
+    <series-id system="pluto">65c0cf2eb65b870013cb8a86</series-id>
+    <category>Movie</category>
+    <category>Action</category>
+    <category>Adventure</category>
+  </programme>
+  <programme start="20261004091327 +0000" stop="20261004112927 +0000" channel="Pluto TV Catástrofes">
+    <title>The unthinkable: The unthinkable</title>
+    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
+    <desc>Suecia se enfrenta a un misterioso y desconocido ataque. No hay tanques ni ejércitos enemigos acechando, sino sistemas informáticos que se caen repentinamente e instalaciones o infraestructuras que explotan de repente.</desc>
+    <icon src="https://images.pluto.tv/episodes/6299d399ba369d001340ea70/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20180101</date>
+    <series-id system="pluto">6299d395ba369d001340ea69</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme start="20261004081312 +0000" stop="20261004093812 +0000" channel="Pluto TV Sci-Fi">
+    <title>Freaked. La disparatada parada de los monstruos</title>
+    <episode-num system="original-air-date">19930424000000 +0000</episode-num>
+    <desc>Ricky, contratado por una empresa para patrocinar un componente químico, descubre que la molécula es responsable de monstruosas deformidades.</desc>
+    <icon src="https://images.pluto.tv/episodes/6393110af1ac720013bca579/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19930424</date>
+    <series-id system="pluto">63931109f1ac720013bca572</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261004093812 +0000" stop="20261004112312 +0000" channel="Pluto TV Sci-Fi">
+    <title>C.H.U.D.</title>
+    <episode-num system="original-air-date">19840831000000 +0000</episode-num>
+    <desc>Una extraña serie de desapariciones repentinas en las calles de la ciudad de Nueva York parece apuntar hacia algo desagradable que vive en las alcantarillas.</desc>
+    <icon src="https://images.pluto.tv/episodes/6393088c753d210014220953/poster_1768600449139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19840831</date>
+    <series-id system="pluto">6393088b753d21001422094b</series-id>
+    <category>Movie</category>
+    <category>Monsters</category>
+    <category>Horror</category>
+  </programme>
+  <programme start="20261004082123 +0000" stop="20261004093913 +0000" channel="Pluto TV Psycho">
+    <title>Barba azul</title>
+    <episode-num system="original-air-date">19441111000000 +0000</episode-num>
+    <desc>Un peligroso asesino, apodado Barba Azul, tiene aterrorizados a los habitantes de París. A todos menos a Lucille, una modesta costurera que, desoyendo el clamor popular, decide salir a dar un paseo nocturno por la ciudad.</desc>
+    <icon src="https://images.pluto.tv/episodes/6654637aaf79c70013a139fe/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19441111</date>
+    <series-id system="pluto">66546378af79c70013a139de</series-id>
+    <category>Movie</category>
+    <category>Horror Classics</category>
+    <category>Horror</category>
+  </programme>
+  <programme start="20261004093913 +0000" stop="20261004111239 +0000" channel="Pluto TV Psycho">
+    <title>Fear X</title>
+    <episode-num system="original-air-date">20030404000000 +0000</episode-num>
+    <desc>Harry (John Turturro), un agente de seguridad de un centro comercial, se dedica a investigar obsesivamente el asesinato de su mujer.</desc>
+    <icon src="https://images.pluto.tv/episodes/655c77322f9f5b0013eca968/poster_1782271452232.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20030404</date>
+    <series-id system="pluto">655c77302f9f5b0013eca949</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme start="20261004083549 +0000" stop="20261004105218 +0000" channel="Pluto TV Thrillers">
+    <title>El duodécimo hombre</title>
+    <episode-num system="original-air-date">20171225000000 +0000</episode-num>
+    <desc>En 1943, en la Noruega ocupada por Alemania, un grupo de saboteadores es traicionado y apresado por las tropas nazis. De los 12 integrantes del comando, sólo uno consigue sobrevivir.</desc>
+    <icon src="https://images.pluto.tv/episodes/67b5b84a5d2668ecc5083e62/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20171225</date>
+    <series-id system="pluto">67b5b8485d2668ecc5083e40</series-id>
+    <category>Movie</category>
+    <category>Foreign Drama</category>
+    <category>Drama</category>
+  </programme>
+  <programme start="20261004062334 +0000" stop="20261004093634 +0000" channel="Pluto TV Cine Estelar">
+    <title>Moby Dick</title>
+    <episode-num system="original-air-date">20100101000000 +0000</episode-num>
+    <desc>El Pequod es un barco ballenero cuyo objetivo principal es cazar a la mítica ballena blanca. Al mando de la nave está el tiránico capitán Ahab, que vive obsesionado con la idea de capturar al animal que consiguió escapar después de arrancarle una pierna.</desc>
+    <icon src="https://images.pluto.tv/episodes/627b5b82e500b000135db30f/poster_1779202147943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20100101</date>
+    <series-id system="pluto">627b5b7fe500b000135db308</series-id>
+    <category>Movie</category>
+    <category>Action</category>
+    <category>Adventure</category>
+  </programme>
+  <programme start="20261004093634 +0000" stop="20261004113339 +0000" channel="Pluto TV Cine Estelar">
+    <title>Algo Prestado</title>
+    <episode-num system="original-air-date">20110420000000 +0000</episode-num>
+    <desc>Las amistades se ponen a prueba y los secretos salen a la luz cuando Rachel, soltera recalcitrante, se enamora de Dex, el prometido de su mejor amiga Darcy.</desc>
+    <icon src="https://images.pluto.tv/episodes/675824d22678a500143c745a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20110420</date>
+    <series-id system="pluto">675824d02678a500143c7439</series-id>
+    <category>Movie</category>
+    <category>Romance</category>
+  </programme>
+  <programme start="20261004075139 +0000" stop="20261004095439 +0000" channel="Pluto TV Cine Drama">
+    <title>Mi casa en París</title>
+    <episode-num system="original-air-date">20150807000000 +0000</episode-num>
+    <desc>Mathias, un desventurado neoyorquino sin esposa, sin hijos y sin un céntimo, hereda de su padre, con quien no se hablaba, una enorme en casa en París, de la que quiere deshacerse lo antes posible.</desc>
+    <icon src="https://images.pluto.tv/episodes/60d0438028f1d30013ed3e46/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20150807</date>
+    <series-id system="pluto">60d0437e28f1d30013ed3e40</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261004073340 +0000" stop="20261004091428 +0000" channel="Pluto TV Cine Comedia">
+    <title>El hotel de los fantasmas</title>
+    <episode-num system="original-air-date">19881118000000 +0000</episode-num>
+    <desc>El propietario de un castillo irlandés, agobiado por sus numerosas deudas, decide convertir su castillo en un hotel. El proyecto no cuaja, pero se le ocurre proclamar falsamente que el castillo está habitado por terribles fantasmas.</desc>
+    <icon src="https://images.pluto.tv/episodes/655c75d9b8262d0013a59d46/poster_1782272882560.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19881118</date>
+    <series-id system="pluto">655c75d7b8262d0013a59d27</series-id>
+    <category>Movie</category>
+    <category>Foreign Comedies</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261004091428 +0000" stop="20261004103801 +0000" channel="Pluto TV Cine Comedia">
+    <title>Tres pequeños ninjas</title>
+    <episode-num system="original-air-date">19920807000000 +0000</episode-num>
+    <desc>Tres hermanos han sido entrenados desde muy pequeños por su abuelo. Un día, un viejo "amigo" de éste vuelve a dar señales de vida pero el FBI le está investigando por una serie de turbios asuntos y pretende librarse de cualquier manera.</desc>
+    <icon src="https://images.pluto.tv/episodes/655c91ea174b1400143a712e/poster_1782274327105.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19920807</date>
+    <series-id system="pluto">655c91e8174b1400143a710f</series-id>
+    <category>Movie</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261004080824 +0000" stop="20261004095124 +0000" channel="Pluto TV Comedias Románticas">
+    <title>Nunca es tarde para enamorarse</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Narra la historia de Harvey (Dustin Hoffman), un hombre aburrido y cansado, que viaja a Londres para asistir a la boda de su hija con un hombre bastante mayor que ella. Allí, Harvey conocerá a una mujer (Emma Thompson) que le cambiará la vida.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f523c1adb45a1001a79ab0b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20080101</date>
+    <series-id system="pluto">5f523c19db45a1001a79ab03</series-id>
+    <category>Movie</category>
+    <category>Romance</category>
+    <category>African-American Romance</category>
+  </programme>
+  <programme start="20261004095124 +0000" stop="20261004113424 +0000" channel="Pluto TV Comedias Románticas">
+    <title>Una pizca de amor</title>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Saltan chispas entre un agente literario de libros de cocina y la presentadora de un programa de cocina.</desc>
+    <icon src="https://images.pluto.tv/episodes/63ce6a1a5b790200141046d3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20200101</date>
+    <series-id system="pluto">63ce6a185b790200141046b4</series-id>
+    <category>Movie</category>
+    <category>Romantic comedy</category>
+    <category>Romance</category>
+  </programme>
+  <programme start="20261004082936 +0000" stop="20261004100300 +0000" channel="Pluto TV Cine Romántico">
+    <title>Encuentra el amor en Valentine</title>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>Kennedy Blaine hereda un magnífico rancho en la pequeña población de Valentine y decide visitar la propiedad para ponerlo en venta. Cuando llega, Derek, el capataz, la confunde con una intrusa y la relación no empieza con buen pie.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a4cc5b16fa7bb8b799731bd/poster_1783416241978.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20160101</date>
+    <series-id system="pluto">6a4cc5b06fa7bb8b7997319d</series-id>
+    <category>Movie</category>
+    <category>Romance</category>
+  </programme>
+  <programme start="20261004100300 +0000" stop="20261004113306 +0000" channel="Pluto TV Cine Romántico">
+    <title>Corazones perdidos</title>
+    <episode-num system="original-air-date">20171203000000 +0000</episode-num>
+    <desc>Tras una ruptura sentimental, Marie pierde la Navidad; su madre le envía los adornos de su infancia con milagros.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a22ac370eeacb372363d01f/poster_1785234601801.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20171203</date>
+    <series-id system="pluto">6a22a691a87694f9965e52eb</series-id>
+    <category>Movie</category>
+    <category>Romance</category>
+  </programme>
 	<programme start="20261003060100 +0200" stop="20261003061300 +0200" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 7: RC Celta - R. Racing Club</title>
     <sub-title>2026 | TP</sub-title>
