@@ -286,6 +286,7 @@
 1609,Lifetime • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0609.jpg
 0610,El Gourmet • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0610.jpg
 1610,El Gourmet • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0610.jpg
+2610,El Gourmet • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0610.jpg
 0611,Tlnovelas • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0611.jpg
 1611,Tlnovelas • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0611.jpg
 0612,Kanal D Drama,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0612.png
@@ -298,6 +299,7 @@
 0617,Galavisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0617.jpg
 0618,Atreseries • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0618.jpg
 1618,Atreseries • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0618.jpg
+2618,Atreseries • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0618.jpg
 0619,AMC Series,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0619.jpg
 0620,ARTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0620.jpg
 0621,Eurochannel,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0621.jpg

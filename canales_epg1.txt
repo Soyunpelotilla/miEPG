@@ -33,7 +33,7 @@ Warner TV HD,Warner TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM
 Comedy Central HD,Comedy Central,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png
 Calle 13 HD,Calle 13,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png
 Cosmo HD,Cosmo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png
-SyFy HD,SyFy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png
+SciFi HD,SciFi,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SciFi.png
 Energy,Energy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png
 Factoría de Ficción,Factoría de Ficción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png
 Neox,Neox,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png
