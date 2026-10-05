@@ -2,7 +2,6 @@
 6a43d63071cbfff7dca61d23,Los Misteriosos asesinatos de Miss Fisher,https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/colorLogoPNG_1789631429620.png
 6a43d3bae0c1a33841302952,Noche y día,https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png
 6a31544f2c1c785c1138dbb1,Mr. Bean,https://images.pluto.tv/channels/6a31544f2c1c785c1138dbb1/colorLogoPNG_1781617788564.png
-6a954e12f2eaa89247e06dd6,MTV VMAs 2026,https://images.pluto.tv/channels/6a954e12f2eaa89247e06dd6/colorLogoPNG_1790256418017.png
 6a43d26599d7b121476c351c,Acapulco Shore,https://images.pluto.tv/channels/6a43d26599d7b121476c351c/colorLogoPNG_1787302997380.png
 6a846cb6840f7d654710df00,That's 90s00s,https://images.pluto.tv/channels/6a846cb6840f7d654710df00/colorLogoPNG_1790842102809.png
 6a846c44496b635ad62aa13e,That's 80s,https://images.pluto.tv/channels/6a846c44496b635ad62aa13e/colorLogoPNG_1790781375896.png

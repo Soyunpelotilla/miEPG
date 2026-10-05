@@ -474,7 +474,9 @@
 0903,TV Pública • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0903.jpg
 0904,LN Más • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0904.jpg
 0905,TN • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0905.jpg
-0906,TV Globo • Brasil,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0906.jpg
+0906,TV Globo Brasil • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0906.jpg
+1906,TV Globo Brasil • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0906.jpg
+2906,TV Globo Brasil • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0906.jpg
 0907,Multivisión Federal • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0907.jpg
 0908,Tele 10 • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0908.jpg
 0909,Telefe • Buenos Aires, Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0909.jpg
@@ -536,7 +538,7 @@
 0961,Gigavisión • Bolivia,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0961.jpg
 0962,Canal 14 de Tic • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0962.jpg
 0963,Alpha Media TV • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0963.jpg
-0964,Canal E • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0964.jpg
+0964,+Perfil • Argentina,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0964.jpg
 0965,TEST TRACE LATINA FEED CL7302,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0965.jpg
 0966,TEST DITU REDBULL,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
 0967,TEST DITU CARACOL KIDS,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
