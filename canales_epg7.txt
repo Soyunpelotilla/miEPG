@@ -118,8 +118,7 @@
 0223,Al Jazeera • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0223.jpg
 1223,Al Jazeera • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0223.jpg
 0224,TV5 Monde,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0224.jpg
-0225,Arirang TV • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0225.jpg
-1225,Arirang TV • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0225.jpg
+0225,Arirang TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0225.jpg
 0226,Megatiempo,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0226.jpg
 0301,NTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0301.jpg
 0302,ETC TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0302.jpg
