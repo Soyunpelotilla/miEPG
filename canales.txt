@@ -119,7 +119,7 @@ DARK,DARK,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/
 Dark Rojo,Dark Rojo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dark%20Rojo.png
 Calle 13 HD,Calle 13,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png
 Cosmo HD,Cosmo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png
-SyFy HD,SyFy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png
+SciFi HD,SciFi,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SciFi.png
 Canal Hollywood HD,Canal Hollywood,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png
 AMC HD,AMC,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png
 AMC Break,AMC Break,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png
