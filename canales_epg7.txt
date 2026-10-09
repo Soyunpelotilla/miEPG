@@ -36,6 +36,7 @@
 0132,Iquique TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0132.jpg
 0133,Canal 2 San Antonio,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0133.jpg
 0134,SextaVisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0134.jpg
+0135,UCV2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
 0137,Hobikka TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0137.jpg
 0138,Tevex,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0138.jpg
 0139,ContiVisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0139.jpg
@@ -342,8 +343,9 @@
 0705,Animal Planet • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0705.jpg
 1705,Animal Planet • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0705.jpg
 2705,Animal Planet • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0705.jpg
-0706,History • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0706.jpg
-1706,History • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0706.jpg
+0706,History Channel • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0706.jpg
+1706,History Channel • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0706.jpg
+2706,History Channel • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0706.jpg
 0707,History 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0707.jpg
 0708,TLC • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0708.jpg
 1708,TLC • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0708.jpg
