@@ -158,16 +158,15 @@ Runtime Crimen,Runtime Crimen,https://raw.githubusercontent.com/davidmuma/picons
 Runtime Romance,Runtime Romance,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png
 RunTime Clásicos,RunTime Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png
 RunTime Familia,RunTime Familia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png
-5f1ac2591dd8880007bb7d6d,Pluto TV Cine Acción,https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png
-645a309c5a0cd5000873f609,Pluto TV Catástrofes,https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png
-5f6a38eaa5b68b0007a00e7a,Pluto TV Sci-Fi,https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png
+5f1ac2591dd8880007bb7d6d,5f1ac2591dd8880007bb7d6d,https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png
+5f6a38eaa5b68b0007a00e7a,5f6a38eaa5b68b0007a00e7a,https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png
 65ce480a78df2200131c597b,Pluto TV Psycho,https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png
-5f1ac8a87cd38d000745d7cf,Pluto TV Thrillers,https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png
-5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png
-5f1ac947dcd00d0007937c08,Pluto TV Cine Drama,https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png
-5f1ac8099c49f600076579b2,Pluto TV Cine Comedia,https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png
-655b5d865812e80008843bd1,Pluto TV Comedias Románticas,https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png
-5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico,https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png
+5f1ac8a87cd38d000745d7cf,5f1ac8a87cd38d000745d7cf,https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png
+5f1ac1f1b66c76000790ef27,5f1ac1f1b66c76000790ef27,https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png
+5f1ac947dcd00d0007937c08,5f1ac947dcd00d0007937c08,https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png
+5f1ac8099c49f600076579b2,5f1ac8099c49f600076579b2,https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png
+655b5d865812e80008843bd1,655b5d865812e80008843bd1,https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png
+5f1ac9a2d3611d0007a844bb,5f1ac9a2d3611d0007a844bb,https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png
 Cines Verdi TV,Cines Verdi TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png
 Cine Feel Good,Cine Feel Good,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png
 Motorvision,Motorvision,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision.png
