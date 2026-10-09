@@ -358,6 +358,7 @@
 159551,ESPN3,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 33527,ETBN Enlace USA,https://ebyl.tmsimg.com/assets/s33527_ld_h15_aa.png
 16574,Eurochannel,https://ebyl.tmsimg.com/assets/s16574_ld_h15_aa.png
+223607,Eurochannel HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 40704,euronews,https://ebyl.tmsimg.com/assets/s40704_ld_h15_aa.png
 50365,euronews,https://ebyl.tmsimg.com/assets/s50365_ld_h15_aa.png
 27741,Europa Europa,https://ebyl.tmsimg.com/assets/s27741_ld_h15_aa.png
@@ -415,6 +416,7 @@
 84344,Fuel TV HD,https://ebyl.tmsimg.com/assets/s84344_ld_h15_ab.png
 101676,Fusion,https://ebyl.tmsimg.com/assets/s83173_ld_h15_ab.png
 114182,FUTV,https://ebyl.tmsimg.com/assets/s114182_ld_h15_ab.png
+223601,FUTV HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 46442,FX,https://ebyl.tmsimg.com/assets/s46442_ld_h15_aa.png
 49756,FX,https://ebyl.tmsimg.com/assets/s46442_ld_h15_aa.png
 77617,FX,https://ebyl.tmsimg.com/assets/s105689_ld_h15_aa.png
