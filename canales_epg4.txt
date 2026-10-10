@@ -92,6 +92,7 @@
 72534,AXN,https://ebyl.tmsimg.com/assets/s72534_ld_h15_ab.png
 34863,AyM Sports,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9JW.png
 67632,AYM Sports 2,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9JE.png
+224394,AYM Sports 2 HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 136770,AYM Sports 3,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9M7.png
 184497,AYM Sports 6,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9ME.png
 105163,AyM Sports HD,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9JW.png
@@ -514,6 +515,7 @@
 124018,JAJAJA,https://ebyl.tmsimg.com/assets/s124018_ld_h15_ab.png
 100795,Jesus Christ Network,https://ebyl.tmsimg.com/assets/s100795_ld_h6_aa.png
 62629,JUICY Spanish,https://ebyl.tmsimg.com/assets/s58684_ld_h15_aa.png
+223808,Justicia TV HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 105629,K17DL-D2,https://ebyl.tmsimg.com/assets/s51306_ld_h15_ac.png
 119198,Kanal D Drama,https://ebyl.tmsimg.com/assets/s112558_ld_h15_ab.png
 130329,Kanal D Drama,https://ebyl.tmsimg.com/assets/s112558_ld_h15_ab.png
