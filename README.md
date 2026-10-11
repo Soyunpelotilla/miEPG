@@ -6,7 +6,7 @@ Este repositorio utiliza **GitHub Actions** para generar un archivo XML a partir
 
 El script se ejecuta automáticamente **3 veces al día** a las 00:05, 08:05 y 16:05 (hora de España). Si deseas, puedes modificar este horario en el archivo .github/workflows/miEPG.yml
 
----
+----
 
 ## Instrucciones
 
