@@ -7320,7 +7320,7 @@ RangersSportsNetwork.us,US - Rangers Sports Network,https://iptv-epg.org/images/
 RCNMas.us,US - RCN Más,https://iptv-epg.org/images/RKdHdf8iXazghExb_q19QyjNgriBXAFrfQW4JQZu_q-ibF1BIddOufBKPj4NZCAst7i9LazPBTBc5Sq7OIGwM1YI2puNLVhg6TqkGw
 RCNNovelas.us,US - RCN Novelas,https://iptv-epg.org/images/9RdLg9aADbsflolCngOhLYTd3M8vDhk1tZLe3sNR3Dl629lhNx6embkLJlNu1GhaaqW_nmdaR0FRHUri-nbYPWNESDVcpO6aGygTONT3rKM
 RealHousewivesVault.us,US - Real Housewives Vault,https://iptv-epg.org/images/VWV6QjUQW55Xg-i2n-EQRV8AuXPlZiQHKH2tOnf45nORTn5zkAEWSdiGPuniSW_VNIOGnuXxnpGDiLvcGbQ8ZDd9A8V7mhGD8odeR0UdoAUER0ggyRJkGjw
-RealWild.us,US - Real Wild,
+RealWild.us,US - Real Wild,https://iptv-epg.org/images/Xu1dtdCaz6Tj0HIgBuxhedtAqg143HZClWdRfVQvu_NyjJAWAw6SZ4G4JJkmPH6KIVt3GincB1CGWaC9DtrdfGzqOgct7Yu0ZwFeYrsr
 RecipeTV.us,US - Recipe.TV,https://iptv-epg.org/images/ayegIzz4J2tl4vTxb51H_aXVX4NeQM_Ws6CJ5uHo5DhZBDyn8YmURRbr0BhPzlwUBkKdPVu3KseVAGICS2VhesOjTeMqZGO7IwlVn6MO
 RedbullTV.us,US - Redbull TV,https://iptv-epg.org/images/zGtOxkgLiM55vTSqbUmmmY1N2JidmxEp66To9P1s50ebBnm0NZEEg3N4jY2y2xAX_yHQBt3ypeo-fAe8lItTTiT0bdsljDAZvYuX7ZTNxw
 ReelzChannel.us,US - Reelz Channel,https://iptv-epg.org/images/EpizKLaM77mz0ye83ZOsGgAzRowAgkXwy-uhi6-wcrz3A-5scHjQvcDAOML-_a35Jt1mBm7CyyxsdV2mYk6yHymF-o7Mqcc4ZxnzNUuXdkIiIA

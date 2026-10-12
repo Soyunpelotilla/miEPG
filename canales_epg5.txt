@@ -547,9 +547,8 @@
 0967,TEST DITU CARACOL KIDS,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
 0968,TEST DITU CARACOL SPORTS,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
 0969,TEST DITU CARACOL MIX,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0969.jpg
-0970,AMERICA2 FEED PY SRC MTVPRGY,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0970.jpg
-0971,A24 FEED PY SRC MTVPRGY,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0971.jpg
-0972,A24 FEED PY SRC RTV1944,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0972.jpg
+0970,América TV • Paraguay,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0970.jpg
+0971,Estación 40 • Paraguay,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0971.jpg
 0973,ZTV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0973.jpg
 0974,ZTV 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0974.jpg
 0975,ZKids,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0975.jpg
