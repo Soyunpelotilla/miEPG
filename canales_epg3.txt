@@ -94,6 +94,7 @@
 67632,AYM Sports 2,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9JE.png
 224394,AYM Sports 2 HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 136770,AYM Sports 3,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9M7.png
+224395,AYM Sports 4 HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 184497,AYM Sports 6,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9ME.png
 105163,AyM Sports HD,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9JW.png
 183940,Azteca 1,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
