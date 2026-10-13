@@ -71,7 +71,7 @@ FOROtv.mx,MX - FOROtv,https://iptv-epg.org/images/a-T61I4z0FA38lzeLJeb4vcSV9nIK-
 FOXSports.mx,MX - FOX Sports,https://iptv-epg.org/images/-dh3QhictAVQMf-JvfJHvYwGgKrEh1S5ykT_bPBPf9TbEzLB3LpPSQuwIGE2dpsyUJG05cexs91GFPgTVa2Y15uf8fNTBHT3B3gInsSJOMFvZQ
 FOXSports2.mx,MX - FOX Sports 2,https://iptv-epg.org/images/6My2flDNOL8dMZXMi0DWw2xCfYb9lrAjj0rEn5pL5swiY36mXPGMO_kkZIbaVZLn6BLgjc0nRcDFPqYk4y51lDgXbP_Y2yRpoism_r4s9o18SHo
 FOXSports3.mx,MX - FOX Sports 3,https://iptv-epg.org/images/6nFZw3d2dnKJ1Fp_K1wVtZLwU_Ol900ce25SHlyGYUlNI-IxdL4K0plTWygNM8NCveUC9wPYM_LtTyZ76KbBZl3PFpQ3W0RituCeKh90Quf6Cy4
-FOXSportsPremium.mx,MX - FOX Sports Premium,https://iptv-epg.org/images/bQfRYqoZMHLwaz_NVswIsR6xuAd831L72hPK8L7eDBdmyYeyp1DcLFSKoV8g2GleZiJTYU8bUuiOcw38I5pgG-5EKL8JSgo0vVY2urbJl2qDW6H99g
+FOXSportsPremium.mx,MX - FOX Sports Premium,
 FX.mx,MX - FX,https://iptv-epg.org/images/5LYmx-AOCNU-grPfZtEs3GCVVDo8mjUevcFgpXtEMO5Cr8knCnq53dU4D_9ePhZRiQegV4Hde4AJk96JDktq--ftKqBIfI6RavMQ
 FXMovies.mx,MX - FX Movies,https://iptv-epg.org/images/bgKeYNRLStsn-HlDlo7zSlfPN88h2Bl-QDe5lsQM6gsEzS4FIgQ6BHShLtpHUZJdfcr_8hENHJGZrg8QKngJIQzpZjhSmKhBtJ5f7R2wOgMB
 Glitz.mx,MX - Glitz,https://iptv-epg.org/images/PEZ-QNBSr2jwwLUNkO3m4MKnAyzjMdxBUzK-xvG5yEOr9IJ24beRcJhVebEkTIjfOZsSN_ZNPXImaOo8BFYlv6EVn2MvYK279ovAiPA1
