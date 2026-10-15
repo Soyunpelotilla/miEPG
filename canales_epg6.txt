@@ -11557,7 +11557,6 @@ CWKPLR.us,US - CW KPLR St. Louis MO,https://iptv-epg.org/images/kIEJgh7sMzgdCpeG
 CWKPTMDT3.us,US - CW KPTM-DT3 Omaha NE,https://iptv-epg.org/images/5EYsZprpgmksLpRi41vEFLte8A0qREh8JRhSeq80hrj9HpCvmXLnI1adG1stip3uLKOHb1Nl3s2VcfRK4ezC4FKWFejgZKZ8wOtMZtJcxg
 CWKPXJ.us,US - CW KPXJ Shreveport LA,https://iptv-epg.org/images/cLGkCsUlMsmuRTHNEYyDoOXAGD9iGZOS3EORDyLCXDDT0ZQYcZ6AeRactWpM9DuOdKd3WtWHyYTKMoRskSYOiMgpqnTpT1rffKXKGw
 CWKQCA.us,US - CW KQCA Sacramento CA,https://iptv-epg.org/images/Dy-ApEEKmsnXRprit4C4lb2uzmk1AOo6fnmeC_8TTFQCIQLVr0TaLlvkOwPsWdN4adn_jSkhALwB_7E2o119SrmBZ95k4WArQ1mlnw
-CWKQCW.us,US - CW KQCW Tulsa OK,https://iptv-epg.org/images/8axX31tsq_AODS0Y8VudCC11kUPpW4nb78XOHlsDAr65qPprPg77B2Vdehhqagcndub-69QLMOHI4vKbTUJ8Q49xBfIJlk3T2MX6aA
 CWKRCW.us,US - CW KRCW Portland OR,https://iptv-epg.org/images/abKgwq6J9guVgtPUhiMJV2EZTnGVLDDdHsCh2hPeLinKlw4yNHL1mCYdwWsP0lx7Q8ARML-MPkZSrg4iW0NHY49QwVQRyDqO-Kz5Vw
 CWKRON.us,US - CW KRON San Francisco CA,https://iptv-epg.org/images/WWw_NhCMylrVXNxYGLifI4QVcAPjVmYELCc8H7h5S5Cq6FypP1bCIuZ9YqP72FlVN_FXRYJ64GCRdjUH-3wt-Zy6Jo9f7TLuKPwiGg
 CWKSCCDT3.us,US - CW KSCC-DT3 Corpus Christi TX,https://iptv-epg.org/images/7cZ-EDpBr68G41vNkgJJcwd15IzyP1DcjW-Ci4O4F8BEPY-FGaYBsxA88x6MbaStxL88UQjWR4lEyDm5-6IPau_Vra0lZWRSPbDdF0h2LA
