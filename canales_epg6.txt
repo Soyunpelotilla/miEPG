@@ -11991,7 +11991,6 @@ MyWYTVDT2.us,US - My WYTV-DT2 Youngstown OH,https://iptv-epg.org/images/fAg_aybM
 MyNetKARZ.us,US - MyNet KARZ Little Rock AR,https://iptv-epg.org/images/m8t3HkA0A1BSSYJPCTuiv1i4dtQOwAKb8q6BmUXT4aqUs1m2rSsTt29ebh1biuh1OmpLzktnaOqO7mqsI8VkqN2xRw7xr0wrqBioAEJECQ
 MyNetKBVO.us,US - MyNet KBVO AUSTIN TX,https://iptv-epg.org/images/LTpmj-LkMmrjrwW5FnmNSDgwY8qfHUGJeSFMKiGjlSjTSlLl-Cod7hJzK1K766K6roG44vQH3cpiNbdTbhsuI0vAAWedmrbRj8xSy9wYLA
 MyNetKCRGDT2.US,US - MyNet KCRG-DT2 Cedar Rapids IA,https://iptv-epg.org/images/KEG9cvhMfM3hMb7A220KT2Fk-7AWGSxJ2pr_M_2HSwc3OiRTasYPscRPNQGbfH-VrMVNKDG5hC6EhorRuC9FYsh1DyDSBq2VuumfmyA_P30OAg
-MyNetKGBT.us,US - MyNet KGBT McAllen Harlingen Brownsville Weslaco TX,https://iptv-epg.org/images/iMSYsDEU5swKt5O606RpKpOePxoDngvDWQCJs0PJ3qb2slCw74aXtcYD5qmEXCphz8WiRDVAYv5CINJb7H6kKnnSK_ji5Kk5naKY6vLOxA
 MyNetKJBO.us,US - MyNet KJBO Wichita Falls TX,https://iptv-epg.org/images/VRMtndqFJPq98cBdPcnnEtr5Get745MyuRaxfg7Hm4y7_WpWavXitk5JtJN-3WW8hpf8SX2sx9v9iTdGycvbHlhOW_ALsiPSF2x_aphf5g
 MyNetKMYU.us,US - MyNet KMYU KUTVDT2 Salt Lake City UT,https://iptv-epg.org/images/cE_CbN2AudTIiK_Upu_wVnzzRMZz-aGP_H0YGjlKIrP5_L2D1PP3HbmbI6UZqJz8EIi2tHHXVexzBw5agRDuCipHKnWOYqMwHk5YTmJimg
 MyNetKOZL.us,US - MyNet KOZL Springfield Osage Beach MO,https://iptv-epg.org/images/VkmUzpq4mTuzA7hGF1abUG2TQj2nV7lpbE1L-CB49PZEERmk7nDMq4fssGv2392Q9UqWuCvCexzuLZQaHInMSh5Xrvu0QjIg3Uvu6m4qIQ

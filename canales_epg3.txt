@@ -1324,7 +1324,7 @@
 114030,XHVTV-TDT,https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
 114031,XHVTV-TDT2,https://ebyl.tmsimg.com/assets/s61719_ld_h15_ab.png
 114033,XHVTV-TDT3,https://ebyl.tmsimg.com/assets/s95679_ld_h15_ab.png
-114034,XHVTV-TDT4,https://ebyl.tmsimg.com/assets/s15213_ld_h15_ab.png
+114034,XHVTV-TDT4,https://ebyl.tmsimg.com/assets/GNLZZGG003R7F4D.png
 96695,XHWT-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 91751,XHWX-TDT,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
 91754,XHX-TDT,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
