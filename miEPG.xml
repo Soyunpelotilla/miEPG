@@ -89533,14 +89533,6 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261016173247 +0000" stop="20261016194530 +0000" channel="Sony One Hits Comedia">
-    <title>Zohan: Licencia Para Peinar</title>
-    <desc>Zohan es un agente de élite del Mossad que guarda un secreto: su sueño es convertirse en peluquero en Estados Unidos. Aprovechando una pelea contra su peor enemigo, un terrorista conocido como ‘El Fantasma', Zohan finge su propia muerte y vuela a Nueva York, armado únicamente con sus tijeras y su secador de pelo.A pesar de su inexperiencia, pronto es contratado por el dueño de una peluquería y consigue atraer a una gran multitud de clientes. Sin embargo, el sueño de Zohan corre peligro cuando su antiguo enemigo le reconoce y planea acabar con él de una vez por todas.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1029881934_0_20250704T092439883Z_51_imageprocessorclient-tvplus-linear-5db7c6bc99-d5mt6.jpeg"/>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
   <programme start="20261016194530 +0000" stop="20261016215343 +0000" channel="Sony One Hits Comedia">
     <title>Click (2006)</title>
     <desc>Un hostigado adicto al trabajo, Michael Newman (Adam Sandler) no tiene tiempo para su esposa (Kate Beckinsale) e hijos, y tampoco para impresionar a su ingrato jefe y ganarse un ascenso bien merecido. Así que cuando conoce a Morty (Christopher Walken), chiflado vendedor, recibe la respuesta a todas sus oraciones: un control remoto mágico que le permite evitar las pequeñas distracciones de la vida con resultados para morirse de la risa. Pero mientras Michael alegremente silencia, salta o escanea los momentos familiares y con sus amigos, el control gradualmente toma control sobre su vida y empieza a programarlo, en esta rápida, hilarante y alocada aventura cómica.</desc>
@@ -89565,12 +89557,12 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261016174447 +0000" stop="20261016201447 +0000" channel="Sony One Hits Acción">
-    <title>La Leyenda Del Zorro</title>
-    <desc>¡El justiciero de la capa original ha regresado! Antonio Banderas y la ganadora del Oscar(r) Catherine Zeta-Jones (2002, mejor actriz de reparto, Chicago) vuelven con más duelos a espada, aventuras y emoción en el explosivo espectáculo cinematográfico, ¡THE LEGEND OF ZORRO! Tras pasar los últimos diez años luchando contra la injusticia y la crueldad, Alejandro de la Vega (Banderas) se enfrenta ahora a su mayor desafío: ¡su amada esposa Elena (Zeta-Jones) lo ha echado de casa! Elena ha pedido el divorcio y ha encontrado cobijo en los brazos del conde Armand (Rufus Sewell), un apuesto aristócrata francés. Pero Alejandro sabe algo que ella no sabe: Armand es el maligno cerebro de una trama terrorista para destruir Estados Unidos. Así, con su matrimonio y el futuro del país en juego, el Zorro debe salvar dos uniones antes de que sea demasiado tarde.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2160047839_0_20260902T193323736Z_22_imageprocessorclient-tvplus-linear-b5879c6c6-ntrtq.jpeg"/>
+  <programme start="20261017014607 +0000" stop="20261017035954 +0000" channel="Sony One Hits Comedia">
+    <title>Desmadre De Padre</title>
+    <desc>Cuando todavía era un adolescente, Donny (Adam Sandler) tuvo un hijo, Todd (Andy Samberg), al que crió como padre soltero hasta que cumplió 18 años. Ahora, tras estar sin verse varios años, el mundo de Todd se viene abajo la noche antes de su boda, cuando Donny aparece sin ser invitado. Mientras intenta desesperadamente recuperar la relación con su hijo, Donny se ve obligado a sufrir las repercusiones de sus errores como padre. Coprotagonizada por Leighton Meester y con la participación de una increíble cantidad de estrellas como Susan Sarandon, Vanilla Ice y James Caan.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_869257527_3_20250508T202420082Z_50_imageprocessorclient-tvplus-linear-6fb5b47f79-hws2j.png"/>
     <rating>
-      <value>7</value>
+      <value>18</value>
     </rating>
   </programme>
   <programme start="20261016201447 +0000" stop="20261016223617 +0000" channel="Sony One Hits Acción">
@@ -89595,6 +89587,14 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2019666549_0_20260716T001226296Z_77_imageprocessorclient-tvplus-linear-66fc4d58c8-x5j5w.png"/>
     <rating>
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261017014353 +0000" stop="20261017034157 +0000" channel="Sony One Hits Acción">
+    <title>Kung Fu Sion</title>
+    <desc>La historia se sitúa durante el caos pre-revolucionario de los años 40 en China. Sing (Stephen Chow) es un delincuente con poca suerte decidido a entrar en el Axe Gang, uno de los clanes mafiosos más importantes de China. Para lograrlo, Sing pretende sacar dinero de los vecinos de un bloque de casas, pero pronto descubre que éstos no son lo que parecen. La banda Axe Gang acude a la zona y una serie de sucesos lleva hasta la confrontación final entre los vecinos y los delincuentes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1293966772_5_20251031T214703366Z_124_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg"/>
+    <rating>
+      <value>7</value>
     </rating>
   </programme>
 	<programme start="20261016064000 +0200" stop="20261016072500 +0200" channel="National Geographic">
@@ -120335,22 +120335,6 @@
     <title>QMMF LE MANS 24H</title>
     <desc>Sin detalles...</desc>
 	</programme>
-  <programme start="20261015170000 +0000" stop="20261015190000 +0000" channel="SKY SPORTS 1 MX">
-    <desc lang="es">FC Andorra vs. CD Castellón.</desc>
-    <title lang="es">FC Andorra vs. CD Castellón</title>
-  </programme>
-  <programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="SKY SPORTS 1 MX">
-    <desc lang="es">Real Valladolid vs. Albacete BP.</desc>
-    <title lang="es">Real Valladolid vs. Albacete BP</title>
-  </programme>
-  <programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="SKY SPORTS 1 MX">
-    <desc lang="es">Canadá vs. Francia.</desc>
-    <title lang="es">Canadá vs. Francia</title>
-  </programme>
-  <programme start="20261015230000 +0000" stop="20261016020000 +0000" channel="SKY SPORTS 1 MX">
-    <desc lang="es">Dallas Stars vs. Colorado Avala.</desc>
-    <title lang="es">Dallas Stars vs. Colorado Avala</title>
-  </programme>
   <programme start="20261016020000 +0000" stop="20261016050000 +0000" channel="SKY SPORTS 1 MX">
     <desc lang="es">Calgary Flames vs. Vegas Golden.</desc>
     <title lang="es">Calgary Flames vs. Vegas Golden</title>
@@ -120544,26 +120528,6 @@ En Vivo</title>
   <programme start="20261019000000 +0000" stop="20261019030000 +0000" channel="SKY SPORTS 1 MX">
     <desc lang="es">Carolina Hurricanes vs. Calgary.</desc>
     <title lang="es">Carolina Hurricanes vs. Calgary</title>
-  </programme>
-  <programme start="20261015163000 +0000" stop="20261015183000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Rayo Vallecano vs. Athletic Clu.</desc>
-    <title lang="es">Rayo Vallecano vs. Athletic Clu</title>
-  </programme>
-  <programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">LaLiga Highlights.</desc>
-    <title lang="es">LaLiga Highlights</title>
-  </programme>
-  <programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Deportivo Alavés vs. Atlético de Madrid.</desc>
-    <title lang="es">Deportivo Alavés vs. Atlético de Madrid</title>
-  </programme>
-  <programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">R. Racing Club vs. Valencia.</desc>
-    <title lang="es">R. Racing Club vs. Valencia</title>
-  </programme>
-  <programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Real Sociedad vs. Deportivo La.</desc>
-    <title lang="es">Real Sociedad vs. Deportivo La</title>
   </programme>
   <programme start="20261016010000 +0000" stop="20261016030000 +0000" channel="SKY SPORTS 16 MX">
     <category lang="es">Deporte</category>
@@ -120830,26 +120794,6 @@ En Vivo</title>
     <desc lang="es">Desde el estadio Benito Villamarín en la ciudad de Sevilla, España, se enfrentan los equipos Real Betis Balompié versus el Fútbol Club Barcelona.</desc>
     <icon src="https://iptv-epg.org/images/9gbiiQAbJTfJdCnZnE7Dkan-3gtmff_FiCjObs7OiZxW4zAkP0USr374o4S98pGy7ATFjlYD16qrFve0KydNOhEmAmcS3Xb4lbW00zGiV578_mJ4Ud9SvMqS3SzmimEo9mqZ-q4qKAGqETB24sTm-RY"/>
     <title lang="es">Real Betis Vs. Barcelona</title>
-  </programme>
-  <programme start="20261015163000 +0000" stop="20261015183000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Elche vs. Celta de Vigo.</desc>
-    <title lang="es">Elche vs. Celta de Vigo</title>
-  </programme>
-  <programme start="20261015183000 +0000" stop="20261015203000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Rayo Vallecano vs. Athletic Clu.</desc>
-    <title lang="es">Rayo Vallecano vs. Athletic Clu</title>
-  </programme>
-  <programme start="20261015203000 +0000" stop="20261015210000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">LaLiga Highlights.</desc>
-    <title lang="es">LaLiga Highlights</title>
-  </programme>
-  <programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Deportivo Alavés vs. Atlético de Madrid.</desc>
-    <title lang="es">Deportivo Alavés vs. Atlético de Madrid</title>
-  </programme>
-  <programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">R. Racing Club vs. Valencia.</desc>
-    <title lang="es">R. Racing Club vs. Valencia</title>
   </programme>
   <programme start="20261016010000 +0000" stop="20261016030000 +0000" channel="SKY SPORTS 24 MX">
     <desc lang="es">Real Sociedad vs. Deportivo La.</desc>
@@ -129207,7 +129151,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261015160000 -0300" stop="20261015170000 -0300" channel="DSPORTS CO">
     <title>[En vivo] Puede pasar</title>
@@ -129223,7 +129167,7 @@ En Vivo</title>
     <date>2024</date>
     <category>Fútbol</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/puedepasar.jpg" />
   </programme>
   <programme start="20261015170000 -0300" stop="20261015183000 -0300" channel="DSPORTS CO">
     <title>[En vivo] DSports Noticias Lite - Tarde</title>
@@ -129249,7 +129193,7 @@ En Vivo</title>
     <date>2009</date>
     <category>Fútbol</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futboltotal.jpg" />
   </programme>
   <programme start="20261015200000 -0300" stop="20261015210000 -0300" channel="DSPORTS CO">
     <title>[En vivo] El juego</title>
@@ -129268,7 +129212,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Documental</category>
     <episode-num system="onscreen">E171</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportshistorias.jpg" />
   </programme>
   <programme start="20261015213000 -0300" stop="20261015220000 -0300" channel="DSPORTS CO">
     <title>Hilos • Guillermo Coria</title>
@@ -129293,7 +129237,7 @@ En Vivo</title>
     <date>2026</date>
     <category>Deportivo</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticiasnite.jpg" />
   </programme>
   <programme start="20261015230000 -0300" stop="20261016010000 -0300" channel="DSPORTS CO">
     <title>[En vivo] DSports noticias</title>
@@ -129305,7 +129249,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261016010000 -0300" stop="20261016020000 -0300" channel="DSPORTS CO">
     <title>DSports noticias</title>
@@ -129317,7 +129261,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261016020000 -0300" stop="20261016023000 -0300" channel="DSPORTS CO">
     <title>Todo en 30 • 2Atl. Mineiro vs MVD City Torque, CONMEBOL Sudamericana</title>
@@ -129330,7 +129274,7 @@ En Vivo</title>
     <category>Deportivo</category>
     <country>Argentina</country>
     <episode-num system="onscreen">E2290</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/todoen30.jpg" />
   </programme>
   <programme start="20261016023000 -0300" stop="20261016040000 -0300" channel="DSPORTS CO">
     <title>Fútbol total</title>
@@ -129344,7 +129288,7 @@ En Vivo</title>
     <date>2009</date>
     <category>Fútbol</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futboltotal.jpg" />
   </programme>
   <programme start="20261016040000 -0300" stop="20261016060000 -0300" channel="DSPORTS CO">
     <title>CONMEBOL Sudamericana • Boca Jrs. (Arg) vs Vasco da Gama (Bra), Semifinal - Ida, Estadio Alberto J. Armando</title>
@@ -129365,7 +129309,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261016080000 -0300" stop="20261016100000 -0300" channel="DSPORTS CO">
     <title>CONMEBOL Sudamericana • Boca Jrs. (Arg) vs Vasco da Gama (Bra), Semifinal - Ida, Estadio Alberto J. Armando</title>
@@ -129383,7 +129327,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Documental</category>
     <episode-num system="onscreen">E171</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportshistorias.jpg" />
   </programme>
   <programme start="20261016103000 -0300" stop="20261016110000 -0300" channel="DSPORTS CO">
     <title>Todo en 30 • 2Levante vs Sevilla, LaLiga</title>
@@ -129396,7 +129340,7 @@ En Vivo</title>
     <category>Deportivo</category>
     <country>Argentina</country>
     <episode-num system="onscreen">E2291</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/todoen30.jpg" />
   </programme>
   <programme start="20261016110000 -0300" stop="20261016130000 -0300" channel="DSPORTS CO">
     <title>[En vivo] DSports Noticias Lite</title>
@@ -129430,7 +129374,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261016160000 -0300" stop="20261016170000 -0300" channel="DSPORTS CO">
     <title>[En vivo] Puede pasar</title>
@@ -129446,7 +129390,7 @@ En Vivo</title>
     <date>2024</date>
     <category>Fútbol</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/puedepasar.jpg" />
   </programme>
   <programme start="20261016170000 -0300" stop="20261016183000 -0300" channel="DSPORTS CO">
     <title>[En vivo] DSports Noticias Lite - Tarde</title>
@@ -129472,7 +129416,7 @@ En Vivo</title>
     <date>2009</date>
     <category>Fútbol</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futboltotal.jpg" />
   </programme>
   <programme start="20261016200000 -0300" stop="20261016210000 -0300" channel="DSPORTS CO">
     <title>[En vivo] El juego</title>
@@ -129500,7 +129444,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Documental</category>
     <episode-num system="onscreen">E171</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportshistorias.jpg" />
   </programme>
   <programme start="20261016220000 -0300" stop="20261016230000 -0300" channel="DSPORTS CO">
     <title>DSports Total</title>
@@ -129511,7 +129455,7 @@ En Vivo</title>
     <date>2026</date>
     <category>Deportivo</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportstotal.jpg" />
   </programme>
   <programme start="20261016230000 -0300" stop="20261017000000 -0300" channel="DSPORTS CO">
     <title>[En vivo] DSports noticias</title>
@@ -129523,7 +129467,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261017000000 -0300" stop="20261017003000 -0300" channel="DSPORTS CO">
     <title>Magazine CONMEBOL Sudamericana 2026 • Semifinal - Ida</title>
@@ -129541,7 +129485,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Documental</category>
     <episode-num system="onscreen">E171</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportshistorias.jpg" />
   </programme>
   <programme start="20261017010000 -0300" stop="20261017020000 -0300" channel="DSPORTS CO">
     <title>DSports noticias</title>
@@ -129553,7 +129497,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261017020000 -0300" stop="20261017023000 -0300" channel="DSPORTS CO">
     <title>Todo en 30 • 2Levante vs Sevilla, LaLiga</title>
@@ -129566,7 +129510,7 @@ En Vivo</title>
     <category>Deportivo</category>
     <country>Argentina</country>
     <episode-num system="onscreen">E2291</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/todoen30.jpg" />
   </programme>
   <programme start="20261017023000 -0300" stop="20261017040000 -0300" channel="DSPORTS CO">
     <title>Fútbol total</title>
@@ -129580,7 +129524,7 @@ En Vivo</title>
     <date>2009</date>
     <category>Fútbol</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futboltotal.jpg" />
   </programme>
   <programme start="20261017040000 -0300" stop="20261017060000 -0300" channel="DSPORTS CO">
     <title>CONMEBOL Sudamericana • Atl. Mineiro (Bra) vs Montevideo City Torque (Uru), Semifinal - Ida, MRV Arena</title>
@@ -129601,7 +129545,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261017080000 -0300" stop="20261017083000 -0300" channel="DSPORTS CO">
     <title>DSports historias • Los goles de Cristiano Ronaldo al Atl. de Madrid</title>
@@ -129610,7 +129554,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Documental</category>
     <episode-num system="onscreen">E164</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportshistorias.jpg" />
   </programme>
   <programme start="20261017083000 -0300" stop="20261017085500 -0300" channel="DSPORTS CO">
     <title>[En vivo] La previa - LaLiga • Espanyol vs Atl. de Madrid, Fecha 9, RCDE Stadium</title>
@@ -129620,7 +129564,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261017085500 -0300" stop="20261017110000 -0300" channel="DSPORTS CO">
     <title>[En vivo] LaLiga • Espanyol vs Atl. de Madrid, Fecha 9, RCDE Stadium</title>
@@ -129630,7 +129574,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261017110000 -0300" stop="20261017130000 -0300" channel="DSPORTS CO">
     <title>CONMEBOL Sudamericana • Boca Jrs. (Arg) vs Vasco da Gama (Bra), Semifinal - Ida, Estadio Alberto J. Armando</title>
@@ -129649,7 +129593,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261017132500 -0300" stop="20261017153000 -0300" channel="DSPORTS CO">
     <title>[En vivo] LaLiga • Betis vs Barcelona, Fecha 9, Estadio de la Cartuja</title>
@@ -129659,7 +129603,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261017153000 -0300" stop="20261017160000 -0300" channel="DSPORTS CO">
     <title>DSports historias • Atlético de Madrid campeón - Supercopa Española 2014</title>
@@ -129668,7 +129612,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Documental</category>
     <episode-num system="onscreen">E160</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportshistorias.jpg" />
   </programme>
   <programme start="20261017160000 -0300" stop="20261017180000 -0300" channel="DSPORTS CO">
     <title>LaLiga • Espanyol vs Atl. de Madrid, Fecha 9, RCDE Stadium</title>
@@ -129678,7 +129622,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261017180000 -0300" stop="20261017183000 -0300" channel="DSPORTS CO">
     <title>Hilos • Messi en la Selección Argentina - Parte 1</title>
@@ -129710,7 +129654,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Documental</category>
     <episode-num system="onscreen">E172</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportshistorias.jpg" />
   </programme>
   <programme start="20261017210000 -0300" stop="20261017213000 -0300" channel="DSPORTS CO">
     <title>Magazine CONMEBOL Sudamericana 2026 • Semifinal - Ida</title>
@@ -129730,7 +129674,7 @@ En Vivo</title>
     <date>2018</date>
     <category>Deportivo</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/puroconcepto.jpg" />
   </programme>
   <programme start="20261017220000 -0300" stop="20261017233000 -0300" channel="DSPORTS CO">
     <title>[En vivo] DSports noticias</title>
@@ -129742,7 +129686,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261017233000 -0300" stop="20261018013000 -0300" channel="DSPORTS CO">
     <title>LaLiga • Betis vs Barcelona, Fecha 9, Estadio de la Cartuja</title>
@@ -129752,7 +129696,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261018013000 -0300" stop="20261018030000 -0300" channel="DSPORTS CO">
     <title>DSports noticias</title>
@@ -129764,7 +129708,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261018030000 -0300" stop="20261018033000 -0300" channel="DSPORTS CO">
     <title>DSports historias • Independiente Campeón Copa Sudamericana 2010</title>
@@ -129773,7 +129717,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Documental</category>
     <episode-num system="onscreen">E102</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportshistorias.jpg" />
   </programme>
   <programme start="20261018033000 -0300" stop="20261018040000 -0300" channel="DSPORTS CO">
     <title>Hilos • Racing histórico</title>
@@ -129817,7 +129761,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Documental</category>
     <episode-num system="onscreen">E21</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportshistorias.jpg" />
   </programme>
   <programme start="20261018070000 -0300" stop="20261018090000 -0300" channel="DSPORTS CO">
     <title>LaLiga • Espanyol vs Atl. de Madrid, Fecha 9, RCDE Stadium</title>
@@ -129827,7 +129771,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261018090000 -0300" stop="20261018103000 -0300" channel="DSPORTS CO">
     <title>DSports noticias</title>
@@ -129839,7 +129783,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261018103000 -0300" stop="20261018104500 -0300" channel="DSPORTS CO">
     <title>Hilos • Guardiola</title>
@@ -129861,7 +129805,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261018111000 -0300" stop="20261018131500 -0300" channel="DSPORTS CO">
     <title>[En vivo] LaLiga • Celta de Vigo vs Dep. Alavés, Fecha 9, Estadio de Abanca Balaídos</title>
@@ -129871,7 +129815,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261018131500 -0300" stop="20261018132500 -0300" channel="DSPORTS CO">
     <title>[En vivo] La previa - LaLiga • Málaga vs Real Sociedad, Fecha 9, Estadio La Rosaleda</title>
@@ -129881,7 +129825,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261018132500 -0300" stop="20261018153000 -0300" channel="DSPORTS CO">
     <title>[En vivo] LaLiga • Málaga vs Real Sociedad, Fecha 9, Estadio La Rosaleda</title>
@@ -129891,7 +129835,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261018153000 -0300" stop="20261018160000 -0300" channel="DSPORTS CO">
     <title>DSports historias • Palermo - Ocaso y rendición</title>
@@ -129900,7 +129844,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Documental</category>
     <episode-num system="onscreen">E170</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportshistorias.jpg" />
   </programme>
   <programme start="20261018160000 -0300" stop="20261018180000 -0300" channel="DSPORTS CO">
     <title>LaLiga • Celta de Vigo vs Dep. Alavés, Fecha 9, Estadio de Abanca Balaídos</title>
@@ -129910,7 +129854,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261018180000 -0300" stop="20261018200000 -0300" channel="DSPORTS CO">
     <title>LaLiga • Betis vs Barcelona, Fecha 9, Estadio de la Cartuja</title>
@@ -129920,7 +129864,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261018200000 -0300" stop="20261018220000 -0300" channel="DSPORTS CO">
     <title>LaLiga • Málaga vs Real Sociedad, Fecha 9, Estadio La Rosaleda</title>
@@ -129930,7 +129874,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261018220000 -0300" stop="20261018233000 -0300" channel="DSPORTS CO">
     <title>[En vivo] DSports noticias</title>
@@ -129942,7 +129886,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261018233000 -0300" stop="20261019010000 -0300" channel="DSPORTS CO">
     <title>DSports noticias</title>
@@ -129954,7 +129898,7 @@ En Vivo</title>
     <date>2023</date>
     <category>Noticiero</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg" />
   </programme>
   <programme start="20261019010000 -0300" stop="20261019030000 -0300" channel="DSPORTS CO">
     <title>LaLiga • Celta de Vigo vs Dep. Alavés, Fecha 9, Estadio de Abanca Balaídos</title>
@@ -129964,7 +129908,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261015120000 -0300" stop="20261015133000 -0300" channel="ESPN CL">
     <title>[En vivo] SportsCenter</title>
@@ -130123,7 +130067,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261016180000 -0300" stop="20261016200000 -0300" channel="ESPN CL">
     <title>[En vivo] ESPN F360</title>
@@ -130204,7 +130148,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261017013000 -0300" stop="20261017040000 -0300" channel="ESPN CL">
     <title>[En vivo] Test Match internacional • Australia vs Nueva Zelanda, Eden Park, Auckland, New Zealand</title>
@@ -130234,7 +130178,7 @@ En Vivo</title>
     <date>2000</date>
     <category>Fútbol</category>
     <country>Gran Bretaña</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/premierleaguepreviewshow.jpg" />
   </programme>
   <programme start="20261017072000 -0300" stop="20261017082000 -0300" channel="ESPN CL">
     <title>SportsCenter</title>
@@ -130330,7 +130274,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261018043000 -0300" stop="20261018053000 -0300" channel="ESPN CL">
     <title>SportsCenter</title>
@@ -130397,7 +130341,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261018175500 -0300" stop="20261018200000 -0300" channel="ESPN CL">
     <title>[En vivo] SportsCenter</title>
@@ -130426,7 +130370,7 @@ En Vivo</title>
     <date>2022</date>
     <category>Fútbol</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espnfutbol1.jpg" />
   </programme>
   <programme start="20261019000000 -0300" stop="20261019060000 -0300" channel="ESPN CL">
     <title>[En vivo] SportsCenter</title>
@@ -130504,7 +130448,7 @@ En Vivo</title>
     <date>2021</date>
     <category>Fútbol</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/ftactico.jpg" />
   </programme>
   <programme start="20261015220000 -0300" stop="20261015230000 -0300" channel="ESPN 2 CL">
     <title>ESPN Compact - UEFA Champions League • Roma (Ita) vs Real Madrid (Esp), Fecha 2, Stadio Olimpico</title>
@@ -130653,7 +130597,7 @@ En Vivo</title>
     <date>2021</date>
     <category>Fútbol</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/ftactico.jpg" />
   </programme>
   <programme start="20261016113000 -0300" stop="20261016120000 -0300" channel="ESPN 2 CL">
     <title>EFL Highlights</title>
@@ -130723,7 +130667,7 @@ En Vivo</title>
     <date>2000</date>
     <category>Fútbol</category>
     <country>Gran Bretaña</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/premierleaguepreviewshow.jpg" />
   </programme>
   <programme start="20261016210000 -0300" stop="20261016211500 -0300" channel="ESPN 2 CL">
     <title>PSG Campeón UCL 2025-2026</title>
@@ -130799,7 +130743,7 @@ En Vivo</title>
     <date>2000</date>
     <category>Fútbol</category>
     <country>Gran Bretaña</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/premierleaguepreviewshow.jpg" />
   </programme>
   <programme start="20261017053000 -0300" stop="20261017080000 -0300" channel="ESPN 2 CL">
     <title>[En vivo] ATP 1000 - Rolex Shanghai Masters • Semifinal 1, Qi Zhong Tennis Center, Shanghai, China</title>
@@ -130831,7 +130775,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261017110000 -0300" stop="20261017131500 -0300" channel="ESPN 2 CL">
     <title>[En vivo] LaLiga • Villarreal vs Elche, Fecha 9, Estadio de la Cerámica</title>
@@ -130841,7 +130785,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261017131500 -0300" stop="20261017134500 -0300" channel="ESPN 2 CL">
     <title>Lo mejor de MotoGP</title>
@@ -130871,7 +130815,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261017153000 -0300" stop="20261017171500 -0300" channel="ESPN 2 CL">
     <title>[En vivo] SportsCenter</title>
@@ -130903,7 +130847,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261017190000 -0300" stop="20261017200000 -0300" channel="ESPN 2 CL">
     <title>ESPN Compact - ATP Masters 1000 - Rolex Shanghai Masters • Semifinal 1</title>
@@ -131002,7 +130946,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261018072000 -0300" stop="20261018093000 -0300" channel="ESPN 2 CL">
     <title>[En vivo] Serie A • Udinese vs Lecce, Fecha 7, Bluenergy Stadium - Stadio Friuli</title>
@@ -131036,14 +130980,14 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261018122000 -0300" stop="20261018122500 -0300" channel="ESPN 2 CL">
     <title>Por confirmar</title>
     <desc>La información de este programa no se encuentra disponible.</desc>
     <date>2000</date>
     <category>Deportivo</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/porconfirmar.jpg" />
   </programme>
   <programme start="20261018122500 -0300" stop="20261018125000 -0300" channel="ESPN 2 CL">
     <title>[En vivo] SportsCenter</title>
@@ -131067,7 +131011,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261018153000 -0300" stop="20261018174500 -0300" channel="ESPN 2 CL">
     <title>[En vivo] Ligue 1 • Olympique Lyon vs OGC Nice, Fecha 7, Parc Olympique Lyonnais</title>
@@ -131246,7 +131190,7 @@ En Vivo</title>
     <date>2021</date>
     <category>Fútbol</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/ftactico.jpg" />
   </programme>
   <programme start="20261016073000 -0300" stop="20261016093000 -0300" channel="ESPN 3 CL">
     <title>UEFA Champions League • Slovan Bratislava (Svk) vs Stuttgart (Ale), Fecha 2, Tehelné pole</title>
@@ -131336,7 +131280,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261017010000 -0300" stop="20261017020000 -0300" channel="ESPN 3 CL">
     <title>Compacto - UEFA Europa League • Celta de Vigo (Esp) vs Juventus (Ita), Fecha 2, Estadio de Abanca Balaídos</title>
@@ -131414,7 +131358,7 @@ En Vivo</title>
     <desc>Diferido ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261017125000 -0300" stop="20261017150000 -0300" channel="ESPN 3 CL">
     <title>[En vivo] Serie A • Bologna vs Inter, Fecha 7, Stadio Renato Dall&#x27;Ara</title>
@@ -131449,7 +131393,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261017180000 -0300" stop="20261017200000 -0300" channel="ESPN 3 CL">
     <title>Serie A • Venezia vs Napoli, Fecha 7, Stadio Pier Luigi Penzo</title>
@@ -131540,7 +131484,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261018080000 -0300" stop="20261018082000 -0300" channel="ESPN 3 CL">
     <title>Manchester City campeón - Carabao Cup 2025-2026</title>
@@ -131555,7 +131499,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261018085000 -0300" stop="20261018110000 -0300" channel="ESPN 3 CL">
     <title>[En vivo] LaLiga • Osasuna vs R. Racing Club, Fecha 9, Estadio El Sadar</title>
@@ -131565,7 +131509,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261018110000 -0300" stop="20261018140000 -0300" channel="ESPN 3 CL">
     <title>[En vivo] Premier Padel - Milano • Centre Court - Final</title>
@@ -131678,7 +131622,7 @@ En Vivo</title>
     <desc>Grabado ║ Toda la previa de la Primera División del fútbol alemán.</desc>
     <date>2000</date>
     <category>Deportivo</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/bundesligapreviewshow.jpg" />
   </programme>
   <programme start="20261015123000 -0300" stop="20261015133000 -0300" channel="ESPN 4 CL">
     <title>Compacto - UEFA Champions League • Bodo/Glimt (Nor) vs Borussia Dortmund (Ale), Fecha 2, Aspmyra Stadion</title>
@@ -131719,7 +131663,7 @@ En Vivo</title>
     <desc>Grabado ║ Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
     <date>2000</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleaguehighlights.jpg" />
   </programme>
   <programme start="20261015200000 -0300" stop="20261015223000 -0300" channel="ESPN 4 CL">
     <title>[En vivo] NHL • Buffalo Sabres vs Toronto Maple Leafs, Temporada regular, Scotiabank Arena</title>
@@ -131754,7 +131698,7 @@ En Vivo</title>
     <date>2021</date>
     <category>Fútbol</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/ftactico.jpg" />
   </programme>
   <programme start="20261016000000 -0300" stop="20261016020000 -0300" channel="ESPN 4 CL">
     <title>UEFA Europa League • RB Salzburgo (Aut) vs Milan (Ita), Fecha 2, Red Bull Arena</title>
@@ -131892,7 +131836,7 @@ En Vivo</title>
     <date>2021</date>
     <category>Fútbol</category>
     <country>Argentina</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/ftactico.jpg" />
   </programme>
   <programme start="20261016190000 -0300" stop="20261016200000 -0300" channel="ESPN 4 CL">
     <title>Compacto - UEFA Europa League • Benfica (Por) vs Celtic (Esc), Fecha 2, Estádio da Luz</title>
@@ -131917,7 +131861,7 @@ En Vivo</title>
     <desc>Grabado ║ Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
     <date>2000</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleaguehighlights.jpg" />
   </programme>
   <programme start="20261016230000 -0300" stop="20261017000000 -0300" channel="ESPN 4 CL">
     <title>ESPN Compact - UEFA Champions League • Atl. de Madrid (Esp) vs Manchester Utd. (Ing), Fecha 2, Riyadh Air Metropolitano</title>
@@ -131976,14 +131920,14 @@ En Vivo</title>
     <date>2000</date>
     <category>Fútbol</category>
     <country>Gran Bretaña</country>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/premierleaguepreviewshow.jpg" />
   </programme>
   <programme start="20261017043000 -0300" stop="20261017050000 -0300" channel="ESPN 4 CL">
     <title>UEFA Champions League Weekly</title>
     <desc>Diferido ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261017050000 -0300" stop="20261017070000 -0300" channel="ESPN 4 CL">
     <title>LaLiga • Dep. La Coruña vs Levante, Fecha 9, Estadio Municipal de Riazor</title>
@@ -131993,7 +131937,7 @@ En Vivo</title>
     <category>Fútbol</category>
     <country>España</country>
     <episode-num system="onscreen">S0  20262027</episode-num>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg" />
   </programme>
   <programme start="20261017070000 -0300" stop="20261017092500 -0300" channel="ESPN 4 CL">
     <title>NBA Pretemporada • Denver Nuggets vs Los Angeles Lakers, Crypto.com Arena</title>
@@ -132082,7 +132026,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261017190000 -0300" stop="20261017203000 -0300" channel="ESPN 4 CL">
     <title>Horse Racing</title>
@@ -132316,7 +132260,7 @@ En Vivo</title>
     <desc>Grabado ║ Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
     <date>2000</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleaguehighlights.jpg" />
   </programme>
   <programme start="20261015210000 -0300" stop="20261015233000 -0300" channel="ESPN 5 CL">
     <title>[En vivo] CONMEBOL Libertadores • Estudiantes (LP) (Arg) vs Flamengo (Bra), Semifinal - Ida, Estadio Jorge Luis Hirschi</title>
@@ -132438,7 +132382,7 @@ En Vivo</title>
     <desc>Grabado ║ Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
     <date>2000</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleaguehighlights.jpg" />
   </programme>
   <programme start="20261016140000 -0300" stop="20261016150000 -0300" channel="ESPN 5 CL">
     <title>UEFA Europa League Highlights</title>
@@ -132511,7 +132455,7 @@ En Vivo</title>
     <desc>Diferido ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261017000000 -0300" stop="20261017020000 -0300" channel="ESPN 5 CL">
     <title>ESPN Compact - ATP Masters 1000 - Rolex Shanghai Masters</title>
@@ -132546,7 +132490,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261017043000 -0300" stop="20261017062500 -0300" channel="ESPN 5 CL">
     <title>Bundesliga • Eintracht Frankfurt vs Colonia, Fecha 6, Deutsche Bank Park</title>
@@ -132583,7 +132527,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261017105500 -0300" stop="20261017115300 -0300" channel="ESPN 5 CL">
     <title>ESPN Knockout, el show</title>
@@ -132680,7 +132624,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261018000000 -0300" stop="20261018020000 -0300" channel="ESPN 5 CL">
     <title>Rugby World Cup Under 20 • Chile vs Bélgica, CARR de La Reina, Santiago, Chile</title>
@@ -132736,7 +132680,7 @@ En Vivo</title>
     <desc>Grabado ║ Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
     <date>2000</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleaguehighlights.jpg" />
   </programme>
   <programme start="20261018100000 -0300" stop="20261018120000 -0300" channel="ESPN 5 CL">
     <title>Rugby World Cup Under 20 • Chile vs Bélgica, CARR de La Reina, Santiago, Chile</title>
@@ -132821,7 +132765,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261019020000 -0300" stop="20261019040000 -0300" channel="ESPN 5 CL">
     <title>Eredivisie • FC Groningen vs Ajax, Fecha 9, Hitachi Capital Mobility Stadion</title>
@@ -132843,7 +132787,7 @@ En Vivo</title>
   </programme>
   <programme start="20261015130000 -0300" stop="20261015150000 -0300" channel="ESPN 6 CL">
     <title>Premier Padel</title>
-    <desc>Cobertura de una de las competiciones más importantes del mundo del pádel.</desc>
+    <desc>SH05134420.0000 | Cobertura de una de las competiciones más importantes del mundo del pádel.</desc>
     <date>2014</date>
     <category>Racquet</category>
     <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/premierpadel.jpg" />
@@ -132870,7 +132814,7 @@ En Vivo</title>
     <desc>ATP 1000: Rolex Shanghai Masters | Compacto con lo más destacado del Shanghai Masters del ATP 1000. Desde el Qi Zhong 🎾 [Tennis] Tennis Center, en Shanghái, China.</desc>
     <date>2026</date>
     <category>Classic sport event</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg" />
   </programme>
   <programme start="20261015200000 -0300" stop="20261015220000 -0300" channel="ESPN 6 CL">
     <title>Fútbol UEFA Champions League • Viking FK vs ⚽ [Bundesliga] Bayern Munich</title>
@@ -132958,7 +132902,7 @@ En Vivo</title>
     <desc>Resultados y las mejores jugadas de la Copa UEFA de clubes Campeones.</desc>
     <date>2004</date>
     <category>Soccer</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleaguehighlights.jpg" />
   </programme>
   <programme start="20261016160000 -0300" stop="20261016170000 -0300" channel="ESPN 6 CL">
     <title>ESPN Compact • UEFA Champions League: Atlético Madrid vs Manchester United</title>
@@ -132966,7 +132910,7 @@ En Vivo</title>
     <desc>UEFA Champions League: Atlético Madrid vs Manchester United | Resumen de la fecha 2 de la UEFA ⚽🏆 [UCL] Champions League 2026-27. ⚽ [LaLiga] Atlético Madrid se enfrenta a ⚽ [EPL] Manchester United. Disputado el 13 de octubre de 2026, en el Riyadh Air Metropolitano.</desc>
     <date>2026</date>
     <category>Classic sport event</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg" />
   </programme>
   <programme start="20261016170000 -0300" stop="20261016180000 -0300" channel="ESPN 6 CL">
     <title>ESPN Compact • UEFA Champions League: Inter vs Club Brugge</title>
@@ -132974,7 +132918,7 @@ En Vivo</title>
     <desc>UEFA Champions League: Inter vs Club Brugge | Compacto de la jornada 2 de la fase de liga de la UEFA ⚽🏆 [UCL] Champions League 2026-27. Disputado el 13 de octubre de 2026.</desc>
     <date>2026</date>
     <category>Classic sport event</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg" />
   </programme>
   <programme start="20261016180000 -0300" stop="20261016200000 -0300" channel="ESPN 6 CL">
     <title>ESPN Compact • ATP 1000: Rolex Shanghai Masters</title>
@@ -132982,14 +132926,14 @@ En Vivo</title>
     <desc>ATP 1000: Rolex Shanghai Masters | Compacto con lo más destacado del Shanghai Masters del ATP 1000. Desde el Qi Zhong 🎾 [Tennis] Tennis Center, en Shanghái, China.</desc>
     <date>2026</date>
     <category>Classic sport event</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg" />
   </programme>
   <programme start="20261016200000 -0300" stop="20261016220000 -0300" channel="ESPN 6 CL">
     <title>UEFA Champions League Highlights</title>
     <desc>Resultados y las mejores jugadas de la Copa UEFA de clubes Campeones.</desc>
     <date>2004</date>
     <category>Soccer</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleaguehighlights.jpg" />
   </programme>
   <programme start="20261016220000 -0300" stop="20261016230000 -0300" channel="ESPN 6 CL">
     <title>ESPN KnockOut</title>
@@ -133017,7 +132961,7 @@ En Vivo</title>
     <desc>Resultados y las mejores jugadas de la Copa UEFA de clubes Campeones.</desc>
     <date>2004</date>
     <category>Soccer</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleaguehighlights.jpg" />
   </programme>
   <programme start="20261017040000 -0300" stop="20261017050000 -0300" channel="ESPN 6 CL">
     <title>ESPN KnockOut</title>
@@ -133053,7 +132997,7 @@ En Vivo</title>
     <date>2004</date>
     <category>Sports talk</category>
     <category>Soccer</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261017070000 -0300" stop="20261017090000 -0300" channel="ESPN 6 CL">
     <title>Fútbol UEFA Champions League • Atlético de Madrid vs Manchester United</title>
@@ -133068,7 +133012,7 @@ En Vivo</title>
     <desc>Resultados y las mejores jugadas de la Copa UEFA de clubes Campeones.</desc>
     <date>2004</date>
     <category>Soccer</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleaguehighlights.jpg" />
   </programme>
   <programme start="20261017110000 -0300" stop="20261017130000 -0300" channel="ESPN 6 CL">
     <title>Fútbol EFL Championship • Burnley vs Wolverhampton Wanderers</title>
@@ -133084,7 +133028,7 @@ En Vivo</title>
     <desc>UEFA Champions League: Roma vs Real Madrid | Resumen del encuentro correspondiente a la Jornada 5 del Grupo G de la UEFA ⚽🏆 [UCL] Champions League. Desde el estadio Olímpico de ⚽ [Serie A] Roma. Del 27 de noviembre.</desc>
     <date>2018</date>
     <category>Classic sport event</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg" />
   </programme>
   <programme start="20261017140000 -0300" stop="20261017160000 -0300" channel="ESPN 6 CL">
     <title>Fútbol UEFA Champions League • Manchester City vs Paris Saint-Germain</title>
@@ -133115,7 +133059,7 @@ En Vivo</title>
     <desc>Resultados y las mejores jugadas de la Copa UEFA de clubes Campeones.</desc>
     <date>2004</date>
     <category>Soccer</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleaguehighlights.jpg" />
   </programme>
   <programme start="20261017220000 -0300" stop="20261018000000 -0300" channel="ESPN 6 CL">
     <title>Fútbol EFL Championship • Watford vs Charlton Athletic</title>
@@ -133131,7 +133075,7 @@ En Vivo</title>
     <desc>ATP Masters 1000: Rolex Shanghai Masters, semifinal 1 | Los momentos más destacados de la primera semifinal del Rolex Shanghai Masters 2026, parte del ATP Masters 1000. Desde el Qizhong Forest Sports City Arena, en Shanghái, China. Disputado el 16 de octubre de 2026.</desc>
     <date>2026</date>
     <category>Classic sport event</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg" />
   </programme>
   <programme start="20261018010000 -0300" stop="20261018020000 -0300" channel="ESPN 6 CL">
     <title>ESPN Compact • ATP 1000: Rolex Shanghai Masters</title>
@@ -133139,7 +133083,7 @@ En Vivo</title>
     <desc>ATP 1000: Rolex Shanghai Masters | Compacto con lo más destacado del Shanghai Masters del ATP 1000. Desde el Qi Zhong 🎾 [Tennis] Tennis Center, en Shanghái, China.</desc>
     <date>2026</date>
     <category>Classic sport event</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg" />
   </programme>
   <programme start="20261018020000 -0300" stop="20261018030000 -0300" channel="ESPN 6 CL">
     <title>ESPN Compact • Premier Padel: Milán P1, semifinal femenina</title>
@@ -133147,7 +133091,7 @@ En Vivo</title>
     <desc>Premier Padel: Milán P1, semifinal femenina | Resumen de la semifinal femenina de Premier Padel Milán P1. Disputado el 17 de octubre de 2026, en el Allianz Cloud, en Milán, Italia.</desc>
     <date>2026</date>
     <category>Classic sport event</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg" />
   </programme>
   <programme start="20261018030000 -0300" stop="20261018040000 -0300" channel="ESPN 6 CL">
     <title>ESPN Compact • Premier Padel: Milán P1, semifinal masculina</title>
@@ -133155,14 +133099,14 @@ En Vivo</title>
     <desc>Premier Padel: Milán P1, semifinal masculina | Resumen de la semifinal masculina de Premier Padel Milán P1. Disputado el 17 de octubre de 2026, en el Allianz Cloud, en Milán, Italia.</desc>
     <date>2026</date>
     <category>Classic sport event</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg" />
   </programme>
   <programme start="20261018040000 -0300" stop="20261018060000 -0300" channel="ESPN 6 CL">
     <title>UEFA Champions League Highlights</title>
     <desc>Resultados y las mejores jugadas de la Copa UEFA de clubes Campeones.</desc>
     <date>2004</date>
     <category>Soccer</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleaguehighlights.jpg" />
   </programme>
   <programme start="20261018060000 -0300" stop="20261018080000 -0300" channel="ESPN 6 CL">
     <title>Fútbol EFL Championship • Watford vs Charlton Athletic</title>
@@ -133178,7 +133122,7 @@ En Vivo</title>
     <desc>Premier Padel: Milán P1, semifinal femenina | Resumen de la semifinal femenina de Premier Padel Milán P1. Disputado el 17 de octubre de 2026, en el Allianz Cloud, en Milán, Italia.</desc>
     <date>2026</date>
     <category>Classic sport event</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg" />
   </programme>
   <programme start="20261018090000 -0300" stop="20261018100000 -0300" channel="ESPN 6 CL">
     <title>ESPN Compact • Premier Padel: Milán P1, semifinal masculina</title>
@@ -133186,7 +133130,7 @@ En Vivo</title>
     <desc>Premier Padel: Milán P1, semifinal masculina | Resumen de la semifinal masculina de Premier Padel Milán P1. Disputado el 17 de octubre de 2026, en el Allianz Cloud, en Milán, Italia.</desc>
     <date>2026</date>
     <category>Classic sport event</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg" />
   </programme>
   <programme start="20261018100000 -0300" stop="20261018120000 -0300" channel="ESPN 6 CL">
     <title>Fútbol UEFA Champions League • Viking FK vs Bayern Munich</title>
@@ -133252,7 +133196,7 @@ En Vivo</title>
     <date>2004</date>
     <category>Sports talk</category>
     <category>Soccer</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261018233000 -0300" stop="20261019000000 -0300" channel="ESPN 6 CL">
     <title>El show de la Copa Libertadores</title>
@@ -133268,7 +133212,7 @@ En Vivo</title>
     <desc>Final | Cobertura de la gran final del Shangai Masters 2026 de la ATP. Desde la Qizhong Forest Sports City Arena.</desc>
     <date>2026</date>
     <category>Tennis</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/tenisatprolexshanghaimasters2026.jpg" />
   </programme>
   <programme start="20261019020000 -0300" stop="20261019040000 -0300" channel="ESPN 6 CL">
     <title>Fútbol Eredivisie • FC Groningen vs Ajax</title>
@@ -133377,7 +133321,7 @@ En Vivo</title>
     <desc>Diferido ║ Toda la previa de la Primera División del fútbol alemán.</desc>
     <date>2000</date>
     <category>Deportivo</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/bundesligapreviewshow.jpg" />
   </programme>
   <programme start="20261016103000 -0300" stop="20261016123000 -0300" channel="ESPN 7 CL">
     <title>UEFA Europa League • Celta de Vigo (Esp) vs Juventus (Ita), Fecha 2, Estadio de Abanca Balaídos</title>
@@ -133550,7 +133494,7 @@ En Vivo</title>
     <desc>Diferido ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261017160000 -0300" stop="20261017180000 -0300" channel="ESPN 7 CL">
     <title>Highlights - UEFA Champions League</title>
@@ -133714,7 +133658,7 @@ En Vivo</title>
     <desc>Grabado ║ La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
     <category>Fútbol</category>
-    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
+    <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg" />
   </programme>
   <programme start="20261018210000 -0300" stop="20261018230000 -0300" channel="ESPN 7 CL">
     <title>Eredivisie • FC Groningen vs Ajax, Fecha 9, Hitachi Capital Mobility Stadion</title>
@@ -133755,129 +133699,6 @@ En Vivo</title>
     <country>Italia</country>
     <episode-num system="onscreen">S0  2026</episode-num>
     <icon src="https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015190000 +0000" channel="Universo">
-    <category lang="en">Drama</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Karla Farjeat</director>
-      <director>Carlos Guerra</director>
-      <actor>Augusto Di Paolo</actor>
-      <actor>Mishelle Garfias</actor>
-      <actor>Saskia Seligman</actor>
-    </credits>
-    <desc lang="en">Una mujer de temple
-Angelina espera llegar a EE. UU. para confesar su embarazo. Ella y su marido juran que su hija irá a la universidad, pero una mala influencia desvía a la joven, a pesar del esfuerzo de su madre.</desc>
-    <icon src="https://iptv-epg.org/images/vzhC9zr5exhlA9k14dGuHSOc4aNX9QTbw1vchXycbiicZSkxAs30yjxKkV3TQnPhFyiivGqHbMryTzHftaWrUy22wUe7Dbt-s4zpxnAB6q8"/>
-    <previously-shown/>
-    <title lang="en">Lo que callamos las mujeres</title>
-  </programme>
-  <programme start="20261015190000 +0000" stop="20261015200000 +0000" channel="Universo">
-    <category lang="en">Action</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Diego Mejía</director>
-      <actor>Catherine Siachoque</actor>
-      <actor>Fabián Ríos</actor>
-      <actor>Carmen Villalobos</actor>
-      <actor>Kimberly Reyes</actor>
-      <actor>Carolina Gaitán</actor>
-      <actor>Juan Urrego</actor>
-      <actor>Juan Llano</actor>
-      <actor>Dagoberto Gama</actor>
-      <actor>Francisco Bolívar</actor>
-      <actor>Diana Acevedo</actor>
-      <actor>Johanna Fadul</actor>
-      <actor>Joselyn Gallardo</actor>
-    </credits>
-    <desc lang="en">S01 E69 — Tentar a la Diabla
-Berrío intenta comunicarse con Lucrecia, pero no sabe que su esposa Valeria la mandó a la cárcel. Además, la Diabla sigue los pasos de Vanessa y Natalia tras mandarles un mensaje.</desc>
-    <episode-num>S01 E69</episode-num>
-    <icon src="https://iptv-epg.org/images/MrCiH4AcctjmLG_d2knZjfxVLPLUjcmLhJCCmOlkAYuhEhHSoyPow4lVVd72SDfc53hCZ37TIIB2JoXE8pyg_8K-Twm0gNm-zrCmQXvUzGw"/>
-    <previously-shown/>
-    <title lang="en">El final del paraíso</title>
-  </programme>
-  <programme start="20261015200000 +0000" stop="20261015210000 +0000" channel="Universo">
-    <category lang="en">Competition reality</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game show</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E61 — Clavadista
-Miguel y su esposa Melina, padres de dos niños pequeños, buscan ganar un Set de Bebé y también una motocicleta. Si logran la combinación perfecta podrían cumplir con su objetivo.</desc>
-    <episode-num>S01 E61</episode-num>
-    <icon src="https://iptv-epg.org/images/zDJe7aGDKLLCWkFK_p1A0vXCeqZMrel7rqiRydQEYgyeULrXmHLWlf787ulygcDhTcxHBhcs18Mf8nkJ4i8g42sHMMyhYIBr8IWy7o1TDY4"/>
-    <previously-shown/>
-    <title lang="en">Escape perfecto</title>
-  </programme>
-  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="Universo">
-    <category lang="en">Drama</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>María Magán</actor>
-      <actor>Mauricio Islas</actor>
-      <actor>Alejandra Lazcano</actor>
-      <actor>Jack Duarte</actor>
-      <actor>Pedro Sicard</actor>
-      <actor>Silvia Pasquel</actor>
-    </credits>
-    <date>2021</date>
-    <desc lang="en">S01 E29 — Ídolo
-Alan, promesa del fútbol mexicano, está por llegar a Europa, pero la noticia de que va a morir lo obliga a cuestionarse. Salir de su zona de confort podría costarle la carrera y hasta la vida.</desc>
-    <episode-num>S01 E29</episode-num>
-    <icon src="https://iptv-epg.org/images/aa2I32tdN-PPhL-naWyI_xtDxETxJzzI43es2hku5WsBxrvUpcVbL7TexlHRxIQpNEa6QK7Ipo8M71HpXCKowser4CmnKYEUg6hOBguHjrw"/>
-    <previously-shown/>
-    <title lang="en">Un día para vivir</title>
-  </programme>
-  <programme start="20261015220000 +0000" stop="20261015230000 +0000" channel="Universo">
-    <category lang="en">Public affairs</category>
-    <category lang="en">Self improvement</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Series</category>
-    <credits>
-      <producer>Pamela Pacheco</producer>
-    </credits>
-    <desc lang="en">S01 E550 — Por una borrachera perdí a mi familia
-Clara queda embarazada del mejor amigo de su esposo luego de un momento de locura en una fiesta, provocado por el exceso de alcohol. Él la amenaza con quitarle la custodia de sus hijos.</desc>
-    <episode-num>S01 E550</episode-num>
-    <icon src="https://iptv-epg.org/images/YmmPF1sipFqbYQQCetgMPD66OwpTsKL4Oco0nVd9DaWkVh9agBCQ1FLqQ5Ng1I-zx8wdG1qhyJx9nZtYrTQV9vl_whQOS8i9B2ExFM5VEIc"/>
-    <previously-shown/>
-    <title lang="en">Acércate a Rocío</title>
-  </programme>
-  <programme start="20261015230000 +0000" stop="20261016000000 +0000" channel="Universo">
-    <category lang="en">Public affairs</category>
-    <category lang="en">Self improvement</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Series</category>
-    <credits>
-      <producer>Pamela Pacheco</producer>
-    </credits>
-    <desc lang="en">S01 E586 — La novia de mi hijo es una conchuda
-Rosario acusa a Citlaly, la novia de su hijo José, de aprovechada, deshonesta y de devorar toda la comida. La batalla por la convivencia se acentúa porque los tres viven en la misma casa.</desc>
-    <episode-num>S01 E586</episode-num>
-    <icon src="https://iptv-epg.org/images/YmmPF1sipFqbYQQCetgMPD66OwpTsKL4Oco0nVd9DaWkVh9agBCQ1FLqQ5Ng1I-zx8wdG1qhyJx9nZtYrTQV9vl_whQOS8i9B2ExFM5VEIc"/>
-    <previously-shown/>
-    <title lang="en">Acércate a Rocío</title>
-  </programme>
-  <programme start="20261016000000 +0000" stop="20261016010000 +0000" channel="Universo">
-    <category lang="en">Community</category>
-    <category lang="en">Law</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Tony Salup</director>
-      <producer>David Gherardi</producer>
-      <producer>Marianth Villarroel</producer>
-    </credits>
-    <desc lang="en">Amor por la testosterona; Padres helicóptero
-Casandra consumió testosterona para curarse. Ahora, es una adicción que se hace insoportable para su pareja. Esperanza no aguanta la presión de los padres de un alumno y pide su alejamiento.</desc>
-    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
-    <previously-shown/>
-    <title lang="en">Caso cerrado</title>
   </programme>
   <programme start="20261016010000 +0000" stop="20261016020000 +0000" channel="Universo">
     <category lang="en">Community</category>
@@ -134823,100 +134644,6 @@ Semana 6 de la temporada regular 2026 de la NFL. Green Bay Packers lidera la ser
     <icon src="https://iptv-epg.org/images/2yQtArGAkJTOA-0tTJ5__7PKy1j2aqa9AjHe695yEr-FXxO_RMaM6Xmhi9HitjJb0yeRbhy9BRuIaoi-rAnOllDPVgr26vOn0hoLjAvqgCg"/>
     <title lang="en">Fútbol Americano NFL</title>
     <live/>
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015190000 +0000" channel="Telemundo East">
-    <category lang="en">Holiday</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Irasema Torres</actor>
-    </credits>
-    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
-    <icon src="https://iptv-epg.org/images/cDCiazSXGCFDgjfKUqEPTqSSxlJnQZdUriWGiO9P2S0KT5Q2OAD7xZn9gfPRhXUoCiksksg4exDJFDk1HLkglrfwVbMMnOOs7GQ-Ar3zztU"/>
-    <title lang="en">En casa con Telemundo</title>
-    <new/>
-  </programme>
-  <programme start="20261015190000 +0000" stop="20261015200000 +0000" channel="Telemundo East">
-    <category lang="en">Anthology</category>
-    <category lang="en">Debate</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">News</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S05 E206
-Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
-    <episode-num>S05 E206</episode-num>
-    <icon src="https://iptv-epg.org/images/iJ_BhNW9baYUFotVIc28nngLH_iDnJGuXo3aPtfeyUmJNA46geUDT3R9DlJzQ3AtHlM0SvmPme5zv8jThbzIT32YL1xZMFx3VQiHk3llzN8"/>
-    <title lang="en">La mesa caliente</title>
-    <new/>
-  </programme>
-  <programme start="20261015200000 +0000" stop="20261015210000 +0000" channel="Telemundo East">
-    <category lang="en">Community</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <category lang="en">Series</category>
-    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
-    <icon src="https://iptv-epg.org/images/sH1BxfbZ6vqz89OzMbebCuCL-24l7gIMoTBX2P3IdO1gvBRiuEQAIJHGitq65XETI6JunehmISBNhZiGaX4eeVhm5-E0SD-X6afW1ULD2P8"/>
-    <title lang="en">Al rojo vivo</title>
-    <new/>
-  </programme>
-  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="Telemundo East">
-    <category lang="en">Holiday</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Irasema Torres</actor>
-    </credits>
-    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
-    <icon src="https://iptv-epg.org/images/cDCiazSXGCFDgjfKUqEPTqSSxlJnQZdUriWGiO9P2S0KT5Q2OAD7xZn9gfPRhXUoCiksksg4exDJFDk1HLkglrfwVbMMnOOs7GQ-Ar3zztU"/>
-    <previously-shown/>
-    <title lang="en">En casa con Telemundo</title>
-  </programme>
-  <programme start="20261015220000 +0000" stop="20261015223000 +0000" channel="Telemundo East">
-    <category lang="en">Community</category>
-    <category lang="en">News</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Series</category>
-    <credits>
-      <producer>Paula González</producer>
-    </credits>
-    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
-    <icon src="https://iptv-epg.org/images/uaPhLZNu9WgSABwb7rLWfFvnVwnVUiXi4obYIBmpnpgnYumgd8CxoAIJNA_j1t2p-h9HAt0wvHH1sypzC49WGNOwho968ngpVZGaWp3qq2k"/>
-    <previously-shown/>
-    <title lang="en">Noticias Telemundo mediodía</title>
-  </programme>
-  <programme start="20261015223000 +0000" stop="20261015230000 +0000" channel="Telemundo East">
-    <category lang="en">News</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Gema García</director>
-      <producer>Odalis Montalvo</producer>
-    </credits>
-    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
-    <icon src="https://iptv-epg.org/images/VBzUptObweVqqJAKd8BNNjJpcIJMeDOpKkJlwpDwsFtTwdzBGtR56eO2ZuROdoL-UWdlZECUp45siNQRS3j7z8Q_ppur7_6_O-UUij-ci_Y"/>
-    <title lang="en">Noticias Telemundo</title>
-    <new/>
-  </programme>
-  <programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="Telemundo East">
-    <category lang="en">Competition reality</category>
-    <category lang="en">Cooking</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S05 E57 — Con el fuego al máximo
-Los fogones se ponen al rojo vivo y tres retos, uno tras otro, definirán a tres finalistas mas, mientras uno queda fuera. De los seis semifinalistas, solo cuatro van por el gran premio.</desc>
-    <episode-num>S05 E57</episode-num>
-    <icon src="https://iptv-epg.org/images/U5AgozArePNuX3TujklzbDmcCoZr_ONzuDTgKJZmVo_qMI6XByy9S8_nZIzf5K6lo5FfRV8GxYGc6EWydzHFz5oh6pknYhJxGE5cDHKqgK0"/>
-    <title lang="en">Top Chef VIP</title>
-    <new/>
   </programme>
   <programme start="20261016010000 +0000" stop="20261016020000 +0000" channel="Telemundo East">
     <category lang="en">Adventure</category>
@@ -136022,109 +135749,6 @@ Lo picante, sexi y controversial del entretenimiento y lo que sucede en los real
     <title lang="en">Pica y se extiende</title>
     <new/>
   </programme>
-  <programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="Telemundo West">
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E61
-Reina de corazones</desc>
-    <episode-num>S01 E61</episode-num>
-    <icon src="https://iptv-epg.org/images/vOJID698ZYO_Dp-SeUUvfEaWHWPq_cU_jlY-va8NXOOzS23Dt9Vc_Y3MYqiX43HPH6nhd3LKhr2QhdHPecYuRAHyifQZSRDkhtJJ-TncN0U"/>
-    <previously-shown/>
-    <title lang="en">Reina de corazones</title>
-  </programme>
-  <programme start="20261015190000 +0000" stop="20261015193000 +0000" channel="Telemundo West">
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E61
-Santa Diabla</desc>
-    <episode-num>S01 E61</episode-num>
-    <icon src="https://iptv-epg.org/images/x7WlcHkidm7FwCktYslvys5jnuDKosxfP5b0hiU-71bDuj4QcPtlsK-w0f9L8NAYT95LwaK7vVG90qIgXKgYXJEZyrIuFH6obA3URwnKL3A"/>
-    <previously-shown/>
-    <title lang="en">Santa Diabla</title>
-  </programme>
-  <programme start="20261015193000 +0000" stop="20261015200000 +0000" channel="Telemundo West">
-    <category lang="en">Community</category>
-    <category lang="en">News</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Series</category>
-    <credits>
-      <producer>Paula González</producer>
-    </credits>
-    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
-    <icon src="https://iptv-epg.org/images/uaPhLZNu9WgSABwb7rLWfFvnVwnVUiXi4obYIBmpnpgnYumgd8CxoAIJNA_j1t2p-h9HAt0wvHH1sypzC49WGNOwho968ngpVZGaWp3qq2k"/>
-    <title lang="en">Noticias Telemundo mediodía</title>
-    <new/>
-  </programme>
-  <programme start="20261015200000 +0000" stop="20261015210000 +0000" channel="Telemundo West">
-    <category lang="en">Holiday</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Irasema Torres</actor>
-    </credits>
-    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
-    <icon src="https://iptv-epg.org/images/cDCiazSXGCFDgjfKUqEPTqSSxlJnQZdUriWGiO9P2S0KT5Q2OAD7xZn9gfPRhXUoCiksksg4exDJFDk1HLkglrfwVbMMnOOs7GQ-Ar3zztU"/>
-    <title lang="en">En casa con Telemundo</title>
-    <new/>
-  </programme>
-  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="Telemundo West">
-    <category lang="en">Holiday</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Irasema Torres</actor>
-    </credits>
-    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
-    <icon src="https://iptv-epg.org/images/cDCiazSXGCFDgjfKUqEPTqSSxlJnQZdUriWGiO9P2S0KT5Q2OAD7xZn9gfPRhXUoCiksksg4exDJFDk1HLkglrfwVbMMnOOs7GQ-Ar3zztU"/>
-    <title lang="en">En casa con Telemundo</title>
-    <new/>
-  </programme>
-  <programme start="20261015220000 +0000" stop="20261015230000 +0000" channel="Telemundo West">
-    <category lang="en">Anthology</category>
-    <category lang="en">Debate</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">News</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S05 E206
-Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
-    <episode-num>S05 E206</episode-num>
-    <icon src="https://iptv-epg.org/images/iJ_BhNW9baYUFotVIc28nngLH_iDnJGuXo3aPtfeyUmJNA46geUDT3R9DlJzQ3AtHlM0SvmPme5zv8jThbzIT32YL1xZMFx3VQiHk3llzN8"/>
-    <title lang="en">La mesa caliente</title>
-    <new/>
-  </programme>
-  <programme start="20261015230000 +0000" stop="20261016000000 +0000" channel="Telemundo West">
-    <category lang="en">Community</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <category lang="en">Series</category>
-    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
-    <icon src="https://iptv-epg.org/images/sH1BxfbZ6vqz89OzMbebCuCL-24l7gIMoTBX2P3IdO1gvBRiuEQAIJHGitq65XETI6JunehmISBNhZiGaX4eeVhm5-E0SD-X6afW1ULD2P8"/>
-    <title lang="en">Al rojo vivo</title>
-    <new/>
-  </programme>
-  <programme start="20261016000000 +0000" stop="20261016010000 +0000" channel="Telemundo West">
-    <category lang="en">Holiday</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Irasema Torres</actor>
-    </credits>
-    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
-    <icon src="https://iptv-epg.org/images/cDCiazSXGCFDgjfKUqEPTqSSxlJnQZdUriWGiO9P2S0KT5Q2OAD7xZn9gfPRhXUoCiksksg4exDJFDk1HLkglrfwVbMMnOOs7GQ-Ar3zztU"/>
-    <previously-shown/>
-    <title lang="en">En casa con Telemundo</title>
-  </programme>
   <programme start="20261016010000 +0000" stop="20261016013000 +0000" channel="Telemundo West">
     <category lang="en">Community</category>
     <category lang="en">News</category>
@@ -137216,75 +136840,6 @@ La presión lleva al límite a veinte celebridades que enfrentan los más exigen
     <title lang="en">Top Chef VIP</title>
     <new/>
   </programme>
-  <programme start="20261015180000 +0000" stop="20261015200000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Entertainment</category>
-    <category lang="en">Sports talk</category>
-    <category>Sports</category>
-    <credits>
-      <director>Josep Pedrerol</director>
-    </credits>
-    <date>2014</date>
-    <desc lang="en">Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/hUir-QtNwwzy6RaOnE8G-wpHtRd9FvZPQrXYJvQsyxhuY_rBuwliPUCManetSEgVNqByJEknlQ_3IHIouhv8-x1bpztF3KFwKnXSVYEX-_Y"/>
-    <title lang="en">El Chiringuito de Jugones</title>
-  </programme>
-  <programme start="20261015200000 +0000" stop="20261015203000 +0000" channel="FOX DEPORTES">
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <category>Sports</category>
-    <date>2024</date>
-    <desc lang="en">Noticias para estar al tanto de lo que está sucediendo en el mundo.</desc>
-    <icon src="https://iptv-epg.org/images/MeDVSZYFbBhhndTFs_1xYFRk3rQjebs_FztXn6w8NFB0ajdNQ5qybrBE1uoXC_HUEjaPYntQgID17vb5YKfDldBB_AoJC7UnmKoqZJvAODo"/>
-    <title lang="en">Fox noticias en Fox Deportes</title>
-    <new/>
-  </programme>
-  <programme start="20261015203000 +0000" stop="20261015210000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Soccer</category>
-    <category>Sports</category>
-    <date>1000</date>
-    <desc lang="en">Especialistas de fútbol comentan sobre lo más destacado de los partidos y las noticias de las ligas de balompié de América.</desc>
-    <icon src="https://iptv-epg.org/images/exLITTHAkyXmkGSL22wKGM64GqAzDviDaBOr_hM087exzBgudzh-LbCsJ6TBJZ6H4FCLiaR8UO5cpy8tGyvPaGnUk5k6A4MPtntF6OcmZUE"/>
-    <title lang="en">Gol x gol América Xpress</title>
-    <new/>
-  </programme>
-  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <desc lang="en">Una mezcla de entretenimiento, información y análisis relajado, en la que se buscan las tendencias en redes y temas virales con enlaces a todas las sedes.</desc>
-    <icon src="https://iptv-epg.org/images/EGWf0x64cUZdxTtaLRUTLFVdKAiRK20yPoZnchmeZPFP8MVCYpoycTq2JCwv67Uc4AfMSlUa8XfDeQ1vmybbSCCWDnxoXWFEk4--eP4d_Iw"/>
-    <title lang="en">Mother Soccer</title>
-    <live/>
-  </programme>
-  <programme start="20261015220000 +0000" stop="20261015230000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Entertainment</category>
-    <category lang="en">Sports talk</category>
-    <category>Sports</category>
-    <credits>
-      <director>Josep Pedrerol</director>
-    </credits>
-    <date>2014</date>
-    <desc lang="en">Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.</desc>
-    <icon src="https://iptv-epg.org/images/hUir-QtNwwzy6RaOnE8G-wpHtRd9FvZPQrXYJvQsyxhuY_rBuwliPUCManetSEgVNqByJEknlQ_3IHIouhv8-x1bpztF3KFwKnXSVYEX-_Y"/>
-    <title lang="en">El Chiringuito de Jugones</title>
-    <live/>
-  </programme>
-  <programme start="20261015230000 +0000" stop="20261016000000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <desc lang="en">Análisis de las fuerzas y debilidades de cada equipo y destacados de otros partidos antes del juego.</desc>
-    <icon src="https://iptv-epg.org/images/hoaTVloszOL_rk9wWIZNdZxK02zCmtE1kxSdnXzNI8uwC4No8ZYOLrt-aG9zfUr1UsqiKMPSbOXBLvlYoPouVz1OPg0HtIOlsR3tNxG0MxE"/>
-    <title lang="en">MLB Pregame</title>
-    <live/>
-  </programme>
-  <programme start="20261016000000 +0000" stop="20261016030000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Baseball</category>
-    <category lang="en">Sports</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Milwaukee Brewers vs. Los Angeles Dodgers
-Acción del cuarto juego de la Serie de Campeonato de la Liga Nacional. Milwaukee Brewers visita a Los Angeles Dodgers. Desde el Dodger Stadium, en Los Ángeles, California.</desc>
-    <icon src="https://iptv-epg.org/images/uZgvq5l8-tRquGO0x9z3vEwQ7PT6lKLAoS47kLg28wPBPvqBxVQNGrrX-W5z2_08QFwn6Mv_RhA3HRaqRADuj7fh_lULKz3kU6x0DkgSvsM"/>
-    <title lang="en">Béisbol MLB</title>
-    <live/>
-  </programme>
   <programme start="20261016030000 +0000" stop="20261016040000 +0000" channel="FOX DEPORTES">
     <category lang="en">Sports</category>
     <desc lang="en">Una recapitulación del juego del día.</desc>
@@ -137967,60 +137522,6 @@ Acción del sexto juego de la Serie de Campeonato de la Liga Nacional. Los Angel
     <title lang="en">Béisbol MLB</title>
     <live/>
   </programme>
-  <programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Sports talk</category>
-    <category lang="en">Series</category>
-    <category>Sports</category>
-    <desc lang="en">Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.</desc>
-    <icon src="https://iptv-epg.org/images/18VpqiEmYTI8iDcSNLKieUTUQIoe3ShH0sCO5-qV3a1DcW7IU7LVsAY3WVW2PakI-I_kx240eqykNtDfkJqkuocmGwbYKM8SbnF6SxWBK3w"/>
-    <title lang="en">First Things First</title>
-    <live/>
-  </programme>
-  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Sports talk</category>
-    <category lang="en">Series</category>
-    <category>Sports</category>
-    <desc lang="en">Nick Wright, Chris Broussard, Kevin Wildes, and OT anchor Danny Parkins offer their opinions on the day's biggest sports stories.</desc>
-    <icon src="https://iptv-epg.org/images/S29hAEv5Hw70KuEB1NnFLHEuFSX9mqObLcm1HeGik5Oe5qrsxU7I0RoMIBs5puQpYCmONUJtCN0WoE8OZXvFuQqS9EWGde6ydKguEw0KkSw"/>
-    <title lang="en">First Things First: OT</title>
-    <live/>
-  </programme>
-  <programme start="20261015220000 +0000" stop="20261015223000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Football</category>
-    <category>Sports</category>
-    <date>2026</date>
-    <desc lang="en">Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
-    <icon src="https://iptv-epg.org/images/Po9kKtSzZBsxOxCbx24x8r7z1_tFqXhp1nlme1151eDkY8NWlW6ruxMhfldgM0hn4PRbLMobyKlSLWhdK7mBedWX881M3XLA2LDMEd9F1ro"/>
-    <title lang="en">The Gronk &amp; Jules Show</title>
-    <new/>
-  </programme>
-  <programme start="20261015223000 +0000" stop="20261015230000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Week 7 Preview
-Joel Klatt breaks down the current topics in the world of college football.</desc>
-    <icon src="https://iptv-epg.org/images/xVTIKflFgdDPDuLJXE4x4fje-y4WkrYVXzUm4VCPC_FG2luBXgDv41NMKwaQmUOehywsyTyOe6aIVRUN53UBfpSCN1lpR7nkYBqeLtJRMFw"/>
-    <title lang="en">The Joel Klatt Show: A College Football Podcast</title>
-    <new/>
-  </programme>
-  <programme start="20261015230000 +0000" stop="20261016000000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Sports</category>
-    <desc lang="en">FS1 MLB co-hosts &amp; analysts preview today's upcoming baseball games from around the country and recap the previous day's action.</desc>
-    <icon src="https://iptv-epg.org/images/x3dbQwJeA7U5aQjT8ikHOgei-4Kcl2VfVA3QeBA29KBTwyvDFnmBg99VwKPs4LkUjDWzk2Tv_7PqrpioVQP5zwG-GK-V8AleHorekQVAEIQ"/>
-    <title lang="en">MLB on FS1 Pregame</title>
-    <live/>
-  </programme>
-  <programme start="20261016000000 +0000" stop="20261016030000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Milwaukee Brewers at Los Angeles Dodgers
-The Los Angeles Dodgers host the Milwaukee Brewers at Dodger Stadium in NLCS Game 4 play. Down 3-0, Los Angeles relies on right-handed pitcher Tyler Glasnow to avoid elimination, while Milwaukee looks to Jackson Chourio after his Game 3 leadoff HR.</desc>
-    <icon src="https://iptv-epg.org/images/uZgvq5l8-tRquGO0x9z3vEwQ7PT6lKLAoS47kLg28wPBPvqBxVQNGrrX-W5z2_08QFwn6Mv_RhA3HRaqRADuj7fh_lULKz3kU6x0DkgSvsM"/>
-    <title lang="en">MLB Baseball</title>
-    <live/>
-  </programme>
   <programme start="20261016030000 +0000" stop="20261016040000 +0000" channel="FOX SPORTS 1 US">
     <category lang="en">Sports</category>
     <desc lang="en">Highlights, analysis and a wrap-up of today's MLB action.</desc>
@@ -138431,65 +137932,6 @@ National League Championship Series, Game 6. (If necessary)</desc>
     <icon src="https://iptv-epg.org/images/7FirhVyWFQBGi7k14PTCCLiouf4x8ZkfTZqepZuwOQg9l_uoBnZXSMoaTVfnlmeDWf-w1tbZ15r-_OnIyL9QuNKtqefO0llkixTe_Eb6F9I"/>
     <title lang="en">MLB Baseball</title>
     <live/>
-  </programme>
-  <programme start="20261015170000 +0000" stop="20261015213000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Horse racing</category>
-    <category lang="en">Sports</category>
-    <category lang="en">Series</category>
-    <date>2026</date>
-    <desc lang="en">America's Day At the Races
-The best racehorses square off in the premier races from across the country.</desc>
-    <icon src="https://iptv-epg.org/images/HSinx0u3EtiDuc4qHYqTM1Dm5yrQhPnWmJECxmNAV4nUmQzmFGjsoWl33mrNFqRikcLsaxSs7ewNVQ1thGxeKfyM78QLjOfoBC945mUFQkg"/>
-    <title lang="en">Horse Racing</title>
-    <live/>
-  </programme>
-  <programme start="20261015213000 +0000" stop="20261015220000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Sports talk</category>
-    <category lang="en">Series</category>
-    <category>Sports</category>
-    <desc lang="en">A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.</desc>
-    <icon src="https://iptv-epg.org/images/yI81qbLsY6icmgNXKRUv2-no5VMEHQ8TNB1e6c-grtFTRjw8S5_ifa5LekOj717mqORACtPSEZTFGbEbLhFCFUdcYw6h_0ja2noth8dA7-I"/>
-    <previously-shown/>
-    <title lang="en">The Clay Travis Show</title>
-  </programme>
-  <programme start="20261015220000 +0000" stop="20261015230000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Poker</category>
-    <category lang="en">Series</category>
-    <category>Sports</category>
-    <desc lang="en">S02 E18
-There are hundreds of thousands of dollars in play, as tensions rise in Las Vegas. Matt Berkey and Jason Koon dominate. The Loose Cannon and UFC fighter Sean O'Malley are both put to the test. And one player taps out, leaving a seat to be filled.</desc>
-    <episode-num>S02 E18</episode-num>
-    <icon src="https://iptv-epg.org/images/SSyoBBwJ3XGl9WBxIqAIadTEtS1Kx8408Q8mgOZH349W7kSs8JhNgZdscioPFVVM84wne0DzAqDyoJCj6NkKos2sb44ll4yB4KuGUQgbSRA"/>
-    <previously-shown/>
-    <title lang="en">Pokerstars Big Game on Tour</title>
-  </programme>
-  <programme start="20261015230000 +0000" stop="20261015233000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Football</category>
-    <category lang="en">Series</category>
-    <category>Sports</category>
-    <desc lang="en">CFB Week 7 Guide
-Gamblers Chris The Bear Fallica, Geoff Schwartz and Sammy Panayotovich bet real money on each wager.</desc>
-    <icon src="https://iptv-epg.org/images/vA59g1njTinzP6EGf5bI0SsAGP4Yo8PH5SjkPUPKOal8n9OsJIsmO0mFd7yEDjxD41H6WN8P78GkTY7sNQ3uptE-lBmF80HznsuWwYH-V7U"/>
-    <previously-shown/>
-    <title lang="en">Big Noon Kickoff Presents Bear Bets</title>
-  </programme>
-  <programme start="20261015233000 +0000" stop="20261016000000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Talk</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Kevin Harvick and Will Buxton celebrate the world of motorsports.</desc>
-    <icon src="https://iptv-epg.org/images/Puky4eZFIv3UtoGVqpillAJmbY7QtjoZCb0QH63xwTiCQnYiISnWBRkcqPP7IJL3v8fOE5afFnVdocYdupC6DgRz_TfuOwZ0m_86hkLTk8M"/>
-    <previously-shown/>
-    <title lang="en">SPEED With Harvick &amp; Buxton</title>
-  </programme>
-  <programme start="20261016000000 +0000" stop="20261016003000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Auto racing</category>
-    <category lang="en">Series</category>
-    <category>Sports</category>
-    <desc lang="en">Ryan Blaney &amp; Chase Briscoe Interview
-NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.</desc>
-    <icon src="https://iptv-epg.org/images/vsc0tpbMwycBDsUwVmZ1GFZM6QNELBT923_Yo7hYOuJ66aErQRCW8zF_Jv9mKs4CwyT1_3nWblB9tdLALR67d_jROu2Ri3QRzC_q_fLNi3c"/>
-    <previously-shown/>
-    <title lang="en">Kevin Harvick's Happy Hour</title>
   </programme>
   <programme start="20261016003000 +0000" stop="20261016010000 +0000" channel="FOX SPORTS 2 US">
     <category lang="en">Auto racing</category>
@@ -142866,6 +142308,580 @@ Indianapolis Motor Speedway</desc>
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FO81U2IZPCZ9UY3440IG.jpg/a:h/im/SI202607180325.jpg?ht=exp=1789901441+hmac=4ca8182640956ebd8b34f475f0d78a30" />
 	</programme>
+  <programme start="20261016173247 +0000" stop="20261016194530 +0000" channel="Sony One Hits Comedia">
+    <title>Zohan: Licencia Para Peinar</title>
+    <desc>Zohan es un agente de élite del Mossad que guarda un secreto: su sueño es convertirse en peluquero en Estados Unidos. Aprovechando una pelea contra su peor enemigo, un terrorista conocido como ‘El Fantasma', Zohan finge su propia muerte y vuela a Nueva York, armado únicamente con sus tijeras y su secador de pelo.A pesar de su inexperiencia, pronto es contratado por el dueño de una peluquería y consigue atraer a una gran multitud de clientes. Sin embargo, el sueño de Zohan corre peligro cuando su antiguo enemigo le reconoce y planea acabar con él de una vez por todas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1029881934_0_20250704T092439883Z_51_imageprocessorclient-tvplus-linear-5db7c6bc99-d5mt6.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261016174447 +0000" stop="20261016201447 +0000" channel="Sony One Hits Acción">
+    <title>La Leyenda Del Zorro</title>
+    <desc>¡El justiciero de la capa original ha regresado! Antonio Banderas y la ganadora del Oscar(r) Catherine Zeta-Jones (2002, mejor actriz de reparto, Chicago) vuelven con más duelos a espada, aventuras y emoción en el explosivo espectáculo cinematográfico, ¡THE LEGEND OF ZORRO! Tras pasar los últimos diez años luchando contra la injusticia y la crueldad, Alejandro de la Vega (Banderas) se enfrenta ahora a su mayor desafío: ¡su amada esposa Elena (Zeta-Jones) lo ha echado de casa! Elena ha pedido el divorcio y ha encontrado cobijo en los brazos del conde Armand (Rufus Sewell), un apuesto aristócrata francés. Pero Alejandro sabe algo que ella no sabe: Armand es el maligno cerebro de una trama terrorista para destruir Estados Unidos. Así, con su matrimonio y el futuro del país en juego, el Zorro debe salvar dos uniones antes de que sea demasiado tarde.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2160047839_0_20260902T193323736Z_22_imageprocessorclient-tvplus-linear-b5879c6c6-ntrtq.jpeg"/>
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015190000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">FC Andorra vs. CD Castellón.</desc>
+    <title lang="es">FC Andorra vs. CD Castellón</title>
+  </programme>
+  <programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Real Valladolid vs. Albacete BP.</desc>
+    <title lang="es">Real Valladolid vs. Albacete BP</title>
+  </programme>
+  <programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Canadá vs. Francia.</desc>
+    <title lang="es">Canadá vs. Francia</title>
+  </programme>
+  <programme start="20261015230000 +0000" stop="20261016020000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Dallas Stars vs. Colorado Avala.</desc>
+    <title lang="es">Dallas Stars vs. Colorado Avala</title>
+  </programme>
+  <programme start="20261015163000 +0000" stop="20261015183000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Rayo Vallecano vs. Athletic Clu.</desc>
+    <title lang="es">Rayo Vallecano vs. Athletic Clu</title>
+  </programme>
+  <programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">LaLiga Highlights.</desc>
+    <title lang="es">LaLiga Highlights</title>
+  </programme>
+  <programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Deportivo Alavés vs. Atlético de Madrid.</desc>
+    <title lang="es">Deportivo Alavés vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">R. Racing Club vs. Valencia.</desc>
+    <title lang="es">R. Racing Club vs. Valencia</title>
+  </programme>
+  <programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Real Sociedad vs. Deportivo La.</desc>
+    <title lang="es">Real Sociedad vs. Deportivo La</title>
+  </programme>
+  <programme start="20261015163000 +0000" stop="20261015183000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Elche vs. Celta de Vigo.</desc>
+    <title lang="es">Elche vs. Celta de Vigo</title>
+  </programme>
+  <programme start="20261015183000 +0000" stop="20261015203000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Rayo Vallecano vs. Athletic Clu.</desc>
+    <title lang="es">Rayo Vallecano vs. Athletic Clu</title>
+  </programme>
+  <programme start="20261015203000 +0000" stop="20261015210000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">LaLiga Highlights.</desc>
+    <title lang="es">LaLiga Highlights</title>
+  </programme>
+  <programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Deportivo Alavés vs. Atlético de Madrid.</desc>
+    <title lang="es">Deportivo Alavés vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">R. Racing Club vs. Valencia.</desc>
+    <title lang="es">R. Racing Club vs. Valencia</title>
+  </programme>
+  <programme start="20261015180000 +0000" stop="20261015190000 +0000" channel="Universo">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Karla Farjeat</director>
+      <director>Carlos Guerra</director>
+      <actor>Augusto Di Paolo</actor>
+      <actor>Mishelle Garfias</actor>
+      <actor>Saskia Seligman</actor>
+    </credits>
+    <desc lang="en">Una mujer de temple
+Angelina espera llegar a EE. UU. para confesar su embarazo. Ella y su marido juran que su hija irá a la universidad, pero una mala influencia desvía a la joven, a pesar del esfuerzo de su madre.</desc>
+    <icon src="https://iptv-epg.org/images/vzhC9zr5exhlA9k14dGuHSOc4aNX9QTbw1vchXycbiicZSkxAs30yjxKkV3TQnPhFyiivGqHbMryTzHftaWrUy22wUe7Dbt-s4zpxnAB6q8"/>
+    <previously-shown/>
+    <title lang="en">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20261015190000 +0000" stop="20261015200000 +0000" channel="Universo">
+    <category lang="en">Action</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Diego Mejía</director>
+      <actor>Catherine Siachoque</actor>
+      <actor>Fabián Ríos</actor>
+      <actor>Carmen Villalobos</actor>
+      <actor>Kimberly Reyes</actor>
+      <actor>Carolina Gaitán</actor>
+      <actor>Juan Urrego</actor>
+      <actor>Juan Llano</actor>
+      <actor>Dagoberto Gama</actor>
+      <actor>Francisco Bolívar</actor>
+      <actor>Diana Acevedo</actor>
+      <actor>Johanna Fadul</actor>
+      <actor>Joselyn Gallardo</actor>
+    </credits>
+    <desc lang="en">S01 E69 — Tentar a la Diabla
+Berrío intenta comunicarse con Lucrecia, pero no sabe que su esposa Valeria la mandó a la cárcel. Además, la Diabla sigue los pasos de Vanessa y Natalia tras mandarles un mensaje.</desc>
+    <episode-num>S01 E69</episode-num>
+    <icon src="https://iptv-epg.org/images/MrCiH4AcctjmLG_d2knZjfxVLPLUjcmLhJCCmOlkAYuhEhHSoyPow4lVVd72SDfc53hCZ37TIIB2JoXE8pyg_8K-Twm0gNm-zrCmQXvUzGw"/>
+    <previously-shown/>
+    <title lang="en">El final del paraíso</title>
+  </programme>
+  <programme start="20261015200000 +0000" stop="20261015210000 +0000" channel="Universo">
+    <category lang="en">Competition reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S01 E61 — Clavadista
+Miguel y su esposa Melina, padres de dos niños pequeños, buscan ganar un Set de Bebé y también una motocicleta. Si logran la combinación perfecta podrían cumplir con su objetivo.</desc>
+    <episode-num>S01 E61</episode-num>
+    <icon src="https://iptv-epg.org/images/zDJe7aGDKLLCWkFK_p1A0vXCeqZMrel7rqiRydQEYgyeULrXmHLWlf787ulygcDhTcxHBhcs18Mf8nkJ4i8g42sHMMyhYIBr8IWy7o1TDY4"/>
+    <previously-shown/>
+    <title lang="en">Escape perfecto</title>
+  </programme>
+  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="Universo">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>María Magán</actor>
+      <actor>Mauricio Islas</actor>
+      <actor>Alejandra Lazcano</actor>
+      <actor>Jack Duarte</actor>
+      <actor>Pedro Sicard</actor>
+      <actor>Silvia Pasquel</actor>
+    </credits>
+    <date>2021</date>
+    <desc lang="en">S01 E29 — Ídolo
+Alan, promesa del fútbol mexicano, está por llegar a Europa, pero la noticia de que va a morir lo obliga a cuestionarse. Salir de su zona de confort podría costarle la carrera y hasta la vida.</desc>
+    <episode-num>S01 E29</episode-num>
+    <icon src="https://iptv-epg.org/images/aa2I32tdN-PPhL-naWyI_xtDxETxJzzI43es2hku5WsBxrvUpcVbL7TexlHRxIQpNEa6QK7Ipo8M71HpXCKowser4CmnKYEUg6hOBguHjrw"/>
+    <previously-shown/>
+    <title lang="en">Un día para vivir</title>
+  </programme>
+  <programme start="20261015220000 +0000" stop="20261015230000 +0000" channel="Universo">
+    <category lang="en">Public affairs</category>
+    <category lang="en">Self improvement</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <credits>
+      <producer>Pamela Pacheco</producer>
+    </credits>
+    <desc lang="en">S01 E550 — Por una borrachera perdí a mi familia
+Clara queda embarazada del mejor amigo de su esposo luego de un momento de locura en una fiesta, provocado por el exceso de alcohol. Él la amenaza con quitarle la custodia de sus hijos.</desc>
+    <episode-num>S01 E550</episode-num>
+    <icon src="https://iptv-epg.org/images/YmmPF1sipFqbYQQCetgMPD66OwpTsKL4Oco0nVd9DaWkVh9agBCQ1FLqQ5Ng1I-zx8wdG1qhyJx9nZtYrTQV9vl_whQOS8i9B2ExFM5VEIc"/>
+    <previously-shown/>
+    <title lang="en">Acércate a Rocío</title>
+  </programme>
+  <programme start="20261015230000 +0000" stop="20261016000000 +0000" channel="Universo">
+    <category lang="en">Public affairs</category>
+    <category lang="en">Self improvement</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <credits>
+      <producer>Pamela Pacheco</producer>
+    </credits>
+    <desc lang="en">S01 E586 — La novia de mi hijo es una conchuda
+Rosario acusa a Citlaly, la novia de su hijo José, de aprovechada, deshonesta y de devorar toda la comida. La batalla por la convivencia se acentúa porque los tres viven en la misma casa.</desc>
+    <episode-num>S01 E586</episode-num>
+    <icon src="https://iptv-epg.org/images/YmmPF1sipFqbYQQCetgMPD66OwpTsKL4Oco0nVd9DaWkVh9agBCQ1FLqQ5Ng1I-zx8wdG1qhyJx9nZtYrTQV9vl_whQOS8i9B2ExFM5VEIc"/>
+    <previously-shown/>
+    <title lang="en">Acércate a Rocío</title>
+  </programme>
+  <programme start="20261016000000 +0000" stop="20261016010000 +0000" channel="Universo">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <desc lang="en">Amor por la testosterona; Padres helicóptero
+Casandra consumió testosterona para curarse. Ahora, es una adicción que se hace insoportable para su pareja. Esperanza no aguanta la presión de los padres de un alumno y pide su alejamiento.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <previously-shown/>
+    <title lang="en">Caso cerrado</title>
+  </programme>
+  <programme start="20261015180000 +0000" stop="20261015190000 +0000" channel="Telemundo East">
+    <category lang="en">Holiday</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Irasema Torres</actor>
+    </credits>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <icon src="https://iptv-epg.org/images/cDCiazSXGCFDgjfKUqEPTqSSxlJnQZdUriWGiO9P2S0KT5Q2OAD7xZn9gfPRhXUoCiksksg4exDJFDk1HLkglrfwVbMMnOOs7GQ-Ar3zztU"/>
+    <title lang="en">En casa con Telemundo</title>
+    <new/>
+  </programme>
+  <programme start="20261015190000 +0000" stop="20261015200000 +0000" channel="Telemundo East">
+    <category lang="en">Anthology</category>
+    <category lang="en">Debate</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S05 E206
+Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
+    <episode-num>S05 E206</episode-num>
+    <icon src="https://iptv-epg.org/images/iJ_BhNW9baYUFotVIc28nngLH_iDnJGuXo3aPtfeyUmJNA46geUDT3R9DlJzQ3AtHlM0SvmPme5zv8jThbzIT32YL1xZMFx3VQiHk3llzN8"/>
+    <title lang="en">La mesa caliente</title>
+    <new/>
+  </programme>
+  <programme start="20261015200000 +0000" stop="20261015210000 +0000" channel="Telemundo East">
+    <category lang="en">Community</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+    <icon src="https://iptv-epg.org/images/sH1BxfbZ6vqz89OzMbebCuCL-24l7gIMoTBX2P3IdO1gvBRiuEQAIJHGitq65XETI6JunehmISBNhZiGaX4eeVhm5-E0SD-X6afW1ULD2P8"/>
+    <title lang="en">Al rojo vivo</title>
+    <new/>
+  </programme>
+  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="Telemundo East">
+    <category lang="en">Holiday</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Irasema Torres</actor>
+    </credits>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <icon src="https://iptv-epg.org/images/cDCiazSXGCFDgjfKUqEPTqSSxlJnQZdUriWGiO9P2S0KT5Q2OAD7xZn9gfPRhXUoCiksksg4exDJFDk1HLkglrfwVbMMnOOs7GQ-Ar3zztU"/>
+    <previously-shown/>
+    <title lang="en">En casa con Telemundo</title>
+  </programme>
+  <programme start="20261015220000 +0000" stop="20261015223000 +0000" channel="Telemundo East">
+    <category lang="en">Community</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <credits>
+      <producer>Paula González</producer>
+    </credits>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+    <icon src="https://iptv-epg.org/images/uaPhLZNu9WgSABwb7rLWfFvnVwnVUiXi4obYIBmpnpgnYumgd8CxoAIJNA_j1t2p-h9HAt0wvHH1sypzC49WGNOwho968ngpVZGaWp3qq2k"/>
+    <previously-shown/>
+    <title lang="en">Noticias Telemundo mediodía</title>
+  </programme>
+  <programme start="20261015223000 +0000" stop="20261015230000 +0000" channel="Telemundo East">
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Gema García</director>
+      <producer>Odalis Montalvo</producer>
+    </credits>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+    <icon src="https://iptv-epg.org/images/VBzUptObweVqqJAKd8BNNjJpcIJMeDOpKkJlwpDwsFtTwdzBGtR56eO2ZuROdoL-UWdlZECUp45siNQRS3j7z8Q_ppur7_6_O-UUij-ci_Y"/>
+    <title lang="en">Noticias Telemundo</title>
+    <new/>
+  </programme>
+  <programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="Telemundo East">
+    <category lang="en">Competition reality</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S05 E57 — Con el fuego al máximo
+Los fogones se ponen al rojo vivo y tres retos, uno tras otro, definirán a tres finalistas mas, mientras uno queda fuera. De los seis semifinalistas, solo cuatro van por el gran premio.</desc>
+    <episode-num>S05 E57</episode-num>
+    <icon src="https://iptv-epg.org/images/U5AgozArePNuX3TujklzbDmcCoZr_ONzuDTgKJZmVo_qMI6XByy9S8_nZIzf5K6lo5FfRV8GxYGc6EWydzHFz5oh6pknYhJxGE5cDHKqgK0"/>
+    <title lang="en">Top Chef VIP</title>
+    <new/>
+  </programme>
+  <programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="Telemundo West">
+    <category lang="en">Series</category>
+    <desc lang="en">S01 E61
+Reina de corazones</desc>
+    <episode-num>S01 E61</episode-num>
+    <icon src="https://iptv-epg.org/images/vOJID698ZYO_Dp-SeUUvfEaWHWPq_cU_jlY-va8NXOOzS23Dt9Vc_Y3MYqiX43HPH6nhd3LKhr2QhdHPecYuRAHyifQZSRDkhtJJ-TncN0U"/>
+    <previously-shown/>
+    <title lang="en">Reina de corazones</title>
+  </programme>
+  <programme start="20261015190000 +0000" stop="20261015193000 +0000" channel="Telemundo West">
+    <category lang="en">Series</category>
+    <desc lang="en">S01 E61
+Santa Diabla</desc>
+    <episode-num>S01 E61</episode-num>
+    <icon src="https://iptv-epg.org/images/x7WlcHkidm7FwCktYslvys5jnuDKosxfP5b0hiU-71bDuj4QcPtlsK-w0f9L8NAYT95LwaK7vVG90qIgXKgYXJEZyrIuFH6obA3URwnKL3A"/>
+    <previously-shown/>
+    <title lang="en">Santa Diabla</title>
+  </programme>
+  <programme start="20261015193000 +0000" stop="20261015200000 +0000" channel="Telemundo West">
+    <category lang="en">Community</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <credits>
+      <producer>Paula González</producer>
+    </credits>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+    <icon src="https://iptv-epg.org/images/uaPhLZNu9WgSABwb7rLWfFvnVwnVUiXi4obYIBmpnpgnYumgd8CxoAIJNA_j1t2p-h9HAt0wvHH1sypzC49WGNOwho968ngpVZGaWp3qq2k"/>
+    <title lang="en">Noticias Telemundo mediodía</title>
+    <new/>
+  </programme>
+  <programme start="20261015200000 +0000" stop="20261015210000 +0000" channel="Telemundo West">
+    <category lang="en">Holiday</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Irasema Torres</actor>
+    </credits>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <icon src="https://iptv-epg.org/images/cDCiazSXGCFDgjfKUqEPTqSSxlJnQZdUriWGiO9P2S0KT5Q2OAD7xZn9gfPRhXUoCiksksg4exDJFDk1HLkglrfwVbMMnOOs7GQ-Ar3zztU"/>
+    <title lang="en">En casa con Telemundo</title>
+    <new/>
+  </programme>
+  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="Telemundo West">
+    <category lang="en">Holiday</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Irasema Torres</actor>
+    </credits>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <icon src="https://iptv-epg.org/images/cDCiazSXGCFDgjfKUqEPTqSSxlJnQZdUriWGiO9P2S0KT5Q2OAD7xZn9gfPRhXUoCiksksg4exDJFDk1HLkglrfwVbMMnOOs7GQ-Ar3zztU"/>
+    <title lang="en">En casa con Telemundo</title>
+    <new/>
+  </programme>
+  <programme start="20261015220000 +0000" stop="20261015230000 +0000" channel="Telemundo West">
+    <category lang="en">Anthology</category>
+    <category lang="en">Debate</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S05 E206
+Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
+    <episode-num>S05 E206</episode-num>
+    <icon src="https://iptv-epg.org/images/iJ_BhNW9baYUFotVIc28nngLH_iDnJGuXo3aPtfeyUmJNA46geUDT3R9DlJzQ3AtHlM0SvmPme5zv8jThbzIT32YL1xZMFx3VQiHk3llzN8"/>
+    <title lang="en">La mesa caliente</title>
+    <new/>
+  </programme>
+  <programme start="20261015230000 +0000" stop="20261016000000 +0000" channel="Telemundo West">
+    <category lang="en">Community</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+    <icon src="https://iptv-epg.org/images/sH1BxfbZ6vqz89OzMbebCuCL-24l7gIMoTBX2P3IdO1gvBRiuEQAIJHGitq65XETI6JunehmISBNhZiGaX4eeVhm5-E0SD-X6afW1ULD2P8"/>
+    <title lang="en">Al rojo vivo</title>
+    <new/>
+  </programme>
+  <programme start="20261016000000 +0000" stop="20261016010000 +0000" channel="Telemundo West">
+    <category lang="en">Holiday</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Irasema Torres</actor>
+    </credits>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <icon src="https://iptv-epg.org/images/cDCiazSXGCFDgjfKUqEPTqSSxlJnQZdUriWGiO9P2S0KT5Q2OAD7xZn9gfPRhXUoCiksksg4exDJFDk1HLkglrfwVbMMnOOs7GQ-Ar3zztU"/>
+    <previously-shown/>
+    <title lang="en">En casa con Telemundo</title>
+  </programme>
+  <programme start="20261015180000 +0000" stop="20261015200000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sports talk</category>
+    <category>Sports</category>
+    <credits>
+      <director>Josep Pedrerol</director>
+    </credits>
+    <date>2014</date>
+    <desc lang="en">Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/hUir-QtNwwzy6RaOnE8G-wpHtRd9FvZPQrXYJvQsyxhuY_rBuwliPUCManetSEgVNqByJEknlQ_3IHIouhv8-x1bpztF3KFwKnXSVYEX-_Y"/>
+    <title lang="en">El Chiringuito de Jugones</title>
+  </programme>
+  <programme start="20261015200000 +0000" stop="20261015203000 +0000" channel="FOX DEPORTES">
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <category>Sports</category>
+    <date>2024</date>
+    <desc lang="en">Noticias para estar al tanto de lo que está sucediendo en el mundo.</desc>
+    <icon src="https://iptv-epg.org/images/MeDVSZYFbBhhndTFs_1xYFRk3rQjebs_FztXn6w8NFB0ajdNQ5qybrBE1uoXC_HUEjaPYntQgID17vb5YKfDldBB_AoJC7UnmKoqZJvAODo"/>
+    <title lang="en">Fox noticias en Fox Deportes</title>
+    <new/>
+  </programme>
+  <programme start="20261015203000 +0000" stop="20261015210000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Soccer</category>
+    <category>Sports</category>
+    <date>1000</date>
+    <desc lang="en">Especialistas de fútbol comentan sobre lo más destacado de los partidos y las noticias de las ligas de balompié de América.</desc>
+    <icon src="https://iptv-epg.org/images/exLITTHAkyXmkGSL22wKGM64GqAzDviDaBOr_hM087exzBgudzh-LbCsJ6TBJZ6H4FCLiaR8UO5cpy8tGyvPaGnUk5k6A4MPtntF6OcmZUE"/>
+    <title lang="en">Gol x gol América Xpress</title>
+    <new/>
+  </programme>
+  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <desc lang="en">Una mezcla de entretenimiento, información y análisis relajado, en la que se buscan las tendencias en redes y temas virales con enlaces a todas las sedes.</desc>
+    <icon src="https://iptv-epg.org/images/EGWf0x64cUZdxTtaLRUTLFVdKAiRK20yPoZnchmeZPFP8MVCYpoycTq2JCwv67Uc4AfMSlUa8XfDeQ1vmybbSCCWDnxoXWFEk4--eP4d_Iw"/>
+    <title lang="en">Mother Soccer</title>
+    <live/>
+  </programme>
+  <programme start="20261015220000 +0000" stop="20261015230000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sports talk</category>
+    <category>Sports</category>
+    <credits>
+      <director>Josep Pedrerol</director>
+    </credits>
+    <date>2014</date>
+    <desc lang="en">Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.</desc>
+    <icon src="https://iptv-epg.org/images/hUir-QtNwwzy6RaOnE8G-wpHtRd9FvZPQrXYJvQsyxhuY_rBuwliPUCManetSEgVNqByJEknlQ_3IHIouhv8-x1bpztF3KFwKnXSVYEX-_Y"/>
+    <title lang="en">El Chiringuito de Jugones</title>
+    <live/>
+  </programme>
+  <programme start="20261015230000 +0000" stop="20261016000000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <desc lang="en">Análisis de las fuerzas y debilidades de cada equipo y destacados de otros partidos antes del juego.</desc>
+    <icon src="https://iptv-epg.org/images/hoaTVloszOL_rk9wWIZNdZxK02zCmtE1kxSdnXzNI8uwC4No8ZYOLrt-aG9zfUr1UsqiKMPSbOXBLvlYoPouVz1OPg0HtIOlsR3tNxG0MxE"/>
+    <title lang="en">MLB Pregame</title>
+    <live/>
+  </programme>
+  <programme start="20261016000000 +0000" stop="20261016030000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Milwaukee Brewers vs. Los Angeles Dodgers
+Acción del cuarto juego de la Serie de Campeonato de la Liga Nacional. Milwaukee Brewers visita a Los Angeles Dodgers. Desde el Dodger Stadium, en Los Ángeles, California.</desc>
+    <icon src="https://iptv-epg.org/images/uZgvq5l8-tRquGO0x9z3vEwQ7PT6lKLAoS47kLg28wPBPvqBxVQNGrrX-W5z2_08QFwn6Mv_RhA3HRaqRADuj7fh_lULKz3kU6x0DkgSvsM"/>
+    <title lang="en">Béisbol MLB</title>
+    <live/>
+  </programme>
+  <programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Sports talk</category>
+    <category lang="en">Series</category>
+    <category>Sports</category>
+    <desc lang="en">Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.</desc>
+    <icon src="https://iptv-epg.org/images/18VpqiEmYTI8iDcSNLKieUTUQIoe3ShH0sCO5-qV3a1DcW7IU7LVsAY3WVW2PakI-I_kx240eqykNtDfkJqkuocmGwbYKM8SbnF6SxWBK3w"/>
+    <title lang="en">First Things First</title>
+    <live/>
+  </programme>
+  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Sports talk</category>
+    <category lang="en">Series</category>
+    <category>Sports</category>
+    <desc lang="en">Nick Wright, Chris Broussard, Kevin Wildes, and OT anchor Danny Parkins offer their opinions on the day's biggest sports stories.</desc>
+    <icon src="https://iptv-epg.org/images/S29hAEv5Hw70KuEB1NnFLHEuFSX9mqObLcm1HeGik5Oe5qrsxU7I0RoMIBs5puQpYCmONUJtCN0WoE8OZXvFuQqS9EWGde6ydKguEw0KkSw"/>
+    <title lang="en">First Things First: OT</title>
+    <live/>
+  </programme>
+  <programme start="20261015220000 +0000" stop="20261015223000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Football</category>
+    <category>Sports</category>
+    <date>2026</date>
+    <desc lang="en">Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
+    <icon src="https://iptv-epg.org/images/Po9kKtSzZBsxOxCbx24x8r7z1_tFqXhp1nlme1151eDkY8NWlW6ruxMhfldgM0hn4PRbLMobyKlSLWhdK7mBedWX881M3XLA2LDMEd9F1ro"/>
+    <title lang="en">The Gronk &amp; Jules Show</title>
+    <new/>
+  </programme>
+  <programme start="20261015223000 +0000" stop="20261015230000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Week 7 Preview
+Joel Klatt breaks down the current topics in the world of college football.</desc>
+    <icon src="https://iptv-epg.org/images/xVTIKflFgdDPDuLJXE4x4fje-y4WkrYVXzUm4VCPC_FG2luBXgDv41NMKwaQmUOehywsyTyOe6aIVRUN53UBfpSCN1lpR7nkYBqeLtJRMFw"/>
+    <title lang="en">The Joel Klatt Show: A College Football Podcast</title>
+    <new/>
+  </programme>
+  <programme start="20261015230000 +0000" stop="20261016000000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Sports</category>
+    <desc lang="en">FS1 MLB co-hosts &amp; analysts preview today's upcoming baseball games from around the country and recap the previous day's action.</desc>
+    <icon src="https://iptv-epg.org/images/x3dbQwJeA7U5aQjT8ikHOgei-4Kcl2VfVA3QeBA29KBTwyvDFnmBg99VwKPs4LkUjDWzk2Tv_7PqrpioVQP5zwG-GK-V8AleHorekQVAEIQ"/>
+    <title lang="en">MLB on FS1 Pregame</title>
+    <live/>
+  </programme>
+  <programme start="20261016000000 +0000" stop="20261016030000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Milwaukee Brewers at Los Angeles Dodgers
+The Los Angeles Dodgers host the Milwaukee Brewers at Dodger Stadium in NLCS Game 4 play. Down 3-0, Los Angeles relies on right-handed pitcher Tyler Glasnow to avoid elimination, while Milwaukee looks to Jackson Chourio after his Game 3 leadoff HR.</desc>
+    <icon src="https://iptv-epg.org/images/uZgvq5l8-tRquGO0x9z3vEwQ7PT6lKLAoS47kLg28wPBPvqBxVQNGrrX-W5z2_08QFwn6Mv_RhA3HRaqRADuj7fh_lULKz3kU6x0DkgSvsM"/>
+    <title lang="en">MLB Baseball</title>
+    <live/>
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015213000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Horse racing</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Series</category>
+    <date>2026</date>
+    <desc lang="en">America's Day At the Races
+The best racehorses square off in the premier races from across the country.</desc>
+    <icon src="https://iptv-epg.org/images/HSinx0u3EtiDuc4qHYqTM1Dm5yrQhPnWmJECxmNAV4nUmQzmFGjsoWl33mrNFqRikcLsaxSs7ewNVQ1thGxeKfyM78QLjOfoBC945mUFQkg"/>
+    <title lang="en">Horse Racing</title>
+    <live/>
+  </programme>
+  <programme start="20261015213000 +0000" stop="20261015220000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Sports talk</category>
+    <category lang="en">Series</category>
+    <category>Sports</category>
+    <desc lang="en">A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.</desc>
+    <icon src="https://iptv-epg.org/images/yI81qbLsY6icmgNXKRUv2-no5VMEHQ8TNB1e6c-grtFTRjw8S5_ifa5LekOj717mqORACtPSEZTFGbEbLhFCFUdcYw6h_0ja2noth8dA7-I"/>
+    <previously-shown/>
+    <title lang="en">The Clay Travis Show</title>
+  </programme>
+  <programme start="20261015220000 +0000" stop="20261015230000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Poker</category>
+    <category lang="en">Series</category>
+    <category>Sports</category>
+    <desc lang="en">S02 E18
+There are hundreds of thousands of dollars in play, as tensions rise in Las Vegas. Matt Berkey and Jason Koon dominate. The Loose Cannon and UFC fighter Sean O'Malley are both put to the test. And one player taps out, leaving a seat to be filled.</desc>
+    <episode-num>S02 E18</episode-num>
+    <icon src="https://iptv-epg.org/images/SSyoBBwJ3XGl9WBxIqAIadTEtS1Kx8408Q8mgOZH349W7kSs8JhNgZdscioPFVVM84wne0DzAqDyoJCj6NkKos2sb44ll4yB4KuGUQgbSRA"/>
+    <previously-shown/>
+    <title lang="en">Pokerstars Big Game on Tour</title>
+  </programme>
+  <programme start="20261015230000 +0000" stop="20261015233000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Football</category>
+    <category lang="en">Series</category>
+    <category>Sports</category>
+    <desc lang="en">CFB Week 7 Guide
+Gamblers Chris The Bear Fallica, Geoff Schwartz and Sammy Panayotovich bet real money on each wager.</desc>
+    <icon src="https://iptv-epg.org/images/vA59g1njTinzP6EGf5bI0SsAGP4Yo8PH5SjkPUPKOal8n9OsJIsmO0mFd7yEDjxD41H6WN8P78GkTY7sNQ3uptE-lBmF80HznsuWwYH-V7U"/>
+    <previously-shown/>
+    <title lang="en">Big Noon Kickoff Presents Bear Bets</title>
+  </programme>
+  <programme start="20261015233000 +0000" stop="20261016000000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Kevin Harvick and Will Buxton celebrate the world of motorsports.</desc>
+    <icon src="https://iptv-epg.org/images/Puky4eZFIv3UtoGVqpillAJmbY7QtjoZCb0QH63xwTiCQnYiISnWBRkcqPP7IJL3v8fOE5afFnVdocYdupC6DgRz_TfuOwZ0m_86hkLTk8M"/>
+    <previously-shown/>
+    <title lang="en">SPEED With Harvick &amp; Buxton</title>
+  </programme>
+  <programme start="20261016000000 +0000" stop="20261016003000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Auto racing</category>
+    <category lang="en">Series</category>
+    <category>Sports</category>
+    <desc lang="en">Ryan Blaney &amp; Chase Briscoe Interview
+NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.</desc>
+    <icon src="https://iptv-epg.org/images/vsc0tpbMwycBDsUwVmZ1GFZM6QNELBT923_Yo7hYOuJ66aErQRCW8zF_Jv9mKs4CwyT1_3nWblB9tdLALR67d_jROu2Ri3QRzC_q_fLNi3c"/>
+    <previously-shown/>
+    <title lang="en">Kevin Harvick's Happy Hour</title>
+  </programme>
 	<programme start="20261017151300 +0200" stop="20261017154800 +0200" channel="Movistar Plus">
     <title>Ilustres ignorantes T20 · El terror</title>
     <sub-title>2026 | ⑯ | ★7.6/10</sub-title>
