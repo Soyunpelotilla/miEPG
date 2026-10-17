@@ -577,7 +577,7 @@
 50500,MULTIMEDIOS TV SD,https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
 18169,Multipremier,https://ebyl.tmsimg.com/assets/s18169_ld_h15_ac.png
 15213,MVS Noticias,https://ebyl.tmsimg.com/assets/GNLZZGG003R7F4D.png
-109982,MVS TV (Dish),https://ebyl.tmsimg.com/assets/s15213_ld_h15_ab.png
+109982,MVS Noticias (Dish),https://ebyl.tmsimg.com/assets/GNLZZGG003R7F4D.png
 101361,MX Nuestro Cine,https://ebyl.tmsimg.com/assets/s101361_ld_h15_aa.png
 16462,N+ Foro,https://ebyl.tmsimg.com/assets/s66635_ld_h15_ac.png
 105877,Nat Geo Kids,https://ebyl.tmsimg.com/assets/s104524_ld_h15_aa.png
