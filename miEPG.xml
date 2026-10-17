@@ -91163,14 +91163,6 @@
 			<value>7.8/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261017171245 +0000" stop="20261017193111 +0000" channel="Sony One Hits Comedia">
-    <title>Hitch: Especialista en ligues</title>
-    <desc>En esta sofisticada comedia romántica Alex "Hitch" Hitchens (Will Smith) es un legendario (y deliberadamente anónimo) "doctor de citas", que cobra por ayudar a muchos hombres a seducir a las mujeres de sus sueños. Mientras está aconsejando a Albert (Kevin James), un contador sumiso enamorado de la famosa y glamourosa Allegra Cole (la supermodelo Amber Valleta), Hitch encuentra a una rival de su mismo nivel: la fabulosa e ingeniosa Sara Melas (Eva Mendes), una columnista del corazón que sigue todos los movimientos de Allegra. Convertido en un gran soltero profesional, Hitch se enamora extravagantemente de Sara, una reportera cuya mayor primicia podría ser desenmascarar al doctor de citas más famoso de Manhattan.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1585625659_0_20260130T004649145Z_109_imageprocessorclient-tvplus-linear-85d7d49859-5pt4p.jpeg"/>
-    <rating>
-      <value>7</value>
-    </rating>
-  </programme>
   <programme start="20261017193111 +0000" stop="20261017213653 +0000" channel="Sony One Hits Comedia">
     <title>Dos Familias Y Una Boda</title>
     <desc>Dos familias de clases sociales muy diferentes chocan cuando se reúnen para celebrar una boda.</desc>
@@ -91192,13 +91184,10 @@
     <desc>Tres brillantes universitarios trabajan en un proyecto de laboratorio pero tienen tiempo para divertirse y convertir la residencia en una pista de patinaje sobre hielo, desmontar y montar el coche de un compañero u organizar una fiesta playera en pleno auditórium. Cuando el trío descubre que el profesor Hathaway les ha tenido trabajando en un arma secreta para el ejército, deciden tramar un plan de venganza que dejará boquiabiertos a los militares.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1293966837_6_20251031T214703429Z_97_imageprocessorclient-tvplus-linear-5db7c6bc99-cxmlx.jpeg"/>
   </programme>
-  <programme start="20261017174816 +0000" stop="20261017200405 +0000" channel="Sony One Hits Acción">
-    <title>Invasión A La Tierra</title>
-    <desc>Durante muchos años ha habido casos documentados sobre testigos que han visto OVNIS en todo el mundo.Pero lo que hasta ese momento eran simples avistamientos, en 2011 se convierte en una terrible realidad cuando la Tierra es atacada por fuerzas desconocidas.Una tras otra van cayendo las grandes ciudades del mundo, y Los Ángeles se ha convertido en el último bastión de la humanidad. Un sargento de la Marina (Aaron Eckhart) y sus hombres tendrán que enfrentarse en una inesperada batalla a un enemigo absolutamente desconocido.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1481191186_0_20251227T045933563Z_134_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.png"/>
-    <rating>
-      <value>12</value>
-    </rating>
+  <programme start="20261018014059 +0000" stop="20261018035321 +0000" channel="Sony One Hits Comedia">
+    <title>Supersalidos</title>
+    <desc>Dos amigos codependientes del instituto y su divertido dilema entre las chicas y la ansiedad de la separación.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2202682113_1_20260917T212203163Z_71_imageprocessorclient-tvplus-linear-b5879c6c6-zdvq4.png"/>
   </programme>
   <programme start="20261017200405 +0000" stop="20261017222129 +0000" channel="Sony One Hits Acción">
     <title>Total Recall (Desafío Total)</title>
@@ -91220,6 +91209,14 @@
     <title>La Venganza De Wyatt Earp</title>
     <desc>La película está basada en la historia real del legendario sheriff, y en ella Earp cuenta cómo reunió a los mejores hombres del Oeste para vengar el cruel asesinato de su querida Dora. Acompañado por los famosos Bat Masterson, Charlie Bassett, Bill Tilgham y Doc Holliday, Earp persigue a los hermanos Kenedy, que han iniciado una matanza que se extiende desde Dodge City a México. Los despiadados hermanos saben que la ley no puede tocarlos, porque les protege su poderoso padre, pero subestiman a Earp y a sus compañeros. Con Shawn Roberts, Matt Dallas, el cantante country nominado a los Grammy® Trace Adkins y Val Kilmer.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1294012867_4_20251031T214703303Z_99_imageprocessorclient-tvplus-linear-5db7c6bc99-xrkqv.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261018015309 +0000" stop="20261018040436 +0000" channel="Sony One Hits Acción">
+    <title>La Habitación Del Pánico</title>
+    <desc>Una madre y su hija van a vivir a su piso recién comprado, en la primera noche descubren que unos asaltantes han entrado en su casa, su única salvación será la habitación del pánico construida para estos casos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1655256401_0_20260225T202236909Z_43_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.jpeg"/>
     <rating>
       <value>12</value>
     </rating>
@@ -143742,6 +143739,22 @@ The NASCAR Craftsman Truck Series holds its playoff Chase race at Phoenix Racewa
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FO81U2IZPCZ9UY3440IG.jpg/a:h/im/SI202607180325.jpg?ht=exp=1789901441+hmac=4ca8182640956ebd8b34f475f0d78a30" />
 	</programme>
+  <programme start="20261017171245 +0000" stop="20261017193111 +0000" channel="Sony One Hits Comedia">
+    <title>Hitch: Especialista en ligues</title>
+    <desc>En esta sofisticada comedia romántica Alex "Hitch" Hitchens (Will Smith) es un legendario (y deliberadamente anónimo) "doctor de citas", que cobra por ayudar a muchos hombres a seducir a las mujeres de sus sueños. Mientras está aconsejando a Albert (Kevin James), un contador sumiso enamorado de la famosa y glamourosa Allegra Cole (la supermodelo Amber Valleta), Hitch encuentra a una rival de su mismo nivel: la fabulosa e ingeniosa Sara Melas (Eva Mendes), una columnista del corazón que sigue todos los movimientos de Allegra. Convertido en un gran soltero profesional, Hitch se enamora extravagantemente de Sara, una reportera cuya mayor primicia podría ser desenmascarar al doctor de citas más famoso de Manhattan.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1585625659_0_20260130T004649145Z_109_imageprocessorclient-tvplus-linear-85d7d49859-5pt4p.jpeg"/>
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20261017174816 +0000" stop="20261017200405 +0000" channel="Sony One Hits Acción">
+    <title>Invasión A La Tierra</title>
+    <desc>Durante muchos años ha habido casos documentados sobre testigos que han visto OVNIS en todo el mundo.Pero lo que hasta ese momento eran simples avistamientos, en 2011 se convierte en una terrible realidad cuando la Tierra es atacada por fuerzas desconocidas.Una tras otra van cayendo las grandes ciudades del mundo, y Los Ángeles se ha convertido en el último bastión de la humanidad. Un sargento de la Marina (Aaron Eckhart) y sus hombres tendrán que enfrentarse en una inesperada batalla a un enemigo absolutamente desconocido.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1481191186_0_20251227T045933563Z_134_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.png"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
 	<programme start="20261017180000 +0200" stop="20261017201000 +0200" channel="M+ Vamos">
     <title>Torneo de Shanghai T2026 · Semifinales: Zverev - Davidovich</title>
     <sub-title>2026 | TP | ★6.8/10</sub-title>
