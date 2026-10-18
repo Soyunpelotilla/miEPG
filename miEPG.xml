@@ -90112,14 +90112,6 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261018182352 +0000" stop="20261018202717 +0000" channel="Sony One Hits Comedia">
-    <title>Pesadillas</title>
-    <desc>Zach Cooper descubre el lado positivo de mudarse a un pueblo pequeño cuando conoce a su vecina Hannah, la hija de R. L. Stine, el célebre escritor de la serie Pesadillas. Stine es un hombre misterioso que vive prisionero de su propia imaginación, ya que los monstruos que sus libros hicieron famosos resultan ser reales y debe mantenerlos encerrados en sus manuscritos para proteger a sus lectores. Cuando los monstruos se liberan accidentalmente y comienzan a sembrar el terror en el pueblo, dependerá de Stine, Zach y Hannah hacer que regresen a los libros a los que pertenecen.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_917364195_0_20250525T121914592Z_94_imageprocessorclient-tvplus-linear-6fb5b47f79-bq75x.jpeg"/>
-    <rating>
-      <value>7</value>
-    </rating>
-  </programme>
   <programme start="20261018202717 +0000" stop="20261018221719 +0000" channel="Sony One Hits Comedia">
     <title>Pesadillas 2: Noche De Halloween</title>
     <desc>¡Ten mucho cuidado con lo que deseas! Sonny y Sam deciden trabajar después del colegio limpiando las casas de sus vecinos, esperando encontrar un tesoro entre los trastos de sus clientes. Sin embargo, ¡¡¡nunca pensaron que podrían encontrar algo así!!! Mientras limpian la antigua casa de Stine descubren un antiguo libro y liberan a la gran pesadilla ¡Slappy!. En una carrera contrarreloj y con la ayuda de Sarah, la hermana de Sonny, tendrán que encerrar de nuevo en el libro a todas las monstruosas criaturas que han vuelto a traer a la vida antes de que se desate el caos.</desc>
@@ -90144,10 +90136,10 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261018172328 +0000" stop="20261018194432 +0000" channel="Sony One Hits Acción">
-    <title>Hellboy</title>
-    <desc>Esta aventura de acción sobrenatural está basada en la aplaudida saga de Mike Mignola para Dark Horse Comics. Llevado a la Tierra por el malvado genio Rasputín (Karel Roden) para ayudar a los nazis en su causa moribunda, Hellboy (Ron Perlman) fue rescatado por el profesor Broom (John Hurt), fundador de la organización clandestina O.D.I.P. (Oficina de Defensa e Investigación Paranormal), que lo crió y desarrolló sus extraordinarias dotes paranormales. A pesar de sus oscuros orígenes, Hellboy se convierte en un inesperado paladín del bien, luchando contra las fuerzas malignas que amenazan nuestro mundo junto a un "hombre pez" telépata (Doug Jones) y una "piroquinética" (Selma Blair). Ocultos ante la sociedad a la que deben proteger, son la clave de la defensa contra Rasputín, que pretende recuperar a Hellboy para el lado oscuro y usar sus poderes para propiciar el Armagedón.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2163065587_0_20260903T213245455Z_101_imageprocessorclient-tvplus-linear-b5879c6c6-5w9tj.jpeg"/>
+  <programme start="20261019022252 +0000" stop="20261019042000 +0000" channel="Sony One Hits Comedia">
+    <title>Step Brothers</title>
+    <desc>Dos hombres mimados viven con sus respectivos padres sin pareja. Cuando ellos se enamoran y se casan, se convierten en hermanastros.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1293997432_5_20251031T214703367Z_19_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg"/>
     <rating>
       <value>12</value>
     </rating>
@@ -90174,6 +90166,14 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1225219907_4_20250929T192335529Z_138_imageprocessorclient-tvplus-linear-5db7c6bc99-7g8nq.png"/>
     <rating>
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261019020605 +0000" stop="20261019035103 +0000" channel="Sony One Hits Acción">
+    <title>Resident Evil</title>
+    <desc>Una unidad militar especial lucha contra un poderoso superordenador fuera de control y contra cientos de científicos que han mutado en criaturas carnívoras después de un accidente de laboratorio.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1534385878_3_20260108T182637528Z_132_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.jpeg"/>
+    <rating>
+      <value>14</value>
     </rating>
   </programme>
 	<programme start="20261018064500 +0200" stop="20261018072500 +0200" channel="National Geographic">
@@ -137862,16 +137862,6 @@ Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas so
     <title lang="en">Juego de villanos</title>
     <new/>
   </programme>
-  <programme start="20261017160000 +0000" stop="20261017193000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Ohio State vs. Indiana
-Indiana Hoosiers, número 5, recibe a Ohio State Buckeyes, número 4, en un enfrentamiento entre dos de los cinco mejores equipos de la conferencia Big Ten. Tanto los Hoosiers como los Buckeyes presentan un récord de 3-0 en la competición de la liga.</desc>
-    <icon src="https://iptv-epg.org/images/aDU6WjYJt0sqxZPXyvY4JVF0rLxOqW8gb3GY9MN6Pf0N30fvaq787NOm21JYRCaJyCj8jWg60iQXuX4OnzzuqiBrjRIoUhLVMupuiVUZ7K0"/>
-    <title lang="en">Fútbol Americano Universitario</title>
-    <live/>
-  </programme>
   <programme start="20261017193000 +0000" stop="20261017200000 +0000" channel="FOX DEPORTES">
     <category lang="en">Boxing</category>
     <category lang="en">Series</category>
@@ -138615,16 +138605,6 @@ Desde el estadio Olímpico Benito Juárez en Ciudad Juárez, México.</desc>
     <title lang="en">Fútbol Mexicano Primera División</title>
     <live/>
   </programme>
-  <programme start="20261017160000 +0000" stop="20261017193000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Kansas at Kansas State
-The Kansas State Wildcats host the Kansas Jayhawks at Bill Snyder Family Stadium. Kansas State lost 35-16 to No. 22 Houston with Avery Johnson throwing for 182 yards. Kansas lost 41-24 to No. 12 Utah, where Isaiah Marshall threw for 333 yards.</desc>
-    <icon src="https://iptv-epg.org/images/MHMDy_FlWykzQoBvoPzztg-cW3gvrU4a6iqg8HdWrhpLDLThQo7jKT4xk6vrXJi9qV24o1ZKlT5c4ncb4C83X5zmgsc4-uMPUauzvSg36lg"/>
-    <title lang="en">College Football</title>
-    <live/>
-  </programme>
   <programme start="20261017193000 +0000" stop="20261017220000 +0000" channel="FOX SPORTS 1 US">
     <category lang="en">Horse racing</category>
     <category lang="en">Sports</category>
@@ -139092,17 +139072,6 @@ NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and intervi
     <icon src="https://iptv-epg.org/images/vsc0tpbMwycBDsUwVmZ1GFZM6QNELBT923_Yo7hYOuJ66aErQRCW8zF_Jv9mKs4CwyT1_3nWblB9tdLALR67d_jROu2Ri3QRzC_q_fLNi3c"/>
     <previously-shown/>
     <title lang="en">Kevin Harvick's Happy Hour</title>
-  </programme>
-  <programme start="20261017160000 +0000" stop="20261017193000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Horse racing</category>
-    <category lang="en">Sports</category>
-    <category lang="en">Series</category>
-    <date>2026</date>
-    <desc lang="en">America's Day At the Races
-The best racehorses square off in the premier races from across the country.</desc>
-    <icon src="https://iptv-epg.org/images/EUwORyPbsKnlJvlnnNmKtTJ4TlAJbZi3HyeGQnaQAIGzBXKcEVrH6h49QvNhNtiN914-TU59zFUcBJNeADJjx1OygNZRCn1zXz9M8p1WlPI"/>
-    <title lang="en">Horse Racing</title>
-    <live/>
   </programme>
   <programme start="20261017193000 +0000" stop="20261017200000 +0000" channel="FOX SPORTS 2 US">
     <category lang="en">Soccer</category>
@@ -143018,6 +142987,53 @@ The Baylor Bears clash with the TCU Horned Frogs in a Week 7 Big 12 rivalry show
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FO07H7KBVEKUAP6I1J4L.jpg/a:p/im:i:c_limit,w_1920/FO07H7KBVEKUAP6I1J4L_reference_keyframe.jpg" />
 	</programme>
+  <programme start="20261018182352 +0000" stop="20261018202717 +0000" channel="Sony One Hits Comedia">
+    <title>Pesadillas</title>
+    <desc>Zach Cooper descubre el lado positivo de mudarse a un pueblo pequeño cuando conoce a su vecina Hannah, la hija de R. L. Stine, el célebre escritor de la serie Pesadillas. Stine es un hombre misterioso que vive prisionero de su propia imaginación, ya que los monstruos que sus libros hicieron famosos resultan ser reales y debe mantenerlos encerrados en sus manuscritos para proteger a sus lectores. Cuando los monstruos se liberan accidentalmente y comienzan a sembrar el terror en el pueblo, dependerá de Stine, Zach y Hannah hacer que regresen a los libros a los que pertenecen.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_917364195_0_20250525T121914592Z_94_imageprocessorclient-tvplus-linear-6fb5b47f79-bq75x.jpeg"/>
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20261018172328 +0000" stop="20261018194432 +0000" channel="Sony One Hits Acción">
+    <title>Hellboy</title>
+    <desc>Esta aventura de acción sobrenatural está basada en la aplaudida saga de Mike Mignola para Dark Horse Comics. Llevado a la Tierra por el malvado genio Rasputín (Karel Roden) para ayudar a los nazis en su causa moribunda, Hellboy (Ron Perlman) fue rescatado por el profesor Broom (John Hurt), fundador de la organización clandestina O.D.I.P. (Oficina de Defensa e Investigación Paranormal), que lo crió y desarrolló sus extraordinarias dotes paranormales. A pesar de sus oscuros orígenes, Hellboy se convierte en un inesperado paladín del bien, luchando contra las fuerzas malignas que amenazan nuestro mundo junto a un "hombre pez" telépata (Doug Jones) y una "piroquinética" (Selma Blair). Ocultos ante la sociedad a la que deben proteger, son la clave de la defensa contra Rasputín, que pretende recuperar a Hellboy para el lado oscuro y usar sus poderes para propiciar el Armagedón.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2163065587_0_20260903T213245455Z_101_imageprocessorclient-tvplus-linear-b5879c6c6-5w9tj.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261017160000 +0000" stop="20261017193000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Ohio State vs. Indiana
+Indiana Hoosiers, número 5, recibe a Ohio State Buckeyes, número 4, en un enfrentamiento entre dos de los cinco mejores equipos de la conferencia Big Ten. Tanto los Hoosiers como los Buckeyes presentan un récord de 3-0 en la competición de la liga.</desc>
+    <icon src="https://iptv-epg.org/images/aDU6WjYJt0sqxZPXyvY4JVF0rLxOqW8gb3GY9MN6Pf0N30fvaq787NOm21JYRCaJyCj8jWg60iQXuX4OnzzuqiBrjRIoUhLVMupuiVUZ7K0"/>
+    <title lang="en">Fútbol Americano Universitario</title>
+    <live/>
+  </programme>
+  <programme start="20261017160000 +0000" stop="20261017193000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Kansas at Kansas State
+The Kansas State Wildcats host the Kansas Jayhawks at Bill Snyder Family Stadium. Kansas State lost 35-16 to No. 22 Houston with Avery Johnson throwing for 182 yards. Kansas lost 41-24 to No. 12 Utah, where Isaiah Marshall threw for 333 yards.</desc>
+    <icon src="https://iptv-epg.org/images/MHMDy_FlWykzQoBvoPzztg-cW3gvrU4a6iqg8HdWrhpLDLThQo7jKT4xk6vrXJi9qV24o1ZKlT5c4ncb4C83X5zmgsc4-uMPUauzvSg36lg"/>
+    <title lang="en">College Football</title>
+    <live/>
+  </programme>
+  <programme start="20261017160000 +0000" stop="20261017193000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Horse racing</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Series</category>
+    <date>2026</date>
+    <desc lang="en">America's Day At the Races
+The best racehorses square off in the premier races from across the country.</desc>
+    <icon src="https://iptv-epg.org/images/EUwORyPbsKnlJvlnnNmKtTJ4TlAJbZi3HyeGQnaQAIGzBXKcEVrH6h49QvNhNtiN914-TU59zFUcBJNeADJjx1OygNZRCn1zXz9M8p1WlPI"/>
+    <title lang="en">Horse Racing</title>
+    <live/>
+  </programme>
 	<programme start="20261018170300 +0200" stop="20261018172000 +0200" channel="Movistar Plus">
     <title>Lo mejor de Bakalá T26/27 E6</title>
     <sub-title>2026 | TP | ★6.8/10</sub-title>
