@@ -36,7 +36,7 @@
 0132,Iquique TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0132.jpg
 0133,Canal 2 San Antonio,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0133.jpg
 0134,SextaVisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0134.jpg
-0135,UCV2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
+0135,UCV2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0135.jpg
 0137,Hobikka TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0137.jpg
 0138,Tevex,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0138.jpg
 0139,ContiVisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0139.jpg
@@ -90,9 +90,9 @@
 0186,La Nuestra Radio Streaming,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0186.jpg
 0187,Radio Hoy,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0187.jpg
 0188,Radio Infinita,https://i.ibb.co/35sNhXQS/0188.jpg
-0189,La Metro,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
-0190,Polar TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
-0191,Soberanía TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
+0189,La Metro,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0189.jpg
+0190,Polar TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0190.jpg
+0191,Soberanía TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0191.jpg
 0201,Canal 24 Horas,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0201.jpg
 0202,CNN Chile,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0202.jpg
 0203,BíoBío TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0203.jpg
@@ -543,9 +543,9 @@
 0963,Alpha Media TV • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0963.jpg
 0964,+Perfil • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0964.jpg
 0965,TEST TRACE LATINA FEED CL7302,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0965.jpg
-0966,TEST DITU REDBULL,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
-0967,TEST DITU CARACOL KIDS,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
-0968,TEST DITU CARACOL SPORTS,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
+0966,TEST DITU REDBULL,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0966.jpg
+0967,TEST DITU CARACOL KIDS,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0967.jpg
+0968,TEST DITU CARACOL SPORTS,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0968.jpg
 0969,TEST DITU CARACOL MIX,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0969.jpg
 0970,América TV • Paraguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0970.jpg
 0971,Estación 40 • Paraguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0971.jpg
@@ -555,12 +555,12 @@
 0976,AVI,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0976.jpg
 0977,AVI Rewind,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0977.jpg
 0978,AVI Kids,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0978.jpg
-0979,AVI Toons,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
-0980,AVI Action,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
-0981,AVI Horizon,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
-0982,AVI Garage,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
-0983,AVI Music,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
-0984,AVI Concert,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
+0979,AVI Toons,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0979.jpg
+0980,AVI Action,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0980.jpg
+0981,AVI Horizon,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0981.jpg
+0982,AVI Garage,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0982.jpg
+0983,AVI Music,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0983.jpg
+0984,AVI Concert,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0984.jpg
 XXX0,Canal para adultos • Portal adultos,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX0.jpg
 XXX1,Playboy TV • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX1.jpg
 XXX2,Venus • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX2.jpg
@@ -570,4 +570,4 @@ XXX5,Brazzer TV • Adultos Desbloqueado,https://raw.githubusercontent.com/Putic
 XXX6,Juicy • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX6.jpg
 XXX7,Penthouse • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX7.jpg
 XXX8,XTSY • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX8.jpg
-XXX9,Sexy Hot • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
+XXX9,Sexy Hot • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX9.jpg
