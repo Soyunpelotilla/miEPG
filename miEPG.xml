@@ -88996,19 +88996,6 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261022175156 +0000" stop="20261022194149 +0000" channel="Sony One Hits Comedia">
-    <title>Dick y Jane Ladrones de Risa</title>
-    <desc>Nada más ascender, el ambicioso Dick se ve obligado a comparecer ante las cámaras de televisión para explicar por qué el presidente de su empresa Globodyne se ha desecho repentinamente de sus acciones. Dick se ve envuelto en una especie de escándalo corporativo: en un instante pierde todo lo que pensaba que tenía.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1293966839_5_20251031T214703367Z_91_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg"/>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261022194149 +0000" stop="20261022212414 +0000" channel="Sony One Hits Comedia">
-    <title>The Animal (2001)</title>
-    <desc>Puede que no parezca mucho, pero lo que cuenta está dentro. El genio de la comedia Rob Schneider (Deuce Bigalow: Male Gigolo, Big Daddy), Colleen Haskell del concurso de televisión Survivor, John C. McGinley (Any Given Sunday, The Rock) y Edward Asner (The Bachelor, JFK) aparecen en la comedia más escandalosa e histérica del año. Cuando el guardia de seguridad Marvin Mange (Schneider) responde a una llamada de emergencia sobre un robo en progreso, su sueño de convertirse en policía podría convertirse en realidad. Pero un extraño accidente de tráfico en su camino al lugar del crimen deja a Martin y a su sueño destrozados. Cuando Marvin se despierta una semana después, descubre que un científico desquiciado secretamente ha usado órganos de animales para reconstruir su cuerpo. Con nuevas energías gracias a sus nuevas y mejoradas partes, Marvin consigue fama al instante como superpolicía hasta que su instinto animal empieza a apoderarse de su cuerpo en los peores momentos. Y cuando se enamora de la encantadora y sexy Rianna (Haskell), ¡es magnetismo animal en su máxima expresión en la comedia más divertida y salvaje del año! No te pierdas a Rob Schneider en Big Daddy.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_869315579_0_20250508T202412813Z_102_imageprocessorclient-tvplus-linear-6fb5b47f79-btpzm.png"/>
-  </programme>
   <programme start="20261022212414 +0000" stop="20261022232637 +0000" channel="Sony One Hits Comedia">
     <title>La Pareja Del Año</title>
     <desc>Gwen (Catherine Zeta-Jones) y Eddie (John Cusack) son AMERICA'S SWEETHEARTS: la pareja favorita del país, dentro y fuera de la pantalla. Pero cuando su romance se convierte en una ruptura, solo el veterano agente de prensa Lee (Billy Crystal) y la ayudante de Gwen, Kiki (Julia Roberts), pueden ayudar a Gwen y Eddie a demostrar algo de amor mientras promocionan su última película juntos.</desc>
@@ -89022,20 +89009,20 @@
     <desc>Jack Sadelstein (Adam Sandler) es un exitoso publicista de Los Angeles casado con una hermosa mujer (Katie Holmes) y con hijos, que odia un determinado acontecimiento anual: la visita de su hermana gemela, Jill (también Adam Sandler). A Jack le vuelve loco lo absorbente que es Jill y su personalidad pasiva-agresiva, que ponen patas arriba su vida. Las cosas se escapan todavía más de su control cuando Jill decide alargar su visita. ¡Parece que no se marchará nunca!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1729117249_4_20260327T025243232Z_73_imageprocessorclient-tvplus-linear-74d4c47476-szmf6.jpeg"/>
   </programme>
-  <programme start="20261022173917 +0000" stop="20261022194814 +0000" channel="Sony One Hits Acción">
-    <title>El Exorcista III</title>
-    <desc>Una mujer que se arrastra por el techo. Un criminal muerto hace tiempo que asesina víctima tras víctima. Las llamas estallan, las serpientes se deslizan, la tierra se abre revelando el tormentoso infierno. El demonio ha vuelto... pero el sacerdote Damien Karras vuelve a notar la presencia del maligno, y pedirá la ayuda del escéptico detective Kinderman para derrotarle.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2219721712_0_20260922T215503530Z_99_imageprocessorclient-tvplus-linear-b5879c6c6-g2vqg.jpeg"/>
+  <programme start="20261023011640 +0000" stop="20261023031400 +0000" channel="Sony One Hits Comedia">
+    <title>The House Bunny</title>
+    <desc>Shelley lleva una vida alegre hasta que una rival hace que la echen de la Mansión Playboy. Sin ningún sitio adonde ir, el destino la lleva a la hermandad femenina de Zeta Alpha Zeta. A menos que chicas nuevas quieran inscribirse, las siete jóvenes socialmente inadaptadas perderán su casa a manos de las confabuladoras chicas de Phi Iota Mu. Para conseguir su objetivo, necesitan que Shelley les enseñe el modo de maquillarse y de seducir a los hombres. Al mismo tiempo, Shelley necesita algo que tienen las Zetas, sentido de la individualidad. La combinación lleva a todas las chicas a aprender cómo dejar de fingir y empezar a ser ellas mismas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1294061366_4_20251031T214703303Z_26_imageprocessorclient-tvplus-linear-5db7c6bc99-xrkqv.jpeg"/>
     <rating>
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261022194814 +0000" stop="20261022220033 +0000" channel="Sony One Hits Acción">
-    <title>Exorcista: El Comienzo</title>
-    <desc>Años antes de que el padre Lancaster Merrin ayudara a salvar el alma de Regan MacNeil, se encuentra por primera vez con el demonio Pazuzu en África oriental. La batalla inicial de Merrin con Pazuzu conduce al redescubrimiento de su fe. En esta precuela del clásico original de 1970, John Frankenheimer fue contratado originalmente como director, pero se retiró antes de comenzar a filmar debido a problemas de salud. Fue sustituido por Paul Schrader. Un tercer director, Renny Harlin, completó esta versión de la historia.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2219771001_0_20260922T215503530Z_125_imageprocessorclient-tvplus-linear-b5879c6c6-g2vqg.jpeg"/>
+  <programme start="20261023031400 +0000" stop="20261023045927 +0000" channel="Sony One Hits Comedia">
+    <title>Un Diploma Muy Caro</title>
+    <desc>John Plummer (Jason Lee) es un hombre trabajador como cualquier otro que está a punto de casarse con su novia desde hace muchos años, Elaine (Leslie Mann), ahora que han ahorrado 30 000 dólares para el pago inicial de la casa de sus sueños. Pero, años antes, John hizo la olvidada promesa de pagar la matrícula de su sobrina Noreen (Tammy Blanchard) si entraba a una buena universidad. Milagrosamente, Noreen fue aceptada nada más y nada menos que en la Universidad de Harvard, y ahora lo único que necesita de su tío John son otros 29 879 dólares para su matrícula. Como no puede decirle a Elaine que necesita ganar 30 000 dólares adicionales en dos semanas, John recurre a su amigo Duff (Tom Green), quien lo convence de involucrarse por un corto tiempo en delitos menores. La vida de John rápidamente se derrumba cuando cada uno de los alocados timos de Duff se sale de control.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2016700837_0_20260715T003512766Z_129_imageprocessorclient-tvplus-linear-66fc4d58c8-gbvhf.png"/>
     <rating>
-      <value>18</value>
+      <value>7</value>
     </rating>
   </programme>
   <programme start="20261022220033 +0000" stop="20261022235107 +0000" channel="Sony One Hits Acción">
@@ -89052,6 +89039,22 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1655181666_0_20260225T202236910Z_77_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.jpeg"/>
     <rating>
       <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20261023015805 +0000" stop="20261023034949 +0000" channel="Sony One Hits Acción">
+    <title>La Venganza De Wyatt Earp</title>
+    <desc>La película está basada en la historia real del legendario sheriff, y en ella Earp cuenta cómo reunió a los mejores hombres del Oeste para vengar el cruel asesinato de su querida Dora. Acompañado por los famosos Bat Masterson, Charlie Bassett, Bill Tilgham y Doc Holliday, Earp persigue a los hermanos Kenedy, que han iniciado una matanza que se extiende desde Dodge City a México. Los despiadados hermanos saben que la ley no puede tocarlos, porque les protege su poderoso padre, pero subestiman a Earp y a sus compañeros. Con Shawn Roberts, Matt Dallas, el cantante country nominado a los Grammy® Trace Adkins y Val Kilmer.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1294012867_4_20251031T214703303Z_99_imageprocessorclient-tvplus-linear-5db7c6bc99-xrkqv.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261023034949 +0000" stop="20261023055558 +0000" channel="Sony One Hits Acción">
+    <title>The Adventures Of Tintin</title>
+    <desc>Un joven reportero llamado Tintín y su perro, un terrier llamado Milú, viajan por todo el mundo viviendo numerosas aventuras.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1534440797_1_20260108T182649434Z_111_imageprocessorclient-tvplus-linear-85d7d49859-z5txn.jpeg"/>
+    <rating>
+      <value>7</value>
     </rating>
   </programme>
 	<programme start="20261022062000 +0200" stop="20261022070500 +0200" channel="National Geographic">
@@ -113506,27 +113509,6 @@
 			<value>5.5/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261022154832 +0000" stop="20261022173104 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title>Brotherhood</title>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>El hermano de un hombre que ha fingido su muerte y robado un monton de dinero de una banda, trata de descubrir la verdad y encontrar a su asesino.</desc>
-    <icon src="https://images.pluto.tv/episodes/66a7503a9322c00013eb2455/poster_1769189402410.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20220101</date>
-    <series-id system="pluto">66a750389322c00013eb2436</series-id>
-    <category>Foreign Action &amp; Adventure</category>
-    <category>Action</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261022173104 +0000" stop="20261022203336 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title>Las crónicas de la Grulla Blanca</title>
-    <episode-num system="original-air-date">20080229000000 +0000</episode-num>
-    <desc>Para vengar un asesinato, un monje debe cruzar la línea entre la verdadera justicia y la venganza a sangre fría.</desc>
-    <icon src="https://images.pluto.tv/episodes/654a299225fde2001af578d5/poster_1782271817783.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20080229</date>
-    <series-id system="pluto">654a299025fde2001af578b6</series-id>
-    <category>Action</category>
-    <category>Movie</category>
-  </programme>
   <programme start="20261022203336 +0000" stop="20261022221301 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>Puertas al Infierno</title>
     <episode-num system="original-air-date">20180105000000 +0000</episode-num>
@@ -113535,8 +113517,8 @@
     <date>20180105</date>
     <series-id system="pluto">6a0af6d05992de5f7261f7a4</series-id>
     <category>Movie</category>
-    <category>B-Movie Horror</category>
     <category>Horror</category>
+    <category>B-Movie Horror</category>
   </programme>
   <programme start="20261022221301 +0000" stop="20261023003745 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>La Última Prueba</title>
@@ -113545,9 +113527,9 @@
     <icon src="https://images.pluto.tv/episodes/6abebe919abe27364c236c91/poster_1790885523061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20180101</date>
     <series-id system="pluto">6abebe919abe27364c236c72</series-id>
-    <category>Independent Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
+    <category>Independent Drama</category>
   </programme>
   <programme start="20261023003745 +0000" stop="20261023022507 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>Un millón de golpes</title>
@@ -113556,9 +113538,9 @@
     <icon src="https://images.pluto.tv/episodes/6ac6641373415cc4ae06e3d7/poster_1791386644571.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20140913</date>
     <series-id system="pluto">6ac6641373415cc4ae06e3b8</series-id>
-    <category>Action</category>
-    <category>Movie</category>
     <category>Adventure</category>
+    <category>Movie</category>
+    <category>Action</category>
   </programme>
   <programme start="20261023022507 +0000" stop="20261023035424 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>12 Hours</title>
@@ -113567,70 +113549,70 @@
     <icon src="https://images.pluto.tv/episodes/66a75b8a17101c00138d8937/poster_1769189402117.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20220101</date>
     <series-id system="pluto">66a75b8917101c00138d8918</series-id>
+    <category>Movie</category>
     <category>Foreign Action &amp; Adventure</category>
     <category>Action</category>
-    <category>Movie</category>
   </programme>
-  <programme start="20261023035424 +0000" stop="20261023050807 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title>Ace Bodyguard</title>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>Un guardaespaldas de élite "retirado", Zhang Han, une fuerzas con su ex compañero para salvar a su esposa secuestrada.</desc>
-    <icon src="https://images.pluto.tv/episodes/66a74ed46134930013b921d4/poster_1769189402324.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20210101</date>
-    <series-id system="pluto">66a74ed36134930013b921b5</series-id>
-    <category>Foreign Action &amp; Adventure</category>
-    <category>Action</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261023050807 +0000" stop="20261023063537 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title>Traición</title>
-    <episode-num system="original-air-date">20171128000000 +0000</episode-num>
-    <desc>Julio reúne a todos los miembros de su familia y les anuncia que padece una enfermedad mortal y que planea hacer algunos cambios en su empresa.</desc>
-    <icon src="https://images.pluto.tv/episodes/68ff943d71d0752d874680ff/poster_1761586762326.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20171128</date>
-    <series-id system="pluto">68ff943c71d0752d874680e1</series-id>
+  <programme start="20261023035424 +0000" stop="20261023052548 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>Vuelo 192</title>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>Sarah Plummer, agente del FBI, ve cómo su familia es secuestrada durante un vuelo a Washington. Cuando una misteriosa pasajera se sienta a su lado, deberá tomar una decisión que puede costarle la vida de su marido y su hijo.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a4cc2e13aa4669fc73ad234/poster_1783415522432.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20160101</date>
+    <series-id system="pluto">6a4cc2e03aa4669fc73ad214</series-id>
     <category>Movie</category>
     <category>Thriller</category>
   </programme>
-  <programme start="20261023063537 +0000" stop="20261023084157 +0000" channel="5f1ac2591dd8880007bb7d6d">
+  <programme start="20261023052548 +0000" stop="20261023070848 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>Rescate en Damasco</title>
+    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
+    <desc>Adib Abdel Kareem escapó de Siria hace más de 30 años, dejando atrás al amor de su vida, Fátima, para establecerse en Toronto y empezar una nueva vida. Pero ahora debe regresar a su país cuando su hija Muna, que es periodista, desaparece en Damasco.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cc2fa72a5001a5fd6fb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20120101</date>
+    <series-id system="pluto">5f4f5cc2fa72a5001a5fd6f3</series-id>
+    <category>Movie</category>
+    <category>Action</category>
+  </programme>
+  <programme start="20261023070848 +0000" stop="20261023091508 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>Rush</title>
     <episode-num system="original-air-date">20130927000000 +0000</episode-num>
     <desc>James Hunt y Niki Lauda, dos pilotos de Fórmula 1 extremadamente hábiles, mantienen entre sí una intensa rivalidad. Sin embargo, es su enemistad lo que les lleva al límite.</desc>
     <icon src="https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster_1776168361199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130927</date>
     <series-id system="pluto">67371a40321c190013a008a0</series-id>
-    <category>Action</category>
-    <category>Movie</category>
     <category>Blockbusters</category>
-  </programme>
-  <programme start="20261022155227 +0000" stop="20261022171927 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title>Una Familia Genial</title>
-    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
-    <desc>Max Smart es el más joven de una familia de inventores. Max siente se siente menos que su hermana mayor y sus padres. Los tres son inteligentes inventores que ganan premios mientras que él nunca ha conseguido ninguno ya que todos sus inventos salen mal.</desc>
-    <icon src="https://images.pluto.tv/episodes/5fe9b7304aa70a001a4fce36/poster_1769027824068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20170101</date>
-    <series-id system="pluto">5fe9b72f4aa70a001a4fce30</series-id>
     <category>Movie</category>
-    <category>Science fiction</category>
+    <category>Action</category>
+  </programme>
+  <programme start="20261023091508 +0000" stop="20261023114353 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>Alienoid 1</title>
+    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
+    <desc>Los guardianes extraterrestres usan huéspedes humanos como prisiones mientras un guardián rastrea a los fugitivos a través de los siglos, mezclando hechiceros taoístas de la dinastía Goryeo y tecnología futurista.</desc>
+    <icon src="https://images.pluto.tv/episodes/6abfae22e92f4736330608a1/poster_1790946918115.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20220101</date>
+    <series-id system="pluto">6abfae22e92f473633060882</series-id>
     <category>Adventure</category>
-  </programme>
-  <programme start="20261022171927 +0000" stop="20261022191311 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title>Amor de ida y vuelta</title>
-    <episode-num system="original-air-date">20181107000000 +0000</episode-num>
-    <desc>Dos actores de fenómenos televisivos (Juego de Tronos y Sex Education) protagonizan este fantástico romance. Un joven (Asa Butterfield) inventa una máquina del tiempo para recuperar a su exnovia (Sophie Turner).</desc>
-    <icon src="https://images.pluto.tv/episodes/69fb6f5f4c1064447fbcb0ae/poster_1778085728331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20181107</date>
-    <series-id system="pluto">69fb6f5e4c1064447fbcb08f</series-id>
     <category>Movie</category>
-    <category>Science fiction</category>
+    <category>Action</category>
   </programme>
-  <programme start="20261022191311 +0000" stop="20261022211422 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title>Fahrenheit 451</title>
-    <episode-num system="original-air-date">19660101000000 +0000</episode-num>
-    <desc>En un futuro opresivo Guy Montag, un disciplinado bombero encargado de quemar los libros prohibidos por el gobierno, conoce a una revolucionaria maestra que se atreve a leer.</desc>
-    <icon src="https://images.pluto.tv/episodes/673b0a812678a50014db53ef/poster_1769190843637.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19660101</date>
-    <series-id system="pluto">673b0a802678a50014db53cf</series-id>
+  <programme start="20261023114353 +0000" stop="20261023133459 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>Redada Mortal</title>
+    <episode-num system="original-air-date">20201001000000 +0000</episode-num>
+    <desc>Un hábil luchador es contratado para neutralizar al equipo de seguridad de una fábrica local y permitir que su empleador extorsione a su poderoso dueño.</desc>
+    <icon src="https://images.pluto.tv/episodes/6abc0b3cda71d9a75f2d54d6/poster_1790708657440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20201001</date>
+    <series-id system="pluto">6abc0955f57944823429bafc</series-id>
+    <category>Adventure</category>
+    <category>Movie</category>
+    <category>Action</category>
+  </programme>
+  <programme start="20261023133459 +0000" stop="20261023150837 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>Batalla Espacial: La Armada Ataca</title>
+    <episode-num system="original-air-date">20210112000000 +0000</episode-num>
+    <desc>En 2420, después de que una raza de alienígenas y poderosos magos esclavizaran a gran parte de la humanidad, un grupo de rebeldes organiza un contraataque pilotando una flota de naves espaciales.</desc>
+    <icon src="https://images.pluto.tv/episodes/6abfbfeab60195e27ee6b837/poster_1790951403704.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20210112</date>
+    <series-id system="pluto">6abfbfeab60195e27ee6b818</series-id>
     <category>Movie</category>
     <category>Science fiction</category>
   </programme>
@@ -113642,8 +113624,8 @@
     <date>20200827</date>
     <series-id system="pluto">653f9acb4827fc001abb1267</series-id>
     <category>Movie</category>
-    <category>B-Movie Horror</category>
     <category>Horror</category>
+    <category>B-Movie Horror</category>
   </programme>
   <programme start="20261022230140 +0000" stop="20261023004603 +0000" channel="5f6a38eaa5b68b0007a00e7a">
     <title>El agujero del infierno</title>
@@ -113699,9 +113681,9 @@
     <icon src="https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster_1776175563370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110420</date>
     <series-id system="pluto">672dcc122678a50014518e37</series-id>
-    <category>Action</category>
     <category>Movie</category>
     <category>Science fiction</category>
+    <category>Action</category>
   </programme>
   <programme start="20261023072621 +0000" stop="20261023092423 +0000" channel="5f6a38eaa5b68b0007a00e7a">
     <title>El juego de Ender</title>
@@ -113710,40 +113692,52 @@
     <icon src="https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster_1777997882339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20131024</date>
     <series-id system="pluto">67516488a7fde50013705b8d</series-id>
-    <category>Action</category>
     <category>Movie</category>
     <category>Science fiction</category>
+    <category>Action</category>
   </programme>
-  <programme start="20261022150801 +0000" stop="20261022172914 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title>Fahrenheit 11/9</title>
-    <episode-num system="original-air-date">20180906000000 +0000</episode-num>
-    <desc>Michael Moore analiza la política estadounidense y el ascenso de Donald Trump al poder.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a0b3a544a77e2cd15d917fa/poster_1779120725587.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20180906</date>
-    <series-id system="pluto">6a0b3a534a77e2cd15d917da</series-id>
-    <category>Documentary</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261022172914 +0000" stop="20261022194358 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title>The Ghost Writer</title>
-    <episode-num system="original-air-date">20100218000000 +0000</episode-num>
-    <desc>El cineasta Roman Polanski aumenta el suspense en un thriller sobre un escritor (Ewan McGregor) que redacta las memorias de un ex primer ministro (Pierce Brosnan).</desc>
-    <icon src="https://images.pluto.tv/episodes/6735d3ffb7ea5e0013a6a2e2/poster_1781251202413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20100218</date>
-    <series-id system="pluto">6735d3fdb7ea5e0013a6a2c0</series-id>
+  <programme start="20261023092423 +0000" stop="20261023105200 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>Campus Code</title>
+    <episode-num system="original-air-date">20130213000000 +0000</episode-num>
+    <desc>Un grupo de estudiantes lucha contra fuerzas desconocidas en su campus para encontrar respuestas.</desc>
+    <icon src="https://images.pluto.tv/episodes/68ff8a63fa0f5ccff5b552b0/poster_1761597675050.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130213</date>
+    <series-id system="pluto">68ff8a62fa0f5ccff5b55291</series-id>
     <category>Movie</category>
     <category>Thriller</category>
   </programme>
-  <programme start="20261022194358 +0000" stop="20261022212256 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title>Gangster Nº 1</title>
-    <episode-num system="original-air-date">20000609000000 +0000</episode-num>
-    <desc>Un mafioso recuerda su ascenso en el Londres de los años sesenta. La ambición y la envidia lo llevan a traicionar a su mentor, Freddie Mays, para convertirse en el gánster más temido de la ciudad.</desc>
-    <icon src="https://images.pluto.tv/episodes/6aad0061291eac08d1d826e6/poster_1789722722205.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20000609</date>
-    <series-id system="pluto">6aad0060291eac08d1d826c3</series-id>
-    <category>Action</category>
+  <programme start="20261023105200 +0000" stop="20261023122031 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>Infinitum</title>
+    <episode-num system="original-air-date">20210706000000 +0000</episode-num>
+    <desc>Jane debe cambiar su realidad en un universo paralelo por su cuenta.</desc>
+    <icon src="https://images.pluto.tv/episodes/68ff8bc4fa0f5ccff5ba09d5/poster_1761591054482.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20210706</date>
+    <series-id system="pluto">68ff8bc3fa0f5ccff5ba09b4</series-id>
     <category>Movie</category>
+    <category>Science fiction</category>
     <category>Adventure</category>
+  </programme>
+  <programme start="20261023122031 +0000" stop="20261023135431 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>Tormenta colosal</title>
+    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
+    <desc>When a colossal tectonic shift causes the sea level to start rising, a microbiologist gathers the DNA of as many species as she can, while the military creates an "ark" in a desperate attempt to preserve life on Earth.</desc>
+    <icon src="https://images.pluto.tv/episodes/604f890112d561001a4eef76/poster_1769193003535.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20120101</date>
+    <series-id system="pluto">604f88ff12d561001a4eef70</series-id>
+    <category>Deadly Disasters</category>
+    <category>Movie</category>
+    <category>Action</category>
+  </programme>
+  <programme start="20261023135431 +0000" stop="20261023153831 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>La era del mañana</title>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Cuando el sol golpea un altar, escondido dentro de la antigua Pirámide del Sol en México, se crea un faro que desencadena una guerra relámpago alienígena. En cuestión de horas, sus platillos destruyen toda la infraestructura militar de la tierra.</desc>
+    <icon src="https://images.pluto.tv/episodes/608fa39b6a72b000130cca94/poster_1769193003470.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20140101</date>
+    <series-id system="pluto">608fa39a6a72b000130cca8e</series-id>
+    <category>Movie</category>
+    <category>Science fiction</category>
+    <category>Action</category>
   </programme>
   <programme start="20261022212256 +0000" stop="20261022232640 +0000" channel="5f1ac8a87cd38d000745d7cf">
     <title>Escobar: Paraíso perdido</title>
@@ -113775,9 +113769,9 @@
     <date>20090101</date>
     <series-id system="pluto">5f4e1865fa72a5001a5fa9d5</series-id>
     <sub-title>2</sub-title>
-    <category>Biographical Drama</category>
     <category>Drama</category>
     <category>Series</category>
+    <category>Biographical Drama</category>
   </programme>
   <programme start="20261023030940 +0000" stop="20261023043540 +0000" channel="5f1ac8a87cd38d000745d7cf">
     <title>23-F: El día más difícil del Rey</title>
@@ -113789,9 +113783,9 @@
     <date>20090101</date>
     <series-id system="pluto">5f4e1865fa72a5001a5fa9d5</series-id>
     <sub-title>1</sub-title>
-    <category>Biographical Drama</category>
     <category>Drama</category>
     <category>Series</category>
+    <category>Biographical Drama</category>
   </programme>
   <programme start="20261023043540 +0000" stop="20261023060540 +0000" channel="5f1ac8a87cd38d000745d7cf">
     <title>Fría como un diamante</title>
@@ -113810,8 +113804,8 @@
     <icon src="https://images.pluto.tv/episodes/68ff8ea669032f4edf06e0e6/poster_1761579274321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20121121</date>
     <series-id system="pluto">68ff8ea569032f4edf06e0c7</series-id>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261023074128 +0000" stop="20261023094511 +0000" channel="5f1ac8a87cd38d000745d7cf">
     <title>ISRA-88</title>
@@ -113823,38 +113817,36 @@
     <category>Movie</category>
     <category>Thriller</category>
   </programme>
-  <programme start="20261022150658 +0000" stop="20261022172028 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title>La casa de la esperanza</title>
-    <episode-num system="original-air-date">20170324000000 +0000</episode-num>
-    <desc>La mujer del guardián del zoo cuenta la historia de los guardianes del zoo de Varsovia, Jan y Antonina Zabinski, que ayudaron a salvar a cientos de personas y animales durante la invasión nazi.</desc>
-    <icon src="https://images.pluto.tv/episodes/672dcaa24ad856001364e565/poster_1769190483091.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20170324</date>
-    <series-id system="pluto">672dcaa04ad856001364e544</series-id>
-    <category>Historical Drama</category>
-    <category>Movie</category>
+  <programme start="20261023094511 +0000" stop="20261023113011 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title>Crupier</title>
+    <episode-num system="original-air-date">19980101000000 +0000</episode-num>
+    <desc>Jack Manfred, un aspirante a escritor con problemas económicos, decide aceptar un trabajo de croupier para salir adelante. Lo malo es que en el casino entabla relación con una empleada que lo arrastra por caminos peligrosos.</desc>
+    <icon src="https://images.pluto.tv/episodes/61aa2e496011980013254718/poster_1772192180704.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19980101</date>
+    <series-id system="pluto">61aa2e486011980013254712</series-id>
     <category>Drama</category>
-  </programme>
-  <programme start="20261022172028 +0000" stop="20261022190005 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title>Irrational Man</title>
-    <episode-num system="original-air-date">20150709000000 +0000</episode-num>
-    <desc>Escrita y dirigida por Woody Allen. Un atormentado profesor de Filosofía (Joaquin Phoenix) encuentra las ganas de vivir cuando comete un acto existencial junto a su amiga y alumna (Emma Stone).</desc>
-    <icon src="https://images.pluto.tv/episodes/67371fe7a7fde5001326babc/poster_1779180383436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20150709</date>
-    <series-id system="pluto">67371fe5a7fde5001326ba9b</series-id>
     <category>Movie</category>
-    <category>Romantic comedy</category>
-    <category>Comedy</category>
+    <category>Biographical Drama</category>
   </programme>
-  <programme start="20261022190005 +0000" stop="20261022210625 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title>Rush</title>
-    <episode-num system="original-air-date">20130927000000 +0000</episode-num>
-    <desc>James Hunt y Niki Lauda, dos pilotos de Fórmula 1 extremadamente hábiles, mantienen entre sí una intensa rivalidad. Sin embargo, es su enemistad lo que les lleva al límite.</desc>
-    <icon src="https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster_1776168361199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20130927</date>
-    <series-id system="pluto">67371a40321c190013a008a0</series-id>
+  <programme start="20261023113011 +0000" stop="20261023133111 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title>Alpha</title>
+    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
+    <desc>Tres amigos se ven obligados a separarse tras un atraco frustrado. Ocho años más tarde, el destino los vuelve a unir a pesar de haber tomado caminos muy distintos.</desc>
+    <icon src="https://images.pluto.tv/episodes/62b479d9cb0324001353e300/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130101</date>
+    <series-id system="pluto">62b479d7cb0324001353e2f9</series-id>
+    <category>Movie</category>
     <category>Action</category>
+  </programme>
+  <programme start="20261023133111 +0000" stop="20261023152329 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title>Breve encuentro</title>
+    <episode-num system="original-air-date">19740101000000 +0000</episode-num>
+    <desc>Adaptación televisiva de la obra de Noël Coward. Un hombre y una mujer no pueden evitar enamorarse.</desc>
+    <icon src="https://images.pluto.tv/episodes/695b8e71a7396485f81f352f/poster_1767607926245.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19740101</date>
+    <series-id system="pluto">695b8e70a7396485f81f350f</series-id>
     <category>Movie</category>
-    <category>Blockbusters</category>
+    <category>Thriller</category>
   </programme>
   <programme start="20261022210625 +0000" stop="20261022230043 +0000" channel="5f1ac1f1b66c76000790ef27">
     <title>Negación</title>
@@ -113863,9 +113855,9 @@
     <icon src="https://images.pluto.tv/episodes/673c49ba882f6d0013a70e7c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20160930</date>
     <series-id system="pluto">673c49b8882f6d0013a70e5b</series-id>
-    <category>Biographical Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
+    <category>Biographical Drama</category>
   </programme>
   <programme start="20261022230043 +0000" stop="20261023011737 +0000" channel="5f1ac1f1b66c76000790ef27">
     <title>El velo pintado</title>
@@ -113894,9 +113886,9 @@
     <icon src="https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster_1777997882339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20131024</date>
     <series-id system="pluto">67516488a7fde50013705b8d</series-id>
-    <category>Action</category>
     <category>Movie</category>
     <category>Science fiction</category>
+    <category>Action</category>
   </programme>
   <programme start="20261023053023 +0000" stop="20261023065811 +0000" channel="5f1ac1f1b66c76000790ef27">
     <title>Super Papá Oso</title>
@@ -113905,8 +113897,8 @@
     <icon src="https://images.pluto.tv/episodes/68ff8bd2fa0f5ccff5bc134d/poster_1761578460170.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20190606</date>
     <series-id system="pluto">68ff8bd2fa0f5ccff5bc132c</series-id>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
   </programme>
   <programme start="20261023065811 +0000" stop="20261023084528 +0000" channel="5f1ac1f1b66c76000790ef27">
     <title>Juana de Arco</title>
@@ -113918,42 +113910,46 @@
     <date>19990516</date>
     <series-id system="pluto">68ef5b8833c9798391286c00</series-id>
     <sub-title>Parte 1</sub-title>
-    <category>Action</category>
-    <category>Series</category>
     <category>Adventure</category>
+    <category>Series</category>
+    <category>Action</category>
   </programme>
-  <programme start="20261022152655 +0000" stop="20261022170312 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title>Esposa desconocida</title>
-    <episode-num system="original-air-date">20120315000000 +0000</episode-num>
-    <desc>Los celos arruinan la vida amorosa de Georgia. El día de su boda, sus miedos regresan y todo se complica.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a688614323bf2ec8cad0fb3/poster_1785234965807.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20120315</date>
-    <series-id system="pluto">6a688613323bf2ec8cad0f93</series-id>
-    <category>Movie</category>
-    <category>B-Movie Horror</category>
-    <category>Horror</category>
+  <programme start="20261023084528 +0000" stop="20261023103225 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title>Juana de Arco</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">68ef5cf4393a03f3e39a6df5</episode-num>
+    <episode-num system="original-air-date">19990518000000 +0000</episode-num>
+    <desc>Guiada por visiones divinas, Juana de Arco, adolescente del siglo XV, lidera a Francia en guerra. Parte 2.</desc>
+    <icon src="https://images.pluto.tv/series/68ef5b8833c9798391286c00/tile_1790722802436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19990518</date>
+    <series-id system="pluto">68ef5b8833c9798391286c00</series-id>
+    <sub-title>Parte 2</sub-title>
+    <category>Adventure</category>
+    <category>Series</category>
+    <category>Action</category>
   </programme>
-  <programme start="20261022170312 +0000" stop="20261022185312 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title>Los Chicos de Scotsboro</title>
-    <episode-num system="original-air-date">20060101000000 +0000</episode-num>
-    <desc>asada en una historia real ocurrida en Alabama en 1931, cuando el abogado Samuel Leibowitz se hizo cargo de la defensa de nueve chicos negros que habían sido injustamente acusados y declarados culpables de violar a dos mujeres blancas.</desc>
-    <icon src="https://images.pluto.tv/episodes/62861eb7a6d56300130687b2/poster_1768609082810.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20060101</date>
-    <series-id system="pluto">62861eb6a6d56300130687ab</series-id>
-    <category>Movie</category>
+  <programme start="20261023103225 +0000" stop="20261023131625 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title>La decisión de Sophie</title>
+    <episode-num system="original-air-date">19820101000000 +0000</episode-num>
+    <desc>Ganadora del Oscar a Mejor Actriz (Meryl Streep) y dirigida por Alan Pakula (El informe Pelícano). Stingo, un joven con ambiciones literarias se traslada a Brooklyn, donde conoce a una inmigrante polaca llamada Sophie, una superviviente de Auschwitz...</desc>
+    <icon src="https://images.pluto.tv/episodes/62384c84ff21e500131cb334/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19820101</date>
+    <series-id system="pluto">62384c82ff21e500131cb32d</series-id>
     <category>Drama</category>
-    <category>Crime</category>
-  </programme>
-  <programme start="20261022185312 +0000" stop="20261022205812 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title>El Lute: Camina o revienta</title>
-    <episode-num system="original-air-date">19870101000000 +0000</episode-num>
-    <desc>En 1960, una familia de quinquis recorre Extremadura. La vida tan dura que llevan causa la muerte de la madre. El hijo, Eleuterio Sánchez, roba unas gallinas y es condenado a seis meses de cárcel...</desc>
-    <icon src="https://images.pluto.tv/episodes/62a9e1e965c30400136adae4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19870101</date>
-    <series-id system="pluto">62a9e1e665c30400136adadd</series-id>
+    <category>Movie</category>
     <category>Biographical Drama</category>
-    <category>Movie</category>
-    <category>Drama</category>
+  </programme>
+  <programme start="20261023131625 +0000" stop="20261023145725 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title>Hitler: El ascenso del mal - Parte 1</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">6135c117dc29d20013b97dbe</episode-num>
+    <episode-num system="original-air-date">20030518000000 +0000</episode-num>
+    <desc>Una perspectiva única, que perfila la vida de Adolf Hitler como un niño y su ascenso a través de las filas del Partido Nacional Alemán de los Trabajadores antes de la Segunda Guerra Mundial.</desc>
+    <icon src="https://images.pluto.tv/series/6135c115dc29d20013b97d86/tile_1769571361977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20030518</date>
+    <series-id system="pluto">6135c115dc29d20013b97d86</series-id>
+    <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme start="20261022205812 +0000" stop="20261022231412 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>El Lute II: Mañana seré libre</title>
@@ -113962,9 +113958,9 @@
     <icon src="https://images.pluto.tv/episodes/62a9e1ec65c30400136adbbd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19880101</date>
     <series-id system="pluto">62a9e1ea65c30400136adbb6</series-id>
-    <category>Biographical Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
+    <category>Biographical Drama</category>
   </programme>
   <programme start="20261022231412 +0000" stop="20261023011712 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>La carretera</title>
@@ -113973,9 +113969,9 @@
     <icon src="https://images.pluto.tv/episodes/5f4f5ce5fa72a5001a5fd945/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20090101</date>
     <series-id system="pluto">5f4f5ce4fa72a5001a5fd93d</series-id>
-    <category>Biographical Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
+    <category>Biographical Drama</category>
   </programme>
   <programme start="20261023011712 +0000" stop="20261023025424 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>Arena En Los Bolsillos</title>
@@ -113984,9 +113980,9 @@
     <icon src="https://images.pluto.tv/episodes/6aacfac1ed186c2c8530ebe2/poster_1789721282270.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20060318</date>
     <series-id system="pluto">6aacfac0ed186c2c8530ebbe</series-id>
-    <category>Independent Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
+    <category>Independent Drama</category>
   </programme>
   <programme start="20261023025424 +0000" stop="20261023043116 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>La leyenda de Terramar</title>
@@ -113998,9 +113994,9 @@
     <date>20050120</date>
     <series-id system="pluto">6a281dc80aef1275c6f0209b</series-id>
     <sub-title>Parte 1</sub-title>
-    <category>Action</category>
-    <category>Series</category>
     <category>Adventure</category>
+    <category>Series</category>
+    <category>Action</category>
   </programme>
   <programme start="20261023043116 +0000" stop="20261023060116 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>Love, Pain and Vice Versa</title>
@@ -114019,9 +114015,9 @@
     <icon src="https://images.pluto.tv/episodes/6a219cd67918fece01f17a8c/poster_1780587735257.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20000519</date>
     <series-id system="pluto">6a219cd57918fece01f17a6b</series-id>
-    <category>Independent Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
+    <category>Independent Drama</category>
   </programme>
   <programme start="20261023075237 +0000" stop="20261023094637 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>Rebelde entre el centeno</title>
@@ -114030,42 +114026,40 @@
     <icon src="https://images.pluto.tv/episodes/62876b1ce26cc40014b2ccec/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20160101</date>
     <series-id system="pluto">62876b18e26cc40014b2cce5</series-id>
-    <category>Biographical Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
-  </programme>
-  <programme start="20261022151101 +0000" stop="20261022165901 +0000" channel="5f1ac8099c49f600076579b2">
-    <title>El reportero: la leyenda de Ron Burgundy</title>
-    <episode-num system="original-air-date">20040524000000 +0000</episode-num>
-    <desc>Enter the world of 1970’s TV news, where Ron Burgundy and his loyal Channel 4 News Team are San Diego’s #1 rated news source. All is well in their male-dominated world of news until rising star reporter Veronica Corningstone turns it upside down.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f6062e75e6bed001a9cb3f2/poster_1780318082079.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20040524</date>
-    <series-id system="pluto">5f6062e65e6bed001a9cb3ea</series-id>
     <category>Movie</category>
-    <category>Romantic comedy</category>
-    <category>Comedy</category>
+    <category>Biographical Drama</category>
   </programme>
-  <programme start="20261022165901 +0000" stop="20261022190901 +0000" channel="5f1ac8099c49f600076579b2">
-    <title>Los amos de la noticia</title>
-    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
-    <desc>The wait is over! Ron Burgundy is back! After losing his job, Ron reassembles the news team and squares off against a new rival in the comedy that critics are calling “one of the funniest movies of the year!”*Richard Roeper, CHICAGO SUN TIMES</desc>
-    <icon src="https://images.pluto.tv/episodes/5f5f3a3da93c29001ae12676/poster_1780317721620.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20130101</date>
-    <series-id system="pluto">5f5f3a3ca93c29001ae1266e</series-id>
+  <programme start="20261023094637 +0000" stop="20261023114249 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title>Recuerdo</title>
+    <episode-num system="original-air-date">20170125000000 +0000</episode-num>
+    <desc>Gordon inventa la máquina "Rememory" que le permite ver los recuerdos tal y como fueron en realidad.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a219e35812ca10016665639/poster_1780588441917.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20170125</date>
+    <series-id system="pluto">6a219e34812ca10016665618</series-id>
     <category>Movie</category>
-    <category>Romantic comedy</category>
-    <category>Comedy</category>
+    <category>Science fiction</category>
   </programme>
-  <programme start="20261022190901 +0000" stop="20261022205057 +0000" channel="5f1ac8099c49f600076579b2">
-    <title>Los líos de Gray</title>
-    <episode-num system="original-air-date">20061021000000 +0000</episode-num>
-    <desc>Gray y Sam (Heather Graham y Tom Cavanagh) son hermanos, pero tan compatibles e inseparables que la gente cree que son pareja.</desc>
-    <icon src="https://images.pluto.tv/episodes/6735dc77b7ea5e0013a6b8e6/poster_1768606204192.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20061021</date>
-    <series-id system="pluto">6735dc76b7ea5e0013a6b8c5</series-id>
+  <programme start="20261023114249 +0000" stop="20261023131444 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title>Webcam de animadoras</title>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>Maisy se traslada a la universidad de su difunta hermana para investigar las circunstancias de su muerte.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a4cc71c3aa4669fc73c332c/poster_1783416605663.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20210101</date>
+    <series-id system="pluto">6a4cc71b3aa4669fc73c330c</series-id>
+    <category>Drama</category>
     <category>Movie</category>
-    <category>Romantic comedy</category>
-    <category>Romance</category>
+    <category>Independent Drama</category>
+  </programme>
+  <programme start="20261023131444 +0000" stop="20261023150944 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title>Una Jornada Particular</title>
+    <episode-num system="original-air-date">19770101000000 +0000</episode-num>
+    <desc>Emocionante historia del romance sin futuro que en unas pocas horas, el día que se celebra un desfile por la llegada de Hitler a Italia, viven una sacrificada madre de familia y un locutor de radio que ha sido despedido por homosexual.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4f5ceafa72a5001a5fd9bd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19770101</date>
+    <series-id system="pluto">5f4f5ceafa72a5001a5fd9b5</series-id>
+    <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261022205057 +0000" stop="20261022222034 +0000" channel="5f1ac8099c49f600076579b2">
     <title>Atraco por duplicado</title>
@@ -114094,8 +114088,8 @@
     <icon src="https://images.pluto.tv/episodes/68ff8ff96e0067f40d0bab67/poster_1761598025370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20080116</date>
     <series-id system="pluto">68ff8ff86e0067f40d0bab47</series-id>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261023013458 +0000" stop="20261023041858 +0000" channel="5f1ac8099c49f600076579b2">
     <title>Solteras Indisponibles</title>
@@ -114104,8 +114098,8 @@
     <icon src="https://images.pluto.tv/episodes/5fc527f02fd74a0014cd4a2b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20171117</date>
     <series-id system="pluto">5fc527f02fd74a0014cd4a29</series-id>
-    <category>Movie</category>
     <category>Foreign Comedies</category>
+    <category>Movie</category>
     <category>Comedy</category>
   </programme>
   <programme start="20261023041858 +0000" stop="20261023061158 +0000" channel="5f1ac8099c49f600076579b2">
@@ -114115,8 +114109,8 @@
     <icon src="https://images.pluto.tv/episodes/5fc526b90983410013db2b2f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20151030</date>
     <series-id system="pluto">5fc526b90983410013db2b2d</series-id>
-    <category>Movie</category>
     <category>Foreign Comedies</category>
+    <category>Movie</category>
     <category>Comedy</category>
   </programme>
   <programme start="20261023061158 +0000" stop="20261023075758 +0000" channel="5f1ac8099c49f600076579b2">
@@ -114126,8 +114120,8 @@
     <icon src="https://images.pluto.tv/episodes/5fc5201f39211a001a8b266e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20250922</date>
     <series-id system="pluto">5fc5201f39211a001a8b266c</series-id>
-    <category>Movie</category>
     <category>Foreign Comedies</category>
+    <category>Movie</category>
     <category>Comedy</category>
   </programme>
   <programme start="20261023075758 +0000" stop="20261023095158 +0000" channel="5f1ac8099c49f600076579b2">
@@ -114140,44 +114134,34 @@
     <category>Movie</category>
     <category>Comedy</category>
   </programme>
-  <programme start="20261022143348 +0000" stop="20261022160631 +0000" channel="655b5d865812e80008843bd1">
-    <title>Aprendiz de gigoló</title>
-    <episode-num system="original-air-date">20130831000000 +0000</episode-num>
-    <desc>Un hombre convence a su amigo para trabajar como gigoló, lo que provoca situaciones cómicas y complicadas.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a0b31e59db2f8937b420af3/poster_1779118566155.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20130831</date>
-    <series-id system="pluto">6a0b31e49db2f8937b420ad4</series-id>
+  <programme start="20261023095158 +0000" stop="20261023114458 +0000" channel="5f1ac8099c49f600076579b2">
+    <title>El tutor</title>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>Exprisidario Ray Bradstone está tratando de encontrar un trabajo honrado. El jefe de una banda de ladrones de bancos le propone un último trabajo. Al principio acepta, pero cambia de opinión y decide acompañar a su hija a una excursión de la escuela.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cddfa72a5001a5fd8b6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20110101</date>
+    <series-id system="pluto">5f4f5cdcfa72a5001a5fd8ae</series-id>
     <category>Movie</category>
     <category>Comedy</category>
   </programme>
-  <programme start="20261022160631 +0000" stop="20261022180048 +0000" channel="655b5d865812e80008843bd1">
-    <title>La felicidad nunca viene sola</title>
-    <episode-num system="original-air-date">20120627000000 +0000</episode-num>
-    <desc>Un músico conoce a una mujer con una vida muy distinta y ambos se enamoran.</desc>
-    <icon src="https://images.pluto.tv/episodes/69ef3aa8598bd1d6b49aee5c/poster_1777285801867.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20120627</date>
-    <series-id system="pluto">69ef3aa8598bd1d6b49aee3d</series-id>
+  <programme start="20261023114458 +0000" stop="20261023133858 +0000" channel="5f1ac8099c49f600076579b2">
+    <title>Bendita locura: Bendita Locura</title>
+    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
+    <desc>El propietario de una tienda de artículos religiosos contrata a una nueva dependienta, una joven y descarada romana que va a revolucionarlo todo</desc>
+    <icon src="https://images.pluto.tv/episodes/6299d39dba369d001340eae4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20180101</date>
+    <series-id system="pluto">6299d39aba369d001340eadd</series-id>
     <category>Movie</category>
+    <category>Romantic comedy</category>
     <category>Comedy</category>
   </programme>
-  <programme start="20261022180048 +0000" stop="20261022194648 +0000" channel="655b5d865812e80008843bd1">
-    <title>Luna Nueva</title>
-    <episode-num system="original-air-date">19400101000000 +0000</episode-num>
-    <desc>Un editor de periódico intenta evitar por todos los medios que su exmujer, una experta reportera, se vuelva a casar.</desc>
-    <icon src="https://images.pluto.tv/episodes/6114cd6fdf179f0013199224/poster_1768605124257.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19400101</date>
-    <series-id system="pluto">6114cd6edf179f001319921e</series-id>
-    <category>Movie</category>
-    <category>Screwball</category>
-    <category>Comedy</category>
-  </programme>
-  <programme start="20261022194648 +0000" stop="20261022214105 +0000" channel="655b5d865812e80008843bd1">
-    <title>La felicidad nunca viene sola</title>
-    <episode-num system="original-air-date">20120627000000 +0000</episode-num>
-    <desc>Un músico conoce a una mujer con una vida muy distinta y ambos se enamoran.</desc>
-    <icon src="https://images.pluto.tv/episodes/69ef3aa8598bd1d6b49aee5c/poster_1777285801867.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20120627</date>
-    <series-id system="pluto">69ef3aa8598bd1d6b49aee3d</series-id>
+  <programme start="20261023133858 +0000" stop="20261023151858 +0000" channel="5f1ac8099c49f600076579b2">
+    <title>Un hombre solitario</title>
+    <episode-num system="original-air-date">20090101000000 +0000</episode-num>
+    <desc>Un ejecutivo  intenta superar los tiempos difíciles y volver a centrarse en su carrera, después de años de excesos en los que el dinero y el sexo han marcado el inicio de una imparable decadencia personal y profesional.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f523c66db45a1001a79add1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20090101</date>
+    <series-id system="pluto">5f523c65db45a1001a79adc9</series-id>
     <category>Movie</category>
     <category>Comedy</category>
   </programme>
@@ -114208,9 +114192,9 @@
     <icon src="https://images.pluto.tv/episodes/62384c8cff21e500131cb48d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19371125</date>
     <series-id system="pluto">62384c8bff21e500131cb486</series-id>
-    <category>Courtroom Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
+    <category>Courtroom Drama</category>
   </programme>
   <programme start="20261023022905 +0000" stop="20261023040505 +0000" channel="655b5d865812e80008843bd1">
     <title>Un Trabajo Embarazoso</title>
@@ -114229,9 +114213,9 @@
     <icon src="https://images.pluto.tv/episodes/5f523c1adb45a1001a79ab0b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20080101</date>
     <series-id system="pluto">5f523c19db45a1001a79ab03</series-id>
-    <category>African-American Romance</category>
     <category>Movie</category>
     <category>Romance</category>
+    <category>African-American Romance</category>
   </programme>
   <programme start="20261023054805 +0000" stop="20261023073105 +0000" channel="655b5d865812e80008843bd1">
     <title>Una pizca de amor</title>
@@ -114241,8 +114225,8 @@
     <date>20200101</date>
     <series-id system="pluto">63ce6a185b790200141046b4</series-id>
     <category>Movie</category>
-    <category>Romantic comedy</category>
     <category>Romance</category>
+    <category>Romantic comedy</category>
   </programme>
   <programme start="20261023073105 +0000" stop="20261023090609 +0000" channel="655b5d865812e80008843bd1">
     <title>A Christmas Kiss</title>
@@ -114254,46 +114238,48 @@
     <category>Movie</category>
     <category>Romance</category>
   </programme>
-  <programme start="20261022141729 +0000" stop="20261022160029 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title>Recuerdos del corazón</title>
+  <programme start="20261023090609 +0000" stop="20261023104309 +0000" channel="655b5d865812e80008843bd1">
+    <title>Christmas Mail</title>
+    <episode-num system="original-air-date">20100101000000 +0000</episode-num>
+    <desc>Kristi, una joven empleada de correos, se dedica a responder las cartas dirigidas a Santa Claus. Con su ilusión consigue captivar el corazón de su compañero Matt, un cartero que se enamora locamente de ella.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4ab3c5fa72a5001a5f7919/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20100101</date>
+    <series-id system="pluto">5f4ab3c3fa72a5001a5f7913</series-id>
+    <category>Movie</category>
+    <category>Romance</category>
+    <category>Romantic comedy</category>
+  </programme>
+  <programme start="20261023104309 +0000" stop="20261023123309 +0000" channel="655b5d865812e80008843bd1">
+    <title>Amanece En Edimburgo</title>
     <episode-num system="original-air-date">20130101000000 +0000</episode-num>
-    <desc>With her husband jailed for Wall Street fraud, Faith leaves her life of luxury behind to return to rural North Carolina and the father and sister she'd left behind.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f4948b461f1b1001afec7ed/poster_1769034609642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <desc>Basada en la exitosa obra del mismo nombre con música del grupo pop-folk, "The Proclaimers", cuenta la historia de Davy y Ally, que han de adaptarse de nuevo a vivir en  Edimburgo tras su  paso por la guerra en Afganistán.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4e17f7fa72a5001a5fa1f0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130101</date>
-    <series-id system="pluto">5f4948b361f1b1001afec7e5</series-id>
-    <category>Movie</category>
-    <category>Drama</category>
-  </programme>
-  <programme start="20261022160029 +0000" stop="20261022174929 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title>A Second Chance</title>
-    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
-    <desc>Maddy Cornel (Emily Morris) es una niña de 12 años cuyo sueño es ser gimnasta profesional, pero su nivel de autoestima y su poca confianza en sí misma suponen una barrera para empezar a conquistar su sueño.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f4e6faedb45a1001a793bd2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20120101</date>
-    <series-id system="pluto">5f4e6f96db45a1001a793bc9</series-id>
-    <category>Movie</category>
-    <category>Ages 0-2</category>
-    <category>Children</category>
-  </programme>
-  <programme start="20261022174929 +0000" stop="20261022192929 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title>Un hombre solitario</title>
-    <episode-num system="original-air-date">20090101000000 +0000</episode-num>
-    <desc>Un ejecutivo  intenta superar los tiempos difíciles y volver a centrarse en su carrera, después de años de excesos en los que el dinero y el sexo han marcado el inicio de una imparable decadencia personal y profesional.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f523c66db45a1001a79add1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20090101</date>
-    <series-id system="pluto">5f523c65db45a1001a79adc9</series-id>
+    <series-id system="pluto">5f4e17f6fa72a5001a5fa1e8</series-id>
     <category>Movie</category>
     <category>Comedy</category>
   </programme>
-  <programme start="20261022192929 +0000" stop="20261022214623 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title>El velo pintado</title>
-    <episode-num system="original-air-date">20061213000000 +0000</episode-num>
-    <desc>Un médico británico lucha contra una epidemia de cólera en un pequeño pueblo chino, mientras está atrapado en un matrimonio sin amor con una mujer infiel.</desc>
-    <icon src="https://images.pluto.tv/episodes/6735c484b7ea5e0013a68055/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20061213</date>
-    <series-id system="pluto">6735c483b7ea5e0013a68033</series-id>
+  <programme start="20261023123309 +0000" stop="20261023135729 +0000" channel="655b5d865812e80008843bd1">
+    <title>Transformaci√≥n Navide√±a</title>
+    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
+    <desc>Haley Hanson pone su trabajo como ejecutiva de publicidad por encima de todo lo demás, incluso durante las vacaciones.</desc>
+    <icon src="https://images.pluto.tv/episodes/660d6954a79dde0014200720/poster_1769189043700.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20180101</date>
+    <series-id system="pluto">660d6953a79dde0014200701</series-id>
     <category>Movie</category>
     <category>Romance</category>
+    <category>Romantic comedy</category>
+  </programme>
+  <programme start="20261023135729 +0000" stop="20261023154912 +0000" channel="655b5d865812e80008843bd1">
+    <title>Mia Sarah</title>
+    <episode-num system="original-air-date">20061215000000 +0000</episode-num>
+    <desc>Samuel y su abuelo Paul crean planes para repeler al último de una larga lista de psicólogos.</desc>
+    <icon src="https://images.pluto.tv/episodes/6646267ca086180013490df9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20061215</date>
+    <series-id system="pluto">6646267ba086180013490dd8</series-id>
+    <category>Movie</category>
+    <category>Romance</category>
+    <category>Romantic comedy</category>
   </programme>
   <programme start="20261022214623 +0000" stop="20261023001723 +0000" channel="5f1ac9a2d3611d0007a844bb">
     <title>Un asunto real</title>
@@ -114352,6 +114338,37 @@
     <icon src="https://images.pluto.tv/episodes/6a219fa0a87694f9963ac5e9/poster_1780588449288.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20180330</date>
     <series-id system="pluto">6a219f9fa87694f9963ac5c9</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261023092825 +0000" stop="20261023105907 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title>Sí quiero, pero no quiero</title>
+    <episode-num system="original-air-date">20040913000000 +0000</episode-num>
+    <desc>Lauren, una joven divorciada que trabaja organizando bodas, se enamora del novio de una de sus clientas.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a21a1057c1064824542ed91/poster_1780588806130.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20040913</date>
+    <series-id system="pluto">6a21a1047c1064824542ed71</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261023105907 +0000" stop="20261023124103 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title>Los líos de Gray</title>
+    <episode-num system="original-air-date">20061021000000 +0000</episode-num>
+    <desc>Gray y Sam (Heather Graham y Tom Cavanagh) son hermanos, pero tan compatibles e inseparables que la gente cree que son pareja.</desc>
+    <icon src="https://images.pluto.tv/episodes/6735dc77b7ea5e0013a6b8e6/poster_1768606204192.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20061021</date>
+    <series-id system="pluto">6735dc76b7ea5e0013a6b8c5</series-id>
+    <category>Movie</category>
+    <category>Romance</category>
+    <category>Romantic comedy</category>
+  </programme>
+  <programme start="20261023124103 +0000" stop="20261023145203 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title>Papita, Maní, Tostón</title>
+    <episode-num system="original-air-date">20131220000000 +0000</episode-num>
+    <desc>Andrés, un fanático del club de béisbol Leones, obtiene por error las entradas para el área VIP de los Navegantes, su equipo rival. Cuando conoce a Julissa y se enamora, van a complacer a sus familias, fingiendo ser fanáticos de los otros equipos.</desc>
+    <icon src="https://images.pluto.tv/episodes/5fc527acce9667001a28ec11/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20131220</date>
+    <series-id system="pluto">5fc527acce9667001a28ec0f</series-id>
     <category>Movie</category>
     <category>Comedy</category>
   </programme>
@@ -135515,6 +135532,320 @@ The best racehorses square off in the premier races from across the country.</de
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FOYQ6U2VSAJ74CA4V3P3.jpg/a:p/im:i:c_limit,w_1920/FOYQ6U2VSAJ74CA4V3P3_reference_keyframe.jpg" />
 	</programme>
+  <programme start="20261022175156 +0000" stop="20261022194149 +0000" channel="Sony One Hits Comedia">
+    <title>Dick y Jane Ladrones de Risa</title>
+    <desc>Nada más ascender, el ambicioso Dick se ve obligado a comparecer ante las cámaras de televisión para explicar por qué el presidente de su empresa Globodyne se ha desecho repentinamente de sus acciones. Dick se ve envuelto en una especie de escándalo corporativo: en un instante pierde todo lo que pensaba que tenía.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1293966839_5_20251031T214703367Z_91_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261022194149 +0000" stop="20261022212414 +0000" channel="Sony One Hits Comedia">
+    <title>The Animal (2001)</title>
+    <desc>Puede que no parezca mucho, pero lo que cuenta está dentro. El genio de la comedia Rob Schneider (Deuce Bigalow: Male Gigolo, Big Daddy), Colleen Haskell del concurso de televisión Survivor, John C. McGinley (Any Given Sunday, The Rock) y Edward Asner (The Bachelor, JFK) aparecen en la comedia más escandalosa e histérica del año. Cuando el guardia de seguridad Marvin Mange (Schneider) responde a una llamada de emergencia sobre un robo en progreso, su sueño de convertirse en policía podría convertirse en realidad. Pero un extraño accidente de tráfico en su camino al lugar del crimen deja a Martin y a su sueño destrozados. Cuando Marvin se despierta una semana después, descubre que un científico desquiciado secretamente ha usado órganos de animales para reconstruir su cuerpo. Con nuevas energías gracias a sus nuevas y mejoradas partes, Marvin consigue fama al instante como superpolicía hasta que su instinto animal empieza a apoderarse de su cuerpo en los peores momentos. Y cuando se enamora de la encantadora y sexy Rianna (Haskell), ¡es magnetismo animal en su máxima expresión en la comedia más divertida y salvaje del año! No te pierdas a Rob Schneider en Big Daddy.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_869315579_0_20250508T202412813Z_102_imageprocessorclient-tvplus-linear-6fb5b47f79-btpzm.png"/>
+  </programme>
+  <programme start="20261022173917 +0000" stop="20261022194814 +0000" channel="Sony One Hits Acción">
+    <title>El Exorcista III</title>
+    <desc>Una mujer que se arrastra por el techo. Un criminal muerto hace tiempo que asesina víctima tras víctima. Las llamas estallan, las serpientes se deslizan, la tierra se abre revelando el tormentoso infierno. El demonio ha vuelto... pero el sacerdote Damien Karras vuelve a notar la presencia del maligno, y pedirá la ayuda del escéptico detective Kinderman para derrotarle.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2219721712_0_20260922T215503530Z_99_imageprocessorclient-tvplus-linear-b5879c6c6-g2vqg.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261022194814 +0000" stop="20261022220033 +0000" channel="Sony One Hits Acción">
+    <title>Exorcista: El Comienzo</title>
+    <desc>Años antes de que el padre Lancaster Merrin ayudara a salvar el alma de Regan MacNeil, se encuentra por primera vez con el demonio Pazuzu en África oriental. La batalla inicial de Merrin con Pazuzu conduce al redescubrimiento de su fe. En esta precuela del clásico original de 1970, John Frankenheimer fue contratado originalmente como director, pero se retiró antes de comenzar a filmar debido a problemas de salud. Fue sustituido por Paul Schrader. Un tercer director, Renny Harlin, completó esta versión de la historia.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2219771001_0_20260922T215503530Z_125_imageprocessorclient-tvplus-linear-b5879c6c6-g2vqg.jpeg"/>
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261022154832 +0000" stop="20261022173104 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>Brotherhood</title>
+    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
+    <desc>El hermano de un hombre que ha fingido su muerte y robado un monton de dinero de una banda, trata de descubrir la verdad y encontrar a su asesino.</desc>
+    <icon src="https://images.pluto.tv/episodes/66a7503a9322c00013eb2455/poster_1769189402410.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20220101</date>
+    <series-id system="pluto">66a750389322c00013eb2436</series-id>
+    <category>Foreign Action &amp; Adventure</category>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261022173104 +0000" stop="20261022203336 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>Las crónicas de la Grulla Blanca</title>
+    <episode-num system="original-air-date">20080229000000 +0000</episode-num>
+    <desc>Para vengar un asesinato, un monje debe cruzar la línea entre la verdadera justicia y la venganza a sangre fría.</desc>
+    <icon src="https://images.pluto.tv/episodes/654a299225fde2001af578d5/poster_1782271817783.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20080229</date>
+    <series-id system="pluto">654a299025fde2001af578b6</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261023050807 +0000" stop="20261023063537 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>Traición</title>
+    <episode-num system="original-air-date">20171128000000 +0000</episode-num>
+    <desc>Julio reúne a todos los miembros de su familia y les anuncia que padece una enfermedad mortal y que planea hacer algunos cambios en su empresa.</desc>
+    <icon src="https://images.pluto.tv/episodes/68ff943d71d0752d874680ff/poster_1761586762326.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20171128</date>
+    <series-id system="pluto">68ff943c71d0752d874680e1</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme start="20261023063537 +0000" stop="20261023084157 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>Rush</title>
+    <episode-num system="original-air-date">20130927000000 +0000</episode-num>
+    <desc>James Hunt y Niki Lauda, dos pilotos de Fórmula 1 extremadamente hábiles, mantienen entre sí una intensa rivalidad. Sin embargo, es su enemistad lo que les lleva al límite.</desc>
+    <icon src="https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster_1776168361199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130927</date>
+    <series-id system="pluto">67371a40321c190013a008a0</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+    <category>Blockbusters</category>
+  </programme>
+  <programme start="20261022155227 +0000" stop="20261022171927 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>Una Familia Genial</title>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Max Smart es el más joven de una familia de inventores. Max siente se siente menos que su hermana mayor y sus padres. Los tres son inteligentes inventores que ganan premios mientras que él nunca ha conseguido ninguno ya que todos sus inventos salen mal.</desc>
+    <icon src="https://images.pluto.tv/episodes/5fe9b7304aa70a001a4fce36/poster_1769027824068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20170101</date>
+    <series-id system="pluto">5fe9b72f4aa70a001a4fce30</series-id>
+    <category>Movie</category>
+    <category>Science fiction</category>
+    <category>Adventure</category>
+  </programme>
+  <programme start="20261022171927 +0000" stop="20261022191311 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>Amor de ida y vuelta</title>
+    <episode-num system="original-air-date">20181107000000 +0000</episode-num>
+    <desc>Dos actores de fenómenos televisivos (Juego de Tronos y Sex Education) protagonizan este fantástico romance. Un joven (Asa Butterfield) inventa una máquina del tiempo para recuperar a su exnovia (Sophie Turner).</desc>
+    <icon src="https://images.pluto.tv/episodes/69fb6f5f4c1064447fbcb0ae/poster_1778085728331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20181107</date>
+    <series-id system="pluto">69fb6f5e4c1064447fbcb08f</series-id>
+    <category>Movie</category>
+    <category>Science fiction</category>
+  </programme>
+  <programme start="20261022191311 +0000" stop="20261022211422 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>Fahrenheit 451</title>
+    <episode-num system="original-air-date">19660101000000 +0000</episode-num>
+    <desc>En un futuro opresivo Guy Montag, un disciplinado bombero encargado de quemar los libros prohibidos por el gobierno, conoce a una revolucionaria maestra que se atreve a leer.</desc>
+    <icon src="https://images.pluto.tv/episodes/673b0a812678a50014db53ef/poster_1769190843637.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19660101</date>
+    <series-id system="pluto">673b0a802678a50014db53cf</series-id>
+    <category>Movie</category>
+    <category>Science fiction</category>
+  </programme>
+  <programme start="20261022150801 +0000" stop="20261022172914 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title>Fahrenheit 11/9</title>
+    <episode-num system="original-air-date">20180906000000 +0000</episode-num>
+    <desc>Michael Moore analiza la política estadounidense y el ascenso de Donald Trump al poder.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a0b3a544a77e2cd15d917fa/poster_1779120725587.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20180906</date>
+    <series-id system="pluto">6a0b3a534a77e2cd15d917da</series-id>
+    <category>Documentary</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261022172914 +0000" stop="20261022194358 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title>The Ghost Writer</title>
+    <episode-num system="original-air-date">20100218000000 +0000</episode-num>
+    <desc>El cineasta Roman Polanski aumenta el suspense en un thriller sobre un escritor (Ewan McGregor) que redacta las memorias de un ex primer ministro (Pierce Brosnan).</desc>
+    <icon src="https://images.pluto.tv/episodes/6735d3ffb7ea5e0013a6a2e2/poster_1781251202413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20100218</date>
+    <series-id system="pluto">6735d3fdb7ea5e0013a6a2c0</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme start="20261022194358 +0000" stop="20261022212256 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title>Gangster Nº 1</title>
+    <episode-num system="original-air-date">20000609000000 +0000</episode-num>
+    <desc>Un mafioso recuerda su ascenso en el Londres de los años sesenta. La ambición y la envidia lo llevan a traicionar a su mentor, Freddie Mays, para convertirse en el gánster más temido de la ciudad.</desc>
+    <icon src="https://images.pluto.tv/episodes/6aad0061291eac08d1d826e6/poster_1789722722205.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20000609</date>
+    <series-id system="pluto">6aad0060291eac08d1d826c3</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+    <category>Adventure</category>
+  </programme>
+  <programme start="20261022150658 +0000" stop="20261022172028 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title>La casa de la esperanza</title>
+    <episode-num system="original-air-date">20170324000000 +0000</episode-num>
+    <desc>La mujer del guardián del zoo cuenta la historia de los guardianes del zoo de Varsovia, Jan y Antonina Zabinski, que ayudaron a salvar a cientos de personas y animales durante la invasión nazi.</desc>
+    <icon src="https://images.pluto.tv/episodes/672dcaa24ad856001364e565/poster_1769190483091.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20170324</date>
+    <series-id system="pluto">672dcaa04ad856001364e544</series-id>
+    <category>Historical Drama</category>
+    <category>Movie</category>
+    <category>Drama</category>
+  </programme>
+  <programme start="20261022172028 +0000" stop="20261022190005 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title>Irrational Man</title>
+    <episode-num system="original-air-date">20150709000000 +0000</episode-num>
+    <desc>Escrita y dirigida por Woody Allen. Un atormentado profesor de Filosofía (Joaquin Phoenix) encuentra las ganas de vivir cuando comete un acto existencial junto a su amiga y alumna (Emma Stone).</desc>
+    <icon src="https://images.pluto.tv/episodes/67371fe7a7fde5001326babc/poster_1779180383436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20150709</date>
+    <series-id system="pluto">67371fe5a7fde5001326ba9b</series-id>
+    <category>Movie</category>
+    <category>Romantic comedy</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261022190005 +0000" stop="20261022210625 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title>Rush</title>
+    <episode-num system="original-air-date">20130927000000 +0000</episode-num>
+    <desc>James Hunt y Niki Lauda, dos pilotos de Fórmula 1 extremadamente hábiles, mantienen entre sí una intensa rivalidad. Sin embargo, es su enemistad lo que les lleva al límite.</desc>
+    <icon src="https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster_1776168361199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130927</date>
+    <series-id system="pluto">67371a40321c190013a008a0</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+    <category>Blockbusters</category>
+  </programme>
+  <programme start="20261022152655 +0000" stop="20261022170312 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title>Esposa desconocida</title>
+    <episode-num system="original-air-date">20120315000000 +0000</episode-num>
+    <desc>Los celos arruinan la vida amorosa de Georgia. El día de su boda, sus miedos regresan y todo se complica.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a688614323bf2ec8cad0fb3/poster_1785234965807.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20120315</date>
+    <series-id system="pluto">6a688613323bf2ec8cad0f93</series-id>
+    <category>Movie</category>
+    <category>B-Movie Horror</category>
+    <category>Horror</category>
+  </programme>
+  <programme start="20261022170312 +0000" stop="20261022185312 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title>Los Chicos de Scotsboro</title>
+    <episode-num system="original-air-date">20060101000000 +0000</episode-num>
+    <desc>asada en una historia real ocurrida en Alabama en 1931, cuando el abogado Samuel Leibowitz se hizo cargo de la defensa de nueve chicos negros que habían sido injustamente acusados y declarados culpables de violar a dos mujeres blancas.</desc>
+    <icon src="https://images.pluto.tv/episodes/62861eb7a6d56300130687b2/poster_1768609082810.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20060101</date>
+    <series-id system="pluto">62861eb6a6d56300130687ab</series-id>
+    <category>Movie</category>
+    <category>Drama</category>
+    <category>Crime</category>
+  </programme>
+  <programme start="20261022185312 +0000" stop="20261022205812 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title>El Lute: Camina o revienta</title>
+    <episode-num system="original-air-date">19870101000000 +0000</episode-num>
+    <desc>En 1960, una familia de quinquis recorre Extremadura. La vida tan dura que llevan causa la muerte de la madre. El hijo, Eleuterio Sánchez, roba unas gallinas y es condenado a seis meses de cárcel...</desc>
+    <icon src="https://images.pluto.tv/episodes/62a9e1e965c30400136adae4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19870101</date>
+    <series-id system="pluto">62a9e1e665c30400136adadd</series-id>
+    <category>Biographical Drama</category>
+    <category>Movie</category>
+    <category>Drama</category>
+  </programme>
+  <programme start="20261022151101 +0000" stop="20261022165901 +0000" channel="5f1ac8099c49f600076579b2">
+    <title>El reportero: la leyenda de Ron Burgundy</title>
+    <episode-num system="original-air-date">20040524000000 +0000</episode-num>
+    <desc>Enter the world of 1970’s TV news, where Ron Burgundy and his loyal Channel 4 News Team are San Diego’s #1 rated news source. All is well in their male-dominated world of news until rising star reporter Veronica Corningstone turns it upside down.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f6062e75e6bed001a9cb3f2/poster_1780318082079.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20040524</date>
+    <series-id system="pluto">5f6062e65e6bed001a9cb3ea</series-id>
+    <category>Movie</category>
+    <category>Romantic comedy</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261022165901 +0000" stop="20261022190901 +0000" channel="5f1ac8099c49f600076579b2">
+    <title>Los amos de la noticia</title>
+    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
+    <desc>The wait is over! Ron Burgundy is back! After losing his job, Ron reassembles the news team and squares off against a new rival in the comedy that critics are calling “one of the funniest movies of the year!”*Richard Roeper, CHICAGO SUN TIMES</desc>
+    <icon src="https://images.pluto.tv/episodes/5f5f3a3da93c29001ae12676/poster_1780317721620.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130101</date>
+    <series-id system="pluto">5f5f3a3ca93c29001ae1266e</series-id>
+    <category>Movie</category>
+    <category>Romantic comedy</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261022190901 +0000" stop="20261022205057 +0000" channel="5f1ac8099c49f600076579b2">
+    <title>Los líos de Gray</title>
+    <episode-num system="original-air-date">20061021000000 +0000</episode-num>
+    <desc>Gray y Sam (Heather Graham y Tom Cavanagh) son hermanos, pero tan compatibles e inseparables que la gente cree que son pareja.</desc>
+    <icon src="https://images.pluto.tv/episodes/6735dc77b7ea5e0013a6b8e6/poster_1768606204192.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20061021</date>
+    <series-id system="pluto">6735dc76b7ea5e0013a6b8c5</series-id>
+    <category>Movie</category>
+    <category>Romantic comedy</category>
+    <category>Romance</category>
+  </programme>
+  <programme start="20261022143348 +0000" stop="20261022160631 +0000" channel="655b5d865812e80008843bd1">
+    <title>Aprendiz de gigoló</title>
+    <episode-num system="original-air-date">20130831000000 +0000</episode-num>
+    <desc>Un hombre convence a su amigo para trabajar como gigoló, lo que provoca situaciones cómicas y complicadas.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a0b31e59db2f8937b420af3/poster_1779118566155.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130831</date>
+    <series-id system="pluto">6a0b31e49db2f8937b420ad4</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261022160631 +0000" stop="20261022180048 +0000" channel="655b5d865812e80008843bd1">
+    <title>La felicidad nunca viene sola</title>
+    <episode-num system="original-air-date">20120627000000 +0000</episode-num>
+    <desc>Un músico conoce a una mujer con una vida muy distinta y ambos se enamoran.</desc>
+    <icon src="https://images.pluto.tv/episodes/69ef3aa8598bd1d6b49aee5c/poster_1777285801867.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20120627</date>
+    <series-id system="pluto">69ef3aa8598bd1d6b49aee3d</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261022180048 +0000" stop="20261022194648 +0000" channel="655b5d865812e80008843bd1">
+    <title>Luna Nueva</title>
+    <episode-num system="original-air-date">19400101000000 +0000</episode-num>
+    <desc>Un editor de periódico intenta evitar por todos los medios que su exmujer, una experta reportera, se vuelva a casar.</desc>
+    <icon src="https://images.pluto.tv/episodes/6114cd6fdf179f0013199224/poster_1768605124257.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19400101</date>
+    <series-id system="pluto">6114cd6edf179f001319921e</series-id>
+    <category>Movie</category>
+    <category>Screwball</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261022194648 +0000" stop="20261022214105 +0000" channel="655b5d865812e80008843bd1">
+    <title>La felicidad nunca viene sola</title>
+    <episode-num system="original-air-date">20120627000000 +0000</episode-num>
+    <desc>Un músico conoce a una mujer con una vida muy distinta y ambos se enamoran.</desc>
+    <icon src="https://images.pluto.tv/episodes/69ef3aa8598bd1d6b49aee5c/poster_1777285801867.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20120627</date>
+    <series-id system="pluto">69ef3aa8598bd1d6b49aee3d</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261022141729 +0000" stop="20261022160029 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title>Recuerdos del corazón</title>
+    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
+    <desc>With her husband jailed for Wall Street fraud, Faith leaves her life of luxury behind to return to rural North Carolina and the father and sister she'd left behind.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4948b461f1b1001afec7ed/poster_1769034609642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130101</date>
+    <series-id system="pluto">5f4948b361f1b1001afec7e5</series-id>
+    <category>Movie</category>
+    <category>Drama</category>
+  </programme>
+  <programme start="20261022160029 +0000" stop="20261022174929 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title>A Second Chance</title>
+    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
+    <desc>Maddy Cornel (Emily Morris) es una niña de 12 años cuyo sueño es ser gimnasta profesional, pero su nivel de autoestima y su poca confianza en sí misma suponen una barrera para empezar a conquistar su sueño.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4e6faedb45a1001a793bd2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20120101</date>
+    <series-id system="pluto">5f4e6f96db45a1001a793bc9</series-id>
+    <category>Movie</category>
+    <category>Ages 0-2</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261022174929 +0000" stop="20261022192929 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title>Un hombre solitario</title>
+    <episode-num system="original-air-date">20090101000000 +0000</episode-num>
+    <desc>Un ejecutivo  intenta superar los tiempos difíciles y volver a centrarse en su carrera, después de años de excesos en los que el dinero y el sexo han marcado el inicio de una imparable decadencia personal y profesional.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f523c66db45a1001a79add1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20090101</date>
+    <series-id system="pluto">5f523c65db45a1001a79adc9</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261022192929 +0000" stop="20261022214623 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title>El velo pintado</title>
+    <episode-num system="original-air-date">20061213000000 +0000</episode-num>
+    <desc>Un médico británico lucha contra una epidemia de cólera en un pequeño pueblo chino, mientras está atrapado en un matrimonio sin amor con una mujer infiel.</desc>
+    <icon src="https://images.pluto.tv/episodes/6735c484b7ea5e0013a68055/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20061213</date>
+    <series-id system="pluto">6735c483b7ea5e0013a68033</series-id>
+    <category>Movie</category>
+    <category>Romance</category>
+  </programme>
 	<programme start="20261023082800 +0200" stop="20261023102700 +0200" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 9: Málaga CF - Real Sociedad</title>
     <sub-title>2026 | TP</sub-title>
