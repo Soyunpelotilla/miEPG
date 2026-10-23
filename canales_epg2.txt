@@ -2,10 +2,6 @@
 6a9a8fbd8cc64f2b2b40c83c,Rebelde,https://images.pluto.tv/channels/6a9a8fbd8cc64f2b2b40c83c/colorLogoPNG_1789113326784.png
 6a6a031b10c8f12ffc3adbb5,Series made in Spain de Pluto TV,https://images.pluto.tv/channels/6a6a031b10c8f12ffc3adbb5/colorLogoPNG_1790242819581.png
 6a9fc2af17c0d8c7a37697d0,Cenando con Pablo,https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/colorLogoPNG_1789464728847.png
-68adc3fdd8f7693ae347a63a,Los Gipsy Kings,https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/colorLogoPNG_1759420523581.png
-69c51060ed1b1f1acb5092dc,Alaska y Mario,https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/colorLogoPNG_1778483817519.png
-6578836cdfed030008ce5bdb,Sí quiero ese vestido,https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/colorLogoPNG.png
-686cd84603ad75cfd132d672,America's Next Top Model,https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png
 657868a7a620e30008fdbfeb,Embrujadas,https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1770028317031.png
 6578808014fbe400086e21bc,Medium,https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png
 612ce5214bb5790007ad3016,Pluto TV Paranormal,https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png
@@ -56,6 +52,10 @@
 68adc697116b783a33f99e6c,Pluto TV Impacto,https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png
 61b9edc4a4ca6100070bb407,Ice Pilots,https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png
 65bd0f53dc10a40008e68b96,Pluto TV Gasolina,https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/colorLogoPNG_1747382175081.png
+68adc3fdd8f7693ae347a63a,Los Gipsy Kings,https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/colorLogoPNG_1759420523581.png
+69c51060ed1b1f1acb5092dc,Alaska y Mario,https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/colorLogoPNG_1778483817519.png
+6578836cdfed030008ce5bdb,Sí quiero ese vestido,https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/colorLogoPNG.png
+686cd84603ad75cfd132d672,America's Next Top Model,https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png
 68d566603d3a9580eb461251,Paramount Network de Pluto TV,https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png
 5f1ac2591dd8880007bb7d6d,Pluto TV Cine Acción,https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png
 6385e82900ab2e000768a058,Pluto TV Western,https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png
@@ -134,8 +134,8 @@
 65f96cd34e01740008ef1c97,Realmadrid TV,https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png
 6793ac47f5c74bff95d18a99,TOP BARÇA,https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/colorLogoPNG.png
 660c29f80cd4630008f1547c,FIFA+,https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png
-6a43c8e19d516ba88f728627,Tennis Channel,https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/colorLogoPNG_1782827298629.png
 67921b873de7c8cf94233f52,UFC,https://images.pluto.tv/channels/67921b873de7c8cf94233f52/colorLogoPNG.png
+6a43c8e19d516ba88f728627,Tennis Channel,https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/colorLogoPNG_1782827298629.png
 696e02423b9ce349c90edef9,Rally TV,https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png
 6a6a02ae3ee9d966427e62c4,NFL Channel,https://images.pluto.tv/channels/6a6a02ae3ee9d966427e62c4/colorLogoPNG_1785333367393.png
 69148c470155f9b136b5d856,Pluto TV Snooker 900,https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png
