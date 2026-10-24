@@ -1,4 +1,21 @@
 # Fuente: https://iptv-epg.org/files/epg-us.xml.gz
+EasternIllinoisPanthers.ncaaf,NCAAF - Eastern Illinois Panthers,
+The Graham Norton Show,The Graham Norton Show,
+GetFactual.us,US - Get.Factual,https://iptv-epg.org/images/fFFYdd6a_wYyGzyPiGRCLu-6WSalTvxgDkZHvNQ9qeS4enqKbelywHzOFgY73s8JHdRagt7jrZiPoY-Wb5DjlcL0RJwAM4N8JBLBdNYBlTo
+GravitasMovies_Plex.us,US - Gravitas Movies [Plex],https://iptv-epg.org/images/I9TG56MnMVgJpzn8MFRN_XVxUNR6b1EtNDz4cDRfj0QrrVfS1IAnJMNRKL-AHOz0VNgBWNWRCCtM43OkQwHLGCaXA-WSkNFxhEWGdGIl3bG1h_fMPQ-5OFA
+MotoGPChannel.us,US - MotoGP Channel,https://iptv-epg.org/images/nwD0tFUWZnUDET0IECa8xBb9uq0FeHHP-gKpI7TTtT_7cPlTi3txPyljQjpHt1KHZhWiAXSdM97ZggAWUSjWfntskJVZsXDMs3ZyGvskUrt3bjg
+MSGAlt-1.us,US - MSG Alt-1,https://iptv-epg.org/images/e2Zp1Vz7MWKnrNxwcfhxKudKBjKBy0B8BtWwWRx-RGZd3Z_X4M5W00vj3uBKWKTYDkBmmvRHJiYZQhRda6GsfVfg7y1hkecLjpSGWNN-
+MSGAlt-2.us,US - MSG Alt-2,https://iptv-epg.org/images/aeI6Nhf0aoy3AhmBNlH_Wz-dO1_elFdLcnUtSClMu5xxtjUN-A3EEXhJy-qi1ULJ5DXcNu3qQ46iQM9ZbEW2Pcp2y0vk7yJysfZdYKoO
+MSGAlt-3.us,US - MSG Alt-3,https://iptv-epg.org/images/k73AEzC0okgmz2N03H2hVktnvlirW-g0AQfPV3UZJG7kN9q6mxV6mVFEhlUex8GtbAEqDUpF0PWW7IIT-sKrskgQhPQyzEIBUSgIRmV1
+OlympicsTV.us,US - Olympics TV,
+OutflixMovies.us,US - Outflix Movies,https://iptv-epg.org/images/OgoD_kE-jQ77B9drIG_XrVygBozMAq2cJR2OP4XzHgKu4hCH2Mi_5IA8M8U7pbWtP-kwWBAg2MjWktMSyPhu5uW-3Q8fTvbtx8uozEgNRCj1oJw
+OxygenTrueCrimeArchives.us,US - Oxygen True Crime Archives,https://iptv-epg.org/images/IOvQNtV-6VUAnXeb6FAoe-kG4cTHmA-VtqgSvFE81BKu5d7TYwXffHksM2WgbTlFPaarXYrTXe_Tykx67FKqn6hZiIp3YQdy7IlUhz--tb43V6i2fEMfNYk_9Nw9
+PBSRetro.us,US - PBS Retro,https://iptv-epg.org/images/BYUd989PtXuxydVdti324maNpL4DOmOBhoA3uZUXRcIrH8O5PE3D2dT-kzFpTnQBI5SGWa6lJQul3vghEdiPOG0Wu4hwRwcC4bhAnjwo
+SPEEDSPORT1.us,US - SPEED SPORT 1,https://iptv-epg.org/images/8JE7ua62ukm2o3wVMP46nRGPofVWMohFHvy6TFtDPPotM-hafGKDLoBPWscBMCiQsX7dXw7kr_hKQKWJlKigdLu6k9BdOO-3LuSn2g-c-Q-4
+TheAddamsFamily.us,US - The Addams Family,https://iptv-epg.org/images/lOO7xuWCzlkCOobpPGKqrbGOxFtcZCAJb_b5Z-2MZ1KUpbJZyAA7-kSCdzvJn9t70fz0vnGoxZTcY2nl03zNM70bZENHbc35Pha4KeBzmLd8AUtgNA
+ThePriceIsRight.us,US - The Price is Right,https://iptv-epg.org/images/1DFwNHo1YYNv1WwCT6H2c7uweFrmu7jMUj2SX9ghsP7gBV6w0wilW1fsJ0sLCT5nQBZLfGyfCX3aQ_VFL8KRRYSRYJFXoLSKvKZNQgTYain0TTxjIQ
+ThisOldHouseMakersChannel.us,US - This Old House Makers Channel,https://iptv-epg.org/images/sK7TGs5fGXhn9AOhCNxuIOWDj004KFEdmuuG1XeZ-F3S2OEx89_O41WnFQi8pCEL8gxPyTJTvlaR7_F6PvHC75CeyrPsH1B0YFPIlUX7BVqoVcPEnZvbCDkYUb2qryU
+WION.us,US - WION,https://iptv-epg.org/images/FHOhFND-PHzHBNBO5uuaVMgaFNaeZ1j-Vk7uO7qb0WPqew-0JfR_T8j_Blu78TiRoBKslb5G64KhR2hHehUke_pLsxUUVu7rozI
 AbbotsfordCanucks.ahl,AHL - Abbotsford Canucks,https://iptv-epg.org/images/z9_Di9RvsgiivDXN-o28Oi3qTF5l0tNnG12ML1bJB6OHGx0L3uRa9-6Yn0pup73unTzYzkFQORV_zDD1SItJtJ2M2G5XlOVTguUCF5XdBuj-pa4dIqEEeg
 BakersfieldCondors.ahl,AHL - Bakersfield Condors,https://iptv-epg.org/images/jeQWnZp9eo9eYTccApwmAVuZ98N9UPfMD2rDcld-YX0-u6EscyTJeB8oCNRwfSi-p3tPDDMhAXZgPckfq5neAS9IFq8ww1Ye_1iaCeJ0PdhSbJHxMScDhoM
 BellevilleSenators.ahl,AHL - Belleville Senators,https://iptv-epg.org/images/lkx9_VcJKW7x4PLY_lUHtGh1NbtBu8sEFw5v58YR0s7pbw12sl2J_l7z-CZKyCsdz2ePb3owb28-lt1L7FiiDkVBUvA7VIkibIFmR2qIdQS1eD9I_h9qBr8
@@ -5230,7 +5247,6 @@ LasVegasRaiders.sxm,SXM - Las Vegas Raiders,https://iptv-epg.org/images/IETx3ocu
 Latidos.sxm,SXM - Latidos,https://iptv-epg.org/images/KWChjziUD6xQ4YKxO5i1LC9-LQ4-1hUY3_vhCUCkRQPfp6yJOF_e3Z3AiGzXMe6ELF0ewx0DOldoUG-u0zv0h5yO2Y2eZdjpGnWzdnXw
 LatinVault.sxm,SXM - Latin Vault,https://iptv-epg.org/images/O9Hqa0sC2pH58r3Dv7sDuhNk3aWZX4-gQ5mBTZps7Ro2XIorfqOY0yk7fgJ0qYlHE2RX_APu10JFyqX-z7c9QKO4WNPCRTVCzUm_ys5EJNys
 LatinasinMusic.sxm,SXM - Latinas in Music,https://iptv-epg.org/images/w4HeJHvqu1jTb0Ww0M1sRWbnL2WYq3dgD2POYAQX3poWBa1MOtMwAV4i4AcnmuQZO8QmXczuZjQq4x6I7sFRUXDVWnwkIuXAcUUEnaY87Fg9oNJe5w
-LawAndCrime.sxm,SXM - Law&amp;Crime,https://iptv-epg.org/images/Pxd-D02LiAM5TTKOIppGzjTfPZu14QfR46BGFzifBnLa5V73qa74cwC3jmzDfrptLU2TpH2qNi0rnBIZgcaytiE5v8783FvRKAlBYfvs8fxJ8A
 LesTubes8090.sxm,SXM - Les Tubes 80-90,https://iptv-epg.org/images/mXj4zLpgL_e3UZ1sCGOVKpNI7ak4Sxbp4xvEP0z7_-diWGtCh7FPXMu3HaT1US7e16YYNc0rXWBNsOBYwiEmBDgBrHDhqTsefWbK-Nc3L-LqykE
 LesTubesFranco.sxm,SXM - Les Tubes Franco,https://iptv-epg.org/images/IICq97_qMf0G4tOkmLOGihbARi240OKZAl4_9HNBh9R0_jqjWW8_N59szt21vXUpNRw4gGSNKPq8rYt8fOnqGZKM3NnAIpWiONgt4j0X70R9DmvX8A
 LevelUp.sxm,SXM - LevelUp,https://iptv-epg.org/images/cvCsKL-hjszvaFjup900Xg7371ac_1r2PCZFALLeVzyS15CcA6W8sffnnZTLP8XOSrZ_f332Zb2UXMIPArF9CpNljgAfWEWqkh_tyEC2
@@ -5486,7 +5502,6 @@ SiriusXMPatriot.sxm,SXM - SiriusXM Patriot,https://iptv-epg.org/images/ZxZbU6wl7
 SiriusXMPGATOURRadio.sxm,SXM - SiriusXM PGA TOUR Radio,https://iptv-epg.org/images/ijabbNESiqBGrjS56h74bhTNKgSaMA7dItc3shW-RR6WLLNKG8FHOQWzSc03Ids5vu6J8s4NT23j8FWd2PkoaMrycMWgjMhDkM0Uwt5Wxf_o2WNEyTM3tSqCyw
 SiriusXMPops.sxm,SXM - SiriusXM Pops,https://iptv-epg.org/images/xDeoc_lWq4-pHFzl_4BGFPQbFejbrnRKyWZGJOCnVhdmqnrtRmJ_mzBtFsa2qkguqbn1rpK5DJSNDLOM4gFTttQMX8Oq1JIXiEFJuclZLLINnxc
 SiriusXMProgress.sxm,SXM - SiriusXM Progress,https://iptv-epg.org/images/JAvelObQJmiTVgzZKMqPDZapsB_SCAV6QRmFgKCC8tgUeB7Tbr6Yg_RnGgmAYOIS8v-CIMgQCiFJvm8N8g9f_cdwQWBJlIyMCBQqMBNRlgiKRbTpsZaa
-SiriusXMScoreboard.sxm,SXM - SiriusXM Scoreboard,https://iptv-epg.org/images/4bPPsBuWJ1_hue0h0Xs1zmulCpVd58UAvo-hnrj9dW2pQ_sm9MiX3dcFdLyCKlTReQlZwRECPuydWtm6WBAyP-k99EbV0N-bdAj0tLzpHFfsAhbw8x7jdvM
 SiriusXMSECRadio.sxm,SXM - SiriusXM SEC Radio,https://iptv-epg.org/images/8ZuDlqh8d4jd9vjcpMPqOj_5N-3Sa6lKWX-Hi4OZY6URuJpL--dASn11HkWMr1PChrpK5ubbaNy0jpgmKnS82f14L8mEyqCqCIpi4bDCnheoGP8yzPs8
 SiriusXMSilk330.sxm,SXM - SiriusXM Silk 330,https://iptv-epg.org/images/EWiNhP3SrvTtrKOatGvpqDkl3pd74ubg64FZlhUzsuTlJo54iTQ-G-B6qvqtdCKMSWs-XpIV1PiQ9nSjWGlpeVjGgnRfTXzoHmzHFaWyAZcGvGVwt4U
 SiriusXMSouthernRock.sxm,SXM - SiriusXM Southern Rock,https://iptv-epg.org/images/ZKhmUxEruyzu0HKch9XSy_PzKoZlEt03cvNIYt6cWrGdm1ASEmPx9j2rVQ8_QdsU_gRoiU6AgVTPx-1PIswDLnT9xvGE2yFbKpFpYt3jQgky91EfJH_F0Zq8IA
@@ -11043,6 +11058,31 @@ PortlandFire.wnba,WNBA - Portland Fire,https://iptv-epg.org/images/JNHIJBH1_L2MB
 SeattleStorm.wnba,WNBA - Seattle Storm,https://iptv-epg.org/images/IRxpaS16fo971p_DoMnwvMXdHHlMP3bL16uXDzkWMSvs7JXLShMcB3kK_UzHHZFq6yg4Deinmn7eU2_0b9pFc_FiE6qNUTIgORKLYN0BUySYMnvh
 TorontoTempo.wnba,WNBA - Toronto Tempo,https://iptv-epg.org/images/UzDojyWgBiRWUWBNsYMwluzximneDlJ2btDuQB7l6wTgbHGkbyF1yncJ45dVXt-gu3ukr_3c7QPYL_aAI25bR_htFwCI0toAaEft6aiQT8ND1HP7
 WashingtonMystics.wnba,WNBA - Washington Mystics,https://iptv-epg.org/images/lK-5gAzhBIeHXNg5LPYHswWcKyMTEi3LoPPpexACoukx5b0rDGdqVIS91W1Ovl1LkvAqtXuCOBFdUjWYGVNq2OlidxYtykvAPnYnxKljOiNAHFsG9dBosVU
+CBSKBZK.us,US - CBS KBZK Butte MT,https://iptv-epg.org/images/848qwtXar_crt8aIk8trGdfNBmTwwHm2ha-27hIXu4aIzUhQEogwFw1XjZgK6oUCzeWNni_er6dMGaFGjPM7CsIlN8F7CwhvtAnzLTk
+CBSKMCYDT2.us,US - CBS KMCY-DT2 Minot ND,
+CWKELODT4.us,US - CW KELO-DT4 Sioux Falls SD,https://iptv-epg.org/images/WCKXWi_SJH1AUfSbGLyMR_rZ32R9xivvl0-3X5LNS8HMB4yKVz1oZ8OctkIKkVwUhlif6ZI_S_sL0CqBCvz2ikCxdEBHjhJ4ZNRgrszicg
+CWKGBT.us,US - CW KGBT McAllen Harlingen Brownsville Weslaco TX,https://iptv-epg.org/images/iv31QgrQbshbATCThFcUy8Pz1Vm6FpDc1Ql0KVkMy70wWU-J9JxHAzwZeC3H60sD79t2Wn50VQ7MC4KOYMjxXkVYjFLqkty6MFX1mA
+CWKQCW_DTVFeed.us,US - CW KQCW Tulsa OK (DTV Feed),https://iptv-epg.org/images/Qddu8ScLHtiKBIhotig8hUb4V-G2F77khnmSCO8l8zN0YkpQkUSMkFJVS_YmFaSSeTouX4WfyDEB986_9cRuQzvyqcaWhNvL4uy4Q9OeR1bro1gM
+CWKQCW_OTAFeed.us,US - CW KQCW Tulsa OK (OTA Feed),https://iptv-epg.org/images/bXD0JAfc0Po50orvzhBwI33cTuwdDOqZUH48gN27G3J6-4Vx5WZ_47qXpeaIrKUBg83Y5e6gy5B5C-n2F_C8tMAxGKNy3cKCNBNhN3vOp1tRcclw
+CWKTXSDT2.us,US - CW KTXS-DT2 Abilene TX,https://iptv-epg.org/images/WZU28rBt7UtJlsKPjSlocURNYY_MIXumKIZPI6dgv1IMQxkaiS2z9u42UJdvnLnJMxkWTiNAoyRjuQl-wzDNTqlS4HkbiQG4xcgW1GAe0g
+CWWCJBDT2.us,US - CW WCJB-DT2 Gainesville FL,https://iptv-epg.org/images/N5xB9UMWtmjl9w6d8AbehyeSdbB2uXkcTCkXaWraHupQ2a8GGhS29ZlzulR05ZXGh1gfQifxG76nmLVk57c6Gqq5GcJb-6DChRJxuxp35g
+CWWECX.us,US - CW WECX Eau Claire WI,https://iptv-epg.org/images/_PClP9uEbsADC7jwLRMCfLsiAeKDos5h8JrLDB4c8Q06NOrHUekOB7L6nSygiuyWIcXieFG_ozLT40K3UWvMBj6B3egesJ2TOvO5vw
+CWWNACDT2.us,US - CW WNAC-DT2 Providence RI,https://iptv-epg.org/images/X4z9BhbRFqyc8ZPPgFYI02It8z4TTqSwx9NXYwdFo5qVPofBY0gHQBRoIwBVk4ChVtxUmapBKJDkKBEsjTvPkedLQBXDjC-654z3vWBvTw
+CWWSAWDT4.us,US - CW WSAW-DT4 Wausau WI,https://iptv-epg.org/images/6H1gapDK8503JqPT3--_IBoY98NSeN5NAjvCuuJKENkIraD_Ma_he8Y_Ky0NiOplYWrAUgNXnGpklsvLh2DR-r0A2lOqdTkNGdF7nvo6Iw
+CWWVFXDT2.us,US - CW WVFX-DT2 Clarksburg WV,https://iptv-epg.org/images/0wU6OgThcUhtw3Sk2ulse0YeShNefgOdrgubTZmkEFhZdvt7hGJGfaxNZ_7HKq68TvQq2pYGVmrMGVlu5Clm-qBK6nqYPBPwtXs9L6nxmQ
+CWWVIRDT3.us,US - CW WVIR-DT3 Charlottesville VA,https://iptv-epg.org/images/86_ezh-Z90PtlvenfY-jex1xmgWr7tb2MINZO1NklS7spV-1-rQO8VBUvCaZmZjpE2DI7nVMyHvVRQnckoWWFSbcH8XZQy5DUxpf_fkCRg
+CWWVVADT2.us,US - CW WVVA-DT2 Bluefield WV,https://iptv-epg.org/images/Ic_dKWZ2uDoqFftit3HJws8gEYXVJQT-yE9AjdRW25U78WkXuK5649XhyVXLGvlC_edmdvQLIhg1-qgL1LpjaOXgm1IislpQ6T85HUGrCQ
+FOXKYOU.us,US - FOX KYOU Ottumwa IA,https://iptv-epg.org/images/ZI7XddTmkaJG1faelbFE6EYgeKk25P-weIsQD41fZLM55XCr58uFNyvh9IiHpgQKI45i_SSBrXdYV23nK7Rx0vtErNABWouu_oinbZY
+MeToonsKPRCDT5.us,US - MeToons KPRC-DT5,
+MyNetKGBTDT2.us,US - MyNet-DT2 KGBT McAllen Harlingen Brownsville Weslaco TX,https://iptv-epg.org/images/sM0vKa_-hnCxuTQWPGjzKujgRQYuaLToh4bNXVbWiG_Wtavzdjs0K4oUyHwJQFjyMPeij_gK0MJkHIpDSzqALKWMg7FlPszyMaTpsXe4KgfPIg
+MyNetKSBI_DTVFeed.us,US - MyNetwork KSBI Oklahoma City OK (DTV Feed),https://iptv-epg.org/images/NCw9ig2qhmHmyuKoaZAJCP9gxIHx7DvfgOBUi_iegQFxQY3xK4ZgmV3hMau1bPAwIGpAam6iPYnQeAKlNZ_6okEPogJ8Xsc5AI5vgOzjeHkatcM5wqg2
+MyNetKSBI_OTAFeed.us,US - MyNetwork KSBI Oklahoma City OK (OTA Feed),https://iptv-epg.org/images/XpT1fn-ptiFY4iV-Yk3RpC3mKoI9zYtZGL8R_ZY7RhdhFOg8xVKr9BMTLAqZRR2VcoM7NdXR5i51Li44-wFH0HVxktSSOa2FP4sbZ8DNRVM3z4Z9Al05
+OxygenTrueCrimeKTMDDT5.us,US - Oxygen True Crime KTMD-DT5 HOUSTON TX,
+PBSKETA.us,US - PBS KETA Oklahoma City OK,https://iptv-epg.org/images/om4zEaxSrcNXR2rCcRvdWsZE-hBl5mRptMxXVv5BlB381_ODYoAelBD_YRiTYULOeHGi8AzYDLK_gewLlI1fYdgExAC13VaHnlNprFI
+PBSWHRM.us,US - PBS WHRM Wausau WI,https://iptv-epg.org/images/3RK9pOiiaxR_EFQ2ZMFsEQDw2Y_zl5t53Wf4ahVdJmN_ulg7bksRZJxW4pn1TIZEx0FdM7RziJTnFZBA6x8I_E3BAGBjWWAlguwas6c
+PBSWMAH.us,US - PBS WMAH Biloxi Gulfport MS,https://iptv-epg.org/images/8_MwgH00nUOHX1N32j9yzgFJdcQN9CC2-cH3j5Sm28x3bgGYZWeFBDfGuwEeizKKQKAb__OwD9urp6Y5MsiSjMT7zMVd6wHLiGS_Vn4
+TheSpotKASW.us,US - The Spot KASW Phoenix AZ,https://iptv-epg.org/images/KKXShuQQF-pycWC8oEYt1wMpWgvNyYprXIHTglqYdoG7qIDrp5KIGd44w4nBp77R4VQclOA40Jzd2YH2yw4NrTLsQUkrVtgIHXEXfYzCySCo
+TheSpotWXPX.us,US - The Spot WXPX Tampa FL,https://iptv-epg.org/images/wwVVBO3qeO44U7nK021hrqtNr9s7wh-UYmNj7E2YMVD709qatUCkGNwdY3Y5rv-toBeb_7ROEAEO5UnPTYHHttyml4iUNMgzCLV7KfH16042
 14KJZZ.us,US - 14 KJZZ Salt Lake City UT,https://iptv-epg.org/images/NS9QOCHHxaHgnPO9cS18w3UQfAk-ajkyoE3hqb6JO0rtMCPYTVguEhWMGGh8j9Tn7bGc34XjMeoAbM30OrknEVJAyTC9ife7TQz6LA
 23NewsWVUA.us,US - 23News WVUA Tuscaloosa Birmingham AL,https://iptv-epg.org/images/KmlCEJhyh9h4M0-F91vvvT99tUgrm2xcHi7f-YUzlbuc-TV4GxBeqhWtGFbDnqZveS9J2syuMirHhFuzxAOPfCyo5IDO0Cf30RQoYPVPs-8
 365BlkKGMBDT3.us,US - 365BLK KGMB-DT3 Honolulu HI,https://iptv-epg.org/images/e4U1KJubx7oE6nQuPRqZK4U-8Z5X5XlMqrISQXtiAT0UqnNs8jZ2gB0o_-VPIdM8nvK84o0T95ZwpTLkLODiqpCNqiRIIQO2pBPD5wXcdTIa5-I
