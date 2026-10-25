@@ -91006,16 +91006,6 @@
 			<value>7.2/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261025183956 +0000" stop="20261025205619 +0000" channel="Sony One Hits Comedia">
-    <title>El Patrullero 777</title>
-    <desc>Cantinflas es un agente de policía que debe mantener el orden en la ciudad, pero la diversión está asegurada cuando las cosas empiezan a desmadrarse.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1255923713_0_20251014T032949031Z_126_imageprocessorclient-tvplus-linear-5db7c6bc99-qhr8k.png"/>
-  </programme>
-  <programme start="20261025205619 +0000" stop="20261025230758 +0000" channel="Sony One Hits Comedia">
-    <title>Entrega Inmediata</title>
-    <desc>Mientras trabaja de cartero, una preciosa chica rubia se acerca a Cantinflas y le pide que entregue una carta muy importante en la planta nuclear de la ciudad. Cantinflas está encantado de ser de ayuda, pero no sabe que la chica es una espía y que la carta contiene secretos nucleares codificados.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1255873999_0_20251014T032943924Z_26_imageprocessorclient-tvplus-linear-5db7c6bc99-qhr8k.jpeg"/>
-  </programme>
   <programme start="20261025230758 +0000" stop="20261026011809 +0000" channel="Sony One Hits Comedia">
     <title>Locos De Remate</title>
     <desc>Richard Pryor y Gene Wilder protagonizan en una desopilante comedia sobre dos convictos que intentan por todos los medios de escapar de la cárcel.</desc>
@@ -91032,13 +91022,18 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261025191517 +0000" stop="20261025211803 +0000" channel="Sony One Hits Acción">
-    <title>Monster Hunter</title>
-    <desc>Un pelotón militar es transportado a un mundo hostil donde debe luchar contra monstruos colosales para sobrevivir.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2278664410_0_20261012T194714846Z_121_imageprocessorclient-tvplus-linear-b5879c6c6-lfwpc.jpeg"/>
+  <programme start="20261026031216 +0000" stop="20261026051726 +0000" channel="Sony One Hits Comedia">
+    <title>El Pelotón Chiflado</title>
+    <desc>Cuando John Winger pierde su apartamento, su novia y su trabajo en un mismo día, hace lo que cualquier americano que se precie: se alista en el ejército y casi provoca la 3ª Guerra Mundial.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_905545931_0_20250521T121856994Z_112_imageprocessorclient-tvplus-linear-6fb5b47f79-m7gkj.jpeg"/>
     <rating>
       <value>12</value>
     </rating>
+  </programme>
+  <programme start="20261026051726 +0000" stop="20261026072037 +0000" channel="Sony One Hits Comedia">
+    <title>Una Madre Imperfecta</title>
+    <desc>La cinta nos cuenta la historia de Marnie (Susan Sarandon), una viuda no acostumbrada a su nueva situación emocional que decide recoger sus cosas y trasladarse a Hollywood con el objetivo de estar más cerca de su hija. No obstante, y sin quererlo, comienza a interferir en la vida de ésta, Lori (Rose Byrne). Es entonces cuando se ve obligada a empezar de nuevo desde el principio en un lugar desconocido encontrando por el camino nuevos amigos, nuevas experiencias y nuevas personas que la necesitan.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1293997429_2_20251031T214703090Z_96_imageprocessorclient-tvplus-linear-5db7c6bc99-zslbq.jpeg"/>
   </programme>
   <programme start="20261025211803 +0000" stop="20261026001908 +0000" channel="Sony One Hits Acción">
     <title>Once Upon A Time In Hollywood</title>
@@ -91052,6 +91047,19 @@
     <title>Rescate Al Amanecer</title>
     <desc>En 1965, un piloto germano-estadounidense que participaba en una misión de bombardeo de alto secreto fue derribado sobre Laos y llevado a un infernal campo de prisioneros en lo más profundo de la impenetrable selva de Vietnam</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1084627301_2_20250726T063544957Z_80_imageprocessorclient-tvplus-linear-5db7c6bc99-vgnfm.png"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261026024325 +0000" stop="20261026050702 +0000" channel="Sony One Hits Acción">
+    <title>Abismo</title>
+    <desc>Gail Berke y David Sanders están pasando unas idílicas vacaciones en las Bermudas. Mientras practican submarinismo, de repente, se topan con los restos del naufragio de un buque de carga de la segunda Guerra Mundial, en cuyo interior hallan miles de ampollas de morfina. Este descubrimiento los lleva a ponerse en contacto con un traficante haitiano y un buscador de tesoros</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1084652084_0_20250726T063536405Z_83_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.png"/>
+  </programme>
+  <programme start="20261026050702 +0000" stop="20261026070252 +0000" channel="Sony One Hits Acción">
+    <title>Soy Espia</title>
+    <desc>La superestrella Eddie Murphy (The Nutty Professor) se une a Owen Wilson (Zoolander, Behind Enemy Lines) en un emocionante viaje cargado de acción. Famke Janssen (X-Men, GoldenEye) también aparece como una agente secreta supersexy. Un poderoso avión espía experimental es robado por un malvado traficante de armas y está a punto de ser vendido a un grupo terrorista internacional. El gobierno de los Estados Unidos prepara a un boxeador egocéntrico (Murphy) para que se una al sofisticado agente especial (Wilson) en una peligrosa misión secreta para recuperar el avión. Armado con los últimos artilugios tecnológicos y mucho carácter, esta extraña pareja podría ser capaz de salvar el mundo, si se pudiesen llevar bien.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1711402649_0_20260320T041406723Z_109_imageprocessorclient-tvplus-linear-74d4c47476-6hqjg.png"/>
     <rating>
       <value>12</value>
     </rating>
@@ -114783,27 +114791,6 @@
     <desc>(Cine,Familiar,Animación,Infantil) Sam es un niño muy tímido que le tiene miedo a todo, desde las sombras de su cuarto al perro de su vecino, pero un día conoce a Bernard, un oso polar que no le tiene miedo a nada y lo lleva a una aventura que le hace perder el miedo que tenía.</desc>
     <category>Cine, Familiar, Animación, Infantil</category>
 	</programme>
-  <programme start="20261025173530 +0000" stop="20261025193148 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title>El mensajero</title>
-    <episode-num system="original-air-date">20130130000000 +0000</episode-num>
-    <desc>Un padre recibe un duro golpe cuando condenan a su hijo adolescente a a una pena de treinta años de cárcel por un delito relacionado con el narcotráfico. Para conseguir que reduzcan su condena intenta ponerse en contacto con un importante traficante.</desc>
-    <icon src="https://images.pluto.tv/episodes/68e8c139f1f80c81516ed073/poster_1760087178644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20130130</date>
-    <series-id system="pluto">68e8c138f1f80c81516ed054</series-id>
-    <category>Action</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261025193148 +0000" stop="20261025211420 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title>Brotherhood</title>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>El hermano de un hombre que ha fingido su muerte y robado un monton de dinero de una banda, trata de descubrir la verdad y encontrar a su asesino.</desc>
-    <icon src="https://images.pluto.tv/episodes/66a7503a9322c00013eb2455/poster_1769189402410.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20220101</date>
-    <series-id system="pluto">66a750389322c00013eb2436</series-id>
-    <category>Action</category>
-    <category>Foreign Action &amp; Adventure</category>
-    <category>Movie</category>
-  </programme>
   <programme start="20261025211420 +0000" stop="20261025225318 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>Gangster Nº 1</title>
     <episode-num system="original-air-date">20000609000000 +0000</episode-num>
@@ -114822,8 +114809,8 @@
     <icon src="https://images.pluto.tv/episodes/66a74c0a57d82b0013027fe7/poster_1769189044013.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20210101</date>
     <series-id system="pluto">66a74c0957d82b0013027fc8</series-id>
-    <category>Action</category>
     <category>Foreign Action &amp; Adventure</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
   <programme start="20261026002439 +0000" stop="20261026032706 +0000" channel="5f1ac2591dd8880007bb7d6d">
@@ -114857,9 +114844,9 @@
     <date>20130208</date>
     <series-id system="pluto">6a281f3b7918fece01133712</series-id>
     <sub-title>Primera parte</sub-title>
+    <category>Series</category>
     <category>Adventure</category>
     <category>Action</category>
-    <category>Series</category>
   </programme>
   <programme start="20261026070729 +0000" stop="20261026084410 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>CAT. 8</title>
@@ -114871,9 +114858,9 @@
     <date>20130209</date>
     <series-id system="pluto">6a281f3b7918fece01133712</series-id>
     <sub-title>Segunda parte</sub-title>
+    <category>Series</category>
     <category>Adventure</category>
     <category>Action</category>
-    <category>Series</category>
   </programme>
   <programme start="20261026084410 +0000" stop="20261026101330 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>Monter's Battlefield</title>
@@ -114882,8 +114869,8 @@
     <icon src="https://images.pluto.tv/episodes/66a754722fca060013122bd5/poster_1769189762316.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20230101</date>
     <series-id system="pluto">66a754702fca060013122bb6</series-id>
-    <category>Action</category>
     <category>Foreign Action &amp; Adventure</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
   <programme start="20261026101330 +0000" stop="20261026115602 +0000" channel="5f1ac2591dd8880007bb7d6d">
@@ -114893,30 +114880,18 @@
     <icon src="https://images.pluto.tv/episodes/66a7503a9322c00013eb2455/poster_1769189402410.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20220101</date>
     <series-id system="pluto">66a750389322c00013eb2436</series-id>
-    <category>Action</category>
     <category>Foreign Action &amp; Adventure</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
-  <programme start="20261025182124 +0000" stop="20261025195630 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title>Código fuente</title>
-    <episode-num system="original-air-date">20110420000000 +0000</episode-num>
-    <desc>Jake Gyllenhaal protagoniza este thriller de acción sobre un hombre que despierta en el cuerpo de otro hombre para descubrir que solo él tiene la capacidad de detener un ataque terrorista en un tren de cercanías.</desc>
-    <icon src="https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster_1776175563370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20110420</date>
-    <series-id system="pluto">672dcc122678a50014518e37</series-id>
+  <programme start="20261026115602 +0000" stop="20261026145834 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>Las crónicas de la Grulla Blanca</title>
+    <episode-num system="original-air-date">20080229000000 +0000</episode-num>
+    <desc>Para vengar un asesinato, un monje debe cruzar la línea entre la verdadera justicia y la venganza a sangre fría.</desc>
+    <icon src="https://images.pluto.tv/episodes/654a299225fde2001af578d5/poster_1782271817783.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20080229</date>
+    <series-id system="pluto">654a299025fde2001af578b6</series-id>
     <category>Action</category>
-    <category>Science fiction</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261025195630 +0000" stop="20261025215432 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title>El juego de Ender</title>
-    <episode-num system="original-air-date">20131024000000 +0000</episode-num>
-    <desc>Harrison Ford, Asa Butterfield, Hailee Steinfeld, Ben Kingsley, Viola Davis y Abigail Breslin protagonizan esta aventura de ciencia ficción repleta de acción basada en la novela superventas.</desc>
-    <icon src="https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster_1777997882339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20131024</date>
-    <series-id system="pluto">67516488a7fde50013705b8d</series-id>
-    <category>Action</category>
-    <category>Science fiction</category>
     <category>Movie</category>
   </programme>
   <programme start="20261025215432 +0000" stop="20261026003132 +0000" channel="5f6a38eaa5b68b0007a00e7a">
@@ -114927,8 +114902,8 @@
     <date>19850220</date>
     <series-id system="pluto">6076b661235736001ac442bb</series-id>
     <category>Science fiction</category>
-    <category>Classic Sci-Fi &amp; Fantasy</category>
     <category>Movie</category>
+    <category>Classic Sci-Fi &amp; Fantasy</category>
   </programme>
   <programme start="20261026003132 +0000" stop="20261026022516 +0000" channel="5f6a38eaa5b68b0007a00e7a">
     <title>Amor de ida y vuelta</title>
@@ -114950,8 +114925,8 @@
     <date>20100101</date>
     <series-id system="pluto">5f69edb3e4b56900138a1e14</series-id>
     <sub-title>Episode 1</sub-title>
-    <category>Children</category>
     <category>Series</category>
+    <category>Children</category>
   </programme>
   <programme start="20261026040216 +0000" stop="20261026053416 +0000" channel="5f6a38eaa5b68b0007a00e7a">
     <title>Witches Of Oz</title>
@@ -114963,8 +114938,8 @@
     <date>20100101</date>
     <series-id system="pluto">5f69edb3e4b56900138a1e14</series-id>
     <sub-title>Episode 2</sub-title>
-    <category>Children</category>
     <category>Series</category>
+    <category>Children</category>
   </programme>
   <programme start="20261026053416 +0000" stop="20261026073028 +0000" channel="5f6a38eaa5b68b0007a00e7a">
     <title>Recuerdo</title>
@@ -114983,8 +114958,8 @@
     <icon src="https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster_1776175563370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110420</date>
     <series-id system="pluto">672dcc122678a50014518e37</series-id>
-    <category>Action</category>
     <category>Science fiction</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
   <programme start="20261026090534 +0000" stop="20261026110336 +0000" channel="5f6a38eaa5b68b0007a00e7a">
@@ -114994,18 +114969,40 @@
     <icon src="https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster_1777997882339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20131024</date>
     <series-id system="pluto">67516488a7fde50013705b8d</series-id>
-    <category>Action</category>
     <category>Science fiction</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
-  <programme start="20261025183645 +0000" stop="20261025203257 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title>Recuerdo</title>
-    <episode-num system="original-air-date">20170125000000 +0000</episode-num>
-    <desc>Gordon inventa la máquina "Rememory" que le permite ver los recuerdos tal y como fueron en realidad.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a219e35812ca10016665639/poster_1780588441917.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20170125</date>
-    <series-id system="pluto">6a219e34812ca10016665618</series-id>
+  <programme start="20261026110336 +0000" stop="20261026123113 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>Campus Code</title>
+    <episode-num system="original-air-date">20130213000000 +0000</episode-num>
+    <desc>Un grupo de estudiantes lucha contra fuerzas desconocidas en su campus para encontrar respuestas.</desc>
+    <icon src="https://images.pluto.tv/episodes/68ff8a63fa0f5ccff5b552b0/poster_1761597675050.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130213</date>
+    <series-id system="pluto">68ff8a62fa0f5ccff5b55291</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme start="20261026123113 +0000" stop="20261026135944 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>Infinitum</title>
+    <episode-num system="original-air-date">20210706000000 +0000</episode-num>
+    <desc>Jane debe cambiar su realidad en un universo paralelo por su cuenta.</desc>
+    <icon src="https://images.pluto.tv/episodes/68ff8bc4fa0f5ccff5ba09d5/poster_1761591054482.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20210706</date>
+    <series-id system="pluto">68ff8bc3fa0f5ccff5ba09b4</series-id>
     <category>Science fiction</category>
+    <category>Adventure</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261026135944 +0000" stop="20261026153344 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>Tormenta colosal</title>
+    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
+    <desc>When a colossal tectonic shift causes the sea level to start rising, a microbiologist gathers the DNA of as many species as she can, while the military creates an "ark" in a desperate attempt to preserve life on Earth.</desc>
+    <icon src="https://images.pluto.tv/episodes/604f890112d561001a4eef76/poster_1769193003535.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20120101</date>
+    <series-id system="pluto">604f88ff12d561001a4eef70</series-id>
+    <category>Deadly Disasters</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
   <programme start="20261025203257 +0000" stop="20261025221957 +0000" channel="5f1ac8a87cd38d000745d7cf">
@@ -115075,9 +115072,9 @@
     <icon src="https://images.pluto.tv/episodes/67404979091e240013216a95/poster_1780323046339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19750101</date>
     <series-id system="pluto">67404978091e240013216a73</series-id>
-    <category>Drama</category>
-    <category>Movie</category>
     <category>Foreign Drama</category>
+    <category>Movie</category>
+    <category>Drama</category>
   </programme>
   <programme start="20261026084825 +0000" stop="20261026110309 +0000" channel="5f1ac8a87cd38d000745d7cf">
     <title>The Ghost Writer</title>
@@ -115099,26 +115096,15 @@
     <category>Movie</category>
     <category>Thriller</category>
   </programme>
-  <programme start="20261025172706 +0000" stop="20261025194335 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title>El duodécimo hombre</title>
-    <episode-num system="original-air-date">20171225000000 +0000</episode-num>
-    <desc>En 1943, en la Noruega ocupada por Alemania, un grupo de saboteadores es traicionado y apresado por las tropas nazis. De los 12 integrantes del comando, sólo uno consigue sobrevivir.</desc>
-    <icon src="https://images.pluto.tv/episodes/67b5b84a5d2668ecc5083e62/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20171225</date>
-    <series-id system="pluto">67b5b8485d2668ecc5083e40</series-id>
-    <category>Drama</category>
+  <programme start="20261026124214 +0000" stop="20261026153916 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title>El detective de Arthur Hailey</title>
+    <episode-num system="original-air-date">20050101000000 +0000</episode-num>
+    <desc>Un asesino en serie accede a confesarlo todo, pero sólo si es al detective, antiguo cura, que lo arrestó.</desc>
+    <icon src="https://images.pluto.tv/episodes/654a2dc905bcdf001a32a43d/poster_1782272529813.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20050101</date>
+    <series-id system="pluto">654a2dc805bcdf001a32a41e</series-id>
     <category>Movie</category>
-    <category>Foreign Drama</category>
-  </programme>
-  <programme start="20261025194335 +0000" stop="20261025215735 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title>El tren de las 3:10 de James Mangold</title>
-    <episode-num system="original-air-date">20070101000000 +0000</episode-num>
-    <desc>Dan Evans (Christian Bale) es un veterano, que para aliviar sus penurias económicas, decide escoltar al peligroso forajido Ben Wade (Russell Crowe) mientras llega el tren que tiene que enviarlo ante la justicia. Nominada a dos Oscar ® 2008.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f4e17f1fa72a5001a5fa195/poster_1778251681980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20070101</date>
-    <series-id system="pluto">5f4e17f0fa72a5001a5fa18d</series-id>
-    <category>Western</category>
-    <category>Movie</category>
+    <category>Thriller</category>
   </programme>
   <programme start="20261025215735 +0000" stop="20261026002351 +0000" channel="5f1ac1f1b66c76000790ef27">
     <title>Brimstone. La hija del predicador</title>
@@ -115138,8 +115124,8 @@
     <date>20180101</date>
     <series-id system="pluto">64fb001e3b20050013642ad1</series-id>
     <category>War Drama</category>
-    <category>Drama</category>
     <category>Movie</category>
+    <category>Drama</category>
   </programme>
   <programme start="20261026021528 +0000" stop="20261026045628 +0000" channel="5f1ac1f1b66c76000790ef27">
     <title>1492: La conquista del paraíso</title>
@@ -115159,9 +115145,9 @@
     <icon src="https://images.pluto.tv/episodes/67405a5ae07f280013146825/poster_1768602602218.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19790101</date>
     <series-id system="pluto">67405a58e07f280013146803</series-id>
-    <category>Comedy</category>
     <category>Best of British Humor</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261026063912 +0000" stop="20261026083443 +0000" channel="5f1ac1f1b66c76000790ef27">
     <title>Por la piel de un policía</title>
@@ -115191,18 +115177,18 @@
     <date>19970926</date>
     <series-id system="pluto">65645a90620638001396e34b</series-id>
     <category>Courtroom Drama</category>
+    <category>Movie</category>
     <category>Drama</category>
-    <category>Movie</category>
   </programme>
-  <programme start="20261025184501 +0000" stop="20261025204401 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title>Two Lovers</title>
-    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
-    <desc>Leonard (Joaquin Phoenix) empieza a salir con Sandra (Vinessa Shaw), una joven encantadora con la que el matrimonio parece cercano. Pero aparece en su vida una nueva vecina, Michelle (Gwyneth Paltrow),  lo que no hace sino empezar a complicar su vida.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f523c16db45a1001a79aac9/poster_1779885889185.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20080101</date>
-    <series-id system="pluto">5f523c14db45a1001a79aac1</series-id>
-    <category>Romance</category>
+  <programme start="20261026121745 +0000" stop="20261026141202 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title>La felicidad nunca viene sola</title>
+    <episode-num system="original-air-date">20120627000000 +0000</episode-num>
+    <desc>Un músico conoce a una mujer con una vida muy distinta y ambos se enamoran.</desc>
+    <icon src="https://images.pluto.tv/episodes/69ef3aa8598bd1d6b49aee5c/poster_1777285801867.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20120627</date>
+    <series-id system="pluto">69ef3aa8598bd1d6b49aee3d</series-id>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261025204401 +0000" stop="20261025232206 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>La casa de los espíritus</title>
@@ -115211,8 +115197,8 @@
     <icon src="https://images.pluto.tv/episodes/68e8b8c9e75d6b4e6fe9e1b7/poster_1760088209844.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19940401</date>
     <series-id system="pluto">68e8b8c8e75d6b4e6fe9e199</series-id>
-    <category>Drama</category>
     <category>Movie</category>
+    <category>Drama</category>
   </programme>
   <programme start="20261025232206 +0000" stop="20261026013506 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>Los 28 De Panfilov</title>
@@ -115231,8 +115217,8 @@
     <icon src="https://images.pluto.tv/episodes/610bf38594c1ec00137659fd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19930101</date>
     <series-id system="pluto">610bf38494c1ec00137659f7</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261026033606 +0000" stop="20261026052206 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>El Chico de la Burbuja de Plástico</title>
@@ -115241,8 +115227,8 @@
     <icon src="https://images.pluto.tv/episodes/6405a759c33aa40013039533/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19760101</date>
     <series-id system="pluto">6405a758c33aa40013039515</series-id>
-    <category>Drama</category>
     <category>Movie</category>
+    <category>Drama</category>
   </programme>
   <programme start="20261026052206 +0000" stop="20261026071606 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>Hojas de hierba</title>
@@ -115251,8 +115237,8 @@
     <icon src="https://images.pluto.tv/episodes/5f523c27db45a1001a79abbb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20090101</date>
     <series-id system="pluto">5f523c26db45a1001a79abb3</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261026071606 +0000" stop="20261026092806 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>Valkiria</title>
@@ -115274,8 +115260,8 @@
     <date>20080101</date>
     <series-id system="pluto">5f4f5cf8fa72a5001a5fdadb</series-id>
     <sub-title>La emboscada</sub-title>
-    <category>Drama</category>
     <category>Series</category>
+    <category>Drama</category>
   </programme>
   <programme start="20261026105506 +0000" stop="20261026122606 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>Fago</title>
@@ -115287,29 +115273,31 @@
     <date>20080101</date>
     <series-id system="pluto">5f4f5cf8fa72a5001a5fdadb</series-id>
     <sub-title>Sin pistas</sub-title>
-    <category>Drama</category>
     <category>Series</category>
+    <category>Drama</category>
   </programme>
-  <programme start="20261025181618 +0000" stop="20261025200018 +0000" channel="5f1ac8099c49f600076579b2">
-    <title>Morir en San Hilario</title>
-    <episode-num system="original-air-date">20040101000000 +0000</episode-num>
-    <desc>San Hilario vivía de su espléndido cementerio y de la habilidad de sus gentes para organizar los entierros más hermosos. La gente viajaba a San Hilario a morirse a gusto.</desc>
-    <icon src="https://images.pluto.tv/episodes/628637fb94317400134cb84d/poster_1768603373913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20040101</date>
-    <series-id system="pluto">628637f994317400134cb846</series-id>
-    <category>Comedy</category>
-    <category>Movie</category>
+  <programme start="20261026122606 +0000" stop="20261026135506 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title>Fago</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">5f4f5cf9fa72a5001a5fdafa</episode-num>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Los altos mandos ya conocen la noticia: las muestras analizadas señalan a Eugenio Riaza como artífice del asesinato de Mateo Ibarra.</desc>
+    <icon src="https://images.pluto.tv/series/5f4f5cf8fa72a5001a5fdadb/tile_1768935611264.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20080101</date>
+    <series-id system="pluto">5f4f5cf8fa72a5001a5fdadb</series-id>
+    <sub-title>Culpable o inocente</sub-title>
+    <category>Series</category>
+    <category>Drama</category>
   </programme>
-  <programme start="20261025200018 +0000" stop="20261025214835 +0000" channel="5f1ac8099c49f600076579b2">
-    <title>La boda de Rosa</title>
-    <episode-num system="original-air-date">20200302000000 +0000</episode-num>
-    <desc>A punto de cumplir 45 años, Rosa se da cuenta de que siempre ha vivido su vida para servir a los demás, por lo que decide dejarlo todo atrás, tomar las riendas de su vida y cumplir su sueño de emprender su propio negocio.</desc>
-    <icon src="https://images.pluto.tv/episodes/67ef891189ba442cd92561d2/poster_1778874847532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20200302</date>
-    <series-id system="pluto">67ef891089ba442cd92561ad</series-id>
-    <category>Comedy</category>
+  <programme start="20261026135506 +0000" stop="20261026153706 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title>En lo profundo del bosque</title>
+    <episode-num system="original-air-date">20151119000000 +0000</episode-num>
+    <desc>Tommaso, un niño de 4 años, desaparece durante un festival. Cinco años después, encontraron a un niño sin nombre y sin documentos. Coincidencias de ADN: él es Tommi, pero su madre se pregunta si ese niño no es realmente su hijo.</desc>
+    <icon src="https://images.pluto.tv/episodes/611a5514456b21001aa1a578/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20151119</date>
+    <series-id system="pluto">611a5513456b21001aa1a572</series-id>
     <category>Movie</category>
-    <category>Foreign Comedies</category>
+    <category>Thriller</category>
   </programme>
   <programme start="20261025214835 +0000" stop="20261026000935 +0000" channel="5f1ac8099c49f600076579b2">
     <title>Fuera de control</title>
@@ -115319,8 +115307,8 @@
     <date>19990423</date>
     <series-id system="pluto">6076b691235736001ac44767</series-id>
     <category>Independent Drama</category>
-    <category>Drama</category>
     <category>Movie</category>
+    <category>Drama</category>
   </programme>
   <programme start="20261026000935 +0000" stop="20261026014535 +0000" channel="5f1ac8099c49f600076579b2">
     <title>Un Trabajo Embarazoso</title>
@@ -115329,8 +115317,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4f5ce9fa72a5001a5fd9a0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20090101</date>
     <series-id system="pluto">5f4f5ce8fa72a5001a5fd998</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261026014535 +0000" stop="20261026031135 +0000" channel="5f1ac8099c49f600076579b2">
     <title>Nocturna</title>
@@ -115339,9 +115327,9 @@
     <icon src="https://images.pluto.tv/episodes/628748b1e6e53d0013676398/poster_1768603321944.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20060101</date>
     <series-id system="pluto">628748afe6e53d0013676391</series-id>
-    <category>Animated</category>
     <category>Children</category>
     <category>Movie</category>
+    <category>Animated</category>
   </programme>
   <programme start="20261026031135 +0000" stop="20261026045335 +0000" channel="5f1ac8099c49f600076579b2">
     <title>Kika Superbruja: El viaje a Mandolán</title>
@@ -115372,9 +115360,9 @@
     <icon src="https://images.pluto.tv/episodes/67ef891189ba442cd92561d2/poster_1778874847532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20200302</date>
     <series-id system="pluto">67ef891089ba442cd92561ad</series-id>
-    <category>Comedy</category>
-    <category>Movie</category>
     <category>Foreign Comedies</category>
+    <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261026081752 +0000" stop="20261026095352 +0000" channel="5f1ac8099c49f600076579b2">
     <title>Amigos por siempre</title>
@@ -115383,9 +115371,9 @@
     <icon src="https://images.pluto.tv/episodes/611a550f456b21001aa1a43e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20190704</date>
     <series-id system="pluto">611a550d456b21001aa1a438</series-id>
-    <category>Comedy</category>
-    <category>Movie</category>
     <category>Foreign Comedies</category>
+    <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261026095352 +0000" stop="20261026115952 +0000" channel="5f1ac8099c49f600076579b2">
     <title>Crónicas diplomáticas</title>
@@ -115394,30 +115382,29 @@
     <icon src="https://images.pluto.tv/episodes/60d2d7c7fad1f80013b31c2a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20140404</date>
     <series-id system="pluto">60d2d7c7fad1f80013b31c24</series-id>
-    <category>Comedy</category>
-    <category>Movie</category>
     <category>Political Comedies</category>
-  </programme>
-  <programme start="20261025171405 +0000" stop="20261025190105 +0000" channel="655b5d865812e80008843bd1">
-    <title>Bodas Reales</title>
-    <episode-num system="original-air-date">19510101000000 +0000</episode-num>
-    <desc>Dos hermanos, Tom y Ellen, estrellas del baile embarcan rumbo a Inglaterra para participar en un nuevo show, coincidiendo con la boda real de la princesa Elizabeth.</desc>
-    <icon src="https://images.pluto.tv/episodes/615eaac974755c001a4c9eb9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19510101</date>
-    <series-id system="pluto">615eaac874755c001a4c9eb3</series-id>
-    <category>Musical</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
-  <programme start="20261025190105 +0000" stop="20261025202605 +0000" channel="655b5d865812e80008843bd1">
-    <title>La reina de Nueva York: La reina de Nueva York</title>
-    <episode-num system="original-air-date">19371125000000 +0000</episode-num>
-    <desc>Una mujer excéntrica se entera de que no se está muriendo por envenenamiento con radio como se suponía anteriormente, pero cuando se encuentra con un reportero que busca una historia, finge estar enferma nuevamente para su propio beneficio.</desc>
-    <icon src="https://images.pluto.tv/episodes/62384c8cff21e500131cb48d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19371125</date>
-    <series-id system="pluto">62384c8bff21e500131cb486</series-id>
-    <category>Courtroom Drama</category>
-    <category>Drama</category>
+  <programme start="20261026115952 +0000" stop="20261026133352 +0000" channel="5f1ac8099c49f600076579b2">
+    <title>Un tipo de altura</title>
+    <episode-num system="original-air-date">19890413000000 +0000</episode-num>
+    <desc>El "largo" Dexter King, tímido y torpe, es el hombro de un comediante que trabaja en Drury Lane. Alérgico a las plumas, Dexter, a quien un médico le ha recetado una serie de inyecciones, conoce a la enfermera Kate y se enamora de ella.</desc>
+    <icon src="https://images.pluto.tv/episodes/63ad821a4da5ab00130883a7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19890413</date>
+    <series-id system="pluto">63ad82184da5ab00130883a0</series-id>
     <category>Movie</category>
+    <category>Comedy</category>
+  </programme>
+  <programme start="20261026133352 +0000" stop="20261026151341 +0000" channel="5f1ac8099c49f600076579b2">
+    <title>Will You Merry Me</title>
+    <episode-num system="original-air-date">20081208000000 +0000</episode-num>
+    <desc>After Rebecca and Henry get engaged, they gather their families for the holidays to surprise them with the good news. But will their clashing families ever get along?</desc>
+    <icon src="https://images.pluto.tv/episodes/697351e4f65a7c96c689128f/poster_1769165284842.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20081208</date>
+    <series-id system="pluto">697351e3f65a7c96c689126f</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261025202605 +0000" stop="20261025220205 +0000" channel="655b5d865812e80008843bd1">
     <title>Un Trabajo Embarazoso</title>
@@ -115426,8 +115413,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4f5ce9fa72a5001a5fd9a0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20090101</date>
     <series-id system="pluto">5f4f5ce8fa72a5001a5fd998</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261025220205 +0000" stop="20261025234505 +0000" channel="655b5d865812e80008843bd1">
     <title>Nunca es tarde para enamorarse</title>
@@ -115437,8 +115424,8 @@
     <date>20080101</date>
     <series-id system="pluto">5f523c19db45a1001a79ab03</series-id>
     <category>Romance</category>
-    <category>Movie</category>
     <category>African-American Romance</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261025234505 +0000" stop="20261026012805 +0000" channel="655b5d865812e80008843bd1">
     <title>Una pizca de amor</title>
@@ -115479,8 +115466,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4e17f7fa72a5001a5fa1f0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130101</date>
     <series-id system="pluto">5f4e17f6fa72a5001a5fa1e8</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261026063009 +0000" stop="20261026075429 +0000" channel="655b5d865812e80008843bd1">
     <title>Transformaci√≥n Navide√±a</title>
@@ -115514,15 +115501,26 @@
     <category>Romance</category>
     <category>Movie</category>
   </programme>
-  <programme start="20261025185005 +0000" stop="20261025202248 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title>Aprendiz de gigoló</title>
-    <episode-num system="original-air-date">20130831000000 +0000</episode-num>
-    <desc>Un hombre convence a su amigo para trabajar como gigoló, lo que provoca situaciones cómicas y complicadas.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a0b31e59db2f8937b420af3/poster_1779118566155.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20130831</date>
-    <series-id system="pluto">6a0b31e49db2f8937b420ad4</series-id>
-    <category>Comedy</category>
+  <programme start="20261026112712 +0000" stop="20261026130712 +0000" channel="655b5d865812e80008843bd1">
+    <title>Before You Say I Do</title>
+    <episode-num system="original-air-date">20090101000000 +0000</episode-num>
+    <desc>Un hombre enamorado se da cuenta de que la única forma de que su novia acepte casarse con él es viajando en el tiempo para remontarse  a su anterior matrimonio.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4948ab61f1b1001afec779/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20090101</date>
+    <series-id system="pluto">5f4948a961f1b1001afec773</series-id>
+    <category>Romance</category>
+    <category>African-American Romance</category>
     <category>Movie</category>
+  </programme>
+  <programme start="20261026130712 +0000" stop="20261026145544 +0000" channel="655b5d865812e80008843bd1">
+    <title>Primavera en Normandía</title>
+    <episode-num system="original-air-date">20140821000000 +0000</episode-num>
+    <desc>Un panadero observa cómo su vecina repite sin saberlo la historia de Madame Bovary.</desc>
+    <icon src="https://images.pluto.tv/episodes/69fc6841fcc735ec75f0e37b/poster_1778149442732.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20140821</date>
+    <series-id system="pluto">69fc6840fcc735ec75f0e35b</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261025202248 +0000" stop="20261025221705 +0000" channel="5f1ac9a2d3611d0007a844bb">
     <title>La felicidad nunca viene sola</title>
@@ -115531,8 +115529,8 @@
     <icon src="https://images.pluto.tv/episodes/69ef3aa8598bd1d6b49aee5c/poster_1777285801867.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20120627</date>
     <series-id system="pluto">69ef3aa8598bd1d6b49aee3d</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261025221705 +0000" stop="20261026001410 +0000" channel="5f1ac9a2d3611d0007a844bb">
     <title>Algo Prestado</title>
@@ -115551,8 +115549,8 @@
     <icon src="https://images.pluto.tv/episodes/6a4cc7193aa4669fc73bbef4/poster_1783416602842.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20170101</date>
     <series-id system="pluto">6a4cc7183aa4669fc73bbed4</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261026014837 +0000" stop="20261026031843 +0000" channel="5f1ac9a2d3611d0007a844bb">
     <title>Corazones perdidos</title>
@@ -115571,8 +115569,8 @@
     <icon src="https://images.pluto.tv/episodes/660d6952a79dde00142006b4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20190413</date>
     <series-id system="pluto">660d6950a79dde0014200694</series-id>
-    <category>Drama</category>
     <category>Movie</category>
+    <category>Drama</category>
   </programme>
   <programme start="20261026044523 +0000" stop="20261026062703 +0000" channel="5f1ac9a2d3611d0007a844bb">
     <title>Red Dog, una historia de lealtad</title>
@@ -115581,8 +115579,8 @@
     <icon src="https://images.pluto.tv/episodes/69fb6c8ca3d970fa62b16b6f/poster_1778085005731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110101</date>
     <series-id system="pluto">69fb6c8ca3d970fa62b16b4f</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261026062703 +0000" stop="20261026082047 +0000" channel="5f1ac9a2d3611d0007a844bb">
     <title>Amor de ida y vuelta</title>
@@ -115601,8 +115599,8 @@
     <icon src="https://images.pluto.tv/episodes/69fc6841fcc735ec75f0e37b/poster_1778149442732.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20140821</date>
     <series-id system="pluto">69fc6840fcc735ec75f0e35b</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261026100919 +0000" stop="20261026115819 +0000" channel="5f1ac9a2d3611d0007a844bb">
     <title>El mejor día del año</title>
@@ -115611,8 +115609,30 @@
     <icon src="https://images.pluto.tv/episodes/60cb5696adcfc00013d4f3b2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20150101</date>
     <series-id system="pluto">60cb5695adcfc00013d4f3ac</series-id>
-    <category>Movie</category>
     <category>Young Adult</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261026115819 +0000" stop="20261026135119 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title>New York, I Love You</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Siguiendo los pasos del éxito de "Paris, je t'aime" doce directores y varios actores de primera línea toman la ciudad de Nueva York como set y narran diferentes historias de amor.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4ead37db45a1001a795479/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20080101</date>
+    <series-id system="pluto">5f4ead34db45a1001a795471</series-id>
+    <category>Romance</category>
+    <category>African-American Romance</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261026135119 +0000" stop="20261026152719 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title>De nuevo el amor</title>
+    <episode-num system="original-air-date">20150101000000 +0000</episode-num>
+    <desc>Chloe y David han decidido terminar su matrimonio pero antes de poderle decir a su hija, ella los soprende con la noticia de su compromiso.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f523c24db45a1001a79ab81/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20150101</date>
+    <series-id system="pluto">5f523c21db45a1001a79ab79</series-id>
+    <category>Romance</category>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
 	<programme start="20261025041300 +0200" stop="20261025062700 +0100" channel="Cines Verdi TV">
     <title>Ciudad de Dios</title>
@@ -120082,24 +120102,6 @@
     <title>Major Arena Soccer League</title>
     <desc>Sin detalles...</desc>
 	</programme>
-  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="SKY SPORTS 1 MX">
-    <desc lang="es">SKY Sports.</desc>
-    <title lang="es">SKY Sports</title>
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024210000 +0000" channel="SKY SPORTS 1 MX">
-    <desc lang="es">Almería vs. Real Oviedo
-En Vivo.</desc>
-    <title lang="es">Almería vs. Real Oviedo
-En Vivo</title>
-  </programme>
-  <programme start="20261024210000 +0000" stop="20261024230000 +0000" channel="SKY SPORTS 1 MX">
-    <desc lang="es">Córdoba vs. Eibar.</desc>
-    <title lang="es">Córdoba vs. Eibar</title>
-  </programme>
-  <programme start="20261024230000 +0000" stop="20261025020000 +0000" channel="SKY SPORTS 1 MX">
-    <desc lang="es">New York Rangers vs. Ottawa Sen.</desc>
-    <title lang="es">New York Rangers vs. Ottawa Sen</title>
-  </programme>
   <programme start="20261025020000 +0000" stop="20261025040000 +0000" channel="SKY SPORTS 1 MX">
     <desc lang="es">CD Leganés vs. RCD Mallorca.</desc>
     <title lang="es">CD Leganés vs. RCD Mallorca</title>
@@ -120227,30 +120229,6 @@ En Vivo</title>
   <programme start="20261028020000 +0000" stop="20261028060000 +0000" channel="SKY SPORTS 1 MX">
     <desc lang="es">SKY Sports.</desc>
     <title lang="es">SKY Sports</title>
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024184500 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Sky Sports 16.</desc>
-    <title lang="es">Sky Sports 16</title>
-  </programme>
-  <programme start="20261024184500 +0000" stop="20261024190000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Previo.</desc>
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024210000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Atlético de Madrid vs. Deportivo La Cor.</desc>
-    <title lang="es">Atlético de Madrid vs. Deportivo La Cor</title>
-  </programme>
-  <programme start="20261024210000 +0000" stop="20261024230000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Rayo Vallecano vs. Elche.</desc>
-    <title lang="es">Rayo Vallecano vs. Elche</title>
-  </programme>
-  <programme start="20261024230000 +0000" stop="20261025000000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">R. Racing Club vs. Espanyol.</desc>
-    <title lang="es">R. Racing Club vs. Espanyol</title>
-  </programme>
-  <programme start="20261025000000 +0000" stop="20261025020000 +0000" channel="SKY SPORTS 16 MX">
-    <desc lang="es">Valencia vs. Villarreal.</desc>
-    <title lang="es">Valencia vs. Villarreal</title>
   </programme>
   <programme start="20261025020000 +0000" stop="20261025040000 +0000" channel="SKY SPORTS 16 MX">
     <desc lang="es">Atlético de Madrid vs. Deportivo La Cor.</desc>
@@ -120469,36 +120447,6 @@ En Vivo</title>
     <desc lang="es">Desde el estadio Camp Nou se enfrentan los equipos FC Barcelona versus Real Madrid CF.</desc>
     <icon src="https://iptv-epg.org/images/JIj6KyPOM_vDeUAEQCvV8p2Xr0T0kavwV3H7_R_Ll35q9lTZZounmO_Wuilh5k9YPpnPZZRBshHOLnyNEHBvBz-lF_2kLV0gHiB0KVbL06NNo7fKiGVJxBdKdje4U29JPWqMf2Ds_etIPKBo50WFn4Je"/>
     <title lang="es">Barcelona vs. Real Madrid</title>
-  </programme>
-  <programme start="20261024173000 +0000" stop="20261024190000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Isu- women - free skating
-En Vivo.</desc>
-    <title lang="es">Isu- women - free skating
-En Vivo</title>
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024203000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Valencia vs. Villarreal.</desc>
-    <title lang="es">Valencia vs. Villarreal</title>
-  </programme>
-  <programme start="20261024203000 +0000" stop="20261024204500 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Sky Sports 24.</desc>
-    <title lang="es">Sky Sports 24</title>
-  </programme>
-  <programme start="20261024204500 +0000" stop="20261024210000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Previo.</desc>
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20261024210000 +0000" stop="20261024230000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Atlético de Madrid vs. Deportivo La Cor.</desc>
-    <title lang="es">Atlético de Madrid vs. Deportivo La Cor</title>
-  </programme>
-  <programme start="20261024230000 +0000" stop="20261025000000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">Rayo Vallecano vs. Elche.</desc>
-    <title lang="es">Rayo Vallecano vs. Elche</title>
-  </programme>
-  <programme start="20261025000000 +0000" stop="20261025030000 +0000" channel="SKY SPORTS 24 MX">
-    <desc lang="es">R. Racing Club vs. Espanyol.</desc>
-    <title lang="es">R. Racing Club vs. Espanyol</title>
   </programme>
   <programme start="20261025030000 +0000" stop="20261025050000 +0000" channel="SKY SPORTS 24 MX">
     <desc lang="es">Valencia vs. Villarreal.</desc>
@@ -122683,7 +122631,7 @@ En Vivo</title>
   <programme start="20261025040000 -0300" stop="20261025060000 -0300" channel="DSPORTS CO">
     <title>LaLiga • Valencia vs Villarreal, Fecha 10, Estadio de Mestalla</title>
     <sub-title>Valencia vs. Villarreal, Fecha 10, Estadio de Mestalla</sub-title>
-    <desc>Repetición ║ Valencia vs Villarreal, Fecha 10, Estadio de Mestalla | Valencia se enfrenta a Villarreal en el Estadio de Mestalla por la fecha 10 de LaLiga EA Sports 2026-2027. El equipo local llega tras empatar 0-0 en su último partido, mientras que Villarreal también empató 0-0 en su presentación más reciente. En el historial directo, Villarreal ha ganado los últimos tres encuentros, incluyendo el último, donde se impuso 2-1 en febrero de 2026.</desc>
+    <desc>Repetición ║ Valencia vs Villarreal, Fecha 10, Estadio de Mestalla | Villarreal venció 2-1 a Valencia en la jornada 10 de LaLiga EA Sports. El marcador se abrió a los 38 minutos con un gol de penal de José Luis García Vayá para Valencia. A pesar de esta ventaja inicial, Villarreal logró igualar el partido a los 69 minutos gracias a Alex Freeman. En un desenlace emocionante, Georges Mikautadze anotó el gol de la victoria para Villarreal en el minuto 90+6. Ambos equipos enfrentaron expulsiones, con Pape Gueye de Villarreal y Harvey Elliott de Valencia viendo la tarjeta roja. Villarreal dominó la posesión con un 62% y realizó 19 remates, mientras que Valencia tuvo un 38% de posesión y 9 remates. A pesar de jugar con un hombre menos durante 17 minutos, Villarreal consiguió llevarse los tres puntos en Mestalla.</desc>
     <credits>
       <director>Guillermo Rodriguez Duran</director>
       <actor>Paco Clares</actor>
@@ -122716,7 +122664,7 @@ En Vivo</title>
   <programme start="20261025073000 -0300" stop="20261025093000 -0300" channel="DSPORTS CO">
     <title>LaLiga • Atl. de Madrid vs Dep. La Coruña, Fecha 10, Riyadh Air Metropolitano</title>
     <sub-title>Atl. de Madrid vs. Dep. La Coruña, Fecha 10, Riyadh Air Metropolitano</sub-title>
-    <desc>Atl. de Madrid vs Dep. La Coruña, Fecha 10, Riyadh Air Metropolitano | Atlético de Madrid se enfrenta a Deportivo La Coruña en el Riyadh Air Metropolitano por la fecha 10 de LaLiga EA Sports. El local llega tras un empate 1-1 contra un rival en la UEFA Champions League y una victoria 1-0 en La Liga. Por su parte, Deportivo La Coruña empató 1-1 en su último partido de La Liga y ha tenido un inicio de temporada complicado, con dos derrotas en sus últimos tres encuentros. En el historial directo, Atlético de Madrid ha ganado cuatro de los últimos cinco enfrentamientos, siendo el más reciente un triunfo 1-0 en la Copa del Rey el 13 de enero de 2026.</desc>
+    <desc>Atl. de Madrid vs Dep. La Coruña, Fecha 10, Riyadh Air Metropolitano | Atl. de Madrid venció 1-0 a Dep. La Coruña en la jornada 10 de LaLiga EA Sports. En un encuentro disputado en el Riyadh Air Metropolitano, el equipo local logró la victoria gracias a un gol de Julián Álvarez al minuto 48. El primer tiempo transcurrió sin goles, aunque ambos equipos generaron oportunidades. Atl. de Madrid tuvo un 56% de posesión y realizó 20 remates, de los cuales 4 fueron al arco. Dep. La Coruña, por su parte, también registró 4 remates al arco entre sus 14 intentos. A pesar de las ocasiones, el gol de Álvarez fue suficiente para que el equipo local se llevara los tres puntos. Ambos equipos tuvieron 3 corners, y el Atl. de Madrid recibió 4 tarjetas amarillas contra 2 del equipo visitante.</desc>
     <credits>
       <director>Guillermo Rodriguez Duran</director>
       <actor>Paco Clares</actor>
@@ -123193,7 +123141,7 @@ En Vivo</title>
   <programme start="20261027080000 -0300" stop="20261027100000 -0300" channel="DSPORTS CO">
     <title>LaLiga • Atl. de Madrid vs Dep. La Coruña, Fecha 10, Riyadh Air Metropolitano</title>
     <sub-title>Atl. de Madrid vs. Dep. La Coruña, Fecha 10, Riyadh Air Metropolitano</sub-title>
-    <desc>Repetición ║ Atl. de Madrid vs Dep. La Coruña, Fecha 10, Riyadh Air Metropolitano | Atlético de Madrid se enfrenta a Deportivo La Coruña en el Riyadh Air Metropolitano por la fecha 10 de LaLiga EA Sports. El local llega tras un empate 1-1 contra un rival en la UEFA Champions League y una victoria 1-0 en La Liga. Por su parte, Deportivo La Coruña empató 1-1 en su último partido de La Liga y ha tenido un inicio de temporada complicado, con dos derrotas en sus últimos tres encuentros. En el historial directo, Atlético de Madrid ha ganado cuatro de los últimos cinco enfrentamientos, siendo el más reciente un triunfo 1-0 en la Copa del Rey el 13 de enero de 2026.</desc>
+    <desc>Repetición ║ Atl. de Madrid vs Dep. La Coruña, Fecha 10, Riyadh Air Metropolitano | Atl. de Madrid venció 1-0 a Dep. La Coruña en la jornada 10 de LaLiga EA Sports. En un encuentro disputado en el Riyadh Air Metropolitano, el equipo local logró la victoria gracias a un gol de Julián Álvarez al minuto 48. El primer tiempo transcurrió sin goles, aunque ambos equipos generaron oportunidades. Atl. de Madrid tuvo un 56% de posesión y realizó 20 remates, de los cuales 4 fueron al arco. Dep. La Coruña, por su parte, también registró 4 remates al arco entre sus 14 intentos. A pesar de las ocasiones, el gol de Álvarez fue suficiente para que el equipo local se llevara los tres puntos. Ambos equipos tuvieron 3 corners, y el Atl. de Madrid recibió 4 tarjetas amarillas contra 2 del equipo visitante.</desc>
     <credits>
       <director>Guillermo Rodriguez Duran</director>
       <actor>Paco Clares</actor>
@@ -123301,7 +123249,7 @@ En Vivo</title>
   <programme start="20261027170000 -0300" stop="20261027191500 -0300" channel="DSPORTS CO">
     <title>[En vivo] Allianz Cup • Sporting CP vs Marítimo, Cuartos de final, Estádio José Alvalade</title>
     <sub-title>Sporting CP vs. Marítimo, Cuartos de final, Estádio José Alvalade</sub-title>
-    <desc>En vivo ║ Sporting CP vs Marítimo, Cuartos de final, Estádio José Alvalade | Sporting CP recibe a Marítimo en el Estádio José Alvalade por los cuartos de final de la Copa de la Liga de Portugal. En esta fase eliminatoria, ambos equipos buscarán avanzar a la siguiente instancia de la competencia en la temporada 2026-2027.</desc>
+    <desc>En vivo ║ Sporting CP vs Marítimo, Cuartos de final, Estádio José Alvalade | Sporting CP se enfrenta a Marítimo en los cuartos de final de la Copa de la Liga de Portugal. El equipo local llega tras una reciente derrota 2-3 ante el rival en la UEFA Champions League, donde había logrado una victoria previa 2-0. Por su parte, Marítimo viene de perder 0-5 en su último encuentro de Primeira Liga, aunque logró una victoria 2-1 en la Taça de Portugal. En el historial directo, Sporting CP ha ganado 3 de los últimos 5 enfrentamientos, con su última victoria 2-1 el 13 de mayo de 2023.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Portugal</country>
@@ -123529,7 +123477,7 @@ En Vivo</title>
   <programme start="20261025082000 -0300" stop="20261025102500 -0300" channel="ESPN CL">
     <title>[En vivo] Serie A • Inter vs Fiorentina, Fecha 8, San Siro/Giuseppe Meazza</title>
     <sub-title>Inter vs. Fiorentina, Fecha 8, San Siro/Giuseppe Meazza</sub-title>
-    <desc>En vivo ║ Inter vs Fiorentina, Fecha 8, San Siro/Giuseppe Meazza | Inter se enfrenta a Fiorentina en el San Siro por la fecha 8 de la Serie A 2026-2027. El local llega tras una victoria 1-0 sobre un rival en la UEFA Champions League y una victoria 3-1 en la Serie A. Por su parte, Fiorentina viene de perder 3-1 en su último partido de liga y de caer 2-1 en su anterior encuentro. En el historial reciente, Inter ha ganado 3 de los últimos 5 enfrentamientos directos, con un empate y una victoria para Fiorentina.</desc>
+    <desc>En vivo ║ Inter vs Fiorentina, Fecha 8, San Siro/Giuseppe Meazza | Inter venció 2-1 a Fiorentina en la Serie A. El partido, disputado en el estadio San Siro, comenzó con una primera mitad sin goles. El marcador se abrió a los 65&#x27; con un gol de Álex Jiménez para Fiorentina. Sin embargo, Inter logró igualar el marcador a los 90+1&#x27; gracias a un gol de Marcus Thuram. En el tiempo de descuento, Piotr Zielinski anotó de penal a los 90+7&#x27;, asegurando la victoria para el equipo local. Inter dominó la posesión con un 63% y realizó 33 remates, 11 de ellos al arco, mientras que Fiorentina tuvo un 37% de posesión y 7 remates, 2 de ellos al arco.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Italia</country>
@@ -123719,7 +123667,7 @@ En Vivo</title>
   <programme start="20261026162000 -0300" stop="20261026183000 -0300" channel="ESPN CL">
     <title>[En vivo] Ligue 1 • Paris Saint-Germain vs Olympique Lyon, Fecha 8, Parc des Princes</title>
     <sub-title>Paris Saint-Germain vs. Olympique Lyon, Fecha 8, Parc des Princes</sub-title>
-    <desc>En vivo ║ Paris Saint-Germain vs Olympique Lyon, Fecha 8, Parc des Princes | Paris Saint-Germain se enfrenta a Olympique Lyon en el Parc des Princes por la fecha 8 de Ligue 1 2026-2027. El PSG llega en buena forma, habiendo ganado sus últimos cuatro partidos, incluyendo una victoria 4-2 en su más reciente encuentro de UEFA Champions League. Por su parte, Olympique Lyon viene de una derrota 3-0 en la UEFA Europa League, aunque logró una victoria 2-1 en su anterior partido de Ligue 1. En el historial directo, PSG ha ganado cuatro de los últimos cinco encuentros contra Lyon, siendo el último enfrentamiento una victoria para Lyon por 2-1 el 19 de abril de 2026.</desc>
+    <desc>En vivo ║ Paris Saint-Germain vs Olympique Lyon, Fecha 8, Parc des Princes | Paris Saint-Germain recibe a Olympique Lyon en el Parc des Princes por la fecha 8 de Ligue 1 2026-2027. El local llega con una racha positiva, habiendo ganado sus últimos cinco partidos, incluyendo una victoria 4-2 sobre su rival en la UEFA Champions League. Por su parte, Olympique Lyon viene de una derrota 3-0 en la UEFA Europa League, aunque logró una victoria 2-1 en su último encuentro de Ligue 1. En el historial directo, PSG ha ganado cuatro de los últimos cinco enfrentamientos, siendo el más reciente una derrota 1-2 en abril de 2026.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Francia</country>
@@ -123867,7 +123815,7 @@ En Vivo</title>
   <programme start="20261027142000 -0300" stop="20261027163000 -0300" channel="ESPN CL">
     <title>[En vivo] Serie A • Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore</title>
     <sub-title>Sassuolo vs. Lazio, Fecha 9, Mapei Stadium - Città del Tricolore</sub-title>
-    <desc>En vivo ║ Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore | Sassuolo se enfrenta a Lazio en el Mapei Stadium por la fecha 9 de la Serie A. Un duelo emocionante donde ambos equipos buscarán sumar puntos vitales en la competencia.</desc>
+    <desc>En vivo ║ Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore | Sassuolo se enfrenta a Lazio en el Mapei Stadium - Città del Tricolore por la fecha 9 de la Serie A 2026-2027. El equipo local llega tras perder 2-0 ante su rival en la última jornada y acumula tres derrotas en sus últimos cinco encuentros. Por su parte, Lazio llega en un buen momento, habiendo ganado sus últimos tres partidos, incluyendo un 2-1 en su más reciente presentación. En el historial directo, Lazio ha ganado tres de los últimos cinco enfrentamientos, mientras que Sassuolo solo ha logrado una victoria.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Italia</country>
@@ -123877,7 +123825,7 @@ En Vivo</title>
   <programme start="20261027163000 -0300" stop="20261027184500 -0300" channel="ESPN CL">
     <title>[En vivo] Serie A • Roma vs Cagliari, Fecha 9, Stadio Olimpico</title>
     <sub-title>Roma vs. Cagliari, Fecha 9, Stadio Olimpico</sub-title>
-    <desc>En vivo ║ Roma vs Cagliari, Fecha 9, Stadio Olimpico | Roma se enfrenta a Cagliari en un emocionante partido por la fecha 9 de la Serie A. Ambos equipos buscan sumar puntos cruciales en su camino hacia la cima de la tabla.</desc>
+    <desc>En vivo ║ Roma vs Cagliari, Fecha 9, Stadio Olimpico | Roma recibe a Cagliari en el Stadio Olimpico por la fecha 9 de la Serie A 2026-2027. El local llega tras un emocionante empate 3-3 como visitante, donde mostró una gran capacidad de reacción. En tanto, Cagliari viene de una derrota 0-2 en su último partido, lo que complica su situación en la tabla. En el historial reciente entre ambos, Roma ha ganado 3 de los últimos 5 encuentros, con una victoria de Cagliari y un empate.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Italia</country>
@@ -124078,7 +124026,7 @@ En Vivo</title>
   <programme start="20261025020000 -0300" stop="20261025040000 -0300" channel="ESPN 2 CL">
     <title>Serie A • Napoli vs Roma, Fecha 8, Maradona Stadium</title>
     <sub-title>Napoli vs. Roma, Fecha 8, Maradona Stadium</sub-title>
-    <desc>Diferido ║ Napoli vs Roma, Fecha 8, Maradona Stadium | Napoli se enfrenta a Roma en el Maradona Stadium por la fecha 8 de la Serie A 2026-2027. En su último enfrentamiento, disputado el 15 de febrero de 2026, ambos equipos igualaron 2-2. El local llega tras una victoria 4-3 en la UEFA Champions League, mientras que Roma viene de ganar 2-0 en su último partido de la Serie A. En el historial directo, Napoli ha ganado 2 de los últimos 5 encuentros, mientras que Roma no ha logrado victorias en este periodo, con 3 empates.</desc>
+    <desc>Diferido ║ Napoli vs Roma, Fecha 8, Maradona Stadium | Napoli y Roma empataron 3-3 en un vibrante encuentro de la Serie A en el Maradona Stadium. El marcador se abrió a los 28&#x27; con gol de Frank Anguissa. Scott McTominay aumentó la ventaja para Napoli a los 48&#x27;, poniendo el 2-0 momentáneo. Roma reaccionó en el minuto 69 con un tanto de Matias Soule, y cinco minutos después, Leonardo Balerdi igualó el marcador. A los 83 minutos, McTominay volvió a adelantar a los locales, pero Balerdi selló el empate definitivo al minuto 89. A pesar de jugar con un hombre menos desde el minuto 90, Napoli logró mantener el resultado. Roma dominó la posesión con un 61% y realizó 24 remates, aunque solo 4 fueron al arco, en comparación con los 15 remates y 9 al arco del Napoli.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Italia</country>
@@ -124637,7 +124585,7 @@ En Vivo</title>
   <programme start="20261027165000 -0300" stop="20261027185500 -0300" channel="ESPN 2 CL">
     <title>[En vivo] Carabao Cup • Fleetwood vs Arsenal, Octavos de final, Highbury Stadium</title>
     <sub-title>Fleetwood vs. Arsenal, Octavos de final, Highbury Stadium</sub-title>
-    <desc>En vivo ║ Fleetwood vs Arsenal, Octavos de final, Highbury Stadium | Fleetwood se enfrenta a Arsenal en un emocionante encuentro por los octavos de final de la Carabao Cup. Un partido decisivo donde ambos equipos buscarán avanzar en el torneo.</desc>
+    <desc>En vivo ║ Fleetwood vs Arsenal, Octavos de final, Highbury Stadium | Fleetwood recibe a Arsenal en los octavos de final de la Carabao Cup en el Highbury Stadium. El equipo local llega tras perder 2-1 ante un rival en League Two y haber caído 4-2 en su anterior encuentro. Por su parte, Arsenal llega con una victoria 2-0 en Premier League y un empate 2-2 en la UEFA Champions League, mostrando un rendimiento sólido en sus últimas presentaciones.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Inglaterra</country>
@@ -125081,7 +125029,7 @@ En Vivo</title>
   <programme start="20261026080000 -0300" stop="20261026100000 -0300" channel="ESPN 3 CL">
     <title>Serie A • Napoli vs Roma, Fecha 8, Maradona Stadium</title>
     <sub-title>Napoli vs. Roma, Fecha 8, Maradona Stadium</sub-title>
-    <desc>Grabado ║ Napoli vs Roma, Fecha 8, Maradona Stadium | Napoli se enfrenta a Roma en el Maradona Stadium por la fecha 8 de la Serie A 2026-2027. En su último enfrentamiento, disputado el 15 de febrero de 2026, ambos equipos igualaron 2-2. El local llega tras una victoria 4-3 en la UEFA Champions League, mientras que Roma viene de ganar 2-0 en su último partido de la Serie A. En el historial directo, Napoli ha ganado 2 de los últimos 5 encuentros, mientras que Roma no ha logrado victorias en este periodo, con 3 empates.</desc>
+    <desc>Grabado ║ Napoli vs Roma, Fecha 8, Maradona Stadium | Napoli y Roma empataron 3-3 en un vibrante encuentro de la Serie A en el Maradona Stadium. El marcador se abrió a los 28&#x27; con gol de Frank Anguissa. Scott McTominay aumentó la ventaja para Napoli a los 48&#x27;, poniendo el 2-0 momentáneo. Roma reaccionó en el minuto 69 con un tanto de Matias Soule, y cinco minutos después, Leonardo Balerdi igualó el marcador. A los 83 minutos, McTominay volvió a adelantar a los locales, pero Balerdi selló el empate definitivo al minuto 89. A pesar de jugar con un hombre menos desde el minuto 90, Napoli logró mantener el resultado. Roma dominó la posesión con un 61% y realizó 24 remates, aunque solo 4 fueron al arco, en comparación con los 15 remates y 9 al arco del Napoli.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Italia</country>
@@ -125101,7 +125049,7 @@ En Vivo</title>
   <programme start="20261026120000 -0300" stop="20261026140000 -0300" channel="ESPN 3 CL">
     <title>Premier League • Chelsea vs Tottenham Hotspur, Fecha 8, Stamford Bridge</title>
     <sub-title>Chelsea vs. Tottenham Hotspur, Fecha 8, Stamford Bridge</sub-title>
-    <desc>Grabado ║ Chelsea vs Tottenham Hotspur, Fecha 8, Stamford Bridge | Chelsea recibe a Tottenham Hotspur en Stamford Bridge por la fecha 8 de la Premier League 2026-2027. El local llega tras una victoria 2-0 como visitante ante un rival en la competición, además de haber ganado 5-1 en su último partido como local. Por su parte, Tottenham Hotspur viene de una victoria 3-1 en su último encuentro, lo que les da confianza tras un inicio de temporada irregular. En el historial reciente entre ambos, Chelsea ha ganado 4 de los últimos 5 enfrentamientos, siendo el más reciente el 1-2 a favor de Tottenham en un amistoso en agosto.</desc>
+    <desc>Grabado ║ Chelsea vs Tottenham Hotspur, Fecha 8, Stamford Bridge | Tottenham venció 2-0 a Chelsea en la Premier League en Stamford Bridge. El encuentro se mantuvo sin goles hasta que el marcador se abrió a los 77 minutos con un gol en contra de Mike Penders, lo que dio la ventaja a los visitantes. Poco después, Chelsea se quedó con un jugador menos debido a la expulsión de Cole Palmer al minuto 80, lo que complicó aún más el panorama para los locales. Mathys Tel amplió la ventaja para Tottenham al minuto 87, asegurando la victoria. Tottenham dominó la posesión con un 69% y realizó 15 remates, igualando a Chelsea en remates al arco con 4 cada uno. Chelsea, por su parte, terminó con solo el 31% de posesión y 7 remates, además de recibir 2 tarjetas amarillas y una roja.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Inglaterra</country>
@@ -125366,7 +125314,7 @@ En Vivo</title>
   <programme start="20261027190000 -0300" stop="20261027210000 -0300" channel="ESPN 3 CL">
     <title>Serie A • Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore</title>
     <sub-title>Sassuolo vs. Lazio, Fecha 9, Mapei Stadium - Città del Tricolore</sub-title>
-    <desc>Grabado ║ Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore | Sassuolo se enfrenta a Lazio en el Mapei Stadium por la fecha 9 de la Serie A. Un duelo emocionante donde ambos equipos buscarán sumar puntos vitales en la competencia.</desc>
+    <desc>Grabado ║ Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore | Sassuolo se enfrenta a Lazio en el Mapei Stadium - Città del Tricolore por la fecha 9 de la Serie A 2026-2027. El equipo local llega tras perder 2-0 ante su rival en la última jornada y acumula tres derrotas en sus últimos cinco encuentros. Por su parte, Lazio llega en un buen momento, habiendo ganado sus últimos tres partidos, incluyendo un 2-1 en su más reciente presentación. En el historial directo, Lazio ha ganado tres de los últimos cinco enfrentamientos, mientras que Sassuolo solo ha logrado una victoria.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Italia</country>
@@ -125737,7 +125685,7 @@ En Vivo</title>
   <programme start="20261026140000 -0300" stop="20261026145500 -0300" channel="ESPN 4 CL">
     <title>LaLiga • Atl. de Madrid vs Dep. La Coruña, Fecha 10, Riyadh Air Metropolitano</title>
     <sub-title>Atl. de Madrid vs. Dep. La Coruña, Fecha 10, Riyadh Air Metropolitano</sub-title>
-    <desc>Grabado ║ Atl. de Madrid vs Dep. La Coruña, Fecha 10, Riyadh Air Metropolitano | Atlético de Madrid se enfrenta a Deportivo La Coruña en el Riyadh Air Metropolitano por la fecha 10 de LaLiga EA Sports. El local llega tras un empate 1-1 contra un rival en la UEFA Champions League y una victoria 1-0 en La Liga. Por su parte, Deportivo La Coruña empató 1-1 en su último partido de La Liga y ha tenido un inicio de temporada complicado, con dos derrotas en sus últimos tres encuentros. En el historial directo, Atlético de Madrid ha ganado cuatro de los últimos cinco enfrentamientos, siendo el más reciente un triunfo 1-0 en la Copa del Rey el 13 de enero de 2026.</desc>
+    <desc>Grabado ║ Atl. de Madrid vs Dep. La Coruña, Fecha 10, Riyadh Air Metropolitano | Atl. de Madrid venció 1-0 a Dep. La Coruña en la jornada 10 de LaLiga EA Sports. En un encuentro disputado en el Riyadh Air Metropolitano, el equipo local logró la victoria gracias a un gol de Julián Álvarez al minuto 48. El primer tiempo transcurrió sin goles, aunque ambos equipos generaron oportunidades. Atl. de Madrid tuvo un 56% de posesión y realizó 20 remates, de los cuales 4 fueron al arco. Dep. La Coruña, por su parte, también registró 4 remates al arco entre sus 14 intentos. A pesar de las ocasiones, el gol de Álvarez fue suficiente para que el equipo local se llevara los tres puntos. Ambos equipos tuvieron 3 corners, y el Atl. de Madrid recibió 4 tarjetas amarillas contra 2 del equipo visitante.</desc>
     <credits>
       <director>Guillermo Rodriguez Duran</director>
       <actor>Paco Clares</actor>
@@ -125968,7 +125916,7 @@ En Vivo</title>
   <programme start="20261027210000 -0300" stop="20261027230000 -0300" channel="ESPN 4 CL">
     <title>Serie A • Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore</title>
     <sub-title>Sassuolo vs. Lazio, Fecha 9, Mapei Stadium - Città del Tricolore</sub-title>
-    <desc>Diferido ║ Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore | Sassuolo se enfrenta a Lazio en el Mapei Stadium por la fecha 9 de la Serie A. Un duelo emocionante donde ambos equipos buscarán sumar puntos vitales en la competencia.</desc>
+    <desc>Diferido ║ Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore | Sassuolo se enfrenta a Lazio en el Mapei Stadium - Città del Tricolore por la fecha 9 de la Serie A 2026-2027. El equipo local llega tras perder 2-0 ante su rival en la última jornada y acumula tres derrotas en sus últimos cinco encuentros. Por su parte, Lazio llega en un buen momento, habiendo ganado sus últimos tres partidos, incluyendo un 2-1 en su más reciente presentación. En el historial directo, Lazio ha ganado tres de los últimos cinco enfrentamientos, mientras que Sassuolo solo ha logrado una victoria.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Italia</country>
@@ -125978,7 +125926,7 @@ En Vivo</title>
   <programme start="20261027230000 -0300" stop="20261028010000 -0300" channel="ESPN 4 CL">
     <title>Serie A • Roma vs Cagliari, Fecha 9, Stadio Olimpico</title>
     <sub-title>Roma vs. Cagliari, Fecha 9, Stadio Olimpico</sub-title>
-    <desc>Diferido ║ Roma vs Cagliari, Fecha 9, Stadio Olimpico | Roma se enfrenta a Cagliari en un emocionante partido por la fecha 9 de la Serie A. Ambos equipos buscan sumar puntos cruciales en su camino hacia la cima de la tabla.</desc>
+    <desc>Diferido ║ Roma vs Cagliari, Fecha 9, Stadio Olimpico | Roma recibe a Cagliari en el Stadio Olimpico por la fecha 9 de la Serie A 2026-2027. El local llega tras un emocionante empate 3-3 como visitante, donde mostró una gran capacidad de reacción. En tanto, Cagliari viene de una derrota 0-2 en su último partido, lo que complica su situación en la tabla. En el historial reciente entre ambos, Roma ha ganado 3 de los últimos 5 encuentros, con una victoria de Cagliari y un empate.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Italia</country>
@@ -125999,7 +125947,7 @@ En Vivo</title>
   <programme start="20261028020000 -0300" stop="20261028040000 -0300" channel="ESPN 4 CL">
     <title>Carabao Cup • Fleetwood vs Arsenal, Octavos de final, Highbury Stadium</title>
     <sub-title>Fleetwood vs. Arsenal, Octavos de final, Highbury Stadium</sub-title>
-    <desc>Diferido ║ Fleetwood vs Arsenal, Octavos de final, Highbury Stadium | Fleetwood se enfrenta a Arsenal en un emocionante encuentro por los octavos de final de la Carabao Cup. Un partido decisivo donde ambos equipos buscarán avanzar en el torneo.</desc>
+    <desc>Diferido ║ Fleetwood vs Arsenal, Octavos de final, Highbury Stadium | Fleetwood recibe a Arsenal en los octavos de final de la Carabao Cup en el Highbury Stadium. El equipo local llega tras perder 2-1 ante un rival en League Two y haber caído 4-2 en su anterior encuentro. Por su parte, Arsenal llega con una victoria 2-0 en Premier League y un empate 2-2 en la UEFA Champions League, mostrando un rendimiento sólido en sus últimas presentaciones.</desc>
     <date>2026</date>
     <category>Fútbol</category>
     <country>Inglaterra</country>
@@ -127666,117 +127614,6 @@ En Vivo</title>
     <episode-num system="onscreen">S0  20262027</episode-num>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
   </programme>
-  <programme start="20261024180000 +0000" stop="20261024200000 +0000" channel="Universo">
-    <category lang="en">Drama</category>
-    <category lang="en">Movie</category>
-    <credits>
-      <director>José María Fernández Unsaín</director>
-      <actor>Jacqueline Andere</actor>
-      <actor>Ricardo Blume</actor>
-    </credits>
-    <date>1971</date>
-    <desc lang="en">Una muchacha soltera, próxima a dar a luz, busca la ayuda de un amigo de la infancia para encontrar al padre de su hijo.</desc>
-    <icon src="https://iptv-epg.org/images/xQ8uqLENRPzsYIZEggXVDdmTQnJ6_hFM00Xbvd-Fs9hTGxqARpDPEWrxcixGAjNWbO3tZ0gXhElmWtKKche6kODrXPAo4DxGfLTYbw29jW0"/>
-    <title lang="en">Los enamorados</title>
-  </programme>
-  <programme start="20261024200000 +0000" stop="20261024210000 +0000" channel="Universo">
-    <category lang="en">Community</category>
-    <category lang="en">Law</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Tony Salup</director>
-      <producer>David Gherardi</producer>
-      <producer>Marianth Villarroel</producer>
-    </credits>
-    <desc lang="en">Sexo y golpe en la cocina; Casada con abuelo
-Lenin cocina a domicilio y transmite su trabajo en vivo, su clienta salió semidesnuda en cámara y el marido lo golpeó. Marian se casó por dinero y papeles, el marido resultó ser su abuelo.</desc>
-    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
-    <previously-shown/>
-    <title lang="en">Caso cerrado</title>
-  </programme>
-  <programme start="20261024210000 +0000" stop="20261024220000 +0000" channel="Universo">
-    <category lang="en">Community</category>
-    <category lang="en">Law</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Tony Salup</director>
-      <producer>David Gherardi</producer>
-      <producer>Marianth Villarroel</producer>
-    </credits>
-    <desc lang="en">Muerte acelerada; Consecuencias del pasado
-José lleva a la madre a la funeraria porque supuestamente le quedan cuatro horas de vida y él tiene que viajar. Karen piensa que su esposo abusa de su hija, pero el hombre sospecha del primo.</desc>
-    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
-    <previously-shown/>
-    <title lang="en">Caso cerrado</title>
-  </programme>
-  <programme start="20261024220000 +0000" stop="20261024230000 +0000" channel="Universo">
-    <category lang="en">Community</category>
-    <category lang="en">Law</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Tony Salup</director>
-      <producer>David Gherardi</producer>
-      <producer>Marianth Villarroel</producer>
-    </credits>
-    <desc lang="en">El uso justo; Espalda valiosa
-Michael es un transexual que reclama que le plagiaron sus fotos de igualdad, donde posa con una hetero. Vanessa tiene cáncer terminal, su cuñado le compra su espalda tatuada y ella se sana.</desc>
-    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
-    <previously-shown/>
-    <title lang="en">Caso cerrado</title>
-  </programme>
-  <programme start="20261024230000 +0000" stop="20261024233000 +0000" channel="Universo">
-    <category lang="en">Community</category>
-    <category lang="en">Law</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Tony Salup</director>
-      <producer>David Gherardi</producer>
-      <producer>Marianth Villarroel</producer>
-    </credits>
-    <desc lang="en">Por su culpa caí
-Alejandro denunció a su amigo Antonio en inmigración porque es indocumentado, y le dieron su puesto en la empresa.</desc>
-    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
-    <previously-shown/>
-    <title lang="en">Caso cerrado</title>
-  </programme>
-  <programme start="20261024233000 +0000" stop="20261025003000 +0000" channel="Universo">
-    <category lang="en">Public affairs</category>
-    <category lang="en">Self improvement</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Series</category>
-    <credits>
-      <producer>Pamela Pacheco</producer>
-    </credits>
-    <desc lang="en">S01 E596 — Era mi amigo y ahora quiero que sea mi novio
-Johan se enamora de su mejor amigo Erick, quien tiene esposa e hijo. Las familias están enfrentadas y divididas por la conducta obsesiva de Johan. El pasado de ambos queda al descubierto.</desc>
-    <episode-num>S01 E596</episode-num>
-    <icon src="https://iptv-epg.org/images/YmmPF1sipFqbYQQCetgMPD66OwpTsKL4Oco0nVd9DaWkVh9agBCQ1FLqQ5Ng1I-zx8wdG1qhyJx9nZtYrTQV9vl_whQOS8i9B2ExFM5VEIc"/>
-    <previously-shown/>
-    <title lang="en">Acércate a Rocío</title>
-  </programme>
-  <programme start="20261025003000 +0000" stop="20261025020000 +0000" channel="Universo">
-    <category lang="en">Reality</category>
-    <category lang="en">Self improvement</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Andrés Tovar</director>
-    </credits>
-    <desc lang="en">S01 E14 — Mi hija adora al diablo
-Cecilia asegura que Elizabeth practica rituales religiosos que adoran al diablo y pone en riesgo la salud mental de su nieta de 3 años. Su hija sostiene que no hay nada de malo en lo que hace.</desc>
-    <episode-num>S01 E14</episode-num>
-    <icon src="https://iptv-epg.org/images/TIQaEz6SG4vTbUt-4ur52Y-iPTcG7zTeEn4CTXO_ll_BYa9YNh6SEYgCAcqW4dhMIRCXjExqrpV1lbz5XxI---hh_YAsitjMroJEOdAJiDQ"/>
-    <previously-shown/>
-    <title lang="en">Acércate a Rocío al límite</title>
-  </programme>
   <programme start="20261025020000 +0000" stop="20261025040000 +0000" channel="Universo">
     <category lang="en">Action</category>
     <category lang="en">Movie</category>
@@ -127938,12 +127775,29 @@ Eliminatorias, Grupo F de la Copa Mundial Femenina Sub-17 de la FIFA 2026. Méxi
     <category lang="en">Soccer</category>
     <category lang="en">Series</category>
     <desc lang="en">Lecce vs. Juventus
-Desde el Estadio Via del Mare en Lecce, Apulia, Italia.</desc>
+Acción de la fecha 8. Lecce enfrenta a Juventus. Desde el Stadio Via del Mare. Los visitantes luchan por puestos en zona de clasificación a competiciones europeas.</desc>
     <icon src="https://iptv-epg.org/images/pz5-HJxkZirYciah6-rcaUNDh6kDxqrXo44Ki_JljxDecNVqQ3nWC0lTfGuWtfJeXePPRDEydwPtfC5_ScqJm5g_srsJy7ynzitY1mmcKf0"/>
     <title lang="en">Fútbol Serie A</title>
     <live/>
   </programme>
-  <programme start="20261025190000 +0000" stop="20261025200000 +0000" channel="Universo">
+  <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="Universo">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <desc lang="en">25% de vida
+Perla va a perder su casa y su hermana no puede ayudarla por estar entre pandillas.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <title lang="en">Caso cerrado</title>
+    <new/>
+  </programme>
+  <programme start="20261025193000 +0000" stop="20261025203000 +0000" channel="Universo">
     <category lang="en">Public affairs</category>
     <category lang="en">Self improvement</category>
     <category lang="en">Talk</category>
@@ -127958,7 +127812,7 @@ Johan se enamora de su mejor amigo Erick, quien tiene esposa e hijo. Las familia
     <previously-shown/>
     <title lang="en">Acércate a Rocío</title>
   </programme>
-  <programme start="20261025200000 +0000" stop="20261025220000 +0000" channel="Universo">
+  <programme start="20261025203000 +0000" stop="20261025220000 +0000" channel="Universo">
     <category lang="en">Reality</category>
     <category lang="en">Self improvement</category>
     <category lang="en">Talk</category>
@@ -128020,7 +127874,7 @@ Daphne no supera la muerte de su hija, cree que reencarnó en la muñeca preferi
     <category lang="en">Soccer</category>
     <category lang="en">Series</category>
     <desc lang="en">Kansas City Chiefs vs. Seattle Seahawks
-Seattle Seahawks recibe a Kansas City Chiefs en el Lumen Field en un duelo de la semana 7 de la temporada regular de la NFL. Kansas City cuenta con el mariscal de campo Patrick Mahomes, mientras que Sam Darnold encabeza a Seattle.</desc>
+Seattle Seahawks recibe a Kansas City Chiefs en un partido de la temporada regular de la NFL en el Lumen Field. Kansas City llega con un récord de 5-0, mientras que Seattle tiene un récord de 3-3 y ha perdido tres de sus últimos cuatro partidos.</desc>
     <icon src="https://iptv-epg.org/images/nptd7Cq_BErU79hQhC5coaxToB41P5JahCWze74z245zNUxnN2CZRGgkTTE0qtkpDHL4oO-l-8Kxij3ej_-BDAHFeUABkhFzm0wfptgTvag"/>
     <title lang="en">Fútbol Americano NFL</title>
     <live/>
@@ -128242,28 +128096,28 @@ El cuadrilátero y el apoyo de un entrenador le dan a Fátima la oportunidad de 
   </programme>
   <programme start="20261026190000 +0000" stop="20261026200000 +0000" channel="Universo">
     <category lang="en">Action</category>
-    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
     <category lang="en">Soap</category>
     <category lang="en">Series</category>
     <credits>
-      <director>Diego Mejía</director>
-      <actor>Catherine Siachoque</actor>
-      <actor>Fabián Ríos</actor>
       <actor>Carmen Villalobos</actor>
       <actor>Kimberly Reyes</actor>
-      <actor>Carolina Gaitán</actor>
-      <actor>Juan Urrego</actor>
-      <actor>Juan Llano</actor>
-      <actor>Dagoberto Gama</actor>
+      <actor>Catherine Siachoque</actor>
+      <actor>Fabián Ríos</actor>
+      <actor>Gregorio Pernía</actor>
+      <actor>Stefanía Gómez</actor>
+      <actor>Stephania Duque</actor>
+      <actor>Roberto Manrique</actor>
+      <actor>Martín Karpan</actor>
+      <actor>Mauro Mauad</actor>
+      <actor>Mauricio Cujar</actor>
       <actor>Francisco Bolívar</actor>
-      <actor>Diana Acevedo</actor>
-      <actor>Johanna Fadul</actor>
-      <actor>Joselyn Gallardo</actor>
     </credits>
-    <desc lang="en">S01 E77 — Enemiga número uno
-Valeria pide la cabeza de los responsables del atentado en el ancianato y aprovecha la ocasión para colocar a su adversaria en la lista negra. Por su parte, Catalina queda asombrada con Mariana.</desc>
+    <date>1000</date>
+    <desc lang="en">S01 E77 — Más vidas que un gato
+Luego de una reunión con Vanessa, Jota y Marcela buscan la forma de comprobar si Yésica y Marcela son la misma persona. Albeiro siente con mucho peso la muerte de su hijo.</desc>
     <episode-num>S01 E77</episode-num>
-    <icon src="https://iptv-epg.org/images/MrCiH4AcctjmLG_d2knZjfxVLPLUjcmLhJCCmOlkAYuhEhHSoyPow4lVVd72SDfc53hCZ37TIIB2JoXE8pyg_8K-Twm0gNm-zrCmQXvUzGw"/>
+    <icon src="https://iptv-epg.org/images/3TTN5KFWqm7oMZdf-YcXqTztB-MFPnRFqLTPr6hdLTsvHLGSVarSRhrnra13EtLfC7A8HKghWylgnSLCdYcht_J65e_0Co3wqr5CrB9DEII"/>
     <previously-shown/>
     <title lang="en">El final del paraíso</title>
   </programme>
@@ -128381,28 +128235,28 @@ La hija de Ana le reclama por aceptar que su hermano llevara a su pareja a vivir
   </programme>
   <programme start="20261027030000 +0000" stop="20261027040000 +0000" channel="Universo">
     <category lang="en">Action</category>
-    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
     <category lang="en">Soap</category>
     <category lang="en">Series</category>
     <credits>
-      <director>Diego Mejía</director>
-      <actor>Catherine Siachoque</actor>
-      <actor>Fabián Ríos</actor>
       <actor>Carmen Villalobos</actor>
       <actor>Kimberly Reyes</actor>
-      <actor>Carolina Gaitán</actor>
-      <actor>Juan Urrego</actor>
-      <actor>Juan Llano</actor>
-      <actor>Dagoberto Gama</actor>
+      <actor>Catherine Siachoque</actor>
+      <actor>Fabián Ríos</actor>
+      <actor>Gregorio Pernía</actor>
+      <actor>Stefanía Gómez</actor>
+      <actor>Stephania Duque</actor>
+      <actor>Roberto Manrique</actor>
+      <actor>Martín Karpan</actor>
+      <actor>Mauro Mauad</actor>
+      <actor>Mauricio Cujar</actor>
       <actor>Francisco Bolívar</actor>
-      <actor>Diana Acevedo</actor>
-      <actor>Johanna Fadul</actor>
-      <actor>Joselyn Gallardo</actor>
     </credits>
-    <desc lang="en">S01 E78 — Entre la vida y la muerte
-Johana se escapa de casa y va a matar a Hilda. En el medio del forcejeo, la exempleada de Salvatore aprieta el gatillo. Ahora todos sufren al ver a un ser querido tendido en el suelo.</desc>
+    <date>1000</date>
+    <desc lang="en">S01 E78 — Sin palabras
+Valeria deposita toda la culpa en Titi, afirmando que él realizó una campaña en su contra, y le ruega a Albeiro que se aleje de él.</desc>
     <episode-num>S01 E78</episode-num>
-    <icon src="https://iptv-epg.org/images/MrCiH4AcctjmLG_d2knZjfxVLPLUjcmLhJCCmOlkAYuhEhHSoyPow4lVVd72SDfc53hCZ37TIIB2JoXE8pyg_8K-Twm0gNm-zrCmQXvUzGw"/>
+    <icon src="https://iptv-epg.org/images/3TTN5KFWqm7oMZdf-YcXqTztB-MFPnRFqLTPr6hdLTsvHLGSVarSRhrnra13EtLfC7A8HKghWylgnSLCdYcht_J65e_0Co3wqr5CrB9DEII"/>
     <title lang="en">El final del paraíso</title>
     <new/>
   </programme>
@@ -128617,11 +128471,15 @@ Acción de la fecha 9 de la Serie A de Italia 2025-26. Roma se enfrenta a Caglia
     <category lang="en">Public affairs</category>
     <category lang="en">Self improvement</category>
     <category lang="en">Talk</category>
+    <category lang="en">Series</category>
     <credits>
       <producer>Pamela Pacheco</producer>
     </credits>
-    <desc lang="en">Hablar de los problemas es el primer paso para superarlos y, por eso, Rocío trae un programa único para hablar de las preocupaciones de cada día y, en conjunto, encontrar una solución.</desc>
+    <desc lang="en">S01 E559 — Aprovechada y ratera, esa es mi nuera
+La hija de Ana le reclama por aceptar que su hermano llevara a su pareja a vivir con ellos, sin exigirles que contribuyeran con los gastos. Ahora la nuera se fue y se llevó los muebles.</desc>
+    <episode-num>S01 E559</episode-num>
     <icon src="https://iptv-epg.org/images/YmmPF1sipFqbYQQCetgMPD66OwpTsKL4Oco0nVd9DaWkVh9agBCQ1FLqQ5Ng1I-zx8wdG1qhyJx9nZtYrTQV9vl_whQOS8i9B2ExFM5VEIc"/>
+    <previously-shown/>
     <title lang="en">Acércate a Rocío</title>
   </programme>
   <programme start="20261027230000 +0000" stop="20261028000000 +0000" channel="Universo">
@@ -128679,108 +128537,16 @@ Antonio un cazatalentos de jugadores de béisbol, termina involucrado en un prob
     <category lang="en">Public affairs</category>
     <category lang="en">Self improvement</category>
     <category lang="en">Talk</category>
+    <category lang="en">Series</category>
     <credits>
       <producer>Pamela Pacheco</producer>
     </credits>
-    <desc lang="en">Hablar de los problemas es el primer paso para superarlos y, por eso, Rocío trae un programa único para hablar de las preocupaciones de cada día y, en conjunto, encontrar una solución.</desc>
+    <desc lang="en">S01 E496 — Su padrino la hundió en el vicio
+Yesenia se arrepiente de haber dejado a su hija Valeria al cuidado de su compadre. La joven, ahora adicta a las drogas, los responsabiliza a ambos por todo lo malo que ha sucedido en su vida.</desc>
+    <episode-num>S01 E496</episode-num>
     <icon src="https://iptv-epg.org/images/YmmPF1sipFqbYQQCetgMPD66OwpTsKL4Oco0nVd9DaWkVh9agBCQ1FLqQ5Ng1I-zx8wdG1qhyJx9nZtYrTQV9vl_whQOS8i9B2ExFM5VEIc"/>
-    <title lang="en">Acércate a Rocío</title>
-    <new/>
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024210000 +0000" channel="Telemundo East">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Lazio vs. Parma
-Desde el Estadio Olímpico de Roma, en Italia.</desc>
-    <icon src="https://iptv-epg.org/images/K5VS78hjWyjbdtOOcsmkOW_wHT9DTeSANNiwKEDhhKL0ZCRQpe6CYOnivkQnjWJZCC8GXX5A2lrzbWPpfNMZuZkTeqm21rXua4MIEa5JHew"/>
-    <title lang="en">Fútbol Serie A</title>
-    <live/>
-  </programme>
-  <programme start="20261024210000 +0000" stop="20261024220000 +0000" channel="Telemundo East">
-    <category lang="en">Drama</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Karla Farjeat</director>
-      <director>Carlos Guerra</director>
-      <actor>Augusto Di Paolo</actor>
-      <actor>Mishelle Garfias</actor>
-      <actor>Saskia Seligman</actor>
-    </credits>
-    <desc lang="en">Monis: El infierno de la realidad
-Al confirmarse que su esposo es un criminal, Monis y sus hijos se enfrentan al acoso y desprecio, al punto de que el mayor intenta suicidarse. Así comienza un viaje de resiliencia y compasión.</desc>
-    <icon src="https://iptv-epg.org/images/vzhC9zr5exhlA9k14dGuHSOc4aNX9QTbw1vchXycbiicZSkxAs30yjxKkV3TQnPhFyiivGqHbMryTzHftaWrUy22wUe7Dbt-s4zpxnAB6q8"/>
-    <title lang="en">Lo que callamos las mujeres</title>
-    <new/>
-  </programme>
-  <programme start="20261024220000 +0000" stop="20261024223000 +0000" channel="Telemundo East">
-    <category lang="en">Community</category>
-    <category lang="en">Law</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Tony Salup</director>
-      <producer>David Gherardi</producer>
-      <producer>Marianth Villarroel</producer>
-    </credits>
-    <date>2026</date>
-    <desc lang="en">A corazón abierto
-Daniela necesita un trasplante de corazón. Su hija, con muerte cerebral, podría ser la donante, pero está embarazada y su esposa Alejandra se opone porque quiere que nazca el bebé.</desc>
-    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
     <previously-shown/>
-    <title lang="en">Caso cerrado</title>
-  </programme>
-  <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="Telemundo East">
-    <category lang="en">News</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Julio Vaqueiro</actor>
-    </credits>
-    <desc lang="en">Noticias Telemundo fin de semana es la fuente de información más confiable de la comunidad hispana en EE. UU. Su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
-    <icon src="https://iptv-epg.org/images/JySp7J3Mh88opQ5QDCJ21sWu9C63gxR6WHizcth23MWHhMfasmrGOV5QyU8WPXam3FSRP3xQb_yMx5sggxaJq0m3H9TVfCIjDkF6jBn_VuA"/>
-    <title lang="en">Noticias Telemundo fin de semana</title>
-    <new/>
-  </programme>
-  <programme start="20261024230000 +0000" stop="20261025010000 +0000" channel="Telemundo East">
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">News</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E80 — La fiesta de Halloween
-Autoridades, familiares y amigos buscan a Chelsea Ellen Bruck, una joven de 22 años desaparecida tras una celebración de Halloween que reunió a unas 600 personas en Monroe, Míchigan.</desc>
-    <episode-num>S01 E80</episode-num>
-    <icon src="https://iptv-epg.org/images/hDprjc2Ns_3ruO9sreGRWs2DUZyxJm7imAruTUkHZ5IQ0O6GZj1YcrlaeCl_LhPqesk_cyGFdwFF10xaWWcbxBkNwNRR2YkOn40M97a0tb8"/>
-    <title lang="en">Dateline</title>
-    <new/>
-  </programme>
-  <programme start="20261025010000 +0000" stop="20261025030000 +0000" channel="Telemundo East">
-    <category lang="en">Horror</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Movie</category>
-    <credits>
-      <director>Fede Alvarez</director>
-      <producer>Sam Raimi</producer>
-      <producer>Rob Tapert</producer>
-      <actor>Jane Levy</actor>
-      <actor>Dylan Minnette</actor>
-      <actor>Daniel Zovatto</actor>
-      <actor>Stephen Lang</actor>
-      <actor>Emma Bercovici</actor>
-      <actor>Franciska Töröcsik</actor>
-      <actor>Christian Zagia</actor>
-      <actor>Katia Bokor</actor>
-      <actor>Sergej Onopko</actor>
-    </credits>
-    <date>2016</date>
-    <desc lang="en">Unos ladrones saben que un ciego guarda mucho dinero en su vivienda y entran en su casa para robarle. Pero descubren que el hombre guarda un secreto terrible y lo que parecía un atraco sencillo termina siendo la peor pesadilla de sus vidas.</desc>
-    <icon src="https://iptv-epg.org/images/rLqH8bUH39MkFsqj0jpvDMqNMPMvrsKkgoAgUeFEW3z8sXI-p3_GpnWvcynA9zo-CRg8SXnGijHGp9Tso3XdOXc2t9URn6tnkvt6x8am4jM"/>
-    <title lang="en">Don't Breathe</title>
-    <new/>
+    <title lang="en">Acércate a Rocío</title>
   </programme>
   <programme start="20261025030000 +0000" stop="20261025033000 +0000" channel="Telemundo East">
     <category lang="en">News</category>
@@ -128929,7 +128695,7 @@ A Anita la dieron por muerta cuando iba a Miami en balsa desde Cuba con Javier y
     <category lang="en">Soccer</category>
     <category lang="en">Series</category>
     <desc lang="en">Inter de Milán vs. Fiorentina
-Desde el estadio Giuseppe Meazza, en Milán, Italia.</desc>
+Acción de la fecha 8. Inter enfrenta a Fiorentina. Desde el Stadio Giuseppe Meazza. Los locales buscan defender su posición y los visitantes salir de la zona de descenso.</desc>
     <icon src="https://iptv-epg.org/images/4ZtQH_xT1y7GT2DQ8MGTEFM5Zczf60gZ4m-A32NEenp3gOiM5GZwSsFcjQR2yOVyXYGLb4YLEdFH7oJTjirtr2-PGMShimVZa3_ijOTzXq8"/>
     <title lang="en">Fútbol Serie A</title>
     <live/>
@@ -128985,7 +128751,7 @@ Acción de la jornada 7 de la Bundesliga 2026-27. Freiburg busca el liderato y l
     <category lang="en">Soccer</category>
     <category lang="en">Series</category>
     <desc lang="en">Udinese vs. AC Milan
-Desde el estadio Friuli, en Udine, Friuli-Venezia Giulia, Italia.</desc>
+Acción de la fecha 8. Udinese enfrenta a AC Milan. Desde el Bluenergy Stadium. Los visitantes buscan defender su posición en la zona de clasificación a UEFA Champions League.</desc>
     <icon src="https://iptv-epg.org/images/AgeaTgGRqX-Qoq67YFpR55g8RQVYSf0o5mejMpOqK4tSmfvWOalSsZWDLmBImnvf_PhddGOacazCA5tu2CKtaTUOCifKYICEkUpedBiQGhk"/>
     <title lang="en">Fútbol Serie A</title>
     <live/>
@@ -129022,8 +128788,8 @@ Sol quiere crear un cementerio para bebés no nacidos tras sufrir varias pérdid
   <programme start="20261025230000 +0000" stop="20261025235800 +0000" channel="Telemundo East">
     <category lang="en">Competition reality</category>
     <category lang="en">Series</category>
-    <desc lang="en">S01 E04
-Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de los Villanos&quot; y 200 mil dólares. Entre desafíos, inmunidades, alianzas y traiciones, solo uno alcanza la cima.</desc>
+    <desc lang="en">S01 E04 — Villanos dolidos
+Una dolorosa eliminación sacude la Villa y deja a un grupo devastado. Una cruel traición hace estallar las lealtades y la venganza cobra fuerza.</desc>
     <episode-num>S01 E04</episode-num>
     <icon src="https://iptv-epg.org/images/LVjMAYxgcJ0TQQc6830tE80mYIJPouKkJOmcr4C10pyH9LnAZRbbV4CwL6m5BgdkA8-J29Ss0BnL5YjwPPK2v-MAYyzK0aotCgZ-ZMdnYxM"/>
     <title lang="en">Juego de villanos</title>
@@ -129032,8 +128798,8 @@ Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de lo
   <programme start="20261025235800 +0000" stop="20261026020000 +0000" channel="Telemundo East">
     <category lang="en">Competition reality</category>
     <category lang="en">Series</category>
-    <desc lang="en">S01 E04
-Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de los Villanos&quot; y 200 mil dólares. Entre desafíos, inmunidades, alianzas y traiciones, solo uno alcanza la cima.</desc>
+    <desc lang="en">S01 E04 — El exterminador del mal
+Los villanos afilan sus armas y se prepararán para una cueva donde todo puede cambiar. Ahora se enfrentan al exterminador del mal.</desc>
     <episode-num>S01 E04</episode-num>
     <icon src="https://iptv-epg.org/images/LVjMAYxgcJ0TQQc6830tE80mYIJPouKkJOmcr4C10pyH9LnAZRbbV4CwL6m5BgdkA8-J29Ss0BnL5YjwPPK2v-MAYyzK0aotCgZ-ZMdnYxM"/>
     <title lang="en">Juego de villanos</title>
@@ -129188,7 +128954,7 @@ Noelia y su hermano pelean por el capital de un negocio que ella estableció con
     <category lang="en">Talk</category>
     <category lang="en">News</category>
     <category lang="en">Series</category>
-    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+    <desc lang="en">Fuertes tormentas provocan emergencia en varias regiones del país. La decisión de eliminar los carruajes tirados por caballos en Nueva York genera polémica y deja devastados a los cocheros.</desc>
     <icon src="https://iptv-epg.org/images/sH1BxfbZ6vqz89OzMbebCuCL-24l7gIMoTBX2P3IdO1gvBRiuEQAIJHGitq65XETI6JunehmISBNhZiGaX4eeVhm5-E0SD-X6afW1ULD2P8"/>
     <previously-shown/>
     <title lang="en">Al rojo vivo</title>
@@ -129217,7 +128983,7 @@ El show de las mañanas que ofrece más entretenimiento y diversión, con conten
   <programme start="20261026153000 +0000" stop="20261026160000 +0000" channel="Telemundo East">
     <category lang="en">Series</category>
     <desc lang="en">S01 E68
-Historia de Reina y Nicolás que se enamoran a primera vista, pero ella termina casada con un traficante de joyas y él se convierte en agente del Servicio Secreto que regresa para rescatar a la mujer que ama.</desc>
+Historia de Reina y Nicolás, quienes se enamoran a primera vista, pero ella termina casada con un traficante de joyas y él se convierte en agente del Servicio Secreto, pero regresa para rescatar a la mujer que ama.</desc>
     <episode-num>S01 E68</episode-num>
     <icon src="https://iptv-epg.org/images/vOJID698ZYO_Dp-SeUUvfEaWHWPq_cU_jlY-va8NXOOzS23Dt9Vc_Y3MYqiX43HPH6nhd3LKhr2QhdHPecYuRAHyifQZSRDkhtJJ-TncN0U"/>
     <previously-shown/>
@@ -129357,6 +129123,7 @@ Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de lo
     <category lang="en">Adventure</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Soap</category>
+    <category lang="en">Series</category>
     <credits>
       <director>Miguel Varoni</director>
       <director>Carlos Villegas Rosales</director>
@@ -129375,7 +129142,9 @@ Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de lo
       <actor>Thali García</actor>
       <actor>Dayana Garroz</actor>
     </credits>
-    <desc lang="en">La vida de un hombre humilde que quiso convertirse en el más rico y poderoso del mundo del narcotráfico en México. Para lograrlo fue capaz de cualquier cosa, y para mantenerlo, hasta de cambiarse el rostro.</desc>
+    <desc lang="en">S10 E78 — Cuenta pendiente
+Uzcátegui confronta a Aurelio por la muerte de Claire y le advierte sobre la pena capital. Él responde con amenazas y prepara un plan contra la fiscal Huerta y su jefe, Francisco Moreno.</desc>
+    <episode-num>S10 E78</episode-num>
     <icon src="https://iptv-epg.org/images/0oDHOU8nzkuCCX1-Cq52ddDJz594mrC8PjFByMOXGAu59PBIKu-PDKbi4UweLWI-pv0SP9qnXJOSGvh0QpS8nNHivJkdRbfafajIynhm1Ck"/>
     <title lang="en">El señor de los cielos</title>
     <new/>
@@ -129401,8 +129170,8 @@ Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de lo
       <actor>Mehmet Polat</actor>
       <actor>Muttalip Mujdeci</actor>
     </credits>
-    <desc lang="en">S02 E71
-Alya llega a Albora para enterrar a su esposo y se enfrenta, por primera vez, a una poderosa familia impulsada por la venganza. Proteger a su hijo Deniz y recuperar su libertad no será fácil.</desc>
+    <desc lang="en">S02 E71 — La excusa perfecta
+Alya va a prisión para descubrir la verdad sobre Meryem y lo que encuentra despierta su furia. Ella decide abandonar la mansión porque ya no puede confiar en nadie. Boran visita a su excuñada.</desc>
     <episode-num>S02 E71</episode-num>
     <icon src="https://iptv-epg.org/images/ZEffM-0vBqyHTqIDWb6ThSxDEG8zfGr1qZmIWU7Y4doLVYSnfXprDWORfBGAGcvzwX30G1x367K7Pb9cSd_8rFG7jI4oHCk2m-k4Zoud9X4"/>
     <title lang="en">Lejos de ti</title>
@@ -129594,7 +129363,7 @@ El show de las mañanas que ofrece más entretenimiento y diversión, con conten
   <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="Telemundo East">
     <category lang="en">Series</category>
     <desc lang="en">S01 E69
-Historia de Reina y Nicolás que se enamoran a primera vista, pero ella termina casada con un traficante de joyas y él se convierte en agente del Servicio Secreto que regresa para rescatar a la mujer que ama.</desc>
+Historia de Reina y Nicolás, quienes se enamoran a primera vista, pero ella termina casada con un traficante de joyas y él se convierte en agente del Servicio Secreto, pero regresa para rescatar a la mujer que ama.</desc>
     <episode-num>S01 E69</episode-num>
     <icon src="https://iptv-epg.org/images/vOJID698ZYO_Dp-SeUUvfEaWHWPq_cU_jlY-va8NXOOzS23Dt9Vc_Y3MYqiX43HPH6nhd3LKhr2QhdHPecYuRAHyifQZSRDkhtJJ-TncN0U"/>
     <previously-shown/>
@@ -129734,6 +129503,7 @@ Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de lo
     <category lang="en">Adventure</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Soap</category>
+    <category lang="en">Series</category>
     <credits>
       <director>Miguel Varoni</director>
       <director>Carlos Villegas Rosales</director>
@@ -129752,7 +129522,9 @@ Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de lo
       <actor>Thali García</actor>
       <actor>Dayana Garroz</actor>
     </credits>
-    <desc lang="en">La vida de un hombre humilde que quiso convertirse en el más rico y poderoso del mundo del narcotráfico en México. Para lograrlo fue capaz de cualquier cosa, y para mantenerlo, hasta de cambiarse el rostro.</desc>
+    <desc lang="en">S10 E79 — Recompensa millonaria
+Aurelio enfrenta una nueva amenaza que pone en riesgo su organización. Sus enemigos aumentan la presión y una advertencia anticipa duras consecuencias para su imperio y sus aliados.</desc>
+    <episode-num>S10 E79</episode-num>
     <icon src="https://iptv-epg.org/images/0oDHOU8nzkuCCX1-Cq52ddDJz594mrC8PjFByMOXGAu59PBIKu-PDKbi4UweLWI-pv0SP9qnXJOSGvh0QpS8nNHivJkdRbfafajIynhm1Ck"/>
     <title lang="en">El señor de los cielos</title>
     <new/>
@@ -129781,115 +129553,6 @@ Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de lo
     <icon src="https://iptv-epg.org/images/ZEffM-0vBqyHTqIDWb6ThSxDEG8zfGr1qZmIWU7Y4doLVYSnfXprDWORfBGAGcvzwX30G1x367K7Pb9cSd_8rFG7jI4oHCk2m-k4Zoud9X4"/>
     <title lang="en">Lejos de ti</title>
     <new/>
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024210000 +0000" channel="Telemundo West">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Lazio vs. Parma
-Desde el Estadio Olímpico de Roma, en Italia.</desc>
-    <icon src="https://iptv-epg.org/images/K5VS78hjWyjbdtOOcsmkOW_wHT9DTeSANNiwKEDhhKL0ZCRQpe6CYOnivkQnjWJZCC8GXX5A2lrzbWPpfNMZuZkTeqm21rXua4MIEa5JHew"/>
-    <title lang="en">Fútbol Serie A</title>
-    <live/>
-  </programme>
-  <programme start="20261024210000 +0000" stop="20261024213000 +0000" channel="Telemundo West">
-    <category lang="en">Educational</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S08 E04 — Frío, emoción y tropiezos alpinos
-En los Alpes, las crías de los animales sortean acantilados escarpados y climas extremos hasta la llegada de la primavera, cuando exploran su entorno y reciben la nueva estación con alegría.</desc>
-    <episode-num>S08 E04</episode-num>
-    <icon src="https://iptv-epg.org/images/-bZElPZJMF3ghCh5ZhwSgp4tOVW_0Oj8enoe_lGSzZs0I9IYJdETLYy_9UhkUUz-GHkFF66L_MNZVqBJzFt51ghRS-5l7eJUaRauZ5CNEf8"/>
-    <title lang="en">Exploración planeta Tierra con Dylan Dreyer</title>
-    <new/>
-  </programme>
-  <programme start="20261024213000 +0000" stop="20261024220000 +0000" channel="Telemundo West">
-    <category lang="en">Basketball</category>
-    <category lang="en">Educational</category>
-    <category lang="en">Series</category>
-    <category>Sports</category>
-    <desc lang="en">S01 E04 — ¡Hola Chile!
-Jóvenes y niños se divierten en el espectáculo de los Trotamundos en Chile. Torch establece un récord mundial Guinness. El equipo comparte con miembros de la Fundación Embrace Girls en Florida.</desc>
-    <episode-num>S01 E04</episode-num>
-    <icon src="https://iptv-epg.org/images/UFEMLlFGJhzLmnTx4NI5BL_WIe-YR2qQPCp312QDrkP1im7mkC99lzIrbnyFsuVsEZPgbpSNxn1c3sMS6oHvUzooCjAZsA5Ec44Vd5_JhE8"/>
-    <previously-shown/>
-    <title lang="en">Harlem Globetrotters: Ganando con la comunidad</title>
-  </programme>
-  <programme start="20261024220000 +0000" stop="20261024223000 +0000" channel="Telemundo West">
-    <category lang="en">American history</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Educational</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Series</category>
-    <date>2026</date>
-    <desc lang="en">S01 E01 — Una nación en construcción
-La historia de Estados Unidos cobra vida a través de íconos como la Estatua de la Libertad, el Ferrocarril Transcontinental, el Sendero de los Apalaches, Broadway y otros símbolos.</desc>
-    <episode-num>S01 E01</episode-num>
-    <icon src="https://iptv-epg.org/images/53FHDVVeWyS50-EmzCq99HGougf4RwL82zPfRfAW7lRDVLFZJvcgcV1KnSc_NzJzRn6r6Zgr_DIYkYzzlROkrVXFsTPV9uLRwG-UWwun9C8"/>
-    <previously-shown/>
-    <title lang="en">Explorando Estados Unidos</title>
-  </programme>
-  <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="Telemundo West">
-    <category lang="en">Animals</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
-    <category lang="en">Science</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E04 — El mundo oculto de los ocelotes
-En la frontera entre México y EE. UU., Peter y la Dra. Rae descubren el mundo oculto de los misteriosos, esquivos y escasos ocelotes, considerados los gatos más bellos de América del Norte.</desc>
-    <episode-num>S02 E04</episode-num>
-    <icon src="https://iptv-epg.org/images/NqO6DN66jpAkDI_KUkKhgbvC7JvNyOcUzCtvd6LAkX_DQCYv4Z5e48IXc4fJtAr2iiOHbrgLVN8JLrUIirr24gSRP8d2D4PAofub3PfbYwI"/>
-    <previously-shown/>
-    <title lang="en">El reino animal de Mutual of Omaha: Protegiendo la naturaleza</title>
-  </programme>
-  <programme start="20261024230000 +0000" stop="20261025000000 +0000" channel="Telemundo West">
-    <category lang="en">Public affairs</category>
-    <category lang="en">Self improvement</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Series</category>
-    <credits>
-      <producer>Pamela Pacheco</producer>
-    </credits>
-    <desc lang="en">S01 E498 — Mi amiga es oportunista
-Edith está preocupada porque su hermano y su amiga María se han aliado para ganar dinero al manipular a hombres solitarios, y vivir a costa de ellos. Teme que la involucren en sus andanzas.</desc>
-    <episode-num>S01 E498</episode-num>
-    <icon src="https://iptv-epg.org/images/YmmPF1sipFqbYQQCetgMPD66OwpTsKL4Oco0nVd9DaWkVh9agBCQ1FLqQ5Ng1I-zx8wdG1qhyJx9nZtYrTQV9vl_whQOS8i9B2ExFM5VEIc"/>
-    <title lang="en">Acércate a Rocío</title>
-    <new/>
-  </programme>
-  <programme start="20261025000000 +0000" stop="20261025010000 +0000" channel="Telemundo West">
-    <category lang="en">Drama</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Karla Farjeat</director>
-      <director>Carlos Guerra</director>
-      <actor>Augusto Di Paolo</actor>
-      <actor>Mishelle Garfias</actor>
-      <actor>Saskia Seligman</actor>
-    </credits>
-    <desc lang="en">Monis: El infierno de la realidad
-Al confirmarse que su esposo es un criminal, Monis y sus hijos se enfrentan al acoso y desprecio, al punto de que el mayor intenta suicidarse. Así comienza un viaje de resiliencia y compasión.</desc>
-    <icon src="https://iptv-epg.org/images/vzhC9zr5exhlA9k14dGuHSOc4aNX9QTbw1vchXycbiicZSkxAs30yjxKkV3TQnPhFyiivGqHbMryTzHftaWrUy22wUe7Dbt-s4zpxnAB6q8"/>
-    <title lang="en">Lo que callamos las mujeres</title>
-    <new/>
-  </programme>
-  <programme start="20261025010000 +0000" stop="20261025013000 +0000" channel="Telemundo West">
-    <category lang="en">Community</category>
-    <category lang="en">Law</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Tony Salup</director>
-      <producer>David Gherardi</producer>
-      <producer>Marianth Villarroel</producer>
-    </credits>
-    <date>2026</date>
-    <desc lang="en">A corazón abierto
-Daniela necesita un trasplante de corazón. Su hija, con muerte cerebral, podría ser la donante, pero está embarazada y su esposa Alejandra se opone porque quiere que nazca el bebé.</desc>
-    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
-    <previously-shown/>
-    <title lang="en">Caso cerrado</title>
   </programme>
   <programme start="20261025013000 +0000" stop="20261025020000 +0000" channel="Telemundo West">
     <category lang="en">News</category>
@@ -130036,7 +129699,7 @@ La doctora Ana María Polo interviene en batallas legales que afectan a los lati
     <category lang="en">Soccer</category>
     <category lang="en">Series</category>
     <desc lang="en">Inter de Milán vs. Fiorentina
-Desde el estadio Giuseppe Meazza, en Milán, Italia.</desc>
+Acción de la fecha 8. Inter enfrenta a Fiorentina. Desde el Stadio Giuseppe Meazza. Los locales buscan defender su posición y los visitantes salir de la zona de descenso.</desc>
     <icon src="https://iptv-epg.org/images/4ZtQH_xT1y7GT2DQ8MGTEFM5Zczf60gZ4m-A32NEenp3gOiM5GZwSsFcjQR2yOVyXYGLb4YLEdFH7oJTjirtr2-PGMShimVZa3_ijOTzXq8"/>
     <title lang="en">Fútbol Serie A</title>
     <live/>
@@ -130092,7 +129755,7 @@ Acción de la jornada 7 de la Bundesliga 2026-27. Freiburg busca el liderato y l
     <category lang="en">Soccer</category>
     <category lang="en">Series</category>
     <desc lang="en">Udinese vs. AC Milan
-Desde el estadio Friuli, en Udine, Friuli-Venezia Giulia, Italia.</desc>
+Acción de la fecha 8. Udinese enfrenta a AC Milan. Desde el Bluenergy Stadium. Los visitantes buscan defender su posición en la zona de clasificación a UEFA Champions League.</desc>
     <icon src="https://iptv-epg.org/images/AgeaTgGRqX-Qoq67YFpR55g8RQVYSf0o5mejMpOqK4tSmfvWOalSsZWDLmBImnvf_PhddGOacazCA5tu2CKtaTUOCifKYICEkUpedBiQGhk"/>
     <title lang="en">Fútbol Serie A</title>
     <live/>
@@ -130170,8 +129833,8 @@ Sol quiere crear un cementerio para bebés no nacidos tras sufrir varias pérdid
   <programme start="20261026020000 +0000" stop="20261026025800 +0000" channel="Telemundo West">
     <category lang="en">Competition reality</category>
     <category lang="en">Series</category>
-    <desc lang="en">S01 E04
-Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de los Villanos&quot; y 200 mil dólares. Entre desafíos, inmunidades, alianzas y traiciones, solo uno alcanza la cima.</desc>
+    <desc lang="en">S01 E04 — Villanos dolidos
+Una dolorosa eliminación sacude la Villa y deja a un grupo devastado. Una cruel traición hace estallar las lealtades y la venganza cobra fuerza.</desc>
     <episode-num>S01 E04</episode-num>
     <icon src="https://iptv-epg.org/images/LVjMAYxgcJ0TQQc6830tE80mYIJPouKkJOmcr4C10pyH9LnAZRbbV4CwL6m5BgdkA8-J29Ss0BnL5YjwPPK2v-MAYyzK0aotCgZ-ZMdnYxM"/>
     <title lang="en">Juego de villanos</title>
@@ -130180,8 +129843,8 @@ Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de lo
   <programme start="20261026025800 +0000" stop="20261026050000 +0000" channel="Telemundo West">
     <category lang="en">Competition reality</category>
     <category lang="en">Series</category>
-    <desc lang="en">S01 E04
-Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de los Villanos&quot; y 200 mil dólares. Entre desafíos, inmunidades, alianzas y traiciones, solo uno alcanza la cima.</desc>
+    <desc lang="en">S01 E04 — El exterminador del mal
+Los villanos afilan sus armas y se prepararán para una cueva donde todo puede cambiar. Ahora se enfrentan al exterminador del mal.</desc>
     <episode-num>S01 E04</episode-num>
     <icon src="https://iptv-epg.org/images/LVjMAYxgcJ0TQQc6830tE80mYIJPouKkJOmcr4C10pyH9LnAZRbbV4CwL6m5BgdkA8-J29Ss0BnL5YjwPPK2v-MAYyzK0aotCgZ-ZMdnYxM"/>
     <title lang="en">Juego de villanos</title>
@@ -130335,7 +129998,7 @@ Noelia y su hermano pelean por el capital de un negocio que ella estableció con
     <category lang="en">Talk</category>
     <category lang="en">News</category>
     <category lang="en">Series</category>
-    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+    <desc lang="en">Fuertes tormentas provocan emergencia en varias regiones del país. La decisión de eliminar los carruajes tirados por caballos en Nueva York genera polémica y deja devastados a los cocheros.</desc>
     <icon src="https://iptv-epg.org/images/sH1BxfbZ6vqz89OzMbebCuCL-24l7gIMoTBX2P3IdO1gvBRiuEQAIJHGitq65XETI6JunehmISBNhZiGaX4eeVhm5-E0SD-X6afW1ULD2P8"/>
     <previously-shown/>
     <title lang="en">Al rojo vivo</title>
@@ -130364,7 +130027,7 @@ El show de las mañanas que ofrece más entretenimiento y diversión, con conten
   <programme start="20261026183000 +0000" stop="20261026190000 +0000" channel="Telemundo West">
     <category lang="en">Series</category>
     <desc lang="en">S01 E68
-Historia de Reina y Nicolás que se enamoran a primera vista, pero ella termina casada con un traficante de joyas y él se convierte en agente del Servicio Secreto que regresa para rescatar a la mujer que ama.</desc>
+Historia de Reina y Nicolás, quienes se enamoran a primera vista, pero ella termina casada con un traficante de joyas y él se convierte en agente del Servicio Secreto, pero regresa para rescatar a la mujer que ama.</desc>
     <episode-num>S01 E68</episode-num>
     <icon src="https://iptv-epg.org/images/vOJID698ZYO_Dp-SeUUvfEaWHWPq_cU_jlY-va8NXOOzS23Dt9Vc_Y3MYqiX43HPH6nhd3LKhr2QhdHPecYuRAHyifQZSRDkhtJJ-TncN0U"/>
     <previously-shown/>
@@ -130504,6 +130167,7 @@ Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de lo
     <category lang="en">Adventure</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Soap</category>
+    <category lang="en">Series</category>
     <credits>
       <director>Miguel Varoni</director>
       <director>Carlos Villegas Rosales</director>
@@ -130522,7 +130186,9 @@ Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de lo
       <actor>Thali García</actor>
       <actor>Dayana Garroz</actor>
     </credits>
-    <desc lang="en">La vida de un hombre humilde que quiso convertirse en el más rico y poderoso del mundo del narcotráfico en México. Para lograrlo fue capaz de cualquier cosa, y para mantenerlo, hasta de cambiarse el rostro.</desc>
+    <desc lang="en">S10 E78 — Cuenta pendiente
+Uzcátegui confronta a Aurelio por la muerte de Claire y le advierte sobre la pena capital. Él responde con amenazas y prepara un plan contra la fiscal Huerta y su jefe, Francisco Moreno.</desc>
+    <episode-num>S10 E78</episode-num>
     <icon src="https://iptv-epg.org/images/0oDHOU8nzkuCCX1-Cq52ddDJz594mrC8PjFByMOXGAu59PBIKu-PDKbi4UweLWI-pv0SP9qnXJOSGvh0QpS8nNHivJkdRbfafajIynhm1Ck"/>
     <title lang="en">El señor de los cielos</title>
     <new/>
@@ -130548,8 +130214,8 @@ Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de lo
       <actor>Mehmet Polat</actor>
       <actor>Muttalip Mujdeci</actor>
     </credits>
-    <desc lang="en">S02 E71
-Alya llega a Albora para enterrar a su esposo y se enfrenta, por primera vez, a una poderosa familia impulsada por la venganza. Proteger a su hijo Deniz y recuperar su libertad no será fácil.</desc>
+    <desc lang="en">S02 E71 — La excusa perfecta
+Alya va a prisión para descubrir la verdad sobre Meryem y lo que encuentra despierta su furia. Ella decide abandonar la mansión porque ya no puede confiar en nadie. Boran visita a su excuñada.</desc>
     <episode-num>S02 E71</episode-num>
     <icon src="https://iptv-epg.org/images/ZEffM-0vBqyHTqIDWb6ThSxDEG8zfGr1qZmIWU7Y4doLVYSnfXprDWORfBGAGcvzwX30G1x367K7Pb9cSd_8rFG7jI4oHCk2m-k4Zoud9X4"/>
     <title lang="en">Lejos de ti</title>
@@ -130741,7 +130407,7 @@ El show de las mañanas que ofrece más entretenimiento y diversión, con conten
   <programme start="20261027183000 +0000" stop="20261027190000 +0000" channel="Telemundo West">
     <category lang="en">Series</category>
     <desc lang="en">S01 E69
-Historia de Reina y Nicolás que se enamoran a primera vista, pero ella termina casada con un traficante de joyas y él se convierte en agente del Servicio Secreto que regresa para rescatar a la mujer que ama.</desc>
+Historia de Reina y Nicolás, quienes se enamoran a primera vista, pero ella termina casada con un traficante de joyas y él se convierte en agente del Servicio Secreto, pero regresa para rescatar a la mujer que ama.</desc>
     <episode-num>S01 E69</episode-num>
     <icon src="https://iptv-epg.org/images/vOJID698ZYO_Dp-SeUUvfEaWHWPq_cU_jlY-va8NXOOzS23Dt9Vc_Y3MYqiX43HPH6nhd3LKhr2QhdHPecYuRAHyifQZSRDkhtJJ-TncN0U"/>
     <previously-shown/>
@@ -130876,63 +130542,6 @@ Dieciocho villanos icónicos compiten por el título de &quot;El Emperador de lo
     <icon src="https://iptv-epg.org/images/LVjMAYxgcJ0TQQc6830tE80mYIJPouKkJOmcr4C10pyH9LnAZRbbV4CwL6m5BgdkA8-J29Ss0BnL5YjwPPK2v-MAYyzK0aotCgZ-ZMdnYxM"/>
     <title lang="en">Juego de villanos</title>
     <new/>
-  </programme>
-  <programme start="20261024193000 +0000" stop="20261024200000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E04 — Gerd Muller
-Gerhard Müller, conocido como &quot;El Torpedo&quot;, marcó una época en la historia del fútbol alemán y mundial. Todavía hoy ocupa el tercer puesto en la clasificación de máximos goleadores del Mundial.</desc>
-    <episode-num>S01 E04</episode-num>
-    <icon src="https://iptv-epg.org/images/ymq8QLs1MQMQofaI2O-KcKpqZHztpN6wkE1-WOYl-CrjlhLF-YGdqMgyQSln_0C5nLVeLno0xY7Jzn3m3oAM7e247hJ88aLNUbcKrVVpzkE"/>
-    <previously-shown/>
-    <title lang="en">El gran show del fútbol</title>
-  </programme>
-  <programme start="20261024200000 +0000" stop="20261024220000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Necaxa vs. Juárez
-Desde el Estadio Victoria, en Aguascalientes, México.</desc>
-    <icon src="https://iptv-epg.org/images/5WPM54xPy_O3WGd-luS3ZPK93QDiPWR86Of6Kb6x_KTt1CfxPDTvJhz2NfRncYk5mxAsRlnWPS2AqbqPbuYS7xghcSZUhrO6d90eVhg-8Sg"/>
-    <title lang="en">Fútbol Mexicano Primera División</title>
-    <new/>
-  </programme>
-  <programme start="20261024220000 +0000" stop="20261024223000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Llega el fútbol africano
-Más allá del emocionante fútbol que se ofreció allí, el Mundial de Catar 2022 quedará en la memoria como el momento en el que las selecciones africanas desafiaron al dominio del fútbol europeo y sudamericano.</desc>
-    <icon src="https://iptv-epg.org/images/bSYggnFIoXhMgDqmqT3UETAs25XEM_aBuIUzkdVlHDObTDQhk8d2yY0AeHKE6fVxL7UvmmhAe5Og4MIlNWeMa36Im_Dl4whRCSSe3Licne8"/>
-    <previously-shown/>
-    <title lang="en">El gran show del fútbol</title>
-  </programme>
-  <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Superioridad española
-Las selecciones españolas de 2008 a 2012 quedarán grabadas en la memoria como una de las mejores de la historia de este deporte.</desc>
-    <icon src="https://iptv-epg.org/images/bSYggnFIoXhMgDqmqT3UETAs25XEM_aBuIUzkdVlHDObTDQhk8d2yY0AeHKE6fVxL7UvmmhAe5Og4MIlNWeMa36Im_Dl4whRCSSe3Licne8"/>
-    <previously-shown/>
-    <title lang="en">El gran show del fútbol</title>
-  </programme>
-  <programme start="20261024230000 +0000" stop="20261025000000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <desc lang="en">Análisis de las fuerzas y debilidades de cada equipo y destacados de otros partidos antes del juego.</desc>
-    <icon src="https://iptv-epg.org/images/hoaTVloszOL_rk9wWIZNdZxK02zCmtE1kxSdnXzNI8uwC4No8ZYOLrt-aG9zfUr1UsqiKMPSbOXBLvlYoPouVz1OPg0HtIOlsR3tNxG0MxE"/>
-    <title lang="en">MLB Pregame</title>
-    <live/>
-  </programme>
-  <programme start="20261025000000 +0000" stop="20261025030000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Sports</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Tampa Bay Rays vs. Milwaukee Brewers
-Segundo juego de la Serie Mundial de la MLB 2026. Tampa Bay Rays visita a Milwaukee Brewers. Desde el American Family Field, en Milwaukee, Wisconsin.</desc>
-    <icon src="https://iptv-epg.org/images/wwfD_wMYAxoS1SkaunrmFa2PAoQDUwEGoo2LfXCg5LXsZPABjoWFYJ1Zoza8t-MLIOY5x7yDthiLcFQtV_mGcauKK4V4yN3YkGt9mLEGb0Q"/>
-    <title lang="en">Serie Mundial MLB 2026</title>
-    <live/>
   </programme>
   <programme start="20261025030000 +0000" stop="20261025040000 +0000" channel="FOX DEPORTES">
     <category lang="en">Sports</category>
@@ -131091,7 +130700,7 @@ Segundo juego de la Serie Mundial de la MLB 2026. Tampa Bay Rays visita a Milwau
     <category lang="en">Soccer</category>
     <category lang="en">Series</category>
     <desc lang="en">América de Cali vs. Cúcuta Deportivo
-Desde el estadio Pascual Guerrero, en Cali, Valle del Cauca, Colombia.</desc>
+Acción de la fecha 16 del Torneo Clausura 2026 de la Primera A. America de Cali se enfrenta a Cúcuta Deportivo. Desde el estadio Pascual Guerrero, en Cali.</desc>
     <icon src="https://iptv-epg.org/images/KXsUYEKL3k2-xsJ7ped6tr5lX0rQ96fswA1Jv_VBHAagSDkDDCcStZlL763oKwlZ0zMVMBA8-DaN5V8uDhD9_7gRGkbyU0uMEmJtRpxfx34"/>
     <title lang="en">Fútbol Colombiano Primera División</title>
     <new/>
@@ -131117,11 +130726,14 @@ Independiente recibe a Boca Juniors en la fecha 14 del Grupo A del Torneo Clausu
     <live/>
   </programme>
   <programme start="20261025220000 +0000" stop="20261025230000 +0000" channel="FOX DEPORTES">
-    <category lang="en">Boxing</category>
-    <category>Sports</category>
-    <desc lang="en">La biblioteca más grande del mundo de las filmaciones de boxeo.</desc>
-    <icon src="https://iptv-epg.org/images/QHh-pRgAJ8e3ykAJwIdX678cKKcHRlbJKtO3c_UwW1sDJO0pL8d9Cy8PJfIFIpmTqc1o1Q1IDQvJh2GXthhTY9j9Ol1Ud76rG3cyjuwUJuo"/>
-    <title lang="en">Boxeo</title>
+    <category lang="en">Pro wrestling</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S2026 E24
+Lo mejor de la lucha libre profesional en México, con una plataforma moderna, innovadora y sensacional.</desc>
+    <episode-num>S2026 E24</episode-num>
+    <icon src="https://iptv-epg.org/images/s3AebbxJpipEJi1_H2_n6CFzumYVSm9GJ41Q4uDZNax2sG8HPHeY9z0S5GCuaR-plc6TOaqy2CrMMWiN5anGjy5tvc3D_mMlDmqL4DfoGLA"/>
+    <title lang="en">Lucha Libre AAA</title>
+    <new/>
   </programme>
   <programme start="20261025230000 +0000" stop="20261026000000 +0000" channel="FOX DEPORTES">
     <category lang="en">Sports</category>
@@ -131392,7 +131004,7 @@ El mexicano Jaime Munguía (40-0, 32 KOs) enfrenta al argentino Gonzalo Gastón 
     <category lang="en">Sports</category>
     <category lang="en">Series</category>
     <desc lang="en">Milwaukee Brewers vs. Tampa Bay Rays
-Tercer juego de la Serie Mundial de la MLB 2026. Milwaukee Brewers visita a Tampa Bay Rays. Desde el Tropicana Field, en St. Petersburg, Florida.</desc>
+Tercer juego de la Serie Mundial de la MLB 2026. Milwaukee Brewers visita a Tampa Bay Rays. El duelo presenta aspectos tácticos muy interesantes por el traslado de la sede al Tropicana Field y las diferencias de estilo entre los Brewers y los Rays.</desc>
     <icon src="https://iptv-epg.org/images/VjT2-VrKUIB60J9kK8ARRGQqlM7fGPGBfaw7r6sabIZugoPXILiAWuDeMry2_SDMGgZveJ0jQ146USjOHpdaqnNPKLyEoGo2rheIP1ZeKFc"/>
     <title lang="en">Serie Mundial MLB 2026</title>
     <live/>
@@ -131624,31 +131236,11 @@ Cuarto juego de la Serie Mundial de la MLB 2026. Milwaukee Brewers visita a Tamp
     <title lang="en">Serie Mundial MLB 2026</title>
     <live/>
   </programme>
-  <programme start="20261024193000 +0000" stop="20261024230000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Iowa at Minnesota
-The No. 15 Iowa Hawkeyes and the Minnesota Golden Gophers play a Big Ten Conference rivalry game at Huntington Bank Stadium. Iowa relies on Hank Brown to regain momentum, while Minnesota broke a three-game win streak with a 41-13 loss against Purdue.</desc>
-    <icon src="https://iptv-epg.org/images/7NfTlSLX1VspDEnYGAGWtqBkaLtToLF_A5MeTIm1IKzANBeixrAqQUMtyEq2w2qn3FWPabnaN_LcaVojZbtCRGIB8B9MyqLwf2Ai0xokLyU"/>
-    <title lang="en">College Football</title>
-    <live/>
-  </programme>
-  <programme start="20261024230000 +0000" stop="20261025023000 +0000" channel="FOX SPORTS 1 US">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Colorado at Oklahoma State
-The Oklahoma State Cowboys host the Colorado Buffaloes at Boone Pickens Stadium in Big 12 play. Oklahoma State relies on Drew Mestemaker after his 365-yard recently, while Colorado relies on JaQuail Smith coming off a 141-total-yard performance.</desc>
-    <icon src="https://iptv-epg.org/images/Va0FQ4J-yeooUBZhQAFJimzlf2iPmM1K1DJvzo9yZfdbECHBdMA6iO-ovP3XmDJ6jy8NFbVbTKdrQCDMrRqu4lDMmLsKBujm4ntLTeTjO1I"/>
-    <title lang="en">College Football</title>
-    <live/>
-  </programme>
   <programme start="20261025023000 +0000" stop="20261025030000 +0000" channel="FOX SPORTS 1 US">
     <category lang="en">Football</category>
     <category>Sports</category>
     <date>2026</date>
-    <desc lang="en">Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
+    <desc lang="en">Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
     <icon src="https://iptv-epg.org/images/Po9kKtSzZBsxOxCbx24x8r7z1_tFqXhp1nlme1151eDkY8NWlW6ruxMhfldgM0hn4PRbLMobyKlSLWhdK7mBedWX881M3XLA2LDMEd9F1ro"/>
     <title lang="en">The Gronk &amp; Jules Show</title>
   </programme>
@@ -131671,7 +131263,7 @@ The Oklahoma State Cowboys host the Colorado Buffaloes at Boone Pickens Stadium 
     <category lang="en">Series</category>
     <date>2026</date>
     <desc lang="en">Tampa Bay Rays at Milwaukee Brewers
-From American Family Field in Milwaukee.</desc>
+The Milwaukee Brewers host the Tampa Bay Rays in Game 2 of the World Series at American Family Field. Milwaukee holds a 1-0 series lead following a 3-2 victory secured by Trevor Megill's ninth-inning escape, while Tampa Bay looks to respond.</desc>
     <icon src="https://iptv-epg.org/images/wwfD_wMYAxoS1SkaunrmFa2PAoQDUwEGoo2LfXCg5LXsZPABjoWFYJ1Zoza8t-MLIOY5x7yDthiLcFQtV_mGcauKK4V4yN3YkGt9mLEGb0Q"/>
     <previously-shown/>
     <title lang="en">2026 World Series</title>
@@ -131688,7 +131280,7 @@ From American Family Field in Milwaukee.</desc>
     <category lang="en">Series</category>
     <date>2026</date>
     <desc lang="en">Tampa Bay Rays at Milwaukee Brewers
-From American Family Field in Milwaukee.</desc>
+The Milwaukee Brewers host the Tampa Bay Rays in Game 2 of the World Series at American Family Field. Milwaukee holds a 1-0 series lead following a 3-2 victory secured by Trevor Megill's ninth-inning escape, while Tampa Bay looks to respond.</desc>
     <icon src="https://iptv-epg.org/images/wwfD_wMYAxoS1SkaunrmFa2PAoQDUwEGoo2LfXCg5LXsZPABjoWFYJ1Zoza8t-MLIOY5x7yDthiLcFQtV_mGcauKK4V4yN3YkGt9mLEGb0Q"/>
     <previously-shown/>
     <title lang="en">2026 World Series</title>
@@ -131738,7 +131330,7 @@ Women's College Volleyball</desc>
     <category lang="en">Sports</category>
     <category lang="en">Series</category>
     <desc lang="en">Penn State at Indiana
-Women's College Volleyball</desc>
+Wilkinson Hall</desc>
     <icon src="https://iptv-epg.org/images/hZBqcvnu1ZWkhZaeGx7maC1PiIZSmmuSX11WT_qgeteFfHg96HoNd8W0LxUWiScW4h9W5hT5CC2tafDv9tjZtLixJ1hoO8pGeqaZTY7kHLE"/>
     <title lang="en">Women's College Volleyball</title>
     <live/>
@@ -131779,7 +131371,7 @@ NASCAR Craftsman Truck Series action hits Talladega Superspeedway for 85 laps in
     <category lang="en">Series</category>
     <date>2026</date>
     <desc lang="en">Tampa Bay Rays at Milwaukee Brewers
-From American Family Field in Milwaukee.</desc>
+The Milwaukee Brewers host the Tampa Bay Rays in Game 2 of the World Series at American Family Field. Milwaukee holds a 1-0 series lead following a 3-2 victory secured by Trevor Megill's ninth-inning escape, while Tampa Bay looks to respond.</desc>
     <icon src="https://iptv-epg.org/images/wwfD_wMYAxoS1SkaunrmFa2PAoQDUwEGoo2LfXCg5LXsZPABjoWFYJ1Zoza8t-MLIOY5x7yDthiLcFQtV_mGcauKK4V4yN3YkGt9mLEGb0Q"/>
     <previously-shown/>
     <title lang="en">2026 World Series</title>
@@ -131876,7 +131468,7 @@ No. 6 Indiana (6-1) visits Michigan (4-2) at Michigan Stadium in a Big Ten match
     <category lang="en">Series</category>
     <category>Sports</category>
     <desc lang="en">S01 E13 — NFL Week 7 Reaction
-Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
+Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
     <episode-num>S01 E13</episode-num>
     <icon src="https://iptv-epg.org/images/Po9kKtSzZBsxOxCbx24x8r7z1_tFqXhp1nlme1151eDkY8NWlW6ruxMhfldgM0hn4PRbLMobyKlSLWhdK7mBedWX881M3XLA2LDMEd9F1ro"/>
     <title lang="en">The Gronk &amp; Jules Show</title>
@@ -131907,7 +131499,7 @@ No. 6 Indiana (6-1) visits Michigan (4-2) at Michigan Stadium in a Big Ten match
     <category lang="en">Sports</category>
     <category lang="en">Series</category>
     <desc lang="en">Penn State at Indiana
-Women's College Volleyball</desc>
+Wilkinson Hall</desc>
     <icon src="https://iptv-epg.org/images/hZBqcvnu1ZWkhZaeGx7maC1PiIZSmmuSX11WT_qgeteFfHg96HoNd8W0LxUWiScW4h9W5hT5CC2tafDv9tjZtLixJ1hoO8pGeqaZTY7kHLE"/>
     <previously-shown/>
     <title lang="en">Women's College Volleyball</title>
@@ -131915,9 +131507,9 @@ Women's College Volleyball</desc>
   <programme start="20261027020000 +0000" stop="20261027030000 +0000" channel="FOX SPORTS 1 US">
     <category lang="en">Talk</category>
     <category lang="en">Series</category>
-    <desc lang="en">Kevin Harvick and Will Buxton celebrate the world of motorsports.</desc>
+    <desc lang="en">Let's talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.</desc>
     <icon src="https://iptv-epg.org/images/Puky4eZFIv3UtoGVqpillAJmbY7QtjoZCb0QH63xwTiCQnYiISnWBRkcqPP7IJL3v8fOE5afFnVdocYdupC6DgRz_TfuOwZ0m_86hkLTk8M"/>
-    <title lang="en">SPEED With Harvick &amp; Buxton</title>
+    <title lang="en">Speed With Harvick &amp; Buxton</title>
     <new/>
   </programme>
   <programme start="20261027030000 +0000" stop="20261027040000 +0000" channel="FOX SPORTS 1 US">
@@ -132047,29 +131639,10 @@ From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.</
     <category lang="en">Football</category>
     <category lang="en">Series</category>
     <desc lang="en">BYU at UCF
-College Football</desc>
+The No. 2 BYU Cougars visit the UCF Knights for a Big 12 game. The BYU Cougars remain undefeated after beating the Notre Dame Fighting Irish, 28-24, led by Bear Bachmeier's 224 passing yards, while UCF fell to Oklahoma State, 42-28.</desc>
     <icon src="https://iptv-epg.org/images/-uO3naeEnOmZDRHC8KD4JTG1pqCQlYeq-Rc-t-0MEs0kPwdfaj5RiZhCWR0OUzKwqvBH6_6nrkbL_l625j4pMzrFQ-23drQOP65ayJiNKt4"/>
     <previously-shown/>
     <title lang="en">College Football</title>
-  </programme>
-  <programme start="20261024220000 +0000" stop="20261024230000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Rodeo</category>
-    <category lang="en">Series</category>
-    <desc lang="en">United States National Chuckwagon Races and Bull Riding
-40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.</desc>
-    <icon src="https://iptv-epg.org/images/Qy7pGshcrBmCTZu0Vbmhb-23Ro9i6bMbqb25c0dPpYB_SDE-GdjdfzINTB1A0guQ8OUvf589bh5YFcOxiYwGpsbfAt1ObT_gYn3_TE2Mwn4"/>
-    <previously-shown/>
-    <title lang="en">Wild World of Western Sports</title>
-  </programme>
-  <programme start="20261024230000 +0000" stop="20261025023000 +0000" channel="FOX SPORTS 2 US">
-    <category lang="en">Horse racing</category>
-    <category lang="en">Sports</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Breeders Crown - America's Day at the Races
-The best racehorses square off in the premier races from across the country.</desc>
-    <icon src="https://iptv-epg.org/images/cUI7wiJluSJ3NShji4Ejb46yheSgjZbTAY4cgUN8GHLtcb32y_LhZRJG6N38Mg95a7Tg6hxBs6PZoA3OyCnmtwi5gjgPCHb9Pv5rl5FlzEw"/>
-    <title lang="en">Horse Racing</title>
-    <live/>
   </programme>
   <programme start="20261025023000 +0000" stop="20261025040000 +0000" channel="FOX SPORTS 2 US">
     <category lang="en">Motorcycle racing</category>
@@ -132116,7 +131689,7 @@ No. 6 Indiana (6-1) visits Michigan (4-2) at Michigan Stadium in a Big Ten match
     <category lang="en">Football</category>
     <category lang="en">Series</category>
     <desc lang="en">BYU at UCF
-College Football</desc>
+The No. 2 BYU Cougars visit the UCF Knights for a Big 12 game. The BYU Cougars remain undefeated after beating the Notre Dame Fighting Irish, 28-24, led by Bear Bachmeier's 224 passing yards, while UCF fell to Oklahoma State, 42-28.</desc>
     <icon src="https://iptv-epg.org/images/-uO3naeEnOmZDRHC8KD4JTG1pqCQlYeq-Rc-t-0MEs0kPwdfaj5RiZhCWR0OUzKwqvBH6_6nrkbL_l625j4pMzrFQ-23drQOP65ayJiNKt4"/>
     <previously-shown/>
     <title lang="en">College Football</title>
@@ -132126,7 +131699,7 @@ College Football</desc>
     <category lang="en">Series</category>
     <date>2026</date>
     <desc lang="en">Las Vegas, NV
-Endurocross combines motocross and obstacles of an enduro, in the confines of an indoor arena.</desc>
+From Orleans Arena in Las Vegas, Nev.</desc>
     <icon src="https://iptv-epg.org/images/PL4bmU2tcdnJo2YoZV_LO3F1fuM3LGd5tS2I2sOzhvBS39qefk9hICR_qHR01W28qqVX_4bQa417GXfMTtdvIOJNU3R4emibYzXCmyULPMI"/>
     <previously-shown/>
     <title lang="en">Endurocross</title>
@@ -132196,7 +131769,7 @@ Women's College Volleyball</desc>
     <category lang="en">Sports</category>
     <category lang="en">Series</category>
     <desc lang="en">Penn State at Indiana
-Women's College Volleyball</desc>
+Wilkinson Hall</desc>
     <icon src="https://iptv-epg.org/images/hZBqcvnu1ZWkhZaeGx7maC1PiIZSmmuSX11WT_qgeteFfHg96HoNd8W0LxUWiScW4h9W5hT5CC2tafDv9tjZtLixJ1hoO8pGeqaZTY7kHLE"/>
     <previously-shown/>
     <title lang="en">Women's College Volleyball</title>
@@ -132254,7 +131827,7 @@ From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.</
     <category lang="en">Football</category>
     <category lang="en">Series</category>
     <desc lang="en">Texas Tech at Cincinnati
-College Football</desc>
+The Cincinnati Bearcats clash with the No. 8 Texas Tech Red Raiders in Week 8. Cincinnati looks to Cole Tabb after his 118-yard, 2-touchdown outing on October 16, while Texas Tech relies on J'Koby Williams following a recent 165 rushing yards.</desc>
     <icon src="https://iptv-epg.org/images/8OPCdN-3uNTk_EzpIoUPiCk-xUqncrvUkOutR-FjM3OVPn07_VlEmuu9OdeI56RiufvSLAp3l-ozNuzssyFLbnz7wDReXYmqOTKq9tTM7Ac"/>
     <previously-shown/>
     <title lang="en">College Football</title>
@@ -132264,7 +131837,7 @@ College Football</desc>
     <category lang="en">Football</category>
     <category lang="en">Series</category>
     <desc lang="en">Colorado at Oklahoma State
-College Football</desc>
+The Oklahoma State Cowboys host the Colorado Buffaloes at Boone Pickens Stadium in Big 12 play. Oklahoma State relies on Drew Mestemaker after his 365-yard recently, while Colorado relies on JaQuail Smith coming off a 141-total-yard performance.</desc>
     <icon src="https://iptv-epg.org/images/Va0FQ4J-yeooUBZhQAFJimzlf2iPmM1K1DJvzo9yZfdbECHBdMA6iO-ovP3XmDJ6jy8NFbVbTKdrQCDMrRqu4lDMmLsKBujm4ntLTeTjO1I"/>
     <previously-shown/>
     <title lang="en">College Football</title>
@@ -132294,7 +131867,7 @@ Women's College Volleyball</desc>
     <category lang="en">Sports</category>
     <category lang="en">Series</category>
     <desc lang="en">Penn State at Indiana
-Women's College Volleyball</desc>
+Wilkinson Hall</desc>
     <icon src="https://iptv-epg.org/images/hZBqcvnu1ZWkhZaeGx7maC1PiIZSmmuSX11WT_qgeteFfHg96HoNd8W0LxUWiScW4h9W5hT5CC2tafDv9tjZtLixJ1hoO8pGeqaZTY7kHLE"/>
     <previously-shown/>
     <title lang="en">Women's College Volleyball</title>
@@ -132359,17 +131932,17 @@ From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.</
   <programme start="20261027043000 +0000" stop="20261027053000 +0000" channel="FOX SPORTS 2 US">
     <category lang="en">Talk</category>
     <category lang="en">Series</category>
-    <desc lang="en">Kevin Harvick and Will Buxton celebrate the world of motorsports.</desc>
+    <desc lang="en">Let's talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.</desc>
     <icon src="https://iptv-epg.org/images/Puky4eZFIv3UtoGVqpillAJmbY7QtjoZCb0QH63xwTiCQnYiISnWBRkcqPP7IJL3v8fOE5afFnVdocYdupC6DgRz_TfuOwZ0m_86hkLTk8M"/>
     <previously-shown/>
-    <title lang="en">SPEED With Harvick &amp; Buxton</title>
+    <title lang="en">Speed With Harvick &amp; Buxton</title>
   </programme>
   <programme start="20261027053000 +0000" stop="20261027060000 +0000" channel="FOX SPORTS 2 US">
     <category lang="en">Football</category>
     <category lang="en">Series</category>
     <category>Sports</category>
     <desc lang="en">S01 E13 — NFL Week 7 Reaction
-Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
+Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
     <episode-num>S01 E13</episode-num>
     <icon src="https://iptv-epg.org/images/Po9kKtSzZBsxOxCbx24x8r7z1_tFqXhp1nlme1151eDkY8NWlW6ruxMhfldgM0hn4PRbLMobyKlSLWhdK7mBedWX881M3XLA2LDMEd9F1ro"/>
     <previously-shown/>
@@ -132380,7 +131953,7 @@ Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman
     <category lang="en">Football</category>
     <category lang="en">Series</category>
     <desc lang="en">BYU at UCF
-College Football</desc>
+The No. 2 BYU Cougars visit the UCF Knights for a Big 12 game. The BYU Cougars remain undefeated after beating the Notre Dame Fighting Irish, 28-24, led by Bear Bachmeier's 224 passing yards, while UCF fell to Oklahoma State, 42-28.</desc>
     <icon src="https://iptv-epg.org/images/-uO3naeEnOmZDRHC8KD4JTG1pqCQlYeq-Rc-t-0MEs0kPwdfaj5RiZhCWR0OUzKwqvBH6_6nrkbL_l625j4pMzrFQ-23drQOP65ayJiNKt4"/>
     <previously-shown/>
     <title lang="en">College Football</title>
@@ -132400,7 +131973,7 @@ The No. 15 Iowa Hawkeyes and the Minnesota Golden Gophers play a Big Ten Confere
     <category lang="en">Football</category>
     <category lang="en">Series</category>
     <desc lang="en">Texas Tech at Cincinnati
-College Football</desc>
+The Cincinnati Bearcats clash with the No. 8 Texas Tech Red Raiders in Week 8. Cincinnati looks to Cole Tabb after his 118-yard, 2-touchdown outing on October 16, while Texas Tech relies on J'Koby Williams following a recent 165 rushing yards.</desc>
     <icon src="https://iptv-epg.org/images/8OPCdN-3uNTk_EzpIoUPiCk-xUqncrvUkOutR-FjM3OVPn07_VlEmuu9OdeI56RiufvSLAp3l-ozNuzssyFLbnz7wDReXYmqOTKq9tTM7Ac"/>
     <previously-shown/>
     <title lang="en">College Football</title>
@@ -132410,7 +131983,7 @@ College Football</desc>
     <category lang="en">Football</category>
     <category lang="en">Series</category>
     <desc lang="en">Colorado at Oklahoma State
-College Football</desc>
+The Oklahoma State Cowboys host the Colorado Buffaloes at Boone Pickens Stadium in Big 12 play. Oklahoma State relies on Drew Mestemaker after his 365-yard recently, while Colorado relies on JaQuail Smith coming off a 141-total-yard performance.</desc>
     <icon src="https://iptv-epg.org/images/Va0FQ4J-yeooUBZhQAFJimzlf2iPmM1K1DJvzo9yZfdbECHBdMA6iO-ovP3XmDJ6jy8NFbVbTKdrQCDMrRqu4lDMmLsKBujm4ntLTeTjO1I"/>
     <previously-shown/>
     <title lang="en">College Football</title>
@@ -132430,7 +132003,7 @@ No. 6 Indiana (6-1) visits Michigan (4-2) at Michigan Stadium in a Big Ten match
     <category lang="en">Football</category>
     <category lang="en">Series</category>
     <desc lang="en">BYU at UCF
-College Football</desc>
+The No. 2 BYU Cougars visit the UCF Knights for a Big 12 game. The BYU Cougars remain undefeated after beating the Notre Dame Fighting Irish, 28-24, led by Bear Bachmeier's 224 passing yards, while UCF fell to Oklahoma State, 42-28.</desc>
     <icon src="https://iptv-epg.org/images/-uO3naeEnOmZDRHC8KD4JTG1pqCQlYeq-Rc-t-0MEs0kPwdfaj5RiZhCWR0OUzKwqvBH6_6nrkbL_l625j4pMzrFQ-23drQOP65ayJiNKt4"/>
     <previously-shown/>
     <title lang="en">College Football</title>
@@ -132447,10 +132020,10 @@ NASCAR Craftsman Truck Series action hits Talladega Superspeedway for 85 laps in
   <programme start="20261028020000 +0000" stop="20261028030000 +0000" channel="FOX SPORTS 2 US">
     <category lang="en">Talk</category>
     <category lang="en">Series</category>
-    <desc lang="en">Kevin Harvick and Will Buxton celebrate the world of motorsports.</desc>
+    <desc lang="en">Let's talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.</desc>
     <icon src="https://iptv-epg.org/images/Puky4eZFIv3UtoGVqpillAJmbY7QtjoZCb0QH63xwTiCQnYiISnWBRkcqPP7IJL3v8fOE5afFnVdocYdupC6DgRz_TfuOwZ0m_86hkLTk8M"/>
     <previously-shown/>
-    <title lang="en">SPEED With Harvick &amp; Buxton</title>
+    <title lang="en">Speed With Harvick &amp; Buxton</title>
   </programme>
 	<programme start="20261025000000 +0000" stop="20261025033000 +0000" channel="UK | TNT Sports 1">
     <title>Live MLB T2026 E48 · TBC @ TBC-World Series-Game 2</title>
@@ -135888,6 +135461,658 @@ NASCAR Craftsman Truck Series action hits Talladega Superspeedway for 85 laps in
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FOCPFC1K8K948SAAL51P.jpg/a:p/im:i:c_limit,w_1920/FOCPFC1K8K948SAAL51P_reference_keyframe.jpg" />
 	</programme>
+  <programme start="20261025183956 +0000" stop="20261025205619 +0000" channel="Sony One Hits Comedia">
+    <title>El Patrullero 777</title>
+    <desc>Cantinflas es un agente de policía que debe mantener el orden en la ciudad, pero la diversión está asegurada cuando las cosas empiezan a desmadrarse.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1255923713_0_20251014T032949031Z_126_imageprocessorclient-tvplus-linear-5db7c6bc99-qhr8k.png"/>
+  </programme>
+  <programme start="20261025205619 +0000" stop="20261025230758 +0000" channel="Sony One Hits Comedia">
+    <title>Entrega Inmediata</title>
+    <desc>Mientras trabaja de cartero, una preciosa chica rubia se acerca a Cantinflas y le pide que entregue una carta muy importante en la planta nuclear de la ciudad. Cantinflas está encantado de ser de ayuda, pero no sabe que la chica es una espía y que la carta contiene secretos nucleares codificados.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1255873999_0_20251014T032943924Z_26_imageprocessorclient-tvplus-linear-5db7c6bc99-qhr8k.jpeg"/>
+  </programme>
+  <programme start="20261025191517 +0000" stop="20261025211803 +0000" channel="Sony One Hits Acción">
+    <title>Monster Hunter</title>
+    <desc>Un pelotón militar es transportado a un mundo hostil donde debe luchar contra monstruos colosales para sobrevivir.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2278664410_0_20261012T194714846Z_121_imageprocessorclient-tvplus-linear-b5879c6c6-lfwpc.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261025173530 +0000" stop="20261025193148 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>El mensajero</title>
+    <episode-num system="original-air-date">20130130000000 +0000</episode-num>
+    <desc>Un padre recibe un duro golpe cuando condenan a su hijo adolescente a a una pena de treinta años de cárcel por un delito relacionado con el narcotráfico. Para conseguir que reduzcan su condena intenta ponerse en contacto con un importante traficante.</desc>
+    <icon src="https://images.pluto.tv/episodes/68e8c139f1f80c81516ed073/poster_1760087178644.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130130</date>
+    <series-id system="pluto">68e8c138f1f80c81516ed054</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261025193148 +0000" stop="20261025211420 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>Brotherhood</title>
+    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
+    <desc>El hermano de un hombre que ha fingido su muerte y robado un monton de dinero de una banda, trata de descubrir la verdad y encontrar a su asesino.</desc>
+    <icon src="https://images.pluto.tv/episodes/66a7503a9322c00013eb2455/poster_1769189402410.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20220101</date>
+    <series-id system="pluto">66a750389322c00013eb2436</series-id>
+    <category>Action</category>
+    <category>Foreign Action &amp; Adventure</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261025182124 +0000" stop="20261025195630 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>Código fuente</title>
+    <episode-num system="original-air-date">20110420000000 +0000</episode-num>
+    <desc>Jake Gyllenhaal protagoniza este thriller de acción sobre un hombre que despierta en el cuerpo de otro hombre para descubrir que solo él tiene la capacidad de detener un ataque terrorista en un tren de cercanías.</desc>
+    <icon src="https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster_1776175563370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20110420</date>
+    <series-id system="pluto">672dcc122678a50014518e37</series-id>
+    <category>Action</category>
+    <category>Science fiction</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261025195630 +0000" stop="20261025215432 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>El juego de Ender</title>
+    <episode-num system="original-air-date">20131024000000 +0000</episode-num>
+    <desc>Harrison Ford, Asa Butterfield, Hailee Steinfeld, Ben Kingsley, Viola Davis y Abigail Breslin protagonizan esta aventura de ciencia ficción repleta de acción basada en la novela superventas.</desc>
+    <icon src="https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster_1777997882339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20131024</date>
+    <series-id system="pluto">67516488a7fde50013705b8d</series-id>
+    <category>Action</category>
+    <category>Science fiction</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261025183645 +0000" stop="20261025203257 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title>Recuerdo</title>
+    <episode-num system="original-air-date">20170125000000 +0000</episode-num>
+    <desc>Gordon inventa la máquina "Rememory" que le permite ver los recuerdos tal y como fueron en realidad.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a219e35812ca10016665639/poster_1780588441917.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20170125</date>
+    <series-id system="pluto">6a219e34812ca10016665618</series-id>
+    <category>Science fiction</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261025172706 +0000" stop="20261025194335 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title>El duodécimo hombre</title>
+    <episode-num system="original-air-date">20171225000000 +0000</episode-num>
+    <desc>En 1943, en la Noruega ocupada por Alemania, un grupo de saboteadores es traicionado y apresado por las tropas nazis. De los 12 integrantes del comando, sólo uno consigue sobrevivir.</desc>
+    <icon src="https://images.pluto.tv/episodes/67b5b84a5d2668ecc5083e62/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20171225</date>
+    <series-id system="pluto">67b5b8485d2668ecc5083e40</series-id>
+    <category>Drama</category>
+    <category>Movie</category>
+    <category>Foreign Drama</category>
+  </programme>
+  <programme start="20261025194335 +0000" stop="20261025215735 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title>El tren de las 3:10 de James Mangold</title>
+    <episode-num system="original-air-date">20070101000000 +0000</episode-num>
+    <desc>Dan Evans (Christian Bale) es un veterano, que para aliviar sus penurias económicas, decide escoltar al peligroso forajido Ben Wade (Russell Crowe) mientras llega el tren que tiene que enviarlo ante la justicia. Nominada a dos Oscar ® 2008.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4e17f1fa72a5001a5fa195/poster_1778251681980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20070101</date>
+    <series-id system="pluto">5f4e17f0fa72a5001a5fa18d</series-id>
+    <category>Western</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261025184501 +0000" stop="20261025204401 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title>Two Lovers</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Leonard (Joaquin Phoenix) empieza a salir con Sandra (Vinessa Shaw), una joven encantadora con la que el matrimonio parece cercano. Pero aparece en su vida una nueva vecina, Michelle (Gwyneth Paltrow),  lo que no hace sino empezar a complicar su vida.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f523c16db45a1001a79aac9/poster_1779885889185.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20080101</date>
+    <series-id system="pluto">5f523c14db45a1001a79aac1</series-id>
+    <category>Romance</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261025181618 +0000" stop="20261025200018 +0000" channel="5f1ac8099c49f600076579b2">
+    <title>Morir en San Hilario</title>
+    <episode-num system="original-air-date">20040101000000 +0000</episode-num>
+    <desc>San Hilario vivía de su espléndido cementerio y de la habilidad de sus gentes para organizar los entierros más hermosos. La gente viajaba a San Hilario a morirse a gusto.</desc>
+    <icon src="https://images.pluto.tv/episodes/628637fb94317400134cb84d/poster_1768603373913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20040101</date>
+    <series-id system="pluto">628637f994317400134cb846</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261025200018 +0000" stop="20261025214835 +0000" channel="5f1ac8099c49f600076579b2">
+    <title>La boda de Rosa</title>
+    <episode-num system="original-air-date">20200302000000 +0000</episode-num>
+    <desc>A punto de cumplir 45 años, Rosa se da cuenta de que siempre ha vivido su vida para servir a los demás, por lo que decide dejarlo todo atrás, tomar las riendas de su vida y cumplir su sueño de emprender su propio negocio.</desc>
+    <icon src="https://images.pluto.tv/episodes/67ef891189ba442cd92561d2/poster_1778874847532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20200302</date>
+    <series-id system="pluto">67ef891089ba442cd92561ad</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+    <category>Foreign Comedies</category>
+  </programme>
+  <programme start="20261025171405 +0000" stop="20261025190105 +0000" channel="655b5d865812e80008843bd1">
+    <title>Bodas Reales</title>
+    <episode-num system="original-air-date">19510101000000 +0000</episode-num>
+    <desc>Dos hermanos, Tom y Ellen, estrellas del baile embarcan rumbo a Inglaterra para participar en un nuevo show, coincidiendo con la boda real de la princesa Elizabeth.</desc>
+    <icon src="https://images.pluto.tv/episodes/615eaac974755c001a4c9eb9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19510101</date>
+    <series-id system="pluto">615eaac874755c001a4c9eb3</series-id>
+    <category>Musical</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261025190105 +0000" stop="20261025202605 +0000" channel="655b5d865812e80008843bd1">
+    <title>La reina de Nueva York: La reina de Nueva York</title>
+    <episode-num system="original-air-date">19371125000000 +0000</episode-num>
+    <desc>Una mujer excéntrica se entera de que no se está muriendo por envenenamiento con radio como se suponía anteriormente, pero cuando se encuentra con un reportero que busca una historia, finge estar enferma nuevamente para su propio beneficio.</desc>
+    <icon src="https://images.pluto.tv/episodes/62384c8cff21e500131cb48d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19371125</date>
+    <series-id system="pluto">62384c8bff21e500131cb486</series-id>
+    <category>Courtroom Drama</category>
+    <category>Drama</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261025185005 +0000" stop="20261025202248 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title>Aprendiz de gigoló</title>
+    <episode-num system="original-air-date">20130831000000 +0000</episode-num>
+    <desc>Un hombre convence a su amigo para trabajar como gigoló, lo que provoca situaciones cómicas y complicadas.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a0b31e59db2f8937b420af3/poster_1779118566155.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130831</date>
+    <series-id system="pluto">6a0b31e49db2f8937b420ad4</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">SKY Sports.</desc>
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20261024190000 +0000" stop="20261024210000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Almería vs. Real Oviedo
+En Vivo.</desc>
+    <title lang="es">Almería vs. Real Oviedo
+En Vivo</title>
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024230000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Córdoba vs. Eibar.</desc>
+    <title lang="es">Córdoba vs. Eibar</title>
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261025020000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">New York Rangers vs. Ottawa Sen.</desc>
+    <title lang="es">New York Rangers vs. Ottawa Sen</title>
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024184500 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Sky Sports 16.</desc>
+    <title lang="es">Sky Sports 16</title>
+  </programme>
+  <programme start="20261024184500 +0000" stop="20261024190000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Previo.</desc>
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20261024190000 +0000" stop="20261024210000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Atlético de Madrid vs. Deportivo La Cor.</desc>
+    <title lang="es">Atlético de Madrid vs. Deportivo La Cor</title>
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024230000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Rayo Vallecano vs. Elche.</desc>
+    <title lang="es">Rayo Vallecano vs. Elche</title>
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261025000000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">R. Racing Club vs. Espanyol.</desc>
+    <title lang="es">R. Racing Club vs. Espanyol</title>
+  </programme>
+  <programme start="20261025000000 +0000" stop="20261025020000 +0000" channel="SKY SPORTS 16 MX">
+    <desc lang="es">Valencia vs. Villarreal.</desc>
+    <title lang="es">Valencia vs. Villarreal</title>
+  </programme>
+  <programme start="20261024173000 +0000" stop="20261024190000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Isu- women - free skating
+En Vivo.</desc>
+    <title lang="es">Isu- women - free skating
+En Vivo</title>
+  </programme>
+  <programme start="20261024190000 +0000" stop="20261024203000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Valencia vs. Villarreal.</desc>
+    <title lang="es">Valencia vs. Villarreal</title>
+  </programme>
+  <programme start="20261024203000 +0000" stop="20261024204500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Sky Sports 24.</desc>
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20261024204500 +0000" stop="20261024210000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Previo.</desc>
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024230000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Atlético de Madrid vs. Deportivo La Cor.</desc>
+    <title lang="es">Atlético de Madrid vs. Deportivo La Cor</title>
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261025000000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Rayo Vallecano vs. Elche.</desc>
+    <title lang="es">Rayo Vallecano vs. Elche</title>
+  </programme>
+  <programme start="20261025000000 +0000" stop="20261025030000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">R. Racing Club vs. Espanyol.</desc>
+    <title lang="es">R. Racing Club vs. Espanyol</title>
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024200000 +0000" channel="Universo">
+    <category lang="en">Drama</category>
+    <category lang="en">Movie</category>
+    <credits>
+      <director>José María Fernández Unsaín</director>
+      <actor>Jacqueline Andere</actor>
+      <actor>Ricardo Blume</actor>
+    </credits>
+    <date>1971</date>
+    <desc lang="en">Una muchacha soltera, próxima a dar a luz, busca la ayuda de un amigo de la infancia para encontrar al padre de su hijo.</desc>
+    <icon src="https://iptv-epg.org/images/xQ8uqLENRPzsYIZEggXVDdmTQnJ6_hFM00Xbvd-Fs9hTGxqARpDPEWrxcixGAjNWbO3tZ0gXhElmWtKKche6kODrXPAo4DxGfLTYbw29jW0"/>
+    <title lang="en">Los enamorados</title>
+  </programme>
+  <programme start="20261024200000 +0000" stop="20261024210000 +0000" channel="Universo">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <desc lang="en">Sexo y golpe en la cocina; Casada con abuelo
+Lenin cocina a domicilio y transmite su trabajo en vivo, su clienta salió semidesnuda en cámara y el marido lo golpeó. Marian se casó por dinero y papeles, el marido resultó ser su abuelo.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <previously-shown/>
+    <title lang="en">Caso cerrado</title>
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024220000 +0000" channel="Universo">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <desc lang="en">Muerte acelerada; Consecuencias del pasado
+José lleva a la madre a la funeraria porque supuestamente le quedan cuatro horas de vida y él tiene que viajar. Karen piensa que su esposo abusa de su hija, pero el hombre sospecha del primo.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <previously-shown/>
+    <title lang="en">Caso cerrado</title>
+  </programme>
+  <programme start="20261024220000 +0000" stop="20261024230000 +0000" channel="Universo">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <desc lang="en">El uso justo; Espalda valiosa
+Michael es un transexual que reclama que le plagiaron sus fotos de igualdad, donde posa con una hetero. Vanessa tiene cáncer terminal, su cuñado le compra su espalda tatuada y ella se sana.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <previously-shown/>
+    <title lang="en">Caso cerrado</title>
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261024233000 +0000" channel="Universo">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <desc lang="en">Por su culpa caí
+Alejandro denunció a su amigo Antonio en inmigración porque es indocumentado, y le dieron su puesto en la empresa.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <previously-shown/>
+    <title lang="en">Caso cerrado</title>
+  </programme>
+  <programme start="20261024233000 +0000" stop="20261025003000 +0000" channel="Universo">
+    <category lang="en">Public affairs</category>
+    <category lang="en">Self improvement</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <credits>
+      <producer>Pamela Pacheco</producer>
+    </credits>
+    <desc lang="en">S01 E596 — Era mi amigo y ahora quiero que sea mi novio
+Johan se enamora de su mejor amigo Erick, quien tiene esposa e hijo. Las familias están enfrentadas y divididas por la conducta obsesiva de Johan. El pasado de ambos queda al descubierto.</desc>
+    <episode-num>S01 E596</episode-num>
+    <icon src="https://iptv-epg.org/images/YmmPF1sipFqbYQQCetgMPD66OwpTsKL4Oco0nVd9DaWkVh9agBCQ1FLqQ5Ng1I-zx8wdG1qhyJx9nZtYrTQV9vl_whQOS8i9B2ExFM5VEIc"/>
+    <previously-shown/>
+    <title lang="en">Acércate a Rocío</title>
+  </programme>
+  <programme start="20261025003000 +0000" stop="20261025020000 +0000" channel="Universo">
+    <category lang="en">Reality</category>
+    <category lang="en">Self improvement</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Andrés Tovar</director>
+    </credits>
+    <desc lang="en">S01 E14 — Mi hija adora al diablo
+Cecilia asegura que Elizabeth practica rituales religiosos que adoran al diablo y pone en riesgo la salud mental de su nieta de 3 años. Su hija sostiene que no hay nada de malo en lo que hace.</desc>
+    <episode-num>S01 E14</episode-num>
+    <icon src="https://iptv-epg.org/images/TIQaEz6SG4vTbUt-4ur52Y-iPTcG7zTeEn4CTXO_ll_BYa9YNh6SEYgCAcqW4dhMIRCXjExqrpV1lbz5XxI---hh_YAsitjMroJEOdAJiDQ"/>
+    <previously-shown/>
+    <title lang="en">Acércate a Rocío al límite</title>
+  </programme>
+  <programme start="20261025200000 +0000" stop="20261025220000 +0000" channel="Universo">
+    <category lang="en">Reality</category>
+    <category lang="en">Self improvement</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Andrés Tovar</director>
+    </credits>
+    <desc lang="en">S01 E14 — Mi hija adora al diablo
+Cecilia asegura que Elizabeth practica rituales religiosos que adoran al diablo y pone en riesgo la salud mental de su nieta de 3 años. Su hija sostiene que no hay nada de malo en lo que hace.</desc>
+    <episode-num>S01 E14</episode-num>
+    <icon src="https://iptv-epg.org/images/TIQaEz6SG4vTbUt-4ur52Y-iPTcG7zTeEn4CTXO_ll_BYa9YNh6SEYgCAcqW4dhMIRCXjExqrpV1lbz5XxI---hh_YAsitjMroJEOdAJiDQ"/>
+    <previously-shown/>
+    <title lang="en">Acércate a Rocío al límite</title>
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024210000 +0000" channel="Telemundo East">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Lazio vs. Parma
+Desde el Estadio Olímpico de Roma, en Italia.</desc>
+    <icon src="https://iptv-epg.org/images/K5VS78hjWyjbdtOOcsmkOW_wHT9DTeSANNiwKEDhhKL0ZCRQpe6CYOnivkQnjWJZCC8GXX5A2lrzbWPpfNMZuZkTeqm21rXua4MIEa5JHew"/>
+    <title lang="en">Fútbol Serie A</title>
+    <live/>
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024220000 +0000" channel="Telemundo East">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Karla Farjeat</director>
+      <director>Carlos Guerra</director>
+      <actor>Augusto Di Paolo</actor>
+      <actor>Mishelle Garfias</actor>
+      <actor>Saskia Seligman</actor>
+    </credits>
+    <desc lang="en">Monis: El infierno de la realidad
+Al confirmarse que su esposo es un criminal, Monis y sus hijos se enfrentan al acoso y desprecio, al punto de que el mayor intenta suicidarse. Así comienza un viaje de resiliencia y compasión.</desc>
+    <icon src="https://iptv-epg.org/images/vzhC9zr5exhlA9k14dGuHSOc4aNX9QTbw1vchXycbiicZSkxAs30yjxKkV3TQnPhFyiivGqHbMryTzHftaWrUy22wUe7Dbt-s4zpxnAB6q8"/>
+    <title lang="en">Lo que callamos las mujeres</title>
+    <new/>
+  </programme>
+  <programme start="20261024220000 +0000" stop="20261024223000 +0000" channel="Telemundo East">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <date>2026</date>
+    <desc lang="en">A corazón abierto
+Daniela necesita un trasplante de corazón. Su hija, con muerte cerebral, podría ser la donante, pero está embarazada y su esposa Alejandra se opone porque quiere que nazca el bebé.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <previously-shown/>
+    <title lang="en">Caso cerrado</title>
+  </programme>
+  <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="Telemundo East">
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Julio Vaqueiro</actor>
+    </credits>
+    <desc lang="en">Noticias Telemundo fin de semana es la fuente de información más confiable de la comunidad hispana en EE. UU. Su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
+    <icon src="https://iptv-epg.org/images/JySp7J3Mh88opQ5QDCJ21sWu9C63gxR6WHizcth23MWHhMfasmrGOV5QyU8WPXam3FSRP3xQb_yMx5sggxaJq0m3H9TVfCIjDkF6jBn_VuA"/>
+    <title lang="en">Noticias Telemundo fin de semana</title>
+    <new/>
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261025010000 +0000" channel="Telemundo East">
+    <category lang="en">Crime</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S01 E80 — La fiesta de Halloween
+Autoridades, familiares y amigos buscan a Chelsea Ellen Bruck, una joven de 22 años desaparecida tras una celebración de Halloween que reunió a unas 600 personas en Monroe, Míchigan.</desc>
+    <episode-num>S01 E80</episode-num>
+    <icon src="https://iptv-epg.org/images/hDprjc2Ns_3ruO9sreGRWs2DUZyxJm7imAruTUkHZ5IQ0O6GZj1YcrlaeCl_LhPqesk_cyGFdwFF10xaWWcbxBkNwNRR2YkOn40M97a0tb8"/>
+    <title lang="en">Dateline</title>
+    <new/>
+  </programme>
+  <programme start="20261025010000 +0000" stop="20261025030000 +0000" channel="Telemundo East">
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Movie</category>
+    <credits>
+      <director>Fede Alvarez</director>
+      <producer>Sam Raimi</producer>
+      <producer>Rob Tapert</producer>
+      <actor>Jane Levy</actor>
+      <actor>Dylan Minnette</actor>
+      <actor>Daniel Zovatto</actor>
+      <actor>Stephen Lang</actor>
+      <actor>Emma Bercovici</actor>
+      <actor>Franciska Töröcsik</actor>
+      <actor>Christian Zagia</actor>
+      <actor>Katia Bokor</actor>
+      <actor>Sergej Onopko</actor>
+    </credits>
+    <date>2016</date>
+    <desc lang="en">Unos ladrones saben que un ciego guarda mucho dinero en su vivienda y entran en su casa para robarle. Pero descubren que el hombre guarda un secreto terrible y lo que parecía un atraco sencillo termina siendo la peor pesadilla de sus vidas.</desc>
+    <icon src="https://iptv-epg.org/images/rLqH8bUH39MkFsqj0jpvDMqNMPMvrsKkgoAgUeFEW3z8sXI-p3_GpnWvcynA9zo-CRg8SXnGijHGp9Tso3XdOXc2t9URn6tnkvt6x8am4jM"/>
+    <title lang="en">Don't Breathe</title>
+    <new/>
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024210000 +0000" channel="Telemundo West">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Lazio vs. Parma
+Desde el Estadio Olímpico de Roma, en Italia.</desc>
+    <icon src="https://iptv-epg.org/images/K5VS78hjWyjbdtOOcsmkOW_wHT9DTeSANNiwKEDhhKL0ZCRQpe6CYOnivkQnjWJZCC8GXX5A2lrzbWPpfNMZuZkTeqm21rXua4MIEa5JHew"/>
+    <title lang="en">Fútbol Serie A</title>
+    <live/>
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024213000 +0000" channel="Telemundo West">
+    <category lang="en">Educational</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S08 E04 — Frío, emoción y tropiezos alpinos
+En los Alpes, las crías de los animales sortean acantilados escarpados y climas extremos hasta la llegada de la primavera, cuando exploran su entorno y reciben la nueva estación con alegría.</desc>
+    <episode-num>S08 E04</episode-num>
+    <icon src="https://iptv-epg.org/images/-bZElPZJMF3ghCh5ZhwSgp4tOVW_0Oj8enoe_lGSzZs0I9IYJdETLYy_9UhkUUz-GHkFF66L_MNZVqBJzFt51ghRS-5l7eJUaRauZ5CNEf8"/>
+    <title lang="en">Exploración planeta Tierra con Dylan Dreyer</title>
+    <new/>
+  </programme>
+  <programme start="20261024213000 +0000" stop="20261024220000 +0000" channel="Telemundo West">
+    <category lang="en">Basketball</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Series</category>
+    <category>Sports</category>
+    <desc lang="en">S01 E04 — ¡Hola Chile!
+Jóvenes y niños se divierten en el espectáculo de los Trotamundos en Chile. Torch establece un récord mundial Guinness. El equipo comparte con miembros de la Fundación Embrace Girls en Florida.</desc>
+    <episode-num>S01 E04</episode-num>
+    <icon src="https://iptv-epg.org/images/UFEMLlFGJhzLmnTx4NI5BL_WIe-YR2qQPCp312QDrkP1im7mkC99lzIrbnyFsuVsEZPgbpSNxn1c3sMS6oHvUzooCjAZsA5Ec44Vd5_JhE8"/>
+    <previously-shown/>
+    <title lang="en">Harlem Globetrotters: Ganando con la comunidad</title>
+  </programme>
+  <programme start="20261024220000 +0000" stop="20261024223000 +0000" channel="Telemundo West">
+    <category lang="en">American history</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Series</category>
+    <date>2026</date>
+    <desc lang="en">S01 E01 — Una nación en construcción
+La historia de Estados Unidos cobra vida a través de íconos como la Estatua de la Libertad, el Ferrocarril Transcontinental, el Sendero de los Apalaches, Broadway y otros símbolos.</desc>
+    <episode-num>S01 E01</episode-num>
+    <icon src="https://iptv-epg.org/images/53FHDVVeWyS50-EmzCq99HGougf4RwL82zPfRfAW7lRDVLFZJvcgcV1KnSc_NzJzRn6r6Zgr_DIYkYzzlROkrVXFsTPV9uLRwG-UWwun9C8"/>
+    <previously-shown/>
+    <title lang="en">Explorando Estados Unidos</title>
+  </programme>
+  <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="Telemundo West">
+    <category lang="en">Animals</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <category lang="en">Science</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S02 E04 — El mundo oculto de los ocelotes
+En la frontera entre México y EE. UU., Peter y la Dra. Rae descubren el mundo oculto de los misteriosos, esquivos y escasos ocelotes, considerados los gatos más bellos de América del Norte.</desc>
+    <episode-num>S02 E04</episode-num>
+    <icon src="https://iptv-epg.org/images/NqO6DN66jpAkDI_KUkKhgbvC7JvNyOcUzCtvd6LAkX_DQCYv4Z5e48IXc4fJtAr2iiOHbrgLVN8JLrUIirr24gSRP8d2D4PAofub3PfbYwI"/>
+    <previously-shown/>
+    <title lang="en">El reino animal de Mutual of Omaha: Protegiendo la naturaleza</title>
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261025000000 +0000" channel="Telemundo West">
+    <category lang="en">Public affairs</category>
+    <category lang="en">Self improvement</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <credits>
+      <producer>Pamela Pacheco</producer>
+    </credits>
+    <desc lang="en">S01 E498 — Mi amiga es oportunista
+Edith está preocupada porque su hermano y su amiga María se han aliado para ganar dinero al manipular a hombres solitarios, y vivir a costa de ellos. Teme que la involucren en sus andanzas.</desc>
+    <episode-num>S01 E498</episode-num>
+    <icon src="https://iptv-epg.org/images/YmmPF1sipFqbYQQCetgMPD66OwpTsKL4Oco0nVd9DaWkVh9agBCQ1FLqQ5Ng1I-zx8wdG1qhyJx9nZtYrTQV9vl_whQOS8i9B2ExFM5VEIc"/>
+    <title lang="en">Acércate a Rocío</title>
+    <new/>
+  </programme>
+  <programme start="20261025000000 +0000" stop="20261025010000 +0000" channel="Telemundo West">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Karla Farjeat</director>
+      <director>Carlos Guerra</director>
+      <actor>Augusto Di Paolo</actor>
+      <actor>Mishelle Garfias</actor>
+      <actor>Saskia Seligman</actor>
+    </credits>
+    <desc lang="en">Monis: El infierno de la realidad
+Al confirmarse que su esposo es un criminal, Monis y sus hijos se enfrentan al acoso y desprecio, al punto de que el mayor intenta suicidarse. Así comienza un viaje de resiliencia y compasión.</desc>
+    <icon src="https://iptv-epg.org/images/vzhC9zr5exhlA9k14dGuHSOc4aNX9QTbw1vchXycbiicZSkxAs30yjxKkV3TQnPhFyiivGqHbMryTzHftaWrUy22wUe7Dbt-s4zpxnAB6q8"/>
+    <title lang="en">Lo que callamos las mujeres</title>
+    <new/>
+  </programme>
+  <programme start="20261025010000 +0000" stop="20261025013000 +0000" channel="Telemundo West">
+    <category lang="en">Community</category>
+    <category lang="en">Law</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Tony Salup</director>
+      <producer>David Gherardi</producer>
+      <producer>Marianth Villarroel</producer>
+    </credits>
+    <date>2026</date>
+    <desc lang="en">A corazón abierto
+Daniela necesita un trasplante de corazón. Su hija, con muerte cerebral, podría ser la donante, pero está embarazada y su esposa Alejandra se opone porque quiere que nazca el bebé.</desc>
+    <icon src="https://iptv-epg.org/images/BtnSus74QoOhHoE8XCuvSvg0vwm7ATAYTm6S3RrscEe0Zo8nDI8vok-8ugzKOQ0DVtscMGBEZezEXhSR5KSVmEIRNGiedpKEgUTkBW6Pb3U"/>
+    <previously-shown/>
+    <title lang="en">Caso cerrado</title>
+  </programme>
+  <programme start="20261024193000 +0000" stop="20261024200000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S01 E04 — Gerd Muller
+Gerhard Müller, conocido como &quot;El Torpedo&quot;, marcó una época en la historia del fútbol alemán y mundial. Todavía hoy ocupa el tercer puesto en la clasificación de máximos goleadores del Mundial.</desc>
+    <episode-num>S01 E04</episode-num>
+    <icon src="https://iptv-epg.org/images/ymq8QLs1MQMQofaI2O-KcKpqZHztpN6wkE1-WOYl-CrjlhLF-YGdqMgyQSln_0C5nLVeLno0xY7Jzn3m3oAM7e247hJ88aLNUbcKrVVpzkE"/>
+    <previously-shown/>
+    <title lang="en">El gran show del fútbol</title>
+  </programme>
+  <programme start="20261024200000 +0000" stop="20261024220000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Necaxa vs. Juárez
+Desde el Estadio Victoria, en Aguascalientes, México.</desc>
+    <icon src="https://iptv-epg.org/images/5WPM54xPy_O3WGd-luS3ZPK93QDiPWR86Of6Kb6x_KTt1CfxPDTvJhz2NfRncYk5mxAsRlnWPS2AqbqPbuYS7xghcSZUhrO6d90eVhg-8Sg"/>
+    <title lang="en">Fútbol Mexicano Primera División</title>
+    <new/>
+  </programme>
+  <programme start="20261024220000 +0000" stop="20261024223000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Llega el fútbol africano
+Más allá del emocionante fútbol que se ofreció allí, el Mundial de Catar 2022 quedará en la memoria como el momento en el que las selecciones africanas desafiaron al dominio del fútbol europeo y sudamericano.</desc>
+    <icon src="https://iptv-epg.org/images/bSYggnFIoXhMgDqmqT3UETAs25XEM_aBuIUzkdVlHDObTDQhk8d2yY0AeHKE6fVxL7UvmmhAe5Og4MIlNWeMa36Im_Dl4whRCSSe3Licne8"/>
+    <previously-shown/>
+    <title lang="en">El gran show del fútbol</title>
+  </programme>
+  <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Superioridad española
+Las selecciones españolas de 2008 a 2012 quedarán grabadas en la memoria como una de las mejores de la historia de este deporte.</desc>
+    <icon src="https://iptv-epg.org/images/bSYggnFIoXhMgDqmqT3UETAs25XEM_aBuIUzkdVlHDObTDQhk8d2yY0AeHKE6fVxL7UvmmhAe5Og4MIlNWeMa36Im_Dl4whRCSSe3Licne8"/>
+    <previously-shown/>
+    <title lang="en">El gran show del fútbol</title>
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261025000000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <desc lang="en">Análisis de las fuerzas y debilidades de cada equipo y destacados de otros partidos antes del juego.</desc>
+    <icon src="https://iptv-epg.org/images/hoaTVloszOL_rk9wWIZNdZxK02zCmtE1kxSdnXzNI8uwC4No8ZYOLrt-aG9zfUr1UsqiKMPSbOXBLvlYoPouVz1OPg0HtIOlsR3tNxG0MxE"/>
+    <title lang="en">MLB Pregame</title>
+    <live/>
+  </programme>
+  <programme start="20261025000000 +0000" stop="20261025030000 +0000" channel="FOX DEPORTES">
+    <category lang="en">Sports</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tampa Bay Rays vs. Milwaukee Brewers
+Segundo juego de la Serie Mundial de la MLB 2026. Tampa Bay Rays visita a Milwaukee Brewers. Desde el American Family Field, en Milwaukee, Wisconsin.</desc>
+    <icon src="https://iptv-epg.org/images/wwfD_wMYAxoS1SkaunrmFa2PAoQDUwEGoo2LfXCg5LXsZPABjoWFYJ1Zoza8t-MLIOY5x7yDthiLcFQtV_mGcauKK4V4yN3YkGt9mLEGb0Q"/>
+    <title lang="en">Serie Mundial MLB 2026</title>
+    <live/>
+  </programme>
+  <programme start="20261024193000 +0000" stop="20261024230000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Iowa at Minnesota
+The No. 15 Iowa Hawkeyes and the Minnesota Golden Gophers play a Big Ten Conference rivalry game at Huntington Bank Stadium. Iowa relies on Hank Brown to regain momentum, while Minnesota broke a three-game win streak with a 41-13 loss against Purdue.</desc>
+    <icon src="https://iptv-epg.org/images/7NfTlSLX1VspDEnYGAGWtqBkaLtToLF_A5MeTIm1IKzANBeixrAqQUMtyEq2w2qn3FWPabnaN_LcaVojZbtCRGIB8B9MyqLwf2Ai0xokLyU"/>
+    <title lang="en">College Football</title>
+    <live/>
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261025023000 +0000" channel="FOX SPORTS 1 US">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Colorado at Oklahoma State
+The Oklahoma State Cowboys host the Colorado Buffaloes at Boone Pickens Stadium in Big 12 play. Oklahoma State relies on Drew Mestemaker after his 365-yard recently, while Colorado relies on JaQuail Smith coming off a 141-total-yard performance.</desc>
+    <icon src="https://iptv-epg.org/images/Va0FQ4J-yeooUBZhQAFJimzlf2iPmM1K1DJvzo9yZfdbECHBdMA6iO-ovP3XmDJ6jy8NFbVbTKdrQCDMrRqu4lDMmLsKBujm4ntLTeTjO1I"/>
+    <title lang="en">College Football</title>
+    <live/>
+  </programme>
+  <programme start="20261024220000 +0000" stop="20261024230000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Rodeo</category>
+    <category lang="en">Series</category>
+    <desc lang="en">United States National Chuckwagon Races and Bull Riding
+40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.</desc>
+    <icon src="https://iptv-epg.org/images/Qy7pGshcrBmCTZu0Vbmhb-23Ro9i6bMbqb25c0dPpYB_SDE-GdjdfzINTB1A0guQ8OUvf589bh5YFcOxiYwGpsbfAt1ObT_gYn3_TE2Mwn4"/>
+    <previously-shown/>
+    <title lang="en">Wild World of Western Sports</title>
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261025023000 +0000" channel="FOX SPORTS 2 US">
+    <category lang="en">Horse racing</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Breeders Crown - America's Day at the Races
+The best racehorses square off in the premier races from across the country.</desc>
+    <icon src="https://iptv-epg.org/images/cUI7wiJluSJ3NShji4Ejb46yheSgjZbTAY4cgUN8GHLtcb32y_LhZRJG6N38Mg95a7Tg6hxBs6PZoA3OyCnmtwi5gjgPCHb9Pv5rl5FlzEw"/>
+    <title lang="en">Horse Racing</title>
+    <live/>
+  </programme>
 	<programme start="20261026122000 +0100" stop="20261026140500 +0100" channel="M+ Vamos">
     <title>Jornada 14: River Plate - Racing de Avellaneda T2026 · Liga Argentina. Torneo Clausura</title>
     <sub-title>2026 | TP | ★4.8/10</sub-title>
