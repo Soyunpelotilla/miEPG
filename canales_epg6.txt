@@ -6131,7 +6131,6 @@ Drool.us,US - Drool,https://iptv-epg.org/images/7uxMpMSQDEskktNQnUVzbIN40SIlRXMr
 DuckDynasty.us,US - Duck Dynasty,https://iptv-epg.org/images/JWJUvHuZsr97gSBtOqLKOuQswwCxXmnUSBrQWDCvhWqvDrqrrIqYNmC7pGxd5aCCEjF8iKjlPOBZcMfCAzRyOQt7KcN2nsBO464BrMQ5VbHk
 DUCKTV.us,US - Duck Tv,https://iptv-epg.org/images/gail1T6NBMDoZDEBvh8pxbcwqnu6_YKwqsTkmEH9Mt2KaAxjcV1vtM2_nh-JOCy57duwOLcVudhULQcE-MNvt22tIgMyRKluMuBOFA
 DudePerfect.us,US - Dude Perfect,https://iptv-epg.org/images/skFtLsuPkInAySvH6mJhOShyM1TthdfI-hiiUXb-B1j5B84wcaGEAF784aMLbEngc-1j8utrKa7sbVh_i58k2ldl7NGDsR9e9HrJolw9_vY-
-DWEnglish.us,US - DW English,https://iptv-epg.org/images/YKBvG_teN00N0aV6gYqe6OEXOZRvuTKqPNnhHBm0UkWbcy5yW0-YNu2O5Jc5CC_-L4e8R7sgsigZvgVIUsghv7_Mp6tLQf2CeGL0FFujFA
 EEntertainmentTelevision.us,US - E! ENTERTAINMENT,https://iptv-epg.org/images/FvpHmVhI99M4rJzf0wcYsu8f4EQQs6nse85w0DaOErB5L6hfk4n5a_s08_tXV9V0aURi86DYksxdFNkgvT-S3ddBPhTLkx5Oyfx6M5tqMAmgpPUW1N36FQtmRKP2hQ
 EEntertainmentTelevisionPacific.us,US - E! ENTERTAINMENT WEST,https://iptv-epg.org/images/GdG7JAzIHTxeYl5Vy_ODl5JKhlhKv-ocDxctmixDfKhn3OpC_nq-lD_YYtosG9QKQxR7FjZcHyJWdAAgRqXhqUpOvDSHyKP7jDt5crGcES6Q50qTJeim8m0lBMOUDhY1mVsORwk
 EKeepingUp.us,US - E! Keeping Up,https://iptv-epg.org/images/CCWrRPW2zVGeYrGZv7YKCefK-sygqux2nScPmn2nPOFI8aJAFSUARy_kRQ4nCJFGDVdENw95odC84ytx7enoRPqobF-u39xRdkmpJ1S9t0A
@@ -6293,13 +6292,10 @@ FanDuelSportsNetworkOklahoma.us,US - FanDuel Sports Network Oklahoma,https://ipt
 FanDuelSportsNetworkOklahomaExtra.us,US - FanDuel Sports Network Oklahoma Extra,https://iptv-epg.org/images/eES8p2H5AvPXFsMV51CgKm7IlrEGog3sHRzAlaAErftav6K4E4EAlhD79rPi2YkVhJ6YHb2rANFoLnBcwmqRBO9MIbLBiQzMrP1JADGvMq6Tiw-IFsMEyucbwG-rhHrQQVy_-zVygg
 FanDuelSportsNetworkSanAntonio.us,US - FanDuel Sports Network San Antonio,https://iptv-epg.org/images/Us95V056p7aoyErgNxXpPo4AileHP_ANLTEJf-xCpvYUrDP6ltoDlnkUD8QEuQLA2eVJlZdo8CD3gLLuUkuirh2b7s8ifvA5gbL6d7SuRtWbDSEnhN_Edk3qTTMhd64nd4YO0g
 FanDuelSportsNetworkSoCal.us,US - FanDuel Sports Network SoCal,https://iptv-epg.org/images/BkyPiKumGRSCykIWlybKaNjetY93bkLGS96txHdrubLudjF_d3Cn6vWBDUmhyDTCJP0uQ7flbFVTmOBU2p90UOA-P2uN-oVxO7-ZfriWs-MMiN0Jyh6kxnZhWbE5_Qo
-FanDuelSportsNetworkSoCalExtra.us,US - FanDuel Sports Network SoCal Extra,https://iptv-epg.org/images/y65MhPyjyWh0LRBT5gE_FnteF4-_oIaFSfuaYpkFK4JXw3_bzBRwsSY3gBUdMS7NKbYTyFDtcGN0JyCBJ7PWRamF_1VsFctg-MM58gH6Ip487ceAv_0i4UmlbF6Uha68TZJXiQ
 FanDuelSportsNetworkSouth.us,US - FanDuel Sports Network South,https://iptv-epg.org/images/0bGhAtJdxCE8AL6x_LohQY0BCsMDqt80MUkqErB5FdZfNE5UDWwVVk4ITttmp3OdeHn1eQ_WHch9F4XkC5QYOqqtur5vzmgSRLxrb3owwwOnG_lbkQqjfqbXnv-sqrA
 FanDuelSportsNetworkSouthCarolina.us,US - FanDuel Sports Network South Carolina,https://iptv-epg.org/images/U4wTabglmmhFvNAXlVRP_W49XRVqGZ6eiS1ak0NG-k2Yo82KZqJvZtMOk4Hj1DvQD7oUfO_qRNbTDvxnObR9xtcZEi0dOaUgR5CXhq05dwto3v-4wMWixIUDuVAJubvQLp-daV5YJw
-FanDuelSportsNetworkSouthPlus.us,US - FanDuel Sports Network South Plus,https://iptv-epg.org/images/4vYnr4LCVIaQrgEm9OxDep5mMBKgWA7teKMUYWSUtzPMKyuYkdYssOwSbS5WByWPqPPli4eCNzn3M9zNUmFnGkuUCQBdZjGCaycs94c3QxVd6YS5uMXmPh5yPX18dIuk6TY0
 FanDuelSportsNetworkSoutheast.us,US - FanDuel Sports Network Southeast,https://iptv-epg.org/images/ya1Tvy-Iys9vJS6FnkhHBXFYSVJao5xsTclL0wfjcho2o8j4scwaZ8ufINnB2ZnxxCbcwqv4xXeLNAHWaKHoTmwyD6gz2mXiVfzjZ5BlqPSNTKMHgsFeWAg9qli5eD1_naLk
 FanDuelSportsNetworkSouthwest.us,US - FanDuel Sports Network Southwest,https://iptv-epg.org/images/F48XAPo6okcavo_fPdeMtIjDQhwI4k3Kpgp2_dSNoLWT7y-PV9o2OwGF9FXRRe67qeZp8kYCb75tSus-FmbnEz0bnogAY5NVaqCT_nhKmJLQHdsSRaWyFiT4z7lFJ3-R-FX7
-FanDuelSportsNetworkSouthwestPlus.us,US - FanDuel Sports Network Southwest Plus,https://iptv-epg.org/images/MVPgx3Iew995onqC-mQ5bXqCAgrjAMPufT3p_LLr3aoPHOuUcADhMkI2mq64Jk9IQM3s0i-2cD6vRx4WyS8DKv_oPH3PEjZ06pm2cEgBce3pc_0xF2x0J_s61M8b-iWTIxoM7UN2AQ
 FanDuelSportsNetworkStLouis.us,US - FanDuel Sports Network St. Louis,
 FanDuelSportsNetworkStLouisExtra.us,US - FanDuel Sports Network St. Louis Extra,
 FanDuelSportsNetworkSun.us,US - FanDuel Sports Network Sun,https://iptv-epg.org/images/5CvEJUZVyLIDJN7tzhA7XY9ps8sX7q8_1oWSdX4Ta90U9VqbV2d20_tNEwL_fxDsHH6Mdc0-vwcKs8Pso1J_21u6MVc0WbLtaSEKMYW75gTMr0WOWSO9lcKBsIrz
@@ -6591,7 +6587,6 @@ MLS360.us,US - MLS 360,https://iptv-epg.org/images/hO2iNoZ3jeCsHdagenpFNaqiMB_6s
 Monarch.us,US - Monarch,https://iptv-epg.org/images/yDoOO_AACztQPo-5dr-04fYkdxBaUjDKvekeGaK89SYphd5GIZU_KcIlMrF710Dm4vbCo-_CIil-tXxmtJbQ3QpWKJSpLakStN4pbCo
 MonumentalSportsNetwork.us,US - Monumental Sports Network,https://iptv-epg.org/images/BuJ5AI_X3_JWH7qFbdjv4Bv_qAkglbTqO-Yp0x4UrO4sDwhf308rdMUN3HB_x9Flj7QHv5Pbi1uLSY_DsPPx0vgG-j87ALMUedq54mYN15J4RAOa-aSqdYtzT0Rv
 MonumentalSportsNetwork2.us,US - Monumental Sports Network 2,https://iptv-epg.org/images/5a1ehTPc2lugqyAG7nVl5bowaryiEmNF6xMcjpCopCbfX_Wqo0DyN2QovME0zO2J4KgO3KoupOFX1MUUv8LLF7aEYPbMfnUEQ0KLpn6cSJ22pYgGzMy_AdFT8ygAhA
-MonumentalSportsNetworkAlternate.us,US - Monumental Sports Network Alternate,https://iptv-epg.org/images/sb5GAFIVBPgtoHS9dXtUi0uF6VA35HAKYMZ9imMPPmbzzcHhti7DZg5KBSYvHswW6koK1SdVro823fmR2E800rqQv9lAWRqCYE3OGpUcz6i8I4arrvmxI0rO9iMXxzq_tCVTw3_Y
 MotoAmericaTV.us,US - MotoAmerica TV,https://iptv-epg.org/images/V7TzsnAaiCi5PQ7GEXibYMEAPKS-WdfiN5KpIsxrMiffwkmuckRfdlxcVqZsMrrsw76pQ6sgB86iRqyiZ11kMtmiVSVQMhN6uH8IrY1CRndRhRA
 MotorvisionTV.us,US - Motorvision TV,https://iptv-epg.org/images/KNtd_cnG1Frjj16i_eW92ZB5jXczJBg_Tfk3W7FGNrt0U03co14RKL_qaGmruPScJd6oWjnRE4Q2uJkJd58UzUnJunZn0WKCvc_2_8Y_yzxKANY
 MoviePlex.us,US - MoviePlex,https://iptv-epg.org/images/Gwt4BEI3a98nOiqLg2lmhGjUkpG3Hzl3lfdiftKDnkSjTnHcnN1APma1yqApHgWv93BjG3CXxqX6UTElnMDVzIMyc1DsMM9VBFeiDhGc5g
@@ -7353,7 +7348,6 @@ RigTV.us,US - Rig TV,https://iptv-epg.org/images/GJ59WymkdmRkfFOxjauagNY5iaCi39q
 Roar.us,US - Roar,https://iptv-epg.org/images/4X3fwENCI9aqjx27ic4PM5kAMoFmVRk3X4B4eL9po1P92lKb0X7ZJrVHw1KRfyMA5LrSeW3Hys90Z5DBOgI3AwEOdPZi-gQB5iA
 RoarPacific.us,US - Roar West,https://iptv-epg.org/images/Y9rXvPUpuEMdgEF4J2pSYBXi7KrGQjFa2H4y1ddggzndPH3caHtJzdLaxCdYPTzxD5n2syw4EDDX4-E12YA5nrGiek1Ra5WWalSv2cFQNJ9n
 roosterteeth.us,US - RoosterTeeth,https://iptv-epg.org/images/RFyl5YlHhLQzTW96Qj5Iy2iEfz1UUb-uxd-HukzfezZYaTZcru0d6VyXsm3eVVr68k-uTfCqhFzizWPZvJGp428ee69bBKKzb944gI40HhuNFQ
-ROOTSportsNorthwestAlt1.us,US - ROOT Sports Northwest Alt 1,https://iptv-epg.org/images/1OUCzjro8reR5Jo90QSbKWH9jFzFUNyLober8fOcEocaiAsJjdDVvNX4xXsTa57qyTL8_dirZqtES_vOfL2ju1rPHAp6A8zfZ6Nvb61NzRpnf7TE_4woSuah-n9z
 RotanaMusic.us,US - Rotana Music,https://iptv-epg.org/images/GJSi5cNv5CE9FBaq0bH4CKvYoldogZW_6xQUnBctA2vkjwLM-qQS2D6fSc4irwyLI7DPUekhoq_LVQCuO64DeT2hE7_T803Ug30JpTa1sQFj
 RTNews.us,US - RT News,https://iptv-epg.org/images/1FOrt6mIGZY_01HO67cJPdF_AoT3-SlSfMDMEVSKGwNfklwEYfLc6miV5WAnxdJMG5RmTsvdyfTkC1gi-tRj7FhfQv_vfwHsMbz3Wg
 RTPMundo.us,US - RTP Mundo,https://iptv-epg.org/images/67AGPMTvzvmB4FOQyk55jij5cVOvzRC9PA0S3tc3Si5HNCYtTA5JR5dfT4G7cPi8KeF5S7E8DmRkUK5100UwX8D8mtSuYedldT4tK9pv
