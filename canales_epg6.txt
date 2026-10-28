@@ -6001,7 +6001,6 @@ CCTV-4.us,US - CCTV-4,https://iptv-epg.org/images/D4N_YIdUN2QQV9Su41KWb6SycWMY9I
 CCTV-Entertainment.us,US - CCTV-Entertainment,https://iptv-epg.org/images/7gV_D5MANg0NUmf53scA7Tt2JbRo5DXYHg5MLyiia-m3mnWWMEp3-HQUIiYjg2CGGTyL6_rmJZRrJRn9L9EZYhV8mM0oCi2-Vj2MqfdMYB37CvQutu-MgA
 CCTV-Opera.us,US - CCTV-Opera,https://iptv-epg.org/images/G8m1ccBs4yrOKoXhqLIYyEgJfewKzTHpBkHcsxYr-olUWyF2Zo8XFQ3kY9qX7eLrUhHNAgwi_iXdiTfJkhi4FUFs7oM0SX-bz60CkTeXb9Q
 CentroamericaTV.us,US - Centroamérica TV,https://iptv-epg.org/images/mJD3XzKfxC4L647BjycRBB52ardfD7-nCSPYHdu2SwhcO3DeMFJe2EcoWe0ucKOz7HABDYbO2wFHDOY6seWvFbHIsWLb0YJKn6hzdpDvVu9U6EHc2w
-CGTNCCTVNews.us,US - CGTN CCTV News,https://iptv-epg.org/images/YGBKcRy9zsWE-LGW75GTMYfMtLI6kG440uz2nbOhH_IHTQ_XSGyUI32ruKpsdYEzwIqEWQj0Px20ruzPJHICoKMxhyZL7xAFlwbdPEfM_6dvcA
 CGTNEspanol.us,US - CGTN Español,https://iptv-epg.org/images/AQUl7zX4uUS_DQ1tcSCsx7ssRaOrWMG0J8oEeXuGTszU_U5x1HnKhQfZeKnfzhsV0OrbN5m4byBfo7gOMmroG4bwSsViur-Bp9bsChuTuQHn
 CGTN9.us,US - CGTN9,https://iptv-epg.org/images/EUWRj0PIwpma-qyubP6K90bfjhVrVLTNpT8VlbNhTrxVQZJizBZMERdCb1D40gH9qdMgdES0bG8TPlFtDdNzcsxFW-O9kcIN7WJ_
 Channel13.us,US - Channel 13,
@@ -6036,7 +6035,6 @@ ClassicArtsShowcase.us,US - Classic Arts Showcase,https://iptv-epg.org/images/vs
 ClassicCinema.us,US - Classic Cinema,https://iptv-epg.org/images/1eKt0gdYmaBzqn14bC35Kr6ey2F4oku9YqkwITAIZc6_3BJAp54oNzGEG_72MFK5lUAvotrnAWpOVN0wOF-hKQZdlyg3O0cFF-nq_ORTFJFA86U
 ClassicDoctorWho.us,US - Classic Doctor Who,https://iptv-epg.org/images/do7XqVaQaubj2pZKoXhuebEpl2KMlgkfsIDAEnVJKVvhQrKJ29LS-emnXTAuFoBV7ywNYzLvsb_s-MQHFSoCJT0QqHF2pVtAJTZGNpiBxq6RRL_umTQ
 CleoTV.us,US - CLEO TV,https://iptv-epg.org/images/yeO-DiVmWeUby2M90WT2ozvggeldWB2TFjPL5lovUR_kTohJ-VWSeH-UJ25bcZ1pCMLu2eIWMM4Ly3Tootpcvt4k1BLbH9QTaFy_Mw
-Clic.us,US - Clic,https://iptv-epg.org/images/ZIuhL0HuxdPV1Nk42ijCkKDdHUtQ42VPDwIbzSv_68ypSRR_GV7HUcK-gffG5o2WawAXptA47w4_pOV98c5BDQMV8ekQiep1FPI
 CMC.us,US - CMC CHANNEL,https://iptv-epg.org/images/js244HCp8_Y-9I0Xm3QjUvSJlQFPU7IiVQLNFq__4rxoKoXCSbba1a9Cr4-IekV3jCX-txzfwtQG7v785DpMYb1iEICsLxzpzg
 CMT.us,US - CMT,https://iptv-epg.org/images/JG7DBFIYonahgli1qW7g67koTJMjrggLP2mxu8ctldLt2L8CyUSxLepmPVO6UyLmt5gDxyd5s33tiJ283xTqWMVsR38s8t6o0Q
 CMTMusic.us,US - CMT Music,https://iptv-epg.org/images/H7J25C_93Y4bznwhqkaVDw68gcDIyiLLm14SbbZ5908Ra25QzrvcpX9Nn5pmCvyhAQnUo0jqxazuUV0miJjU0du3tfmosPfzC1GYBhm2
@@ -6049,7 +6047,6 @@ CNNinternational.us,US - CNN INTERNATIONAL,https://iptv-epg.org/images/acQ2hdZ6j
 CNNMax.us,US - CNN Max,https://iptv-epg.org/images/KdWursJ5o5Epf247gSW_5VOWyCy-5uFP0nxHqHs7pBF3OGEo6Y_FK4LxtQQ1yKz1BAFuTTH8CvMYsKRiBgCHEiXu_ebHbEu0t4sAZw
 ColdCaseFilesByAandE.us,US - Cold Case Files by A&amp;E,https://iptv-epg.org/images/jHFiWpj6qiQa-ZOiO5tuPlclWrTdx2gWGJ7ay1GqS989atTH11zGd1VugaLkOayc4s6BnGp__vo5-ZNeX7AaMnwZx9_5uxkWJCVvavIW427NdcEecG_lMMI9
 ColorsCineplex.us,US - Colors Cineplex,https://iptv-epg.org/images/jKn0l3uADmdLcXHSrXBJ7rysTOhCc5U1c9ZRHTzSlqLAjsWgaDzyhxlbCgjVlZGxJzG_DCb-q5LNls7-uy0apV49-HWvCVUjYoKRsMt2uaZgRTFL
-ColorsMarathi.us,US - Colors Marathi,https://iptv-epg.org/images/YnQeXAFyhI3106J6ljCLXDJjAK8DkJ8Ts2-cfE7TCdzJq1X6UsUaqAH-6_sWv296nu-d9rAKFNrWarZPb0Zil2nLoJXDn_NtUKDa9JT11icb83o
 ColorsRishtey.us,US - Colors Rishtey,https://iptv-epg.org/images/7NNNfTtr-MU3LL7I9FeRlQAu4Ccut94Fpmr8kyfiCx0-u03HcfRne5piBFE9YM_GUrjAUfKkVdFm7B6zVzdhz3wa-fuTS16MjdH39LKpcyTY708
 CombatWarChannel.us,US - Combat War Channel,https://iptv-epg.org/images/LqqTinyq3vnd4R2yjohIZlWAfh89HEeFvMLWRcQviUOSUFt5CZ-t6EjXC8TJMDjW7q_v21SyAmjILgwp9Y-USPvPZm1A19UqQiXOj6Mc65zKNP_TBww
 ComedyCentral.us,US - COMEDY CENTRAL,https://iptv-epg.org/images/6w-JUStTyDSqEiwfNLSFXuD6WGg5Vstkq40g3SW3v0C-FvLaq2SuauhqFWwA9OemuZdLhu5HbIpy7Uw5wmQ74_9zyTkryalIb7_GPQBPGthts-s
@@ -6061,7 +6058,6 @@ CometPacific.us,US - Comet West,https://iptv-epg.org/images/G-44VvJZsyeFPQdTaxwA
 ConfessByNosey.us,US - Confess by Nosey,https://iptv-epg.org/images/yk7AutA3uwJhpHJyaEYHVDi7eiqZhJR888G2LYCjoE7LS2qiUbTaEN-xOKzqjzPE74C_iqSoCNvNZ8LRDvO_r5cEyZ4fwd2j9POBNs2w73fKeydm
 CookingChannel.us,US - COOKING CHANNEL,https://iptv-epg.org/images/eiIv1R2dnIxKl676JGjhA9TU1_sPayNKPRhgFlY_TP0-y6jUXy9l7o7ZozyxN7O-hQqIDIFnpGSXWFHo0MlOsrdlcu4inRyUgv8QxXDPDqZXgAHI
 CookingChannelPacific.us,US - Cooking Channel West,https://iptv-epg.org/images/cOSw3lFdsk2f5Y4QCynAPcjUC_IXKnW9T-HWW7HeasQblas1U4G5iwlKzhV4jsyayCq2jbzUq81Ij9jas0ZENFf1zqiqrO3H1pcVzlcwfQE0Bd9YIonlxE90hg
-Corazon.us,US - Corazón,https://iptv-epg.org/images/dbJmcOG3FEi_EB54mSufQQFkuJUxsxgyngbt9BGO7fk9Mcf3_2kexB5ZavzLdtv3fE8O_1LRbGpEkHTBv3kgdauqAElgsvqPQ-xJAIg
 CornerstoneTV.us,US - Cornerstone,https://iptv-epg.org/images/kadLdyr9Lw0qFWOj_w3gYzeNIQenH3EJilv6SEzGC_KYCuS47b5diXuFicqaBbY8-lejHg82LzileIuD7DGPdWLyrV_TUiT6PRGJNAGHll0hi1o
 CosmicFrontiers.us,US - Cosmic Frontiers,https://iptv-epg.org/images/Pw7bPlOKGPEbBDYybya32st4UELnyUONvGz2-6cCmwWJSiYG9fTyfYUuJPOdidCjC0JkNCxa_ybCyEVg9qw4Tc-dF2a1vnJbERsiC1RWDluFEkxVjQ
 CourtTV.us,US - Court TV,https://iptv-epg.org/images/CkgDlFEYxBJsYaEtnc-BZtQRIQLZ_5qCuR-dD5bd9hWC2eeOsc-42IWb3IjymdDuvQTFbuKxiMDb27o-dlQZucsRP3OthhxWFHzvVuA
@@ -6073,12 +6069,10 @@ CrimeAndInvestigationNetworkPacific.us,US - Crime + Investigation West,https://i
 CrimeCultsKillersByAandE.us,US - Crime Cults Killers by A&amp;E,https://iptv-epg.org/images/qGCXtJ_xEBUEOJun6dKEddfI3u_sEZ9vOGAF7shLWP0hTEbX_xkyYP_-Zt4YqGv8ecWDcge4K5vEuBJF--guVo5MM3GzvLDD3cORPymnW18y2Ekf_KOYJgmAzB6s8w
 Crunchyroll.us,US - Crunchyroll,https://iptv-epg.org/images/XpY7l176FPNR5ijdHdvgpqQ8SQu4Zrl_vnAf93bwma-dN907l73GCIDrCILoK1Yh1T6hD1sC_7WxoIcEMJLjpg8mQfM1pCB1zQ9Bl6v7Uc3g
 CTN.us,US - CTN,https://iptv-epg.org/images/agMwc9nhg_wdQfIsWqhHTC9uUCjvNDOyz8-qsTtHk8gN3sRSjGBqeXC-fjwby2WQx6tUalqjYEHVSaBp18oOlQiU1rc2cT2XqQ
-CubaMax.us,US - Cuba Max,https://iptv-epg.org/images/Zem8Rf6OzllimbFzj_lGKnaXtxpKeBszWnNN41T4E8NW7AMXDe1HsWpxUB_VyPmzP0l51TLjUr5P3G1TCVuNukbV20prUZmEVP2zxns
 CuriosityNOW.us,US - Curiosity NOW,https://iptv-epg.org/images/LQanix63Qsu2YRkqV1TtdBy2GMUp2Fub5NTMH5-cFTtaD_7URdaPrJ5ZnZqWMhPCeyUy4OJBDI0tZmtVr4vFIwJY1JfhKAu_H-D58sud4NYryg
 CuriousityStream.us,US - Curiuosity Stream,https://iptv-epg.org/images/eQPGOrRz2mO56fI3uR8tvXJg2qbtpcik_FwD8UO5LIzcbfWd8vvqGEE876lvjpaTLBpSLXjXYZnEoTvTaSxmd9swgu3GlGZfZVZ9V5Jf3mU9faFbzVY
 CWForever.us,US - CW Forever,https://iptv-epg.org/images/T9og20P0JODD7tntvALNYJFvW_U56i0ddLC9-itwScrihEeJWjavFVhZG2SnH66UqShlOEpESGFnFCe1-UYT7pV9RimVsnDfW2c-_eew7A
 CWGold.us,US - CW Gold,https://iptv-epg.org/images/2p8q8BV4Q7EQ04f704IjfX9_jKAFrXkW5vcIxR28yKDxAG6_5r_sgVHkPCJVI_SqEpAhF8q2caJGHjYu2gXqVPZ7Ja8Dn1WVHC5OsQ
-Cyclonestv.us,US - Cyclones.tv,https://iptv-epg.org/images/bN8qzIPeyFn88ENxIxVmVyoKTsdUQ_eg8GIu03N5L1Q3nkWAy9rcSopLg9lG4Vf_UEO_u5FrByzy72jglaZwNhKyWp-0wIfW3YbiqCYdtvg
 Dabl.us,US - DABL,https://iptv-epg.org/images/sdYxv7Qsovth-_BKfkYCisxHSmVmsGz3lVRkwh19NGAJfnBZ5PxtxmzfdNxkcwpJuavr-JYqZQ1pOlOepKchdVliUPFGdN-ZHv8
 DanceMomsByLifetime.us,US - Dance Moms by Lifetime,https://iptv-epg.org/images/7gPmS2xqTs5o3p4PBGAvv5oDQjKVbPedd3YJvWSCPUd14BQ0wZZfZRkKgTloMQZeiGfY_xoBSvTPspPnbTDz4pIDxHhhDSbs5jZ7fLHCOQyhi1gLa_eTbw8
 DangerTV.us,US - Danger TV,https://iptv-epg.org/images/7rIDCCk1wWpQpcfqqA5tj028bzcFviNvnjPTQNlk5DpMGkWM5cpWg-7cqdRaPPBeRQ39ro18S_Z6EMbu9Ec2pvx1PZzye2hzv5e2UvkS
@@ -6092,7 +6086,6 @@ DealorNoDeal.us,US - Deal or No Deal,https://iptv-epg.org/images/UkoO2htVT0iJ8Yf
 DealZone.us,US - Deal Zone,https://iptv-epg.org/images/SONNlQ059RB-Ej9u-P71yQBnArmJJwKq1Eh6-R3Ebw4n2xI7hMfan43Qvx6ya7_0_PIEhCp9NG2o0KfvuBIG1DA1bsUWca8HUemosDEC
 Declassified.us,US - Declassified,https://iptv-epg.org/images/8naqD3f8pl2VUPa259BDl3SKn66OpQumBvuQcVjRdUCpGTfqDibsseMeBO0V7CHN-LnVLsmnkwtBS8iKw1hn5O66g5qFW0yyoH3clNIKJCmuQg
 DeFiance.us,US - DeFiance,https://iptv-epg.org/images/4nX8dMJ_WNX1mGdR4luDwSuYpVzVTv6krlYL_vU8HEswiLRWZKiT7phId74GRb7bKlQwvx8elDd8U3G216eJmhIrr0LO_9LbUo9rwfFM
-DesiChannel.us,US - Desi Channel,https://iptv-epg.org/images/iHZCvOJTewmBSWGxgYADfdTOxOYd_ccrb_NfL-3uM4IXN_o-5W_C1MDN5gHBRv-dWJIskpWEJDm1MGltWCE9hx1rdilkxNSZY42TwyoFRzQa
 DestinationAmerica.us,US - Destination America,https://iptv-epg.org/images/nrIoB1VSseG_2GX7IyGEbOjO4VEU5lDYgNzPec1V6zfRvTr9a-jiPzmtEYmJUy1Sw8pz6LYJbC6RSQZRwM53S014-NMW_XQZ8DoqR4QI6pNelfSySvgrPw
 DestinationAmericaPacific.us,US - Destination America West,https://iptv-epg.org/images/S3zZRMNe1NnB9gf41qtBmPm3SpgfZXhMM4XvnWXERngA3kZcL8jh4xtKspyqge6hVffRuYvdo1X6neKOhArepf4MWqcVLRIc0aZLIVnvl8i32aIdHJkxxi8zw8-9njM
 DetroitSportsNet.us,US - Detroit SportsNet,https://iptv-epg.org/images/6Xar1WEJz_GBzcWI3V4ExqlNa-g9gZ23u-D_gIKgsYPHeeWdVYlZaJ8CARw-Ytz0gZvrdOiQquQx23GKGt1Hdp1D7IrkdOln_7aKywFGpf9ert6n2hE
@@ -6142,7 +6135,6 @@ EcuavisaInternacional.us,US - Ecuavisa Internacional,https://iptv-epg.org/images
 EdgeSport.us,US - Edge Sport,https://iptv-epg.org/images/fNF4Ig1qrIsIIZgD9YspCXKZHoHG_LZKWyiw7CSYTg80YhRO0J0l5FEAYcYp8XQtOYjK0HzUrznGRdaIQhntHw3b5slshI4iCdDrF_QFzw
 ElReyNetwork.us,US - El Rey Network,https://iptv-epg.org/images/BX8Ha43xN-fkTcRKgMaHOJHKF5dkatrwaa-HCxj7yoy5HOpCmuwtzazkH0HZuK8kkojzAte1LJMh1g57aofgXGX2B-WbEg3cEw5Y9huHAaWZQA
 ElReyRebel.us,US - El Rey Rebel,https://iptv-epg.org/images/mRXa_W6zceVMaSTfcuTcYzYx-vcygxQZQP5R08ynPy1Zz-g9Ro2GwbxDp-vLbtAPpdkFUdMH5PD-_Gbc-9MSxhzR40TBlk6-aSK5iJVHbhY
-ElTreceInternacional.us,US - El Trece Internacional,https://iptv-epg.org/images/8gc_T_JtLa7QSdIYq3Jcv_1lSi2wvm6ZTtWTB2wtGCG-MeiKOxEnYKrcU8upqXp0t0NuR2jv8av7w3ZYIeA_E2TSv7eVcKdRZ7X6l_v_Ghj-P73WGJoX4_zk
 ElectricNow.us,US - Electric Now,https://iptv-epg.org/images/Wt9_0coWe5MVO7ZUHMsCFmGtrwf9JtVgWhXJR3Q5rOzxiFUSmeKl7N_8yOhvpIyKWGQpxA6llTVlvBf6-IftEPNDHK3qCS6HnU9qDiyPM8Y_
 Enlace.us,US - ENLACE,https://iptv-epg.org/images/Dvq23t4XgLwgJ6wHXc2E3muoug5_jfyH11MCDLQ6HjjCujelMYQVzLbiUAyPNjUbBC5-rAGdXIKRo9Fq5nwYR160DMAwkzZTna392w
 ESNE.us,US - ESNE,https://iptv-epg.org/images/pLc7U9bP4uPh1hXHBP9cSC1CoLYHDYmgxh4BAvQWp3i3qu5LfM1BOGDLvuZ0Pw-aEdO8DhOK6GXT_bKoAjfqjkzd5njZZ5SFQl8
@@ -6478,7 +6470,6 @@ IndiePlex.us,US - IndiePlex,https://iptv-epg.org/images/BAKXahSFpKUF5waCFHYa4tBV
 IndiePlexPacific.us,US - IndiePlex West,https://iptv-epg.org/images/i733DPM7nffDImYOy5X4AV09e2UqZEiiGckHQkiEuVO01D6fau8DKeDHXBYXQdSKd-Y3beCErmcrS5ult_O--eb1x7SkQSZD98qzm9Q23r-tOq2ZMlA
 INFAST.us,US - INFAST,https://iptv-epg.org/images/CeWhdh7W4cdnh2ykMpy48g67_rbao1YFCNlGWd9TdFPPkebXPUFYFesXRUGNOrp6plS5ZZm9fFfHz80iHbxovBlGS8fMeMsY92ojqw
 InfoWars.us,US - InfoWars,https://iptv-epg.org/images/8TTSMAIik8W2E0ZT6ExBQZsSQOxORWhukkfBpczy2yJcdcj_58gVIjxwa9QVPJovlrLEW6i4e2mHt4PGDU_IYEpXzJFDLgTO_dYDOnLM
-InglesParaTodos.us,US - Inglés Para Todos,https://iptv-epg.org/images/em82g6Du1MytLIIj2Pb8Ihiu1-1y0Y8Rkwr8EYeNRuoGUJMI53tomvinrV9BBZDwKWlPOanVC6QgOw9BXr6BX6YjwmH4aSsY-W9RJfpqq-0BHTX61w
 INSP.us,US - INSP,https://iptv-epg.org/images/3n5HLkQsMS0yN7cJrh9YDoNmbwNY0oOJaubU6LX4VDayYO65QVcickIecQEqQiv3Er2LBXj4GNG4X40WiHC8-8lon-yg3WNZeCY
 InspPacific.us,US - Insp West,https://iptv-epg.org/images/bRtwG7Pk00sa9LdebhoqZJUqnIsBHBVkg48a6UAFoTw7IJMkaaywNM7fXwgeHJPVTPphxyL30zBJOsXVICXWH3s2yows5g2IedKSe2XyepGW
 INTINetwork.us,US - INTI Network,https://iptv-epg.org/images/O0rKCoUgvlFbmhE4nhX6tHSWpVGjNbOgUMfZC_qM-kWrxEsOoGj59rNt2sROA9ZkOg-9Ah_Te5R7mhdb6ZQQCx4FxrRBnX1ytSrQ73p0B6Mx
@@ -6541,7 +6532,6 @@ MBC.us,US - MBC,https://iptv-epg.org/images/kRjX2XP2IhPrifbsHhCFmcQkkU_3MV__SYUJ
 MBCDrama.us,US - MBC Drama,https://iptv-epg.org/images/LhbTQhhhjb9ZVBZKbZJyP5UP92PLBgA2-MVCe6pHx88kWj7hzKMqj4O55sPLHFPEVQBvhZqKGLOL_Ku9KC-ZXfd7UqhG09_SXFTk2ZjZ
 MeTVWest.us,US - ME TV West,https://iptv-epg.org/images/CHnw-wYsd7hWk9w_g3cwo1NSPlKqhP7RVCxi_GkU5TCZDXk5TseU_6NUQgmNZJWy6OjFrRZblju0xoNEzOmSu53PzDcewzmZkBaDruje
 MeatEater.us,US - MeatEater,https://iptv-epg.org/images/CRG1lAXwYLZmSyXxNv_bgoGehdVrIk2Ji8HDjXBgrqVBW4C90C-8YycCfuC6zSA4zMmc2Fn6xNRC_-dOfRz9Oo2mLtoUpVa_H7S3eT5pHw
-MegaCosmos.us,US - Mega Cosmos,https://iptv-epg.org/images/3NJXbAttVpZdbVqUNEH-nt6cgqt2ZFoOB3SQAgNPmzzBT3lKh6zLoR8WbWSpd82UiDamCh2WSs9tP5hHHsqpaL39noLJ3Ke3PkzgqQIKROI
 MeTV.us,US - MeTV,https://iptv-epg.org/images/wEoXknwU3xhFHgLnLP-215Z0xh8zH3r81tOnT7nOTjmuR59UdWbe1K9BazTZ0ALHLIVBZnzlcmChJxZmvYM8fCH_Z3JJbTrFyTE
 MeTV+.us,US - METV Plus,https://iptv-epg.org/images/XkHHWgXEeqylxn-ZIFsmc0shO6z_Ea6ojxlGHk7XDTIppv50tSgYg2WlpwIwAgVoaj91ibFLXsY8qqsZg1qKgpIv1veA6KzZiXIL-uU
 MeTvToons.us,US - MeTV Toons,https://iptv-epg.org/images/40P2Px_yJawEvaP7PBOjgIcyJHbE4J0McqlDHc8MIRvH8dmjMCmwMpLnQ-vXn5dJEMfGJsKGQJfXXyycrLOBhqgeoan_ucaACVxcmFbE6Q
@@ -6821,7 +6811,6 @@ NYCLife.us,US - NYC Life,https://iptv-epg.org/images/QuIiaFAA6ofJB-_rkSvjJq4JCW9
 OANPlus.us,US - OAN Plus,https://iptv-epg.org/images/60e9vD4UBiKR1erowr5qfPnL47ayqpfn2FtG-D6Ys2OBKDbItwuCy96kVC4fYfMLA8_qjsSzyQwgMPhYzhjuxkmWchl5-t6F73WXHXg
 OneAmericaNewsNetwork.us,US - One America News Network OAN,https://iptv-epg.org/images/W5U9x9KDDPDCbMcFlHB5ZkMSSV8L5DXm6X76zDXi6o1FG48-Qwlluid8Y31Vxdx7dIuKVafya5T3PRdZ0xtnaETam3G_4WULjQW0vvw31CsDXrwT5XZ0diBtqg
 ONEChampionshipTV.us,US - ONE Championship TV,https://iptv-epg.org/images/AzZNLTyDqB8mrtpdy7NcB97N_oCbZFU5wqvCZrK9vUeJ447jTLmSfOAlbx0Q-ODEv7qMBwbGgIuKp9NckAAnXQ2cKZxrUwryVJbNYLZsemjfTCxQSDvU
-OnlyMusic.us,US - Only Music,https://iptv-epg.org/images/bN8FaUxHzjEV0cjGIPN0m6XmnsJnkV1DP8aA8WsZsSgPeRFIPfi3aBwhjbkp0onCWv68EfATr9aFq9Tkwiqiupx6xyahTZDeQRvT1dP1AA
 OriginSports.us,US - Origin Sports,https://iptv-epg.org/images/wHu-O7Mz95BwtpDAB-Y8yOJXe_8Epvu-WqjJyEJIJjZ0s4V0suYzIBofNXWExlzwKbx3euyfBwqAx3Xxylg-lBvirKju2nLu2ygWuQyMNpOa4Q
 OutdoorAmerica.us,US - Outdoor America,https://iptv-epg.org/images/VLAiJwpUvmMnVLPcMJXJMoOClJRBhC0aVxMS1I_lccV2rqI1aTyPxCqUwWB3PY4tLoaHK1_8E3Xqq9t2cggO6l5B__-5x2WiSk0CBaNZgea83ybA
 OutdoorChannel.us,US - OUTDOOR CHANNEL,https://iptv-epg.org/images/pQYLDvn_r0VA_dciAixTZ76hclA9OuGiMtJYFt4YKplWJwdHI75WPnzbYEYTVK7o84DmoE3YyOmRrNU9sJEXIuUe17nmqxSvTL7no75F2eAIf4NR
@@ -7294,7 +7283,6 @@ PlayersTV.us,US - PlayersTV,https://iptv-epg.org/images/ab4_RAV62J3C0QoMqlOGI60G
 PlutoTVSpotlight.us,US - PlutoTV Spotlight,https://iptv-epg.org/images/5b8lm0T-9Rd7gcAhbfLbvQwK9ybK-ZAGgFU8wG2-b27jEYm10ZZZyo058wDrTcAQgPLi1pGoO37QWw-VSxUeqTL9gMtgIlrX7sxHKCIrpH2ac0_FrTk
 pocketwatch.us,US - pocket.watch,https://iptv-epg.org/images/X0YzhBqDleGSX4NQbfXjHZn417nBHSsPtiV-iYmoQCEGC6IQAcSp6kkSAOR5Aooi4xAyeoX_idoc7e_PsRyPoiJt9-g3lEZxtwqhfwjAtL9t
 PokerGO.us,US - PokerGO,https://iptv-epg.org/images/1B5bpFLoqvwiUJnhvCoBXBRn4Mav5PlpWJI2ctYIQYfmZLoZqPTXt4sxCXCJXejYhEuQUAok1DY5lIwciEuFhs6LatqDKKnnOrQVggY
-PolSat1.us,US - PolSat 1,https://iptv-epg.org/images/6JqVPX5qBHvP5cN-5fLllGfolJ3KuUtYTrvEoxmz0-m74XjfkkUSOS2BRsvjjfC1HGDnapEuI4QUWAGpp7FfZjewUuzKGyxBJ6onpuA
 PolSatNews.us,US - PolSat News,https://iptv-epg.org/images/63coLW-01R1JOp8S8WV19RPLNe5F5t44NAt8iQJUitaFUl_iZUh7ZTxPrdNZgVb6QG1QQkYMVbZJ_Cz3_Hwce7eMVZxnv_AsaxsZ1BExQIY
 POPPacific.us,US - Pop West,https://iptv-epg.org/images/LyOj5xxrWX-9-aXs93ZcMAXPspllsRoDG3jz9oxPTHHRdjIvm3fUuwy6tdK_xjyDMLb4GTfqG0fWg7hP0DLm_mJcNBCtqFXpxQISMUukUxw
 Popstar!TV.us,US - Popstar! TV,https://iptv-epg.org/images/b0lzwWrorDiK7Bv_PfZ6N8Z55ndlA3CUcJYIdd_efmedXYCrCUpktkg9EhFgogvClWcl_s7ytpEDNMpgH1sAai4i8k_RM__AcnZb3YS0LOZMpQ
@@ -7348,7 +7336,6 @@ RigTV.us,US - Rig TV,https://iptv-epg.org/images/GJ59WymkdmRkfFOxjauagNY5iaCi39q
 Roar.us,US - Roar,https://iptv-epg.org/images/4X3fwENCI9aqjx27ic4PM5kAMoFmVRk3X4B4eL9po1P92lKb0X7ZJrVHw1KRfyMA5LrSeW3Hys90Z5DBOgI3AwEOdPZi-gQB5iA
 RoarPacific.us,US - Roar West,https://iptv-epg.org/images/Y9rXvPUpuEMdgEF4J2pSYBXi7KrGQjFa2H4y1ddggzndPH3caHtJzdLaxCdYPTzxD5n2syw4EDDX4-E12YA5nrGiek1Ra5WWalSv2cFQNJ9n
 roosterteeth.us,US - RoosterTeeth,https://iptv-epg.org/images/RFyl5YlHhLQzTW96Qj5Iy2iEfz1UUb-uxd-HukzfezZYaTZcru0d6VyXsm3eVVr68k-uTfCqhFzizWPZvJGp428ee69bBKKzb944gI40HhuNFQ
-RotanaMusic.us,US - Rotana Music,https://iptv-epg.org/images/GJSi5cNv5CE9FBaq0bH4CKvYoldogZW_6xQUnBctA2vkjwLM-qQS2D6fSc4irwyLI7DPUekhoq_LVQCuO64DeT2hE7_T803Ug30JpTa1sQFj
 RTNews.us,US - RT News,https://iptv-epg.org/images/1FOrt6mIGZY_01HO67cJPdF_AoT3-SlSfMDMEVSKGwNfklwEYfLc6miV5WAnxdJMG5RmTsvdyfTkC1gi-tRj7FhfQv_vfwHsMbz3Wg
 RTPMundo.us,US - RTP Mundo,https://iptv-epg.org/images/67AGPMTvzvmB4FOQyk55jij5cVOvzRC9PA0S3tc3Si5HNCYtTA5JR5dfT4G7cPi8KeF5S7E8DmRkUK5100UwX8D8mtSuYedldT4tK9pv
 RVTV.us,US - RVTV,https://iptv-epg.org/images/AvhEwVFhR5LKhJbcT_8rMYk6-Z4-OzWJ2XOB4k3jZmS8YDiyqnYdlnMefB467e0-gl1PziI2tEpyGWIIfATMdT1Cu_fXTI7CIXo
@@ -7372,8 +7359,6 @@ ScrippsNews.us,US - Scripps News,https://iptv-epg.org/images/hCcgmCUy-90mKGzJFNY
 ScrippsSportsNetwork.us,US - Scripps Sports Network,https://iptv-epg.org/images/OHTXvbS9jFASnYtyGP9kiFuAyw2nfzQtn0XtRt9cwXtN7ocv6v5qlccFTl--W1Xafi-MHP9cCp9RGtiJKhShH5exxJn7N9kEo84pE6rAXby_z04IuoYoLya8
 SECNetwork.us,US - SEC NETWORK,https://iptv-epg.org/images/V0aODo73hjDPT5stwG4hFkg6iOJ0tvX3zmkvcjRZRD72t2NXVT1RVYuPfrRhsEsewy3p_AZF7JsGtI_FGLQq6qIdLt-cONa4SpdEaeTYoEU
 SET.us,US - SET,https://iptv-epg.org/images/1LtstDQSWOKQfpMF_1-_vjTojCKIRKDMOerDNg4JMt7tDvwW8coDbdmP8XdiIkLtrEyWa_qBWdCVAfM46dHwVCaOciC0Eco2gQ
-SETInternational.us,US - SET International,https://iptv-epg.org/images/3kFk-I6_On0sVrI1j4VRSGCNJ70wZqqRxEGj5D4J2y9jRKqd69UH-As8vnPK8MeE1yYVRDT5Q2IDo_-K8hT8BzD1E4JQPxkjyDARXNZ4a7phBDfisMQ
-SETMAX.us,US - SET MAX,https://iptv-epg.org/images/drdSnXoJlHffxi41bCfveqgTkgscMRfeoB1ml7-xlwWDVECGSuYWOrMn1oaYGXcpBg2qczYZSazZM2zPw9VYo9egjKZBo5GAV5Kn2w
 ShadesOfBlack.us,US - Shades of Black,https://iptv-epg.org/images/kaMZfcBC5RbAA7gjf36HVd8b43raOxaOqoFLRMCHHjNI2tbWc3VhkY6AsKbQHmZ8gUYHoqu58CEVwNmGTY0Rce_AkbKJjllxzjvF1df888nCUtQ
 SHOxBET.us,US - SHO*BET,https://iptv-epg.org/images/DrU4Bcvs6u18DXE_o-UiO4G9y3NZU-OM7HAncJBn-zXBJJ2vq7tQodlHJk93wy5XPdw6bhZwkHqrzjsCGEt-Vr6u0iW0Cb8uZw4Gubc
 ShopLC.us,US - ShopLC,https://iptv-epg.org/images/J15COfCyC0gDmZAUq2BtTcU9qEteb-7DYeAutuvsy26WzwJ8urbuOPn-R-lnTscjNCinqMBUX05tNNJG2iezJYUuuKuWaw_Swr9LXQ
@@ -7401,8 +7386,6 @@ SmithsonianNetwork.us,US - Smithsonian Network,https://iptv-epg.org/images/bCLzB
 SmithsonianNetworkPacific.us,US - Smithsonian Network West,https://iptv-epg.org/images/gMDXHKwO72N_-zkrvVaFqNl4B7zzjk6WZh_bTeeJrVeMDj1_wKPKfvKCbypGfofI067KxwAYmiMWylLl36S6er-7aUL0583_tZ4jJ4ux6GrF_6v4VP4SL9lLPghUyWY
 SoYummy.us,US - So Yummy!,https://iptv-epg.org/images/VggHCs-aOjfaT-yBn_nFTs6zLb_iTb794Yml3vGwvIJ8DKi2wT8cyHqe1r6UaCk7F5ZEeYgdYU78lY77FJeka1O2UR3_H_4VdU3Qu2k
 SomosNovelas.us,US - Somos Novelas,https://iptv-epg.org/images/-g9rHj2C_RwclE_2QhN77cLB89_aYXqWuiS2UfweopC5sgkIYSnXsJlMjlqzPXyRbxSSAohnuKq36d_DezL64_vgF2l9UnwK2WBeGmp4_V7i3A
-SonyMarathi.us,US - Sony Marathi,https://iptv-epg.org/images/CeLE013ZU0GMCHhwjWXvbcjzk7BUcrH3rWZ9wZaOkueRO0DPhJvp9TxT4EbF9gD0e1jvFPzAHl1UoNDgNijQfXzxT7CYqavschjAo2MNYSCg
-SonyMax2.us,US - Sony Max 2,https://iptv-epg.org/images/HA2jG2N-gGv7gD7dxsJo45zcnAOKFKJiddqu89miENTmSDNd8xt88hV02as4TsaNN8AaO2aK0U5nFNfrTLd4Vm74WXxS6CNe5fd6PsCi
 SonyMovieChannel.us,US - SONY MOVIE CHANNEL,https://iptv-epg.org/images/0npmzATC6kuNMChnDYIODk5eQpKW5RU0UQFgkTll2v9ScvWA5mXo-8e2ntXEUpI1ndyhrBj1UUY7Z3Td8UJt4zWcmyc5Vf5V9XahvUYyBWHUoWtAv7I
 SoutheasternChannel.us,US - Southeastern Channel,https://iptv-epg.org/images/7oO9HdoRFoW4d_dvXxw4pnR2G7MgNz9RUgqp-YGCaFDvLQoGmPFCA1mCtyB2ALBR3eWobCOFE4_GFtQUtcnMB6g8n1Jp1QZ06J_PHJ14mCvvkwa53vWed5w
 SpaceAndBeyond.us,US - Space and Beyond,https://iptv-epg.org/images/3ZntCLTrzKRoDp3oAWUnOYh5pcYIcUj3nWz5_i4mj1pkzsdfBqWonje8_jLsu6jStr58KmO6rDKnJNTJ53aiu0z7_wT06iCyoQcY6f8dMNsjb4pQ
@@ -7556,14 +7539,12 @@ StoryTelevision.us,US - Story Television,https://iptv-epg.org/images/Q1hgv8seuh7
 SuncoastNetworkNews.us,US - Suncoast Network News,https://iptv-epg.org/images/gDNqibAknr3rwHxolQZWn_iev3fjhmxFx6bQ7knOiAOOxAMrsMm28fZ7zi2imvcNr7byBdO9x6y1ZskPEKsUsSpDzDvII3JHeK7kWHyPcStQO6xCu3ZO5So
 SundanceTV.us,US - SUNDANCETV,https://iptv-epg.org/images/-IKap6kpzT2EzspswP_aDkQ_6hng7qHuFHRXq4gTLWdj9G72ZyUSBw4BszcxdtdJEDM8nNDiAhMzcoi4dTZdCmuOmMJQ_4cUZnJ9w-gQrBA
 SundanceTVPacific.us,US - SundanceTV West,https://iptv-epg.org/images/8OhrduML7W8utXxbpxD10V3phLjAEvNRfh0uT6M3Eh4tLmQpSVqqPMHdw_dWDDeiexhn4Ppo1R258eEOXqo-L7t2wr3PPLGuLXT0SckyaQPP9RPEzvYQ
-SupercanalCaribe.us,US - Super Canal Caribe,https://iptv-epg.org/images/MgiWph8PQm9AgRdJmetksSqCqjcJnOLeEJKph9DPtkUgffxFMDrh8sVs7_hGl0ZblVrbu1G3xVeXe9MvyBUaPRhoEymSQLgu8HiHxBV_-ky_EB8F9Hw
 SuperBowl_Game.us,US - SuperBowl Game,
 SURPeru.us,US - SUR PERU,https://iptv-epg.org/images/NzUpYvkDITUjVFgELu8Cqng87zqVuvnn4gN5k5N6Oi4zlb9p0FTwUkxaMD-XieEL6GOdh8IkGRi1RSYDjCtAb5Zvd2stKhWmY0ZorSk
 SurfCinema.us,US - Surf Cinema,https://iptv-epg.org/images/ptBajQCQ5uAYIMDKcDFLmzUSLsKqzAT_osOFH4754WK26r9WRHlfzdDf6QP-gQm06QK-Tq76WAFYsacYaTjd-2pODJpSewVYuq7Nd29PD98
 SurfNowTV.us,US - Surf Now TV,https://iptv-epg.org/images/7TLxHGoZm-Vx-Tx2VZxo4W0fIDBWZN3enAxzxR6OsF-NqQMfxolOZlEyNkweoe9gmKRO7bMP_8Czox9W--7t8VBImQmETEamSktdPSSpAA
 SurferTV.us,US - Surfer TV,https://iptv-epg.org/images/niC_5Gz84lX9wU6ex8W6qU2kMHFeE7A330IV45DKjUULCT-waQlpSTlG3T52OlmgibN4x2iYbytbJH6hrzxEQg9fn9IoWhBTddhZB8Oa
 SurvivorNet.us,US - SurvivorNet,https://iptv-epg.org/images/aKPpN2EtTPNlZ44bz2YS-W0n13vXGWpu35KqOGSutg_QimUw1qpY6YFmUE4qvJbGUykIwhoMPJUSfl8qRnzeQ1IaFxNZigzf_0AlbJpWMIgY
-SuryaTV.us,US - Surya TV,https://iptv-epg.org/images/CQu_INMQmggh3It5THT2dNrJT_bgxNI6ypMesDdZSYNKRm1X11LuzEv6xH04YLw43jlfe0NBOWzpsxOGxztVN5HRktKRXaIUHm61k9M
 SweetEscapes.us,US - Sweet Escapes,https://iptv-epg.org/images/PoaNOIshvbrwFXn-BYiYX1RRZysFUWXqQ_LIrxKamLkiQHDAgLJww5EsYTL0IR9mSdR3D-aBhGbQ0GFTexKgCnduTcUL1Gn5x_VG2DbWm1js-w
 SwerveCombat.us,US - Swerve Combat,https://iptv-epg.org/images/RbMFFeMtFeFRutXx7ozQwXv18pA5kGjSOPtoxOJHID5SlRbB1F6H7VscEcGHV0arcGbBEYzaAuK5mYj8p5IWJ80JOea3ACBR6U6PRxVQe5nVDA
 SwordAndShield.us,US - Sword &amp; Shield,https://iptv-epg.org/images/g1HCpmvvVYaOPKn5SCaIMaYqUvbyQqsOqnpz_JrwhUXHth9kDgSeZr1TY6hgYY8TOe8wOGRNP-2S7D2Ei23y2-3vU8Qu5budneNA4alchliM1KWo
@@ -7653,7 +7634,6 @@ TMZ.us,US - TMZ,https://iptv-epg.org/images/qUR7dMteGhKnZGnGjAmuEKfq81WgT24dhPg7
 TNAWrestlingChannel.us,US - TNA Wrestling Channel,https://iptv-epg.org/images/Y9-r5MpnvIgZ5nWP34PmI8f4vl9FlI9GwUeJN7bJQH2iYZUfHl8i2_2GAT8NUSGjIB6UjlQsnjZE-1-4cAvuhbWN6QIer4VuhGWqAwgTLwyTzgIyDkH1bec
 TNT.us,US - TNT,https://iptv-epg.org/images/U1E7n-2dT21tlIhUtfagQw6ozq6a4jz1Z-dyhqqE8nq3VovZxRUkwvReoXjaXP1_As5Z678y584uLXiNsDHwl-JZyQvwWQOirQ
 TNTPacific.us,US - TNT WEST,https://iptv-epg.org/images/sju8g0ZhZqzvgapAqh9kWZ29vBAoZU7osy9fQ5PQ8JzSkFO7nX7cGTKz6ZM5lOdU0m5H8LvNKsGpiKh22jggrmiUJdNJmavBIm4ESjUYc9w
-TodoNoticias.us,US - Todo Noticias,https://iptv-epg.org/images/Jv6AVBMwtvDwKyo1ZsJXblAqViSXbycFx-Kj99lWLYBhF1Azzc4vq1jOgpjd-SFjceNgRmgfrr_Oi5zoAWjEHBLZs7asK0Tb_WKpnTmFE_mGqQ
 ToonGoggles.us,US - Toon Goggles,https://iptv-epg.org/images/uGyoo04UtZoYVxCk5whk01FXAk2tCdaVD9mJQAys52-Vn-0Gasp_S2tCDM0L2tTisZG1QfHWb_7y7tnSCHTlzt1Si9O8-8_p0Q0Ub8joAjvl
 ToonamiAftermath.us,US - Toonami Aftermath,https://iptv-epg.org/images/gGMX9Rv8tDJqICJxh3GZGa-GdzgOQJ3ZEaAwYB9xFjIqJ0bLu12biW8c1MJt5kkRwSKhLSI8CQpTpdg-gqeLkkOJFiXtk6g3FFJ7jxI_PN2GST9o9F4
 TotalCrime.us,US - Total Crime,https://iptv-epg.org/images/jY7T5mu9nCUlgO1g5XULbMRckxXSMYM2p1qn22zqX_5Pw9B3gr6f6KqcKQiez8HIiLYSwjdgXoMto_iiPD1NyCMmgDoGV53C4Hs7DmaTyM0
@@ -7693,8 +7673,6 @@ TVBDrama.us,US - TVB Drama,https://iptv-epg.org/images/t1SSomdkBwNUOFNYijCFP5T5c
 TVBNews.us,US - TVB News,https://iptv-epg.org/images/jk0_rzy-_rl_1hRNbnodOs0iPgXB9V2xYZUwn7ezYH32ciIxooRCKQHUmc_oJzb7oh4BHfEh3p4SY7BDXI9f56Z-z95lQvFW68B_QGg
 TVB1.us,US - TVB1,https://iptv-epg.org/images/OixnBwXJ7s13mmUvaf-bJ04LkEUerjrPExOFVgNlblLj3W9BEynbjRbsLh0tIzEK2ahVLzIvijsdYRy4TFGw0onQmKVAq_Ei2dQ
 TVBE.us,US - TVBE,https://iptv-epg.org/images/lz_vVSnPehFeCQF9Rx1M641GNanDU0NPcVbiTUlcOdEUXY7pZsI1H6E9KkE_cU5wAo0xu5S2ukXeslzpGg3HHXVvoTvV7CgUDms
-TVBJ-1.us,US - TVBJ-1,https://iptv-epg.org/images/z6NiGJhVKg6jJ4fLYLUKm3MHKAEF7MGw4W80N0Pek2sg_398XuleWqDh0Ivnu4CsPjpvxPeEJpodNcXxMnMX_zqeodjAPpqw7cvurg
-TVBS.us,US - TVBS,https://iptv-epg.org/images/EAJDZtj_d5pjw9g2J1t-CrdzyrUkd327sp7n3bgZbyLbvu8hd-OVE1v3JSJ5QrEpBNVxbnjgWrEONAdmjn6LRXNBf7R8ClpFakc
 TVChile.us,US - TVCHILE,https://iptv-epg.org/images/t5NVCnivZNydPlbyQW8eut68IvxlVxiFDLRmDQXkicTKspc6jun8i9NuyRpCaazbRI1zqOEKjJdby5TSbg4vkGF5WAHeHE293iYvtYM
 TVIInternacional.us,US - TVI Internacional,https://iptv-epg.org/images/B8MxcllwFJsaJTgjNp0moCtJODN53RXiJrpndTqi98ns6Idmi6FA8hfLa7Bm0pZRpXEMmFmmHjz6kjQMKQMzTWK6w-5Ny_KYLnuM_XBpIi8cZb4l4SA
 TViet.us,US - TViet,https://iptv-epg.org/images/JE9UdwYRCpeVw7tl_jqIP6nV6YTcNHqHguxYcuNH5Fbu3jVQQMl4FbMOTaEM3Zz1qGCbMoQY6_YujHWQO9htLQuPfpguPHBe_t6_
@@ -7703,8 +7681,6 @@ TVK2.us,US - TVK 2,https://iptv-epg.org/images/MgBh4Mq-2A_MzncNN_OdhCRyHGq7fnUA5
 TVLand.us,US - TVLAND,https://iptv-epg.org/images/CmXJuk9vKqomQBzadxyU-5xzRnB2vLmtw2LrikKeGuBfBZtif-Fdf8EXsrBaxKmYpTF-9JJ_MsX34HyOr-31lJGRXXROW2ZhYX0Rtw
 TVN24.us,US - TVN 24,https://iptv-epg.org/images/Pe9xYJS6OF2AE9xDSyDBUlEucIVyDWFJyGlRKFRGci9h4lUpQV-ZiXTxzTzUAEt-D6etr0J5Bv3j7J921LpYsDvLTLA4xjv2TNvl
 TVOneGlobal.us,US - TVOne Global,https://iptv-epg.org/images/cy4AsyTNXbxs9J588OA3IrxdHillNoijjsR3xS8oFjoMasf9gwa5UquhNmSKtVLjgKrJPGlhlJOKkA3iO5V_XICoRbT9388gxLMFB6StQGEg
-TVPInfo.us,US - TVP Info,https://iptv-epg.org/images/tO-I3IjOmAOXizCLtDUWPs33MnIyOfl626bIZ8q2m1IuW9iJa56WAd77L2QI4q9rLxVKTPuJerrbfopduE_PaIjKO9E8afCQz1DgdHM
-TVPPolonia.us,US - TVP Polonia,https://iptv-epg.org/images/nqY_j1jvmVTAjy6JY3dEwKWEvubsA3jHLSb5McMB1JGQg1EepmJFu2ZKbZXogmMeSVoDlnfZ2dNfeqeRTAEtMUD5MVcXR9uLi3GdB13_14Q
 TYCSports.us,US - TyC Sports,https://iptv-epg.org/images/ybOq140p6F_7aNQiGcr6g5LT3oddgcKyMfBsaPdRNqvUyurcp6zM6SVIjlgIl5ApHYjgz8bVjPCn7Vr9dyBAGccF4wJ5EeC_YWkLlm4jjA
 TyCSportsInt.us,US - TyC Sports International,https://iptv-epg.org/images/qDTS-1GbSSj_Va_lUn7wkiGsE58VTd3vEDHygXf76VMl2mN40W5yyVd-NmC2qur7QiWRKuHi27Bi4OYNePHjqXHi2VrIE7OV8-nf2YGA-KgrEQ
 TYT.us,US - TYT,https://iptv-epg.org/images/zDM874eECElCv5h_4780Q7MnrOgo5DWv7RaTpQr7ZVVxNUxSBIwUqaC-m7hjVdVa6B0pwkBpYDqjYHsXQzfZNfp5C3gCmBQsBQ
