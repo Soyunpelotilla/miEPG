@@ -1211,6 +1211,20 @@
     <display-name>ESPN 4 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png" />
   </channel>
+  <channel id="FOX MX">
+    <display-name>FOX MX SD</display-name>
+    <display-name>FOX MX HD</display-name>
+    <display-name>FOX MX FHD</display-name>
+    <display-name>FOX MX 4K</display-name>
+    <icon src="https://emby.tmsimg.com/assets/GNLZZGG0027PYSD.png" />
+  </channel>
+  <channel id="Fox Sports Premium">
+    <display-name>Fox Sports Premium SD</display-name>
+    <display-name>Fox Sports Premium HD</display-name>
+    <display-name>Fox Sports Premium FHD</display-name>
+    <display-name>Fox Sports Premium 4K</display-name>
+    <icon src="https://emby.tmsimg.com/assets/s123582_ld_h15_aa.png" />
+  </channel>
   <channel id="DSPORTS">
     <display-name>DSPORTS SD</display-name>
     <display-name>DSPORTS HD</display-name>
@@ -164403,6 +164417,1228 @@ En Vivo</title>
     <title>Florida Atlantic vs. North Texas · NCAA Football</title>
     <desc>Sin detalles...</desc>
 	</programme>
+  <programme start="20261027000000 +0000" stop="20261027030000 +0000" channel="FOX MX">
+    <title lang="es">Milwaukee Brewers vs. Tampa Bay Rays</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027030000 +0000" stop="20261027040000 +0000" channel="FOX MX">
+    <title lang="es">MLB: Post</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027040000 +0000" stop="20261027050000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027050000 +0000" stop="20261027060000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027060000 +0000" stop="20261027070000 +0000" channel="FOX MX">
+    <title lang="es">FOX NFL Weekly</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027070000 +0000" stop="20261027080000 +0000" channel="FOX MX">
+    <title lang="es">Código Fox Fútbol</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027080000 +0000" stop="20261027090000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027090000 +0000" stop="20261027110000 +0000" channel="FOX MX">
+    <title lang="es">El Chiringuito</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027110000 +0000" stop="20261027120000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027140000 +0000" stop="20261027150000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027160000 +0000" stop="20261027180000 +0000" channel="FOX MX">
+    <title lang="es">El Chiringuito</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027180000 +0000" stop="20261027183000 +0000" channel="FOX MX">
+    <title lang="es">Ligue 1 HL Show</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027183000 +0000" stop="20261027193000 +0000" channel="FOX MX">
+    <title lang="es">Bundesliga Highlights Show</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027193000 +0000" stop="20261027200000 +0000" channel="FOX MX">
+    <title lang="es">Ligue 1 HL Show</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027200000 +0000" stop="20261027210000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027210000 +0000" stop="20261027220000 +0000" channel="FOX MX">
+    <title lang="es">Mother Soccer</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027220000 +0000" stop="20261027230000 +0000" channel="FOX MX">
+    <title lang="es">Referentes</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027230000 +0000" stop="20261028000000 +0000" channel="FOX MX">
+    <title lang="es">MLB: Previa</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028000000 +0000" stop="20261028030000 +0000" channel="FOX MX">
+    <title lang="es">Milwaukee Brewers vs. Tampa Bay Rays</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028030000 +0000" stop="20261028040000 +0000" channel="FOX MX">
+    <title lang="es">MLB: Post</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028040000 +0000" stop="20261028050000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028060000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028060000 +0000" stop="20261028070000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028070000 +0000" stop="20261028080000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028080000 +0000" stop="20261028090000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028090000 +0000" stop="20261028110000 +0000" channel="FOX MX">
+    <title lang="es">El Chiringuito</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028120000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028120000 +0000" stop="20261028130000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028130000 +0000" stop="20261028140000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028140000 +0000" stop="20261028150000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028150000 +0000" stop="20261028160000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028160000 +0000" stop="20261028180000 +0000" channel="FOX MX">
+    <title lang="es">El Chiringuito</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028180000 +0000" stop="20261028183000 +0000" channel="FOX MX">
+    <title lang="es">Netbusters</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028183000 +0000" stop="20261028190000 +0000" channel="FOX MX">
+    <title lang="es">Ligue 1 HL Show</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028190000 +0000" stop="20261028200000 +0000" channel="FOX MX">
+    <title lang="es">Cleatus Fantasy Football Show</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028200000 +0000" stop="20261028210000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028210000 +0000" stop="20261028220000 +0000" channel="FOX MX">
+    <title lang="es">Mother Soccer</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028220000 +0000" stop="20261028230000 +0000" channel="FOX MX">
+    <title lang="es">Referentes</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261028230000 +0000" stop="20261029000000 +0000" channel="FOX MX">
+    <title lang="es">MLB: Previa</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029000000 +0000" stop="20261029030000 +0000" channel="FOX MX">
+    <title lang="es">Milwaukee Brewers vs. Tampa Bay Rays</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029030000 +0000" stop="20261029040000 +0000" channel="FOX MX">
+    <title lang="es">MLB: Post</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029040000 +0000" stop="20261029050000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029060000 +0000" stop="20261029070000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029070000 +0000" stop="20261029080000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029080000 +0000" stop="20261029090000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029090000 +0000" stop="20261029110000 +0000" channel="FOX MX">
+    <title lang="es">El Chiringuito</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029110000 +0000" stop="20261029120000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029120000 +0000" stop="20261029130000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029130000 +0000" stop="20261029140000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029140000 +0000" stop="20261029150000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029160000 +0000" stop="20261029172000 +0000" channel="FOX MX">
+    <title lang="es">El Chiringuito</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029172000 +0000" stop="20261029175000 +0000" channel="FOX MX">
+    <title lang="es">Bundesliga Weekly</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029175000 +0000" stop="20261029210000 +0000" channel="FOX MX">
+    <title lang="es">Riyadh SC vs. Al Qadsiah</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029210000 +0000" stop="20261029220000 +0000" channel="FOX MX">
+    <title lang="es">Mother Soccer</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029220000 +0000" stop="20261029230000 +0000" channel="FOX MX">
+    <title lang="es">Referentes</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029230000 +0000" stop="20261029233000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo Coello</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261029233000 +0000" stop="20261030001500 +0000" channel="FOX MX">
+    <title lang="es">FOX NFL Thursday Night Football</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030001500 +0000" stop="20261030033000 +0000" channel="FOX MX">
+    <title lang="es">Carolina Panthers vs. Green Bay Packers</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030033000 +0000" stop="20261030040000 +0000" channel="FOX MX">
+    <title lang="es">NFL GameDay</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030040000 +0000" stop="20261030050000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030050000 +0000" stop="20261030060000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030060000 +0000" stop="20261030070000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030070000 +0000" stop="20261030080000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030080000 +0000" stop="20261030090000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030090000 +0000" stop="20261030110000 +0000" channel="FOX MX">
+    <title lang="es">El Chiringuito</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030110000 +0000" stop="20261030120000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030120000 +0000" stop="20261030130000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030130000 +0000" stop="20261030160000 +0000" channel="FOX MX">
+    <title lang="es">Carolina Panthers vs. Green Bay Packers</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030160000 +0000" stop="20261030175000 +0000" channel="FOX MX">
+    <title lang="es">El Chiringuito</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030175000 +0000" stop="20261030200000 +0000" channel="FOX MX">
+    <title lang="es">Le Havre AC vs. Paris Saint-Germain</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030200000 +0000" stop="20261030220000 +0000" channel="FOX MX">
+    <title lang="es">Lille OSC vs. RC Lens</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030220000 +0000" stop="20261030230000 +0000" channel="FOX MX">
+    <title lang="es">Referentes</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261030230000 +0000" stop="20261031000000 +0000" channel="FOX MX">
+    <title lang="es">MLB: Previa</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261031000000 +0000" stop="20261031030000 +0000" channel="FOX MX">
+    <title lang="es">Tampa Bay Rays vs. Milwaukee Brewers</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20261027120000 -0300" stop="20261027140000 -0300" channel="Fox Sports Premium">
+    <title>AEW Dynamite</title>
+    <desc>Repetición ║ Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca.</desc>
+    <credits>
+      <actor>Tony Schiavone</actor>
+      <actor>Aubrey Edwards</actor>
+      <actor>Paul Turner</actor>
+      <actor>Chris Jericho</actor>
+      <actor>Jim Ross</actor>
+      <actor>Len Olson</actor>
+    </credits>
+    <date>2019</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>EE. UU</country>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261027140000 -0300" stop="20261027143000 -0300" channel="Fox Sports Premium">
+    <title>The Outdoor Sports Show • Capítulo 10</title>
+    <sub-title>Episodio 10</sub-title>
+    <desc>Repetición ║ Capítulo 10 | Desde carreras de maratón hasta escalada, esquí y surf, senderismo hasta triatlón, navegación en bicicleta, lo humano se encuentra con la naturaleza en las historias deportivas más sorprendentes.</desc>
+    <date>2021</date>
+    <category>Deportes</category>
+    <category>Deportivo</category>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261027143000 -0300" stop="20261027163000 -0300" channel="Fox Sports Premium">
+    <title>LNBP • Dorados de Chihuahua vs Fuerza Regia, Juego 4 - Semifinal de Zona</title>
+    <sub-title>Dorados de Chihuahua vs. Fuerza Regia, Juego 4 - Semifinal de Zona</sub-title>
+    <desc>Repetición ║ Dorados de Chihuahua vs Fuerza Regia, Juego 4 - Semifinal de Zona | Vive lo más emocionante de la Liga Nacional de Baloncesto Profesional de México. Los amantes del deporte podrán disfrutar de los mayores talentos a nivel nacional mientras los equipos lo dejan todo en la cancha.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>México</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261027163000 -0300" stop="20261027170000 -0300" channel="Fox Sports Premium">
+    <title>The Ocean Race • Atlantic</title>
+    <sub-title>Atlantic</sub-title>
+    <desc>Repetición ║ Atlantic | The Ocean Race 2023 es la decimocuarta edición de la vuelta al mundo a vela. La regata comenzó en Alicante el 8 de enero de 2023 y terminará en Génova en junio de 2023 en ambos casos con una regata costera.</desc>
+    <date>2023</date>
+    <category>Deportes</category>
+    <category>Náutica</category>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261027170000 -0300" stop="20261027180000 -0300" channel="Fox Sports Premium">
+    <title>CMLL Retro</title>
+    <desc>Repetición ║ Un repaso de los combates más emocionantes organizados por el Consejo Mundial de Lucha Libre. Los combates se distinguen por su intensidad en el ring, el contraste entre luchadores técnicos y rudos y la espectacularidad.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>México</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261027180000 -0300" stop="20261027190000 -0300" channel="Fox Sports Premium">
+    <title>All Elite Show</title>
+    <desc>Repetición ║ Un espacio que presenta combates y encuentros organizados por la empresa All Elite Wrestling. EL público podrá disfrutar de una propuesta de lucha libre profesional con un cuadrilátero repleto de adrenalina, saltos, golpes y maniobras.</desc>
+    <date>2022</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>EE. UU</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alleliteshow.jpg" />
+  </programme>
+  <programme start="20261027190000 -0300" stop="20261027200000 -0300" channel="Fox Sports Premium">
+    <title>Highlights - Rolex Grand Slam • La Baule</title>
+    <sub-title>La Baule</sub-title>
+    <desc>Repetición ║ La Baule | Disfruta los momentos destacados del Rolex Grand Slam.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Equitación</category>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261027200000 -0300" stop="20261027220000 -0300" channel="Fox Sports Premium">
+    <title>Liga Endesa • ForÃ§a Lleida vs Real Madrid, Fecha 5, Pavelló Barris Nord</title>
+    <sub-title>ForÃ§a Lleida vs. Real Madrid, Fecha 5, Pavelló Barris Nord</sub-title>
+    <desc>Repetición ║ ForÃ§a Lleida vs Real Madrid, Fecha 5, Pavelló Barris Nord | Vive las emociones de los partidos de la 44º edición de la Liga Endesa ACB, la principal liga de baloncesto profesional de España.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>España</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ligaendesa.jpg" />
+  </programme>
+  <programme start="20261027220000 -0300" stop="20261027223000 -0300" channel="Fox Sports Premium">
+    <title>Women&#x27;s Football Weekly • Capítulo 8</title>
+    <sub-title>Episodio 8</sub-title>
+    <desc>Repetición ║ Capítulo 8 | Un programa que repasa lo mejor del fútbol femenino profesional más destacado del mundo. Los amantes del deporte podrán disfrutar de los partidos y jugadas más destacadas y que ponen el foco en el talento de las mejores deportistas.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Fútbol</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261027223000 -0300" stop="20261027230000 -0300" channel="Fox Sports Premium">
+    <title>QMMF Le Mans 24h</title>
+    <desc>Repetición ║ Vive toda la emoción de las jornadas que son parte del torneo de Asia Le Mans en su edición del 2026. Se trata del campeonato de sport prototipos y gran turismo celebrado en Asia desde el año 2009.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Automovilismo</category>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261027230000 -0300" stop="20261028000000 -0300" channel="Fox Sports Premium">
+    <title>CMLL Retro</title>
+    <desc>Repetición ║ Un repaso de los combates más emocionantes organizados por el Consejo Mundial de Lucha Libre. Los combates se distinguen por su intensidad en el ring, el contraste entre luchadores técnicos y rudos y la espectacularidad.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>México</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028000000 -0300" stop="20261028023000 -0300" channel="Fox Sports Premium">
+    <title>Major Arena Soccer League • San Diego Sockers vs Kansas City Comets</title>
+    <sub-title>San Diego Sockers vs. Kansas City Comets</sub-title>
+    <desc>Repetición ║ San Diego Sockers vs Kansas City Comets | Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México.</desc>
+    <date>2025</date>
+    <category>Deportes</category>
+    <category>Fútbol</category>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028023000 -0300" stop="20261028043000 -0300" channel="Fox Sports Premium">
+    <title>Liga Endesa • Barcelona vs Basket Zaragoza, Fecha 5, Palau Blaugrana</title>
+    <sub-title>Barcelona vs. Basket Zaragoza, Fecha 5, Palau Blaugrana</sub-title>
+    <desc>Repetición ║ Barcelona vs Basket Zaragoza, Fecha 5, Palau Blaugrana | Vive las emociones de los partidos de la 44º edición de la Liga Endesa ACB, la principal liga de baloncesto profesional de España.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>España</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ligaendesa.jpg" />
+  </programme>
+  <programme start="20261028043000 -0300" stop="20261028050000 -0300" channel="Fox Sports Premium">
+    <title>The Ocean Race • Atlantic</title>
+    <sub-title>Atlantic</sub-title>
+    <desc>Repetición ║ Atlantic | The Ocean Race 2023 es la decimocuarta edición de la vuelta al mundo a vela. La regata comenzó en Alicante el 8 de enero de 2023 y terminará en Génova en junio de 2023 en ambos casos con una regata costera.</desc>
+    <date>2023</date>
+    <category>Deportes</category>
+    <category>Náutica</category>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028050000 -0300" stop="20261028050000 -0300" channel="Fox Sports Premium">
+    <title>AEW Dynamite</title>
+    <desc>Repetición ║ Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca.</desc>
+    <credits>
+      <actor>Tony Schiavone</actor>
+      <actor>Aubrey Edwards</actor>
+      <actor>Paul Turner</actor>
+      <actor>Chris Jericho</actor>
+      <actor>Jim Ross</actor>
+      <actor>Len Olson</actor>
+    </credits>
+    <date>2019</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>EE. UU</country>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028070000 -0300" stop="20261028090000 -0300" channel="Fox Sports Premium">
+    <title>Liga Endesa • Valencia Basket vs Baskonia, Fecha 5, Roig Arena</title>
+    <sub-title>Valencia Basket vs. Baskonia, Fecha 5, Roig Arena</sub-title>
+    <desc>Repetición ║ Valencia Basket vs Baskonia, Fecha 5, Roig Arena | Vive las emociones de los partidos de la 44º edición de la Liga Endesa ACB, la principal liga de baloncesto profesional de España.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>España</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ligaendesa.jpg" />
+  </programme>
+  <programme start="20261028090000 -0300" stop="20261028090000 -0300" channel="Fox Sports Premium">
+    <title>Supercopa • Chihuahua</title>
+    <sub-title>Chihuahua</sub-title>
+    <desc>Repetición ║ Chihuahua | Las mejores categorías del deporte automotor en México. GTM, MexBike, Fórmula 5, Tractocamiones Freightliner.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Automovilismo</category>
+    <country>México</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028110000 -0300" stop="20261028110000 -0300" channel="Fox Sports Premium">
+    <title>CMLL Retro</title>
+    <desc>Repetición ║ Un repaso de los combates más emocionantes organizados por el Consejo Mundial de Lucha Libre. Los combates se distinguen por su intensidad en el ring, el contraste entre luchadores técnicos y rudos y la espectacularidad.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>México</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028120000 -0300" stop="20261028133000 -0300" channel="Fox Sports Premium">
+    <title>AEW Dynamite</title>
+    <desc>Repetición ║ Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca.</desc>
+    <credits>
+      <actor>Tony Schiavone</actor>
+      <actor>Aubrey Edwards</actor>
+      <actor>Paul Turner</actor>
+      <actor>Chris Jericho</actor>
+      <actor>Jim Ross</actor>
+      <actor>Len Olson</actor>
+    </credits>
+    <date>2019</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>EE. UU</country>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028133000 -0300" stop="20261028140000 -0300" channel="Fox Sports Premium">
+    <title>The Ocean Race • Atlantic</title>
+    <sub-title>Atlantic</sub-title>
+    <desc>Repetición ║ Atlantic | The Ocean Race 2023 es la decimocuarta edición de la vuelta al mundo a vela. La regata comenzó en Alicante el 8 de enero de 2023 y terminará en Génova en junio de 2023 en ambos casos con una regata costera.</desc>
+    <date>2023</date>
+    <category>Deportes</category>
+    <category>Náutica</category>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028140000 -0300" stop="20261028143000 -0300" channel="Fox Sports Premium">
+    <title>The Outdoor Sports Show • Capítulo 10</title>
+    <sub-title>Episodio 10</sub-title>
+    <desc>Repetición ║ Capítulo 10 | Desde carreras de maratón hasta escalada, esquí y surf, senderismo hasta triatlón, navegación en bicicleta, lo humano se encuentra con la naturaleza en las historias deportivas más sorprendentes.</desc>
+    <date>2021</date>
+    <category>Deportes</category>
+    <category>Deportivo</category>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028143000 -0300" stop="20261028150000 -0300" channel="Fox Sports Premium">
+    <title>LNBP • Dorados de Chihuahua vs Fuerza Regia, Juego 4 - Semifinal de Zona</title>
+    <sub-title>Dorados de Chihuahua vs. Fuerza Regia, Juego 4 - Semifinal de Zona</sub-title>
+    <desc>Repetición ║ Dorados de Chihuahua vs Fuerza Regia, Juego 4 - Semifinal de Zona | Vive lo más emocionante de la Liga Nacional de Baloncesto Profesional de México. Los amantes del deporte podrán disfrutar de los mayores talentos a nivel nacional mientras los equipos lo dejan todo en la cancha.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>México</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028150000 -0300" stop="20261028160000 -0300" channel="Fox Sports Premium">
+    <title>CMLL Retro</title>
+    <desc>Repetición ║ Un repaso de los combates más emocionantes organizados por el Consejo Mundial de Lucha Libre. Los combates se distinguen por su intensidad en el ring, el contraste entre luchadores técnicos y rudos y la espectacularidad.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>México</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028160000 -0300" stop="20261028163000 -0300" channel="Fox Sports Premium">
+    <title>The Ocean Race • Atlantic</title>
+    <sub-title>Atlantic</sub-title>
+    <desc>Repetición ║ Atlantic | The Ocean Race 2023 es la decimocuarta edición de la vuelta al mundo a vela. La regata comenzó en Alicante el 8 de enero de 2023 y terminará en Génova en junio de 2023 en ambos casos con una regata costera.</desc>
+    <date>2023</date>
+    <category>Deportes</category>
+    <category>Náutica</category>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028163000 -0300" stop="20261028170000 -0300" channel="Fox Sports Premium">
+    <title>Fox Fight Club</title>
+    <desc>Repetición ║ Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo.</desc>
+    <date>2017</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>México</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxfightclub.jpg" />
+  </programme>
+  <programme start="20261028170000 -0300" stop="20261028170000 -0300" channel="Fox Sports Premium">
+    <title>CMLL Retro</title>
+    <desc>Repetición ║ Un repaso de los combates más emocionantes organizados por el Consejo Mundial de Lucha Libre. Los combates se distinguen por su intensidad en el ring, el contraste entre luchadores técnicos y rudos y la espectacularidad.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>México</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028180000 -0300" stop="20261028190000 -0300" channel="Fox Sports Premium">
+    <title>All Elite Show</title>
+    <desc>Repetición ║ Un espacio que presenta combates y encuentros organizados por la empresa All Elite Wrestling. EL público podrá disfrutar de una propuesta de lucha libre profesional con un cuadrilátero repleto de adrenalina, saltos, golpes y maniobras.</desc>
+    <date>2022</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>EE. UU</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alleliteshow.jpg" />
+  </programme>
+  <programme start="20261028190000 -0300" stop="20261028193000 -0300" channel="Fox Sports Premium">
+    <title>Highlights - Rolex Grand Slam • La Baule</title>
+    <sub-title>La Baule</sub-title>
+    <desc>Repetición ║ La Baule | Disfruta los momentos destacados del Rolex Grand Slam.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Equitación</category>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028193000 -0300" stop="20261028200000 -0300" channel="Fox Sports Premium">
+    <title>LNBP • Fuerza Regia vs Dorados de Chihuahua, Juego 5 - Semifinal de Zona</title>
+    <sub-title>Fuerza Regia vs. Dorados de Chihuahua, Juego 5 - Semifinal de Zona</sub-title>
+    <desc>Repetición ║ Fuerza Regia vs Dorados de Chihuahua, Juego 5 - Semifinal de Zona | Vive lo más emocionante de la Liga Nacional de Baloncesto Profesional de México. Los amantes del deporte podrán disfrutar de los mayores talentos a nivel nacional mientras los equipos lo dejan todo en la cancha.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>México</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028200000 -0300" stop="20261028220000 -0300" channel="Fox Sports Premium">
+    <title>Liga Endesa • Força Lleida vs Real Madrid, Fecha 5, Pavelló Barris Nord</title>
+    <sub-title>Força Lleida vs. Real Madrid, Fecha 5, Pavelló Barris Nord</sub-title>
+    <desc>Repetición ║ Força Lleida vs Real Madrid, Fecha 5, Pavelló Barris Nord | Vive las emociones de los partidos de la 44º edición de la Liga Endesa ACB, la principal liga de baloncesto profesional de España.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>España</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ligaendesa.jpg" />
+  </programme>
+  <programme start="20261028220000 -0300" stop="20261028223000 -0300" channel="Fox Sports Premium">
+    <title>Women&#x27;s Football Weekly • Capítulo 8</title>
+    <sub-title>Episodio 8</sub-title>
+    <desc>Repetición ║ Capítulo 8 | Un programa que repasa lo mejor del fútbol femenino profesional más destacado del mundo. Los amantes del deporte podrán disfrutar de los partidos y jugadas más destacadas y que ponen el foco en el talento de las mejores deportistas.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Fútbol</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028223000 -0300" stop="20261028230000 -0300" channel="Fox Sports Premium">
+    <title>QMMF Le Mans 24h</title>
+    <desc>Repetición ║ Vive toda la emoción de las jornadas que son parte del torneo de Asia Le Mans en su edición del 2026. Se trata del campeonato de sport prototipos y gran turismo celebrado en Asia desde el año 2009.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Automovilismo</category>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261028230000 -0300" stop="20261028230000 -0300" channel="Fox Sports Premium">
+    <title>CMLL Retro</title>
+    <desc>Repetición ║ Un repaso de los combates más emocionantes organizados por el Consejo Mundial de Lucha Libre. Los combates se distinguen por su intensidad en el ring, el contraste entre luchadores técnicos y rudos y la espectacularidad.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>México</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261029000000 -0300" stop="20261029023000 -0300" channel="Fox Sports Premium">
+    <title>Major Arena Soccer League • San Diego Sockers vs Kansas City Comets</title>
+    <sub-title>San Diego Sockers vs. Kansas City Comets</sub-title>
+    <desc>Repetición ║ San Diego Sockers vs Kansas City Comets | Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México.</desc>
+    <date>2025</date>
+    <category>Deportes</category>
+    <category>Fútbol</category>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261029023000 -0300" stop="20261029043000 -0300" channel="Fox Sports Premium">
+    <title>Liga Endesa • Barcelona vs Basket Zaragoza, Fecha 5, Palau Blaugrana</title>
+    <sub-title>Barcelona vs. Basket Zaragoza, Fecha 5, Palau Blaugrana</sub-title>
+    <desc>Repetición ║ Barcelona vs Basket Zaragoza, Fecha 5, Palau Blaugrana | Vive las emociones de los partidos de la 44º edición de la Liga Endesa ACB, la principal liga de baloncesto profesional de España.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>España</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ligaendesa.jpg" />
+  </programme>
+  <programme start="20261029043000 -0300" stop="20261029050000 -0300" channel="Fox Sports Premium">
+    <title>The Ocean Race • Atlantic</title>
+    <sub-title>Atlantic</sub-title>
+    <desc>Repetición ║ Atlantic | The Ocean Race 2023 es la decimocuarta edición de la vuelta al mundo a vela. La regata comenzó en Alicante el 8 de enero de 2023 y terminará en Génova en junio de 2023 en ambos casos con una regata costera.</desc>
+    <date>2023</date>
+    <category>Deportes</category>
+    <category>Náutica</category>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261029050000 -0300" stop="20261029070000 -0300" channel="Fox Sports Premium">
+    <title>AEW Collision</title>
+    <desc>Repetición ║ Un programa de lucha libre profesional estadounidense que presenta los combates más emocionantes. Los luchadores estrella se enfrentan de forma individual o por equipos en peleas del mayor nivel y el público disfrutará de cada encuentro.</desc>
+    <credits>
+      <actor>Tony Schiavone</actor>
+      <actor>Steven Haworth</actor>
+      <actor>Cash Wheeler</actor>
+      <actor>Lexy Nair</actor>
+      <actor>Brandon Martinez</actor>
+      <actor>Stephon Smith</actor>
+      <actor>Dasha Kuret</actor>
+      <actor>Brody King</actor>
+      <actor>Matthew Adams</actor>
+      <actor>Claudio Castagnoli</actor>
+      <actor>Tony Khan</actor>
+    </credits>
+    <date>2023</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>EE. UU</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aewcollision.jpg" />
+  </programme>
+  <programme start="20261029070000 -0300" stop="20261029090000 -0300" channel="Fox Sports Premium">
+    <title>Liga Endesa • Valencia Basket vs Baskonia, Fecha 5, Roig Arena</title>
+    <sub-title>Valencia Basket vs. Baskonia, Fecha 5, Roig Arena</sub-title>
+    <desc>Repetición ║ Valencia Basket vs Baskonia, Fecha 5, Roig Arena | Vive las emociones de los partidos de la 44º edición de la Liga Endesa ACB, la principal liga de baloncesto profesional de España.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>España</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ligaendesa.jpg" />
+  </programme>
+  <programme start="20261029090000 -0300" stop="20261029110000 -0300" channel="Fox Sports Premium">
+    <title>Supercopa • León</title>
+    <sub-title>León</sub-title>
+    <desc>Repetición ║ León | Las mejores categorías del deporte automotor en México. GTM, MexBike, Fórmula 5, Tractocamiones Freightliner.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Automovilismo</category>
+    <country>México</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261029110000 -0300" stop="20261029133000 -0300" channel="Fox Sports Premium">
+    <title>Major Arena Soccer League • Empire Strykers vs Milwaukee Wave</title>
+    <sub-title>Empire Strykers vs. Milwaukee Wave</sub-title>
+    <desc>Repetición ║ Empire Strykers vs Milwaukee Wave | Vive toda la emoción de los partidos de fútbol de salón de la Major Arena Soccer League. Disfruta de los enfrentamientos de la máxima liga profesional de fútbol sala en Norteamérica, que incluye equipos de Estados Unidos y México.</desc>
+    <date>2025</date>
+    <category>Deportes</category>
+    <category>Fútbol</category>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261029133000 -0300" stop="20261029140000 -0300" channel="Fox Sports Premium">
+    <title>The Ocean Race • Atlantic</title>
+    <sub-title>Atlantic</sub-title>
+    <desc>Repetición ║ Atlantic | The Ocean Race 2023 es la decimocuarta edición de la vuelta al mundo a vela. La regata comenzó en Alicante el 8 de enero de 2023 y terminará en Génova en junio de 2023 en ambos casos con una regata costera.</desc>
+    <date>2023</date>
+    <category>Deportes</category>
+    <category>Náutica</category>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261029140000 -0300" stop="20261029150000 -0300" channel="Fox Sports Premium">
+    <title>Highlights - Rolex Grand Slam • Aachen</title>
+    <sub-title>Aachen</sub-title>
+    <desc>Repetición ║ Aachen | Disfruta los momentos destacados del Rolex Grand Slam.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Equitación</category>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261029150000 -0300" stop="20261029160000 -0300" channel="Fox Sports Premium">
+    <title>CMLL Retro</title>
+    <desc>Repetición ║ Un repaso de los combates más emocionantes organizados por el Consejo Mundial de Lucha Libre. Los combates se distinguen por su intensidad en el ring, el contraste entre luchadores técnicos y rudos y la espectacularidad.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>México</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261029160000 -0300" stop="20261029163000 -0300" channel="Fox Sports Premium">
+    <title>The Ocean Race • Atlantic</title>
+    <sub-title>Atlantic</sub-title>
+    <desc>Repetición ║ Atlantic | The Ocean Race 2023 es la decimocuarta edición de la vuelta al mundo a vela. La regata comenzó en Alicante el 8 de enero de 2023 y terminará en Génova en junio de 2023 en ambos casos con una regata costera.</desc>
+    <date>2023</date>
+    <category>Deportes</category>
+    <category>Náutica</category>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261029163000 -0300" stop="20261029170000 -0300" channel="Fox Sports Premium">
+    <title>Fox Fight Club</title>
+    <desc>Repetición ║ Programa de análisis previo y post a los grandes eventos de box, así como entrevistas a figuras del mundo del pugilismo.</desc>
+    <date>2017</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>México</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxfightclub.jpg" />
+  </programme>
+  <programme start="20261029170000 -0300" stop="20261029193000 -0300" channel="Fox Sports Premium">
+    <title>[En vivo] AEW Dynamite</title>
+    <desc>En vivo ║ Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca.</desc>
+    <credits>
+      <actor>Tony Schiavone</actor>
+      <actor>Aubrey Edwards</actor>
+      <actor>Paul Turner</actor>
+      <actor>Chris Jericho</actor>
+      <actor>Jim Ross</actor>
+      <actor>Len Olson</actor>
+    </credits>
+    <date>2019</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>EE. UU</country>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261029193000 -0300" stop="20261029213000 -0300" channel="Fox Sports Premium">
+    <title>LNBP • Fuerza Regia vs Dorados de Chihuahua, Juego 5 - Semifinal de Zona</title>
+    <sub-title>Fuerza Regia vs. Dorados de Chihuahua, Juego 5 - Semifinal de Zona</sub-title>
+    <desc>Repetición ║ Fuerza Regia vs Dorados de Chihuahua, Juego 5 - Semifinal de Zona | Vive lo más emocionante de la Liga Nacional de Baloncesto Profesional de México. Los amantes del deporte podrán disfrutar de los mayores talentos a nivel nacional mientras los equipos lo dejan todo en la cancha.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>México</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261029213000 -0300" stop="20261029220000 -0300" channel="Fox Sports Premium">
+    <title>FIBA Highlights • Capítulo 4</title>
+    <sub-title>Episodio 4</sub-title>
+    <desc>Repetición ║ Capítulo 4 | Disfruta de los momentos más destacados de los partidos de básquet de la FIBA.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fibahighlights.jpg" />
+  </programme>
+  <programme start="20261029220000 -0300" stop="20261029230000 -0300" channel="Fox Sports Premium">
+    <title>Abu Dhabi Autonomous Racing League • Imola 2026</title>
+    <sub-title>Imola 2026</sub-title>
+    <desc>Repetición ║ Imola 2026 | Disfruta de esta innovadora serie de carreras extremas que redefine los límites de la tecnología autónoma. Equipos de instituciones educativas y tecnológicas de todo el mundo compiten para desarrollar la IA de carreras más rápida y capaz.</desc>
+    <date>2025</date>
+    <category>Deportes</category>
+    <category>Automovilismo</category>
+    <country>Emiratos Árabes Unidos</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261029230000 -0300" stop="20261030010000 -0300" channel="Fox Sports Premium">
+    <title>AEW Dynamite</title>
+    <desc>Repetición ║ Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca.</desc>
+    <credits>
+      <actor>Tony Schiavone</actor>
+      <actor>Aubrey Edwards</actor>
+      <actor>Paul Turner</actor>
+      <actor>Chris Jericho</actor>
+      <actor>Jim Ross</actor>
+      <actor>Len Olson</actor>
+    </credits>
+    <date>2019</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>EE. UU</country>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030010000 -0300" stop="20261030023000 -0300" channel="Fox Sports Premium">
+    <title>UIPM Obstacle World Championships • Beijing China 400m OCR</title>
+    <sub-title>Beijing China 400m OCR</sub-title>
+    <desc>Repetición ║ Beijing China 400m OCR | Vive toda la emoción de las jornadas del Campeonato Mundial de Obstáculos de la UIPM del 2026, celebrado en Beijing, China. Esta competencia internacional anual reúne a atletas de carreras de obstáculos (OCR).</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Deportivo</category>
+    <country>China</country>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030023000 -0300" stop="20261030043000 -0300" channel="Fox Sports Premium">
+    <title>LNBP • Fuerza Regia vs Dorados de Chihuahua, Juego 5 - Semifinal de Zona</title>
+    <sub-title>Fuerza Regia vs. Dorados de Chihuahua, Juego 5 - Semifinal de Zona</sub-title>
+    <desc>Repetición ║ Fuerza Regia vs Dorados de Chihuahua, Juego 5 - Semifinal de Zona | Vive lo más emocionante de la Liga Nacional de Baloncesto Profesional de México. Los amantes del deporte podrán disfrutar de los mayores talentos a nivel nacional mientras los equipos lo dejan todo en la cancha.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>México</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030043000 -0300" stop="20261030050000 -0300" channel="Fox Sports Premium">
+    <title>Women&#x27;s Football Weekly • Capítulo 8</title>
+    <sub-title>Episodio 8</sub-title>
+    <desc>Repetición ║ Capítulo 8 | Un programa que repasa lo mejor del fútbol femenino profesional más destacado del mundo. Los amantes del deporte podrán disfrutar de los partidos y jugadas más destacadas y que ponen el foco en el talento de las mejores deportistas.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Fútbol</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030050000 -0300" stop="20261030070000 -0300" channel="Fox Sports Premium">
+    <title>Liga Endesa • Breogán vs Unicaja, Fecha 5, Pazo dos Deportes</title>
+    <sub-title>Breogán vs. Unicaja, Fecha 5, Pazo dos Deportes</sub-title>
+    <desc>Repetición ║ Breogán vs Unicaja, Fecha 5, Pazo dos Deportes | Vive las emociones de los partidos de la 44º edición de la Liga Endesa ACB, la principal liga de baloncesto profesional de España.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>España</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ligaendesa.jpg" />
+  </programme>
+  <programme start="20261030070000 -0300" stop="20261030090000 -0300" channel="Fox Sports Premium">
+    <title>AEW Dynamite</title>
+    <desc>Repetición ║ Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca.</desc>
+    <credits>
+      <actor>Tony Schiavone</actor>
+      <actor>Aubrey Edwards</actor>
+      <actor>Paul Turner</actor>
+      <actor>Chris Jericho</actor>
+      <actor>Jim Ross</actor>
+      <actor>Len Olson</actor>
+    </credits>
+    <date>2019</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>EE. UU</country>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030090000 -0300" stop="20261030110000 -0300" channel="Fox Sports Premium">
+    <title>Supercopa • Monterrey</title>
+    <sub-title>Monterrey</sub-title>
+    <desc>Repetición ║ Monterrey | Las mejores categorías del deporte automotor en México. GTM, MexBike, Fórmula 5, Tractocamiones Freightliner.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Automovilismo</category>
+    <country>México</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030110000 -0300" stop="20261030113000 -0300" channel="Fox Sports Premium">
+    <title>Women&#x27;s Football Weekly • Capítulo 8</title>
+    <sub-title>Episodio 8</sub-title>
+    <desc>Repetición ║ Capítulo 8 | Un programa que repasa lo mejor del fútbol femenino profesional más destacado del mundo. Los amantes del deporte podrán disfrutar de los partidos y jugadas más destacadas y que ponen el foco en el talento de las mejores deportistas.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Fútbol</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030113000 -0300" stop="20261030120000 -0300" channel="Fox Sports Premium">
+    <title>FIBA Highlights • Capítulo 6</title>
+    <sub-title>Episodio 6</sub-title>
+    <desc>Repetición ║ Capítulo 6 | Disfruta de los momentos más destacados de los partidos de básquet de la FIBA.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fibahighlights.jpg" />
+  </programme>
+  <programme start="20261030120000 -0300" stop="20261030140000 -0300" channel="Fox Sports Premium">
+    <title>Liga Endesa • Valencia Basket vs Baskonia, Fecha 5, Roig Arena</title>
+    <sub-title>Valencia Basket vs. Baskonia, Fecha 5, Roig Arena</sub-title>
+    <desc>Repetición ║ Valencia Basket vs Baskonia, Fecha 5, Roig Arena | Vive las emociones de los partidos de la 44º edición de la Liga Endesa ACB, la principal liga de baloncesto profesional de España.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>España</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ligaendesa.jpg" />
+  </programme>
+  <programme start="20261030140000 -0300" stop="20261030160000 -0300" channel="Fox Sports Premium">
+    <title>AEW Dynamite</title>
+    <desc>Repetición ║ Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca.</desc>
+    <credits>
+      <actor>Tony Schiavone</actor>
+      <actor>Aubrey Edwards</actor>
+      <actor>Paul Turner</actor>
+      <actor>Chris Jericho</actor>
+      <actor>Jim Ross</actor>
+      <actor>Len Olson</actor>
+    </credits>
+    <date>2019</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>EE. UU</country>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030160000 -0300" stop="20261030170000 -0300" channel="Fox Sports Premium">
+    <title>Highlights - Rolex Grand Slam • La Baule</title>
+    <sub-title>La Baule</sub-title>
+    <desc>Repetición ║ La Baule | Disfruta los momentos destacados del Rolex Grand Slam.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Equitación</category>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030170000 -0300" stop="20261030180000 -0300" channel="Fox Sports Premium">
+    <title>CMLL Retro</title>
+    <desc>Repetición ║ Un repaso de los combates más emocionantes organizados por el Consejo Mundial de Lucha Libre. Los combates se distinguen por su intensidad en el ring, el contraste entre luchadores técnicos y rudos y la espectacularidad.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Lucha</category>
+    <country>México</country>
+    <rating>
+<value>B15</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030180000 -0300" stop="20261030183000 -0300" channel="Fox Sports Premium">
+    <title>KUMHO FIA TCR World Tour Highlights • Capítulo 5</title>
+    <sub-title>Episodio 5</sub-title>
+    <desc>Repetición ║ Capítulo 5 | un vistazo a los momentos más destacados en las carreras del Kumho FIA TCR World Tour. La competencia reúne a pilotos profesionales con experiencia internacional y a los competidores de las series regionales y nacionales de TCR.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Automovilismo</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030183000 -0300" stop="20261030190000 -0300" channel="Fox Sports Premium">
+    <title>Women&#x27;s Football Weekly • Capítulo 8</title>
+    <sub-title>Episodio 8</sub-title>
+    <desc>Repetición ║ Capítulo 8 | Un programa que repasa lo mejor del fútbol femenino profesional más destacado del mundo. Los amantes del deporte podrán disfrutar de los partidos y jugadas más destacadas y que ponen el foco en el talento de las mejores deportistas.</desc>
+    <date>2000</date>
+    <category>Deportes</category>
+    <category>Fútbol</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030190000 -0300" stop="20261030213000 -0300" channel="Fox Sports Premium">
+    <title>[En vivo] LNBP • Final de Zona</title>
+    <sub-title>Final de Zona</sub-title>
+    <desc>En vivo ║ Final de Zona | Vive lo más emocionante de la Liga Nacional de Baloncesto Profesional de México. Los amantes del deporte podrán disfrutar de los mayores talentos a nivel nacional mientras los equipos lo dejan todo en la cancha.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <country>México</country>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030213000 -0300" stop="20261030220000 -0300" channel="Fox Sports Premium">
+    <title>FIBA Highlights • Capítulo 5</title>
+    <sub-title>Episodio 5</sub-title>
+    <desc>Repetición ║ Capítulo 5 | Disfruta de los momentos más destacados de los partidos de básquet de la FIBA.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Básquet</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating>
+<value>B</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fibahighlights.jpg" />
+  </programme>
+  <programme start="20261030220000 -0300" stop="20261030230000 -0300" channel="Fox Sports Premium">
+    <title>Highlights - Rolex Grand Slam • Aachen</title>
+    <sub-title>Aachen</sub-title>
+    <desc>Repetición ║ Aachen | Disfruta los momentos destacados del Rolex Grand Slam.</desc>
+    <date>2026</date>
+    <category>Deportes</category>
+    <category>Equitación</category>
+    <rating>
+<value>A</value>
+</rating>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
+  <programme start="20261030230000 -0300" stop="20261031030000 -0300" channel="Fox Sports Premium">
+    <title>Fox Sports Premium</title>
+    <desc>La informacion de este programa no se encuentra disponible.</desc>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
+  </programme>
 	<programme start="20261027000000 +0000" stop="20261027010000 +0000" channel="DSPORTS">
     <title>Más que fútbol</title>
     <desc>(Special) Sin detalles...</desc>
