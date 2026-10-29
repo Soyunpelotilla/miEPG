@@ -1190,27 +1190,6 @@
     <display-name>ESPN 4 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png" />
   </channel>
-  <channel id="FOX MX">
-    <display-name>FOX MX SD</display-name>
-    <display-name>FOX MX HD</display-name>
-    <display-name>FOX MX FHD</display-name>
-    <display-name>FOX MX 4K</display-name>
-    <icon src="https://emby.tmsimg.com/assets/GNLZZGG0027PYSD.png" />
-  </channel>
-  <channel id="FOX+ MX">
-    <display-name>FOX+ MX SD</display-name>
-    <display-name>FOX+ MX HD</display-name>
-    <display-name>FOX+ MX FHD</display-name>
-    <display-name>FOX+ MX 4K</display-name>
-    <icon src="https://emby.tmsimg.com/sources/generic/generic_sources_h5.png" />
-  </channel>
-  <channel id="Canal 5 MX">
-    <display-name>Canal 5 MX SD</display-name>
-    <display-name>Canal 5 MX HD</display-name>
-    <display-name>Canal 5 MX FHD</display-name>
-    <display-name>Canal 5 MX 4K</display-name>
-    <icon src="https://emby.tmsimg.com/assets/s116152_ld_h15_aa.png" />
-  </channel>
   <channel id="DSPORTS">
     <display-name>DSPORTS SD</display-name>
     <display-name>DSPORTS HD</display-name>
@@ -89816,11 +89795,6 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261029101024 +0000" stop="20261029122545 +0000" channel="Sony One Hits Comedia">
-    <title>El Tesoro De Curly</title>
-    <desc>En esta secuela del gran éxito de taquilla, el neoyorquino Mitch Robbins (Billy Crystal) y su hermano Glen (Jon Lovitz), la oveja negra de la familia, encuentran por accidente un antiguo mapa del tesoro oculto en la cinta del sombrero del difunto Curly. Después de visitar la biblioteca local, descubren que el padre de Curly participó en un célebre robo a un tren.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_869280570_2_20250508T202421634Z_114_imageprocessorclient-tvplus-linear-6fb5b47f79-nvssr.png"/>
-  </programme>
   <programme start="20261029122545 +0000" stop="20261029144943 +0000" channel="Sony One Hits Comedia">
     <title>Casi Famosos</title>
     <desc>Un joven estudiante recibe la oportunidad de escribir un artículo para un prestigiosa revista de música acerca de un nuevo grupo de rock. Al acompañarles durante su gira irá descubriendo poco a poco el mundo que les rodea.</desc>
@@ -89842,10 +89816,10 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261029104518 +0000" stop="20261029130824 +0000" channel="Sony One Hits Acción">
-    <title>El desafío</title>
-    <desc>Basada en las memorias escritas por Philippe Petit (Joseph Gordon-Levitt), un funambulista francés que, en 1974, guiado por su mentor Papa Rudy (Ben Kingsley), se propuso un reto nunca antes realizado: recorrer sobre un cable el espacio que separaba las Torres Gemelas de Nueva York.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1925613805_0_20260612T023346793Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-rsm6f.jpeg"/>
+  <programme start="20261029183344 +0000" stop="20261029202721 +0000" channel="Sony One Hits Comedia">
+    <title>Big Daddy</title>
+    <desc>Sonny Koufax (ADAM SANDLER) tiene 32 años y pasó toda su vida evadiendo responsabilidades. Cuando su novia lo deja por un hombre mayor, debe demostrar que está listo para crecer. En un desesperado último esfuerzo, Sonny adopta Julian, de cinco años (COLE SPROUSE, DYLAN SPROUSE) para impresionarla, pero no lo consigue... y no puede devolverlo. ¡Vaya problema para Sony!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_869244989_4_20250508T202421155Z_82_imageprocessorclient-tvplus-linear-6fb5b47f79-nj5gx.png"/>
     <rating>
       <value>7</value>
     </rating>
@@ -89864,6 +89838,14 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1690430001_0_20260311T203150436Z_56_imageprocessorclient-tvplus-linear-85d7d49859-flfwd.jpeg"/>
     <rating>
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261029184150 +0000" stop="20261029213108 +0000" channel="Sony One Hits Acción">
+    <title>The Raid 2: Berandal</title>
+    <desc>Poco después de finalizar la sangrienta redada, el inspector Rama se ve obligado a infiltrarse en las filas del sindicato del crimen de Yakarta con el fin de proteger a su familia y descubrir la corrupción en el seno de su propia fuerza policial.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1294012869_0_20251031T214702712Z_47_imageprocessorclient-tvplus-linear-5db7c6bc99-d5mt6.jpeg"/>
+    <rating>
+      <value>7</value>
     </rating>
   </programme>
 	<programme start="20261029065000 +0100" stop="20261029073500 +0100" channel="National Geographic">
@@ -122136,214 +122118,6 @@
     <title>NCAAF Saturday Night Football</title>
     <desc>Sin detalles...</desc>
 	</programme>
-  <programme start="20261029000000 +0000" stop="20261029010000 +0000" channel="FOX MX">
-    <title lang="es">Cuadro titular</title>
-    <desc lang="es">Programación de Fox MX: Cuadro titular</desc>
-  </programme>
-  <programme start="20261029010000 +0000" stop="20261029020000 +0000" channel="FOX MX">
-    <title lang="es">FOX 365</title>
-    <desc lang="es">Programación de Fox MX: FOX 365</desc>
-  </programme>
-  <programme start="20261029020000 +0000" stop="20261029030000 +0000" channel="FOX MX">
-    <title lang="es">Cuadro titular</title>
-    <desc lang="es">Programación de Fox MX: Cuadro titular</desc>
-  </programme>
-  <programme start="20261029030000 +0000" stop="20261029040000 +0000" channel="FOX MX">
-    <title lang="es">Los espartanos con José Pablo</title>
-    <desc lang="es">Programación de Fox MX: Los espartanos con José Pablo</desc>
-  </programme>
-  <programme start="20261029040000 +0000" stop="20261029060000 +0000" channel="FOX MX">
-    <title lang="es">El chiringuito</title>
-    <desc lang="es">Programación de Fox MX: El chiringuito</desc>
-  </programme>
-  <programme start="20261029060000 +0000" stop="20261029070000 +0000" channel="FOX MX">
-    <title lang="es">Los espartanos con José Pablo</title>
-    <desc lang="es">Programación de Fox MX: Los espartanos con José Pablo</desc>
-  </programme>
-  <programme start="20261029070000 +0000" stop="20261029080000 +0000" channel="FOX MX">
-    <title lang="es">FOX 365</title>
-    <desc lang="es">Programación de Fox MX: FOX 365</desc>
-  </programme>
-  <programme start="20261029080000 +0000" stop="20261029090000 +0000" channel="FOX MX">
-    <title lang="es">Cuadro titular</title>
-    <desc lang="es">Programación de Fox MX: Cuadro titular</desc>
-  </programme>
-  <programme start="20261029090000 +0000" stop="20261029100000 +0000" channel="FOX MX">
-    <title lang="es">Los espartanos con José Pablo</title>
-    <desc lang="es">Programación de Fox MX: Los espartanos con José Pablo</desc>
-  </programme>
-  <programme start="20261029100000 +0000" stop="20261029110000 +0000" channel="FOX MX">
-    <title lang="es">FOX 365</title>
-    <desc lang="es">Programación de Fox MX: FOX 365</desc>
-  </programme>
-  <programme start="20261029110000 +0000" stop="20261029121500 +0000" channel="FOX MX">
-    <title lang="es">El chiringuito</title>
-    <desc lang="es">Programación de Fox MX: El chiringuito</desc>
-  </programme>
-  <programme start="20261029121500 +0000" stop="20261029124500 +0000" channel="FOX MX">
-    <title lang="es">Bundesliga weekly</title>
-    <desc lang="es">Programación de Fox MX: Bundesliga weekly</desc>
-  </programme>
-  <programme start="20261029124500 +0000" stop="20261029160000 +0000" channel="FOX MX">
-    <title lang="es">Al Riyadh vs. Al Qadsiah</title>
-    <desc lang="es">Programación de Fox MX: Al Riyadh vs. Al Qadsiah</desc>
-  </programme>
-  <programme start="20261029160000 +0000" stop="20261029170000 +0000" channel="FOX MX">
-    <title lang="es">Mother Soccer</title>
-    <desc lang="es">Programación de Fox MX: Mother Soccer</desc>
-  </programme>
-  <programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="FOX MX">
-    <title lang="es">Referentes</title>
-    <desc lang="es">Programación de Fox MX: Referentes</desc>
-  </programme>
-  <programme start="20261029180000 +0000" stop="20261029183000 +0000" channel="FOX MX">
-    <title lang="es">Los espartanos con José Pablo</title>
-    <desc lang="es">Programación de Fox MX: Los espartanos con José Pablo</desc>
-  </programme>
-  <programme start="20261029183000 +0000" stop="20261029190000 +0000" channel="FOX MX">
-    <title lang="es">Fox NFL Thursday Night Footbal</title>
-    <desc lang="es">Programación de Fox MX: Fox NFL Thursday Night Footbal</desc>
-  </programme>
-  <programme start="20261029190000 +0000" stop="20261029223000 +0000" channel="FOX MX">
-    <title lang="es">Panthers vs. Green Bay</title>
-    <desc lang="es">Programación de Fox MX: Panthers vs. Green Bay</desc>
-  </programme>
-  <programme start="20261029223000 +0000" stop="20261029230000 +0000" channel="FOX MX">
-    <title lang="es">NFL game day</title>
-    <desc lang="es">Programación de Fox MX: NFL game day</desc>
-  </programme>
-  <programme start="20261029230000 +0000" stop="20261029010000 +0000" channel="FOX MX">
-    <title lang="es">FOX 365</title>
-    <desc lang="es">Programación de Fox MX: FOX 365</desc>
-  </programme>
-  <programme start="20261029000000 +0000" stop="20261029030000 +0000" channel="FOX+ MX">
-    <title lang="es">NASCAR Oreily the Progress Group 250</title>
-    <desc lang="es">Programación de FOX+ MX: NASCAR Oreily the Progress Group 250</desc>
-  </programme>
-  <programme start="20261029030000 +0000" stop="20261029050000 +0000" channel="FOX+ MX">
-    <title lang="es">Comunicaciones vs. Antigua GFC</title>
-    <desc lang="es">Programación de FOX+ MX: Comunicaciones vs. Antigua GFC</desc>
-  </programme>
-  <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="FOX+ MX">
-    <title lang="es">Lucha libre AAA</title>
-    <desc lang="es">Programación de FOX+ MX: Lucha libre AAA</desc>
-  </programme>
-  <programme start="20261029060000 +0000" stop="20261029090000 +0000" channel="FOX+ MX">
-    <title lang="es">Tampa Bay Rays vs. Milwaukee Brewers</title>
-    <desc lang="es">Programación de FOX+ MX: Tampa Bay Rays vs. Milwaukee Brewers</desc>
-  </programme>
-  <programme start="20261029090000 +0000" stop="20261029110000 +0000" channel="FOX+ MX">
-    <title lang="es">Friburgo vs. Bayern Munich</title>
-    <desc lang="es">Programación de FOX+ MX: Friburgo vs. Bayern Munich</desc>
-  </programme>
-  <programme start="20261029110000 +0000" stop="20261029130000 +0000" channel="FOX+ MX">
-    <title lang="es">Tijuana vs. Santos Laguna</title>
-    <desc lang="es">Programación de FOX+ MX: Tijuana vs. Santos Laguna</desc>
-  </programme>
-  <programme start="20261029130000 +0000" stop="20261029150000 +0000" channel="FOX+ MX">
-    <title lang="es">Al Nassr Riyadh vs. Al Kholood</title>
-    <desc lang="es">Programación de FOX+ MX: Al Nassr Riyadh vs. Al Kholood</desc>
-  </programme>
-  <programme start="20261029150000 +0000" stop="20261029170000 +0000" channel="FOX+ MX">
-    <title lang="es">AD San Carlos vs. Dep. Saprissa</title>
-    <desc lang="es">Programación de FOX+ MX: AD San Carlos vs. Dep. Saprissa</desc>
-  </programme>
-  <programme start="20261029170000 +0000" stop="20261029190000 +0000" channel="FOX+ MX">
-    <title lang="es">Águila vs. FAS</title>
-    <desc lang="es">Programación de FOX+ MX: Águila vs. FAS</desc>
-  </programme>
-  <programme start="20261029190000 +0000" stop="20261029210000 +0000" channel="FOX+ MX">
-    <title lang="es">Xelajú vs. Municipal</title>
-    <desc lang="es">Programación de FOX+ MX: Xelajú vs. Municipal</desc>
-  </programme>
-  <programme start="20261029210000 +0000" stop="20261029230000 +0000" channel="FOX+ MX">
-    <title lang="es">Tampa Bay Rays vs. Milwaukee Brewers</title>
-    <desc lang="es">Programación de FOX+ MX: Tampa Bay Rays vs. Milwaukee Brewers</desc>
-  </programme>
-  <programme start="20261029000000 +0000" stop="20261029010000 +0000" channel="Canal 5 MX">
-    <title lang="es">Contacto deportivo En Vivo</title>
-    <desc lang="es">Programación de Canal 5 MX: Contacto deportivo En Vivo</desc>
-  </programme>
-  <programme start="20261029010000 +0000" stop="20261029040000 +0000" channel="Canal 5 MX">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Programación de Canal 5 MX: Infomerciales</desc>
-  </programme>
-  <programme start="20261029040000 +0000" stop="20261029043000 +0000" channel="Canal 5 MX">
-    <title lang="es">Cronicas</title>
-    <desc lang="es">Programación de Canal 5 MX: Cronicas</desc>
-  </programme>
-  <programme start="20261029043000 +0000" stop="20261029053000 +0000" channel="Canal 5 MX">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Programación de Canal 5 MX: Infomerciales</desc>
-  </programme>
-  <programme start="20261029053000 +0000" stop="20261029060000 +0000" channel="Canal 5 MX">
-    <title lang="es">Especial de R.T.C</title>
-    <desc lang="es">Programación de Canal 5 MX: Especial de R.T.C</desc>
-  </programme>
-  <programme start="20261029060000 +0000" stop="20261029070000 +0000" channel="Canal 5 MX">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Programación de Canal 5 MX: Infomerciales</desc>
-  </programme>
-  <programme start="20261029070000 +0000" stop="20261029073000 +0000" channel="Canal 5 MX">
-    <title lang="es">PJ Masks: Héroes en Pijamas</title>
-    <desc lang="es">Programación de Canal 5 MX: PJ Masks: Héroes en Pijamas</desc>
-  </programme>
-  <programme start="20261029073000 +0000" stop="20261029080000 +0000" channel="Canal 5 MX">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Programación de Canal 5 MX: Peppa Pig</desc>
-  </programme>
-  <programme start="20261029080000 +0000" stop="20261029090000 +0000" channel="Canal 5 MX">
-    <title lang="es">Bely y Beto</title>
-    <desc lang="es">Programación de Canal 5 MX: Bely y Beto</desc>
-  </programme>
-  <programme start="20261029090000 +0000" stop="20261029093000 +0000" channel="Canal 5 MX">
-    <title lang="es">Ve, perro. ¡Ve!</title>
-    <desc lang="es">Programación de Canal 5 MX: Ve, perro. ¡Ve!</desc>
-  </programme>
-  <programme start="20261029093000 +0000" stop="20261029100000 +0000" channel="Canal 5 MX">
-    <title lang="es">Tiny Toons Looniversidad</title>
-    <desc lang="es">Programación de Canal 5 MX: Tiny Toons Looniversidad</desc>
-  </programme>
-  <programme start="20261029100000 +0000" stop="20261029110000 +0000" channel="Canal 5 MX">
-    <title lang="es">Kung Fu Panda La Leyenda Po</title>
-    <desc lang="es">Programación de Canal 5 MX: Kung Fu Panda La Leyenda Po</desc>
-  </programme>
-  <programme start="20261029110000 +0000" stop="20261029123000 +0000" channel="Canal 5 MX">
-    <title lang="es">Los Pingüinos de Madagascar</title>
-    <desc lang="es">Programación de Canal 5 MX: Los Pingüinos de Madagascar</desc>
-  </programme>
-  <programme start="20261029123000 +0000" stop="20261029140000 +0000" channel="Canal 5 MX">
-    <title lang="es">Scooby-Doo y ¿Quién Crees Tú?</title>
-    <desc lang="es">Programación de Canal 5 MX: Scooby-Doo y ¿Quién Crees Tú?</desc>
-  </programme>
-  <programme start="20261029140000 +0000" stop="20261029153000 +0000" channel="Canal 5 MX">
-    <title lang="es">Bob Esponja</title>
-    <desc lang="es">Programación de Canal 5 MX: Bob Esponja</desc>
-  </programme>
-  <programme start="20261029153000 +0000" stop="20261029170000 +0000" channel="Canal 5 MX">
-    <title lang="es">El chavo animado</title>
-    <desc lang="es">Programación de Canal 5 MX: El chavo animado</desc>
-  </programme>
-  <programme start="20261029170000 +0000" stop="20261029183000 +0000" channel="Canal 5 MX">
-    <title lang="es">Zombeavers castores zombies</title>
-    <desc lang="es">Programación de Canal 5 MX: Zombeavers castores zombies</desc>
-  </programme>
-  <programme start="20261029183000 +0000" stop="20261029200000 +0000" channel="Canal 5 MX">
-    <title lang="es">Contrato de Corazones</title>
-    <desc lang="es">Programación de Canal 5 MX: Contrato de Corazones</desc>
-  </programme>
-  <programme start="20261029200000 +0000" stop="20261029210000 +0000" channel="Canal 5 MX">
-    <title lang="es">Contrato de Corazones</title>
-    <desc lang="es">Programación de Canal 5 MX: Contrato de Corazones</desc>
-  </programme>
-  <programme start="20261029210000 +0000" stop="20261029230000 +0000" channel="Canal 5 MX">
-    <title lang="es">Me caigo de risa</title>
-    <desc lang="es">Programación de Canal 5 MX: Me caigo de risa</desc>
-  </programme>
-  <programme start="20261029230000 +0000" stop="20261029010000 +0000" channel="Canal 5 MX">
-    <title lang="es">La ley y el orden UVE</title>
-    <desc lang="es">Programación de Canal 5 MX: La ley y el orden UVE</desc>
-  </programme>
 	<programme start="20261029000000 +0000" stop="20261029003000 +0000" channel="DSPORTS">
     <title>Magazine CONMEBOL Sudamericana</title>
     <desc>(Soccer) Sin detalles...</desc>
@@ -128840,6 +128614,227 @@
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FOIY3MSIN4SI6YEN4NBI.jpg/a:p/im:i:c_limit,w_1920/FOIY3MSIN4SI6YEN4NBI_reference_keyframe.jpg" />
 	</programme>
+  <programme start="20261029101024 +0000" stop="20261029122545 +0000" channel="Sony One Hits Comedia">
+    <title>El Tesoro De Curly</title>
+    <desc>En esta secuela del gran éxito de taquilla, el neoyorquino Mitch Robbins (Billy Crystal) y su hermano Glen (Jon Lovitz), la oveja negra de la familia, encuentran por accidente un antiguo mapa del tesoro oculto en la cinta del sombrero del difunto Curly. Después de visitar la biblioteca local, descubren que el padre de Curly participó en un célebre robo a un tren.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_869280570_2_20250508T202421634Z_114_imageprocessorclient-tvplus-linear-6fb5b47f79-nvssr.png"/>
+  </programme>
+  <programme start="20261029104518 +0000" stop="20261029130824 +0000" channel="Sony One Hits Acción">
+    <title>El desafío</title>
+    <desc>Basada en las memorias escritas por Philippe Petit (Joseph Gordon-Levitt), un funambulista francés que, en 1974, guiado por su mentor Papa Rudy (Ben Kingsley), se propuso un reto nunca antes realizado: recorrer sobre un cable el espacio que separaba las Torres Gemelas de Nueva York.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1925613805_0_20260612T023346793Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-rsm6f.jpeg"/>
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20261029000000 +0000" stop="20261029010000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <desc lang="es">Programación de Fox MX: Cuadro titular</desc>
+  </programme>
+  <programme start="20261029010000 +0000" stop="20261029020000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <desc lang="es">Programación de Fox MX: FOX 365</desc>
+  </programme>
+  <programme start="20261029020000 +0000" stop="20261029030000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <desc lang="es">Programación de Fox MX: Cuadro titular</desc>
+  </programme>
+  <programme start="20261029030000 +0000" stop="20261029040000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo</title>
+    <desc lang="es">Programación de Fox MX: Los espartanos con José Pablo</desc>
+  </programme>
+  <programme start="20261029040000 +0000" stop="20261029060000 +0000" channel="FOX MX">
+    <title lang="es">El chiringuito</title>
+    <desc lang="es">Programación de Fox MX: El chiringuito</desc>
+  </programme>
+  <programme start="20261029060000 +0000" stop="20261029070000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo</title>
+    <desc lang="es">Programación de Fox MX: Los espartanos con José Pablo</desc>
+  </programme>
+  <programme start="20261029070000 +0000" stop="20261029080000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <desc lang="es">Programación de Fox MX: FOX 365</desc>
+  </programme>
+  <programme start="20261029080000 +0000" stop="20261029090000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <desc lang="es">Programación de Fox MX: Cuadro titular</desc>
+  </programme>
+  <programme start="20261029090000 +0000" stop="20261029100000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo</title>
+    <desc lang="es">Programación de Fox MX: Los espartanos con José Pablo</desc>
+  </programme>
+  <programme start="20261029100000 +0000" stop="20261029110000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <desc lang="es">Programación de Fox MX: FOX 365</desc>
+  </programme>
+  <programme start="20261029110000 +0000" stop="20261029121500 +0000" channel="FOX MX">
+    <title lang="es">El chiringuito</title>
+    <desc lang="es">Programación de Fox MX: El chiringuito</desc>
+  </programme>
+  <programme start="20261029121500 +0000" stop="20261029124500 +0000" channel="FOX MX">
+    <title lang="es">Bundesliga weekly</title>
+    <desc lang="es">Programación de Fox MX: Bundesliga weekly</desc>
+  </programme>
+  <programme start="20261029124500 +0000" stop="20261029160000 +0000" channel="FOX MX">
+    <title lang="es">Al Riyadh vs. Al Qadsiah</title>
+    <desc lang="es">Programación de Fox MX: Al Riyadh vs. Al Qadsiah</desc>
+  </programme>
+  <programme start="20261029160000 +0000" stop="20261029170000 +0000" channel="FOX MX">
+    <title lang="es">Mother Soccer</title>
+    <desc lang="es">Programación de Fox MX: Mother Soccer</desc>
+  </programme>
+  <programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="FOX MX">
+    <title lang="es">Referentes</title>
+    <desc lang="es">Programación de Fox MX: Referentes</desc>
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029183000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo</title>
+    <desc lang="es">Programación de Fox MX: Los espartanos con José Pablo</desc>
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029190000 +0000" channel="FOX MX">
+    <title lang="es">Fox NFL Thursday Night Footbal</title>
+    <desc lang="es">Programación de Fox MX: Fox NFL Thursday Night Footbal</desc>
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029223000 +0000" channel="FOX MX">
+    <title lang="es">Panthers vs. Green Bay</title>
+    <desc lang="es">Programación de Fox MX: Panthers vs. Green Bay</desc>
+  </programme>
+  <programme start="20261029223000 +0000" stop="20261029230000 +0000" channel="FOX MX">
+    <title lang="es">NFL game day</title>
+    <desc lang="es">Programación de Fox MX: NFL game day</desc>
+  </programme>
+  <programme start="20261029230000 +0000" stop="20261029010000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <desc lang="es">Programación de Fox MX: FOX 365</desc>
+  </programme>
+  <programme start="20261029000000 +0000" stop="20261029030000 +0000" channel="FOX+ MX">
+    <title lang="es">NASCAR Oreily the Progress Group 250</title>
+    <desc lang="es">Programación de FOX+ MX: NASCAR Oreily the Progress Group 250</desc>
+  </programme>
+  <programme start="20261029030000 +0000" stop="20261029050000 +0000" channel="FOX+ MX">
+    <title lang="es">Comunicaciones vs. Antigua GFC</title>
+    <desc lang="es">Programación de FOX+ MX: Comunicaciones vs. Antigua GFC</desc>
+  </programme>
+  <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="FOX+ MX">
+    <title lang="es">Lucha libre AAA</title>
+    <desc lang="es">Programación de FOX+ MX: Lucha libre AAA</desc>
+  </programme>
+  <programme start="20261029060000 +0000" stop="20261029090000 +0000" channel="FOX+ MX">
+    <title lang="es">Tampa Bay Rays vs. Milwaukee Brewers</title>
+    <desc lang="es">Programación de FOX+ MX: Tampa Bay Rays vs. Milwaukee Brewers</desc>
+  </programme>
+  <programme start="20261029090000 +0000" stop="20261029110000 +0000" channel="FOX+ MX">
+    <title lang="es">Friburgo vs. Bayern Munich</title>
+    <desc lang="es">Programación de FOX+ MX: Friburgo vs. Bayern Munich</desc>
+  </programme>
+  <programme start="20261029110000 +0000" stop="20261029130000 +0000" channel="FOX+ MX">
+    <title lang="es">Tijuana vs. Santos Laguna</title>
+    <desc lang="es">Programación de FOX+ MX: Tijuana vs. Santos Laguna</desc>
+  </programme>
+  <programme start="20261029130000 +0000" stop="20261029150000 +0000" channel="FOX+ MX">
+    <title lang="es">Al Nassr Riyadh vs. Al Kholood</title>
+    <desc lang="es">Programación de FOX+ MX: Al Nassr Riyadh vs. Al Kholood</desc>
+  </programme>
+  <programme start="20261029150000 +0000" stop="20261029170000 +0000" channel="FOX+ MX">
+    <title lang="es">AD San Carlos vs. Dep. Saprissa</title>
+    <desc lang="es">Programación de FOX+ MX: AD San Carlos vs. Dep. Saprissa</desc>
+  </programme>
+  <programme start="20261029170000 +0000" stop="20261029190000 +0000" channel="FOX+ MX">
+    <title lang="es">Águila vs. FAS</title>
+    <desc lang="es">Programación de FOX+ MX: Águila vs. FAS</desc>
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029210000 +0000" channel="FOX+ MX">
+    <title lang="es">Xelajú vs. Municipal</title>
+    <desc lang="es">Programación de FOX+ MX: Xelajú vs. Municipal</desc>
+  </programme>
+  <programme start="20261029210000 +0000" stop="20261029230000 +0000" channel="FOX+ MX">
+    <title lang="es">Tampa Bay Rays vs. Milwaukee Brewers</title>
+    <desc lang="es">Programación de FOX+ MX: Tampa Bay Rays vs. Milwaukee Brewers</desc>
+  </programme>
+  <programme start="20261029000000 +0000" stop="20261029010000 +0000" channel="Canal 5 MX">
+    <title lang="es">Contacto deportivo En Vivo</title>
+    <desc lang="es">Programación de Canal 5 MX: Contacto deportivo En Vivo</desc>
+  </programme>
+  <programme start="20261029010000 +0000" stop="20261029040000 +0000" channel="Canal 5 MX">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Programación de Canal 5 MX: Infomerciales</desc>
+  </programme>
+  <programme start="20261029040000 +0000" stop="20261029043000 +0000" channel="Canal 5 MX">
+    <title lang="es">Cronicas</title>
+    <desc lang="es">Programación de Canal 5 MX: Cronicas</desc>
+  </programme>
+  <programme start="20261029043000 +0000" stop="20261029053000 +0000" channel="Canal 5 MX">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Programación de Canal 5 MX: Infomerciales</desc>
+  </programme>
+  <programme start="20261029053000 +0000" stop="20261029060000 +0000" channel="Canal 5 MX">
+    <title lang="es">Especial de R.T.C</title>
+    <desc lang="es">Programación de Canal 5 MX: Especial de R.T.C</desc>
+  </programme>
+  <programme start="20261029060000 +0000" stop="20261029070000 +0000" channel="Canal 5 MX">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Programación de Canal 5 MX: Infomerciales</desc>
+  </programme>
+  <programme start="20261029070000 +0000" stop="20261029073000 +0000" channel="Canal 5 MX">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+    <desc lang="es">Programación de Canal 5 MX: PJ Masks: Héroes en Pijamas</desc>
+  </programme>
+  <programme start="20261029073000 +0000" stop="20261029080000 +0000" channel="Canal 5 MX">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Programación de Canal 5 MX: Peppa Pig</desc>
+  </programme>
+  <programme start="20261029080000 +0000" stop="20261029090000 +0000" channel="Canal 5 MX">
+    <title lang="es">Bely y Beto</title>
+    <desc lang="es">Programación de Canal 5 MX: Bely y Beto</desc>
+  </programme>
+  <programme start="20261029090000 +0000" stop="20261029093000 +0000" channel="Canal 5 MX">
+    <title lang="es">Ve, perro. ¡Ve!</title>
+    <desc lang="es">Programación de Canal 5 MX: Ve, perro. ¡Ve!</desc>
+  </programme>
+  <programme start="20261029093000 +0000" stop="20261029100000 +0000" channel="Canal 5 MX">
+    <title lang="es">Tiny Toons Looniversidad</title>
+    <desc lang="es">Programación de Canal 5 MX: Tiny Toons Looniversidad</desc>
+  </programme>
+  <programme start="20261029100000 +0000" stop="20261029110000 +0000" channel="Canal 5 MX">
+    <title lang="es">Kung Fu Panda La Leyenda Po</title>
+    <desc lang="es">Programación de Canal 5 MX: Kung Fu Panda La Leyenda Po</desc>
+  </programme>
+  <programme start="20261029110000 +0000" stop="20261029123000 +0000" channel="Canal 5 MX">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <desc lang="es">Programación de Canal 5 MX: Los Pingüinos de Madagascar</desc>
+  </programme>
+  <programme start="20261029123000 +0000" stop="20261029140000 +0000" channel="Canal 5 MX">
+    <title lang="es">Scooby-Doo y ¿Quién Crees Tú?</title>
+    <desc lang="es">Programación de Canal 5 MX: Scooby-Doo y ¿Quién Crees Tú?</desc>
+  </programme>
+  <programme start="20261029140000 +0000" stop="20261029153000 +0000" channel="Canal 5 MX">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Programación de Canal 5 MX: Bob Esponja</desc>
+  </programme>
+  <programme start="20261029153000 +0000" stop="20261029170000 +0000" channel="Canal 5 MX">
+    <title lang="es">El chavo animado</title>
+    <desc lang="es">Programación de Canal 5 MX: El chavo animado</desc>
+  </programme>
+  <programme start="20261029170000 +0000" stop="20261029183000 +0000" channel="Canal 5 MX">
+    <title lang="es">Zombeavers castores zombies</title>
+    <desc lang="es">Programación de Canal 5 MX: Zombeavers castores zombies</desc>
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029200000 +0000" channel="Canal 5 MX">
+    <title lang="es">Contrato de Corazones</title>
+    <desc lang="es">Programación de Canal 5 MX: Contrato de Corazones</desc>
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029210000 +0000" channel="Canal 5 MX">
+    <title lang="es">Contrato de Corazones</title>
+    <desc lang="es">Programación de Canal 5 MX: Contrato de Corazones</desc>
+  </programme>
+  <programme start="20261029210000 +0000" stop="20261029230000 +0000" channel="Canal 5 MX">
+    <title lang="es">Me caigo de risa</title>
+    <desc lang="es">Programación de Canal 5 MX: Me caigo de risa</desc>
+  </programme>
+  <programme start="20261029230000 +0000" stop="20261029010000 +0000" channel="Canal 5 MX">
+    <title lang="es">La ley y el orden UVE</title>
+    <desc lang="es">Programación de Canal 5 MX: La ley y el orden UVE</desc>
+  </programme>
   <programme start="20261029073701 +0000" stop="20261029091341 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>CAT. 8</title>
     <episode-num system="onscreen">S01E01</episode-num>

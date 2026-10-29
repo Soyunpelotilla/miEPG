@@ -1,4 +1,4 @@
 # Fuente: https://raw.githubusercontent.com/Soyunpelotilla/EPG/refs/heads/main/guide.xml
-FOX+,FOX+ MX,
-FOX,Fox MX,
-Canal 5,Canal 5 MX,
+FOX+ Centroamerica,FOX+ Centroamérica,
+Fox Mexico,Fox México,
+Canal 5 Mexico,Canal 5 México,
