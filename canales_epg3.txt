@@ -1,4 +1,4 @@
 # Fuente: https://raw.githubusercontent.com/Soyunpelotilla/EPG/refs/heads/main/guide.xml
-FOX+ MX,FOX+ MX,
-FOX MX,FOX MX,
-Canal 5 MX,Canal 5 MX,
+fox_mexico,Canal Fox México,https://imagenes.gatotv.com/logos/canales/oscuros/fox-mediano.png
+fox_plus_centroamerica,FOX+ Centroamérica,https://imagenes.gatotv.com/logos/canales/oscuros/fox_plus-mediano.png
+5_mexico,Canal 5 México (XHGC),https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png
