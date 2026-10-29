@@ -1190,6 +1190,27 @@
     <display-name>ESPN 4 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png" />
   </channel>
+  <channel id="FOX MX">
+    <display-name>FOX MX SD</display-name>
+    <display-name>FOX MX HD</display-name>
+    <display-name>FOX MX FHD</display-name>
+    <display-name>FOX MX 4K</display-name>
+    <icon src="https://emby.tmsimg.com/assets/GNLZZGG0027PYSD.png" />
+  </channel>
+  <channel id="FOX+ MX">
+    <display-name>FOX+ MX SD</display-name>
+    <display-name>FOX+ MX HD</display-name>
+    <display-name>FOX+ MX FHD</display-name>
+    <display-name>FOX+ MX 4K</display-name>
+    <icon src="https://emby.tmsimg.com/sources/generic/generic_sources_h5.png" />
+  </channel>
+  <channel id="Canal 5 MX">
+    <display-name>Canal 5 MX SD</display-name>
+    <display-name>Canal 5 MX HD</display-name>
+    <display-name>Canal 5 MX FHD</display-name>
+    <display-name>Canal 5 MX 4K</display-name>
+    <icon src="https://emby.tmsimg.com/assets/s116152_ld_h15_aa.png" />
+  </channel>
   <channel id="DSPORTS">
     <display-name>DSPORTS SD</display-name>
     <display-name>DSPORTS HD</display-name>
@@ -122118,6 +122139,218 @@
     <title>NCAAF Saturday Night Football</title>
     <desc>Sin detalles...</desc>
 	</programme>
+  <programme start="20261028200000 +0000" stop="20261028210000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <desc lang="es">Programación de FOX MX: FOX 365</desc>
+  </programme>
+  <programme start="20261028210000 +0000" stop="20261028220000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <desc lang="es">Programación de FOX MX: Cuadro titular</desc>
+  </programme>
+  <programme start="20261028220000 +0000" stop="20261028230000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <desc lang="es">Programación de FOX MX: FOX 365</desc>
+  </programme>
+  <programme start="20261028230000 +0000" stop="20261029000000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <desc lang="es">Programación de FOX MX: Cuadro titular</desc>
+  </programme>
+  <programme start="20261029000000 +0000" stop="20261029010000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo</title>
+    <desc lang="es">Programación de FOX MX: Los espartanos con José Pablo</desc>
+  </programme>
+  <programme start="20261029010000 +0000" stop="20261029030000 +0000" channel="FOX MX">
+    <title lang="es">El chiringuito</title>
+    <desc lang="es">Programación de FOX MX: El chiringuito</desc>
+  </programme>
+  <programme start="20261029030000 +0000" stop="20261029040000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo</title>
+    <desc lang="es">Programación de FOX MX: Los espartanos con José Pablo</desc>
+  </programme>
+  <programme start="20261029040000 +0000" stop="20261029050000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <desc lang="es">Programación de FOX MX: FOX 365</desc>
+  </programme>
+  <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="FOX MX">
+    <title lang="es">Cuadro titular</title>
+    <desc lang="es">Programación de FOX MX: Cuadro titular</desc>
+  </programme>
+  <programme start="20261029060000 +0000" stop="20261029070000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo</title>
+    <desc lang="es">Programación de FOX MX: Los espartanos con José Pablo</desc>
+  </programme>
+  <programme start="20261029070000 +0000" stop="20261029080000 +0000" channel="FOX MX">
+    <title lang="es">FOX 365</title>
+    <desc lang="es">Programación de FOX MX: FOX 365</desc>
+  </programme>
+  <programme start="20261029080000 +0000" stop="20261029091500 +0000" channel="FOX MX">
+    <title lang="es">El chiringuito</title>
+    <desc lang="es">Programación de FOX MX: El chiringuito</desc>
+  </programme>
+  <programme start="20261029091500 +0000" stop="20261029094500 +0000" channel="FOX MX">
+    <title lang="es">Bundesliga weekly</title>
+    <desc lang="es">Programación de FOX MX: Bundesliga weekly</desc>
+  </programme>
+  <programme start="20261029094500 +0000" stop="20261029130000 +0000" channel="FOX MX">
+    <title lang="es">Al Riyadh vs. Al Qadsiah</title>
+    <desc lang="es">Programación de FOX MX: Al Riyadh vs. Al Qadsiah</desc>
+  </programme>
+  <programme start="20261029130000 +0000" stop="20261029140000 +0000" channel="FOX MX">
+    <title lang="es">Mother Soccer</title>
+    <desc lang="es">Programación de FOX MX: Mother Soccer</desc>
+  </programme>
+  <programme start="20261029140000 +0000" stop="20261029150000 +0000" channel="FOX MX">
+    <title lang="es">Referentes</title>
+    <desc lang="es">Programación de FOX MX: Referentes</desc>
+  </programme>
+  <programme start="20261029150000 +0000" stop="20261029153000 +0000" channel="FOX MX">
+    <title lang="es">Los espartanos con José Pablo</title>
+    <desc lang="es">Programación de FOX MX: Los espartanos con José Pablo</desc>
+  </programme>
+  <programme start="20261029153000 +0000" stop="20261029160000 +0000" channel="FOX MX">
+    <title lang="es">Fox NFL Thursday Night Footbal</title>
+    <desc lang="es">Programación de FOX MX: Fox NFL Thursday Night Footbal</desc>
+  </programme>
+  <programme start="20261029160000 +0000" stop="20261029193000 +0000" channel="FOX MX">
+    <title lang="es">Panthers vs. Green Bay</title>
+    <desc lang="es">Programación de FOX MX: Panthers vs. Green Bay</desc>
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261028213000 +0000" channel="FOX MX">
+    <title lang="es">NFL game day</title>
+    <desc lang="es">Programación de FOX MX: NFL game day</desc>
+  </programme>
+  <programme start="20261028200000 +0000" stop="20261028203000 +0000" channel="FOX+ MX">
+    <title lang="es">Highlights Fox</title>
+    <desc lang="es">Programación de FOX+ MX: Highlights Fox</desc>
+  </programme>
+  <programme start="20261028203000 +0000" stop="20261028210000 +0000" channel="FOX+ MX">
+    <title lang="es">Highlights Fox</title>
+    <desc lang="es">Programación de FOX+ MX: Highlights Fox</desc>
+  </programme>
+  <programme start="20261028210000 +0000" stop="20261029000000 +0000" channel="FOX+ MX">
+    <title lang="es">NASCAR Oreily the Progress Group 250</title>
+    <desc lang="es">Programación de FOX+ MX: NASCAR Oreily the Progress Group 250</desc>
+  </programme>
+  <programme start="20261029000000 +0000" stop="20261029020000 +0000" channel="FOX+ MX">
+    <title lang="es">Comunicaciones vs. Antigua GFC</title>
+    <desc lang="es">Programación de FOX+ MX: Comunicaciones vs. Antigua GFC</desc>
+  </programme>
+  <programme start="20261029020000 +0000" stop="20261029030000 +0000" channel="FOX+ MX">
+    <title lang="es">Lucha libre AAA</title>
+    <desc lang="es">Programación de FOX+ MX: Lucha libre AAA</desc>
+  </programme>
+  <programme start="20261029030000 +0000" stop="20261029060000 +0000" channel="FOX+ MX">
+    <title lang="es">Tampa Bay Rays vs. Milwaukee Brewers</title>
+    <desc lang="es">Programación de FOX+ MX: Tampa Bay Rays vs. Milwaukee Brewers</desc>
+  </programme>
+  <programme start="20261029060000 +0000" stop="20261029080000 +0000" channel="FOX+ MX">
+    <title lang="es">Friburgo vs. Bayern Munich</title>
+    <desc lang="es">Programación de FOX+ MX: Friburgo vs. Bayern Munich</desc>
+  </programme>
+  <programme start="20261029080000 +0000" stop="20261029100000 +0000" channel="FOX+ MX">
+    <title lang="es">Tijuana vs. Santos Laguna</title>
+    <desc lang="es">Programación de FOX+ MX: Tijuana vs. Santos Laguna</desc>
+  </programme>
+  <programme start="20261029100000 +0000" stop="20261029120000 +0000" channel="FOX+ MX">
+    <title lang="es">Al Nassr Riyadh vs. Al Kholood</title>
+    <desc lang="es">Programación de FOX+ MX: Al Nassr Riyadh vs. Al Kholood</desc>
+  </programme>
+  <programme start="20261029120000 +0000" stop="20261029140000 +0000" channel="FOX+ MX">
+    <title lang="es">AD San Carlos vs. Dep. Saprissa</title>
+    <desc lang="es">Programación de FOX+ MX: AD San Carlos vs. Dep. Saprissa</desc>
+  </programme>
+  <programme start="20261029140000 +0000" stop="20261029160000 +0000" channel="FOX+ MX">
+    <title lang="es">Águila vs. FAS</title>
+    <desc lang="es">Programación de FOX+ MX: Águila vs. FAS</desc>
+  </programme>
+  <programme start="20261029160000 +0000" stop="20261029180000 +0000" channel="FOX+ MX">
+    <title lang="es">Xelajú vs. Municipal</title>
+    <desc lang="es">Programación de FOX+ MX: Xelajú vs. Municipal</desc>
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261028200000 +0000" channel="FOX+ MX">
+    <title lang="es">Tampa Bay Rays vs. Milwaukee Brewers</title>
+    <desc lang="es">Programación de FOX+ MX: Tampa Bay Rays vs. Milwaukee Brewers</desc>
+  </programme>
+  <programme start="20261028210000 +0000" stop="20261028220000 +0000" channel="Canal 5 MX">
+    <title lang="es">América vs. Tijuana En Vivo</title>
+    <desc lang="es">Programación de Canal 5 MX: América vs. Tijuana En Vivo</desc>
+  </programme>
+  <programme start="20261028220000 +0000" stop="20261029010000 +0000" channel="Canal 5 MX">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Programación de Canal 5 MX: Infomerciales</desc>
+  </programme>
+  <programme start="20261029010000 +0000" stop="20261029013000 +0000" channel="Canal 5 MX">
+    <title lang="es">Cronicas</title>
+    <desc lang="es">Programación de Canal 5 MX: Cronicas</desc>
+  </programme>
+  <programme start="20261029013000 +0000" stop="20261029023000 +0000" channel="Canal 5 MX">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Programación de Canal 5 MX: Infomerciales</desc>
+  </programme>
+  <programme start="20261029023000 +0000" stop="20261029030000 +0000" channel="Canal 5 MX">
+    <title lang="es">Especial de R.T.C</title>
+    <desc lang="es">Programación de Canal 5 MX: Especial de R.T.C</desc>
+  </programme>
+  <programme start="20261029030000 +0000" stop="20261029040000 +0000" channel="Canal 5 MX">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Programación de Canal 5 MX: Infomerciales</desc>
+  </programme>
+  <programme start="20261029040000 +0000" stop="20261029043000 +0000" channel="Canal 5 MX">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+    <desc lang="es">Programación de Canal 5 MX: PJ Masks: Héroes en Pijamas</desc>
+  </programme>
+  <programme start="20261029043000 +0000" stop="20261029050000 +0000" channel="Canal 5 MX">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Programación de Canal 5 MX: Peppa Pig</desc>
+  </programme>
+  <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="Canal 5 MX">
+    <title lang="es">Bely y Beto</title>
+    <desc lang="es">Programación de Canal 5 MX: Bely y Beto</desc>
+  </programme>
+  <programme start="20261029060000 +0000" stop="20261029063000 +0000" channel="Canal 5 MX">
+    <title lang="es">Ve, perro. ¡Ve!</title>
+    <desc lang="es">Programación de Canal 5 MX: Ve, perro. ¡Ve!</desc>
+  </programme>
+  <programme start="20261029063000 +0000" stop="20261029070000 +0000" channel="Canal 5 MX">
+    <title lang="es">Tiny Toons Looniversidad</title>
+    <desc lang="es">Programación de Canal 5 MX: Tiny Toons Looniversidad</desc>
+  </programme>
+  <programme start="20261029070000 +0000" stop="20261029080000 +0000" channel="Canal 5 MX">
+    <title lang="es">Kung Fu Panda La Leyenda Po</title>
+    <desc lang="es">Programación de Canal 5 MX: Kung Fu Panda La Leyenda Po</desc>
+  </programme>
+  <programme start="20261029080000 +0000" stop="20261029093000 +0000" channel="Canal 5 MX">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <desc lang="es">Programación de Canal 5 MX: Los Pingüinos de Madagascar</desc>
+  </programme>
+  <programme start="20261029093000 +0000" stop="20261029110000 +0000" channel="Canal 5 MX">
+    <title lang="es">Scooby-Doo y ¿Quién Crees Tú?</title>
+    <desc lang="es">Programación de Canal 5 MX: Scooby-Doo y ¿Quién Crees Tú?</desc>
+  </programme>
+  <programme start="20261029110000 +0000" stop="20261029123000 +0000" channel="Canal 5 MX">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Programación de Canal 5 MX: Bob Esponja</desc>
+  </programme>
+  <programme start="20261029123000 +0000" stop="20261029140000 +0000" channel="Canal 5 MX">
+    <title lang="es">El chavo animado</title>
+    <desc lang="es">Programación de Canal 5 MX: El chavo animado</desc>
+  </programme>
+  <programme start="20261029140000 +0000" stop="20261029153000 +0000" channel="Canal 5 MX">
+    <title lang="es">Zombeavers castores zombies</title>
+    <desc lang="es">Programación de Canal 5 MX: Zombeavers castores zombies</desc>
+  </programme>
+  <programme start="20261029153000 +0000" stop="20261029170000 +0000" channel="Canal 5 MX">
+    <title lang="es">Contrato de Corazones</title>
+    <desc lang="es">Programación de Canal 5 MX: Contrato de Corazones</desc>
+  </programme>
+  <programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="Canal 5 MX">
+    <title lang="es">Contrato de Corazones</title>
+    <desc lang="es">Programación de Canal 5 MX: Contrato de Corazones</desc>
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261028200000 +0000" channel="Canal 5 MX">
+    <title lang="es">Me caigo de risa</title>
+    <desc lang="es">Programación de Canal 5 MX: Me caigo de risa</desc>
+  </programme>
 	<programme start="20261029000000 +0000" stop="20261029003000 +0000" channel="DSPORTS">
     <title>Magazine CONMEBOL Sudamericana</title>
     <desc>(Soccer) Sin detalles...</desc>
@@ -128627,35 +128860,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20261029000000 +0000" stop="20261029010000 +0000" channel="FOX MX">
-    <title lang="es">Cuadro titular</title>
-    <desc lang="es">Programación de Fox MX: Cuadro titular</desc>
-  </programme>
-  <programme start="20261029010000 +0000" stop="20261029020000 +0000" channel="FOX MX">
-    <title lang="es">FOX 365</title>
-    <desc lang="es">Programación de Fox MX: FOX 365</desc>
-  </programme>
   <programme start="20261029020000 +0000" stop="20261029030000 +0000" channel="FOX MX">
-    <title lang="es">Cuadro titular</title>
-    <desc lang="es">Programación de Fox MX: Cuadro titular</desc>
-  </programme>
-  <programme start="20261029030000 +0000" stop="20261029040000 +0000" channel="FOX MX">
-    <title lang="es">Los espartanos con José Pablo</title>
-    <desc lang="es">Programación de Fox MX: Los espartanos con José Pablo</desc>
-  </programme>
-  <programme start="20261029040000 +0000" stop="20261029060000 +0000" channel="FOX MX">
-    <title lang="es">El chiringuito</title>
-    <desc lang="es">Programación de Fox MX: El chiringuito</desc>
-  </programme>
-  <programme start="20261029060000 +0000" stop="20261029070000 +0000" channel="FOX MX">
-    <title lang="es">Los espartanos con José Pablo</title>
-    <desc lang="es">Programación de Fox MX: Los espartanos con José Pablo</desc>
-  </programme>
-  <programme start="20261029070000 +0000" stop="20261029080000 +0000" channel="FOX MX">
-    <title lang="es">FOX 365</title>
-    <desc lang="es">Programación de Fox MX: FOX 365</desc>
-  </programme>
-  <programme start="20261029080000 +0000" stop="20261029090000 +0000" channel="FOX MX">
     <title lang="es">Cuadro titular</title>
     <desc lang="es">Programación de Fox MX: Cuadro titular</desc>
   </programme>
@@ -128678,10 +128883,6 @@
   <programme start="20261029124500 +0000" stop="20261029160000 +0000" channel="FOX MX">
     <title lang="es">Al Riyadh vs. Al Qadsiah</title>
     <desc lang="es">Programación de Fox MX: Al Riyadh vs. Al Qadsiah</desc>
-  </programme>
-  <programme start="20261029160000 +0000" stop="20261029170000 +0000" channel="FOX MX">
-    <title lang="es">Mother Soccer</title>
-    <desc lang="es">Programación de Fox MX: Mother Soccer</desc>
   </programme>
   <programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="FOX MX">
     <title lang="es">Referentes</title>
@@ -128707,21 +128908,9 @@
     <title lang="es">FOX 365</title>
     <desc lang="es">Programación de Fox MX: FOX 365</desc>
   </programme>
-  <programme start="20261029000000 +0000" stop="20261029030000 +0000" channel="FOX+ MX">
-    <title lang="es">NASCAR Oreily the Progress Group 250</title>
-    <desc lang="es">Programación de FOX+ MX: NASCAR Oreily the Progress Group 250</desc>
-  </programme>
-  <programme start="20261029030000 +0000" stop="20261029050000 +0000" channel="FOX+ MX">
-    <title lang="es">Comunicaciones vs. Antigua GFC</title>
-    <desc lang="es">Programación de FOX+ MX: Comunicaciones vs. Antigua GFC</desc>
-  </programme>
   <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="FOX+ MX">
     <title lang="es">Lucha libre AAA</title>
     <desc lang="es">Programación de FOX+ MX: Lucha libre AAA</desc>
-  </programme>
-  <programme start="20261029060000 +0000" stop="20261029090000 +0000" channel="FOX+ MX">
-    <title lang="es">Tampa Bay Rays vs. Milwaukee Brewers</title>
-    <desc lang="es">Programación de FOX+ MX: Tampa Bay Rays vs. Milwaukee Brewers</desc>
   </programme>
   <programme start="20261029090000 +0000" stop="20261029110000 +0000" channel="FOX+ MX">
     <title lang="es">Friburgo vs. Bayern Munich</title>
@@ -128755,69 +128944,21 @@
     <title lang="es">Contacto deportivo En Vivo</title>
     <desc lang="es">Programación de Canal 5 MX: Contacto deportivo En Vivo</desc>
   </programme>
-  <programme start="20261029010000 +0000" stop="20261029040000 +0000" channel="Canal 5 MX">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Programación de Canal 5 MX: Infomerciales</desc>
-  </programme>
-  <programme start="20261029040000 +0000" stop="20261029043000 +0000" channel="Canal 5 MX">
-    <title lang="es">Cronicas</title>
-    <desc lang="es">Programación de Canal 5 MX: Cronicas</desc>
-  </programme>
-  <programme start="20261029043000 +0000" stop="20261029053000 +0000" channel="Canal 5 MX">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Programación de Canal 5 MX: Infomerciales</desc>
-  </programme>
   <programme start="20261029053000 +0000" stop="20261029060000 +0000" channel="Canal 5 MX">
     <title lang="es">Especial de R.T.C</title>
     <desc lang="es">Programación de Canal 5 MX: Especial de R.T.C</desc>
-  </programme>
-  <programme start="20261029060000 +0000" stop="20261029070000 +0000" channel="Canal 5 MX">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Programación de Canal 5 MX: Infomerciales</desc>
-  </programme>
-  <programme start="20261029070000 +0000" stop="20261029073000 +0000" channel="Canal 5 MX">
-    <title lang="es">PJ Masks: Héroes en Pijamas</title>
-    <desc lang="es">Programación de Canal 5 MX: PJ Masks: Héroes en Pijamas</desc>
   </programme>
   <programme start="20261029073000 +0000" stop="20261029080000 +0000" channel="Canal 5 MX">
     <title lang="es">Peppa Pig</title>
     <desc lang="es">Programación de Canal 5 MX: Peppa Pig</desc>
   </programme>
-  <programme start="20261029080000 +0000" stop="20261029090000 +0000" channel="Canal 5 MX">
-    <title lang="es">Bely y Beto</title>
-    <desc lang="es">Programación de Canal 5 MX: Bely y Beto</desc>
-  </programme>
   <programme start="20261029090000 +0000" stop="20261029093000 +0000" channel="Canal 5 MX">
     <title lang="es">Ve, perro. ¡Ve!</title>
     <desc lang="es">Programación de Canal 5 MX: Ve, perro. ¡Ve!</desc>
   </programme>
-  <programme start="20261029093000 +0000" stop="20261029100000 +0000" channel="Canal 5 MX">
-    <title lang="es">Tiny Toons Looniversidad</title>
-    <desc lang="es">Programación de Canal 5 MX: Tiny Toons Looniversidad</desc>
-  </programme>
   <programme start="20261029100000 +0000" stop="20261029110000 +0000" channel="Canal 5 MX">
     <title lang="es">Kung Fu Panda La Leyenda Po</title>
     <desc lang="es">Programación de Canal 5 MX: Kung Fu Panda La Leyenda Po</desc>
-  </programme>
-  <programme start="20261029110000 +0000" stop="20261029123000 +0000" channel="Canal 5 MX">
-    <title lang="es">Los Pingüinos de Madagascar</title>
-    <desc lang="es">Programación de Canal 5 MX: Los Pingüinos de Madagascar</desc>
-  </programme>
-  <programme start="20261029123000 +0000" stop="20261029140000 +0000" channel="Canal 5 MX">
-    <title lang="es">Scooby-Doo y ¿Quién Crees Tú?</title>
-    <desc lang="es">Programación de Canal 5 MX: Scooby-Doo y ¿Quién Crees Tú?</desc>
-  </programme>
-  <programme start="20261029140000 +0000" stop="20261029153000 +0000" channel="Canal 5 MX">
-    <title lang="es">Bob Esponja</title>
-    <desc lang="es">Programación de Canal 5 MX: Bob Esponja</desc>
-  </programme>
-  <programme start="20261029153000 +0000" stop="20261029170000 +0000" channel="Canal 5 MX">
-    <title lang="es">El chavo animado</title>
-    <desc lang="es">Programación de Canal 5 MX: El chavo animado</desc>
-  </programme>
-  <programme start="20261029170000 +0000" stop="20261029183000 +0000" channel="Canal 5 MX">
-    <title lang="es">Zombeavers castores zombies</title>
-    <desc lang="es">Programación de Canal 5 MX: Zombeavers castores zombies</desc>
   </programme>
   <programme start="20261029183000 +0000" stop="20261029200000 +0000" channel="Canal 5 MX">
     <title lang="es">Contrato de Corazones</title>
@@ -131609,39 +131750,7 @@ En Vivo</title>
     <title lang="es">Cleatus Fantasy Football Show</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20261028200000 +0000" stop="20261028210000 +0000" channel="FOX MX">
-    <title lang="es">Los espartanos con José Pablo Coello</title>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261028210000 +0000" stop="20261028220000 +0000" channel="FOX MX">
-    <title lang="es">Mother Soccer</title>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261028220000 +0000" stop="20261028230000 +0000" channel="FOX MX">
-    <title lang="es">Referentes</title>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261028230000 +0000" stop="20261029000000 +0000" channel="FOX MX">
-    <title lang="es">MLB: Previa</title>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="FOX MX">
-    <title lang="es">Cuadro titular</title>
-    <category lang="es">Deportes</category>
-  </programme>
   <programme start="20261029120000 +0000" stop="20261029130000 +0000" channel="FOX MX">
-    <title lang="es">FOX 365</title>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261029130000 +0000" stop="20261029140000 +0000" channel="FOX MX">
-    <title lang="es">Cuadro titular</title>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261029140000 +0000" stop="20261029150000 +0000" channel="FOX MX">
-    <title lang="es">Los espartanos con José Pablo Coello</title>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="FOX MX">
     <title lang="es">FOX 365</title>
     <category lang="es">Deportes</category>
   </programme>
