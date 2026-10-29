@@ -144,7 +144,10 @@ for linea in "${canales[@]}"; do
         sed -i '$!N;/^\(.*\)\n\1$/!P;D' EPG_temp1.xml
 
         sed -n "/<programme.*\"${old}\"/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
-        sed -i "s/channel=\"${old}\"/channel=\"${new}\"/g" EPG_temp02.xml
+        sed -i '/<programme/s/\">.*/\"/g' EPG_temp02.xml
+        sed -i "s# channel=\"${old}\"##g" EPG_temp02.xml
+        sed -i "/<programme/a EPG_temp channel=\"${new}\">" EPG_temp02.xml
+        sed -i ':a;N;$!ba;s/\nEPG_temp//g' EPG_temp02.xml
   
 		if [[ "$offset" =~ ^[+-]?[0-9]+$ ]]; then
 			echo " └─► Ajustando hora en el canal $new ($offset horas)"
