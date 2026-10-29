@@ -184,11 +184,11 @@ ESPN,ESPN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/
 ESPN 2,ESPN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png
 ESPN 3,ESPN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
 ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
-FOX,FOX MX,https://emby.tmsimg.com/assets/GNLZZGG0027PYSD.png
-FOX+,FOX+ MX,https://emby.tmsimg.com/sources/generic/generic_sources_h5.png
+FOX,FOX MX,https://emby.tmsimg.com/assets/GNLZZGG0027PYSD.png,-4
+FOX+,FOX+ MX,https://emby.tmsimg.com/sources/generic/generic_sources_h5.png,-4
 0439,Fox Sports Premium,https://emby.tmsimg.com/assets/s123582_ld_h15_aa.png
 16464,Azteca 7 MX,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
-Canal 5,Canal 5 MX,https://emby.tmsimg.com/assets/s116152_ld_h15_aa.png
+Canal 5,Canal 5 MX,https://emby.tmsimg.com/assets/s116152_ld_h15_aa.png,-4
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
