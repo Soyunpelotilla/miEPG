@@ -1,573 +1,190 @@
-# Fuente: https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion
-0000,Sin información disponible,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
-0001,Programación Variada,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0001.jpg
-0002,PPV Eventos,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0002.jpg
-0101,Telecanal,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0101.jpg
-0102,La Red,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0102.jpg
-0103,TV Más,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0103.jpg
-0104,TVN,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0104.jpg
-0105,Mega,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0105.jpg
-0106,Chilevisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0106.jpg
-0107,Canal 13,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0107.jpg
-0108,UCV TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0108.jpg
-0109,Mega 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0109.jpg
-0110,TVR,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0110.jpg
-0111,Zona Latina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0111.jpg
-0112,Via X,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0112.jpg
-0113,13c,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0113.jpg
-0114,13 Rec,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0114.jpg
-0115,UChile TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0115.jpg
-0116,TV Chile,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0116.jpg
-0117,TVN 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0117.jpg
-0118,Suyai TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0118.jpg
-0119,DOCU,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0119.jpg
-0120,Vía X 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0120.jpg
-0121,Mega Ficción,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0121.jpg
-0122,El 3 de Conce,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0122.jpg
-0123,Bombi TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0123.jpg
-0124,ISB - Iglesia en San Bernardo,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0124.jpg
-0125,MiRadio TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0125.jpg
-0126,Antofagasta TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0126.jpg
-0127,Visión Plus TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0127.jpg
-0128,Arica TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0128.jpg
-0129,Lanco TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0129.jpg
-0130,TVO San Vicente de Tagua Tagua,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0130.jpg
-0131,ATV Valdivia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0131.jpg
-0132,Iquique TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0132.jpg
-0133,Canal 2 San Antonio,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0133.jpg
-0134,SextaVisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0134.jpg
-0135,UCV2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0135.jpg
-0137,Hobikka TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0137.jpg
-0138,Tevex,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0138.jpg
-0139,ContiVisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0139.jpg
-0140,El Pingüino TV Punta Arenas,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0140.jpg
-0141,Patagonia Radio TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0141.jpg
-0142,TV Senado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0142.jpg
-0143,Cámara de Diputados Televisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0143.jpg
-0144,Holvoet TV Copiapó,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0144.jpg
-0145,ITV Patagonia,https://i.ibb.co/2398QXvX/0145.jpg
-0146,Radio América TV La Serena,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0146.jpg
-0147,TV USACH,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0147.jpg
-0148,Telecanal Santa Cruz,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0148.jpg
-0149,Canal VTV Los Andes,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0149.jpg
-1149,Canal VTV Quillota,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0149.jpg
-0150,Sur TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0150.jpg
-0151,Calama TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0151.jpg
-0152,TV Más 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0152.jpg
-0153,Canal 9 Bío-Bío Televisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0153.jpg
-0154,Orbita TV Chile,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0154.jpg
-0155,Canal TVU,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0155.jpg
-0156,UESTV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0156.jpg
-0157,UTalca TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0157.jpg
-0158,Ruidos TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0158.jpg
-0159,Puranoticia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0159.jpg
-0160,13 Realities,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0160.jpg
-0161,13 Cultura,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0161.jpg
-0162,13 Pop,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0162.jpg
-0163,13 Festival,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0163.jpg
-0164,13 Teleseries,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0164.jpg
-0165,Nativa TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0165.jpg
-0166,Chilevisión Contigo,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0166.jpg
-0167,Marga Marga TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0167.jpg
-0168,Thema TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0168.jpg
-0169,Canal 2 Vallenar,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0169.jpg
-0170,TV 2 Choapa,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0170.jpg
-0171,Girovisual,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0171.jpg
-0172,Vox Populi Chile,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0172.jpg
-0173,En Linea Maule,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0173.jpg
-0174,TV5 Linares,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0174.jpg
-0175,TeleAngol,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0175.jpg
-0176,Pucón TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0176.jpg
-0177,T-ViNet TV Digital,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0177.jpg
-0178,Décima TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0178.jpg
-0179,Canal 2 Quellón,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0179.jpg
-0180,CHV de Culto,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0180.jpg
-0181,Porcel TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0181.jpg
-0182,AE Radio,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0182.jpg
-0183,Agricultura TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0183.jpg
-0184,Canal 15 TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0184.jpg
-0185,Romántica TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0185.jpg
-0186,La Nuestra Radio Streaming,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0186.jpg
-0187,Radio Hoy,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0187.jpg
-0188,Radio Infinita,https://i.ibb.co/35sNhXQS/0188.jpg
-0189,La Metro,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0189.jpg
-0190,Polar TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0190.jpg
-0191,Soberanía TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0191.jpg
-0201,Canal 24 Horas,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0201.jpg
-0202,CNN Chile,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0202.jpg
-0203,BíoBío TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0203.jpg
-0204,Telesur,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0204.jpg
-0205,DW Español,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0205.jpg
-0206,France 24 Español,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0206.jpg
-0207,CHV Noticias,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0207.jpg
-0208,Meganoticias,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0208.jpg
-0209,RT Español,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0209.png
-0210,CNN en Español,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0210.jpg
-0211,DNews,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0211.jpg
-0212,NTN 24,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0212.jpg
-0213,EuroNews,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0213.jpg
-0214,T13 en Vivo,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0214.jpg
-0215,CNN International,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0215.jpg
-0216,BBC News,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0216.jpg
-0217,Fox News Channel,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0217.jpg
-0218,TVE 24h,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0218.jpg
-0219,NHK World,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0219.jpg
-1219,NHK World Premium,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0219.jpg
-0220,Rai Italia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0220.jpg
-0221,CGTN Español,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0221.jpg
-0222,América 24,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0222.jpg
-0223,Al Jazeera • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0223.jpg
-1223,Al Jazeera • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0223.jpg
-0224,TV5 Monde,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0224.jpg
-0225,Arirang TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0225.jpg
-0226,Megatiempo,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0226.jpg
-0301,NTV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0301.jpg
-0302,ETC TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0302.jpg
-0303,Nickelodeon • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0303.jpg
-1303,Nickelodeon • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0303.jpg
-0304,Disney Channel • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0304.jpg
-1304,Disney Channel • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0304.jpg
-0305,Cartoon Network • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0305.jpg
-1305,Cartoon Network • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0305.jpg
-0306,ZooMoo,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0306.jpg
-0307,Nick Jr,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0307.jpg
-0308,Tooncast,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0308.jpg
-0309,DreamWorks TV,https://i.ibb.co/CpT58kY5/0309.jpg
-0310,BabyFirst TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0310.jpg
-0311,Disney Junior • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0311.jpg
-1311,Disney Junior • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0311.jpg
-0312,Pakapaka,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0312.jpg
-0313,EnerGeek,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0313.jpg
-0314,EnerGeek FAN,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0314.jpg
-0315,Canal Infantil,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0315.jpg
-0316,Baby TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0316.jpg
-0317,Plim Plim TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0317.jpg
-0318,BitMe,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0318.jpg
-0319,FunBox,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0319.jpg
-0320,Senpai TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0320.jpg
-0321,Kidoo,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0321.jpg
-0322,Vía X eSports,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0322.jpg
-0323,Discovery Kids • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0323.jpg
-1323,Discovery Kids • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0323.jpg
-0324,Cartoonito,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0324.jpg
-0325,FMH Animotion,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0325.jpg
-0329,Fix y Foxi,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0329.jpg
-0401,TNT Sports Premium Chile,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0401.jpg
-0402,TNT Sports Premium 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0402.jpg
-0403,TNT Sports,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0403.jpg
-0404,TNT Sports Premium Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0404.jpg
-0405,BeIN Sports Español,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0405.jpg
-0406,BeIN Sports Xtra Español,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0406.jpg
-0407,NBA TV • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0407.jpg
-1407,NBA TV • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0407.jpg
-0408,Liga 1 Max • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0408.jpg
-0409,TyC Sports • LATAM,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0409.jpg
-1409,TyC Sports • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0409.jpg
-2409,TyC Sports 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0409.jpg
-3409,TyC Sports 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0409.jpg
-0410,Teletrak TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0410.jpg
-0411,ESPN • Chile,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0411.jpg
-1411,ESPN • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0411.jpg
-2411,ESPN • Cono Sur,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0411.jpg
-3411,ESPN • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0411.jpg
-4411,ESPN • Centro,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0411.jpg
-5411,ESPN • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0411.jpg
-0412,ESPN 2 • Chile,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0412.jpg
-1412,ESPN 2 • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0412.jpg
-2412,ESPN 2 • Cono Sur,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0412.jpg
-3412,ESPN 2 • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0412.jpg
-4412,ESPN 2 • Norte,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0412.jpg
-5412,ESPN 2 • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0412.jpg
-6412,ESPN 2 • LATAM,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0412.jpg
-0413,ESPN 3 • Cono Sur,https://i.ibb.co/7dFHm7cM/0413.jpg
-1413,ESPN 3 • Norte,https://i.ibb.co/7dFHm7cM/1413.jpg
-2413,ESPN 3 • Argentina,https://i.ibb.co/7dFHm7cM/2413.jpg
-0414,ESPN 4 • Cono Sur,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0414.jpg
-1414,ESPN 4 • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0414.jpg
-2414,ESPN 4 • Centro,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0414.jpg
-0415,ESPN 5 • Chile,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0415.jpg
-1415,ESPN 5 • Cono Sur,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0415.jpg
-2415,ESPN 5 • Norte,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0415.jpg
-3415,ESPN 5 • LATAM,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0415.jpg
-0416,ESPN 6 • América Latina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0416.jpg
-0417,ESPN 7 • América Latina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0417.jpg
-0418,ESPN Premium • Chile,https://i.ibb.co/20hxZhgQ/0418.jpg
-1418,ESPN Premium • Argentina,https://i.ibb.co/20hxZhgQ/1418.jpg
-2418,ESPN Deportes,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/2418.jpg
-0419,Claro Sports • América Latina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0419.jpg
-0420,Claro Sports 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0420.jpg
-0421,CDO 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0421.jpg
-0422,CDO Premium,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0422.jpg
-0423,Adrenalina Sports Network,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0423.jpg
-0424,DAZN F1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0424.jpg
-0425,Sky One,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0425.jpg
-0426,Sky Sports 1 • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0426.jpg
-1426,Sky Sports 16 • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0426.jpg
-2426,Sky Sports 24 • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0426.jpg
-0427,Eurosport 1 • España,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0427.jpg
-0428,Eurosport 2 • España,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0428.jpg
-0429,Win Sports • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0429.jpg
-0430,Win Sports Plus • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0430.jpg
-0431,DSports • América Latina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0431.jpg
-1431,DSports • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0431.jpg
-2431,DSports • Chile,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0431.jpg
-0432,DSports 2 • América Latina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0432.jpg
-1432,DSports 2 • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0432.jpg
-2432,DSports 2 • Chile,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0432.jpg
-0433,DSports Plus • América Latina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0433.jpg
-1433,DSports Plus • Chile,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0433.jpg
-1436,Fox Sports • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0436.jpg
-1437,Fox Sports 2 • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/1437.jpg
-1438,Fox Sports 3 • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0438.jpg
-0436,Fox Sports • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0436.jpg
-0437,Fox Sports 2 • México,https://i.ibb.co/Qvt14W5t/0437.jpg
-0438,Fox Sports 3 • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0438.jpg
-0439,Fox Sports Premium • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0439.jpg
-0440,Fox Deportes • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0440.jpg
-0441,TUDN • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0441.jpg
-1441,TUDN • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0441.jpg
-0442,Azteca Deportes • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0442.jpg
-0444,UFC,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0444.jpg
-0445,Tennis Channel • USA,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0445.jpg
-0446,Golf Channel • Latin America,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0446.jpg
-0447,RedBull TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0447.jpg
-0448,DSports Básico,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0448.jpg
-0449,DSports Premium,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0449.jpg
-0501,Stingray IConcerts,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0501.png
-0502,MTV Latino,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0502.png
-0503,Concert Channel,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0503.jpg
-0504,HTV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0504.jpg
-0505,Kids Stars,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0505.jpg
-0507,TeleHit,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0507.jpg
-0508,Telehit Música,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0508.jpg
-0509,Telehit Música Plus,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0509.jpg
-0510,Quiero Música en mi Idioma,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0510.jpg
-0511,MTV Live • USA,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0511.jpg
-0515,Teleritmo,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0515.jpg
-0516,Bandamax,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0516.jpg
-0517,Mi Música Hits,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0517.jpg
-0518,Mi Música KPop,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0518.jpg
-0519,Mi Música Romántica,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0519.jpg
-0520,Mi Música Popular,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0520.jpg
-0521,Mi Música Reggaetón,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0521.jpg
-0522,Mi Música Salsa,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0522.jpg
-0526,Karavana TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0526.jpg
-0527,Karavana Urbano,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0527.jpg
-0528,OLD Music,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0528.jpg
-0529,KPOP,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0529.jpg
-0530,Exa TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0530.jpg
-0531,MTV U,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0531.jpg
-0532,MTV Classic,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0532.jpg
-0533,Allegro,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0533.jpg
-0534,CM El canal de la música,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0534.jpg
-0535,VM Latino,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0535.jpg
-0536,Carolina TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0536.jpg
-0537,Carolina TV 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0537.jpg
-0538,Claro Música Sin Límites,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0538.jpg
-0539,OH! Jazz,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0539.jpg
-0540,Rumba TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0540.jpg
-0541,Telenostalgia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0541.jpg
-0542,TierraMia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0542.jpg
-0543,Music TOP,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0543.jpg
-0544,Video Rola,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0544.jpg
-0601,Discovery Home &amp; Health • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0601.jpg
-1601,Discovery Home &amp; Health • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0601.jpg
-2601,Discovery Home &amp; Health • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0601.jpg
-0602,Discovery Turbo,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0602.jpg
-0603,HGTV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0603.jpg
-0604,Investigation Discovery • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0604.jpg
-1604,Investigation Discovery • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0604.jpg
-2604,Investigation Discovery • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0604.jpg
-0605,Love Nature,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0605.jpg
-0606,E! Entertainment TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0606.jpg
-0607,Discovery World,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0607.jpg
-0608,Food Network • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0608.jpg
-1608,Food Network • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0608.jpg
-2608,Food Network • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0608.jpg
-0609,Lifetime • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0609.jpg
-1609,Lifetime • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0609.jpg
-0610,El Gourmet • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0610.jpg
-1610,El Gourmet • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0610.jpg
-2610,El Gourmet • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0610.jpg
-0611,Tlnovelas • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0611.jpg
-1611,Tlnovelas • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0611.jpg
-0612,Kanal D Drama,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0612.png
-0613,Pasiones • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0613.jpg
-1613,Pasiones • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0613.jpg
-0614,Sun Channel,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0614.jpg
-0615,Telemundo Internacional • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0615.jpg
-1615,Telemundo Internacional • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0615.jpg
-0616,Univisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0616.jpg
-0617,Galavisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0617.jpg
-0618,Atreseries • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0618.jpg
-1618,Atreseries • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0618.jpg
-2618,Atreseries • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0618.jpg
-0619,AMC Series,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0619.jpg
-0620,ARTV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0620.jpg
-0621,Eurochannel,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0621.jpg
-0622,Europa Europa,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0622.jpg
-0623,Enlace,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0623.jpg
-0624,Enlace Juvenil,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0624.jpg
-0625,EWTN • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0625.jpg
-1625,EWTN • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0625.jpg
-0626,Nuevo Tiempo,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0626.jpg
-0627,MaríaVisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0627.jpg
-0628,Bethel,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0628.jpg
-0629,Canal Luz,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0629.jpg
-0630,Azteca Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0630.jpg
-0631,Az Corazón,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0631.jpg
-0632,UCL TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0632.jpg
-0633,IVC Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0633.jpg
-0634,Unicable,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0634.jpg
-0635,Az Clic,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0635.jpg
-0636,TVE Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0636.jpg
-0637,Star TVE,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0637.jpg
-0638,ESNE TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0638.jpg
-0639,Cristovisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0639.jpg
-0640,Unife,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0640.jpg
-0641,Discovery Familia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0641.jpg
-0642,UniMás • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0642.jpg
-1642,UniMás • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0642.jpg
-0643,HispanTV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0643.jpg
-0644,Novelísima,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0644.jpg
-0646,Universo • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0646.jpg
-1646,Universo • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0646.jpg
-0647,Telemundo Puerto Rico,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0647.jpg
-0648,El Garage TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0648.jpg
-0701,Discovery Channel • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0701.jpg
-1701,Discovery Channel • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0701.jpg
-2701,Discovery Channel • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0701.jpg
-3701,Discovery Channel • Feed 4,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0701.jpg
-0702,National Geographic • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0702.jpg
-2702,National Geographic • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0702.jpg
-0703,Discovery Science,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0703.jpg
-0704,Discovery Theater,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0704.jpg
-0705,Animal Planet • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0705.jpg
-1705,Animal Planet • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0705.jpg
-2705,Animal Planet • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0705.jpg
-0706,History Channel • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0706.jpg
-1706,History Channel • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0706.jpg
-2706,History Channel • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0706.jpg
-0707,History 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0707.jpg
-0708,TLC • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0708.jpg
-1708,TLC • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0708.jpg
-2708,TLC • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0708.jpg
-3708,TLC • Feed 4,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0708.jpg
-0709,Atlas,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0709.jpg
-0710,¡Hola! TV • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0710.jpg
-1710,¡Hola! TV • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0710.jpg
-0711,Curiosity Stream,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0711.jpg
-0712,13 Viajes,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0712.jpg
-0713,13 Cocina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0713.jpg
-0714,13 Deportes,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0714.jpg
-0715,INTI,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0715.jpg
-0716,Teatrix,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0716.jpg
-0801,Star Channel • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0801.jpg
-1801,Star Channel • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0801.jpg
-2801,Star Channel • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0801.jpg
-3801,Star Channel • Feed 4,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0801.jpg
-0802,Canal DHE,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0802.jpg
-0804,Universal TV • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0804.jpg
-1804,Universal TV • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0804.jpg
-0805,TNT • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0805.jpg
-1805,TNT • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0805.jpg
-2805,TNT • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0805.jpg
-3805,TNT • Feed 4,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0805.jpg
-0806,Sony Channel • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0806.jpg
-1806,Sony Channel • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0806.jpg
-2806,Sony Channel • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0806.jpg
-3806,Sony Channel • Feed 4,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0806.jpg
-0807,TCM,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0807.jpg
-0808,A&amp;E • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0808.jpg
-1808,A&amp;E • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0808.jpg
-0809,USA Network,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0809.jpg
-0810,Sony Movies • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0810.jpg
-1810,Sony Movies • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0810.jpg
-2810,Sony Movies • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0810.jpg
-0811,FX • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0811.jpg
-1811,FX • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0811.jpg
-0812,Comedy Central,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0812.jpg
-0813,HBO • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0813.jpg
-1813,HBO • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0813.jpg
-2813,HBO • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0813.jpg
-3813,HBO • Feed 4,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0813.jpg
-0814,HBO 2 • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0814.jpg
-1814,HBO 2 • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0814.jpg
-0815,HBO Plus,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0815.jpg
-0816,HBO Family,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0816.jpg
-0817,HBO Signature,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0817.jpg
-0818,HBO Mundi,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0818.jpg
-0819,HBO Pop,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0819.jpg
-0820,HBO Xtreme,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0820.jpg
-0821,Golden • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0821.jpg
-1821,Golden • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0821.jpg
-2821,Golden • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0821.jpg
-0822,Golden Plus,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0822.jpg
-0823,Golden Edge • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0823.jpg
-1823,Golden Edge • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0823.jpg
-0824,Golden Premier,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0824.jpg
-1824,Golden Premier 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0824.jpg
-0825,Cine Familiar,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0825.jpg
-0826,Cine Hispano,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0826.jpg
-0827,Cine Premium,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0827.jpg
-0828,Cine Latino,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0828.jpg
-0829,Space • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0829.jpg
-1829,Space • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0829.jpg
-3829,Space • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0829.jpg
-0830,De Película • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0830.jpg
-1830,De Película • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0830.jpg
-0831,Clover Channel,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0831.jpg
-0832,Warner Channel • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0832.jpg
-1832,Warner Channel • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0832.jpg
-0833,TNT Series • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0833.jpg
-1833,TNT Series • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0833.jpg
-2833,TNT Series • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0833.jpg
-0834,Studio Universal • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0834.jpg
-1834,Studio Universal • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0834.jpg
-2834,Studio Universal • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0834.jpg
-0835,TNT Novelas,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0835.jpg
-0836,AMC • Feed 1,https://i.ibb.co/D6Wq8Xj/0836.jpg
-1836,AMC • Feed 2,https://i.ibb.co/D6Wq8Xj/1836.jpg
-0837,Las Estrellas • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0837.jpg
-1837,Las Estrellas • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0837.jpg
-2837,Las Estrellas • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0837.jpg
-3837,Las Estrellas • Feed 4,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0837.jpg
-0838,MultiPremier,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0838.jpg
-0839,Multicinema,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0839.jpg
-0840,Cinemax • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0840.jpg
-1840,Cinemax • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0840.jpg
-0841,Universal Cinema • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0841.png
-1841,Universal Cinema • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0841.png
-0842,Universal Crime • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0842.png
-1842,Universal Crime • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0842.png
-0843,Universal Reality,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0843.png
-0844,Universal Premiere • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0844.png
-1844,Universal Premiere • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0844.png
-0845,Universal Comedy • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0845.png
-1845,Universal Comedy • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0845.png
-0846,Cinecanal • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0846.jpg
-1846,Cinecanal • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0846.jpg
-0847,AXN • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0847.jpg
-1847,AXN • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0847.jpg
-2847,AXN • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0847.jpg
-3847,AXN • Feed 4,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0847.jpg
-0848,Az Cinema,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0848.jpg
-0850,Adult Swim • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0850.jpg
-1850,Adult Swim • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0850.jpg
-0851,Film &amp; Arts • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0851.jpg
-1851,Film &amp; Arts • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0851.jpg
-0852,FMH Movies,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0852.jpg
-0853,FMH Family,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0853.jpg
-0854,FMH Kids,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0854.jpg
-0855,Pánico,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0855.jpg
-0856,Antena 3 Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0856.jpg
-0857,Canal Claro,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0857.jpg
-0858,Claro Cinema,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0858.jpg
-0859,Mórbido TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0859.jpg
-0863,Five Star Max,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0863.jpg
-0864,Action Max,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0864.jpg
-0865,More Max,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0865.jpg
-0866,Daystar en Español,https://i.ibb.co/HDq7G2N1/0866.jpg
-0867,De Película Clásico,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0867.jpg
-0868,De Película Plus,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0868.jpg
-0870,A3 Cine,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0870.jpg
-0901,TV Max • Panamá,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0901.jpg
-0902,Caracol TV • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0902.jpg
-1902,Caracol TV • Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0902.jpg
-0903,TV Pública • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0903.jpg
-0904,LN Más • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0904.jpg
-0905,TN • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0905.jpg
-0906,TV Globo Brasil • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0906.jpg
-1906,TV Globo Brasil • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0906.jpg
-2906,TV Globo Brasil • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0906.jpg
-0907,Multivisión Federal • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0907.jpg
-0908,Tele 10 • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0908.jpg
-0909,Telefe • Buenos Aires, Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0909.jpg
-1909,Telefe • Córdoba, Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0909.jpg
-2909,Telefe • Rosario, Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0909.jpg
-3909,Telefe • Santa Fe, Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0909.jpg
-4909,Telefe • Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0909.jpg
-0910,Latina • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0910.jpg
-0911,Canal 11 de Salta • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0911.jpg
-0912,Argentinísima Satelital • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0912.jpg
-0913,Canal 5 • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0913.jpg
-0914,A La Cocina TV • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0914.jpg
-0915,El Trece • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0915.jpg
-0916,El Nueve • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0916.jpg
-0917,Canal 26 • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0917.jpg
-0918,Metro • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0918.jpg
-0919,Canal de la Ciudad • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0919.jpg
-0920,Encuentro • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0920.jpg
-0921,PBO • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0921.jpg
-0922,IP Noticias • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0922.jpg
-0923,24-7 Canal de Noticias • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0923.jpg
-0924,Canal Rural • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0924.jpg
-0925,Telediario • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0925.jpg
-0926,T5 Satelital • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0926.jpg
-0927,DeporTV • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0927.jpg
-0928,Azteca Uno • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0928.jpg
-0929,Azteca 7 • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0929.jpg
-0930,Canal 6 Multimedios TV • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0930.jpg
-0931,Imagen Televisión • México,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0931.jpg
-0932,C5N Canal 5 Noticias • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0932.jpg
-0933,Canal 5 TV Nacional • Uruguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0933.jpg
-0934,Crónica TV • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0934.jpg
-0935,América TV • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0935.jpg
-0936,Ciudad Magazine • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0936.jpg
-0937,Telemax • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0937.jpg
-0938,Canal 7 Santiago del Estero • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0938.jpg
-0939,Net TV • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0939.jpg
-0940,Canal 12 Córdoba • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0940.jpg
-0941,Canal 10 Córdoba • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0941.jpg
-0942,Doce TV Posadas • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0942.jpg
-0943,Canal RCN • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0943.jpg
-0944,Teleislas • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0944.jpg
-0945,City TV • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0945.jpg
-0946,Trece • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0946.jpg
-0947,Telecafé • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0947.jpg
-0948,Telecaribe • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0948.jpg
-0949,Telepacífico • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0949.jpg
-0950,Canal TRO • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0950.jpg
-0951,TV Agro • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0951.jpg
-0952,Teleamiga • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0952.jpg
-0953,Telemedellín • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0953.jpg
-0954,Telelima • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0954.jpg
-0955,América TV • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0955.jpg
-0956,ATB • Bolivia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0956.jpg
-0957,PAT • Bolivia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0957.jpg
-0958,RTP • Bolivia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0958.jpg
-0959,Cadena A • Bolivia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0959.jpg
-0960,F10 • Bolivia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0960.jpg
-0961,Gigavisión • Bolivia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0961.jpg
-0962,Canal 14 de Tic • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0962.jpg
-0963,Alpha Media TV • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0963.jpg
-0964,+Perfil • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0964.jpg
-0965,TEST TRACE LATINA FEED CL7302,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0965.jpg
-0966,TEST DITU REDBULL,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0966.jpg
-0967,TEST DITU CARACOL KIDS,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0967.jpg
-0968,TEST DITU CARACOL SPORTS,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0968.jpg
-0969,TEST DITU CARACOL MIX,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0969.jpg
-0970,América TV • Paraguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0970.jpg
-0971,Estación 40 • Paraguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0971.jpg
-0973,ZTV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0973.jpg
-0974,ZTV 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0974.jpg
-0975,ZKids,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0975.jpg
-0976,AVI,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0976.jpg
-0977,AVI Rewind,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0977.jpg
-0978,AVI Kids,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0978.jpg
-0979,AVI Toons,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0979.jpg
-0980,AVI Action,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0980.jpg
-0981,AVI Horizon,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0981.jpg
-0982,AVI Garage,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0982.jpg
-0983,AVI Music,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0983.jpg
-0984,AVI Concert,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0984.jpg
-XXX0,Canal para adultos • Portal adultos,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX0.jpg
-XXX1,Playboy TV • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX1.jpg
-XXX2,Venus • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX2.jpg
-XXX3,Sextreme • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX3.jpg
-XXX4,Hustler TV • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX4.jpg
-XXX5,Brazzer TV • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX5.jpg
-XXX6,Juicy • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX6.jpg
-XXX7,Penthouse • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX7.jpg
-XXX8,XTSY • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX8.jpg
-XXX9,Sexy Hot • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX9.jpg
+# Fuente: https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/es.xml.gz
+ESBC4100001NZ,La 1,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20261026T043200SQUARE.png
+ESBD3000002GP,Canal Sur Andalucía,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20260528T055720SQUARE.png
+ESBC4100002AG,La 2,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20260622T063715SQUARE.png
+ES300030ZT,Telemadrid,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300030ZT_20261013T054835SQUARE.png
+ES300004C9,Sony One Shark Tank,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20260528T055651SQUARE.png
+ESAJ3800006TT,MTV Cribs,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241106T142236SQUARE.png
+ESAJ380000226,MTV Originals,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png
+ES3300004P0,RTVE Saber y Ganar,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300004P0_20250819T033238SQUARE.png
+ES3800002V5,Dhar Mann TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800002V5_20251111T011933SQUARE.png
+ES7000056Z,Yu-Gi-Oh!,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000056Z_20250408T021823SQUARE.png
+ES1400001T8,Beyblade,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20241106T142204SQUARE.png
+ES300029LP,Anime Visión,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png
+ES3000288I,Anime Visión Classics,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png
+ES2100003VE,Inazuma Eleven,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2100003VE_20260818T050632SQUARE.png
+ES4300001K6,Chicas Guapas TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300001K6_20251125T101421SQUARE.png
+ES26000025M,¡Hola! Play,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png
+ES4100001XD,Mark Rober TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100001XD_20251111T011941SQUARE.png
+ESBC3500002PW,Ideas en 5 Minutos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png
+ES42000022E,Xataka,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES42000022E_20251202T002550SQUARE.png
+ES18000040D,BBC Lifestyle,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES18000040D_20260929T040939SQUARE.png
+ESBD1300004IG,Azteca Internacional,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png
+ESBA3300033PL,Encantador de Perros,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png
+ES120000498,Quantum Makers,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES120000498_20260707T051019SQUARE.png
+ESBC4700003RJ,Teen Vee,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20241106T142207SQUARE.png
+ES1200005Z1,H2O &amp; Friends,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1200005Z1_20260505T085421SQUARE.png
+ES26000068D,Estilo y Vida – Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20260707T050942SQUARE.png
+ES4700001VS,2M,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20260224T030748SQUARE.png
+ES4300006I4,El Mueble,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20260915T035803SQUARE.png
+ES4400002LI,Mi Casa,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400002LI_20260707T050954SQUARE.png
+ES1700003C6,CJ ENM K-Novela en Español,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20260915T035734SQUARE.png
+ES400002P5,Cuéntame cómo pasó,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20260707T050933SQUARE.png
+ES3300006QL,RTVE La Promesa,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20261026T043207SQUARE.png
+ES33000036Q,RTVE La Moderna,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20260901T054134SQUARE.png
+ES500005BP,Águila Roja,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250610T010520SQUARE.png
+ESBD1300003VN,Corazón,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png
+ES440000327,Todo Drama,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES440000327_20260915T035905SQUARE.png
+ES2900001DQ,BBC Series,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20251013T053428SQUARE.png
+ES300003D4,Sony One Éxitos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20260421T123722SQUARE.png
+ES300005EL,Sony One The Blacklist,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20261026T043223SQUARE.png
+ES30000145,Sony One Series Comedia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20260421T123717SQUARE.png
+ES2900002JG,Los Gipsy Kings - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900002JG_20250923T011554SQUARE.png
+ES200040YF,Series K DRAMA,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200040YF_20260127T040143SQUARE.png
+ESBD4100001DU,K-Drama+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4100001DU_20261006T033900SQUARE.png
+ES200041FT,Series K COMEDIA ROMÁNTICA,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png
+ES900001SH,Mr Bean Animated,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png
+ESBC4100004J1,24H,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260929T040931SQUARE.png
+ES300034BT,Actualidad 360,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260818T050609SQUARE.png
+ESBD3400001AA,Negocios TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20260407T040053SQUARE.png
+ES260000968,Euronews EN DIRECTO,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20260707T050947SQUARE.png
+ESBC39000033J,El País,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241106T142306SQUARE.png
+ESBC1400001L8,El Confidencial,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png
+ESBD190000137,CNN Headlines International,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20260331T032325SQUARE.png
+ESBD36000026Z,CNBC,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20260317T034118SQUARE.png
+ES2300004XW,Al Jazeera,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300004XW_20251118T015346SQUARE.png
+ESBC400003YM,NBC News NOW,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20241106T142315SQUARE.png
+ES34000039I,CNN en Español,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20260622T063630SQUARE.png
+ES3400004SS,Sky News International,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400004SS_20250624T020505SQUARE.png
+ESBD1100001PQ,FRANCE 24 FAST,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1100001PQ_20241106T142311SQUARE.png
+ES1300001QC,DW,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300001QC_20250902T003627SQUARE.png
+ESBA3300024AJ,Bloomberg TV+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20260421T123714SQUARE.png
+ESBA3300029UG,El Comisario,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png
+ES80000246,Los asesinatos de Midsomer,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES80000246_20260811T161506SQUARE.png
+ES2600001MC,Forensic Files,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20250722T005647SQUARE.png
+ES1600004JV,Todo Crimen,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png
+ES33000025N,Crimen &amp; Historia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20250715T004330SQUARE.png
+ESBD3700001S0,DATELINE 24/7,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20241022T051012SQUARE.png
+ES3300001MC,Crimenes Reales,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300001MC_20241210T052636SQUARE.png
+ES2600005G9,Crimen - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png
+ES45000012U,Alerta Cobra,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES45000012U_20251202T002544SQUARE.png
+ESBD2600001ME,Tennis Channel,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20250923T011606SQUARE.png
+ES30000091V,MyPadel TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png
+ES20000065W,Tennis+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES20000065W_20260113T032333SQUARE.png
+ES3800001V1,Red Bull TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png
+ES4300004JP,Rugby Challenge,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300004JP_20260120T031337SQUARE.png
+ESBC410000577,Teledeporte,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20260622T063739SQUARE.png
+ES3200003OC,DFB Play TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200003OC_20251230T030907SQUARE.png
+ES3500003JZ,Real Madrid TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3500003JZ_20261013T054816SQUARE.png
+ES1100001MT,Top Barça,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1100001MT_20260929T041008SQUARE.png
+ESBC2700009B4,FIFA+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20251028T011349SQUARE.png
+ES31000013F,INTER 24/7,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES31000013F_20260324T034829SQUARE.png
+ESBD3200001EG,Motorvision,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20241022T051031SQUARE.png
+ES51000017V,Rally.TV FAST+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES51000017V_20260120T031334SQUARE.png
+ES3400002PY,Surf Channel,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png
+ESBD2900001P9,World Poker Tour,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png
+ESBC4100003WE,Clan,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20260622T063701SQUARE.png
+ES5000001CS,LooLoo Kids,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES5000001CS_20250218T035957SQUARE.png
+ESBD130000205,Pitufo TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png
+ES17000065P,BABY SHARK TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20260915T035727SQUARE.png
+ES4800002OZ,Caillou,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png
+ESBC3900004ED,Pocoyó,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20250211T014050SQUARE.png
+ESBC4700001GR,duckTV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png
+ES4400005EJ,Cry Babies,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400005EJ_20251209T004308SQUARE.png
+ES1600007AI,Teletubbies,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600007AI_20260721T035643SQUARE.png
+ESBD5100001G0,SuperToons TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20250729T045047SQUARE.png
+ESBD3200002V5,La Abeja Maya,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20250307T152147SQUARE.png
+ES340000152,Video Game Heroes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES340000152_20250326T013206SQUARE.png
+ESBD2300003S5,Rabbids : La invasion,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20251013T053506SQUARE.png
+ESBA33000324U,Rugrats,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png
+ESBA33000262Z,Bob Esponja,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250307T152119SQUARE.png
+ES4400001N3,Las 3 Mellizas,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400001N3_20260421T125609SQUARE.png
+ES2100002BU,Pingu,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2100002BU_20260901T054127SQUARE.png
+ESAJ38000046O,Pluto TV Kids,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png
+ESBA3300028OE,iCarly,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png
+ES2200003DA,Runtime Clásicos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200003DA_20261026T043217SQUARE.png
+ESBD800001RJ,Cine Friki,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20261026T043146SQUARE.png
+ES700004C8,Runtime Familia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20260127T040120SQUARE.png
+ES260001081,En Familia - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251230T030900SQUARE.png
+ESBC1700004PX,Trailers,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png
+ESBA2200004G5,MyTime Movie Network,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20260127T040117SQUARE.png
+ESBC2700011AZ,Cines Verdi TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png
+ESAJ3800001KT,Pluto TV Cine Estelar,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png
+ESBC400001QQ,Runtime,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png
+ES2600013H4,Películas Top - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png
+ES2600003UM,Películas de Drama - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20260707T051011SQUARE.png
+ES4200001MR,Moviesphere,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4200001MR_20261013T054750SQUARE.png
+ESBD800004KU,Runtime Romance,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260804T051244SQUARE.png
+ES2600012C9,Películas Románticas - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png
+ES900002ZD,Todo Pasión,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900002ZD_20250422T103210SQUARE.png
+ESBC2700012RP,Cine Feel Good – Verdi TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png
+ESBD8000033W,Runtime Comedia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20250722T005652SQUARE.png
+ES260000700,Comedia - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png
+ES300007KS,Sony One Hits Comedia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20260421T123731SQUARE.png
+ESBC2700002LO,Grjngo - Películas Del Oeste,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20260310T031628SQUARE.png
+ES2300005G7,Cine Western,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png
+ESBC2700003T8,Bigtime - Películas Gratis,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png
+ES500008IU,FreeTV Clásico,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500008IU_20260901T054052SQUARE.png
+ES2800001G7,Planeta de Cine,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png
+ES3000008O8,Cine Español - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png
+ES170000433,NEW K-MOVIES,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES170000433_20251013T053454SQUARE.png
+ESBC40000248,Action Movie Channel,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20250107T024921SQUARE.png
+ES500004NO,Sci-Fi - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png
+ES2600004BD,Acción - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20260707T050928SQUARE.png
+ES4100002WB,Halloween - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100002WB_20261013T054744SQUARE.png
+ESBD80000288,Runtime Acción,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20260915T035850SQUARE.png
+ES33000058B,RTVE Somos Cine,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20260915T035838SQUARE.png
+ES300006QJ,Sony One Hits Acción,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20260707T051040SQUARE.png
+ESBC2100002LV,Vevo Latino,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20260707T051048SQUARE.png
+ESBD230000289,Vevo Retro,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png
+ESBC2100001IU,Vevo Pop,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png
+ESBA3300042Y6,Trace Latina,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png
+ESBA3300043M0,Trace Urban,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png
+ES1200003SI,Concerto,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1200003SI_20260528T055728SQUARE.png
+ESBD2300004Y7,Sol Música,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png
+ES2500001F9,Cool Summer Channel,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png
+ES4400004OX,Metal.Rocks,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400004OX_20260609T043006SQUARE.png
+ES700006IP,Rolling Stones Takeover,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700006IP_20260707T052836SQUARE.png
+ES32000027M,CLIPS don't lie,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250729T045050SQUARE.png
+ES1700005ME,NEW KPOP,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png
+ES3900001QG,CJ ENM K-POP,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20260915T035740SQUARE.png
+ES1000001EF,SMTOWN,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20260929T040926SQUARE.png
+ESBA1500001C4,Deluxe Lounge HD,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20260915T043012SQUARE.png
+ES190000224,Cozy Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES190000224_20260528T055738SQUARE.png
+ES1900003JT,Storm Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1900003JT_20260528T055908SQUARE.png
+ES1800006ZS,Rainy Day Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800006ZS_20260528T055835SQUARE.png
+ES1800009VX,Fall Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800009VX_20261006T033907SQUARE.png
+ES1800007GH,Island Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800007GH_20260528T055756SQUARE.png
+ES1800008X7,Ocean Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800008X7_20260528T055815SQUARE.png
+ES2200001SF,Fireplace Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20260609T042949SQUARE.png
+ESAJ3800007PC,Pluto TV Cocina,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png
+ES300033TI,Viajes &amp; Sabores,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png
+ESBC27000040I,Journy TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20260818T051644SQUARE.png
+ES33000079W,RTVE Cocina,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20260721T035618SQUARE.png
+ES1800003JN,BBC Food,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800003JN_20261020T053446SQUARE.png
+ES24000028L,Ice Pilots,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png
+ES1600002QL,La Fiebre del Jade,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png
+ES2700002YP,Top Gear,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250805T005824SQUARE.png
+ES2800002MM,Mayday: Catástrofe Aérea,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png
+ES1400002CJ,CURIOSITY Now,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400002CJ_20250527T014616SQUARE.png
+ES12000024R,Historia y Vida,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20261026T043153SQUARE.png
+ES1800005H2,BBC Historia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800005H2_20261006T033919SQUARE.png
+ESBD1400003QN,Royalworld - Nobleza y Dinastias,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260210T035856SQUARE.png
+ES3200001F1,BBC Earth,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260804T051214SQUARE.png
+ESBA22000102A,NatureTime,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png
+ESBA330004121,WildEarth,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png
+ES1600003FF,Planeta Salvaje,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20260421T125606SQUARE.png
+ESBC4700002TD,Love the Planet,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250722T005644SQUARE.png
+ES3100002GL,Terra Mater Wild,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3100002GL_20261026T043232SQUARE.png
+ESBC170000388,WaterBear,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png
+ES7000088K,Space Live,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000088K_20260901T054146SQUARE.png
+ESBC43000013T,Todo Novelas,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20241106T142336SQUARE.png
+ES3600001Y7,Rebelde,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260622T063730SQUARE.png
+ES2900003S3,Piel Salvaje,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900003S3_20251111T011943SQUARE.png
+ES1600006S8,LOL España,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600006S8_20260721T035558SQUARE.png
+ESAJ3800005C5,Comedia Made in Spain,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png
+ESAJ3800003LX,MTV Catfish,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20241022T050742SQUARE.png
+ESBA1400006NP,FailArmy,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20260210T035845SQUARE.png
+ESAJ4500023Y5,People Are Awesome,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20241022T050750SQUARE.png
+ESAJ4500016BH,The Pet Collective,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20241022T050852SQUARE.png
+ESBC2700008SK,Just For Laughs,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png
