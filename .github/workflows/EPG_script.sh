@@ -1,4 +1,4 @@
-#!/bash
+#!/bin/bash
 # ============================================================================== 
 # Script: miEPG.sh 
 # Versión: 3.6
@@ -144,10 +144,7 @@ for linea in "${canales[@]}"; do
         sed -i '$!N;/^\(.*\)\n\1$/!P;D' EPG_temp1.xml
 
         sed -n "/<programme.*\"${old}\"/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
-        sed -i '/<programme/s/\">.*/\"/g' EPG_temp02.xml
-        sed -i "s# channel=\"${old}\"##g" EPG_temp02.xml
-        sed -i "/<programme/a EPG_temp channel=\"${new}\">" EPG_temp02.xml
-        sed -i ':a;N;$!ba;s/\nEPG_temp//g' EPG_temp02.xml
+        sed -i "s/channel=\"${old}\"/channel=\"${new}\"/g" EPG_temp02.xml
   
 		if [[ "$offset" =~ ^[+-]?[0-9]+$ ]]; then
 			echo " └─► Ajustando hora en el canal $new ($offset horas)"
@@ -255,88 +252,6 @@ date_stamp=$(date +"%d/%m/%Y %R")
     
     echo '</tv>'
 } > miEPG.xml
-
-# ==============================================================================
-# BLOQUE AUTOMÁTICO: Ajuste de Zona Horaria para miEPG.xml
-# Este bloque se ejecuta después de generar miEPG.xml.
-# Lee los offsets de canales.txt y aplica las horas correctas (ej. +6 para México a España).
-# Cambia la etiqueta +0000 por +0100 (Hora invierno en Cáceres/Extremadura).
-# No depende de módulos Perl externos, usa awk.
-# ==============================================================================
-
-echo "=== Ajustando zona horaria en miEPG.xml ==="
-
-while IFS=, read -r ch_id ch_name ch_logo ch_offset; do
-    # Si el offset está vacío, pasamos al siguiente canal
-    [ -z "$ch_offset" ] && continue
-    
-    # Limpiamos el offset de posibles espacios
-    offset=$(echo "$ch_offset" | tr -d ' ')
-    [ -z "$offset" ] && continue
-    
-    # Limpiamos el nombre del canal de espacios extra
-    ch_name_clean=$(echo "$ch_name" | sed 's/^ *//;s/ *$//')
-    
-    echo "  -> Procesando: $ch_name_clean (Offset: $offset horas)"
-    
-    # Usamos awk para modificar el archivo XML
-    # El patrón busca start="AÑOMMDDHHMMSS +ZZZZ" y stop="..."
-    # y suma 'off' horas, cambiando +ZZZZ por +0100.
-    awk -v off="$offset" -v ch="$ch_name_clean" '
-    /<programme/ {
-        # Buscamos si la línea actual contiene el nombre del canal
-        if ($0 ~ ch) {
-            # --- Modificar start ---
-            if (match($0, /start="([0-9]{14}) [+-][0-9]+"/, arr)) {
-                # Extraemos hora y minutos de la posición 9-14 (14 chars total: AAAAMMDDHHMMSS)
-                # substr(arr[1], 9, 2) es la hora (ej. 06)
-                # substr(arr[1], 11, 2) son los minutos (ej. 00)
-                hora_actual = substr(arr[1], 9, 2) + 0
-                min_actual = substr(arr[1], 11, 2) + 0
-                
-                # Sumamos el offset recibido desde el bucle bash
-                hora_nueva = hora_actual + off
-                
-                # Ajuste simple para no saldarnos de las 23:59 (restamos 24 si pasamos)
-                if (hora_nueva > 23) hora_nueva = hora_nueva - 24
-                if (hora_nueva < 0) hora_nueva = 24 + hora_nueva
-                
-                # Formateamos la nueva hora con cero a la izquierda
-                nueva_hora = sprintf("%02d", hora_nueva)
-                
-                # Reemplazamos el atributo start.
-                # Sintaxis: start="AAAAMMDDHHMMSS +ZZZZ"
-                # Sustituimos la hora y los minutos, y forzamos +0100 (Invierno España).
-                # substr(arr[1], 1, 8) da la fecha AAAAMMDD.
-                # Añadimos la nueva hora y los minutos originales.
-                nuevo_start = sprintf("start=\"%s%02d%02d +0100\"", substr(arr[1], 1, 8), hora_nueva, min_actual)
-                $0 = gensub(/start="[0-9]{14} [+-][0-9]+"/, nuevo_start, "g", $0)
-            }
-            
-            # --- Modificar stop (mismo principio) ---
-            if (match($0, /stop="([0-9]{14}) [+-][0-9]+"/, arrS)) {
-                hora_s = substr(arrS[1], 9, 2) + 0
-                min_s = substr(arrS[1], 11, 2) + 0
-                hora_nueva_s = hora_s + off
-                
-                if (hora_nueva_s > 23) hora_nueva_s = hora_nueva_s - 24
-                if (hora_nueva_s < 0) hora_nueva_s = 24 + hora_nueva_s
-                
-                nueva_hora_s = sprintf("%02d", hora_nueva_s)
-                
-                nuevo_stop = sprintf("stop=\"%s%02d%02d +0100\"", substr(arrS[1], 1, 8), hora_nueva_s, min_s)
-                $0 = gensub(/stop="[0-9]{14} [+-][0-9]+"/, nuevo_stop, "g", $0)
-            }
-        }
-    }
-    { print }
-    ' miEPG.xml > miEPG_temp.xml && mv miEPG_temp.xml miEPG.xml
-
-done < canales.txt
-
-echo "=== Ajustes de zona horaria finalizados ==="
-
-# ==============================================================================
 
 echo "─── VALIDACION FINAL DEL XML ───"
 
