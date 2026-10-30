@@ -89172,11 +89172,6 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261030062536 +0000" stop="20261030082847 +0000" channel="Sony One Hits Comedia">
-    <title>Una Madre Imperfecta</title>
-    <desc>La cinta nos cuenta la historia de Marnie (Susan Sarandon), una viuda no acostumbrada a su nueva situación emocional que decide recoger sus cosas y trasladarse a Hollywood con el objetivo de estar más cerca de su hija. No obstante, y sin quererlo, comienza a interferir en la vida de ésta, Lori (Rose Byrne). Es entonces cuando se ve obligada a empezar de nuevo desde el principio en un lugar desconocido encontrando por el camino nuevos amigos, nuevas experiencias y nuevas personas que la necesitan.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1293997429_2_20251031T214703090Z_96_imageprocessorclient-tvplus-linear-5db7c6bc99-zslbq.jpeg"/>
-  </programme>
   <programme start="20261030082847 +0000" stop="20261030101850 +0000" channel="Sony One Hits Comedia">
     <title>Jack Y Su Gemela</title>
     <desc>Jack Sadelstein (Adam Sandler) es un exitoso publicista de Los Angeles casado con una hermosa mujer (Katie Holmes) y con hijos, que odia un determinado acontecimiento anual: la visita de su hermana gemela, Jill (también Adam Sandler). A Jack le vuelve loco lo absorbente que es Jill y su personalidad pasiva-agresiva, que ponen patas arriba su vida. Las cosas se escapan todavía más de su control cuando Jill decide alargar su visita. ¡Parece que no se marchará nunca!</desc>
@@ -89198,10 +89193,10 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20261030054152 +0000" stop="20261030073555 +0000" channel="Sony One Hits Acción">
-    <title>The Dark Tower (2017)</title>
-    <desc>Un mundo moribundo. Un paisaje del viejo oeste, donde el tiempo no corre de forma normal, donde ciudades y regiones enteras desaparecieron sin dejar rastro. El Pistolero Roland Deschain (Idris Elba), último miembro de una orden de caballería denominada los Pistoleros, inicia la búsqueda de un edificio mitológico conocido como La Torre Oscura. Según cuenta la leyenda, esta torre es el centro de convergencia de todos los universos.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1534361295_3_20260108T182642487Z_68_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.jpeg"/>
+  <programme start="20261030140434 +0000" stop="20261030155614 +0000" channel="Sony One Hits Comedia">
+    <title>Rumores Y Mentiras</title>
+    <desc>El guión, obra del dramaturgo Bert V. Royal, es una versión moderna y en clave estudiantil de “La letra escarlata”, la novela de Nathaniel Hawthorne. Narra la historia de una joven que decide fingir que lleva una vida promiscua, creyendo que así obtendrá algún tipo de beneficio. Sin embargo, las circunstancias se volverán en su contra.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1452656237_0_20251219T060532770Z_88_imageprocessorclient-tvplus-linear-85d7d49859-twtwh.jpeg"/>
     <rating>
       <value>12</value>
     </rating>
@@ -89226,6 +89221,14 @@
     <title>Ultravioleta</title>
     <desc>A finales del siglo XXI, surge una subcultura de seres humanos con una mutación genética: están dotados de una asombrosa velocidad, una increíble resistencia y una profunda inteligencia. A medida que hay más personas contagiadas, el temor del gobierno aumenta y a los mutantes se les trata como a marginados, se les somete a pruebas espantosas y se les pone en cuarentena. El gobierno ha tomado la determinación de acabar con ellos, pero una mujer está decidida a impedirlo: la ultrabella y ultraletal Violet. Gracias a sus impresionantes técnicas de artes marciales y a su capacidad camaleónica, Violet se convierte en una guerrera solitaria dedicada a proteger a su nueva raza y a vengarse de los que la crearon.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1294012877_4_20251031T214703304Z_36_imageprocessorclient-tvplus-linear-5db7c6bc99-xrkqv.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261030132821 +0000" stop="20261030152224 +0000" channel="Sony One Hits Acción">
+    <title>The Dark Tower (2017)</title>
+    <desc>Un mundo moribundo. Un paisaje del viejo oeste, donde el tiempo no corre de forma normal, donde ciudades y regiones enteras desaparecieron sin dejar rastro. El Pistolero Roland Deschain (Idris Elba), último miembro de una orden de caballería denominada los Pistoleros, inicia la búsqueda de un edificio mitológico conocido como La Torre Oscura. Según cuenta la leyenda, esta torre es el centro de convergencia de todos los universos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1534361295_3_20260108T182642487Z_68_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.jpeg"/>
     <rating>
       <value>12</value>
     </rating>
@@ -131396,6 +131399,19 @@ Wild World's 3rd stop takes the audience back to the north to the spectacular Ca
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FO7ZXXJ9NPFUQJG29DBJ.jpg/a:p/im:i:c_limit,w_1920/FO7ZXXJ9NPFUQJG29DBJ_reference_keyframe.jpg" />
 	</programme>
+  <programme start="20261030062536 +0000" stop="20261030082847 +0000" channel="Sony One Hits Comedia">
+    <title>Una Madre Imperfecta</title>
+    <desc>La cinta nos cuenta la historia de Marnie (Susan Sarandon), una viuda no acostumbrada a su nueva situación emocional que decide recoger sus cosas y trasladarse a Hollywood con el objetivo de estar más cerca de su hija. No obstante, y sin quererlo, comienza a interferir en la vida de ésta, Lori (Rose Byrne). Es entonces cuando se ve obligada a empezar de nuevo desde el principio en un lugar desconocido encontrando por el camino nuevos amigos, nuevas experiencias y nuevas personas que la necesitan.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1293997429_2_20251031T214703090Z_96_imageprocessorclient-tvplus-linear-5db7c6bc99-zslbq.jpeg"/>
+  </programme>
+  <programme start="20261030054152 +0000" stop="20261030073555 +0000" channel="Sony One Hits Acción">
+    <title>The Dark Tower (2017)</title>
+    <desc>Un mundo moribundo. Un paisaje del viejo oeste, donde el tiempo no corre de forma normal, donde ciudades y regiones enteras desaparecieron sin dejar rastro. El Pistolero Roland Deschain (Idris Elba), último miembro de una orden de caballería denominada los Pistoleros, inicia la búsqueda de un edificio mitológico conocido como La Torre Oscura. Según cuenta la leyenda, esta torre es el centro de convergencia de todos los universos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1534361295_3_20260108T182642487Z_68_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
   <programme start="20261030034321 +0000" stop="20261030053427 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>Redada Mortal</title>
     <episode-num system="original-air-date">20201001000000 +0000</episode-num>
