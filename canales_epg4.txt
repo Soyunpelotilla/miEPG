@@ -1,4 +1,0 @@
-# Fuente: https://raw.githubusercontent.com/Soyunpelotilla/EPG/refs/heads/main/guide.xml
-FOX MX,FOX MX,https://imagenes.gatotv.com/logos/canales/oscuros/fox-mediano.png
-FOX+ MX,FOX+ MX,https://imagenes.gatotv.com/logos/canales/oscuros/fox_plus-mediano.png
-Canal 5 MX,Canal 5 MX,https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png

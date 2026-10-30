@@ -4717,27 +4717,6 @@ Stan5.prmtv,PRMTV - Stan 5 PrimeTV,https://iptv-epg.org/images/obWMuTRhr77kjSntd
 Stan6.prmtv,PRMTV - Stan 6 PrimeTV,https://iptv-epg.org/images/2J9zcZcKEenjXDCSaxll3Lu72WFPt1yhchLsz4TTpbJbLXI73KCsp7RdLZp-tEeYdsZWjUJIiLWyZyNQiql_NEQ5rre26y6c8Xb8B7iN
 Stan7.prmtv,PRMTV - Stan 7 PrimeTV,https://iptv-epg.org/images/He-wA3xDiJUhJ3PLx0Rz2nr4gc6TEKf4CwAGe5JaDMkMpJHOYroxSn9BnaYHkjAaN76ypJFbP0z8asmqEK0wIjv6Th8O7Im3L6-0N1rQ
 Stan8.prmtv,PRMTV - Stan 8 PrimeTV,https://iptv-epg.org/images/X7b8WCukI_OWl-xkKNO40RQevOfzBOi-IwbjmFt1ZXMU7RAjL_ZZfMI1b024GSBbHwizXjYspuMwipbogxNLJTWgOISwykyaB3sP29Vt
-AltonRiverDragons.ProspectLeague,PROSPECTLEAGUE - Alton River Dragons,https://iptv-epg.org/images/fYSlZOQVWPLhzQsMz3x6NX8RWgv0IgcMcnxP5EfwvPNTlkzBf5gq42XFU2VmgyeNeTT_Mv3GnkTSp0FX7JBoa8Mwvi9p6W7MtKss4-lQBUm6j_lDiApJ5vqKYj40bf49oRL2
-BurlingtonBees.ProspectLeague,PROSPECTLEAGUE - Burlington Bees,https://iptv-epg.org/images/_eOTebSemlIz4fSFX-8bgcqmvU9esLHc0qPmUuW8uePa4q2TO3kEL7IIIRlGhvHhJ0n1t8cjGNgatG_mO7_libLYErvEMhShMKuYae4hqD13tqwg5EJI62euxTIi9xrQ
-CapeCatfish.ProspectLeague,PROSPECTLEAGUE - Cape Catfish,https://iptv-epg.org/images/BLbrEuafvM9WP2mWIi8oOCSR0RdN7YyGh22hWzr7_uQ-FV2WdVp44qJXQyqg2HQtdDCGiQMnl0Bv2CLRnGGM553lryjDiguJsN4lkRmrBrvUKzvA_844T94qpNIT
-ChampionCityHalfTrax.ProspectLeague,PROSPECTLEAGUE - Champion City Half Trax,https://iptv-epg.org/images/cbVacWD8Z-qBa2RK_WYfhf4QvKSVe9xU-8CDHqmmZ2pYYG2MjrGhWNEMc7F23LBVdS-shclnD7k3xPiea8crdK-MnATOj9pKZMFgPneoKluQm6h-Vh6LLM9M_eT1za9kh3rw9Rbw
-ChillicothePaints.ProspectLeague,PROSPECTLEAGUE - Chillicothe Paints,https://iptv-epg.org/images/vJNy1D9k4BIzdPsVBpYT9enCuDF-lZHUR7JXFEF9sVoVtKdtJxwrp4zRVjZ3D7__iCKPlxe7cEdvP_sO7zrayyuREF6SarQdj9Qf6OMLzxVAAO4xD-JV95IlFVHRWinoYey1
-ClintonLumberKings.ProspectLeague,PROSPECTLEAGUE - Clinton LumberKings,https://iptv-epg.org/images/5kdEHW0reAdK1En5EJ-R4jhzWiCpBlID_7CSmcmsQU9wmOywD_fzEo3zSgIxxahdFZhrx8ZmBYBG7aciaJMdCWbAqNQcO45eLlDg-j_uMZFRR88akfxTPBiObLmmqX-w0QOdlw
-DanvilleDans.ProspectLeague,PROSPECTLEAGUE - Danville Dans,https://iptv-epg.org/images/iw_QZJPSBaQYDBVumEItdR0WF1D3AlwtKuciG11N4lR9fiEa6Jzi1XYVeuofb5IW_h9PP8UBjinB0-BMZ2fe7m4tfHRvqQ66BNfWLVQjPn083TApbrUMRNVnlXDR4g
-DecaturBeanBallers.ProspectLeague,PROSPECTLEAGUE - Decatur Bean Ballers,https://iptv-epg.org/images/IYlSvuSgO39p3tv4HYNle_yDeFnli_3mGB47P1pxw2dWcgLM_1gT9DTA8o1JpUxFN5jh4-_gf9zRzGG7G4gWsN02CgaVBtlPg_YWXSX-DnMAHKEFmqvsWwpvM__-XCz7sLR4QQ
-DuboisCountyBombers.ProspectLeague,PROSPECTLEAGUE - Dubois County Bombers,https://iptv-epg.org/images/MncAPqEZ5tjceywCGa4bz_8FQzj5zHrwCZ6WTHj1axXUaLml29nLzBJMmOIHwoduXoXUiQOFcc6VizW5D4fwBRuKdn3Esunl_YNcxvhfAXl22wbymt8QjeADNhroVVDUHz71ZDA
-EasternConference.ProspectLeague,PROSPECTLEAGUE - Eastern Conference,
-IllinoisValleyPistolShrimp.ProspectLeague,PROSPECTLEAGUE - Illinois Valley Pistol Shrimp,https://iptv-epg.org/images/cUu6voerpxyUb9kyc9EACS8mNcVUwjzVokGNsVbv2uaep_djkF6zVANJdWvLfG_ZNKSl_smdfldSi2iUg6aH_j7l7EepKjWjKbdzZnkC-yf3jEJk3rIZtPbJY4TECkRN2dBg-H_zdl7NEUcQ
-JacksonRockabillys.ProspectLeague,PROSPECTLEAGUE - Jackson Rockabillys,https://iptv-epg.org/images/YSo5a6nEOrnxoOy14HVafnBIN_Ra3QKxfikdgYLVN_2rybIupiI-DT1uaRDzVFcy5lT7Vo7JSHU5-nFY-Qx7c7ztzB_2utVQN_R8uqzi0wQBl9Dr5JcPxJZxV94h1l-n11c-lQ
-JohnstownMillRats.ProspectLeague,PROSPECTLEAGUE - Johnstown Mill Rats,https://iptv-epg.org/images/DaX6-ln-AmOP0Eq--hVYGG0CkU-Ro7iPEvlTgFgb3t1dxZ_BpssjkHqQdebUXm8A9ov4eXzFXXYt4V3BOUT99CSE_is7WaxhpJi4_1s4NOi44OO7ANfBPniD4Mj9C8gp1NZI
-KokomoCreekChubs.ProspectLeague,PROSPECTLEAGUE - Kokomo Creek Chubs,https://iptv-epg.org/images/KCePhklobLEP4TuYU1YA_rcVyGivsSG2u4FUP2kg0NMTRx_IneSjF2aVwSOMV3-p-krexTZ6pRLJuBZwb3zeBOxmTz7QThbduqiS_0Susxu4GX8b4zXZ66X9yMa88entkIo
-LafayetteAviators.ProspectLeague,PROSPECTLEAGUE - Lafayette Aviators,https://iptv-epg.org/images/ceiN5SIZH448-0NQA6pvI8RLYkVCS8trZhyW0TNTTTRMUucC1XGh3MY_0HU2z8qAaezQe7plGnqJJMlpRTYmD__J66U7e9CH2CWCJKk6qXVUCWTsFTjOtfxPRB1JcTpnjl2Q
-NormalCornBelters.ProspectLeague,PROSPECTLEAGUE - Normal CornBelters,https://iptv-epg.org/images/zHD-aitDmdcOQgQtmqWwGkENrobLQsGixuKSIn7iR0WKuM3FX-obxJbn1bhGRqezl59wryEnFtCzEbzsYXx5sKldma1lz_F8DPWlDyruEFBWCL_f5Tf2L5g4QcNupSFBOBdz
-QuincyDoggyPaddlers.ProspectLeague,PROSPECTLEAGUE - Quincy Doggy Paddlers,https://iptv-epg.org/images/iNWpqu2VK7NF4W-I8VwyLjyhIx6SIg2MfN07EnkPVCOuAWvuy66DtOL8bVIl9pHQKFqSm26Uhhm1dC3IqgMpq1xWydUOlWlcy7IKQyUUV_BW3C_RKD-MUTNY81VNaAnZ21Q1OXM
-SpringfieldLuckyHorseshoes.ProspectLeague,PROSPECTLEAGUE - Springfield Lucky Horseshoes,https://iptv-epg.org/images/dJXbtgr912DiZ3n7VUUDoxxphIx9WW7v0-A5vKs8wD1xE9XUOD7CM99998F-DoscotxzZCvSKlv6_KC49iajxk0gwOLfjhxLZWRalAoF_wFHZ-XFz2-g6dDEWx6g_fsv6iraGdBrLnfPwYMP
-TerreHauteRex.ProspectLeague,PROSPECTLEAGUE - Terre Haute Rex,https://iptv-epg.org/images/zzwIIZIkppN5iqJ6dNMkdekHqybI_7VeU1unnl0KrjVYYNPGgC_rTpceI6_j3swYi8S5mHFGPvaLt9bAw6IdMMv8V4hQv8-bURkdceM_uqkT_D6dCDBqPL_Zh2yiKAY
-ThrillvilleThrillbillies.ProspectLeague,PROSPECTLEAGUE - Thrillville Thrillbillies,https://iptv-epg.org/images/6Ia6ZkePZ-KlOvQ6NZJU6ZuOVpeRg0CvoTIXPSAhaVykVh1CztL13rO1JFjzUrKNnzMv1R7sikxSv0KqZdEhvBjDAMbShudH7ZXIix9GUFx78jAnTfoW_IZ7_ZkO2_7J7yff80m1XqTdRg
-WesternConference.ProspectLeague,PROSPECTLEAGUE - Western Conference,
 ESPN+00.rtv,RTV - ESPN+ 00,https://iptv-epg.org/images/cSQxP5DEW_weg70WZQ6ei_6wDTuDcCWwTqsQbCh2B0mGKeLW6UJkuX9skDneEGagG4FYlulF5xUWWTMYFGNubPMGrMTaRnkR6EFvKq7tljk
 ESPN+01.rtv,RTV - ESPN+ 01,https://iptv-epg.org/images/0Fls0dKtBb4sCgyoNKILQ62RoppSFJKhdlp3UPIJ0wo2I540R3Eg0QNuGz_TN4JgwtjMhB2TtvBZXIEtKW7ikSQXnkRH3weLyOEf7HHkwDc
 ESPN+02.rtv,RTV - ESPN+ 02,https://iptv-epg.org/images/ERcSVMKRcItL9Mf1jpcUf3qGzo2fXwxY7eIbKY7F4hV9D5Ctb81TMjnsutpwiDZ1E_IUj7UQcXmqt6GOpRnGkwcU4AKwXZSgQ-AIvbheGkM
@@ -5701,7 +5680,6 @@ AltitudeSports2.us,US - Altitude Sports 2,https://iptv-epg.org/images/HUdGJ5Wmdp
 AlwaysChristmas.us,US - Always Christmas,
 AlwaysFunny.us,US - Always Funny,https://iptv-epg.org/images/68_mNM-i_guXMV_-PIOCpOhbBz2PuE70_xmj6afq4iJol4J2Ho65TnLtRk5qhNPubXZ8DfwqinUjh0r_nZf1N8t3rDYIvKzTkc6O4t8UcLDL
 AmazonMovies.us,US - Amazon Movies,https://iptv-epg.org/images/zOx6KVDVnTec-vvTh6j6YbqLFz5AcskrCwNGOZ0tghYHAnKO8G3eqaBqYJX6LOTyXAQxqrNgnNPHY3VQStGN0b3WW1aAbKiV-BDUC2vWo07akg
-Amazon_Prime_TNF.us,US - Amazon Prime Thursday Night Football,https://iptv-epg.org/images/fzUps-QoKOVnzFZNegm4omhy82HpIMyKanhhkpawPajBwjcRJCsi5Cb-ceg_9qxhFRT0O3IuB1krUp9a4NcMerEF8qNtLnWd_zDHXcwybCI7jmMyqQQ
 AMC.us,US - AMC,https://iptv-epg.org/images/KvciU3FxrNUnucRESPZLWmKMCka9RzBo7FNuE6aJUuXkUNkk2GKu7MJTZM9U4Q68ta_rHEXlVYTgpgTGApD7Lo3qJyWHojWVYA
 AMCThrillers.us,US - AMC Thrillers,https://iptv-epg.org/images/f__eVKAFeNdZUFnvX3LPjpUyRCE-kWgMB6BgQEbMLUJiqiVIXB5RVrFVI-qPu1CrlLN4wflzSKDeG0emNVi_NS-WFrwGkNt-jUR8yK-XMGIqPQ
 AMCPacific.us,US - AMC West,https://iptv-epg.org/images/R3xPd0rf9AFg_b20OE7fgcyOE3oSdLxwt8K6nOKJ5oVj9YT4N4RqPM69aw7FTBPSAR3iOljqEdhwZLCxn4dy2kUIpRCHqhE0B9akzwxg5mE
@@ -6137,7 +6115,6 @@ FanDuelSportsNetworkSunNorthFlorida.us,US - FanDuel Sports Network Sun North Flo
 FanDuelSportsNetworkTennessee.us,US - FanDuel Sports Network Tennessee,https://iptv-epg.org/images/iSz8CrOoXh_zKpTBA8ijYqX9O-63t-AKa17ybX-H155jZMbFMnNrxJlnnM2q_WKjBnU5S-9kwmFMwwG7xIyUiUIkl0cvMmxZI58eiOluEQKSCW14YMyOz4Pw03nUOmdI7_VM
 FanDuelSportsNetworkTennesseeExtra.us,US - FanDuel Sports Network Tennessee Extra,
 FanDuelSportsNetworkWest.us,US - FanDuel Sports Network West,https://iptv-epg.org/images/o9ZOeRx1HbihATc8o5WAWOrSp5N0tg2WUecSbqqPW3e8xQ7xeM65_2LeoBdPlSOc4w4G4MVVnOB5nStSWi60cqpsH0jjS7lxLnwOJ6SJheHqSAIAQAwSaI1AIbIFVg
-FanDuelSportsNetworkWestExtra.us,US - FanDuel Sports Network West Extra,https://iptv-epg.org/images/WCdQYORpBHol7QOPnWd8toKsICM3zm97EqpSPz5cG4N-p2ctRB1mqkPlKut6sXYciSuv-puSgVlWzpZJzvwNcnITiSwpzEHdfOe6SeHrGKIqvphIjms0KW6nEyLrQhGyj81-
 FanDuelSportsNetworkWisconsin.us,US - FanDuel Sports Network Wisconsin,https://iptv-epg.org/images/kyIqOqw6r5Odwa-stXp3BogVeL-GD6z8TCX8dcEONZkklmPomkUmbyVxCHdQzy59moRS0DTUwlDcBK42edcglbK9H__6utYLsxpIbH_Z2ihvEYNeLM4WmCQHhsbF6iBdfeNu
 FanDuelSportsNetworkWisconsinExtra.us,US - FanDuel Sports Network Wisconsin Extra,
 FanDuelTV.us,US - FanDuel TV,https://iptv-epg.org/images/oTh0VtiRc6O7S0OapFaBUxzPLi3itUGBXi2Q_FSORJd7J_IyO6uWVaIJa5M_5pW9h8ZrCt9INt4OSwaGmwm5QEbe6qQcsXe9HqFT41gvJw
@@ -6175,7 +6152,6 @@ FoodFoodInternational.us,US - Food Food International,https://iptv-epg.org/image
 FoodNetwork.us,US - Food Network,https://iptv-epg.org/images/bmsMeqQIrVM61G4qIt_BIwASyXivaKUUx1vqjjK5JqeO6sZ_fgkKo9R0bH06UQT_FfmjWcZNFWeFg4qjnp_wnposkTL55QTQB0xeEmd9pH9H
 FoodNetworkPacific.us,US - FOOD NETWORK WEST,https://iptv-epg.org/images/JQntS1sqVS_00BuHCuCQhHwiPZSMPWVP7hkRd2GvXPZ8XGnl1uBsbDv0tCncQ_EP03pJs_YjHDDJ8FhgysgVCAbPxvupfwo3CAAPG4kZmI8vZJ10HJ9--g
 Food52.us,US - Food52,https://iptv-epg.org/images/4hb5-4kGxqytKW6NCnmSN_TM5oXoRLgv9OExJ4JSMfs_6IUGMVCQYt9dzzrwuhp_OXu_qeeMK5nye7KRdCIgmzF8EpZ1uqvVcSi8QA
-FOX4K.us,US - FOX 4K,https://iptv-epg.org/images/TTQ1wsS2QqIQuvL8dITA_RchoX_-nLVw970cEff5AhXmyBL051Z8z3K0A3CZAP2r-UcEz13VB6PW3KcpRFFBD9fX55TigPIrsk57
 Fox4K_Event_Only.us,US - Fox 4K (Event Only),https://iptv-epg.org/images/Kl_uYssQ5xgRKA--L56G_18CPWom3SPmLA5-7Ps3EtnrhHkHAvtDp8l7hBfOmN1mbuSYbVMg4dbJZKSdPY4GkX-8u3cwYec9VjuQ9ujzbuU_fBzGYW4
 FoxBusiness.us,US - Fox Business,https://iptv-epg.org/images/NjlNg-5Ce1wQRJwm6Hs9_BPXS70k2XizL5ygH4tve3PvbNmC_y0kEmg8TPjLm92qt5ODFuVC_9l_DstC3zXh4SY8ainYkCXoFF5vmtwhNO8E
 FoxDeportes.us,US - FOX DEPORTES,https://iptv-epg.org/images/MmR-vejJLkXESYXnohv31Vp7ZB_FEnApKv93myKlpo8gg5pK4iEqEXJgksb9XNGhLiSYj1K3X6jhwK8HBKZd8AX3Z3TmXg8QhuVAmJPiN1oi
