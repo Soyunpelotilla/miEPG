@@ -1,8 +1,7 @@
-                                                      substr($stop_time_str, 4, 2) . "-" .
-   #!/bin/bash
+#!/bin/bash
 # ============================================================================== 
 # Script: miEPG.sh 
-# Versión: 3.6 - FIX autodetección Gracenote por contenido (cualquier dominio)
+# Versión: 3.6 - FIX autodetección Gracenote (cualquier dominio) - syntax fix
 # ============================================================================== 
 
 sed -i '/^ *$/d' epgs.txt
@@ -16,12 +15,14 @@ while IFS=, read -r epg; do
         ((epg_count++))
     extension="${epg##*.}"
     echo " │ Descargando: $epg"
+    export EPG_URL="$epg"
+    export EPG_EXT="$extension"
 
-    python3 - << PYEOF
+    python3 - << 'PYEOF'
 import requests, re, os, gzip, shutil
 from datetime import datetime, timedelta
-url="$epg"
-ext="$extension"
+url=os.environ.get("EPG_URL","")
+ext=os.environ.get("EPG_EXT","")
 wanted=set()
 try:
     with open("canales.txt","r",encoding="utf-8",errors="ignore") as f:
@@ -41,7 +42,6 @@ def fix(t):
 try:
     r=requests.get(url, headers={"User-Agent":"Mozilla/5.0"}, stream=True, timeout=120)
     r.raise_for_status()
-    # Peek primeros 20KB para detectar formato
     first_chunk=b""
     for chunk in r.iter_content(chunk_size=8192):
         first_chunk+=chunk
@@ -55,9 +55,7 @@ try:
         is_gracenote=True
 
     if is_gracenote:
-        print(f" └─► Autodetectado Gracenote por contenido (no por dominio), filtrando solo {wanted}")
-        # Ya consumimos parte, reconstruir iterando desde el inicio
-        # Re-hacer request para streaming limpio
+        print(f" └─► Autodetectado Gracenote por contenido, filtrando solo {wanted}")
         r2=requests.get(url, headers={"User-Agent":"Mozilla/5.0"}, stream=True, timeout=120)
         r2.raise_for_status()
         open("EPG_temp00.xml","w",encoding="utf-8").write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
@@ -81,10 +79,9 @@ try:
                 cnt+=1
             except: continue
         open("EPG_temp00.xml","a",encoding="utf-8").write('</tv>\n')
-        print(f"   OK {cnt} programas Gracenote filtrados (sin bajar 150MB enteros)")
+        print(f"   OK {cnt} programas filtrados")
     else:
-        print(f" └─► XMLTV normal detectado, bajando completo")
-        # Guardar lo que ya tenemos + resto
+        print(f" └─► XMLTV normal, bajando completo")
         target="EPG_temp00.xml.gz" if ext=="gz" else "EPG_temp00.xml"
         with open(target,"wb") as f:
             f.write(first_chunk)
@@ -97,7 +94,6 @@ try:
                         shutil.copyfileobj(gz,out)
                 os.remove(target)
             except:
-                # No era gz real
                 os.rename(target,"EPG_temp00.xml")
         print("   OK bajado")
 except Exception as ex:
@@ -106,20 +102,18 @@ except Exception as ex:
 PYEOF
 
         if [ ! -s EPG_temp00.xml ]; then
-            echo " └─► ❌ ERROR: El archivo descargado está vacío o no se descargó correctamente"
+            echo " └─► ❌ ERROR: El archivo descargado está vacío"
             continue
         fi
 
         if [ -f EPG_temp00.xml ]; then
 
-        # ====== FIX GRACENOTE: Detectar si es formato (no XMLTV) - por contenido ======
-        if ! grep -q "<programme" EPG_temp00.xml && grep -q "programSeriesId\|tmsId\|^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\} [0-9]\{2\}:" EPG_temp00.xml; then
-            echo " └─► Detectado formato Gracenote por contenido, convirtiendo a XMLTV..."
-            python3 - << 'PYEOF'
+        if ! grep -q "<programme" EPG_temp00.xml && grep -q "programSeriesId\|tmsId" EPG_temp00.xml; then
+            echo " └─► Convert extra Gracenote -> XMLTV (backup)"
+            python3 - << 'PYEOF2'
 import re, xml.etree.ElementTree as ET
 from xml.dom import minidom
 from datetime import datetime, timedelta
-
 def arreglar_acentos(texto):
     if not texto: return texto
     try:
@@ -132,10 +126,8 @@ def arreglar_acentos(texto):
     except:
         pass
     return texto
-
 with open("EPG_temp00.xml","r",encoding="utf-8",errors="ignore") as f:
     raw=f.read()
-
 tv=ET.Element("tv")
 canales={}
 for line in raw.splitlines()[:5000]:
@@ -148,7 +140,6 @@ for line in raw.splitlines()[:5000]:
             ch=ET.SubElement(tv,"channel")
             ch.set("id",cid)
             ET.SubElement(ch,"display-name").text=nombre
-
 prog_pat=re.compile(r'(\d{4}-\d{2}-\d{2})\s+(\d{2}:\d{2}:\d{2})\s+(.+?)(?:https://|$)')
 count=0
 for line in raw.splitlines():
@@ -178,14 +169,12 @@ for line in raw.splitlines():
         count+=1
     except:
         continue
-
 xml_str=ET.tostring(tv,encoding="unicode")
 pretty=minidom.parseString(xml_str).toprettyxml(indent="  ",encoding="UTF-8").decode("UTF-8")
 open("EPG_temp00.xml","w",encoding="utf-8").write(pretty)
-print(f"   Convertidos {count} programas Gracenote -> XMLTV con acentos arreglados")
-PYEOF
+print(f"   Convertidos {count}")
+PYEOF2
         fi
-        # ====== FIN FIX GRACENOTE ======
 
         listado="canales_epg${epg_count}.txt"
         echo " └─► Generando listado de canales: $listado"
@@ -225,18 +214,9 @@ for i in "${!canales[@]}"; do
     canales[$i]="$old,$new,$logo,$offset"
 done
 
-etiquetas_sed=""
 if [ -f variables.txt ]; then
     sufijos=$(grep "display-name=" variables.txt | cut -d'=' -f2 | sed 's/, /,/g')
     IFS=',' read -r -a array_etiquetas <<< "$sufijos"
-    linea_ins=3
-    for etiq in "${array_etiquetas[@]}"; do
-        etiq_clean=$(echo "$etiq" | xargs)
-        if [ -n "$etiq_clean" ]; then
-            etiquetas_sed="${etiquetas_sed}${linea_ins}i\  <display-name>${new} ${etiq_clean}</display-name>\n"
-            ((linea_ins++))
-        fi
-    done
 fi
 
 for linea in "${canales[@]}"; do
@@ -253,8 +233,6 @@ for linea in "${canales[@]}"; do
         fi
         echo "  <channel id=\"${new}\">" > EPG_temp01.xml
         if [ -f variables.txt ]; then
-            sufijos=$(grep "display-name=" variables.txt | cut -d'=' -f2 | sed 's/, /,/g')
-            IFS=',' read -r -a array_etiquetas <<< "$sufijos"
             for etiq in "${array_etiquetas[@]}"; do
                 etiq_clean=$(echo "$etiq" | xargs)
                 if [ -n "$etiq_clean" ]; then
@@ -329,7 +307,6 @@ perl -i -ne '
     END { print STDERR " ─► Añadidos/Mantenidos: $aceptados\n"; print STDERR " ─►️ Pasados eliminados: $pasados\n"; print STDERR " ─►️ Futuros eliminados: $futuros\n"; print STDERR " ─►️ Duplicados eliminados: $duplicados\n"; }
 ' EPG_temp2.xml
 
-date_stamp=$(date +"%d/%m/%Y %R")
 {
     echo '<?xml version="1.0" encoding="UTF-8"?>'
     echo "<tv generator-info-name=\"miEPG v3.6\" generator-info-url=\"https://github.com/davidmuma/miEPG\">"
@@ -349,131 +326,5 @@ if [ $? -eq 0 ]; then
 else
     echo " ❌ ERROR: $error_log"
 fi
-rm -f EPG_temp* 2>/dev/null
-echo "─── PROCESO FINALIZADO ───"                                                                        substr($stop_time_str, 6, 2) . " " .
-                                                                           substr($stop_time_str, 8, 2) . ":" .
-                                                                           substr($stop_time_str, 10, 2) . ":" .
-                                                                           substr($stop_time_str, 12, 2);
-
-                                my $start = str2time("$start_fmt $start_tz") + $offset_sec;
-                                my $stop = str2time("$stop_fmt $stop_tz") + $offset_sec;
-
-                                my $start_formatted = time2str("%Y%m%d%H%M%S $start_tz", $start);
-                                my $stop_formatted = time2str("%Y%m%d%H%M%S $stop_tz", $stop);
-
-                                s/<programme start="[^"]+" stop="[^"]+" channel="[^"]+">/<programme start="$start_formatted" stop="$stop_formatted" channel="$new_channel_name">/;
-                        }
-                        ' EPG_temp02.xml
-                fi
-  
-        cat EPG_temp02.xml >> EPG_temp2.xml
-  
-    else
-        echo "        Saltando canal: $old ··· $contar_channel coincidencias"
-    fi
-done
-
-echo "─── PROCESANDO LIMITES TEMPORALES Y ACUMULACIÓN ───"
-
-# 1. Asegurarnos de que EPG_temp2.xml existe (donde se han ido metiendo los programas nuevos) y añadir el histórico de epg_acumulado.xml a ese mismo archivo.
-if [ -f epg_acumulado.xml ]; then
-    echo " Rescatando programas de epg_acumulado.xml..."
-    sed -n '/<programme/,/<\/programme>/p' epg_acumulado.xml >> EPG_temp2.xml
-fi
-
-# 2. Leer variables de días desde variables.txt
-dias_pasados=$(grep "dias-pasados=" variables.txt | cut -d'=' -f2 | xargs)
-dias_pasados=${dias_pasados:-0}
-
-dias_futuros=$(grep "dias-futuros=" variables.txt | cut -d'=' -f2 | xargs)
-dias_futuros=${dias_futuros:-99}
-
-# 3. Calcular fechas de corte (Formato XMLTV)
-fecha_corte_pasado=$(date -d "$dias_pasados days ago 00:00" +"%Y%m%d%H%M%S")
-fecha_corte_futuro=$(date -d "$dias_futuros days 02:00" +"%Y%m%d%H%M%S")
-
-echo " Limpieza Pasado: Manteniendo desde $fecha_corte_pasado ($dias_pasados días)"
-echo " Limpieza Futuro: Limitando hasta $fecha_corte_futuro ($dias_futuros días)"
-
-# 4. Filtro Perl Avanzado: Deduplicación + Reporte Desglosado
-perl -i -ne '
-    BEGIN { 
-        $c_old = "'$fecha_corte_pasado'"; 
-        $c_new = "'$fecha_corte_futuro'"; 
-        %visto=(); 
-        $pasados=0; $futuros=0; $duplicados=0; $aceptados=0;
-    }
-    if (/<programme start="(\d{14})[^"]+" stop="[^"]+" channel="([^"]+)">/) {
-        $inicio = $1; $canal = $2;
-        $llave = "$inicio-$canal"; 
-        if ($inicio < $c_old) { $pasados++; $imprimir = 0; }
-        elsif ($inicio > $c_new) { $futuros++; $imprimir = 0; }
-        elsif ($visto{$llave}++) { $duplicados++; $imprimir = 0; }
-        else { $aceptados++; $imprimir = 1; }
-    }
-    print if $imprimir;
-    if (/<\/programme>/) { $imprimir = 0; }
-    END { 
-        print STDERR " ─► Añadidos/Mantenidos: $aceptados\n";
-        print STDERR " ─►️ Pasados eliminados: $pasados\n";
-        print STDERR " ─►️ Futuros eliminados: $futuros\n";
-        print STDERR " ─►️ Duplicados eliminados: $duplicados\n";
-    }
-' EPG_temp2.xml
-
-date_stamp=$(date +"%d/%m/%Y %R")
-{
-    echo '<?xml version="1.0" encoding="UTF-8"?>'
-    echo "<tv generator-info-name=\"miEPG v3.6\" generator-info-url=\"https://github.com/davidmuma/miEPG\">"
-    
-    # Insertar los canales (con sus variantes y logos que procesamos antes)
-    [ -f EPG_temp1.xml ] && cat EPG_temp1.xml
-    
-    # Insertar los programas (nuevos + antiguos filtrados)
-    [ -f EPG_temp2.xml ] && cat EPG_temp2.xml
-    
-    echo '</tv>'
-} > miEPG.xml
-
-echo "─── VALIDACION FINAL DEL XML ───"
-
-# Ejecutamos xmllint capturando todos los errores
-# 2>&1 redirige los errores al flujo estándar para poder guardarlos en la variable
-error_log=$(xmllint --noout miEPG.xml 2>&1)
-
-if [ $? -eq 0 ]; then
-    echo " │ El archivo XML está perfectamente formado."
-    
-    num_canales=$(grep -c "<channel " miEPG.xml)
-    num_programas=$(grep -c "<programme " miEPG.xml)
-    echo " └─► Canales: $num_canales | Programas: $num_programas"
-
-    cp miEPG.xml epg_acumulado.xml
-    echo " epg_acumulado.xml actualizado para la próxima sesión."
-else
-    echo " ❌ ERROR: Se han detectado fallos en la estructura del XML."
-    echo "──────────────────────────────────────────────────────────────────"
-    
-    # Extraemos todos los números de línea únicos que reporta xmllint
-    lineas_con_error=$(echo "$error_log" | grep -oP '(?<=miEPG.xml:)\d+' | sort -nu)
-
-    echo "Resumen de líneas con errores:"
-    for linea in $lineas_con_error; do
-        # Buscamos el mensaje específico de xmllint para esa línea
-        detalle=$(echo "$error_log" | grep "miEPG.xml:$linea:" | head -1 | cut -d':' -f3-)
-        
-        echo "📍 Línea $linea:"
-        echo "   Error: $detalle"
-        # Mostramos el contenido real de esa línea en el archivo
-        contenido_linea=$(sed -n "${linea}p" miEPG.xml | xargs)
-        echo "   Texto: \"$contenido_linea\""
-        echo "───"
-    done
-    
-    echo "──────────────────────────────────────────────────────────────────"
-    echo " ⚠️ ADVERTENCIA: epg_acumulado.xml NO se ha actualizado."
-fi
-
-# Limpieza de archivos temporales de la sesión
 rm -f EPG_temp* 2>/dev/null
 echo "─── PROCESO FINALIZADO ───"
