@@ -185,21 +185,12 @@ ESPN 2,ESPN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/i
 ESPN 3,ESPN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
 ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
 Fox(FOXCAL).mx,FOX MX,https://ebyl.tmsimg.com/assets/GNLZZGG0027PYSD.png
-FoxSportsPremium(FSPRMM).mx,Fox Sports Premium,https://ebyl.tmsimg.com/assets/s123582_ld_h15_aa.png
 FOX+(FOXMAS).mx,FOX+ MX,https://ebyl.tmsimg.com/assets/GNLZZGG003NHHQQ.png
-16464,Azteca 7 MX,https://emby.tmsimg.com/assets/s116154_ld_h15_ac.png
-Canal 5 MX,Canal 5 MX,https://emby.tmsimg.com/assets/s116152_ld_h15_aa.png,+2
+FoxSportsPremium(FSPRMM).mx,Fox Sports Premium,https://ebyl.tmsimg.com/assets/s123582_ld_h15_aa.png
+Canal5(C5NET)(XHGC).mx,Canal 5 MX,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
-Espn.ar,ESPN AR,https://images.open-epg.com/25689.png
-Espn2.ar,ESPN 2 AR,https://images.open-epg.com/25683.png
-Espn3.ar,ESPN 3 AR,https://images.open-epg.com/25684.png
-Espn4.ar,ESPN 4 AR,https://images.open-epg.com/x960.png
-Espn6.ar,ESPN 6 AR,https://images.open-epg.com/x962.png
-FoxSports.ar,FOX SPORTS AR,https://images.open-epg.com/x972.png
-FoxSports2.ar,FOX SPORTS 2 AR,https://images.open-epg.com/16782312.png
-FoxSports3.ar,FOX SPORTS 3 AR,https://images.open-epg.com/16782313.png
 0431,DSPORTS CO,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0431.jpg
 0411,ESPN CL,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0411.jpg
 0412,ESPN 2 CL,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0412.jpg
