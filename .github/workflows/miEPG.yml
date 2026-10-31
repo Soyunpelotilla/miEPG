@@ -38,7 +38,10 @@ jobs:
 
     - name: Subir archivos a main
       run: |
-        git add miEPG.xml epg_acumulado.xml canales_epg*.txt epgs.txt -f
+        git add miEPG.xml canales_epg*.txt epgs.txt -f
+        if [ -f epg_acumulado.xml ]; then
+          git add epg_acumulado.xml -f
+        fi
         git diff --cached --quiet || git commit -m "Nuevo miEPG.xml $(date '+%d/%m %H:%M')"
         git push
       env:
