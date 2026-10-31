@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================================== 
 # Script: miEPG.sh 
-# Versión: 3.6 - MOD con User-Agent PC + anti-duplicados por solapamiento FIX
+# Versión: 3.6 - MOD con User-Agent PC + anti-duplicados por solapamiento FIX + texto original
 # ============================================================================== 
 
 sed -i '/^ *$/d' epgs.txt
@@ -65,7 +65,11 @@ for linea in "${canales[@]}"; do
         fi
         [ -n "$logo_final" ] && echo "$logo_final" >> EPG_temp01.xml
         echo '  </channel>' >> EPG_temp01.xml
-        echo " │ $old -> $new ··· $contar_channel"
+        if [ -n "$logo" ]; then
+            echo " │ Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo ··· $contar_channel coincidencias"
+        else
+            echo " │ Nombre EPG: $old · Nuevo nombre: $new · Manteniendo logo ··· $contar_channel coincidencias"
+        fi
         cat EPG_temp01.xml >> EPG_temp1.xml
         sed -i '$!N;/^\(.*\)\n\1$/!P;D' EPG_temp1.xml
         sed -n "/<programme.*\"${old}\"/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
@@ -74,7 +78,7 @@ for linea in "${canales[@]}"; do
         sed -i "/<programme/a EPG_temp channel=\"${new}\">" EPG_temp02.xml
         sed -i ':a;N;$!ba;s/\nEPG_temp//g' EPG_temp02.xml
 		if [[ "$offset" =~ ^[+-]?[0-9]+$ ]]; then
-			echo " └─► Ajustando hora $new ($offset h)"
+			echo " └─► Ajustando hora en el canal $new ($offset horas)"
 			export OFFSET="$offset"; export NEW_CHANNEL="$new"
 			perl -MDate::Parse -MDate::Format -i'' -pe '
 			BEGIN { $offset_sec = $ENV{OFFSET} * 3600; $new_channel_name = $ENV{NEW_CHANNEL}; }
@@ -89,7 +93,7 @@ for linea in "${canales[@]}"; do
 		fi
         cat EPG_temp02.xml >> EPG_temp2.xml
     else
-        echo "        Saltando: $old"
+        echo "        Saltando canal: $old ··· $contar_channel coincidencias"
     fi
 done
 
