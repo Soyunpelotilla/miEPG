@@ -1197,6 +1197,13 @@
     <display-name>FOX MX 4K</display-name>
     <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG0027PYSD.png" />
   </channel>
+  <channel id="FOX+ MX">
+    <display-name>FOX+ MX SD</display-name>
+    <display-name>FOX+ MX HD</display-name>
+    <display-name>FOX+ MX FHD</display-name>
+    <display-name>FOX+ MX 4K</display-name>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003NHHQQ.png" />
+  </channel>
   <channel id="Fox Sports Premium">
     <display-name>Fox Sports Premium SD</display-name>
     <display-name>Fox Sports Premium HD</display-name>
@@ -1204,12 +1211,12 @@
     <display-name>Fox Sports Premium 4K</display-name>
     <icon src="https://ebyl.tmsimg.com/assets/s123582_ld_h15_aa.png" />
   </channel>
-  <channel id="FOX+ MX">
-    <display-name>FOX+ MX SD</display-name>
-    <display-name>FOX+ MX HD</display-name>
-    <display-name>FOX+ MX FHD</display-name>
-    <display-name>FOX+ MX 4K</display-name>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003NHHQQ.png" />
+  <channel id="Canal 5 MX">
+    <display-name>Canal 5 MX SD</display-name>
+    <display-name>Canal 5 MX HD</display-name>
+    <display-name>Canal 5 MX FHD</display-name>
+    <display-name>Canal 5 MX 4K</display-name>
+    <icon src="https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png" />
   </channel>
   <channel id="DSPORTS">
     <display-name>DSPORTS SD</display-name>
@@ -28053,14 +28060,6 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261031152853 +0000" stop="20261031173837 +0000" channel="Sony One Hits Comedia">
-    <title>El Barrendero</title>
-    <desc>Don Napo (Cantinflas, Around the World in Eighty Days) es un barrendero de la ciudad quien limpia la suciedad mientras baila, canta y coquetea con las mucamas del vecindario. Un día, Don Napo encuentra a un bebé abandonado en la basura, y al día siguiente, un valioso cuadro aparece en su cubo de basura. Una serie de eventos llevan a Don Napo a enfrentarse con delincuentes corruptos, ¡y necesitará la ayuda de todos sus amigos para acabar con ellos y salvar la situación! Remasterizada.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1122628792_3_20250812T005515001Z_86_imageprocessorclient-tvplus-linear-5db7c6bc99-grwzd.jpeg"/>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
   <programme start="20261031173837 +0000" stop="20261031192923 +0000" channel="Sony One Hits Comedia">
     <title>Monster House</title>
     <desc>D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker, pero inexplicablemente llega al interior de la vivienda. Cuando su amiga Jenny está a punto de ser engullida por la misteriosa casa, nadie cree a los asustados chicos  así que los tres deciden investigar el enigma por su cuenta.</desc>
@@ -28085,12 +28084,12 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20261031150723 +0000" stop="20261031170728 +0000" channel="Sony One Hits Acción">
-    <title>Jóvenes Y Brujas</title>
-    <desc>Sarah siempre fue diferente. Y como la chica nueva en St. Benedict's Academy, inmediatamente se junta con las marginadas del instituto. Pero estas chicas no se conformarán con ser unas inadaptadas sin poder. Han descubierto “"THE CRAFT", y van a usarlo.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1225192114_0_20250929T192335219Z_23_imageprocessorclient-tvplus-linear-5db7c6bc99-dqcsm.jpeg"/>
+  <programme start="20261031232250 +0000" stop="20261101012849 +0000" channel="Sony One Hits Comedia">
+    <title>Juerga Hasta El Fin</title>
+    <desc>Durante una fiesta celebrada en Los Angeles con motivo de la inauguración de la nueva casa de James Franco, los también actores Seth Rogen, Jay Baruchel y otras celebridades se enfrentan al Apocalipsis del fin del mundo pronosticado por los mayas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1294029572_5_20251031T214703366Z_99_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg"/>
     <rating>
-      <value>12</value>
+      <value>18</value>
     </rating>
   </programme>
   <programme start="20261031170728 +0000" stop="20261031190236 +0000" channel="Sony One Hits Acción">
@@ -28115,6 +28114,15 @@
     <title>Resident Evil</title>
     <desc>Una unidad militar especial lucha contra un poderoso superordenador fuera de control y contra cientos de científicos que han mutado en criaturas carnívoras después de un accidente de laboratorio.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1534385878_3_20260108T182637528Z_132_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.jpeg"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20261031225806 +0000" stop="20261101010342 +0000" channel="Sony One Hits Acción">
+    <title>Resident Evil</title>
+    <sub-title>El Capítulo Final</sub-title>
+    <desc>Alice regresa a The Hive en Raccoon City, donde Umbrella Corp está reuniendo fuerzas antes del ataque final a los últimos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1481240434_1_20251227T045933912Z_98_imageprocessorclient-tvplus-linear-85d7d49859-gf68g.png"/>
     <rating>
       <value>14</value>
     </rating>
@@ -36366,17 +36374,6 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261031132158 +0000" stop="20261031150056 +0000" channel="5f1ac2591dd8880007bb7d6d">
-    <title>Gangster Nº 1</title>
-    <episode-num system="original-air-date">20000609000000 +0000</episode-num>
-    <desc>Un mafioso recuerda su ascenso en el Londres de los años sesenta. La ambición y la envidia lo llevan a traicionar a su mentor, Freddie Mays, para convertirse en el gánster más temido de la ciudad.</desc>
-    <icon src="https://images.pluto.tv/episodes/6aad0061291eac08d1d826e6/poster_1789722722205.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20000609</date>
-    <series-id system="pluto">6aad0060291eac08d1d826c3</series-id>
-    <category>Movie</category>
-    <category>Adventure</category>
-    <category>Action</category>
-  </programme>
   <programme start="20261031150056 +0000" stop="20261031172329 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>El gran golpe</title>
     <episode-num system="original-air-date">20120725000000 +0000</episode-num>
@@ -36384,8 +36381,8 @@
     <icon src="https://images.pluto.tv/episodes/698b0658aa2e52840230d770/poster_1770718837379.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20120725</date>
     <series-id system="pluto">698b0656aa2e52840230d750</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261031172329 +0000" stop="20261031185817 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>El heredero del billón de dólares</title>
@@ -36394,8 +36391,8 @@
     <icon src="https://images.pluto.tv/episodes/695b88d16a5d6e3860f6034a/poster_1767606482877.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19770303</date>
     <series-id system="pluto">695b88d06a5d6e3860f6032a</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261031185817 +0000" stop="20261031203957 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>Hiena salvaje</title>
@@ -36404,8 +36401,8 @@
     <icon src="https://images.pluto.tv/episodes/655cc5f22085480014d22ab2/poster_1769188322194.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19790101</date>
     <series-id system="pluto">655cc5f02085480014d22a94</series-id>
-    <category>Movie</category>
     <category>Action Comedies</category>
+    <category>Movie</category>
     <category>Action</category>
   </programme>
   <programme start="20261031203957 +0000" stop="20261031220519 +0000" channel="5f1ac2591dd8880007bb7d6d">
@@ -36415,8 +36412,8 @@
     <icon src="https://images.pluto.tv/episodes/655cbeea1d1d8e00135eca3f/poster_1782269644686.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19970131</date>
     <series-id system="pluto">655cbee81d1d8e00135eca20</series-id>
-    <category>Movie</category>
     <category>Action Comedies</category>
+    <category>Movie</category>
     <category>Action</category>
   </programme>
   <programme start="20261031220519 +0000" stop="20261101002931 +0000" channel="5f1ac2591dd8880007bb7d6d">
@@ -36437,8 +36434,8 @@
     <icon src="https://images.pluto.tv/episodes/6389eb952da7ac0013987318/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20170101</date>
     <series-id system="pluto">6389eb932da7ac0013987310</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261101015631 +0000" stop="20261101040031 +0000" channel="5f1ac2591dd8880007bb7d6d">
     <title>Más Allá De La Onda Expansiva</title>
@@ -36450,26 +36447,6 @@
     <category>Movie</category>
     <category>Action</category>
   </programme>
-  <programme start="20261031125650 +0000" stop="20261031142950 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title>Moebius</title>
-    <episode-num system="original-air-date">19960101000000 +0000</episode-num>
-    <desc>En un futuro no muy lejano, un misterioso accidente ocurre en el metro de Buenos Aires: un coche que circulaba por la vía desaparece, perdiéndose en el tiempo debido a un extraño fenómeno que solo un científico puede resolver.</desc>
-    <icon src="https://images.pluto.tv/episodes/628748b9e6e53d00136768be/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19960101</date>
-    <series-id system="pluto">628748b6e6e53d00136768b7</series-id>
-    <category>Movie</category>
-    <category>Thriller</category>
-  </programme>
-  <programme start="20261031142950 +0000" stop="20261031160533 +0000" channel="5f6a38eaa5b68b0007a00e7a">
-    <title>White Space</title>
-    <episode-num system="original-air-date">20151211000000 +0000</episode-num>
-    <desc>La tripulación de una nave pesquera espacial se enfrenta a una criatura cósmica gigantesca y mortal mientras opera en un sector inexplorado del espacio.</desc>
-    <icon src="https://images.pluto.tv/episodes/6abfe3109abe27364cf23354/poster_1790960403326.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20151211</date>
-    <series-id system="pluto">6abfe3109abe27364cf23335</series-id>
-    <category>Science fiction</category>
-    <category>Movie</category>
-  </programme>
   <programme start="20261031160533 +0000" stop="20261031180644 +0000" channel="5f6a38eaa5b68b0007a00e7a">
     <title>Fahrenheit 451</title>
     <episode-num system="original-air-date">19660101000000 +0000</episode-num>
@@ -36477,8 +36454,8 @@
     <icon src="https://images.pluto.tv/episodes/673b0a812678a50014db53ef/poster_1769190843637.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19660101</date>
     <series-id system="pluto">673b0a802678a50014db53cf</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme start="20261031180644 +0000" stop="20261031200028 +0000" channel="5f6a38eaa5b68b0007a00e7a">
     <title>Amor de ida y vuelta</title>
@@ -36487,8 +36464,8 @@
     <icon src="https://images.pluto.tv/episodes/69fb6f5f4c1064447fbcb0ae/poster_1778085728331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20181107</date>
     <series-id system="pluto">69fb6f5e4c1064447fbcb08f</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme start="20261031200028 +0000" stop="20261031215412 +0000" channel="5f6a38eaa5b68b0007a00e7a">
     <title>Amor de ida y vuelta</title>
@@ -36497,8 +36474,8 @@
     <icon src="https://images.pluto.tv/episodes/69fb6f5f4c1064447fbcb0ae/poster_1778085728331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20181107</date>
     <series-id system="pluto">69fb6f5e4c1064447fbcb08f</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme start="20261031215412 +0000" stop="20261031235104 +0000" channel="5f6a38eaa5b68b0007a00e7a">
     <title>Conan el bárbaro</title>
@@ -36518,8 +36495,8 @@
     <icon src="https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster_1776175563370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110420</date>
     <series-id system="pluto">672dcc122678a50014518e37</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
     <category>Action</category>
   </programme>
   <programme start="20261101012610 +0000" stop="20261101030310 +0000" channel="5f6a38eaa5b68b0007a00e7a">
@@ -36532,18 +36509,8 @@
     <date>20100101</date>
     <series-id system="pluto">5f69edb3e4b56900138a1e14</series-id>
     <sub-title>Episode 1</sub-title>
-    <category>Series</category>
     <category>Children</category>
-  </programme>
-  <programme start="20261031135209 +0000" stop="20261031153409 +0000" channel="5f1ac8a87cd38d000745d7cf">
-    <title>Obsession</title>
-    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
-    <desc>Sonia Paston acepta una gran promoción laboral que significa dejar su vida en Nueva York para mudarse a un pequeño pueblo cerca de Boston. Aún si ella esta lista para irse, alguien no esta dispuesto a vivir sin ella.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f4f3a2c2aa610001a82fc06/poster_1769024524574.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20110101</date>
-    <series-id system="pluto">5f4f3a2a2aa610001a82fc00</series-id>
-    <category>Movie</category>
-    <category>Action</category>
+    <category>Series</category>
   </programme>
   <programme start="20261031153409 +0000" stop="20261031171209 +0000" channel="5f1ac8a87cd38d000745d7cf">
     <title>Sultanes del Sur</title>
@@ -36562,8 +36529,8 @@
     <icon src="https://images.pluto.tv/episodes/62876ae6e26cc40014b29aac/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20080101</date>
     <series-id system="pluto">62876ae4e26cc40014b29aa5</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261031190809 +0000" stop="20261031205326 +0000" channel="5f1ac8a87cd38d000745d7cf">
     <title>Llamada oculta</title>
@@ -36572,8 +36539,8 @@
     <icon src="https://images.pluto.tv/episodes/6a22b7e90eeacb3723674268/poster_1780660202912.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20140101</date>
     <series-id system="pluto">6a22b60987a403a7cf599424</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261031205326 +0000" stop="20261031231926 +0000" channel="5f1ac8a87cd38d000745d7cf">
     <title>Los amos de Brooklyn</title>
@@ -36592,8 +36559,8 @@
     <icon src="https://images.pluto.tv/episodes/66d80d11d99fc70013a87d5e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20190101</date>
     <series-id system="pluto">66d80d0fd99fc70013a87d3c</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261101012233 +0000" stop="20261101025428 +0000" channel="5f1ac8a87cd38d000745d7cf">
     <title>Webcam de animadoras</title>
@@ -36602,30 +36569,9 @@
     <icon src="https://images.pluto.tv/episodes/6a4cc71c3aa4669fc73c332c/poster_1783416605663.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20210101</date>
     <series-id system="pluto">6a4cc71b3aa4669fc73c330c</series-id>
+    <category>Drama</category>
+    <category>Movie</category>
     <category>Independent Drama</category>
-    <category>Movie</category>
-    <category>Drama</category>
-  </programme>
-  <programme start="20261031125546 +0000" stop="20261031145846 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title>La carretera</title>
-    <episode-num system="original-air-date">20090101000000 +0000</episode-num>
-    <desc>Basado en la espléndida novela que ganó el premio Pulitzer en 2007. La película nos introduce en un mundo apocalíptico, arrasado por una explosión nuclear, en el cual un padre y su hijo viajan hacia la costa para buscar un lugar seguro donde vivir.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f4f5ce5fa72a5001a5fd945/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20090101</date>
-    <series-id system="pluto">5f4f5ce4fa72a5001a5fd93d</series-id>
-    <category>Biographical Drama</category>
-    <category>Movie</category>
-    <category>Drama</category>
-  </programme>
-  <programme start="20261031145846 +0000" stop="20261031165746 +0000" channel="5f1ac1f1b66c76000790ef27">
-    <title>Two Lovers</title>
-    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
-    <desc>Leonard (Joaquin Phoenix) empieza a salir con Sandra (Vinessa Shaw), una joven encantadora con la que el matrimonio parece cercano. Pero aparece en su vida una nueva vecina, Michelle (Gwyneth Paltrow),  lo que no hace sino empezar a complicar su vida.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f523c16db45a1001a79aac9/poster_1779885889185.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20080101</date>
-    <series-id system="pluto">5f523c14db45a1001a79aac1</series-id>
-    <category>Movie</category>
-    <category>Romance</category>
   </programme>
   <programme start="20261031165746 +0000" stop="20261031190946 +0000" channel="5f1ac1f1b66c76000790ef27">
     <title>Valkiria</title>
@@ -36655,8 +36601,8 @@
     <icon src="https://images.pluto.tv/episodes/6729fab5b7ea5e0013fbd796/poster_1776174482126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20120221</date>
     <series-id system="pluto">6729fab3b7ea5e0013fbd775</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261031233048 +0000" stop="20261101011519 +0000" channel="5f1ac1f1b66c76000790ef27">
     <title>Perdidos en el sol</title>
@@ -36679,16 +36625,6 @@
     <category>Horror Classics</category>
     <category>Movie</category>
   </programme>
-  <programme start="20261031130855 +0000" stop="20261031145951 +0000" channel="5f1ac947dcd00d0007937c08">
-    <title>Acero azul</title>
-    <episode-num system="original-air-date">19900316000000 +0000</episode-num>
-    <desc>Una novata del cuerpo de policía se ve envuelta en un juego del gato y el ratón con un psicópata con una pistola que se obsesiona con ella.</desc>
-    <icon src="https://images.pluto.tv/episodes/66b339036134930013330e0c/poster_1769190122264.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19900316</date>
-    <series-id system="pluto">66b339016134930013330ded</series-id>
-    <category>Movie</category>
-    <category>Thriller</category>
-  </programme>
   <programme start="20261031145951 +0000" stop="20261031170251 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>Regreso a Montauk</title>
     <episode-num system="original-air-date">20170804000000 +0000</episode-num>
@@ -36696,8 +36632,8 @@
     <icon src="https://images.pluto.tv/episodes/60d18638d2de2a001300367a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20170804</date>
     <series-id system="pluto">60d18638d2de2a0013003674</series-id>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261031170251 +0000" stop="20261031190526 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>Albert Nobbs</title>
@@ -36706,9 +36642,9 @@
     <icon src="https://images.pluto.tv/episodes/69ef3d7811a68f7704228cac/poster_1777286521911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20110831</date>
     <series-id system="pluto">69ef3d7811a68f7704228c8c</series-id>
-    <category>Independent Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
+    <category>Independent Drama</category>
   </programme>
   <programme start="20261031190526 +0000" stop="20261031205926 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>Rebelde entre el centeno</title>
@@ -36718,8 +36654,8 @@
     <date>20160101</date>
     <series-id system="pluto">62876b18e26cc40014b2cce5</series-id>
     <category>Biographical Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261031205926 +0000" stop="20261031231826 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>La fuerza de uno</title>
@@ -36728,9 +36664,9 @@
     <icon src="https://images.pluto.tv/episodes/637e3423eaede800137892c8/poster_1769194524077.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19920327</date>
     <series-id system="pluto">637e3422eaede800137892c1</series-id>
-    <category>Movie</category>
     <category>Inspirational Drama</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261031231826 +0000" stop="20261101011726 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>Decisión final</title>
@@ -36739,9 +36675,9 @@
     <icon src="https://images.pluto.tv/episodes/68beec288eef10068fe10ae1/poster_1769192283295.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20140411</date>
     <series-id system="pluto">68beec268eef10068fe10ac1</series-id>
-    <category>Movie</category>
     <category>Inspirational Drama</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261101011726 +0000" stop="20261101030041 +0000" channel="5f1ac947dcd00d0007937c08">
     <title>El último hijo</title>
@@ -36754,27 +36690,6 @@
     <category>Adventure</category>
     <category>Action</category>
   </programme>
-  <programme start="20261031130535 +0000" stop="20261031143818 +0000" channel="5f1ac8099c49f600076579b2">
-    <title>Aprendiz de gigoló</title>
-    <episode-num system="original-air-date">20130831000000 +0000</episode-num>
-    <desc>Un hombre convence a su amigo para trabajar como gigoló, lo que provoca situaciones cómicas y complicadas.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a0b31e59db2f8937b420af3/poster_1779118566155.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20130831</date>
-    <series-id system="pluto">6a0b31e49db2f8937b420ad4</series-id>
-    <category>Comedy</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261031143818 +0000" stop="20261031160818 +0000" channel="5f1ac8099c49f600076579b2">
-    <title>Conversaciones con otras mujeres</title>
-    <episode-num system="original-air-date">20050101000000 +0000</episode-num>
-    <desc>Un hombre y una mujer próximos a los cuarenta se conocen en una boda en un hotel neoyorkino. Entablarán una conversación llena de ingenio y dobles sentidos en la que cada uno va cercando al otro con la precisión de un felino.</desc>
-    <icon src="https://images.pluto.tv/episodes/63d2481af97d0100131e0fbc/poster_1769036042412.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20050101</date>
-    <series-id system="pluto">63d24818f97d0100131e0f9d</series-id>
-    <category>Comedy</category>
-    <category>Movie</category>
-    <category>Dark Humor &amp; Black Comedies</category>
-  </programme>
   <programme start="20261031160818 +0000" stop="20261031173418 +0000" channel="5f1ac8099c49f600076579b2">
     <title>Animales en apuros</title>
     <episode-num system="original-air-date">20180101000000 +0000</episode-num>
@@ -36782,8 +36697,8 @@
     <icon src="https://images.pluto.tv/episodes/62384c6aff21e500131cb0a0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20180101</date>
     <series-id system="pluto">62384c69ff21e500131cb099</series-id>
-    <category>Movie</category>
     <category>Animated</category>
+    <category>Movie</category>
     <category>Children</category>
   </programme>
   <programme start="20261031173418 +0000" stop="20261031190718 +0000" channel="5f1ac8099c49f600076579b2">
@@ -36793,8 +36708,8 @@
     <icon src="https://images.pluto.tv/episodes/61aa2e4460119800132546c8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20180101</date>
     <series-id system="pluto">61aa2e4260119800132546c2</series-id>
-    <category>Movie</category>
     <category>Animated</category>
+    <category>Movie</category>
     <category>Children</category>
   </programme>
   <programme start="20261031190718 +0000" stop="20261031204218 +0000" channel="5f1ac8099c49f600076579b2">
@@ -36804,8 +36719,8 @@
     <icon src="https://images.pluto.tv/episodes/62384c64ff21e500131cafaa/poster_1768608736699.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20170101</date>
     <series-id system="pluto">62384c63ff21e500131cafa3</series-id>
-    <category>Movie</category>
     <category>Animated</category>
+    <category>Movie</category>
     <category>Children</category>
   </programme>
   <programme start="20261031204218 +0000" stop="20261031224818 +0000" channel="5f1ac8099c49f600076579b2">
@@ -36826,8 +36741,8 @@
     <icon src="https://images.pluto.tv/episodes/62876af6e26cc40014b2af56/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20050101</date>
     <series-id system="pluto">62876af4e26cc40014b2af4f</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261101001818 +0000" stop="20261101021518 +0000" channel="5f1ac8099c49f600076579b2">
     <title>El Gruñón</title>
@@ -36836,30 +36751,8 @@
     <icon src="https://images.pluto.tv/episodes/61c1dda042817b001a8bb049/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20140101</date>
     <series-id system="pluto">61c1dd9b42817b001a8bb043</series-id>
+    <category>Movie</category>
     <category>Comedy</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261031125320 +0000" stop="20261031143620 +0000" channel="655b5d865812e80008843bd1">
-    <title>Nunca es tarde para enamorarse</title>
-    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
-    <desc>Narra la historia de Harvey (Dustin Hoffman), un hombre aburrido y cansado, que viaja a Londres para asistir a la boda de su hija con un hombre bastante mayor que ella. Allí, Harvey conocerá a una mujer (Emma Thompson) que le cambiará la vida.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f523c1adb45a1001a79ab0b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20080101</date>
-    <series-id system="pluto">5f523c19db45a1001a79ab03</series-id>
-    <category>Movie</category>
-    <category>Romance</category>
-    <category>African-American Romance</category>
-  </programme>
-  <programme start="20261031143620 +0000" stop="20261031161920 +0000" channel="655b5d865812e80008843bd1">
-    <title>Una pizca de amor</title>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Saltan chispas entre un agente literario de libros de cocina y la presentadora de un programa de cocina.</desc>
-    <icon src="https://images.pluto.tv/episodes/63ce6a1a5b790200141046d3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20200101</date>
-    <series-id system="pluto">63ce6a185b790200141046b4</series-id>
-    <category>Romantic comedy</category>
-    <category>Movie</category>
-    <category>Romance</category>
   </programme>
   <programme start="20261031161920 +0000" stop="20261031175424 +0000" channel="655b5d865812e80008843bd1">
     <title>A Christmas Kiss</title>
@@ -36889,8 +36782,8 @@
     <icon src="https://images.pluto.tv/episodes/5f4f5ce9fa72a5001a5fd9a0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20090101</date>
     <series-id system="pluto">5f4f5ce8fa72a5001a5fd998</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme start="20261031212324 +0000" stop="20261031233117 +0000" channel="655b5d865812e80008843bd1">
     <title>Hermosas criaturas</title>
@@ -36899,8 +36792,8 @@
     <icon src="https://images.pluto.tv/episodes/6761a171381eea0013640bd3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130119</date>
     <series-id system="pluto">6761a170381eea0013640bb3</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme start="20261031233117 +0000" stop="20261101010512 +0000" channel="655b5d865812e80008843bd1">
     <title>Enamorarse</title>
@@ -36910,8 +36803,8 @@
     <date>20130101</date>
     <series-id system="pluto">64fafeb5f6f05d00134d8282</series-id>
     <category>Romantic comedy</category>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261101010512 +0000" stop="20261101024212 +0000" channel="655b5d865812e80008843bd1">
     <title>Christmas Mail</title>
@@ -36923,26 +36816,6 @@
     <category>Romantic comedy</category>
     <category>Movie</category>
     <category>Romance</category>
-  </programme>
-  <programme start="20261031122648 +0000" stop="20261031140954 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title>Con la magia en los zapatos</title>
-    <episode-num system="original-air-date">20150315000000 +0000</episode-num>
-    <desc>Un zapatero, aburrido de su vida cotidiana, tropieza con una reliquia mágica que le permite convertirse en otras personas y ver el mundo de otra manera.</desc>
-    <icon src="https://images.pluto.tv/episodes/6729e43d2678a5001418eec6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20150315</date>
-    <series-id system="pluto">6729e43c2678a5001418eea6</series-id>
-    <category>Comedy</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261031140954 +0000" stop="20261031161747 +0000" channel="5f1ac9a2d3611d0007a844bb">
-    <title>Hermosas criaturas</title>
-    <episode-num system="original-air-date">20130119000000 +0000</episode-num>
-    <desc>Ethan y Lena se conocen y se enamoran, y juntos descubren los oscuros secretos de sus respectivas familias, su historia y su ciudad en este thriller romántico sobrenatural.</desc>
-    <icon src="https://images.pluto.tv/episodes/6761a171381eea0013640bd3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20130119</date>
-    <series-id system="pluto">6761a170381eea0013640bb3</series-id>
-    <category>Science fiction</category>
-    <category>Movie</category>
   </programme>
   <programme start="20261031161747 +0000" stop="20261031181452 +0000" channel="5f1ac9a2d3611d0007a844bb">
     <title>Algo Prestado</title>
@@ -36972,8 +36845,8 @@
     <icon src="https://images.pluto.tv/episodes/660d6952a79dde00142006b4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20190413</date>
     <series-id system="pluto">660d6950a79dde0014200694</series-id>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261031212328 +0000" stop="20261031235428 +0000" channel="5f1ac9a2d3611d0007a844bb">
     <title>Un asunto real</title>
@@ -37003,8 +36876,8 @@
     <icon src="https://images.pluto.tv/episodes/5f523c66db45a1001a79add1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20090101</date>
     <series-id system="pluto">5f523c65db45a1001a79adc9</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
 	<programme start="20261031023000 +0100" stop="20261031033400 +0100" channel="Cines Verdi TV">
     <title>Fear and desire (Miedo y deseo)</title>
@@ -39453,6 +39326,347 @@
       <value>TVPG</value>
     </rating>
   </programme>
+<programme start="20261030192000 +0000" stop="20261030213000 +0000" channel="FOX+ MX">
+    <title>Fútbol Bundesliga</title>
+    <sub-title>SV 07 Elversberg vs. 1. FSV Mainz 05</sub-title>
+    <desc>Acción de la jornada 8 de la Bundesliga 2026-27. Elversberg busca puestos europeos y Mainz 05 ganar tras perder.</desc>
+    <date>20261030</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">130</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003BZMHZ.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3589962&amp;tmsId=EP012592394551</url>
+    <episode-num system="dd_progid">EP01259239.4551</episode-num>
+    <new />
+    <live />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261030213000 +0000" stop="20261030214500 +0000" channel="FOX+ MX">
+    <title>Fútbol Bundesliga</title>
+    <sub-title>Discovery: Hamburger SV</sub-title>
+    <desc>Los partidos de fútbol de la temporada pasada.</desc>
+    <date>20261010</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Sports non-event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">15</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p7956966_b_h9_aj.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=7956966&amp;tmsId=EP029185670152</url>
+    <episode-num system="dd_progid">EP02918567.0152</episode-num>
+    <episode-num system="xmltv_ns">2025.1029.</episode-num>
+    <episode-num system="original-air-date">2026-10-10 00:00:00</episode-num>
+    <previously-shown start="20261010000000" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261030214500 +0000" stop="20261030220000 +0000" channel="FOX+ MX">
+    <title>Fútbol Bundesliga</title>
+    <sub-title>Discovery: Bundesliga 1</sub-title>
+    <desc>Los partidos de fútbol de la temporada pasada.</desc>
+    <date>20261017</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Sports non-event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">15</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p7956966_b_h9_aj.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=7956966&amp;tmsId=EP029185670154</url>
+    <episode-num system="dd_progid">EP02918567.0154</episode-num>
+    <episode-num system="xmltv_ns">2025.587.0/1</episode-num>
+    <episode-num system="original-air-date">2026-10-17 00:00:00</episode-num>
+    <previously-shown start="20261017000000" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261030220000 +0000" stop="20261031000000 +0000" channel="FOX+ MX">
+    <title>Automovilismo NASCAR Craftsman Truck Series</title>
+    <sub-title>Xfinity 500</sub-title>
+    <desc>Desde el Martinsville Speedway en Martinsville, Virginia.</desc>
+    <date>20261030</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Auto racing</category>
+    <length units="minutes">120</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003SXERX.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=23711161&amp;tmsId=EP045941560133</url>
+    <episode-num system="dd_progid">EP04594156.0133</episode-num>
+    <new />
+    <live />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031000000 +0000" stop="20261031010000 +0000" channel="FOX+ MX">
+    <title>FIA World Rally Championship</title>
+    <sub-title>Highlights de Barcelona</sub-title>
+    <desc>Toda la emoción del FIA World Rally Championship. Cobertura de las pruebas automovilísticas que conforman el campeonato.</desc>
+    <date>20261030</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Auto racing</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p32080826_b_h9_ab.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=8529542&amp;tmsId=EP026380740222</url>
+    <episode-num system="dd_progid">EP02638074.0222</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031010000 +0000" stop="20261031030000 +0000" channel="FOX+ MX">
+    <title>Fútbol Mexicano Femenino Primera División</title>
+    <sub-title>Atlas vs. Tigres UANL</sub-title>
+    <desc>Acción de la jornada 13 del Torneo Apertura 2026. Atlas busca el cuarto lugar del Grupo B y las Amazonas el liderato del Grupo A.</desc>
+    <date>20261030</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">120</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003DCFXE.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=14472703&amp;tmsId=EP027619862999</url>
+    <episode-num system="dd_progid">EP02761986.2999</episode-num>
+    <new />
+    <live />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031030000 +0000" stop="20261031060000 +0000" channel="FOX+ MX">
+    <title>Fútbol Americano NFL</title>
+    <sub-title>Carolina Panthers vs. Green Bay Packers</sub-title>
+    <desc>Green Bay Packers recibe a Carolina Panthers en la semana 8 de la temporada regular de la NFL en el Lambeau Field. El mariscal de campo Bryce Young lidera a los Panthers, mientras que el mariscal de campo Jordan Love lidera a los Packers.</desc>
+    <date>20261030</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Football</category>
+    <length units="minutes">180</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG0039KLY8.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=191277&amp;tmsId=EP000434296193</url>
+    <episode-num system="dd_progid">EP00043429.6193</episode-num>
+    <new />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031060000 +0000" stop="20261031080000 +0000" channel="FOX+ MX">
+    <title>Automovilismo NASCAR Craftsman Truck Series</title>
+    <sub-title>Xfinity 500</sub-title>
+    <desc>Desde el Martinsville Speedway en Martinsville, Virginia.</desc>
+    <date>20261031</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Auto racing</category>
+    <length units="minutes">120</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003SXERX.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=23711161&amp;tmsId=EP045941560133</url>
+    <episode-num system="dd_progid">EP04594156.0133</episode-num>
+    <new />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031080000 +0000" stop="20261031100000 +0000" channel="FOX+ MX">
+    <title>Fútbol Ligue 1</title>
+    <sub-title>Le Havre AC vs. Paris Saint-Germain</sub-title>
+    <desc>Acción de la jornada 9 de la temporada regular 2026-27 de la Ligue 1. Le Havre se enfrenta a Paris Saint-Germain. Desde el Stade Océane, en El Havre, Nueva Aquitania.</desc>
+    <date>20261031</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">120</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003MFXWH.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3606627&amp;tmsId=EP013607694544</url>
+    <episode-num system="dd_progid">EP01360769.4544</episode-num>
+    <new />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031100000 +0000" stop="20261031120000 +0000" channel="FOX+ MX">
+    <title>Fútbol Ligue 1</title>
+    <sub-title>Lille OSC vs. RC Lens</sub-title>
+    <desc>Acción de la jornada 9 de la temporada regular 2026-27 de la Ligue 1. Lille se enfrenta a RC Lens. Desde el Stade Océane, en El Havre, Nueva Aquitania.</desc>
+    <date>20261031</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">120</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003MG8YG.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3606627&amp;tmsId=EP013607694548</url>
+    <episode-num system="dd_progid">EP01360769.4548</episode-num>
+    <new />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031120000 +0000" stop="20261031140000 +0000" channel="FOX+ MX">
+    <title>Fútbol Bundesliga</title>
+    <sub-title>SV 07 Elversberg vs. 1. FSV Mainz 05</sub-title>
+    <desc>Acción de la jornada 8 de la Bundesliga 2026-27. Elversberg busca puestos europeos y Mainz 05 ganar tras perder.</desc>
+    <date>20261031</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">120</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003BZMHZ.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3589962&amp;tmsId=EP012592394551</url>
+    <episode-num system="dd_progid">EP01259239.4551</episode-num>
+    <new />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031140000 +0000" stop="20261031142000 +0000" channel="FOX+ MX">
+    <title>Fútbol Bundesliga</title>
+    <sub-title>Discovery: Hamburger SV</sub-title>
+    <desc>Los partidos de fútbol de la temporada pasada.</desc>
+    <date>20261010</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Sports non-event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">20</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p7956966_b_h9_aj.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=7956966&amp;tmsId=EP029185670152</url>
+    <episode-num system="dd_progid">EP02918567.0152</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <episode-num system="original-air-date">2026-10-10 00:00:00</episode-num>
+    <previously-shown start="20261010000000" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031142000 +0000" stop="20261031163000 +0000" channel="FOX+ MX">
+    <title>Fútbol Bundesliga</title>
+    <sub-title>Bayer 04 Leverkusen vs. VfB Stuttgart</sub-title>
+    <desc>Acción de la jornada 8 de la Bundesliga 2026-27. Leverkusen busca el tercer lugar y Stuttgart romper su racha de dos derrotas.</desc>
+    <date>20261031</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">130</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003B0EV9.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3589962&amp;tmsId=EP012592394555</url>
+    <episode-num system="dd_progid">EP01259239.4555</episode-num>
+    <new />
+    <live />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031163000 +0000" stop="20261031193000 +0000" channel="FOX+ MX">
+    <title>Fútbol Americano Universitario</title>
+    <sub-title>Wisconsin vs. Iowa</sub-title>
+    <desc>Semana 9 del fútbol americano universitario de la NCAA 2026. Wisconsin enfrenta a Iowa. Desde el Kinnick Stadium.</desc>
+    <date>20261031</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Football</category>
+    <length units="minutes">180</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003708BF.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=191261&amp;tmsId=EP057947954532</url>
+    <episode-num system="dd_progid">EP05794795.4532</episode-num>
+    <new />
+    <live />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031193000 +0000" stop="20261031220000 +0000" channel="FOX+ MX">
+    <title>Fútbol Ligue 1</title>
+    <sub-title>ESTAC Troyes vs. Le Mans FC</sub-title>
+    <desc>Acción de la jornada 9 de la temporada regular 2026-27 de la Ligue 1. Troyes se enfrenta a Le Mans. Desde el Stade de l'Aube, en Troyes.</desc>
+    <date>20261031</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">150</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003MFJJ7.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3606627&amp;tmsId=EP013607694545</url>
+    <episode-num system="dd_progid">EP01360769.4545</episode-num>
+    <new />
+    <live />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031220000 +0000" stop="20261031223000 +0000" channel="FOX+ MX">
+    <title>Premier League Stories</title>
+    <desc>Se presentan a las figuras que han marcado la época en la Premier League, centrándose en las historias que interesan al público internacional.</desc>
+    <date>20220801</date>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p22666021_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=22520345&amp;tmsId=SH064805900000</url>
+    <episode-num system="dd_progid">SH06480590.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <episode-num system="original-air-date">2022-08-10 00:00:00</episode-num>
+    <previously-shown start="20220810000000" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031223000 +0000" stop="20261031225000 +0000" channel="FOX+ MX">
+    <title>Premier League Big Interview</title>
+    <desc>Discusiones en profundidad con jugadores actuales de la máxima categoría del fútbol inglés, la Premier League.</desc>
+    <date>20261030</date>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">20</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p30992467_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=30992467&amp;tmsId=EP065990840007</url>
+    <episode-num system="dd_progid">EP06599084.0007</episode-num>
+    <episode-num system="xmltv_ns">2025.31.0/1</episode-num>
+    <episode-num system="original-air-date">2026-10-30 00:00:00</episode-num>
+    <previously-shown start="20261030000000" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261031225000 +0000" stop="20261101010000 +0000" channel="FOX+ MX">
+    <title>Fútbol Mexicano Primera División</title>
+    <sub-title>Pachuca vs. Tigres UANL</sub-title>
+    <desc>Acción de la jornada 15 del Torneo Apertura 2026. Los Tuzos buscan su segunda victoria al hilo y Tigres romper su racha de tres partidos sin ganar.</desc>
+    <date>20261031</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">130</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003BE1CV.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=9208870&amp;tmsId=EP015992495368</url>
+    <episode-num system="dd_progid">EP01599249.5368</episode-num>
+    <new />
+    <live />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+<programme start="20261101010000 +0000" stop="20261101030000 +0000" channel="FOX+ MX">
+    <title>Fútbol Premier League</title>
+    <sub-title>Manchester City vs. Brighton &amp; Hove Albion</sub-title>
+    <desc>Jornada 9 de la temporada 2026-27 de la Premier League. Desde el estadio Etihad. El City, líder de la clasificación pero derrotado en su último partido de liga, se enfrenta a un Brighton que ha ganado dos de los últimos cuatro encuentros.</desc>
+    <date>20261031</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Soccer</category>
+    <length units="minutes">120</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG0039B9DX.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3605402&amp;tmsId=EP002093388471</url>
+    <episode-num system="dd_progid">EP00209338.8471</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
 <programme start="20261030190000 +0000" stop="20261030210000 +0000" channel="Fox Sports Premium">
     <title>Baloncesto Mexicano LNBP</title>
     <sub-title>Astros de Jalisco vs. Fuerza Regia de Monterrey</sub-title>
@@ -39986,346 +40200,525 @@
       <quality>HDTV</quality>
     </video>
   </programme>
-<programme start="20261030192000 +0000" stop="20261030213000 +0000" channel="FOX+ MX">
-    <title>Fútbol Bundesliga</title>
-    <sub-title>SV 07 Elversberg vs. 1. FSV Mainz 05</sub-title>
-    <desc>Acción de la jornada 8 de la Bundesliga 2026-27. Elversberg busca puestos europeos y Mainz 05 ganar tras perder.</desc>
-    <date>20261030</date>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">130</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003BZMHZ.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3589962&amp;tmsId=EP012592394551</url>
-    <episode-num system="dd_progid">EP01259239.4551</episode-num>
-    <new />
-    <live />
-    <video>
-      <quality>HDTV</quality>
-    </video>
+<programme start="20261030193000 +0000" stop="20261030215500 +0000" channel="Canal 5 MX">
+    <title>Meteoro: La película</title>
+    <desc>Después de rechazar una lucrativa oferta de un empresario, Speed Racer descubre que algunas de las más importantes carreras están arregladas por magnates sin principios, que manipulan a los principales pilotos de carrera para tener más ganancias.</desc>
+    <credits>
+      <director>Andy Wachowski</director>
+      <director>Larry Wachowski</director>
+      <actor>Emile Hirsch</actor>
+      <actor>Christina Ricci</actor>
+      <actor>Susan Sarandon</actor>
+    </credits>
+    <date>20080508</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Feature Film</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <length units="minutes">145</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p170951_v_v8_aa.jpg" />
+    <episode-num system="dd_progid">MV00254819.0000</episode-num>
   </programme>
-<programme start="20261030213000 +0000" stop="20261030214500 +0000" channel="FOX+ MX">
-    <title>Fútbol Bundesliga</title>
-    <sub-title>Discovery: Hamburger SV</sub-title>
-    <desc>Los partidos de fútbol de la temporada pasada.</desc>
-    <date>20261010</date>
-    <category lang="en">Episode</category>
-    <category lang="en">Sports non-event</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">15</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p7956966_b_h9_aj.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=7956966&amp;tmsId=EP029185670152</url>
-    <episode-num system="dd_progid">EP02918567.0152</episode-num>
-    <episode-num system="xmltv_ns">2025.1029.</episode-num>
-    <episode-num system="original-air-date">2026-10-10 00:00:00</episode-num>
-    <previously-shown start="20261010000000" />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261030214500 +0000" stop="20261030220000 +0000" channel="FOX+ MX">
-    <title>Fútbol Bundesliga</title>
-    <sub-title>Discovery: Bundesliga 1</sub-title>
-    <desc>Los partidos de fútbol de la temporada pasada.</desc>
-    <date>20261017</date>
-    <category lang="en">Episode</category>
-    <category lang="en">Sports non-event</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">15</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p7956966_b_h9_aj.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=7956966&amp;tmsId=EP029185670154</url>
-    <episode-num system="dd_progid">EP02918567.0154</episode-num>
-    <episode-num system="xmltv_ns">2025.587.0/1</episode-num>
-    <episode-num system="original-air-date">2026-10-17 00:00:00</episode-num>
-    <previously-shown start="20261017000000" />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261030220000 +0000" stop="20261031000000 +0000" channel="FOX+ MX">
-    <title>Automovilismo NASCAR Craftsman Truck Series</title>
-    <sub-title>Xfinity 500</sub-title>
-    <desc>Desde el Martinsville Speedway en Martinsville, Virginia.</desc>
+<programme start="20261030215500 +0000" stop="20261030233000 +0000" channel="Canal 5 MX">
+    <title>Automovilismo Fórmula 1</title>
+    <sub-title>Gran Premio de la Ciudad de México: Práctica 2</sub-title>
+    <desc>Cobertura de la segunda práctica de la ronda 19 de la Fórmula 1, 2026 con el Gran Premio de la Ciudad de México. Desde el Autódromo Hermanos Rodríguez, en Ciudad de México, México.</desc>
     <date>20261030</date>
     <category lang="en">Sports</category>
     <category lang="en">Sports event</category>
     <category lang="en">Auto racing</category>
-    <length units="minutes">120</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003SXERX.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=23711161&amp;tmsId=EP045941560133</url>
-    <episode-num system="dd_progid">EP04594156.0133</episode-num>
+    <length units="minutes">95</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003VPGT2.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=691060&amp;tmsId=EP004717762828</url>
+    <episode-num system="dd_progid">EP00471776.2828</episode-num>
     <new />
     <live />
-    <video>
-      <quality>HDTV</quality>
-    </video>
   </programme>
-<programme start="20261031000000 +0000" stop="20261031010000 +0000" channel="FOX+ MX">
-    <title>FIA World Rally Championship</title>
-    <sub-title>Highlights de Barcelona</sub-title>
-    <desc>Toda la emoción del FIA World Rally Championship. Cobertura de las pruebas automovilísticas que conforman el campeonato.</desc>
-    <date>20261030</date>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Auto racing</category>
-    <length units="minutes">60</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p32080826_b_h9_ab.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=8529542&amp;tmsId=EP026380740222</url>
-    <episode-num system="dd_progid">EP02638074.0222</episode-num>
-    <previously-shown />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261031010000 +0000" stop="20261031030000 +0000" channel="FOX+ MX">
-    <title>Fútbol Mexicano Femenino Primera División</title>
-    <sub-title>Atlas vs. Tigres UANL</sub-title>
-    <desc>Acción de la jornada 13 del Torneo Apertura 2026. Atlas busca el cuarto lugar del Grupo B y las Amazonas el liderato del Grupo A.</desc>
-    <date>20261030</date>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">120</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003DCFXE.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=14472703&amp;tmsId=EP027619862999</url>
-    <episode-num system="dd_progid">EP02761986.2999</episode-num>
-    <new />
-    <live />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261031030000 +0000" stop="20261031060000 +0000" channel="FOX+ MX">
-    <title>Fútbol Americano NFL</title>
-    <sub-title>Carolina Panthers vs. Green Bay Packers</sub-title>
-    <desc>Green Bay Packers recibe a Carolina Panthers en la semana 8 de la temporada regular de la NFL en el Lambeau Field. El mariscal de campo Bryce Young lidera a los Panthers, mientras que el mariscal de campo Jordan Love lidera a los Packers.</desc>
-    <date>20261030</date>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Football</category>
-    <length units="minutes">180</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG0039KLY8.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=191277&amp;tmsId=EP000434296193</url>
-    <episode-num system="dd_progid">EP00043429.6193</episode-num>
-    <new />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261031060000 +0000" stop="20261031080000 +0000" channel="FOX+ MX">
-    <title>Automovilismo NASCAR Craftsman Truck Series</title>
-    <sub-title>Xfinity 500</sub-title>
-    <desc>Desde el Martinsville Speedway en Martinsville, Virginia.</desc>
-    <date>20261031</date>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Auto racing</category>
-    <length units="minutes">120</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003SXERX.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=23711161&amp;tmsId=EP045941560133</url>
-    <episode-num system="dd_progid">EP04594156.0133</episode-num>
-    <new />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261031080000 +0000" stop="20261031100000 +0000" channel="FOX+ MX">
-    <title>Fútbol Ligue 1</title>
-    <sub-title>Le Havre AC vs. Paris Saint-Germain</sub-title>
-    <desc>Acción de la jornada 9 de la temporada regular 2026-27 de la Ligue 1. Le Havre se enfrenta a Paris Saint-Germain. Desde el Stade Océane, en El Havre, Nueva Aquitania.</desc>
-    <date>20261031</date>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">120</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003MFXWH.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3606627&amp;tmsId=EP013607694544</url>
-    <episode-num system="dd_progid">EP01360769.4544</episode-num>
-    <new />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261031100000 +0000" stop="20261031120000 +0000" channel="FOX+ MX">
-    <title>Fútbol Ligue 1</title>
-    <sub-title>Lille OSC vs. RC Lens</sub-title>
-    <desc>Acción de la jornada 9 de la temporada regular 2026-27 de la Ligue 1. Lille se enfrenta a RC Lens. Desde el Stade Océane, en El Havre, Nueva Aquitania.</desc>
-    <date>20261031</date>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">120</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003MG8YG.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3606627&amp;tmsId=EP013607694548</url>
-    <episode-num system="dd_progid">EP01360769.4548</episode-num>
-    <new />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261031120000 +0000" stop="20261031140000 +0000" channel="FOX+ MX">
-    <title>Fútbol Bundesliga</title>
-    <sub-title>SV 07 Elversberg vs. 1. FSV Mainz 05</sub-title>
-    <desc>Acción de la jornada 8 de la Bundesliga 2026-27. Elversberg busca puestos europeos y Mainz 05 ganar tras perder.</desc>
-    <date>20261031</date>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">120</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003BZMHZ.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3589962&amp;tmsId=EP012592394551</url>
-    <episode-num system="dd_progid">EP01259239.4551</episode-num>
-    <new />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261031140000 +0000" stop="20261031142000 +0000" channel="FOX+ MX">
-    <title>Fútbol Bundesliga</title>
-    <sub-title>Discovery: Hamburger SV</sub-title>
-    <desc>Los partidos de fútbol de la temporada pasada.</desc>
-    <date>20261010</date>
-    <category lang="en">Episode</category>
-    <category lang="en">Sports non-event</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">20</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p7956966_b_h9_aj.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=7956966&amp;tmsId=EP029185670152</url>
-    <episode-num system="dd_progid">EP02918567.0152</episode-num>
-    <episode-num system="xmltv_ns">2025.1030.</episode-num>
-    <episode-num system="original-air-date">2026-10-10 00:00:00</episode-num>
-    <previously-shown start="20261010000000" />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261031142000 +0000" stop="20261031163000 +0000" channel="FOX+ MX">
-    <title>Fútbol Bundesliga</title>
-    <sub-title>Bayer 04 Leverkusen vs. VfB Stuttgart</sub-title>
-    <desc>Acción de la jornada 8 de la Bundesliga 2026-27. Leverkusen busca el tercer lugar y Stuttgart romper su racha de dos derrotas.</desc>
-    <date>20261031</date>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">130</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003B0EV9.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3589962&amp;tmsId=EP012592394555</url>
-    <episode-num system="dd_progid">EP01259239.4555</episode-num>
-    <new />
-    <live />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261031163000 +0000" stop="20261031193000 +0000" channel="FOX+ MX">
-    <title>Fútbol Americano Universitario</title>
-    <sub-title>Wisconsin vs. Iowa</sub-title>
-    <desc>Semana 9 del fútbol americano universitario de la NCAA 2026. Wisconsin enfrenta a Iowa. Desde el Kinnick Stadium.</desc>
-    <date>20261031</date>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Football</category>
-    <length units="minutes">180</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003708BF.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=191261&amp;tmsId=EP057947954532</url>
-    <episode-num system="dd_progid">EP05794795.4532</episode-num>
-    <new />
-    <live />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261031193000 +0000" stop="20261031220000 +0000" channel="FOX+ MX">
-    <title>Fútbol Ligue 1</title>
-    <sub-title>ESTAC Troyes vs. Le Mans FC</sub-title>
-    <desc>Acción de la jornada 9 de la temporada regular 2026-27 de la Ligue 1. Troyes se enfrenta a Le Mans. Desde el Stade de l'Aube, en Troyes.</desc>
-    <date>20261031</date>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">150</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003MFJJ7.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3606627&amp;tmsId=EP013607694545</url>
-    <episode-num system="dd_progid">EP01360769.4545</episode-num>
-    <new />
-    <live />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261031220000 +0000" stop="20261031223000 +0000" channel="FOX+ MX">
-    <title>Premier League Stories</title>
-    <desc>Se presentan a las figuras que han marcado la época en la Premier League, centrándose en las historias que interesan al público internacional.</desc>
-    <date>20220801</date>
+<programme start="20261030233000 +0000" stop="20261031003000 +0000" channel="Canal 5 MX">
+    <title>Contrato de corazones, tú y yo</title>
+    <desc>Feri llega a una escuela de élite en donde se convierte en una de las alumnas más populares e ícono de la moda. Logró entrar gracias al esfuerzo de su familia que maneja una tienda de vestidos de XV años de barrio. Su secreto corre peligro.</desc>
+    <credits>
+      <director>Bernardo Serna</director>
+      <director>Robby Chapa</director>
+      <director>Cristobal Juárez</director>
+      <actor>Farah Justiniani</actor>
+      <actor>Pedro Baldo</actor>
+      <actor>Tristán Maze</actor>
+    </credits>
+    <date>20251027</date>
     <category lang="en">Show</category>
     <category lang="en">Series</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">30</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p22666021_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=22520345&amp;tmsId=SH064805900000</url>
-    <episode-num system="dd_progid">SH06480590.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1030.</episode-num>
-    <episode-num system="original-air-date">2022-08-10 00:00:00</episode-num>
-    <previously-shown start="20220810000000" />
-    <video>
-      <quality>HDTV</quality>
-    </video>
+    <category lang="en">Drama</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Soap</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p31402758_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=31402758&amp;tmsId=SH060946200000</url>
+    <episode-num system="dd_progid">SH06094620.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1029.</episode-num>
+    <episode-num system="original-air-date">2025-10-27 00:00:00</episode-num>
+    <previously-shown start="20251027000000" />
+    <audio type="stereo" />
   </programme>
-<programme start="20261031223000 +0000" stop="20261031225000 +0000" channel="FOX+ MX">
-    <title>Premier League Big Interview</title>
-    <desc>Discusiones en profundidad con jugadores actuales de la máxima categoría del fútbol inglés, la Premier League.</desc>
-    <date>20261030</date>
-    <category lang="en">Episode</category>
+<programme start="20261031003000 +0000" stop="20261031023000 +0000" channel="Canal 5 MX">
+    <title>Gremlins 2: la nueva generación</title>
+    <desc>Un rascacielos moderno es el trasfondo de la continuación satírica de la horda de Gremlins, los destructivos diablillos.</desc>
+    <credits>
+      <director>Joe Dante</director>
+      <actor>Zach Galligan</actor>
+      <actor>Phoebe Cates</actor>
+      <actor>John Glover</actor>
+    </credits>
+    <date>19900615</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Feature Film</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Horror</category>
+    <length units="minutes">120</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p12530_v_v8_ai.jpg" />
+    <episode-num system="dd_progid">MV00056595.0000</episode-num>
+  </programme>
+<programme start="20261031023000 +0000" stop="20261031043000 +0000" channel="Canal 5 MX">
+    <title>Me caigo de risa</title>
+    <desc>Show de improvisación protagonizado por Faisy y su disfuncional familia.</desc>
+    <credits>
+      <actor>Faisy</actor>
+      <actor>Yurem Rojas</actor>
+      <actor>Mariana Echeverría</actor>
+    </credits>
+    <date>20140218</date>
+    <category lang="en">Show</category>
     <category lang="en">Series</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <length units="minutes">20</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p30992467_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=30992467&amp;tmsId=EP065990840007</url>
-    <episode-num system="dd_progid">EP06599084.0007</episode-num>
-    <episode-num system="xmltv_ns">2025.31.0/1</episode-num>
-    <episode-num system="original-air-date">2026-10-30 00:00:00</episode-num>
-    <previously-shown start="20261030000000" />
-    <video>
-      <quality>HDTV</quality>
-    </video>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <length units="minutes">120</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p10549957_b_h9_ae.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=10549957&amp;tmsId=SH018760410000</url>
+    <episode-num system="dd_progid">SH01876041.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1029.</episode-num>
+    <episode-num system="original-air-date">2014-02-18 00:00:00</episode-num>
+    <previously-shown start="20140218000000" />
   </programme>
-<programme start="20261031225000 +0000" stop="20261101010000 +0000" channel="FOX+ MX">
+<programme start="20261031043000 +0000" stop="20261031060000 +0000" channel="Canal 5 MX">
+    <title>Bromas que matan</title>
+    <desc>Chicas populares de una escuela secundaria se apresuran para encubrir una broma pesada que tiene un resultado bastante malo.</desc>
+    <credits>
+      <director>Darren Stein</director>
+      <actor>Rose McGowan</actor>
+      <actor>Rebecca Gayheart</actor>
+      <actor>Julie Benz</actor>
+    </credits>
+    <date>19990130</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Feature Film</category>
+    <category lang="en">Comedy drama</category>
+    <length units="minutes">90</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p22609_b_v12_ab.jpg" />
+    <episode-num system="dd_progid">MV00129007.0000</episode-num>
+  </programme>
+<programme start="20261031060000 +0000" stop="20261031063000 +0000" channel="Canal 5 MX">
+    <title>Inova</title>
+    <desc>Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <date>20261031</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p408068_b_h9_ab.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=408068&amp;tmsId=SH007199180000</url>
+    <episode-num system="dd_progid">SH00719918.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+<programme start="20261031063000 +0000" stop="20261031070000 +0000" channel="Canal 5 MX">
+    <title>Inova</title>
+    <desc>Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <date>20261031</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p408068_b_h9_ab.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=408068&amp;tmsId=SH007199180000</url>
+    <episode-num system="dd_progid">SH00719918.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+<programme start="20261031070000 +0000" stop="20261031073000 +0000" channel="Canal 5 MX">
+    <title>CV directo</title>
+    <desc>Venta de productos de todo tipo.</desc>
+    <credits>
+      <actor>Daniela Avendaño</actor>
+    </credits>
+    <date>20261031</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p346430_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=346430&amp;tmsId=SH002022580000</url>
+    <episode-num system="dd_progid">SH00202258.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <previously-shown />
+  </programme>
+<programme start="20261031073000 +0000" stop="20261031080000 +0000" channel="Canal 5 MX">
+    <title>CV directo</title>
+    <desc>Venta de productos de todo tipo.</desc>
+    <credits>
+      <actor>Daniela Avendaño</actor>
+    </credits>
+    <date>20261031</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p346430_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=346430&amp;tmsId=SH002022580000</url>
+    <episode-num system="dd_progid">SH00202258.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <previously-shown />
+  </programme>
+<programme start="20261031080000 +0000" stop="20261031083000 +0000" channel="Canal 5 MX">
+    <title>CV directo</title>
+    <desc>Venta de productos de todo tipo.</desc>
+    <credits>
+      <actor>Daniela Avendaño</actor>
+    </credits>
+    <date>20261031</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p346430_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=346430&amp;tmsId=SH002022580000</url>
+    <episode-num system="dd_progid">SH00202258.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <previously-shown />
+  </programme>
+<programme start="20261031083000 +0000" stop="20261031090000 +0000" channel="Canal 5 MX">
+    <title>CV directo</title>
+    <desc>Venta de productos de todo tipo.</desc>
+    <credits>
+      <actor>Daniela Avendaño</actor>
+    </credits>
+    <date>20261031</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p346430_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=346430&amp;tmsId=SH002022580000</url>
+    <episode-num system="dd_progid">SH00202258.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <previously-shown />
+  </programme>
+<programme start="20261031090000 +0000" stop="20261031093000 +0000" channel="Canal 5 MX">
+    <title>Crónicas</title>
+    <desc>Historias que hacen historia: una mirada profunda a los sucesos que impactan en la vida diaria de las personas.</desc>
+    <credits>
+      <actor>María Antonieta Collins</actor>
+      <actor>Félix De Bedout</actor>
+    </credits>
+    <date>20231118</date>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Community</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p28785242_b_h6_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=28785242&amp;tmsId=SH054072560000</url>
+    <episode-num system="dd_progid">SH05407256.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <episode-num system="original-air-date">2023-11-18 00:00:00</episode-num>
+    <previously-shown start="20231118000000" />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+<programme start="20261031093000 +0000" stop="20261031100000 +0000" channel="Canal 5 MX">
+    <title>CV directo</title>
+    <desc>Venta de productos de todo tipo.</desc>
+    <credits>
+      <actor>Daniela Avendaño</actor>
+    </credits>
+    <date>20261031</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p346430_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=346430&amp;tmsId=SH002022580000</url>
+    <episode-num system="dd_progid">SH00202258.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <previously-shown />
+  </programme>
+<programme start="20261031100000 +0000" stop="20261031103000 +0000" channel="Canal 5 MX">
+    <title>CV directo</title>
+    <desc>Venta de productos de todo tipo.</desc>
+    <credits>
+      <actor>Daniela Avendaño</actor>
+    </credits>
+    <date>20261031</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p346430_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=346430&amp;tmsId=SH002022580000</url>
+    <episode-num system="dd_progid">SH00202258.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <previously-shown />
+  </programme>
+<programme start="20261031103000 +0000" stop="20261031110000 +0000" channel="Canal 5 MX">
+    <title>Especial de R.T.C.</title>
+    <desc>Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más.</desc>
+    <date>20000227</date>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Entertainment</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p380178_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=380178&amp;tmsId=SH003667470000</url>
+    <episode-num system="dd_progid">SH00366747.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <episode-num system="original-air-date">2000-02-27 00:00:00</episode-num>
+    <previously-shown start="20000227000000" />
+  </programme>
+<programme start="20261031110000 +0000" stop="20261031113000 +0000" channel="Canal 5 MX">
+    <title>Crónicas</title>
+    <desc>Historias que hacen historia: una mirada profunda a los sucesos que impactan en la vida diaria de las personas.</desc>
+    <credits>
+      <actor>María Antonieta Collins</actor>
+      <actor>Félix De Bedout</actor>
+    </credits>
+    <date>20231118</date>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Community</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p28785242_b_h6_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=28785242&amp;tmsId=SH054072560000</url>
+    <episode-num system="dd_progid">SH05407256.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <episode-num system="original-air-date">2023-11-18 00:00:00</episode-num>
+    <previously-shown start="20231118000000" />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+<programme start="20261031113000 +0000" stop="20261031120000 +0000" channel="Canal 5 MX">
+    <title>CV directo</title>
+    <desc>Venta de productos de todo tipo.</desc>
+    <credits>
+      <actor>Daniela Avendaño</actor>
+    </credits>
+    <date>20261031</date>
+    <category lang="en">Show</category>
+    <category lang="en">Paid Programming</category>
+    <category lang="en">Consumer</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p346430_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=346430&amp;tmsId=SH002022580000</url>
+    <episode-num system="dd_progid">SH00202258.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <previously-shown />
+  </programme>
+<programme start="20261031120000 +0000" stop="20261031140000 +0000" channel="Canal 5 MX">
+    <title>PJ Masks: Héroes en pijamas</title>
+    <desc>Connor, Amaya y Greg se ponen sus pijamas y activan sus amuletos animales, que los llevan a ser sus alter egos durante la noche, embarcándose en aventuras de superhéroes llenas de acción.</desc>
+    <credits>
+      <director>Christian De Vita</director>
+      <director>Merle-Anne Ridley</director>
+      <actor>Jacob Ewaniuk</actor>
+      <actor>Kyle Harrison Breitkopf</actor>
+      <actor>Addison Holley</actor>
+    </credits>
+    <date>20150918</date>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <length units="minutes">120</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p12115698_b_h9_cc.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=12115698&amp;tmsId=SH024865200000</url>
+    <episode-num system="dd_progid">SH02486520.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <episode-num system="original-air-date">2015-09-18 00:00:00</episode-num>
+    <previously-shown start="20150918000000" />
+    <rating system="MPAA">
+      <value>TVY</value>
+    </rating>
+  </programme>
+<programme start="20261031140000 +0000" stop="20261031143000 +0000" channel="Canal 5 MX">
+    <title>Bebés llorones lágrimas mágicas</title>
+    <desc>Pequeños bebés con grandes personalidades descubren un mundo donde las lágrimas son mágicas y tienen poderes especiales.</desc>
+    <credits>
+      <director>Alex Cervantes</director>
+      <director>Manu González</director>
+      <actor>Oriana Medina</actor>
+      <actor>Kalista Price</actor>
+      <actor>Zoe Robinson</actor>
+    </credits>
+    <date>20180818</date>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <length units="minutes">30</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p16230301_b_h9_ao.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=16230301&amp;tmsId=SH034955150000</url>
+    <episode-num system="dd_progid">SH03495515.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <episode-num system="original-air-date">2018-07-19 00:00:00</episode-num>
+    <previously-shown start="20180719000000" />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+<programme start="20261031143000 +0000" stop="20261031153000 +0000" channel="Canal 5 MX">
+    <title>Garfield y sus amigos</title>
+    <desc>Garfield, el gato bromista, amante de la siesta y la lasaña, se divierte con sus amigos.</desc>
+    <credits>
+      <actor>Lorenzo Music</actor>
+      <actor>Thom Huge</actor>
+      <actor>Gregg Berger</actor>
+    </credits>
+    <date>19880917</date>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <length units="minutes">60</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p391744_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=391744&amp;tmsId=SH001776030000</url>
+    <episode-num system="dd_progid">SH00177603.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1030.</episode-num>
+    <episode-num system="original-air-date">1988-09-17 00:00:00</episode-num>
+    <previously-shown start="19880917000000" />
+    <subtitles type="teletext" />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+<programme start="20261031153000 +0000" stop="20261031172500 +0000" channel="Canal 5 MX">
+    <title>Dino King: Viaje a la montaña de fuego</title>
+    <desc>Speckles se embarca en un viaje en busca de su hijo Junior, quien fue secuestrado durante un encuentro peligroso.</desc>
+    <credits>
+      <director>Han Sang-ho</director>
+      <actor>Park Hee-soon</actor>
+      <actor>Ra Mi-ran</actor>
+      <actor>Kim Seong-gyoon</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Feature Film</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <length units="minutes">115</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p17248813_v_v8_ab.jpg" />
+    <episode-num system="dd_progid">MV01407430.0000</episode-num>
+  </programme>
+<programme start="20261031172500 +0000" stop="20261031183000 +0000" channel="Canal 5 MX">
+    <title>Automovilismo Fórmula 1</title>
+    <sub-title>Gran Premio de la Ciudad de México: Práctica 3</sub-title>
+    <desc>Cobertura de la tercera práctica de la ronda 19 de la Fórmula 1, 2026 con el Gran Premio de la Ciudad de México. Desde el Autódromo Hermanos Rodríguez, en Ciudad de México, México.</desc>
+    <date>20261031</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Auto racing</category>
+    <length units="minutes">65</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003VPGT8.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=691060&amp;tmsId=EP004717762829</url>
+    <episode-num system="dd_progid">EP00471776.2829</episode-num>
+    <new />
+    <live />
+  </programme>
+<programme start="20261031183000 +0000" stop="20261031205500 +0000" channel="Canal 5 MX">
+    <title>Space Jam: Una nueva era</title>
+    <desc>Atrapado en el espacio digital, la superestrella del baloncesto LeBron James se une a la banda de los Looney Tunes para derrotar al Goon Squad en un juego de baloncesto y salvar a su hijo.</desc>
+    <credits>
+      <director>Malcolm D. Lee</director>
+      <actor>LeBron James</actor>
+      <actor>Don Cheadle</actor>
+      <actor>Cedric Joe</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Feature Film</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Animated</category>
+    <length units="minutes">145</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p17971915_v_v8_aq.jpg" />
+    <episode-num system="dd_progid">MV02083980.0000</episode-num>
+  </programme>
+<programme start="20261031205500 +0000" stop="20261031223000 +0000" channel="Canal 5 MX">
+    <title>Automovilismo Fórmula 1</title>
+    <sub-title>Gran Premio de la Ciudad de México: Clasificación</sub-title>
+    <desc>Cobertura de la sesión de clasificación de la ronda 19 de la Fórmula 1, 2026 con el Gran Premio de la Ciudad de México. Desde el Autódromo Hermanos Rodríguez, en Ciudad de México, México.</desc>
+    <date>20261031</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports event</category>
+    <category lang="en">Auto racing</category>
+    <length units="minutes">95</length>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003VPGQB.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=691060&amp;tmsId=EP004717762830</url>
+    <episode-num system="dd_progid">EP00471776.2830</episode-num>
+    <new />
+    <live />
+  </programme>
+<programme start="20261031223000 +0000" stop="20261101005500 +0000" channel="Canal 5 MX">
+    <title>Extraordinario</title>
+    <desc>August es un niño con deformidad facial que, por ello, nunca asistió a la escuela pública. Decidido a no perder esa experiencia, August decide ir a la escuela, pero integrarse no será nada fácil.</desc>
+    <credits>
+      <director>Stephen Chbosky</director>
+      <actor>Julia Roberts</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Jacob Tremblay</actor>
+    </credits>
+    <date>20171117</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Feature Film</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">145</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p13369952_v_v8_ae.jpg" />
+    <episode-num system="dd_progid">MV01087587.0000</episode-num>
+  </programme>
+<programme start="20261101005500 +0000" stop="20261101030500 +0000" channel="Canal 5 MX">
     <title>Fútbol Mexicano Primera División</title>
-    <sub-title>Pachuca vs. Tigres UANL</sub-title>
-    <desc>Acción de la jornada 15 del Torneo Apertura 2026. Los Tuzos buscan su segunda victoria al hilo y Tigres romper su racha de tres partidos sin ganar.</desc>
+    <sub-title>Monterrey vs. Tijuana</sub-title>
+    <desc>Acción de la jornada 15 del Torneo Apertura 2026. Rayados busca mantenerse en liguilla.</desc>
     <date>20261031</date>
     <category lang="en">Sports</category>
     <category lang="en">Sports event</category>
     <category lang="en">Soccer</category>
     <length units="minutes">130</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003BE1CV.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=9208870&amp;tmsId=EP015992495368</url>
-    <episode-num system="dd_progid">EP01599249.5368</episode-num>
+    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG003BE4HD.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=9208870&amp;tmsId=EP015992495369</url>
+    <episode-num system="dd_progid">EP01599249.5369</episode-num>
     <new />
     <live />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-<programme start="20261101010000 +0000" stop="20261101030000 +0000" channel="FOX+ MX">
-    <title>Fútbol Premier League</title>
-    <sub-title>Manchester City vs. Brighton &amp; Hove Albion</sub-title>
-    <desc>Jornada 9 de la temporada 2026-27 de la Premier League. Desde el estadio Etihad. El City, líder de la clasificación pero derrotado en su último partido de liga, se enfrenta a un Brighton que ha ganado dos de los últimos cuatro encuentros.</desc>
-    <date>20261031</date>
-    <category lang="en">Sports</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">120</length>
-    <icon src="https://ebyl.tmsimg.com/assets/GNLZZGG0039B9DX.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=3605402&amp;tmsId=EP002093388471</url>
-    <episode-num system="dd_progid">EP00209338.8471</episode-num>
-    <previously-shown />
-    <video>
-      <quality>HDTV</quality>
-    </video>
   </programme>
 	<programme start="20261031000000 +0000" stop="20261031003000 +0000" channel="DSPORTS">
     <title>Simplemente Diego: La última función</title>
@@ -41854,6 +42247,157 @@
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FOIY3MSIN4SI6YEN4NBI.jpg/a:p/im:i:c_limit,w_1920/FOIY3MSIN4SI6YEN4NBI_reference_keyframe.jpg" />
 	</programme>
+  <programme start="20261031152853 +0000" stop="20261031173837 +0000" channel="Sony One Hits Comedia">
+    <title>El Barrendero</title>
+    <desc>Don Napo (Cantinflas, Around the World in Eighty Days) es un barrendero de la ciudad quien limpia la suciedad mientras baila, canta y coquetea con las mucamas del vecindario. Un día, Don Napo encuentra a un bebé abandonado en la basura, y al día siguiente, un valioso cuadro aparece en su cubo de basura. Una serie de eventos llevan a Don Napo a enfrentarse con delincuentes corruptos, ¡y necesitará la ayuda de todos sus amigos para acabar con ellos y salvar la situación! Remasterizada.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1122628792_3_20250812T005515001Z_86_imageprocessorclient-tvplus-linear-5db7c6bc99-grwzd.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261031150723 +0000" stop="20261031170728 +0000" channel="Sony One Hits Acción">
+    <title>Jóvenes Y Brujas</title>
+    <desc>Sarah siempre fue diferente. Y como la chica nueva en St. Benedict's Academy, inmediatamente se junta con las marginadas del instituto. Pero estas chicas no se conformarán con ser unas inadaptadas sin poder. Han descubierto “"THE CRAFT", y van a usarlo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1225192114_0_20250929T192335219Z_23_imageprocessorclient-tvplus-linear-5db7c6bc99-dqcsm.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261031132158 +0000" stop="20261031150056 +0000" channel="5f1ac2591dd8880007bb7d6d">
+    <title>Gangster Nº 1</title>
+    <episode-num system="original-air-date">20000609000000 +0000</episode-num>
+    <desc>Un mafioso recuerda su ascenso en el Londres de los años sesenta. La ambición y la envidia lo llevan a traicionar a su mentor, Freddie Mays, para convertirse en el gánster más temido de la ciudad.</desc>
+    <icon src="https://images.pluto.tv/episodes/6aad0061291eac08d1d826e6/poster_1789722722205.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20000609</date>
+    <series-id system="pluto">6aad0060291eac08d1d826c3</series-id>
+    <category>Movie</category>
+    <category>Adventure</category>
+    <category>Action</category>
+  </programme>
+  <programme start="20261031125650 +0000" stop="20261031142950 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>Moebius</title>
+    <episode-num system="original-air-date">19960101000000 +0000</episode-num>
+    <desc>En un futuro no muy lejano, un misterioso accidente ocurre en el metro de Buenos Aires: un coche que circulaba por la vía desaparece, perdiéndose en el tiempo debido a un extraño fenómeno que solo un científico puede resolver.</desc>
+    <icon src="https://images.pluto.tv/episodes/628748b9e6e53d00136768be/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19960101</date>
+    <series-id system="pluto">628748b6e6e53d00136768b7</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme start="20261031142950 +0000" stop="20261031160533 +0000" channel="5f6a38eaa5b68b0007a00e7a">
+    <title>White Space</title>
+    <episode-num system="original-air-date">20151211000000 +0000</episode-num>
+    <desc>La tripulación de una nave pesquera espacial se enfrenta a una criatura cósmica gigantesca y mortal mientras opera en un sector inexplorado del espacio.</desc>
+    <icon src="https://images.pluto.tv/episodes/6abfe3109abe27364cf23354/poster_1790960403326.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20151211</date>
+    <series-id system="pluto">6abfe3109abe27364cf23335</series-id>
+    <category>Science fiction</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261031135209 +0000" stop="20261031153409 +0000" channel="5f1ac8a87cd38d000745d7cf">
+    <title>Obsession</title>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>Sonia Paston acepta una gran promoción laboral que significa dejar su vida en Nueva York para mudarse a un pequeño pueblo cerca de Boston. Aún si ella esta lista para irse, alguien no esta dispuesto a vivir sin ella.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4f3a2c2aa610001a82fc06/poster_1769024524574.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20110101</date>
+    <series-id system="pluto">5f4f3a2a2aa610001a82fc00</series-id>
+    <category>Movie</category>
+    <category>Action</category>
+  </programme>
+  <programme start="20261031125546 +0000" stop="20261031145846 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title>La carretera</title>
+    <episode-num system="original-air-date">20090101000000 +0000</episode-num>
+    <desc>Basado en la espléndida novela que ganó el premio Pulitzer en 2007. La película nos introduce en un mundo apocalíptico, arrasado por una explosión nuclear, en el cual un padre y su hijo viajan hacia la costa para buscar un lugar seguro donde vivir.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4f5ce5fa72a5001a5fd945/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20090101</date>
+    <series-id system="pluto">5f4f5ce4fa72a5001a5fd93d</series-id>
+    <category>Biographical Drama</category>
+    <category>Movie</category>
+    <category>Drama</category>
+  </programme>
+  <programme start="20261031145846 +0000" stop="20261031165746 +0000" channel="5f1ac1f1b66c76000790ef27">
+    <title>Two Lovers</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Leonard (Joaquin Phoenix) empieza a salir con Sandra (Vinessa Shaw), una joven encantadora con la que el matrimonio parece cercano. Pero aparece en su vida una nueva vecina, Michelle (Gwyneth Paltrow),  lo que no hace sino empezar a complicar su vida.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f523c16db45a1001a79aac9/poster_1779885889185.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20080101</date>
+    <series-id system="pluto">5f523c14db45a1001a79aac1</series-id>
+    <category>Movie</category>
+    <category>Romance</category>
+  </programme>
+  <programme start="20261031130855 +0000" stop="20261031145951 +0000" channel="5f1ac947dcd00d0007937c08">
+    <title>Acero azul</title>
+    <episode-num system="original-air-date">19900316000000 +0000</episode-num>
+    <desc>Una novata del cuerpo de policía se ve envuelta en un juego del gato y el ratón con un psicópata con una pistola que se obsesiona con ella.</desc>
+    <icon src="https://images.pluto.tv/episodes/66b339036134930013330e0c/poster_1769190122264.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19900316</date>
+    <series-id system="pluto">66b339016134930013330ded</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme start="20261031130535 +0000" stop="20261031143818 +0000" channel="5f1ac8099c49f600076579b2">
+    <title>Aprendiz de gigoló</title>
+    <episode-num system="original-air-date">20130831000000 +0000</episode-num>
+    <desc>Un hombre convence a su amigo para trabajar como gigoló, lo que provoca situaciones cómicas y complicadas.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a0b31e59db2f8937b420af3/poster_1779118566155.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130831</date>
+    <series-id system="pluto">6a0b31e49db2f8937b420ad4</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261031143818 +0000" stop="20261031160818 +0000" channel="5f1ac8099c49f600076579b2">
+    <title>Conversaciones con otras mujeres</title>
+    <episode-num system="original-air-date">20050101000000 +0000</episode-num>
+    <desc>Un hombre y una mujer próximos a los cuarenta se conocen en una boda en un hotel neoyorkino. Entablarán una conversación llena de ingenio y dobles sentidos en la que cada uno va cercando al otro con la precisión de un felino.</desc>
+    <icon src="https://images.pluto.tv/episodes/63d2481af97d0100131e0fbc/poster_1769036042412.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20050101</date>
+    <series-id system="pluto">63d24818f97d0100131e0f9d</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+    <category>Dark Humor &amp; Black Comedies</category>
+  </programme>
+  <programme start="20261031125320 +0000" stop="20261031143620 +0000" channel="655b5d865812e80008843bd1">
+    <title>Nunca es tarde para enamorarse</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Narra la historia de Harvey (Dustin Hoffman), un hombre aburrido y cansado, que viaja a Londres para asistir a la boda de su hija con un hombre bastante mayor que ella. Allí, Harvey conocerá a una mujer (Emma Thompson) que le cambiará la vida.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f523c1adb45a1001a79ab0b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20080101</date>
+    <series-id system="pluto">5f523c19db45a1001a79ab03</series-id>
+    <category>Movie</category>
+    <category>Romance</category>
+    <category>African-American Romance</category>
+  </programme>
+  <programme start="20261031143620 +0000" stop="20261031161920 +0000" channel="655b5d865812e80008843bd1">
+    <title>Una pizca de amor</title>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Saltan chispas entre un agente literario de libros de cocina y la presentadora de un programa de cocina.</desc>
+    <icon src="https://images.pluto.tv/episodes/63ce6a1a5b790200141046d3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20200101</date>
+    <series-id system="pluto">63ce6a185b790200141046b4</series-id>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
+    <category>Romance</category>
+  </programme>
+  <programme start="20261031122648 +0000" stop="20261031140954 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title>Con la magia en los zapatos</title>
+    <episode-num system="original-air-date">20150315000000 +0000</episode-num>
+    <desc>Un zapatero, aburrido de su vida cotidiana, tropieza con una reliquia mágica que le permite convertirse en otras personas y ver el mundo de otra manera.</desc>
+    <icon src="https://images.pluto.tv/episodes/6729e43d2678a5001418eec6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20150315</date>
+    <series-id system="pluto">6729e43c2678a5001418eea6</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261031140954 +0000" stop="20261031161747 +0000" channel="5f1ac9a2d3611d0007a844bb">
+    <title>Hermosas criaturas</title>
+    <episode-num system="original-air-date">20130119000000 +0000</episode-num>
+    <desc>Ethan y Lena se conocen y se enamoran, y juntos descubren los oscuros secretos de sus respectivas familias, su historia y su ciudad en este thriller romántico sobrenatural.</desc>
+    <icon src="https://images.pluto.tv/episodes/6761a171381eea0013640bd3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20130119</date>
+    <series-id system="pluto">6761a170381eea0013640bb3</series-id>
+    <category>Science fiction</category>
+    <category>Movie</category>
+  </programme>
 	<programme start="20261031120500 +0100" stop="20261031130500 +0100" channel="La 1">
     <title>Viaje al centro de la tele T14 · Especial Nino Bravo</title>
     <sub-title>2024 | TP | ★5.8/10</sub-title>
@@ -95677,9 +96221,6 @@ En Vivo.</desc>
   <programme start="20261031230000 +0100" stop="20261101020000 +0100" channel="FOX+ MX">
     <title lang="es">NASCAR O'reilly</title>
   </programme>
-  <programme start="20261031073000 +0100" stop="20261031083000 +0100" channel="Canal 5 MX">
-    <title lang="es">La ley y el orden UVE</title>
-  </programme>
   <programme start="20261030083000 +0100" stop="20261030090000 +0100" channel="Canal 5 MX">
     <title lang="es">Contacto deportivo</title>
     <desc lang="es">En Vivo</desc>
@@ -95738,28 +96279,13 @@ En Vivo.</desc>
   <programme start="20261031005500 +0100" stop="20261031023000 +0100" channel="Canal 5 MX">
     <title lang="es">Fórmula 1 GP México</title>
   </programme>
-  <programme start="20261031023000 +0100" stop="20261031033000 +0100" channel="Canal 5 MX">
-    <title lang="es">Contrato de Corazones</title>
-  </programme>
   <programme start="20261031033000 +0100" stop="20261031053000 +0100" channel="Canal 5 MX">
     <title lang="es">Gremlins 2</title>
   </programme>
   <programme start="20261031053000 +0100" stop="20261031073000 +0100" channel="Canal 5 MX">
     <title lang="es">Me caigo de risa</title>
   </programme>
-  <programme start="20261031090000 +0100" stop="20261031110000 +0100" channel="Canal 5 MX">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20261031110000 +0100" stop="20261031130000 +0100" channel="Canal 5 MX">
-    <title lang="es">Infomerciales</title>
-  </programme>
   <programme start="20261031130000 +0100" stop="20261031140000 +0100" channel="Canal 5 MX">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20261031140000 +0100" stop="20261031143000 +0100" channel="Canal 5 MX">
-    <title lang="es">Cronicas</title>
-  </programme>
-  <programme start="20261031143000 +0100" stop="20261031150000 +0100" channel="Canal 5 MX">
     <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20261031150000 +0100" stop="20261031170000 +0100" channel="Canal 5 MX">
@@ -95771,9 +96297,6 @@ En Vivo.</desc>
   </programme>
   <programme start="20261031173000 +0100" stop="20261031183000 +0100" channel="Canal 5 MX">
     <title lang="es">Garfield y Sus Amigos</title>
-  </programme>
-  <programme start="20261031183000 +0100" stop="20261031202500 +0100" channel="Canal 5 MX">
-    <title lang="es">Dino King Viaje a la Montaña</title>
   </programme>
   <programme start="20261031202500 +0100" stop="20261031213000 +0100" channel="Canal 5 MX">
     <title lang="es">Fórmula 1 GP México</title>
@@ -99393,9 +99916,6 @@ From Texas Motorplex in Ennis, Texas.</desc>
   <programme start="20261101000000 +0100" stop="20261101030000 +0100" channel="FOX+ MX">
     <title lang="es">NASCAR O'reilly</title>
   </programme>
-  <programme start="20261031063000 +0100" stop="20261031083000 +0100" channel="Canal 5 MX">
-    <title lang="es">Me caigo de risa</title>
-  </programme>
   <programme start="20261030093000 +0100" stop="20261030100000 +0100" channel="Canal 5 MX">
     <title lang="es">Contacto deportivo</title>
     <desc lang="es">En Vivo</desc>
@@ -99419,26 +99939,8 @@ From Texas Motorplex in Ennis, Texas.</desc>
   <programme start="20261030222500 +0100" stop="20261030233000 +0100" channel="Canal 5 MX">
     <title lang="es">Fórmula 1 GP México</title>
   </programme>
-  <programme start="20261030233000 +0100" stop="20261031015500 +0100" channel="Canal 5 MX">
-    <title lang="es">Meteoro La Película</title>
-  </programme>
   <programme start="20261031015500 +0100" stop="20261031033000 +0100" channel="Canal 5 MX">
     <title lang="es">Fórmula 1 GP México</title>
-  </programme>
-  <programme start="20261031043000 +0100" stop="20261031063000 +0100" channel="Canal 5 MX">
-    <title lang="es">Gremlins 2</title>
-  </programme>
-  <programme start="20261031083000 +0100" stop="20261031100000 +0100" channel="Canal 5 MX">
-    <title lang="es">Bromas Que Matan</title>
-  </programme>
-  <programme start="20261031100000 +0100" stop="20261031120000 +0100" channel="Canal 5 MX">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20261031120000 +0100" stop="20261031140000 +0100" channel="Canal 5 MX">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20261031153000 +0100" stop="20261031160000 +0100" channel="Canal 5 MX">
-    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20261031160000 +0100" stop="20261031180000 +0100" channel="Canal 5 MX">
     <title lang="es">PJ Masks: Héroes en Pijamas</title>
@@ -99452,14 +99954,6 @@ From Texas Motorplex in Ennis, Texas.</desc>
   </programme>
   <programme start="20261031212500 +0100" stop="20261031223000 +0100" channel="Canal 5 MX">
     <title lang="es">Fórmula 1 GP México</title>
-  </programme>
-  <programme start="20261031223000 +0100" stop="20261101005500 +0100" channel="Canal 5 MX">
-    <title lang="es">Space Jam: Una Nueva Era</title>
-    <desc lang="es">Tras el secuestro de su hijo por una Inteligencia Artificial malvada, LebBron James se une a los Looney Tunes en un juego de baloncesto para recuperarlo.</desc>
-  </programme>
-  <programme start="20261101005500 +0100" stop="20261101023000 +0100" channel="Canal 5 MX">
-    <title lang="es">Fórmula 1 GP México</title>
-    <desc lang="es">En Vivo</desc>
   </programme>
 	<programme start="20261030200000 +0100" stop="20261030220000 +0100" channel="M+ Deportes">
     <title>DIRECTO Cuartos de Final: Kym - Lehecka T2026 · Torneo de Basilea</title>
@@ -100262,12 +100756,6 @@ From Texas Motorplex in Ennis, Texas.</desc>
   </programme>
   <programme start="20261031050000 +0100" stop="20261031060000 +0100" channel="Canal 5 MX">
     <title lang="es">Contrato de Corazones</title>
-  </programme>
-  <programme start="20261031060000 +0100" stop="20261031080000 +0100" channel="Canal 5 MX">
-    <title lang="es">Me caigo de risa</title>
-  </programme>
-  <programme start="20261031080000 +0100" stop="20261031093000 +0100" channel="Canal 5 MX">
-    <title lang="es">La ley y el orden UVE</title>
   </programme>
   <programme start="20261030062536 +0000" stop="20261030082847 +0000" channel="Sony One Hits Comedia">
     <title>Una Madre Imperfecta</title>
@@ -117626,9 +118114,6 @@ From Texas Motorplex in Ennis, Texas.</desc>
   </programme>
   <programme start="20261030143000 +0100" stop="20261030150000 +0100" channel="Canal 5 MX">
     <title lang="es">Peppa Pig</title>
-  </programme>
-  <programme start="20261030193000 +0100" stop="20261030202500 +0100" channel="Canal 5 MX">
-    <title lang="es">El Show de Patricio Estrella</title>
   </programme>
   <programme start="20261030202500 +0100" stop="20261030213000 +0100" channel="Canal 5 MX">
     <title lang="es">Fórmula 1 GP México</title>
