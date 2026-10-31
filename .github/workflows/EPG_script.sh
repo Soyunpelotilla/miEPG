@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================================== 
 # Script: miEPG.sh 
-# Versión: 3.6 - FIX autodetección Gracenote (cualquier dominio) - syntax fix
+# Versión: 3.6 - FIX autodetección Gracenote sin requests (solo stdlib)
 # ============================================================================== 
 
 sed -i '/^ *$/d' epgs.txt
@@ -19,8 +19,10 @@ while IFS=, read -r epg; do
     export EPG_EXT="$extension"
 
     python3 - << 'PYEOF'
-import requests, re, os, gzip, shutil
+import re, os, gzip, shutil
 from datetime import datetime, timedelta
+import urllib.request
+
 url=os.environ.get("EPG_URL","")
 ext=os.environ.get("EPG_EXT","")
 wanted=set()
@@ -40,12 +42,9 @@ def fix(t):
     return t
 
 try:
-    r=requests.get(url, headers={"User-Agent":"Mozilla/5.0"}, stream=True, timeout=120)
-    r.raise_for_status()
-    first_chunk=b""
-    for chunk in r.iter_content(chunk_size=8192):
-        first_chunk+=chunk
-        if len(first_chunk)>20480: break
+    req=urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=120) as r:
+        first_chunk=r.read(20480)
     text_peek=first_chunk.decode('utf-8',errors='ignore')
 
     is_gracenote=False
@@ -56,37 +55,41 @@ try:
 
     if is_gracenote:
         print(f" └─► Autodetectado Gracenote por contenido, filtrando solo {wanted}")
-        r2=requests.get(url, headers={"User-Agent":"Mozilla/5.0"}, stream=True, timeout=120)
-        r2.raise_for_status()
+        req2=urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0"})
         open("EPG_temp00.xml","w",encoding="utf-8").write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
         cnt=0
-        for line in r2.iter_lines(decode_unicode=True):
-            if not line: continue
-            m=re.search(r'(\d{4}-\d{2}-\d{2})\s+(\d{2}:\d{2}:\d{2})\s+(.+)', line)
-            if not m: continue
-            fecha,hora,resto=m.groups()
-            titulo=fix(resto.split("  ")[0][:120].strip())
-            if len(titulo)<3: continue
-            cid_match=re.search(r'\b(\d{4,6})\b', line)
-            cid=cid_match.group(1) if cid_match else ""
-            if wanted and cid and cid not in wanted: continue
-            try:
-                dt=datetime.strptime(f"{fecha} {hora}", "%Y-%m-%d %H:%M:%S")
-                s=dt.strftime("%Y%m%d%H%M%S")+" +0000"
-                e=(dt+timedelta(minutes=60)).strftime("%Y%m%d%H%M%S")+" +0000"
-                with open("EPG_temp00.xml","a",encoding="utf-8") as out:
-                    out.write(f'<programme start="{s}" stop="{e}" channel="{cid}"><title lang="es">{titulo}</title></programme>\n')
-                cnt+=1
-            except: continue
+        with urllib.request.urlopen(req2, timeout=120) as r2:
+            for raw_line in r2:
+                try:
+                    line=raw_line.decode('utf-8',errors='ignore')
+                except:
+                    continue
+                if not line: continue
+                m=re.search(r'(\d{4}-\d{2}-\d{2})\s+(\d{2}:\d{2}:\d{2})\s+(.+)', line)
+                if not m: continue
+                fecha,hora,resto=m.groups()
+                titulo=fix(resto.split("  ")[0][:120].strip())
+                if len(titulo)<3: continue
+                cid_match=re.search(r'\b(\d{4,6})\b', line)
+                cid=cid_match.group(1) if cid_match else ""
+                if wanted and cid and cid not in wanted: continue
+                try:
+                    dt=datetime.strptime(f"{fecha} {hora}", "%Y-%m-%d %H:%M:%S")
+                    s=dt.strftime("%Y%m%d%H%M%S")+" +0000"
+                    e=(dt+timedelta(minutes=60)).strftime("%Y%m%d%H%M%S")+" +0000"
+                    with open("EPG_temp00.xml","a",encoding="utf-8") as out:
+                        out.write(f'<programme start="{s}" stop="{e}" channel="{cid}"><title lang="es">{titulo}</title></programme>\n')
+                    cnt+=1
+                except: continue
         open("EPG_temp00.xml","a",encoding="utf-8").write('</tv>\n')
-        print(f"   OK {cnt} programas filtrados")
+        print(f"   OK {cnt} programas Gracenote filtrados")
     else:
-        print(f" └─► XMLTV normal, bajando completo")
+        print(f" └─► XMLTV normal detectado, bajando completo")
+        req=urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0"})
         target="EPG_temp00.xml.gz" if ext=="gz" else "EPG_temp00.xml"
-        with open(target,"wb") as f:
-            f.write(first_chunk)
-            for chunk in r.iter_content(chunk_size=8192):
-                f.write(chunk)
+        with urllib.request.urlopen(req, timeout=120) as resp:
+            with open(target,"wb") as f:
+                shutil.copyfileobj(resp, f)
         if ext=="gz":
             try:
                 with gzip.open(target,'rb') as gz:
@@ -94,7 +97,8 @@ try:
                         shutil.copyfileobj(gz,out)
                 os.remove(target)
             except:
-                os.rename(target,"EPG_temp00.xml")
+                if os.path.exists(target):
+                    os.rename(target,"EPG_temp00.xml")
         print("   OK bajado")
 except Exception as ex:
     print(f" ❌ ERROR descarga: {ex}")
@@ -107,74 +111,6 @@ PYEOF
         fi
 
         if [ -f EPG_temp00.xml ]; then
-
-        if ! grep -q "<programme" EPG_temp00.xml && grep -q "programSeriesId\|tmsId" EPG_temp00.xml; then
-            echo " └─► Convert extra Gracenote -> XMLTV (backup)"
-            python3 - << 'PYEOF2'
-import re, xml.etree.ElementTree as ET
-from xml.dom import minidom
-from datetime import datetime, timedelta
-def arreglar_acentos(texto):
-    if not texto: return texto
-    try:
-        if "Ã" in texto or "Â" in texto:
-            for _ in range(2):
-                try:
-                    texto = texto.encode('latin1').decode('utf-8')
-                except:
-                    break
-    except:
-        pass
-    return texto
-with open("EPG_temp00.xml","r",encoding="utf-8",errors="ignore") as f:
-    raw=f.read()
-tv=ET.Element("tv")
-canales={}
-for line in raw.splitlines()[:5000]:
-    m=re.search(r'(\d{4,6})\s+\d{4,6}\s*$', line)
-    if m:
-        cid=m.group(1)
-        nombre=arreglar_acentos(line[:m.start()].strip())
-        if nombre and cid not in canales:
-            canales[cid]=nombre
-            ch=ET.SubElement(tv,"channel")
-            ch.set("id",cid)
-            ET.SubElement(ch,"display-name").text=nombre
-prog_pat=re.compile(r'(\d{4}-\d{2}-\d{2})\s+(\d{2}:\d{2}:\d{2})\s+(.+?)(?:https://|$)')
-count=0
-for line in raw.splitlines():
-    m=prog_pat.search(line)
-    if not m: continue
-    fecha,hora,resto=m.groups()
-    titulo=arreglar_acentos(resto.split("  ")[0][:120].strip())
-    if len(titulo)<3: continue
-    try:
-        dt=datetime.strptime(f"{fecha} {hora}", "%Y-%m-%d %H:%M:%S")
-        start=dt.strftime("%Y%m%d%H%M%S")+" +0000"
-        stop=(dt+timedelta(minutes=60)).strftime("%Y%m%d%H%M%S")+" +0000"
-        cid_match=re.search(r'\b(\d{4,6})\b', line[:100])
-        cid=cid_match.group(1) if cid_match and cid_match.group(1) in canales else "62161"
-        if cid not in canales:
-            canales[cid]="FOX MX"
-            ch=ET.SubElement(tv,"channel")
-            ch.set("id",cid)
-            ET.SubElement(ch,"display-name").text="FOX MX"
-        pr=ET.SubElement(tv,"programme")
-        pr.set("start",start)
-        pr.set("stop",stop)
-        pr.set("channel",cid)
-        t=ET.SubElement(pr,"title")
-        t.set("lang","es")
-        t.text=titulo
-        count+=1
-    except:
-        continue
-xml_str=ET.tostring(tv,encoding="unicode")
-pretty=minidom.parseString(xml_str).toprettyxml(indent="  ",encoding="UTF-8").decode("UTF-8")
-open("EPG_temp00.xml","w",encoding="utf-8").write(pretty)
-print(f"   Convertidos {count}")
-PYEOF2
-        fi
 
         listado="canales_epg${epg_count}.txt"
         echo " └─► Generando listado de canales: $listado"
@@ -221,7 +157,7 @@ fi
 
 for linea in "${canales[@]}"; do
     IFS=',' read -r old new logo offset <<< "$linea"
-    contar_channel="$(grep -c "channel=\"$old\"" EPG_temp.xml)"
+    contar_channel="$(grep -c "channel=\"$old\"" EPG_temp.xml 2>/dev/null || echo 0)"
         if [ "${contar_channel:-0}" -gt 0 ]; then
         
         logo_original=$(sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml | grep "<icon src" | head -1 | sed 's/^[[:space:]]*//')
@@ -318,10 +254,7 @@ perl -i -ne '
 echo "─── VALIDACION FINAL DEL XML ───"
 error_log=$(xmllint --noout miEPG.xml 2>&1)
 if [ $? -eq 0 ]; then
-    echo " │ El archivo XML está perfectamente formado."
-    num_canales=$(grep -c "<channel " miEPG.xml)
-    num_programas=$(grep -c "<programme " miEPG.xml)
-    echo " └─► Canales: $num_canales | Programas: $num_programas"
+    echo " │ XML válido - Canales: $(grep -c "<channel " miEPG.xml) Programas: $(grep -c "<programme " miEPG.xml)"
     cp miEPG.xml epg_acumulado.xml
 else
     echo " ❌ ERROR: $error_log"
