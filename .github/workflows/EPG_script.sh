@@ -1,16 +1,13 @@
-#!/bin/bash
+                                                      substr($stop_time_str, 4, 2) . "-" .
+   #!/bin/bash
 # ============================================================================== 
 # Script: miEPG.sh 
-# Versión: 3.6
-# Función: Combina múltiples XMLs, renombra canales, cambia logos y ajusta hora 
-# Ahora detecta formato Gracenote (programSeriesId) y lo convierte a XMLTV
+# Versión: 3.6 - FIX autodetección Gracenote por contenido (cualquier dominio)
 # ============================================================================== 
 
 sed -i '/^ *$/d' epgs.txt
 sed -i '/^ *$/d' canales.txt
-
 rm -f EPG_temp* canales_epg*.txt
-
 epg_count=0
 
 echo "─── DESCARGANDO EPGs ───"
@@ -18,31 +15,106 @@ echo "─── DESCARGANDO EPGs ───"
 while IFS=, read -r epg; do
         ((epg_count++))
     extension="${epg##*.}"
-    if [ "$extension" = "gz" ]; then
-        echo " │ Descargando y descomprimiendo: $epg"
-        wget -O EPG_temp00.xml.gz -q "$epg"
-        if [ ! -s EPG_temp00.xml.gz ]; then
-            echo " └─► ❌ ERROR: El archivo descargado está vacío o no se descargó correctamente"
-            continue
-        fi
-        if ! gzip -t EPG_temp00.xml.gz 2>/dev/null; then
-            echo " └─► ❌ ERROR: El archivo no es un gzip válido"
-            continue
-        fi
-        gzip -d -f EPG_temp00.xml.gz
-    else
-        echo " │ Descargando: $epg"
-        wget -O EPG_temp00.xml -q "$epg"
+    echo " │ Descargando: $epg"
+
+    python3 - << PYEOF
+import requests, re, os, gzip, shutil
+from datetime import datetime, timedelta
+url="$epg"
+ext="$extension"
+wanted=set()
+try:
+    with open("canales.txt","r",encoding="utf-8",errors="ignore") as f:
+        for l in f:
+            l=l.strip()
+            if l: wanted.add(l.split(",")[0].strip())
+except: pass
+
+def fix(t):
+    if not t: return t
+    if "Ã" in t:
+        try:
+            for _ in range(2): t=t.encode('latin1').decode('utf-8')
+        except: pass
+    return t
+
+try:
+    r=requests.get(url, headers={"User-Agent":"Mozilla/5.0"}, stream=True, timeout=120)
+    r.raise_for_status()
+    # Peek primeros 20KB para detectar formato
+    first_chunk=b""
+    for chunk in r.iter_content(chunk_size=8192):
+        first_chunk+=chunk
+        if len(first_chunk)>20480: break
+    text_peek=first_chunk.decode('utf-8',errors='ignore')
+
+    is_gracenote=False
+    if "programSeriesId" in text_peek or "tmsId" in text_peek:
+        is_gracenote=True
+    elif "<programme" not in text_peek and re.search(r'\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2}', text_peek):
+        is_gracenote=True
+
+    if is_gracenote:
+        print(f" └─► Autodetectado Gracenote por contenido (no por dominio), filtrando solo {wanted}")
+        # Ya consumimos parte, reconstruir iterando desde el inicio
+        # Re-hacer request para streaming limpio
+        r2=requests.get(url, headers={"User-Agent":"Mozilla/5.0"}, stream=True, timeout=120)
+        r2.raise_for_status()
+        open("EPG_temp00.xml","w",encoding="utf-8").write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
+        cnt=0
+        for line in r2.iter_lines(decode_unicode=True):
+            if not line: continue
+            m=re.search(r'(\d{4}-\d{2}-\d{2})\s+(\d{2}:\d{2}:\d{2})\s+(.+)', line)
+            if not m: continue
+            fecha,hora,resto=m.groups()
+            titulo=fix(resto.split("  ")[0][:120].strip())
+            if len(titulo)<3: continue
+            cid_match=re.search(r'\b(\d{4,6})\b', line)
+            cid=cid_match.group(1) if cid_match else ""
+            if wanted and cid and cid not in wanted: continue
+            try:
+                dt=datetime.strptime(f"{fecha} {hora}", "%Y-%m-%d %H:%M:%S")
+                s=dt.strftime("%Y%m%d%H%M%S")+" +0000"
+                e=(dt+timedelta(minutes=60)).strftime("%Y%m%d%H%M%S")+" +0000"
+                with open("EPG_temp00.xml","a",encoding="utf-8") as out:
+                    out.write(f'<programme start="{s}" stop="{e}" channel="{cid}"><title lang="es">{titulo}</title></programme>\n')
+                cnt+=1
+            except: continue
+        open("EPG_temp00.xml","a",encoding="utf-8").write('</tv>\n')
+        print(f"   OK {cnt} programas Gracenote filtrados (sin bajar 150MB enteros)")
+    else:
+        print(f" └─► XMLTV normal detectado, bajando completo")
+        # Guardar lo que ya tenemos + resto
+        target="EPG_temp00.xml.gz" if ext=="gz" else "EPG_temp00.xml"
+        with open(target,"wb") as f:
+            f.write(first_chunk)
+            for chunk in r.iter_content(chunk_size=8192):
+                f.write(chunk)
+        if ext=="gz":
+            try:
+                with gzip.open(target,'rb') as gz:
+                    with open("EPG_temp00.xml",'wb') as out:
+                        shutil.copyfileobj(gz,out)
+                os.remove(target)
+            except:
+                # No era gz real
+                os.rename(target,"EPG_temp00.xml")
+        print("   OK bajado")
+except Exception as ex:
+    print(f" ❌ ERROR descarga: {ex}")
+    open("EPG_temp00.xml","w").write("")
+PYEOF
+
         if [ ! -s EPG_temp00.xml ]; then
             echo " └─► ❌ ERROR: El archivo descargado está vacío o no se descargó correctamente"
             continue
         fi
-    fi
+
         if [ -f EPG_temp00.xml ]; then
 
-        # ====== FIX GRACENOTE: Detectar si es formato (no XMLTV) ======
-        if ! grep -q "<programme" EPG_temp00.xml && grep -q "programSeriesId\|tmsId" EPG_temp00.xml; then
-            echo " └─► Detectado formato Gracenote (cdn.epg.guru), convirtiendo a XMLTV..."
+        # ====== FIX GRACENOTE: Detectar si es formato (no XMLTV) - por contenido ======
+        if ! grep -q "<programme" EPG_temp00.xml && grep -q "programSeriesId\|tmsId\|^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\} [0-9]\{2\}:" EPG_temp00.xml; then
+            echo " └─► Detectado formato Gracenote por contenido, convirtiendo a XMLTV..."
             python3 - << 'PYEOF'
 import re, xml.etree.ElementTree as ET
 from xml.dom import minidom
@@ -153,17 +225,13 @@ for i in "${!canales[@]}"; do
     canales[$i]="$old,$new,$logo,$offset"
 done
 
-# Leer etiquetas de variables.txt
 etiquetas_sed=""
 if [ -f variables.txt ]; then
-    # Extrae lo que hay después de display-name=, quita espacios y separa por comas
     sufijos=$(grep "display-name=" variables.txt | cut -d'=' -f2 | sed 's/, /,/g')
     IFS=',' read -r -a array_etiquetas <<< "$sufijos"
-    
-    # Creamos una lista de comandos para sed (se insertarán en la línea 3 en adelante)
     linea_ins=3
     for etiq in "${array_etiquetas[@]}"; do
-        etiq_clean=$(echo "$etiq" | xargs) # Limpia espacios
+        etiq_clean=$(echo "$etiq" | xargs)
         if [ -n "$etiq_clean" ]; then
             etiquetas_sed="${etiquetas_sed}${linea_ins}i\  <display-name>${new} ${etiq_clean}</display-name>\n"
             ((linea_ins++))
@@ -176,25 +244,17 @@ for linea in "${canales[@]}"; do
     contar_channel="$(grep -c "channel=\"$old\"" EPG_temp.xml)"
         if [ "${contar_channel:-0}" -gt 0 ]; then
         
-        # 1. Extraer el logo original por si no hay uno nuevo en canales.txt
         logo_original=$(sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml | grep "<icon src" | head -1 | sed 's/^[[:space:]]*//')
-        
-        # 2. Definir qué logo usar (el nuevo o el extraído)
         logo_final=""
         if [ -n "$logo" ]; then
             logo_final="    <icon src=\"${logo}\" />"
         else
             logo_final="    $logo_original"
         fi
-
-        # 3. Construir el nuevo archivo de canal desde cero (EPG_temp01.xml)
         echo "  <channel id=\"${new}\">" > EPG_temp01.xml
-        
-        # 4. Insertar los nombres basados en variables.txt
         if [ -f variables.txt ]; then
             sufijos=$(grep "display-name=" variables.txt | cut -d'=' -f2 | sed 's/, /,/g')
             IFS=',' read -r -a array_etiquetas <<< "$sufijos"
-            
             for etiq in "${array_etiquetas[@]}"; do
                 etiq_clean=$(echo "$etiq" | xargs)
                 if [ -n "$etiq_clean" ]; then
@@ -202,24 +262,12 @@ for linea in "${canales[@]}"; do
                 fi
             done
         else
-            # Si no hay variables.txt, ponemos al menos el nombre base
             echo "    <display-name>${new}</display-name>" >> EPG_temp01.xml
         fi
-
-        # 5. Insertar el logo al final
         [ -n "$logo_final" ] && echo "$logo_final" >> EPG_temp01.xml
         echo '  </channel>' >> EPG_temp01.xml
-
-        # Logs informativos
-        if [ -n "$logo" ]; then
-            echo " │ Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo ··· $contar_channel coincidencias"
-        else
-            echo " │ Nombre EPG: $old · Nuevo nombre: $new · Manteniendo logo ··· $contar_channel coincidencias"
-        fi
-
         cat EPG_temp01.xml >> EPG_temp1.xml
         sed -i '$!N;/^\(.*\)\n\1$/!P;D' EPG_temp1.xml
-
         sed -n "/<programme.*\"${old}\"/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
         sed -i '/<programme/s/\">.*/\"/g' EPG_temp02.xml
         sed -i "s# channel=\"${old}\"##g" EPG_temp02.xml
@@ -227,10 +275,8 @@ for linea in "${canales[@]}"; do
         sed -i ':a;N;$!ba;s/\nEPG_temp//g' EPG_temp02.xml
   
                 if [[ "$offset" =~ ^[+-]?[0-9]+$ ]]; then
-                        echo " └─► Ajustando hora en el canal $new ($offset horas)"
                         export OFFSET="$offset"
                         export NEW_CHANNEL="$new"
-            
                         perl -MDate::Parse -MDate::Format -i'' -pe '
                         BEGIN {
                                 $offset_sec = $ENV{OFFSET} * 3600;
@@ -238,17 +284,73 @@ for linea in "${canales[@]}"; do
                         }
                         if (/<programme start="([^"]+) (\+?\d+)" stop="([^"]+) (\+?\d+)" channel="[^"]+">/) {
                                 my ($start_time_str, $start_tz, $stop_time_str, $stop_tz) = ($1, $2, $3, $4);
+                                my $start_fmt = substr($start_time_str, 0, 4) . "-" . substr($start_time_str, 4, 2) . "-" . substr($start_time_str, 6, 2) . " " . substr($start_time_str, 8, 2) . ":" . substr($start_time_str, 10, 2) . ":" . substr($start_time_str, 12, 2);
+                                my $stop_fmt = substr($stop_time_str, 0, 4) . "-" . substr($stop_time_str, 4, 2) . "-" . substr($stop_time_str, 6, 2) . " " . substr($stop_time_str, 8, 2) . ":" . substr($stop_time_str, 10, 2) . ":" . substr($stop_time_str, 12, 2);
+                                my $start = str2time("$start_fmt $start_tz") + $offset_sec;
+                                my $stop = str2time("$stop_fmt $stop_tz") + $offset_sec;
+                                my $start_formatted = time2str("%Y%m%d%H%M%S $start_tz", $start);
+                                my $stop_formatted = time2str("%Y%m%d%H%M%S $stop_tz", $stop);
+                                s/<programme start="[^"]+" stop="[^"]+" channel="[^"]+">/<programme start="$start_formatted" stop="$stop_formatted" channel="$new_channel_name">/;
+                        }
+                        ' EPG_temp02.xml
+                fi
+  
+        cat EPG_temp02.xml >> EPG_temp2.xml
+  
+    else
+        echo "        Saltando canal: $old ··· $contar_channel coincidencias"
+    fi
+done
 
-                                my $start_fmt = substr($start_time_str, 0, 4) . "-" .
-                                                                                substr($start_time_str, 4, 2) . "-" .
-                                                                                substr($start_time_str, 6, 2) . " " .
-                                                                                substr($start_time_str, 8, 2) . ":" .
-                                                                                substr($start_time_str, 10, 2) . ":" .
-                                                                                substr($start_time_str, 12, 2);
+echo "─── PROCESANDO LIMITES TEMPORALES Y ACUMULACIÓN ───"
+if [ -f epg_acumulado.xml ]; then
+    echo " Rescatando programas de epg_acumulado.xml..."
+    sed -n '/<programme/,/<\/programme>/p' epg_acumulado.xml >> EPG_temp2.xml
+fi
+dias_pasados=$(grep "dias-pasados=" variables.txt | cut -d'=' -f2 | xargs)
+dias_pasados=${dias_pasados:-0}
+dias_futuros=$(grep "dias-futuros=" variables.txt | cut -d'=' -f2 | xargs)
+dias_futuros=${dias_futuros:-99}
+fecha_corte_pasado=$(date -d "$dias_pasados days ago 00:00" +"%Y%m%d%H%M%S")
+fecha_corte_futuro=$(date -d "$dias_futuros days 02:00" +"%Y%m%d%H%M%S")
+echo " Limpieza Pasado: Manteniendo desde $fecha_corte_pasado ($dias_pasados días)"
+echo " Limpieza Futuro: Limitando hasta $fecha_corte_futuro ($dias_futuros días)"
+perl -i -ne '
+    BEGIN { $c_old = "'$fecha_corte_pasado'"; $c_new = "'$fecha_corte_futuro'"; %visto=(); $pasados=0; $futuros=0; $duplicados=0; $aceptados=0; }
+    if (/<programme start="(\d{14})[^"]+" stop="[^"]+" channel="([^"]+)">/) {
+        $inicio = $1; $canal = $2; $llave = "$inicio-$canal";
+        if ($inicio < $c_old) { $pasados++; $imprimir = 0; }
+        elsif ($inicio > $c_new) { $futuros++; $imprimir = 0; }
+        elsif ($visto{$llave}++) { $duplicados++; $imprimir = 0; }
+        else { $aceptados++; $imprimir = 1; }
+    }
+    print if $imprimir;
+    if (/<\/programme>/) { $imprimir = 0; }
+    END { print STDERR " ─► Añadidos/Mantenidos: $aceptados\n"; print STDERR " ─►️ Pasados eliminados: $pasados\n"; print STDERR " ─►️ Futuros eliminados: $futuros\n"; print STDERR " ─►️ Duplicados eliminados: $duplicados\n"; }
+' EPG_temp2.xml
 
-                                my $stop_fmt = substr($stop_time_str, 0, 4) . "-" .
-                                                                           substr($stop_time_str, 4, 2) . "-" .
-                                                                           substr($stop_time_str, 6, 2) . " " .
+date_stamp=$(date +"%d/%m/%Y %R")
+{
+    echo '<?xml version="1.0" encoding="UTF-8"?>'
+    echo "<tv generator-info-name=\"miEPG v3.6\" generator-info-url=\"https://github.com/davidmuma/miEPG\">"
+    [ -f EPG_temp1.xml ] && cat EPG_temp1.xml
+    [ -f EPG_temp2.xml ] && cat EPG_temp2.xml
+    echo '</tv>'
+} > miEPG.xml
+
+echo "─── VALIDACION FINAL DEL XML ───"
+error_log=$(xmllint --noout miEPG.xml 2>&1)
+if [ $? -eq 0 ]; then
+    echo " │ El archivo XML está perfectamente formado."
+    num_canales=$(grep -c "<channel " miEPG.xml)
+    num_programas=$(grep -c "<programme " miEPG.xml)
+    echo " └─► Canales: $num_canales | Programas: $num_programas"
+    cp miEPG.xml epg_acumulado.xml
+else
+    echo " ❌ ERROR: $error_log"
+fi
+rm -f EPG_temp* 2>/dev/null
+echo "─── PROCESO FINALIZADO ───"                                                                        substr($stop_time_str, 6, 2) . " " .
                                                                            substr($stop_time_str, 8, 2) . ":" .
                                                                            substr($stop_time_str, 10, 2) . ":" .
                                                                            substr($stop_time_str, 12, 2);
