@@ -6,12 +6,11 @@ on:
   workflow_dispatch:
 
 permissions:
-   contents: write
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout del repositorio
       uses: actions/checkout@v4
@@ -25,24 +24,22 @@ jobs:
       run: |
         chmod +x .github/workflows/EPG_script.sh
         chmod +x .github/workflows/miEPG.sh || true
+        chmod +x miEPG.sh || true
 
     - name: Ejecutar script
       run: |
-        # tu EPG_script.sh ya tiene el User-Agent PC dentro (el que te pasé con UA="Mozilla/5.0...")
-        .github/workflows/EPG_script.sh || .github/workflows/miEPG.sh
+        .github/workflows/EPG_script.sh || .github/workflows/miEPG.sh || ./miEPG.sh
+        ls -lh miEPG.xml
 
-    - name: Subir a Release
-      uses: softprops/action-gh-release@v2
-      with:
-        tag_name: miepg-latest
-        name: miEPG
-        body: |
-          Actualizado automáticamente cada hora
-          Con User-Agent PC para cdn.epg.guru
-        files: |
-          miEPG.xml
-          epg_acumulado.xml
-          canales_epg*.txt
-        fail_on_unmatched_files: false
+    - name: Configurar identidad de Git
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+
+    - name: Subir archivos a main
+      run: |
+        git add miEPG.xml epg_acumulado.xml canales_epg*.txt epgs.txt -f
+        git diff --cached --quiet || git commit -m "Nuevo miEPG.xml $(date '+%d/%m %H:%M')"
+        git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
