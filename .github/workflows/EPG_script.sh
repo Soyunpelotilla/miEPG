@@ -3,6 +3,7 @@
 # Script: miEPG.sh 
 # Versión: 3.6
 # Función: Combina múltiples XMLs, renombra canales, cambia logos y ajusta hora 
+# Ahora detecta formato Gracenote (programSeriesId) y lo convierte a XMLTV
 # ============================================================================== 
 
 sed -i '/^ *$/d' epgs.txt
@@ -15,7 +16,7 @@ epg_count=0
 echo "─── DESCARGANDO EPGs ───"
 
 while IFS=, read -r epg; do
-	((epg_count++))
+        ((epg_count++))
     extension="${epg##*.}"
     if [ "$extension" = "gz" ]; then
         echo " │ Descargando y descomprimiendo: $epg"
@@ -37,28 +38,104 @@ while IFS=, read -r epg; do
             continue
         fi
     fi
-	if [ -f EPG_temp00.xml ]; then
+        if [ -f EPG_temp00.xml ]; then
+
+        # ====== FIX GRACENOTE: Detectar si es formato (no XMLTV) ======
+        if ! grep -q "<programme" EPG_temp00.xml && grep -q "programSeriesId\|tmsId" EPG_temp00.xml; then
+            echo " └─► Detectado formato Gracenote (cdn.epg.guru), convirtiendo a XMLTV..."
+            python3 - << 'PYEOF'
+import re, xml.etree.ElementTree as ET
+from xml.dom import minidom
+from datetime import datetime, timedelta
+
+def arreglar_acentos(texto):
+    if not texto: return texto
+    try:
+        if "Ã" in texto or "Â" in texto:
+            for _ in range(2):
+                try:
+                    texto = texto.encode('latin1').decode('utf-8')
+                except:
+                    break
+    except:
+        pass
+    return texto
+
+with open("EPG_temp00.xml","r",encoding="utf-8",errors="ignore") as f:
+    raw=f.read()
+
+tv=ET.Element("tv")
+canales={}
+for line in raw.splitlines()[:5000]:
+    m=re.search(r'(\d{4,6})\s+\d{4,6}\s*$', line)
+    if m:
+        cid=m.group(1)
+        nombre=arreglar_acentos(line[:m.start()].strip())
+        if nombre and cid not in canales:
+            canales[cid]=nombre
+            ch=ET.SubElement(tv,"channel")
+            ch.set("id",cid)
+            ET.SubElement(ch,"display-name").text=nombre
+
+prog_pat=re.compile(r'(\d{4}-\d{2}-\d{2})\s+(\d{2}:\d{2}:\d{2})\s+(.+?)(?:https://|$)')
+count=0
+for line in raw.splitlines():
+    m=prog_pat.search(line)
+    if not m: continue
+    fecha,hora,resto=m.groups()
+    titulo=arreglar_acentos(resto.split("  ")[0][:120].strip())
+    if len(titulo)<3: continue
+    try:
+        dt=datetime.strptime(f"{fecha} {hora}", "%Y-%m-%d %H:%M:%S")
+        start=dt.strftime("%Y%m%d%H%M%S")+" +0000"
+        stop=(dt+timedelta(minutes=60)).strftime("%Y%m%d%H%M%S")+" +0000"
+        cid_match=re.search(r'\b(\d{4,6})\b', line[:100])
+        cid=cid_match.group(1) if cid_match and cid_match.group(1) in canales else "62161"
+        if cid not in canales:
+            canales[cid]="FOX MX"
+            ch=ET.SubElement(tv,"channel")
+            ch.set("id",cid)
+            ET.SubElement(ch,"display-name").text="FOX MX"
+        pr=ET.SubElement(tv,"programme")
+        pr.set("start",start)
+        pr.set("stop",stop)
+        pr.set("channel",cid)
+        t=ET.SubElement(pr,"title")
+        t.set("lang","es")
+        t.text=titulo
+        count+=1
+    except:
+        continue
+
+xml_str=ET.tostring(tv,encoding="unicode")
+pretty=minidom.parseString(xml_str).toprettyxml(indent="  ",encoding="UTF-8").decode("UTF-8")
+open("EPG_temp00.xml","w",encoding="utf-8").write(pretty)
+print(f"   Convertidos {count} programas Gracenote -> XMLTV con acentos arreglados")
+PYEOF
+        fi
+        # ====== FIN FIX GRACENOTE ======
+
         listado="canales_epg${epg_count}.txt"
         echo " └─► Generando listado de canales: $listado"
         echo "# Fuente: $epg" > "$listado"
-		awk '
-		/<channel / {
-		    match($0, /id="([^"]+)"/, a); id=a[1]; name=""; logo="";
-		}
-		/<display-name[^>]*>/ && name == "" {
-		    match($0, /<display-name[^>]*>([^<]+)<\/display-name>/, a);
-		    name=a[1];
-		}
-		/<icon src/ {
-		    match($0, /src="([^"]+)"/, a); logo=a[1];
-		}
-		/<\/channel>/ {
-		    print id "," name "," logo;
-		}
-		' EPG_temp00.xml >> "$listado"
-		cat EPG_temp00.xml >> EPG_temp.xml
-        sed -i 's/></>\n</g' EPG_temp.xml		
-    fi	
+                awk '
+                /<channel / {
+                    match($0, /id="([^"]+)"/, a); id=a[1]; name=""; logo="";
+                }
+                /<display-name[^>]*>/ && name == "" {
+                    match($0, /<display-name[^>]*>([^<]+)<\/display-name>/, a);
+                    name=a[1];
+                }
+                /<icon src/ {
+                    match($0, /src="([^"]+)"/, a); logo=a[1];
+                }
+                /<\/channel>/ {
+                    print id "," name "," logo;
+                }
+                ' EPG_temp00.xml >> "$listado"
+                cat EPG_temp00.xml >> EPG_temp.xml
+        sed -i 's/></>\n</g' EPG_temp.xml               
+    fi  
 done < epgs.txt
 
 echo "─── PROCESANDO CANALES ───"
@@ -97,8 +174,8 @@ fi
 for linea in "${canales[@]}"; do
     IFS=',' read -r old new logo offset <<< "$linea"
     contar_channel="$(grep -c "channel=\"$old\"" EPG_temp.xml)"
-	if [ "${contar_channel:-0}" -gt 0 ]; then
-	
+        if [ "${contar_channel:-0}" -gt 0 ]; then
+        
         # 1. Extraer el logo original por si no hay uno nuevo en canales.txt
         logo_original=$(sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml | grep "<icon src" | head -1 | sed 's/^[[:space:]]*//')
         
@@ -149,43 +226,43 @@ for linea in "${canales[@]}"; do
         sed -i "/<programme/a EPG_temp channel=\"${new}\">" EPG_temp02.xml
         sed -i ':a;N;$!ba;s/\nEPG_temp//g' EPG_temp02.xml
   
-		if [[ "$offset" =~ ^[+-]?[0-9]+$ ]]; then
-			echo " └─► Ajustando hora en el canal $new ($offset horas)"
-			export OFFSET="$offset"
-			export NEW_CHANNEL="$new"
+                if [[ "$offset" =~ ^[+-]?[0-9]+$ ]]; then
+                        echo " └─► Ajustando hora en el canal $new ($offset horas)"
+                        export OFFSET="$offset"
+                        export NEW_CHANNEL="$new"
             
-			perl -MDate::Parse -MDate::Format -i'' -pe '
-			BEGIN {
-				$offset_sec = $ENV{OFFSET} * 3600;
-				$new_channel_name = $ENV{NEW_CHANNEL};
-			}
-			if (/<programme start="([^"]+) (\+?\d+)" stop="([^"]+) (\+?\d+)" channel="[^"]+">/) {
-				my ($start_time_str, $start_tz, $stop_time_str, $stop_tz) = ($1, $2, $3, $4);
+                        perl -MDate::Parse -MDate::Format -i'' -pe '
+                        BEGIN {
+                                $offset_sec = $ENV{OFFSET} * 3600;
+                                $new_channel_name = $ENV{NEW_CHANNEL};
+                        }
+                        if (/<programme start="([^"]+) (\+?\d+)" stop="([^"]+) (\+?\d+)" channel="[^"]+">/) {
+                                my ($start_time_str, $start_tz, $stop_time_str, $stop_tz) = ($1, $2, $3, $4);
 
-				my $start_fmt = substr($start_time_str, 0, 4) . "-" .
-								substr($start_time_str, 4, 2) . "-" .
-								substr($start_time_str, 6, 2) . " " .
-								substr($start_time_str, 8, 2) . ":" .
-								substr($start_time_str, 10, 2) . ":" .
-								substr($start_time_str, 12, 2);
+                                my $start_fmt = substr($start_time_str, 0, 4) . "-" .
+                                                                                substr($start_time_str, 4, 2) . "-" .
+                                                                                substr($start_time_str, 6, 2) . " " .
+                                                                                substr($start_time_str, 8, 2) . ":" .
+                                                                                substr($start_time_str, 10, 2) . ":" .
+                                                                                substr($start_time_str, 12, 2);
 
-				my $stop_fmt = substr($stop_time_str, 0, 4) . "-" .
-							   substr($stop_time_str, 4, 2) . "-" .
-							   substr($stop_time_str, 6, 2) . " " .
-							   substr($stop_time_str, 8, 2) . ":" .
-							   substr($stop_time_str, 10, 2) . ":" .
-							   substr($stop_time_str, 12, 2);
+                                my $stop_fmt = substr($stop_time_str, 0, 4) . "-" .
+                                                                           substr($stop_time_str, 4, 2) . "-" .
+                                                                           substr($stop_time_str, 6, 2) . " " .
+                                                                           substr($stop_time_str, 8, 2) . ":" .
+                                                                           substr($stop_time_str, 10, 2) . ":" .
+                                                                           substr($stop_time_str, 12, 2);
 
-				my $start = str2time("$start_fmt $start_tz") + $offset_sec;
-				my $stop = str2time("$stop_fmt $stop_tz") + $offset_sec;
+                                my $start = str2time("$start_fmt $start_tz") + $offset_sec;
+                                my $stop = str2time("$stop_fmt $stop_tz") + $offset_sec;
 
-				my $start_formatted = time2str("%Y%m%d%H%M%S $start_tz", $start);
-				my $stop_formatted = time2str("%Y%m%d%H%M%S $stop_tz", $stop);
+                                my $start_formatted = time2str("%Y%m%d%H%M%S $start_tz", $start);
+                                my $stop_formatted = time2str("%Y%m%d%H%M%S $stop_tz", $stop);
 
-				s/<programme start="[^"]+" stop="[^"]+" channel="[^"]+">/<programme start="$start_formatted" stop="$stop_formatted" channel="$new_channel_name">/;
-			}
-			' EPG_temp02.xml
-		fi
+                                s/<programme start="[^"]+" stop="[^"]+" channel="[^"]+">/<programme start="$start_formatted" stop="$stop_formatted" channel="$new_channel_name">/;
+                        }
+                        ' EPG_temp02.xml
+                fi
   
         cat EPG_temp02.xml >> EPG_temp2.xml
   
