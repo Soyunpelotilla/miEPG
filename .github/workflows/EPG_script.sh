@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================================== 
 # Script: miEPG.sh 
-# Versión: 3.6 - MOD con User-Agent PC + anti-duplicados por solapamiento
+# Versión: 3.6 - MOD con User-Agent PC + anti-duplicados por solapamiento FIX
 # ============================================================================== 
 
 sed -i '/^ *$/d' epgs.txt
@@ -108,36 +108,36 @@ perl -i -ne '
         $c_new = "'$fecha_corte_futuro'"; 
         %visto_exact=(); %visto_titulo=(); %ultimo_fin=();
         $pasados=0; $futuros=0; $duplicados=0; $aceptados=0;
-        $titulo_actual=""; $buffer=""; $inicio_actual=""; $fin_actual=""; $canal_actual="";
+        $titulo_actual=""; $buffer=""; $inicio_actual=""; $fin_actual=""; $canal_actual=""; $imprimir=0;
     }
     if (/<programme start="(\d{14})[^"]+" stop="(\d{14})[^"]+" channel="([^"]+)">/) {
         $inicio_actual=$1; $fin_actual=$2; $canal_actual=$3;
-        $titulo_actual=""; $imprimir=1;
+        $titulo_actual=""; $buffer=""; $imprimir=0;
     }
-    if (/<title[^>]*>([^<]+)<\/title>/) { $titulo_actual=$1; }
+    if (/<title[^>]*>([^<]+)<\/title>/ && $titulo_actual eq "") { $titulo_actual=$1; }
+    $buffer .= $_;
     if (/<\/programme>/) {
         if ($titulo_actual ne "") {
             $clave_exact = $inicio_actual."-".$canal_actual;
             $clave_titulo = lc($canal_actual."-".$titulo_actual);
             if ($inicio_actual < $c_old) { $pasados++; $imprimir=0; }
             elsif ($inicio_actual > $c_new) { $futuros++; $imprimir=0; }
-            elsif ($visto_exact{$clave_exact}++) { $duplicados++; $imprimir=0; }
+            elsif ($visto_exact{$clave_exact}) { $duplicados++; $imprimir=0; }
             elsif (exists $ultimo_fin{$canal_actual} && $inicio_actual < $ultimo_fin{$canal_actual} && $visto_titulo{$clave_titulo}) {
                 $duplicados++; $imprimir=0;
             } else {
                 $aceptados++; $visto_exact{$clave_exact}=1; $visto_titulo{$clave_titulo}=1; $ultimo_fin{$canal_actual}=$fin_actual; $imprimir=1;
             }
         }
-        if ($imprimir) { print $buffer; }
+        print $buffer if $imprimir;
         $buffer=""; $titulo_actual=""; next;
     }
-    $buffer .= $_;
     END { print STDERR " ─► Añadidos: $aceptados | Duplicados solapados: $duplicados | Pasados: $pasados | Futuros: $futuros\n"; }
 ' EPG_temp2.xml
 
 {
     echo '<?xml version="1.0" encoding="UTF-8"?>'
-    echo "<tv generator-info-name=\"miEPG v3.6 MOD\" generator-info-url=\"https://github.com/davidmuma/miEPG\">"
+    echo "<tv generator-info-name=\"miEPG v3.6 MOD FIX\" generator-info-url=\"https://github.com/davidmuma/miEPG\">"
     [ -f EPG_temp1.xml ] && cat EPG_temp1.xml
     [ -f EPG_temp2.xml ] && cat EPG_temp2.xml
     echo '</tv>'
