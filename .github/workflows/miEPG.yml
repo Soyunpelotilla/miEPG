@@ -4,8 +4,10 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
+
 permissions:
    contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,33 +16,33 @@ jobs:
     - name: Checkout del repositorio
       uses: actions/checkout@v4
 
-    - name: Comprobar si xmllint está instalado
+    - name: Instalar dependencias
       run: |
-        if ! command -v xmllint &> /dev/null
-        then
-          echo "xmllint no está instalado. Instalando..."
-          sudo apt-get update
-          sudo apt-get install -y libxml2-utils
-        else
-          echo "xmllint ya está instalado"
-        fi
+        sudo apt-get update
+        sudo apt-get install -y libxml2-utils libtimedate-perl
 
     - name: Dar permisos de ejecución al script
       run: |
         chmod +x .github/workflows/EPG_script.sh
+        chmod +x .github/workflows/miEPG.sh || true
 
     - name: Ejecutar script
-      run: .github/workflows/EPG_script.sh
-
-    - name: Configurar identidad de Git
       run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
+        # tu EPG_script.sh ya tiene el User-Agent PC dentro (el que te pasé con UA="Mozilla/5.0...")
+        .github/workflows/EPG_script.sh || .github/workflows/miEPG.sh
 
-    - name: Subir archivos
-      run: |
-        git add .
-        git diff --cached --quiet || git commit -m "Nuevo miEPG.xml"
-        git push
+    - name: Subir a Release
+      uses: softprops/action-gh-release@v2
+      with:
+        tag_name: miepg-latest
+        name: miEPG
+        body: |
+          Actualizado automáticamente cada hora
+          Con User-Agent PC para cdn.epg.guru
+        files: |
+          miEPG.xml
+          epg_acumulado.xml
+          canales_epg*.txt
+        fail_on_unmatched_files: false
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
