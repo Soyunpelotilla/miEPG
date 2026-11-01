@@ -90960,18 +90960,8 @@
     <desc>Para compensar el poco tiempo que pasa con su mujer e hijos, Bob Munro les promete un viaje a Hawai. Pero, en el último momento, cambia de idea y decide hacer una ruta por Colorado en caravana. Durante el trayecto, lleno de contratiempos, conocerán a los Gornicke, una familia con la que entablarán amistad.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1729083370_3_20260327T025235601Z_1_imageprocessorclient-tvplus-linear-74d4c47476-lqtx5.jpeg"/>
   </programme>
-  <programme start="20261031225806 +0000" stop="20261101010342 +0000" channel="Sony One Hits Acción">
-    <title>Resident Evil</title>
-    <sub-title>El Capítulo Final</sub-title>
-    <desc>Alice regresa a The Hive en Raccoon City, donde Umbrella Corp está reuniendo fuerzas antes del ataque final a los últimos.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1481240434_1_20251227T045933912Z_98_imageprocessorclient-tvplus-linear-85d7d49859-gf68g.png"/>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
   <programme start="20261101010342 +0000" stop="20261101031040 +0000" channel="Sony One Hits Acción">
-    <title>Resident Evil</title>
-    <sub-title>Bienvenidos a Raccoon City</sub-title>
+    <title>Resident Evil: Bienvenidos a Raccoon City</title>
     <desc>Un grupo de supervivientes lucha por descubrir la verdad mientras una ciudad es invadida por el horror.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1655181666_0_20260225T202236910Z_77_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.jpeg"/>
     <rating>
@@ -90992,6 +90982,14 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_869326934_2_20250508T202421555Z_68_imageprocessorclient-tvplus-linear-6fb5b47f79-nvssr.png"/>
     <rating>
       <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20261101064543 +0000" stop="20261101085031 +0000" channel="Sony One Hits Acción">
+    <title>Los Angeles De Charlie Al Limite</title>
+    <desc>Las tres agentes están de vuelta  Los ángeles están dispuestas a dar guerra para recuperar una información encriptada en dos anillos, que revela las identidades de todas las personas acogidas al programa de protección de testigos. Cuando éstos empiezan a morir, sólo las intrépidas chicas podrán detener al responsable, usando su experiencia en el camuflaje, espionaje y artes marciales. Además se las tendrán que ver con un ángel caído -Demi Moore-.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1690362617_0_20260311T203146803Z_66_imageprocessorclient-tvplus-linear-85d7d49859-flfwd.jpeg"/>
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
 	<programme start="20261031064000 +0100" stop="20261031073000 +0100" channel="National Geographic">
@@ -144383,6 +144381,15 @@
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FO5GCIC07A9ZKRJY112B.jpg/a:h/im/wrc_sau_25_s_ogier_1612.jpg?ht=exp=1787214491+hmac=ce31f88ac8f5d380ba9d6e36481befb2" />
 	</programme>
+  <programme start="20261031225806 +0000" stop="20261101010342 +0000" channel="Sony One Hits Acción">
+    <title>Resident Evil</title>
+    <sub-title>El Capítulo Final</sub-title>
+    <desc>Alice regresa a The Hive en Raccoon City, donde Umbrella Corp está reuniendo fuerzas antes del ataque final a los últimos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1481240434_1_20251227T045933912Z_98_imageprocessorclient-tvplus-linear-85d7d49859-gf68g.png"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
   <programme start="20261031000000 +0000" stop="20261031040000 +0000" channel="SKY SPORTS 16 MX">
     <title>UEFA Euro 2024</title>
     <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>

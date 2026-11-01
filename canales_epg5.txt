@@ -1,711 +1,176 @@
-# Fuente: https://cdn.epg.guru/7dayiptv/Chile.xml
-¡HOLA!TV(HOLALA).cl,¡HOLA! TV,https://ebyl.tmsimg.com/assets/s82970_ld_h15_aa.png
-¡HOLA!TV(HOLALAH).cl,¡HOLA! TV,https://ebyl.tmsimg.com/assets/s82970_ld_h15_aa.png
-A&amp;E(AEMX).cl,A&amp;E,https://ebyl.tmsimg.com/assets/s10035_ld_h15_ab.png
-A&amp;E(AECH).cl,A&amp;E,https://ebyl.tmsimg.com/assets/s10035_ld_h15_ab.png
-A&amp;E(AEARGHD).cl,A&amp;E,https://ebyl.tmsimg.com/assets/s10035_ld_h15_ab.png
-A&amp;ENorthHD(AENORH).cl,A&amp;E North HD,https://ebyl.tmsimg.com/assets/s10035_ld_h15_ab.png
-AdultSwim(ADSLA).cl,Adult Swim,https://ebyl.tmsimg.com/assets/s16496_ld_h15_ad.png
-AdultSwim(ADSLAHD).cl,Adult Swim,https://ebyl.tmsimg.com/assets/s68223_ld_h15_ad.png
-AlJazeeraEnglish(ALJAZEN).cl,Al Jazeera English,https://ebyl.tmsimg.com/assets/s49968_ld_h15_ac.png
-AlacocinaTV(ALACO).cl,Alacocina TV,https://ebyl.tmsimg.com/assets/s112137_ld_h9_aa.png
-AMC(AMCMEX).cl,AMC,https://ebyl.tmsimg.com/assets/s90653_ld_h15_ad.png
-AMC(AMCMXHD).cl,AMC,https://ebyl.tmsimg.com/assets/s90653_ld_h15_ad.png
-AMCSeries(AMCSRS).cl,AMC Series,https://ebyl.tmsimg.com/assets/GNLZZGG002GM3XT.png
-AMCSeriesHD(AMCSRSHD).cl,AMC Series HD,https://ebyl.tmsimg.com/assets/GNLZZGG002GM3XT.png
-AmericaSports(AMSP).cl,America Sports,https://ebyl.tmsimg.com/assets/s16271_ld_h9_ab.png
-AméricaTv(AMSAT).cl,América Tv,https://ebyl.tmsimg.com/assets/s16395_ld_h15_ac.png
-AméricaTV(AMETV).cl,América TV,https://ebyl.tmsimg.com/assets/s16395_ld_h15_ac.png
-AnimalPlanet(ANIPL).cl,Animal Planet,https://ebyl.tmsimg.com/assets/s18649_ld_h15_aa.png
-AnimalPlanet(ANIPLH).cl,Animal Planet,https://ebyl.tmsimg.com/assets/s18649_ld_h15_aa.png
-Antena3HD(ANT3SPH).cl,Antena 3 HD,https://ebyl.tmsimg.com/assets/s91176_ld_h9_ac.png
-Antena3Internacional(ANT3I).cl,Antena 3 Internacional,https://ebyl.tmsimg.com/assets/s16800_ld_h9_ab.png
-Antena3Internacional(ANT3IHD).cl,Antena 3 Internacional,https://ebyl.tmsimg.com/assets/s83230_ld_h9_aa.png
-AntofagastaTV(Independent)(ANTATV).cl,Antofagasta TV,https://ebyl.tmsimg.com/assets/s80222_ld_h15_aa.png
-Argentinisima(ARGEN).cl,Argentinisima,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-Arirang(ARANG).cl,Arirang,https://ebyl.tmsimg.com/assets/s28452_ld_h15_aa.png
-ARTVTelevisión(ARTVC).cl,ARTV Televisión,https://ebyl.tmsimg.com/assets/s53236_ld_h15_ab.png
-AtacamaTV(Independent)(ATAAC).cl,Atacama TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-Atrescine(A3CINE).cl,Atrescine,https://ebyl.tmsimg.com/assets/s82808_ld_h15_aa.png
-Atrescine(A3CI).cl,Atrescine,https://ebyl.tmsimg.com/assets/s82808_ld_h15_aa.png
-Atreseries(ATRES).cl,Atreseries,https://ebyl.tmsimg.com/assets/s90917_ld_h15_ac.png
-Atreseries(ATRESSD).cl,Atreseries,https://ebyl.tmsimg.com/assets/s90917_ld_h15_ac.png
-Atreseries(ATRESE).cl,Atreseries,https://ebyl.tmsimg.com/assets/s90917_ld_h15_ac.png
-AUDIODLABLUES(BLUESDL).cl,AUDIO DLA BLUES,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLACHICOS(CHICOS).cl,AUDIO DLA CHICOS,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLACLÁSICOSDELROCKNROLL(ROCKROL).cl,AUDIO DLA CLÁSICOS DEL ROCK N ROLL,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLADANCE(DLADANC).cl,AUDIO DLA DANCE,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLADISCO(DISCODL).cl,AUDIO DLA DISCO,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAEUROHITS(EUROHTS).cl,AUDIO DLA EURO HITS,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AudioDLAÉxitosdelos50(EXIT50S).cl,Audio DLA Éxitos de los 50,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AudioDLAÉxitosdelos70(EXITO70).cl,Audio DLA Éxitos de los 70,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AudioDLAÉxitosdelos80(EXITO80).cl,Audio DLA Éxitos de los 80,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AudioDLAÉxitosdelos90(EXITO90).cl,Audio DLA Éxitos de los 90,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AudioDLAÉxitosEnEspañol(EXITOES).cl,Audio DLA Éxitos En Español,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AudioDLAÉxitosEnInglés(EXITOIN).cl,Audio DLA Éxitos En Inglés,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-AudioDLAÉxitosEnItaliano(EXITOIT).cl,Audio DLA Éxitos En Italiano,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AudioDLAÉxitosSambaYPagode(SAMBAPA).cl,Audio DLA Éxitos Samba Y Pagode,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAGRANDESORQUESTAS(ORQUEST).cl,AUDIO DLA GRANDES ORQUESTAS,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAGREATSTANDARDS(SINGERS).cl,AUDIO DLA GREAT STANDARDS,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAHOTHITS(DLAHOTH).cl,AUDIO DLA HOT HITS,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAHOTHOLLYWOODENG(HLLYWD).cl,AUDIO DLA HOT HOLLYWOOD ENG,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AudioDLAInstrumentalesNavidenos(INSTRN).cl,Audio DLA Instrumentales Navidenos,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAJAZZCLASICO(JAZZCLS).cl,AUDIO DLA JAZZ CLASICO,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAJAZZLATINO(JAZZLAT).cl,AUDIO DLA JAZZ LATINO,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLALOVEMUSIC(DLALOVE).cl,AUDIO DLA LOVE MUSIC,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAMARIACHI(MARIACH).cl,AUDIO DLA MARIACHI,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAMÚSICACLÁSICA(DLACLA).cl,AUDIO DLA MÚSICA CLÁSICA,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-AUDIODLAMÚSICADELASAMÉRI(MUSICAM).cl,AUDIO DLA MÚSICA DE LAS AMÉRI,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAMÚSICATROPICAL(MUSTROP).cl,AUDIO DLA MÚSICA TROPICAL,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLANEWAGE(NEWAGES).cl,AUDIO DLA NEW AGE,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLANEWWAVE(DLAWAVE).cl,AUDIO DLA NEW WAVE,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAOPERA(OPERADL).cl,AUDIO DLA OPERA,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAPIANO(PIANODL).cl,AUDIO DLA PIANO,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AudioDLAReggaeton(REGTON).cl,Audio DLA Reggaeton,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAREGIONALMEXICAN(DLAMEX).cl,AUDIO DLA REGIONAL MEXICAN,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLARITMOSDELCARIBE(CARIBE).cl,AUDIO DLA RITMOS DEL CARIBE,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLARITMOSDELMUNDO(RITMOMN).cl,AUDIO DLA RITMOS DEL MUNDO,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-AUDIODLAROCK&amp;POPBRASIL(BRPOPRK).cl,AUDIO DLA ROCK &amp; POP BRASIL,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-AUDIODLAROCKCLÁSICO(ROCKCLS).cl,AUDIO DLA ROCK CLÁSICO,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAROCKLATINO(ROCKLAT).cl,AUDIO DLA ROCK LATINO,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAROCKPESADO(RCKPESA).cl,AUDIO DLA ROCK PESADO,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLASALSA(DLASALS).cl,AUDIO DLA SALSA,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLASALSAYMERENGUE(SALSMER).cl,AUDIO DLA SALSA Y MERENGUE,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLASINFONICA(SINFON).cl,AUDIO DLA SINFONICA,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLATANGO(TANGO).cl,AUDIO DLA TANGO,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AUDIODLAWORLDBEAT(DLABEAT).cl,AUDIO DLA WORLD BEAT,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-AXN(AXNARG).cl,AXN,https://ebyl.tmsimg.com/assets/s17484_ld_h15_ab.png
-AXN(AXNHD).cl,AXN,https://ebyl.tmsimg.com/assets/s72534_ld_h15_ab.png
-AXN(AXNARGH).cl,AXN,https://ebyl.tmsimg.com/assets/s72534_ld_h15_ab.png
-AztecaInternacional(AZINTL).cl,Azteca Internacional,https://ebyl.tmsimg.com/assets/s79968_ld_h15_af.png
-BabyTv(BABYTVL).cl,Baby Tv,https://ebyl.tmsimg.com/assets/s56036_ld_h15_ab.png
-BabyTv(BABTVLH).cl,Baby Tv,https://ebyl.tmsimg.com/assets/s56036_ld_h15_ab.png
-BabyFirstTV(BABY1).cl,BabyFirst TV,https://ebyl.tmsimg.com/assets/s50338_ld_h15_ab.png
-Bandamax(BANDA).cl,Bandamax,https://ebyl.tmsimg.com/assets/s18101_ld_h15_ac.png
-BBCNews(LatinAmerica)HD(BBCASPH).cl,BBC News (Latin America) HD,https://ebyl.tmsimg.com/assets/s36844_ld_h15_ad.png
-BBCNews(NorthAmerica)(BBCWDNA).cl,BBC News (North America),https://ebyl.tmsimg.com/assets/s89542_ld_h15_ab.png
-BBCRadio1(BBCR1).cl,BBC Radio 1,https://ebyl.tmsimg.com/assets/s24434_ld_h15_ac.png
-BETJams(BETJ).cl,BET Jams,https://ebyl.tmsimg.com/assets/s30419_ld_h15_ac.png
-BIOBIOTV(Independent)(BIOSTGO).cl,BIOBIO TV,https://ebyl.tmsimg.com/assets/s111427_ld_h15_ab.png
-BloombergTv(BLOOMI).cl,Bloomberg Tv,https://ebyl.tmsimg.com/assets/s14755_ld_h15_ab.png
-BuinSomosTodos(Independent)(BUINMT).cl,Buin Somos Todos,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-BuinSomosTodos(Independent)(BUINMT2).cl,Buin Somos Todos,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-BuinSomosTodos(Independent)(BUINMT3).cl,Buin Somos Todos,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-CamaradeDiputados(DIPUTAD).cl,Camara de Diputados,https://ebyl.tmsimg.com/assets/s47488_ld_h15_ac.png
-CampusTv(Independent)(CAMPMT).cl,Campus Tv,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-Canal13(CANL13).cl,Canal 13,https://ebyl.tmsimg.com/assets/s16207_ld_h15_aa.png
-Canal13(Independent)(C13AAH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13STGO).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13TAIH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13ANFH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13ATCH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13COLH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13VAVH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13VAQL).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13LIRH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13MATH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13BCTH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13ATPH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13LOVH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13LOPH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13ARCH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13(Independent)(C13MAPH).cl,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13HD(CANL13H).cl,Canal 13 HD,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
-Canal13.2(T13)(Independent)(C13T13).cl,Canal 13.2 (T13),https://ebyl.tmsimg.com/assets/s111424_ld_h15_aa.png
-Canal13C(C13CAB).cl,Canal 13C,https://ebyl.tmsimg.com/assets/s104613_ld_h15_aa.png
-Canal13CHD(C13CABH).cl,Canal 13C HD,https://ebyl.tmsimg.com/assets/s104613_ld_h15_aa.png
-Canal24HorasChile(CAN24CH).cl,Canal 24 Horas Chile,https://ebyl.tmsimg.com/assets/s62889_ld_h9_aa.png
-Canal24HorasChileHD(C24HCHD).cl,Canal 24 Horas Chile HD,https://ebyl.tmsimg.com/assets/s62889_ld_h9_aa.png
-Canal24HorasHD(CAN24).cl,Canal 24 Horas HD,https://ebyl.tmsimg.com/assets/s20742_ld_h9_aa.png
-Canal26(CAN26HD).cl,Canal 26,https://ebyl.tmsimg.com/assets/s103103_ld_h15_ab.png
-Canal26(CAN26SD).cl,Canal 26,https://ebyl.tmsimg.com/assets/s103103_ld_h15_ab.png
-Canal33(Independent)(CA33ATP).cl,Canal 33,https://ebyl.tmsimg.com/assets/s111435_ld_h15_aa.png
-CanalClaro(CCLARO).cl,Canal Claro,https://ebyl.tmsimg.com/assets/s79664_ld_h9_aa.png
-CanalClaro(CCLARHD).cl,Canal Claro,https://ebyl.tmsimg.com/assets/s79664_ld_h9_aa.png
-CanalDHE(CNLDHE).cl,Canal DHE,https://ebyl.tmsimg.com/assets/s81622_ld_h15_aa.png
-CanalDHEHD(CNLDHEH).cl,Canal DHE HD,https://ebyl.tmsimg.com/assets/s81623_ld_h15_aa.png
-CanalInfantil(CANIN).cl,Canal Infantil,https://ebyl.tmsimg.com/assets/s111652_ld_h15_aa.png
-CanalLuz(CALUZ).cl,Canal Luz,https://ebyl.tmsimg.com/assets/s77367_ld_h15_aa.png
-CanalN(CANALN).cl,Canal N,https://ebyl.tmsimg.com/assets/s50212_ld_h15_ab.png
-CanalRCNTELENOVELAS(RCNTEL).cl,Canal RCN TELENOVELAS,https://ebyl.tmsimg.com/assets/s65127_ld_h15_aa.png
-CanalRural(RURAL).cl,Canal Rural,https://ebyl.tmsimg.com/assets/s20402_ld_h15_aa.png
-CanalSony(SETL).cl,Canal Sony,https://ebyl.tmsimg.com/assets/s16211_ld_h15_ab.png
-CanalSony(SETLHD).cl,Canal Sony,https://ebyl.tmsimg.com/assets/s108526_ld_h15_aa.png
-CanalVascoETBSat(VASCO).cl,Canal Vasco ETB Sat,https://ebyl.tmsimg.com/assets/s28132_ld_h15_ab.png
-CARACOLINTERNATIONAL(CARAI).cl,CARACOL INTERNATIONAL,https://ebyl.tmsimg.com/assets/s39719_ld_h15_ab.png
-CartoonNetwork(TOONLSH).cl,Cartoon Network,https://ebyl.tmsimg.com/assets/s59562_ld_h15_aa.png
-CartoonNetwork(CARTPAN).cl,Cartoon Network,https://ebyl.tmsimg.com/assets/s59562_ld_h15_aa.png
-CartoonNetwork(CARTPHD).cl,Cartoon Network,https://ebyl.tmsimg.com/assets/s59562_ld_h15_aa.png
-Cartoonito(CARTOA).cl,Cartoonito,https://ebyl.tmsimg.com/assets/s26089_ld_h15_ac.png
-Cartoonito(CARTOAH).cl,Cartoonito,https://ebyl.tmsimg.com/assets/s26089_ld_h15_ac.png
-CCTV4-ChinaCentralTV(CCTV4).cl,CCTV4-China Central TV,https://ebyl.tmsimg.com/assets/s24248_ld_h15_ac.png
-CDOBasico(CDOB).cl,CDO Basico,https://ebyl.tmsimg.com/assets/s72754_ld_h15_aa.png
-CDOPremium(CDOP).cl,CDO Premium,https://ebyl.tmsimg.com/assets/s72012_ld_h15_aa.png
-CDOPREMIUM(Canaldedeporteolimpico)HD(CDOPHD).cl,CDO PREMIUM (Canal de deporte olimpico) HD,https://ebyl.tmsimg.com/assets/s72012_ld_h15_aa.png
-CDTVCámaradeDiputadosTelevisión(Independent)(CDTVSAN).cl,CDTV Cámara de Diputados Televisión,https://ebyl.tmsimg.com/assets/s47488_ld_h15_ac.png
-CDTVCámaradeDiputadosTelevisión(Independent)(CDTVVAL).cl,CDTV Cámara de Diputados Televisión,https://ebyl.tmsimg.com/assets/s47488_ld_h15_ac.png
-CDTVCámaradeDiputadosTelevisión(Independent)(CDTVBIO).cl,CDTV Cámara de Diputados Televisión,https://ebyl.tmsimg.com/assets/s47488_ld_h15_ac.png
-CGTNEspañol(CGTNE).cl,CGTN Español,https://ebyl.tmsimg.com/assets/s44479_ld_h15_ab.png
-ChacraTV(CHATV).cl,Chacra TV,https://ebyl.tmsimg.com/assets/s139926_ld_h15_aa.png
-Chilevisión(Independent)(CHVSTGO).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVTAIH).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVAVIH).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVMCAH).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVMCOH).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVBCTH).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVATPH).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVAAH).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVMAPH).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVTAIS).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVAVIS).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVMCAS).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVMCOS).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVBCTS).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVATPS).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVAAS).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-Chilevisión(Independent)(CHVMAPS).cl,Chilevisión,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-ChilevisionCanal11(CHIV).cl,Chilevision Canal 11,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-ChilevisiónHD(CHIVHD).cl,Chilevisión HD,https://ebyl.tmsimg.com/assets/s16206_ld_h15_ab.png
-ChilevisiónMúsica(Independent)(CHVMST).cl,Chilevisión Música,https://ebyl.tmsimg.com/assets/s111544_ld_h15_aa.png
-CineCanalPlusHD(CINEPLH).cl,Cine Canal Plus HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-CineLatino(CINL).cl,Cine Latino,https://ebyl.tmsimg.com/assets/s15296_ld_h9_ab.png
-CinePremiumHD(CINPREH).cl,Cine Premium HD,https://ebyl.tmsimg.com/assets/s111651_ld_h15_ab.png
-Cinecanal(CCLHD).cl,Cinecanal,https://ebyl.tmsimg.com/assets/s105609_ld_h15_aa.png
-Cinecanal(CINECNL).cl,Cinecanal,https://ebyl.tmsimg.com/assets/s105609_ld_h15_aa.png
-Cinecanal(CCANAL).cl,Cinecanal,https://ebyl.tmsimg.com/assets/s105609_ld_h15_aa.png
-Cinecanal(CCANCOL).cl,Cinecanal,https://ebyl.tmsimg.com/assets/s105609_ld_h15_aa.png
-Cinecanal(CANCOLD).cl,Cinecanal,https://ebyl.tmsimg.com/assets/s105609_ld_h15_aa.png
-Cinecanal(CANALHD).cl,Cinecanal,https://ebyl.tmsimg.com/assets/s105609_ld_h15_aa.png
-Cinecanal(CINECCH).cl,Cinecanal,https://ebyl.tmsimg.com/assets/s105609_ld_h15_aa.png
-Cinemax(CINELW).cl,Cinemax,https://ebyl.tmsimg.com/assets/s16794_ld_h15_ab.png
-Cinemax(CINECHL).cl,Cinemax,https://ebyl.tmsimg.com/assets/s16794_ld_h15_ab.png
-ClaroChileSextremeChannel(CLCSEXT).cl,Claro Chile Sextreme Channel,https://ebyl.tmsimg.com/assets/s72143_ld_h15_aa.png
-ClaroChileVenusChannel(CLCVNUS).cl,Claro Chile Venus Channel,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-ClaroCinema(CLACI).cl,Claro Cinema,https://ebyl.tmsimg.com/assets/s106711_ld_h15_aa.png
-ClaroSports(CLAROSP).cl,Claro Sports,https://ebyl.tmsimg.com/assets/s72291_ld_h15_ab.png
-ClaroSports(CLAROHD).cl,Claro Sports,https://ebyl.tmsimg.com/assets/s72291_ld_h15_ab.png
-ClaroSports(CSPSUR).cl,Claro Sports,https://ebyl.tmsimg.com/assets/s72291_ld_h15_ab.png
-Clic(AZCLIC).cl,Clic,https://ebyl.tmsimg.com/assets/s92197_ld_h15_ae.png
-CLOVER(CLOVP).cl,CLOVER,https://ebyl.tmsimg.com/assets/s126474_ld_h15_aa.png
-ClubMTV(CLMTVUK).cl,Club MTV,https://ebyl.tmsimg.com/assets/s24214_ld_h15_ae.png
-ClubMTV(CLUBINT).cl,Club MTV,https://ebyl.tmsimg.com/assets/s89006_ld_h15_ac.png
-CNNChile(CNNCH).cl,CNN Chile,https://ebyl.tmsimg.com/assets/s104408_ld_h15_aa.png
-CNNChileHD(CNNCHHD).cl,CNN Chile HD,https://ebyl.tmsimg.com/assets/s104408_ld_h15_aa.png
-CNNEnEspañol(CNNL).cl,CNN En Español,https://ebyl.tmsimg.com/assets/s17054_ld_h15_ab.png
-CNNenEspañol(CNNEM).cl,CNN en Español,https://ebyl.tmsimg.com/assets/s17054_ld_h15_ab.png
-CNNEnEspanolLatinAmerica(CNNLAA).cl,CNN En Espanol Latin America,https://ebyl.tmsimg.com/assets/s17054_ld_h15_ab.png
-CNNHD(CNNHD).cl,CNN HD,https://ebyl.tmsimg.com/assets/s58646_ld_h15_ac.png
-CNNILatinAmerica(CNNIL).cl,CNNI Latin America,https://ebyl.tmsimg.com/assets/s15192_ld_h9_aa.png
-CocinaViva(COCINV).cl,Cocina Viva,https://ebyl.tmsimg.com/assets/s111872_ld_h9_aa.png
-ColinaTV(Independent)(COLSTGO).cl,Colina TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-ColinaTV(Independent)(COLSTG2).cl,Colina TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-ComedyCentral(COMCLAH).cl,Comedy Central,https://ebyl.tmsimg.com/assets/s100848_ld_h15_ac.png
-ComedyCentral(CMCELAS).cl,Comedy Central,https://ebyl.tmsimg.com/assets/s76326_ld_h15_ab.png
-ComedyCentral(CCLASHD).cl,Comedy Central,https://ebyl.tmsimg.com/assets/s100848_ld_h15_ac.png
-ConcertChannel(CNCRTHD).cl,Concert Channel,https://ebyl.tmsimg.com/assets/s72020_ld_h15_aa.png
-ConcertChannel(CNCRT).cl,Concert Channel,https://ebyl.tmsimg.com/assets/s72020_ld_h15_aa.png
-Contivisión(Independent)(CONTMC).cl,Contivisión,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-Contivisión(Independent)(CONTMT).cl,Contivisión,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-ContivisiónMúsica(Independent)(CONTMMC).cl,Contivisión Música,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-ContivisiónMúsica(Independent)(CONTMMT).cl,Contivisión Música,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-Corazón(CORAZ).cl,Corazón,https://ebyl.tmsimg.com/assets/s61404_ld_h15_ad.png
-Corazón(CORAZH).cl,Corazón,https://ebyl.tmsimg.com/assets/s61404_ld_h15_ad.png
-CorporaciónTV(Independent)(CORSTGO).cl,Corporación TV,https://ebyl.tmsimg.com/assets/s111438_ld_h6_ab.png
-CorporaciónTv(Independent)(CORAT).cl,Corporación Tv,https://ebyl.tmsimg.com/assets/s111438_ld_h6_ab.png
-Cristovisión(CRISTOV).cl,Cristovisión,https://ebyl.tmsimg.com/assets/s80002_ld_h15_aa.png
-Cuartavisión(Independent)(CUACLS).cl,Cuartavisión,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-DaystarEspañol(DSTRESP).cl,Daystar Español,https://ebyl.tmsimg.com/assets/s132423_ld_h15_ac.png
-DePelícula(DEPEL).cl,De Película,https://ebyl.tmsimg.com/assets/s16288_ld_h15_ac.png
-DEPELICULAPLUSHD(DEPLPLA).cl,DE PELICULA PLUS HD,https://ebyl.tmsimg.com/assets/s74016_ld_h15_ab.png
-DesiertodeAtacamaTV(Independent)(DESAC).cl,Desierto de Atacama TV,https://ebyl.tmsimg.com/assets/s111622_ld_h15_aa.png
-DIRECTV4K(DTVL4K).cl,DIRECTV 4K,https://ebyl.tmsimg.com/assets/s108538_ld_h15_aa.png
-DIRECTVNEWSMIX(NEWSMIX).cl,DIRECTV NEWS MIX,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-DirecTV2Sports(DT2SPT).cl,DirecTV2 Sports,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-DiscoveryChannel(DISCCH).cl,Discovery Channel,https://ebyl.tmsimg.com/assets/s15798_ld_h15_ae.png
-DiscoveryChannel(TDCLV).cl,Discovery Channel,https://ebyl.tmsimg.com/assets/s15798_ld_h15_ae.png
-DiscoveryChannel(DISCCHD).cl,Discovery Channel,https://ebyl.tmsimg.com/assets/s15798_ld_h15_ae.png
-DiscoveryChannel(TDCLVHD).cl,Discovery Channel,https://ebyl.tmsimg.com/assets/s15798_ld_h15_ae.png
-DiscoveryHome&amp;Health(DHEALM).cl,Discovery Home &amp; Health,https://ebyl.tmsimg.com/assets/s24424_ld_h15_ae.png
-DiscoveryHome&amp;Health(DHEALHD).cl,Discovery Home &amp; Health,https://ebyl.tmsimg.com/assets/s97571_ld_h15_ab.png
-DiscoveryHome&amp;Health(DHHCV).cl,Discovery Home &amp; Health,https://ebyl.tmsimg.com/assets/s24424_ld_h15_ae.png
-DiscoveryHome&amp;Health(DHHCVHD).cl,Discovery Home &amp; Health,https://ebyl.tmsimg.com/assets/s97571_ld_h15_ab.png
-DiscoveryKids(DKNLM).cl,Discovery Kids,https://ebyl.tmsimg.com/assets/s16680_ld_h15_ab.png
-DiscoveryKids(DKNCHL).cl,Discovery Kids,https://ebyl.tmsimg.com/assets/s16680_ld_h15_ab.png
-DiscoveryKids(DKNCHD).cl,Discovery Kids,https://ebyl.tmsimg.com/assets/s16680_ld_h15_ab.png
-DiscoveryKidsLatinAmHD(DKNLHD).cl,Discovery Kids LatinAm HD,https://ebyl.tmsimg.com/assets/s81239_ld_h15_aa.png
-DiscoveryScience(DSCIENL).cl,Discovery Science,https://ebyl.tmsimg.com/assets/s48527_ld_h15_aa.png
-DiscoveryScience(DSCIEH).cl,Discovery Science,https://ebyl.tmsimg.com/assets/s48527_ld_h15_aa.png
-DiscoveryScience(DSCIENH).cl,Discovery Science,https://ebyl.tmsimg.com/assets/s48527_ld_h15_aa.png
-DiscoveryTheaterHD(DTHLIHD).cl,Discovery Theater HD,https://ebyl.tmsimg.com/assets/s65940_ld_h15_ac.png
-DiscoveryTheaterHD(DTHLAHD).cl,Discovery Theater HD,https://ebyl.tmsimg.com/assets/s65940_ld_h15_ac.png
-DiscoveryTurbo(DTURBOL).cl,Discovery Turbo,https://ebyl.tmsimg.com/assets/s46608_ld_h15_aa.png
-DiscoveryTurbo(DTRBLAH).cl,Discovery Turbo,https://ebyl.tmsimg.com/assets/s46608_ld_h15_aa.png
-DISCOVERYTURBOHD(MTHD).cl,DISCOVERY TURBO HD,https://ebyl.tmsimg.com/assets/GNLZZGG002RMTEH.png
-DiscoveryWorld(DWRLDHD).cl,Discovery World,https://ebyl.tmsimg.com/assets/s66488_ld_h15_aa.png
-DiscoveryWorld(DWRLDHE).cl,Discovery World,https://ebyl.tmsimg.com/assets/s66488_ld_h15_aa.png
-DisneyChannel(DISNLS).cl,Disney Channel,https://ebyl.tmsimg.com/assets/s41223_ld_h15_aa.png
-DisneyChannel(DISNLCH).cl,Disney Channel,https://ebyl.tmsimg.com/assets/s41223_ld_h15_aa.png
-DisneyChannel(DISLCHD).cl,Disney Channel,https://ebyl.tmsimg.com/assets/s88893_ld_h15_aa.png
-DisneyChannel(DISNLSH).cl,Disney Channel,https://ebyl.tmsimg.com/assets/s41223_ld_h15_aa.png
-DisneyJunior(DISNJS).cl,Disney Junior,https://ebyl.tmsimg.com/assets/s60506_ld_h15_ab.png
-DisneyJunior(DISNJMX).cl,Disney Junior,https://ebyl.tmsimg.com/assets/s60506_ld_h15_ab.png
-DisneyJunior(DISNJCH).cl,Disney Junior,https://ebyl.tmsimg.com/assets/s60506_ld_h15_ab.png
-DisneyJunior(DISJMXH).cl,Disney Junior,https://ebyl.tmsimg.com/assets/s60506_ld_h15_ab.png
-DisneyXD(DISNXMU).cl,Disney XD,https://ebyl.tmsimg.com/assets/s54930_ld_h15_ab.png
-DMXAdultContemporaryHoliday(ADCOHOL).cl,DMX Adult Contemporary Holiday,https://ebyl.tmsimg.com/assets/s50415_ld_h9_aa.png
-DMXMix750(MIX750).cl,DMX Mix 750,https://ebyl.tmsimg.com/assets/s50415_ld_h9_aa.png
-DMX:ClassicR&amp;B(CLASSRB).cl,DMX: Classic R&amp;B,https://ebyl.tmsimg.com/assets/s19347_ld_h9_aa.png
-DMX:FiestaTropical(FTROP).cl,DMX: Fiesta Tropical,https://ebyl.tmsimg.com/assets/s50415_ld_h9_aa.png
-DMX:Jazz(JAZZ).cl,DMX: Jazz,https://ebyl.tmsimg.com/assets/s50415_ld_h9_aa.png
-DMX:JazzVocalBlends(JZZVCL).cl,DMX: Jazz Vocal Blends,https://ebyl.tmsimg.com/assets/s19799_ld_h9_aa.png
-DMX:RegionalMexican(REGMEX).cl,DMX: Regional Mexican,https://ebyl.tmsimg.com/assets/s50415_ld_h9_aa.png
-DMX:SoftHits(SFTHITS).cl,DMX: Soft Hits,https://ebyl.tmsimg.com/assets/s50415_ld_h9_aa.png
-DNUDisneyChannel(DISNMUH).cl,DNU Disney Channel,https://ebyl.tmsimg.com/assets/s41223_ld_h15_aa.png
-DNUFX(FXLAHD).cl,DNU FX,https://ebyl.tmsimg.com/assets/s105689_ld_h15_aa.png
-DNUStarChannel(STARCL).cl,DNU Star Channel,https://ebyl.tmsimg.com/assets/s75423_ld_h15_ac.png
-DNUStarChannel(STRCLHD).cl,DNU Star Channel,https://ebyl.tmsimg.com/assets/s75423_ld_h15_ac.png
-Dreamworks(DREAMWS).cl,Dreamworks,https://ebyl.tmsimg.com/assets/s123192_ld_h15_aa.png
-DreamworksHD(DREAMWL).cl,Dreamworks HD,https://ebyl.tmsimg.com/assets/s123192_ld_h15_aa.png
-DSports+HD(SPOPLH).cl,DSports + HD,https://ebyl.tmsimg.com/assets/s107455_ld_h15_ad.png
-DSports2HD(SPO2HD).cl,DSports 2 HD,https://ebyl.tmsimg.com/assets/s107396_ld_h15_ad.png
-DSportsMotor(DSPRTMT).cl,DSports Motor,https://ebyl.tmsimg.com/assets/s138107_ld_h15_aa.png
-DWenespañol(DWLA).cl,DW en español,https://ebyl.tmsimg.com/assets/s64230_ld_h15_ag.png
-E!EntertainmentTelevision(ETVL).cl,E! Entertainment Television,https://ebyl.tmsimg.com/assets/s30259_ld_h15_aa.png
-E!EntertainmentTelevision(ETVLHD).cl,E! Entertainment Television,https://ebyl.tmsimg.com/assets/s30259_ld_h15_aa.png
-E!EntertainmentTV(ETVLN).cl,E! Entertainment TV,https://ebyl.tmsimg.com/assets/s30259_ld_h15_aa.png
-ElGourmet(GOURMETN).cl,El Gourmet,https://ebyl.tmsimg.com/assets/s25553_ld_h15_ad.png
-ElGourmet(GOURMHD).cl,El Gourmet,https://ebyl.tmsimg.com/assets/s25553_ld_h15_ad.png
-ElPingüinoTV(Independent)(ELPMPA).cl,El Pingüino TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-ElSembrador(ESNE).cl,El Sembrador,https://ebyl.tmsimg.com/assets/s46421_ld_h9_aa.png
-ElTiempoTelevisión(CTIEMPO).cl,El Tiempo Televisión,https://ebyl.tmsimg.com/assets/s79980_ld_h15_aa.png
-ElTreceInternacional(TREINT).cl,El Trece Internacional,https://ebyl.tmsimg.com/assets/s64792_ld_h15_aa.png
-EncuentroInternacional(ENCINT).cl,Encuentro Internacional,https://ebyl.tmsimg.com/assets/s112284_ld_h15_ab.png
-Enlace(Independent)(ENLSTGO).cl,Enlace,https://ebyl.tmsimg.com/assets/s20286_ld_h15_ab.png
-EnlaceJuvenil(Independent)(ENJSTGO).cl,Enlace Juvenil,https://ebyl.tmsimg.com/assets/s49258_ld_h15_aa.png
-ENLACETV(ENLACE).cl,ENLACE TV,https://ebyl.tmsimg.com/assets/s20286_ld_h15_ab.png
-EnlaceTV(ENLACE)(ENLACEC).cl,Enlace TV,https://ebyl.tmsimg.com/assets/s20286_ld_h15_ab.png
-ESPN(ESPNAR).cl,ESPN,https://ebyl.tmsimg.com/assets/s17725_ld_h15_ac.png
-ESPN(ESPCHH).cl,ESPN,https://ebyl.tmsimg.com/assets/s17725_ld_h15_ac.png
-ESPN2(E2LSAH).cl,ESPN 2,https://ebyl.tmsimg.com/assets/s88735_ld_h15_ac.png
-ESPN2(ESP2LN).cl,ESPN 2,https://ebyl.tmsimg.com/assets/s88735_ld_h15_ac.png
-ESPN2(ESP2LS).cl,ESPN 2,https://ebyl.tmsimg.com/assets/s88735_ld_h15_ac.png
-ESPN2(E2LSA).cl,ESPN 2,https://ebyl.tmsimg.com/assets/s88735_ld_h15_ac.png
-ESPN2(E2LSCH).cl,ESPN 2,https://ebyl.tmsimg.com/assets/s88735_ld_h15_ac.png
-ESPN4(ESP4SUS).cl,ESPN 4,https://ebyl.tmsimg.com/assets/s65930_ld_h15_ae.png
-ESPN4México(ESP4MXH).cl,ESPN 4 México,https://ebyl.tmsimg.com/assets/s65930_ld_h15_ae.png
-ESPN4Sur(ESPN4SH).cl,ESPN 4 Sur,https://ebyl.tmsimg.com/assets/s65930_ld_h15_ae.png
-ESPN5(ESPN5CHS).cl,ESPN 5,https://ebyl.tmsimg.com/assets/s122027_ld_h15_ab.png
-ESPN5(ESPN5B).cl,ESPN 5,https://ebyl.tmsimg.com/assets/s86787_ld_h15_ac.png
-ESPN5(ESPN5CHH).cl,ESPN 5,https://ebyl.tmsimg.com/assets/s122027_ld_h15_ab.png
-ESPN5(ESPN5SH).cl,ESPN 5,https://ebyl.tmsimg.com/assets/s122027_ld_h15_ab.png
-ESPN6(ESPN6SS).cl,ESPN 6,https://ebyl.tmsimg.com/assets/s47374_ld_h15_ad.png
-ESPN6(ESPN6SH).cl,ESPN 6,https://ebyl.tmsimg.com/assets/s79923_ld_h15_ad.png
-ESPN6(ESPN6B).cl,ESPN 6,https://ebyl.tmsimg.com/assets/s99633_ld_h15_ag.png
-ESPN6(ESPN6SD).cl,ESPN 6,https://ebyl.tmsimg.com/assets/s124752_ld_h15_ab.png
-ESPN7(ESPN7SS).cl,ESPN 7,https://ebyl.tmsimg.com/assets/s73935_ld_h15_ac.png
-ESPN7(ESPN7SH).cl,ESPN 7,https://ebyl.tmsimg.com/assets/s91513_ld_h15_aa.png
-ESPNDosMexico(214A)(ESPN2M).cl,ESPN Dos Mexico (214A),https://ebyl.tmsimg.com/assets/s67765_ld_h15_aa.png
-ESPNLatinSouth(ESPNLHA).cl,ESPN Latin South,https://ebyl.tmsimg.com/assets/s88735_ld_h15_ac.png
-ESPNPremiumArgentina(HD)(ESPNPRE).cl,ESPN Premium Argentina (HD),https://ebyl.tmsimg.com/assets/s106781_ld_h15_ad.png
-ESPNPremiumChile(ESPRCHS).cl,ESPN Premium Chile,https://ebyl.tmsimg.com/assets/s42180_ld_h15_ab.png
-ESPNPremiumChile(ESPRCHH).cl,ESPN Premium Chile,https://ebyl.tmsimg.com/assets/s42180_ld_h15_ab.png
-ESPN2Argentina(EPN2HAA).cl,ESPN2 Argentina,https://ebyl.tmsimg.com/assets/s17725_ld_h15_ac.png
-ESPN3(ESPN3).cl,ESPN3,https://ebyl.tmsimg.com/assets/s73833_ld_h15_aa.png
-ESPN3(ESPN3HD).cl,ESPN3,https://ebyl.tmsimg.com/assets/s73834_ld_h15_ab.png
-ETCTV(ETCHILE).cl,ETC TV,https://ebyl.tmsimg.com/assets/s47485_ld_h15_aa.png
-Eurochannel(EURO).cl,Eurochannel,https://ebyl.tmsimg.com/assets/s16574_ld_h15_aa.png
-EurochannelHD(EURCNHD).cl,Eurochannel HD,https://ebyl.tmsimg.com/assets/s99222_ld_h9_aa.png
-euronews(EURONWS).cl,euronews,https://ebyl.tmsimg.com/assets/s40704_ld_h15_aa.png
-EuropaEuropa(EUROPA).cl,Europa Europa,https://ebyl.tmsimg.com/assets/s27741_ld_h15_aa.png
-EuropaEuropa(EUROPHD).cl,Europa Europa,https://ebyl.tmsimg.com/assets/s27741_ld_h15_aa.png
-EWTNLatinAmerica(EWTNL).cl,EWTN Latin America,https://ebyl.tmsimg.com/assets/s16350_ld_h9_ab.png
-FalabellaTV(FALATV).cl,Falabella TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-FamTV(Independent)(FAMMPAC).cl,Fam TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-Fiesta106.5(FSTA).cl,Fiesta 106.5,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-Film&amp;Arts(FABL).cl,Film &amp; Arts,https://ebyl.tmsimg.com/assets/s87687_ld_h15_aa.png
-FMPlus(Independent)(FMPSTGO).cl,FM Plus,https://ebyl.tmsimg.com/assets/s111426_ld_h9_aa.png
-FMPlus(Independent)(FMPA).cl,FM Plus,https://ebyl.tmsimg.com/assets/s111426_ld_h9_aa.png
-FoodNetwork(FOODLA).cl,Food Network,https://ebyl.tmsimg.com/assets/s91919_ld_h15_aa.png
-FoodNetworkLatamHD(FODAMCO).cl,Food Network Latam HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-FoxNewsChannel(FNC).cl,Fox News Channel,https://ebyl.tmsimg.com/assets/s16374_ld_h15_ab.png
-FoxSports(FSALPHD).cl,Fox Sports,https://ebyl.tmsimg.com/assets/s41677_ld_h15_ac.png
-FoxSports2(FS2AR).cl,Fox Sports 2,https://ebyl.tmsimg.com/assets/GNLZZGG002KWKY1.png
-France24(FR24ESD).cl,France 24,https://ebyl.tmsimg.com/assets/s105780_ld_h15_ab.png
-France24EnglishHD(FR24EN).cl,France 24 English HD,https://ebyl.tmsimg.com/assets/s60961_ld_h9_aa.png
-France24EspañolHD(FR24E).cl,France 24 Español HD,https://ebyl.tmsimg.com/assets/s105780_ld_h15_ab.png
-FUNBOX(FUNBOX).cl,FUNBOX,https://ebyl.tmsimg.com/assets/s82811_ld_h9_aa.png
-FX(FXL).cl,FX,https://ebyl.tmsimg.com/assets/s46442_ld_h15_aa.png
-FX(FXCHL).cl,FX,https://ebyl.tmsimg.com/assets/s46442_ld_h15_aa.png
-FX(FXLHD).cl,FX,https://ebyl.tmsimg.com/assets/s105689_ld_h15_aa.png
-FXMovies(FXMES).cl,FX Movies,https://ebyl.tmsimg.com/assets/s25069_ld_h15_aa.png
-FXMovies(FXMCH).cl,FX Movies,https://ebyl.tmsimg.com/assets/s25069_ld_h15_aa.png
-FXMovies(FXMCHHD).cl,FX Movies,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-GAME1(GAME1).cl,GAME 1,https://ebyl.tmsimg.com/assets/s26197_ld_h15_ad.png
-GAME2(GAME2).cl,GAME 2,https://ebyl.tmsimg.com/assets/s26198_ld_h15_ad.png
-GiroVisualTelevisión(Independent)(GVTVVM).cl,Giro Visual Televisión,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-GiroVisualTelevisión(Independent)(GVTVVM2).cl,Giro Visual Televisión,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-Globovision(GLOVIS).cl,Globovision,https://ebyl.tmsimg.com/assets/s33904_ld_h9_aa.png
-Golden(GLDEN).cl,Golden,https://ebyl.tmsimg.com/assets/s50709_ld_h15_aa.png
-Golden(GLDENH).cl,Golden,https://ebyl.tmsimg.com/assets/s50709_ld_h15_aa.png
-GoldenEdge(GOLDEDG).cl,Golden Edge,https://ebyl.tmsimg.com/assets/s16423_ld_h15_aa.png
-GOLDENPLUS(GOLDNHD).cl,GOLDEN PLUS,https://ebyl.tmsimg.com/assets/GNLZZGG00284G3Y.png
-GoldenPremier(GLDPREM).cl,Golden Premier,https://ebyl.tmsimg.com/assets/s80596_ld_h15_ab.png
-GolTVLatinAmerica(GOLTVL).cl,GolTV Latin America,https://ebyl.tmsimg.com/assets/s54541_ld_h15_aa.png
-GolTVLatinAmericaHD(GOLLAHD).cl,GolTV Latin America HD,https://ebyl.tmsimg.com/assets/s54541_ld_h15_aa.png
-H2History(H2LATH).cl,H2 History,https://ebyl.tmsimg.com/assets/s80374_ld_h15_ae.png
-HBO(HBOL).cl,HBO,https://ebyl.tmsimg.com/assets/s12288_ld_h15_ab.png
-HBO(HBOI).cl,HBO,https://ebyl.tmsimg.com/assets/s12288_ld_h15_ab.png
-HBO(HBOEHD).cl,HBO,https://ebyl.tmsimg.com/assets/s12288_ld_h15_ab.png
-HBO(HBOCHIL).cl,HBO,https://ebyl.tmsimg.com/assets/s12288_ld_h15_ab.png
-HBO(HBOCHIH).cl,HBO,https://ebyl.tmsimg.com/assets/s12288_ld_h15_ab.png
-HBO2(HBO2LA).cl,HBO 2,https://ebyl.tmsimg.com/assets/s68140_ld_h15_ad.png
-HBO2(HBO2ENG).cl,HBO 2,https://ebyl.tmsimg.com/assets/s68140_ld_h15_ad.png
-HBO2(HBO2PAN).cl,HBO 2,https://ebyl.tmsimg.com/assets/s68140_ld_h15_ad.png
-HBO2(HBOPNHD).cl,HBO 2,https://ebyl.tmsimg.com/assets/s68140_ld_h15_ad.png
-HBO2(HBO2MHD).cl,HBO 2,https://ebyl.tmsimg.com/assets/s68140_ld_h15_ad.png
-HBODrama(HBODRMA).cl,HBO Drama,https://ebyl.tmsimg.com/assets/GNLZZGG0029BBV2.png
-HBOEast(HBOHD).cl,HBO East,https://ebyl.tmsimg.com/assets/s19548_ld_h15_aa.png
-HBOFamily(HBOFAM).cl,HBO Family,https://ebyl.tmsimg.com/assets/s34879_ld_h15_aa.png
-HBOFamily(HBOFAME).cl,HBO Family,https://ebyl.tmsimg.com/assets/s34879_ld_h15_aa.png
-HBOFamily(HBOFMHD).cl,HBO Family,https://ebyl.tmsimg.com/assets/s34879_ld_h15_aa.png
-HBOFamily(HBOFMEH).cl,HBO Family,https://ebyl.tmsimg.com/assets/s34879_ld_h15_aa.png
-HBOLatino(Pacific)(HBOLATP).cl,HBO Latino (Pacific),https://logos.jesmann.com/hbolatp.png
-HBOLatinoHD(HBOLAHD).cl,HBO Latino HD,https://ebyl.tmsimg.com/assets/s24553_ld_h9_ab.png
-HBOMundi(MUNLA).cl,HBO Mundi,https://ebyl.tmsimg.com/assets/s70081_ld_h15_ab.png
-HBOMundi(MUNLE).cl,HBO Mundi,https://ebyl.tmsimg.com/assets/s70081_ld_h15_ab.png
-HBOMundi(MUNMEX).cl,HBO Mundi,https://ebyl.tmsimg.com/assets/s70081_ld_h15_ab.png
-HBOPlus(HBOPPA).cl,HBO Plus,https://ebyl.tmsimg.com/assets/s34725_ld_h15_ab.png
-HBOPlus(HBOPPHD).cl,HBO Plus,https://ebyl.tmsimg.com/assets/s34725_ld_h15_ab.png
-HBOPop(POPLAH).cl,HBO Pop,https://ebyl.tmsimg.com/assets/s68134_ld_h15_ab.png
-HBOPOP(POPMXH).cl,HBO POP,https://ebyl.tmsimg.com/assets/s68134_ld_h15_ab.png
-HBOPop(POPLEH).cl,HBO Pop,https://ebyl.tmsimg.com/assets/s68134_ld_h15_ab.png
-HBOPop(POPLA).cl,HBO Pop,https://ebyl.tmsimg.com/assets/s68134_ld_h15_ab.png
-HBOPop(POPLAE).cl,HBO Pop,https://ebyl.tmsimg.com/assets/s68134_ld_h15_ab.png
-HBOSignature(HBOSLA).cl,HBO Signature,https://ebyl.tmsimg.com/assets/s80120_ld_h15_ac.png
-HBOSignature(HBOSLHD).cl,HBO Signature,https://ebyl.tmsimg.com/assets/s80120_ld_h15_ac.png
-HBOSignature(HBOSEHD).cl,HBO Signature,https://ebyl.tmsimg.com/assets/s80120_ld_h15_ac.png
-HBOXtreme(HBOXMX).cl,HBO Xtreme,https://ebyl.tmsimg.com/assets/s80211_ld_h15_ab.png
-HBOXtreme(HBOXMXH).cl,HBO Xtreme,https://ebyl.tmsimg.com/assets/s80211_ld_h15_ab.png
-HBOXtreme(HBOXLA).cl,HBO Xtreme,https://ebyl.tmsimg.com/assets/s80211_ld_h15_ab.png
-HBOXtreme(HBOXLAH).cl,HBO Xtreme,https://ebyl.tmsimg.com/assets/s80211_ld_h15_ab.png
-HBOXtreme(HBOXLEH).cl,HBO Xtreme,https://ebyl.tmsimg.com/assets/s80211_ld_h15_ab.png
-HGTV(HGTVLA).cl,HGTV,https://ebyl.tmsimg.com/assets/s111055_ld_h15_aa.png
-HGTV(HGTVLAS).cl,HGTV,https://ebyl.tmsimg.com/assets/s111055_ld_h15_aa.png
-History(HCL).cl,History,https://ebyl.tmsimg.com/assets/s40137_ld_h15_ac.png
-History(HCLI).cl,History,https://ebyl.tmsimg.com/assets/s40137_ld_h15_ac.png
-History(HCLMHD).cl,History,https://ebyl.tmsimg.com/assets/s40137_ld_h15_ac.png
-History(HCLVEHD).cl,History,https://ebyl.tmsimg.com/assets/s40137_ld_h15_ac.png
-History2(H2LAM).cl,History 2,https://ebyl.tmsimg.com/assets/s80374_ld_h15_ae.png
-History2(H2LAT).cl,History 2,https://ebyl.tmsimg.com/assets/s80374_ld_h15_ae.png
-HolvoetTV(Independent)(HOLAC).cl,Holvoet TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-HTV(HTVLA).cl,HTV,https://ebyl.tmsimg.com/assets/s15969_ld_h15_aa.png
-HTVMusicaOnDemand(HTVMUDM).cl,HTV Musica On Demand,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-ID(IDL).cl,ID,https://ebyl.tmsimg.com/assets/s25743_ld_h15_ac.png
-ID(IDLE).cl,ID,https://ebyl.tmsimg.com/assets/s25743_ld_h15_ac.png
-ID(IDLHD).cl,ID,https://ebyl.tmsimg.com/assets/s25743_ld_h15_ac.png
-IDHD(IDMEXHD).cl,ID HD,https://ebyl.tmsimg.com/assets/s25743_ld_h15_ac.png
-IquiqueTelevisión(Independent)(IQUTI).cl,Iquique Televisión,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-IquiqueTelevisión(Independent)(IQUTI2).cl,Iquique Televisión,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-ISB(Independent)(ISBMSB).cl,ISB,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-ITVPatagonia(Independent)(ITVMPA).cl,ITV Patagonia,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-IVCNetHD(IVNETHD).cl,IVC Net HD,https://ebyl.tmsimg.com/assets/s97002_ld_h15_aa.png
-KANALD(KANALD).cl,KANAL D,https://ebyl.tmsimg.com/assets/s73590_ld_h9_aa.png
-KanalDDrama(KANALL).cl,Kanal D Drama,https://ebyl.tmsimg.com/assets/s112558_ld_h15_ab.png
-KidsStarsHD(KIDSTHDPE).cl,Kids Stars HD,https://ebyl.tmsimg.com/assets/s114717_ld_h15_ab.png
-KZO(KZOAR).cl,KZO,https://ebyl.tmsimg.com/assets/s151525_ld_h15_aa.png
-LaRed(RED).cl,La Red,https://ebyl.tmsimg.com/assets/s17422_ld_h15_ab.png
-LaRed(Independent)(LARSTGO).cl,La Red,https://ebyl.tmsimg.com/assets/s17422_ld_h15_ab.png
-LaRed(HD)(REDCD).cl,La Red (HD),https://ebyl.tmsimg.com/assets/s17422_ld_h15_ab.png
-LasEstrellas(ESTRNET)(XEWTDT).cl,Las Estrellas,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
-LasEstrellasInternacional(ESTRE).cl,Las Estrellas Internacional,https://ebyl.tmsimg.com/assets/s16257_ld_h15_ab.png
-LasEstrellasInternacional(ESTREHD).cl,Las Estrellas Internacional,https://ebyl.tmsimg.com/assets/s16257_ld_h15_ab.png
-Lifetime(LIFELC).cl,Lifetime,https://ebyl.tmsimg.com/assets/s89197_ld_h15_ab.png
-Lifetime(LIFSURH).cl,Lifetime,https://ebyl.tmsimg.com/assets/s89197_ld_h15_ab.png
-LifetimeLatinAmerica(Chile)(LIFELCH).cl,Lifetime Latin America (Chile),https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-LoveNature(LOVENAE).cl,Love Nature,https://ebyl.tmsimg.com/assets/s125678_ld_h15_ab.png
-MariaVisión(MARIA).cl,Maria Visión,https://ebyl.tmsimg.com/assets/s12034_ld_h15_aa.png
-MaxUpHD(MAXUAM).cl,Max Up HD,https://ebyl.tmsimg.com/assets/s113555_ld_h15_aa.png
-Mega(MEGA).cl,Mega,https://ebyl.tmsimg.com/assets/s16527_ld_h15_ad.png
-Mega(Independent)(MEGSTGO).cl,Mega,https://ebyl.tmsimg.com/assets/s16527_ld_h15_ad.png
-Mega(Independent)(MEGTI).cl,Mega,https://ebyl.tmsimg.com/assets/s16527_ld_h15_ad.png
-Mega(Independent)(MEGAN).cl,Mega,https://ebyl.tmsimg.com/assets/s16527_ld_h15_ad.png
-Mega(Independent)(MEGVVM).cl,Mega,https://ebyl.tmsimg.com/assets/s16527_ld_h15_ad.png
-Mega(Independent)(MEGMT).cl,Mega,https://ebyl.tmsimg.com/assets/s16527_ld_h15_ad.png
-Mega(Independent)(MEGBCT).cl,Mega,https://ebyl.tmsimg.com/assets/s16527_ld_h15_ad.png
-Mega(Independent)(MEGATPL).cl,Mega,https://ebyl.tmsimg.com/assets/s16527_ld_h15_ad.png
-Mega(Independent)(MEGMPA).cl,Mega,https://ebyl.tmsimg.com/assets/s16527_ld_h15_ad.png
-MEGAHD(MEGAHD).cl,MEGA HD,https://ebyl.tmsimg.com/assets/s16527_ld_h15_ad.png
-MegaPlus(MEGAP).cl,Mega Plus,https://ebyl.tmsimg.com/assets/s111870_ld_h9_aa.png
-MegaPlus(MEGAPH).cl,Mega Plus,https://ebyl.tmsimg.com/assets/s111870_ld_h9_aa.png
-MIMUSICAHD(MIMUSIC).cl,MIMUSICA HD,https://ebyl.tmsimg.com/assets/s76918_ld_h9_aa.png
-Morrovisión(Independent)(MORA).cl,Morrovisión,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-MovistarDeportes(MDEPO).cl,Movistar Deportes,https://ebyl.tmsimg.com/assets/s86945_ld_h15_ab.png
-MTV(MTVL).cl,MTV,https://ebyl.tmsimg.com/assets/s12712_ld_h15_ab.png
-MTV(MTVLA).cl,MTV,https://ebyl.tmsimg.com/assets/s12712_ld_h15_ab.png
-MTV(MTVLC).cl,MTV,https://ebyl.tmsimg.com/assets/s12712_ld_h15_ab.png
-MTV(MTVLCHD).cl,MTV,https://ebyl.tmsimg.com/assets/s12712_ld_h15_ab.png
-MTV-MusicTelevisionHD(MTVHD).cl,MTV - Music Television HD,https://ebyl.tmsimg.com/assets/s60964_ld_h15_aa.png
-MTV00s(MTV00S).cl,MTV 00s,https://ebyl.tmsimg.com/assets/s56245_ld_h15_ab.png
-MTV80s(NorthAmerica)(MTV80COL).cl,MTV 80s (North America),https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-MTVHits(MTVHTLA).cl,MTV Hits,https://ebyl.tmsimg.com/assets/s67787_ld_h15_aa.png
-MTVLive(MTVLVHD).cl,MTV Live,https://ebyl.tmsimg.com/assets/s66419_ld_h15_aa.png
-Multipremier(MPREL).cl,Multipremier,https://ebyl.tmsimg.com/assets/s18169_ld_h15_ac.png
-Multipremier(MPRELH).cl,Multipremier,https://ebyl.tmsimg.com/assets/s116475_ld_h15_aa.png
-MusicChoiceSoundscapes(MC43).cl,Music Choice Soundscapes,https://ebyl.tmsimg.com/assets/s31028_ld_h15_aa.png
-MusicTop(MTOPHD).cl,Music Top,https://ebyl.tmsimg.com/assets/s109487_ld_h15_aa.png
-NatGeoKidsHD(NGKCMHD).cl,Nat Geo Kids HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NationalGeographic(NGCLA).cl,National Geographic,https://ebyl.tmsimg.com/assets/s25068_ld_h15_ab.png
-NationalGeographic(NGLAT).cl,National Geographic,https://ebyl.tmsimg.com/assets/s25068_ld_h15_ab.png
-NationalGeographic(NGCLAH).cl,National Geographic,https://ebyl.tmsimg.com/assets/s25068_ld_h15_ab.png
-NationalGeographic(NGLATHD).cl,National Geographic,https://ebyl.tmsimg.com/assets/s25068_ld_h15_ab.png
-NationalGeographicWild(NGWLAHD).cl,National Geographic Wild,https://ebyl.tmsimg.com/assets/s67590_ld_h15_aa.png
-NBATV(NBATV).cl,NBA TV,https://ebyl.tmsimg.com/assets/s32281_ld_h15_ad.png
-NHKTVWorldPremium(NHKL).cl,NHK TV World Premium,https://ebyl.tmsimg.com/assets/s19733_ld_h9_ab.png
-NHKWorldTV(NHKWRLD).cl,NHK World TV,https://ebyl.tmsimg.com/assets/s59155_ld_h15_aa.png
-NHKWorldTVHD(NHKWRLD)(NHKWHD).cl,NHK World TV HD,https://ebyl.tmsimg.com/assets/s59155_ld_h15_aa.png
-Nick(NIKL).cl,Nick,https://ebyl.tmsimg.com/assets/s16707_ld_h15_ac.png
-Nick(NIKLC).cl,Nick,https://ebyl.tmsimg.com/assets/s16707_ld_h15_ac.png
-Nick(NKLACHD).cl,Nick,https://ebyl.tmsimg.com/assets/s101208_ld_h15_ab.png
-NickJr.(NICKJLM).cl,Nick Jr.,https://ebyl.tmsimg.com/assets/s60295_ld_h15_aa.png
-NickJr.(NICKJMH).cl,Nick Jr.,https://ebyl.tmsimg.com/assets/s60295_ld_h15_aa.png
-NickMusic(NMZK).cl,Nick Music,https://ebyl.tmsimg.com/assets/s30418_ld_h15_ac.png
-Nickmusic(NIKMLA).cl,Nickmusic,https://ebyl.tmsimg.com/assets/s90209_ld_h15_ac.png
-NTN24(NTN24).cl,NTN24,https://ebyl.tmsimg.com/assets/s61988_ld_h15_ac.png
-NTV(NTVCHI).cl,NTV,https://ebyl.tmsimg.com/assets/s114696_ld_h15_ae.png
-NuestraTeleInternacional(NUESTRC).cl,Nuestra Tele Internacional,https://ebyl.tmsimg.com/assets/s33431_ld_h15_ad.png
-NuevoTiempo(Independent)(NUESTGO).cl,Nuevo Tiempo,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempo(Independent)(NUEA).cl,Nuevo Tiempo,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempo(Independent)(NUEVVM).cl,Nuevo Tiempo,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempo(Independent)(NUEBIO).cl,Nuevo Tiempo,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempo(Independent)(NUEATPC).cl,Nuevo Tiempo,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NUEVOTIEMPO(NUEVOPE).cl,NUEVO TIEMPO,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempoChile(Independent)(NUCSTGO).cl,Nuevo Tiempo Chile,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempoChile(Independent)(NUCA).cl,Nuevo Tiempo Chile,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempoChile(Independent)(NUCVVM).cl,Nuevo Tiempo Chile,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempoChile(Independent)(NUCBIO).cl,Nuevo Tiempo Chile,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempoChile(Independent)(NUCATPC).cl,Nuevo Tiempo Chile,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempoRadio(Independent)(NURSTGO).cl,Nuevo Tiempo Radio,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempoRadio(Independent)(NURA).cl,Nuevo Tiempo Radio,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempoRadio(Independent)(NURVVM).cl,Nuevo Tiempo Radio,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempoRadio(Independent)(NURBIO).cl,Nuevo Tiempo Radio,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevoTiempoRadio(Independent)(NURATPC).cl,Nuevo Tiempo Radio,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-NuevosComienzosTV(Independent)(NUVSTGO).cl,Nuevos Comienzos TV,https://ebyl.tmsimg.com/assets/s111547_ld_h6_aa.png
-OnDIRECTVHD(North)(ONDTHN).cl,OnDIRECTV HD (North),https://ebyl.tmsimg.com/assets/s107400_ld_h15_aa.png
-ParamountNetwork(PARAMNT).cl,Paramount Network,https://ebyl.tmsimg.com/assets/s106215_ld_h15_aa.png
-ParamountNetwork(PARMNHD).cl,Paramount Network,https://ebyl.tmsimg.com/assets/s91120_ld_h15_ab.png
-PasionesTVLatinAmerica(PASNLA).cl,Pasiones TV Latin America,https://ebyl.tmsimg.com/assets/s71621_ld_h15_aa.png
-PasionesTVLatinAmericaHD(PASNLAH).cl,Pasiones TV Latin America HD,https://ebyl.tmsimg.com/assets/s71621_ld_h15_aa.png
-PlayboyLatinAmericaHD(PLAYLHD).cl,Playboy Latin America HD,https://ebyl.tmsimg.com/assets/s70673_ld_h15_aa.png
-PlayboyTVLatinAmerica(PLAYL).cl,Playboy TV Latin America,https://ebyl.tmsimg.com/assets/s16788_ld_h15_aa.png
-PLUSTVLIFE(PLUSPE).cl,PLUS TV LIFE,https://ebyl.tmsimg.com/assets/s126482_ld_h15_ab.png
-PremiereClubes(PFCLOC).cl,Premiere Clubes,https://ebyl.tmsimg.com/assets/s56084_ld_h15_ab.png
-PuertaNorteTV(Independent)(PUEA).cl,Puerta Norte TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-QuieroMiMusicaenMiIdiomaHD(QMMIHD).cl,Quiero Mi Musica en Mi Idioma HD,https://ebyl.tmsimg.com/assets/s75978_ld_h15_ac.png
-RadioAméricaTelevisión(Independent)(RADCLS).cl,Radio América Televisión,https://ebyl.tmsimg.com/assets/s111636_ld_h15_aa.png
-RadioCaracol(RCARA).cl,Radio Caracol,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-RadioDisney(RADS).cl,Radio Disney,https://ebyl.tmsimg.com/assets/s75772_ld_h15_ab.png
-RaiItalia(RAIIS).cl,Rai Italia,https://ebyl.tmsimg.com/assets/s75785_ld_h15_aa.png
-RaiItaliaHD(RAIIHD).cl,Rai Italia HD,https://ebyl.tmsimg.com/assets/s75785_ld_h15_aa.png
-RaiRadio1(RAIRAD1).cl,Rai Radio 1,https://ebyl.tmsimg.com/assets/s94884_ld_h9_aa.png
-RedeGloboINTL2(REDEGL)(RGTI2).cl,Rede Globo INTL 2,https://ebyl.tmsimg.com/assets/s50798_ll_h15_cc.png
-RFI(RFIRAD).cl,RFI,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-RockAlternativo(ROCKALT).cl,Rock Alternativo,https://ebyl.tmsimg.com/assets/s38800_ld_h15_aa.png
-RT(RTTV).cl,RT,https://ebyl.tmsimg.com/assets/s58333_ld_h15_aa.png
-RTinSpanishHD(RTSPANH).cl,RT in Spanish HD,https://ebyl.tmsimg.com/assets/s105169_ld_h9_aa.png
-RTInternational(RTINT).cl,RT International,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-RTCTelevisión(Independent)(RTCTI).cl,RTC Televisión,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-RTPMundo(RTPI).cl,RTP Mundo,https://ebyl.tmsimg.com/assets/GNLZZGG0031EHF2.png
-SonLifeInternational(SNLFINT).cl,SonLife International,https://ebyl.tmsimg.com/assets/s42745_ld_h15_aa.png
-SonyMovieChannel(SONY).cl,Sony Movie Channel,https://ebyl.tmsimg.com/assets/s69091_ld_h15_ab.png
-SonyMovieChannelHD(SONYHD).cl,Sony Movie Channel HD,https://ebyl.tmsimg.com/assets/s69130_ld_h15_ab.png
-Space(SPACMHD).cl,Space,https://ebyl.tmsimg.com/assets/s68021_ld_h15_aa.png
-Space(SPACEEH).cl,Space,https://ebyl.tmsimg.com/assets/s68021_ld_h15_aa.png
-Space(SPACES).cl,Space,https://ebyl.tmsimg.com/assets/s16499_ld_h15_aa.png
-Space(SPACECN).cl,Space,https://ebyl.tmsimg.com/assets/s16499_ld_h15_aa.png
-Space(SPACECH).cl,Space,https://ebyl.tmsimg.com/assets/s68021_ld_h15_aa.png
-SPANESPN(SPAESPN).cl,SPAN ESPN,https://ebyl.tmsimg.com/assets/s10179_ld_h15_aa.png
-sportv(SPORTV).cl,sportv,https://ebyl.tmsimg.com/assets/s56103_ld_h15_ad.png
-StarAction(STARACE).cl,Star Action,https://ebyl.tmsimg.com/assets/s58835_ld_h15_ac.png
-StarAction(STRACO).cl,Star Action,https://ebyl.tmsimg.com/assets/s58835_ld_h15_ac.png
-StarAction(STRACHD).cl,Star Action,https://ebyl.tmsimg.com/assets/s58835_ld_h15_ac.png
-StarChannel(STARMEX).cl,Star Channel,https://ebyl.tmsimg.com/assets/s75423_ld_h15_ac.png
-StarChannel(STARG).cl,Star Channel,https://ebyl.tmsimg.com/assets/s75423_ld_h15_ac.png
-StarChannel(STRANHD).cl,Star Channel,https://ebyl.tmsimg.com/assets/s75423_ld_h15_ac.png
-STARCINEMA(STARCI).cl,STAR CINEMA,https://ebyl.tmsimg.com/assets/s71662_ld_h15_ac.png
-StarClassics(STARCLA).cl,Star Classics,https://ebyl.tmsimg.com/assets/s44028_ld_h15_ac.png
-STARCOMEDY(STARCOM).cl,STAR COMEDY,https://ebyl.tmsimg.com/assets/s90916_ld_h15_ac.png
-STARCOMEDY(STCOMEH).cl,STAR COMEDY,https://ebyl.tmsimg.com/assets/s90916_ld_h15_ac.png
-STARFUN(STARFAM).cl,STAR FUN,https://ebyl.tmsimg.com/assets/s65399_ld_h15_ac.png
-STARFUN(STARFO).cl,STAR FUN,https://ebyl.tmsimg.com/assets/s65399_ld_h15_ac.png
-STARFUN(STRFAMH).cl,STAR FUN,https://ebyl.tmsimg.com/assets/s65399_ld_h15_ac.png
-StarHits(STARHIT).cl,Star Hits,https://ebyl.tmsimg.com/assets/s58833_ld_h15_ae.png
-StarHits(STARHHD).cl,Star Hits,https://ebyl.tmsimg.com/assets/s58833_ld_h15_ae.png
-StarLife(STRLIFC).cl,Star Life,https://ebyl.tmsimg.com/assets/s49263_ld_h15_ab.png
-StarLife(STLARHD).cl,Star Life,https://ebyl.tmsimg.com/assets/s49263_ld_h15_ab.png
-StarSeries(STARSO).cl,Star Series,https://ebyl.tmsimg.com/assets/s60542_ld_h15_ac.png
-StarSeries(STARSER).cl,Star Series,https://ebyl.tmsimg.com/assets/s60542_ld_h15_ac.png
-StarSeries(STARSHD).cl,Star Series,https://ebyl.tmsimg.com/assets/s60542_ld_h15_ac.png
-StarTVE(STARHD).cl,Star TVE,https://ebyl.tmsimg.com/assets/s106724_ld_h15_aa.png
-StgoTV(Independent)(STGSTGO).cl,Stgo TV,https://ebyl.tmsimg.com/assets/s111592_ld_h15_aa.png
-StingrayAdultAlternative(SM003).cl,Stingray Adult Alternative,https://ebyl.tmsimg.com/assets/s21635_ld_h15_ac.png
-StingrayAños70(SMESP29).cl,Stingray Años 70,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayAños80(SMESP27).cl,Stingray Años 80,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayBlues(SMESP33).cl,Stingray Blues,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayChillout(SMESP39).cl,Stingray Chillout,https://ebyl.tmsimg.com/assets/s77013_ld_h15_aa.png
-StingrayClásicosIndie(SMESP67).cl,Stingray Clásicos Indie,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayClasicosParaTodos(SMESP49).cl,Stingray Clasicos Para Todos,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayÉxitosdelasAméricas(SMESP58).cl,Stingray Éxitos de las Américas,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayÉxitosTropicales(SM041).cl,Stingray Éxitos Tropicales,https://ebyl.tmsimg.com/assets/s45215_ld_h15_aa.png
-StingrayGroove(SMESP28).cl,Stingray Groove,https://ebyl.tmsimg.com/assets/s77024_ld_h15_aa.png
-StingrayHardRock(SMESP36).cl,Stingray Hard Rock,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayHeavyMetal(SMUS15).cl,Stingray Heavy Metal,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayHimnosdelRock(SMESP66).cl,Stingray Himnos del Rock,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayHolidayHits(SMESP50).cl,Stingray Holiday Hits,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayJammin'Reggae(SMESP10).cl,Stingray Jammin' Reggae,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayMaestrosdelClasico(SMESP48).cl,Stingray Maestros del Clasico,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayMúsicadelMundo(SMESP12).cl,Stingray Música del Mundo,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayMúsicaLigera(SMESP47).cl,Stingray Música Ligera,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayNewAge(SMESP44).cl,Stingray New Age,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayPopAdulto(SMESP16).cl,Stingray Pop Adulto,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayPopcorn(SMESP74).cl,Stingray Popcorn,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayReggaeton(SMESP04).cl,Stingray Reggaeton,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayRockAlternativo(SMESP53).cl,Stingray Rock Alternativo,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayRockdeBrasil(SMESP56).cl,Stingray Rock de Brasil,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayRockEnEspañol(SMESP52).cl,Stingray Rock En Español,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayRomanceLatino(SMUS49).cl,Stingray Romance Latino,https://ebyl.tmsimg.com/assets/s88516_ld_h15_ab.png
-StingrayRomanceLatino(SMESP51).cl,Stingray Romance Latino,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingraySesionesDancehall(SMESP69).cl,Stingray Sesiones Dancehall,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingraySóloParaPeques(SMESP62).cl,Stingray Sólo Para Peques,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayTango(SMESP70).cl,Stingray Tango,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
-StingrayTheChillLounge(SM005).cl,Stingray The Chill Lounge,https://ebyl.tmsimg.com/assets/s21638_ld_h15_aa.png
-StingrayY2K(SMUS42).cl,Stingray Y2K,https://ebyl.tmsimg.com/assets/s68686_ld_h15_aa.png
-StudioUniversal(STULM).cl,Studio Universal,https://ebyl.tmsimg.com/assets/s29017_ld_h15_aa.png
-StudioUniversal(STULCH).cl,Studio Universal,https://ebyl.tmsimg.com/assets/s29017_ld_h15_aa.png
-StudioUniversal(STULMHD).cl,Studio Universal,https://ebyl.tmsimg.com/assets/s90605_ld_h15_aa.png
-StudioUniversal(STULARH).cl,Studio Universal,https://ebyl.tmsimg.com/assets/s90605_ld_h15_aa.png
-StudioUniversal(STULCHD).cl,Studio Universal,https://ebyl.tmsimg.com/assets/s29017_ld_h15_aa.png
-SunChannelHD(SUNCHHD).cl,Sun Channel HD,https://ebyl.tmsimg.com/assets/s60329_ld_h15_aa.png
-T-ViNet(Independent)(TVILLO).cl,T-ViNet,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-TBS(TBSESHD).cl,TBS,https://ebyl.tmsimg.com/assets/s75073_ld_h15_ad.png
-TBS(TBSESPH).cl,TBS,https://ebyl.tmsimg.com/assets/s75073_ld_h15_ad.png
-TCM(TCML).cl,TCM,https://ebyl.tmsimg.com/assets/s19246_ld_h15_ac.png
-TCM(TCMLI).cl,TCM,https://ebyl.tmsimg.com/assets/s19246_ld_h15_ac.png
-TectTV(Independent)(TECATPL).cl,Tect TV,https://ebyl.tmsimg.com/assets/s111436_ld_h15_aa.png
-TeenNick(TNCK).cl,Teen Nick,https://ebyl.tmsimg.com/assets/s59036_ld_h15_ac.png
-TeenNickHD(TNCKHD).cl,Teen Nick HD,https://ebyl.tmsimg.com/assets/s97047_ld_h15_ac.png
-TelecanalChile(TELECAN).cl,Telecanal Chile,https://ebyl.tmsimg.com/assets/s50296_ld_h15_aa.png
-TelecanalTalca(Independent)(TELMT).cl,Telecanal Talca,https://ebyl.tmsimg.com/assets/s50296_ld_h15_aa.png
-TelefeInternacional(TEFEI).cl,Telefe Internacional,https://ebyl.tmsimg.com/assets/s100066_ld_h15_ad.png
-Telefeinternational(TEFEIHD).cl,Telefe international,https://ebyl.tmsimg.com/assets/s100066_ld_h15_ad.png
-TelemundoInternacional(CABTELE).cl,Telemundo Internacional,https://ebyl.tmsimg.com/assets/s64835_ld_h15_ac.png
-TelemundoInternacional(TELICAH).cl,Telemundo Internacional,https://ebyl.tmsimg.com/assets/s102862_ld_h15_aa.png
-TeleSur(TELESUR).cl,TeleSur,https://ebyl.tmsimg.com/assets/s47620_ld_h15_aa.png
-TeletrakTV(TETRAK).cl,Teletrak TV,https://ebyl.tmsimg.com/assets/s47486_ld_h15_aa.png
-TeletrakTV(TETRAH).cl,Teletrak TV,https://ebyl.tmsimg.com/assets/s47486_ld_h15_aa.png
-TheGolfChannelLatinoamerica(GOLFLA).cl,The Golf Channel Latinoamerica,https://ebyl.tmsimg.com/assets/s61033_ld_h15_ab.png
-TheGolfChannelLatinoamericaHD(GOLFLAH).cl,The Golf Channel Latinoamerica HD,https://ebyl.tmsimg.com/assets/s61033_ld_h15_ab.png
-ThemaTV(Independent)(THECLS).cl,Thema TV,https://ebyl.tmsimg.com/assets/s111432_ld_h15_aa.png
-TierraMia(TERRAM).cl,Tierra Mia,https://ebyl.tmsimg.com/assets/s112115_ld_h15_aa.png
-TLC(TLCLASP).cl,TLC,https://ebyl.tmsimg.com/assets/s73822_ld_h15_ae.png
-TLCPanregionalHD(TLCDLHD).cl,TLC Panregional HD,https://ebyl.tmsimg.com/assets/s73822_ld_h15_ae.png
-TLNovelas(TLNOVEL).cl,TLNovelas,https://ebyl.tmsimg.com/assets/s37232_ld_h15_ab.png
-TNE(Independent)(TNEMT).cl,TNE,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-TNE(TNE).cl,TNE,https://ebyl.tmsimg.com/assets/s112010_ld_h9_aa.png
-TNT(TNTLC).cl,TNT,https://ebyl.tmsimg.com/assets/s71148_ld_h15_aa.png
-TNT(TNTLCH).cl,TNT,https://ebyl.tmsimg.com/assets/s71148_ld_h15_aa.png
-TNT(TNTLCHH).cl,TNT,https://ebyl.tmsimg.com/assets/s71727_ld_h15_aa.png
-TNTNovelas(TNOVESH).cl,TNT Novelas,https://ebyl.tmsimg.com/assets/s140026_ld_h15_aa.png
-TNTSeries(TNTSPAH).cl,TNT Series,https://ebyl.tmsimg.com/assets/s91993_ld_h15_ab.png
-TNTSeries(TNTSRS).cl,TNT Series,https://ebyl.tmsimg.com/assets/s91993_ld_h15_ab.png
-TNTSeries(TNTSERH).cl,TNT Series,https://ebyl.tmsimg.com/assets/s91993_ld_h15_ab.png
-TNTSports(TNTSPCS).cl,TNT Sports,https://ebyl.tmsimg.com/assets/s50707_ld_h15_ae.png
-TNTSportsPremium(TNTPCHS).cl,TNT Sports Premium,https://ebyl.tmsimg.com/assets/s46744_ld_h15_ad.png
-TNTSportsPremium(TNTPCHD).cl,TNT Sports Premium,https://ebyl.tmsimg.com/assets/s46744_ld_h15_ad.png
-TNTSportsPremium(TNTSPOR).cl,TNT Sports Premium,https://ebyl.tmsimg.com/assets/s106780_ld_h15_ad.png
-TODONOTICIAS(TODONOT).cl,TODO NOTICIAS,https://ebyl.tmsimg.com/assets/s42507_ld_h15_aa.png
-Tooncast(TOONCST).cl,Tooncast,https://ebyl.tmsimg.com/assets/s63109_ld_h15_aa.png
-TuCanal(Independent)(TUCSTGO).cl,Tu Canal,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-TVCentro(Independent)(TVCMT).cl,TV Centro,https://ebyl.tmsimg.com/assets/s111635_ld_h15_aa.png
-TvCiudad(TVCIUD).cl,Tv Ciudad,https://ebyl.tmsimg.com/assets/s82025_ld_h15_ab.png
-TVFamilia(FLIA).cl,TV Familia,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-TVMAS2(Independent)(TVMC2).cl,TV MAS 2,https://ebyl.tmsimg.com/assets/s111640_ld_h15_aa.png
-TVMAS2(Independent)(TVMC2M).cl,TV MAS 2,https://ebyl.tmsimg.com/assets/s111640_ld_h15_aa.png
-TvPública(TVPU).cl,Tv Pública,https://ebyl.tmsimg.com/assets/GNLZZGG00284GWZ.png
-TV+(TVMAS).cl,TV+,https://ebyl.tmsimg.com/assets/s50336_ld_h15_ab.png
-TV+(TVMASH).cl,TV+,https://ebyl.tmsimg.com/assets/s50336_ld_h15_ab.png
-TV+(Independent)(TVSTGO).cl,TV+,https://ebyl.tmsimg.com/assets/s50336_ld_h15_ab.png
-TV+(Independent)(TVVVM).cl,TV+,https://ebyl.tmsimg.com/assets/s50336_ld_h15_ab.png
-TV5LatinAmerica(TV5L).cl,TV5 Latin America,https://ebyl.tmsimg.com/assets/s16422_ld_h15_aa.png
-TVE(TVEI).cl,TVE,https://ebyl.tmsimg.com/assets/s16217_ld_h15_aa.png
-TVE(Independent)(TVEMPAC).cl,TVE,https://ebyl.tmsimg.com/assets/s111527_ld_h6_aa.png
-TVEAmericaTelevisionEspañolaHD(TVEIH).cl,TVE America Television Española HD,https://ebyl.tmsimg.com/assets/s116082_ld_h15_aa.png
-TVEInternationalAméricaLatine(TVELAT).cl,TVE International América Latine,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-TVMaule(Independent)(TVMMT).cl,TVMaule,https://ebyl.tmsimg.com/assets/s111634_ld_h15_aa.png
-TVMaule(36.2)(Independent)(TVMMT2).cl,TVMaule (36.2),https://ebyl.tmsimg.com/assets/s111634_ld_h15_aa.png
-TVN(TVN).cl,TVN,https://ebyl.tmsimg.com/assets/s16526_ld_h15_ab.png
-TVN(Independent)(TVNSTGO).cl,TVN,https://ebyl.tmsimg.com/assets/s16526_ld_h15_ab.png
-TVN(Independent)(TVNSTGS).cl,TVN,https://ebyl.tmsimg.com/assets/s16526_ld_h15_ab.png
-TVNdeChileCanal7HD(TVNH).cl,TVN de Chile Canal 7 HD,https://ebyl.tmsimg.com/assets/s16526_ld_h15_ab.png
-TVO(Independent)(TVOMLG).cl,TVO,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-TVOArtes(Independent)(TVOAMLG).cl,TVO Artes,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-TVODeportes(Independent)(TVODMLG).cl,TVO Deportes,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-TVR(Independent)(TVRSTGO).cl,TVR,https://ebyl.tmsimg.com/assets/GNLZZGG002GCHQC.png
-TVR(Independent)(TVRAN).cl,TVR,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-TVRGO!(Independent)(TVGSTGO).cl,TVR GO!,https://ebyl.tmsimg.com/assets/GNLZZGG002GCHQC.png
-TVSTelevisióndelSenado(SENADO).cl,TVS Televisión del Senado,https://ebyl.tmsimg.com/assets/s47487_ld_h9_aa.png
-TVSTelevisióndelSenado(Independent)(TVSSAN).cl,TVS Televisión del Senado,https://ebyl.tmsimg.com/assets/s47487_ld_h9_aa.png
-TVSTelevisióndelSenado(Independent)(TVSVAL).cl,TVS Televisión del Senado,https://ebyl.tmsimg.com/assets/s47487_ld_h9_aa.png
-TVSTelevisióndelSenado(Independent)(TVSBIO).cl,TVS Televisión del Senado,https://ebyl.tmsimg.com/assets/s47487_ld_h9_aa.png
-TyCSports(TYC).cl,TyC Sports,https://ebyl.tmsimg.com/assets/GNLZZGG0034VR6Y.png
-TyCSportsInternational(TYCINTL).cl,TyC Sports International,https://ebyl.tmsimg.com/assets/GNLZZGG0034VR6Y.png
-TyCSportsInternational(TYCINTH).cl,TyC Sports International,https://ebyl.tmsimg.com/assets/GNLZZGG0034VR6Y.png
-UCLTVUniónContinentalLatinoamérica(UCLPLAY).cl,UCL TV Unión Continental Latinoamérica,https://ebyl.tmsimg.com/assets/s116150_ld_h15_aa.png
-UCV3(Independent)(UCV3SGO).cl,UCV 3,https://ebyl.tmsimg.com/assets/s111612_ld_h15_aa.png
-UCV3(Independent)(UCV3VVM).cl,UCV 3,https://ebyl.tmsimg.com/assets/s111612_ld_h15_aa.png
-UDATelevisión(Independent)(UDAAC).cl,UDA Televisión,https://ebyl.tmsimg.com/assets/s111627_ld_h15_aa.png
-UESTV(Independent)(UESSTGO).cl,UESTV,https://ebyl.tmsimg.com/assets/s111591_ld_h6_aa.png
-Ufrovisión(Independent)(UFRATPC).cl,Ufrovisión,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-Ufrovisión(Independent)(UFATPC2).cl,Ufrovisión,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-UMAGTV(Independent)(UMAMPA).cl,UMAG TV,https://ebyl.tmsimg.com/assets/s111626_ld_h6_aa.png
-Uniacc(Independent)(UNIMP).cl,Uniacc,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-Unicable(UNICHD).cl,Unicable,https://ebyl.tmsimg.com/assets/s16521_ld_h15_ad.png
-UnionRadioNoticias(CNUR).cl,Union Radio Noticias,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-UNIPRMH(UNIPRMH).cl,UNIPRMH,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-UniversalCinema(UNICI).cl,Universal Cinema,https://ebyl.tmsimg.com/assets/s121869_ld_h15_aa.png
-UniversalComedy(UNICO).cl,Universal Comedy,https://ebyl.tmsimg.com/assets/s121870_ld_h15_aa.png
-UniversalCrime(UNICR).cl,Universal Crime,https://ebyl.tmsimg.com/assets/s121868_ld_h15_aa.png
-UniversalCrime(UNICRO).cl,Universal Crime,https://ebyl.tmsimg.com/assets/s121868_ld_h15_aa.png
-UniversalLatinAmerHD(UNILAHD).cl,Universal Latin Amer HD,https://ebyl.tmsimg.com/assets/s53218_ld_h15_ab.png
-UniversalPremiere(UNIPR).cl,Universal Premiere,https://ebyl.tmsimg.com/assets/s121866_ld_h15_aa.png
-UniversalReality(UNIRE).cl,Universal Reality,https://ebyl.tmsimg.com/assets/s121867_ld_h15_aa.png
-UniversalTV(UNTVM).cl,Universal TV,https://ebyl.tmsimg.com/assets/s53218_ld_h15_ab.png
-UniversalTV(UNTVCH).cl,Universal TV,https://ebyl.tmsimg.com/assets/s53218_ld_h15_ab.png
-UniversalTV(UNTVCHD).cl,Universal TV,https://ebyl.tmsimg.com/assets/s53218_ld_h15_ab.png
-UniversidaddeTarapacá(Independent)(UTAA).cl,Universidad de Tarapacá,https://ebyl.tmsimg.com/assets/s111616_ld_h15_aa.png
-UnivisionNetwork(UNI)(UNI).cl,Univision Network,https://ebyl.tmsimg.com/assets/s11118_ld_h15_ab.png
-UnivisionNetworkHD(UNI)(UNIHD).cl,Univision Network HD,https://ebyl.tmsimg.com/assets/s11118_ld_h15_ab.png
-USA(USALA).cl,USA,https://ebyl.tmsimg.com/assets/s56727_ld_h15_ad.png
-USANetwork(USA).cl,USA Network,https://ebyl.tmsimg.com/assets/s11207_ld_h15_af.png
-USANetworkHD(USAHD).cl,USA Network HD,https://ebyl.tmsimg.com/assets/s58452_ld_h15_af.png
-VePlus(VEPTV).cl,Ve Plus,https://ebyl.tmsimg.com/assets/s99240_ld_h15_aa.png
-VENEVISION(VENE).cl,VENEVISION,https://ebyl.tmsimg.com/assets/s41725_ld_h15_ad.png
-Venus(VNUS).cl,Venus,https://ebyl.tmsimg.com/assets/s16498_ld_h15_aa.png
-VeoTV(Independent)(VEOATPC).cl,Veo TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-VH1(VH1L).cl,VH1,https://ebyl.tmsimg.com/assets/s42567_ld_h15_aa.png
-VH1Megahits(VH1MGAH).cl,VH1 Megahits,https://ebyl.tmsimg.com/assets/s74162_ld_h15_ab.png
-VH1MexicoHD(VH1MXHD).cl,VH1 Mexico HD,https://ebyl.tmsimg.com/assets/s11218_ld_h15_ac.png
-ViaX(VIAX).cl,Via X,https://ebyl.tmsimg.com/assets/s47138_ld_h15_ab.png
-ViaX2(VIAX2).cl,Via X 2,https://ebyl.tmsimg.com/assets/s72640_ld_h15_aa.png
-ViaXEsports(VIAXES).cl,Via X Esports,https://ebyl.tmsimg.com/assets/s120918_ld_h15_aa.png
-Vive(VIVEC).cl,Vive,https://ebyl.tmsimg.com/assets/s111869_ld_h9_aa.png
-ViveTV(VIVETV).cl,Vive TV,https://ebyl.tmsimg.com/assets/s49330_ld_h15_aa.png
-VoiceofAmerica(VOALatinAmerica)(VOALA).cl,Voice of America (VOA Latin America),https://ebyl.tmsimg.com/assets/s60186_ld_h15_aa.png
-VTVPLUS(VTVMUR).cl,VTV PLUS,https://ebyl.tmsimg.com/assets/s107892_ld_h15_ac.png
-WarnerChannel(WBLHD).cl,Warner Channel,https://ebyl.tmsimg.com/assets/GNLZZGG003294GG.png
-WarnerChannel(WBCHD).cl,Warner Channel,https://ebyl.tmsimg.com/assets/GNLZZGG003294GG.png
-WarnerChannel(WBCSD).cl,Warner Channel,https://ebyl.tmsimg.com/assets/GNLZZGG003294GG.png
-XHDFAztecaUno(AZUNOHD).cl,XHDF Azteca Uno,https://ebyl.tmsimg.com/assets/s116153_ld_h15_ab.png
-XTSYSpanish(XTSYLA).cl,XTSY Spanish,https://ebyl.tmsimg.com/assets/s62681_ld_h15_aa.png
-ZeeTVHD(ZEE).cl,Zee TV HD,https://ebyl.tmsimg.com/assets/GNLZZGG0022HE0M.png
-ZonaLatina(ZONAL).cl,Zona Latina,https://ebyl.tmsimg.com/assets/s47139_ld_h15_ad.png
-ZooMoo(ZOOMOSH).cl,ZooMoo,https://ebyl.tmsimg.com/assets/s89920_ld_h15_ab.png
+# Fuente: https://iptv-epg.org/files/epg-mx.xml.gz
+Espn4.mx,MX - Espn 4,
+A&amp;E.mx,MX - A&amp;E,https://iptv-epg.org/images/VcDTfP8gRuLGWxdPT0fvFImTqhgeuTri1ds28ixhj4hgNeZL49ANquiRaSFcuhYqaFJ4gZNRyvzyc2oTyrJJHDvEumO0UvO2yPfFUH-d
+A+.mx,MX - A+,https://iptv-epg.org/images/DFQ3fQzwRzbMBKxDwxBWr4qgoQP8Ps0CQ2D2XLDmun5PFWc3kJDckLZGJnKvrlGps-30gpvl0_dP2oskPGIGXKeL0bGso-ItreiNxAY
+adn40.mx,MX - adn40,https://iptv-epg.org/images/ADBN1fq3hOsfMtZnXz0wiQGUDCaLvwX-tf5ewuQQOZVT9-yufrJK1m44MggceOzp5z-4PK4hwvOKe5YAtsc0F-qzTmRqbX5bpc38IAHx
+AMC.mx,MX - AMC,https://iptv-epg.org/images/qLCLhpsRDIzf8Plvy1zwxKGb1DTzs33p6UgOoH1c9mn1_Yf6yU4dZzUiIveVGKgx_DHGHJp4866ra0mQblUQY9FL4Oi1x_oL7FkG3A
+AnimalPlanet.mx,MX - Animal Planet,https://iptv-epg.org/images/vkI7yd4xt_RpCrx6r21kPnCscWGBs3BpSAEfi-jTTqEC-2dWEjIRJZbm11wYLrIds1FX5KsKUvonONTSpF_6TOQGmRrEDkHvadv0WdJG1LC_Ah_XXQ
+ASN.mx,MX - ASN [Adrenalina Sports Network],https://iptv-epg.org/images/qRuZfjLfBVAQoOKk5MWM7C5bVPlIUOx5QpyjETcg5hSDT5B09lHuyXtiD9r3mIjPHzhMESeChgaxINi40aMfjm1YInDP8oKZtye6Lg
+AXN.mx,MX - AXN,https://iptv-epg.org/images/8D-Gq1JJxGLN4TEjfIzhm_ltYeq0LnpfDleH8_ydnAAS9t1sG4OP59kJs1f5wUFvfc9suObUpdOXBIOeLFaDy3-kVxExTs-zVgt5Cw
+AYMSports.mx,MX - AYM Sports,https://iptv-epg.org/images/rKekuBLIwPixJbCPb0-hwVLyMJcuqKm5gURmWIX1g37bZeWkFXnuFY5OcHY62nNxQ2i0dar2MrGL7yLKz42rnXBVU6Sps7prkxR2LTucQGeSNQ
+AzCoraz&#xF3;n.mx,MX - Az Corazón,https://iptv-epg.org/images/PH7--1gxda9kZzIFmXJNjusySHwNxekQboFI1k-YVNGBKHZMbmidTo5mcZn_-oAnyM1s4PrNAGoXkdqswrV9LTjROKMk-Kq7m2atWQrE5hQwaFoxdJ-w
+Azteca13.mx,MX - Azteca 13,https://iptv-epg.org/images/USg1qZ6V6sJi0Rc4FUP4-hV2INQCOrTKcjGu3NdOOYpAY5qWjOFjdS8hi9sjLvwE9wNx4kFID7dzJnpiJ2thqRE3Sp9XMlwbPgvwLR2KTpzo
+Azteca7.mx,MX - Azteca 7,https://iptv-epg.org/images/JvoZXsuwnPjc4vg3gV_andEtTcrP6QlTzilCUzwlv8wrIog5Yb--a0FFT_4RIwMgNiBnnN85TstPOBYb9p20XY2jsBKCyaBlFN_SqA3HIhM
+AztecaUno.mx,MX - Azteca Uno,https://iptv-epg.org/images/AP9vXjbBBVbU_jPtdkBUh0_S18KDIY0Udol-wdTBY1YVQ-eZbxXxn1VCZp53pDw3pv1V9ijDLps6Hj_sqw9lAVbXIW_i3cAjA4uNeSQRheFeKQ
+AztecaUno-1.mx,MX - Azteca Uno -1,https://iptv-epg.org/images/YJv2uE51rg_hCEKL8b3tqHJy1vbYWCi3tk34ub0AcxHZ6WFvi3zIWjEESx7ZIjaDH5kQbdGsym9JuwVUDTc6yoy0wKypsPLmdGKD5QtEC4PK7JoW
+AztecaUno-2.mx,MX - Azteca Uno -2,https://iptv-epg.org/images/5lUBmTVXRvq3-YAsgwLfPO8A_UHjgB57--NSA6C4Qfhc1fAwEQse8H-XGPsI8L954HganozbSl4MBkgcaPozgHzIa6t8XV_brimYBWH_ASqdID8m
+BabyTV.mx,MX - Baby TV,https://iptv-epg.org/images/orA9tCRoPGeGynV4KZXPF8sZoYKGUYDt59EPNF2p7J_L1iQyB7BudUIZ_kG9MGPu5Aemnpn18GxANQDpyV63n_BJN4ndchWEXPyQ9S1wlA
+Bandamax.mx,MX - Bandamax,https://iptv-epg.org/images/SVskjEdNtuEjSnBwQaULmsBZ94oaX_Pio_XSqe9m6zjc3WMH1sq_-GhbYElGjkkZB2D1w4pkGgyFHBxhcZINwDIlxgqgfVINIs4MZwRv4E46
+bitMe.mx,MX - bitMe,https://iptv-epg.org/images/tgQHQwc28giXdPIHaWrWnIzO6cRchgVaUoOgcXzUHu5yc7VOb5poykJi92_MpgW0ZoECFD95P82zPueQqXASI6pSNtMMDzeKKxsSPXCQ
+Canal12TelevisaTijuana.mx,MX - Canal 12 Televisa Tijuana,https://iptv-epg.org/images/6I6j_FCKOOTKZYiC-IAaCfdcbpVkizbw68dAUWbtP4m0XDaVQWonKu1k6fZDGPpm4AEiBp5gLdtTBwIxgQHxNYxz9Qw7znx6RsHS7BO8NdiJ5VPxgIX9tdmJ2YHhh-g
+Canal14.mx,MX - Canal 14,https://iptv-epg.org/images/DfXkxV-939ociQQ4tpVZqPl1yVPs9UyQbCFg5SjPbW5q7_BQUXcmT9R9oe15MAPzaEuv6O9-L_e1-aX2vLRI5-y6qPWhAXx1yuDwX7im-to
+Canal22.mx,MX - Canal 22,https://iptv-epg.org/images/wH5P9_wey373HwvsSWknH15Z2pU7CN-66-7mIRGIXbtUlYTqqA4O6wozzxvIGvyTnOrhHj02XQIA7r0NQWr9wEPAE3lTHfUx65FkCQ1qx3o
+Canal4.mx,MX - Canal 4,https://iptv-epg.org/images/emVhG7CW5OR2plnjjxsP97rPfjSiIJ-jbyjApJmaaqTVW-c5dLG_rNlDdmXomwB-KO_g_qM7n77zbhNY47jnzLNzb5Tss9qENH5YH3PvKw
+Canal4TelevisaMexicali.mx,MX - Canal 4 Televisa Mexicali,https://iptv-epg.org/images/oJSfSU60rOyvRTcPdrHQqDZBYEENM38sF8X9McD5Yo1PQWRZK-5YqbpxMs2AZ8mWv1KTF8nkeZh7NBCtyX3rPPFsP1OcgMBvuBDxDGSXqNBjv_tY21bfVt7HS-5yaPk
+Canal44-udgtv.mx,MX - Canal 44 - udgtv,https://iptv-epg.org/images/zi1UytVIyIDvfB2w8YJjrJUunHS265Kp11EHIZfhYJQ0-GOkB48JUqqDPA22oXJifvyk3aNmLGYxV3IqB1bEnauY0dclsrTy155eRXix7xyusl7glbw
+Canal5.mx,MX - Canal 5,https://iptv-epg.org/images/jQnQYLInVH7MB99Vt78IZh5j1KYs4wCZCmF1lCJN87u_f1lQVYXuPlbAUSFQZcB7AOdvQ7SmTs4B6DDXElRDvUBS2vfSV7bO3Hcmk1Sy3g
+Canal5Galavision.mx,MX - Canal 5 Galavision,https://iptv-epg.org/images/VFNh_aB9nrBOBjEVKC08ae-a21aOzYm1G7-utSNd2juj5uHzaSgOM8lpqrZu-NoMPtziJinsA-oHP8he6VLqxU7QMrWpjTfv8ysoZdpAyWPKCwBr9RfBzmk
+Canal6CDMX.mx,MX - Canal 6 CDMX,https://iptv-epg.org/images/6Auk-WnCFAvrbyrmjeoJHBtAyCdUXh_EKh1-GyWK_EhwmeiDdM153z199jlaz0iR3FA2LAiHNOEhoPXtN2lhhF9ie7BFyKmTyVCX-vLt9CgxeMg
+Canal6MultimediosMonterrey.mx,MX - Canal 6 Multimedios Monterrey,https://iptv-epg.org/images/JHR_0UbJdVPFLqAJxLvUQ5Fy399b4XReyiBY3J2PWh_rO4odORxMVvkngYm_k133v_bRA598kTEp6QWk-Y3p0v9kn1JoDKt0gJK1aEmhjQ1vDYLCO_j4yxwzO6oExhFXGbxw
+CanalDelCongreso.mx,MX - Canal Del Congreso,https://iptv-epg.org/images/vbgWD2q4ravTPLLP-TTA518OdfhwpHhKRpKrAty51_A59fgURXNNwEAf4eKd0EfNpV20N5aAy5PyEz9524m9HftHA8pkWDxMUs8ze6FuGuuuodnh8QMWOsQ
+CanalMexiquense.mx,MX - Canal Mexiquense,https://iptv-epg.org/images/pBgXgzgBBKEJZ1BJmHkzqrAmehH9AHhYMJnU0ILxr_x3gOr8WU5RdgCoMRjvPKMh0j_aAJOzgeq4zL9iust_GDXN22vaa0f2dbR4Odn6daTMDxuSFFWhog
+CanalNU.mx,MX - Canal NU,https://iptv-epg.org/images/O1tax7bFXPrVoltyhHlfDP-3rtdNW2kTfAoB6EkFEPzb2LDm8Da9v-cGwTkMR3V-_4CcrvH6s218zYIwBXlbtCaoSUAZEKd0Z2gppn4Ul1Y
+CanalOnce.mx,MX - Canal Once,https://iptv-epg.org/images/Rs82drCMaij586gjO4z8cFXgHPsBXeH4Fmp1MzBijzab4QJWwTVQPDN0RsLnPXQsB4QbF5SpH6JQmPadokgtpFQeD4GjH4PfjGg8TgA5ksjT3w
+CanalTelehitMusica.mx,MX - Canal Telehit Música,https://iptv-epg.org/images/mugOXrIjyoY7HfLMzUFM3W7t9_7uv1sXF8N7lYL0WrKmlHQkRehpz9MSyXxtwqZjARO0LAKX5mw7wKwhJwxp3Yqrkzi105jzpThJddGBo73gHd9VSv6xf1hk-g
+CartoonNetwork.mx,MX - Cartoon Network,https://iptv-epg.org/images/aQJ-u8qfDffU_xnja5nF2NtsESSIHIO2P6UfC7sMLsON5eiFc-bkjBr5I8_kpcGobxiagXf89-euUFR1bFCHAcPZ2IE7T3Ypq9QeOWptmiUkHOMA1ueG
+Cartoonito.mx,MX - Cartoonito,https://iptv-epg.org/images/8p0p-LdijxdBmkeF_qZ8kGEVdWgRVVdsrRi_hrlTgtm_THilVktMdauth6wrVfAeOAJGsd6rIed0Uh2r7cw6kS4uDp2-HHDHsufwzz3OpyemcMI
+CineLatino.mx,MX - Cine Latino,https://iptv-epg.org/images/qbuuTYOgIhv0vn9MytpNnVB6a687-FZ1A8_S8wOZIhxyk4WFC5skZ2zV1a6Fk_CZpFx0_Va1QyLiMF0GeWIUU31Vz20bzLZjWRoIUdtzbrCdcVw
+CineMexicano.mx,MX - Cine Mexicano,https://iptv-epg.org/images/Icj5sX7tadB07RnE3pL90JPDruprROSOhWUcyZ-9TB0Oh4VJzR6mGiRDAKK6BYI2lOx8KN7p3pOJsftu7jZxdEPJlGCJ669f5RhLOro5HWX4dmJG5g
+Cinecanal.mx,MX - Cinecanal,https://iptv-epg.org/images/wXS_NPRoIhhzXIhOqPYQdZrVOALWpf5lVubkIYo94iVOVQUm7aXnKvKqAnM8nbc-Gr4OtL5Pz1PPSqPjBiCKYD1Ocwhr9VdasZjl32op_oOxDg
+Cinemax.mx,MX - Cinemax,https://iptv-epg.org/images/bdiv_z_x--HZi3fK6WJaGjTsr7eBjSzAjUJtytf_u-iffcoHuD9WntF42eOypfBUtDDdGP0GG9zFS0kyT3vPGBOMlwVCvrsaatZfa781GgU
+CNN.mx,MX - CNN,https://iptv-epg.org/images/SW3a9gQaoARq7K_s0OypXec-e3qz7phKSHyn_254XdOjRfl0OhQE4N_XekrWv0klHSFfRnP5XX0W7i5WNBgXnD6KN2XAvXJ9M_8rpA
+CNNenEspa&#xF1;ol.mx,MX - CNN en Español,https://iptv-epg.org/images/tr-NRx7-p8k4Dv6tplW_ruQsFUQaAegPuDHpJieMfi1PIe58hPEzGDUAO9RDikRi-5q0AmnUKS9lgc_DuoJK2NRpnum0BJijcTJ8EqA3M-_7ZFfhdI_CL5eP
+CNNInternational.mx,MX - CNN Internacional,https://iptv-epg.org/images/bqI0rn0nVeJR5Wp5k58J-oGZcnV4UVLvkqwcX738rMlC4PlEemO61Cp2S3khoFe7-1aPxLggPwkYXaVU-jwplNlrI4SfH-MhvCMJgrd7iARDz1oAKuY4_fg
+ComedyCentral.mx,MX - Comedy Central,https://iptv-epg.org/images/oKxa7QB5G7pSx5UI1_s1oV0fvF7Gk-N1x9l-acmfkoqMXPzlacnxzfHBs2asr3DE9BZjt3P-6SaGzm2JjFDG-q-sNPLtNW0UfEyKF_mEoielDbchmqA
+DePel&#xED;cula.mx,MX - De Película,https://iptv-epg.org/images/YJnfTen2uCNk-E93layHsGIm9idDg3yfWZMIK-1qY66mZNXsBm7gvacH4747daRnJ8c13BvdvaCB95NMAkT4MjqiQyV-e1gdo7dkS1N3154q3d8WOWilYQ
+Discovery.mx,MX - Discovery,https://iptv-epg.org/images/FtZwzGFpikksbcMZ-FFyIxxCikFhyU8JVowffkVz2qbRjO56R221hn-5zVKUWqnOLQVZQs9Bu86DXwmlBQgr11tELu6FYlsk862ED0sqDaqOWQ
+DiscoveryChannel.mx,MX - Discovery Channel,https://iptv-epg.org/images/LwP--1EpDu9vTSBCeZSgxVVGwXb_anKO2Wr5e5yT6GZ9Msaqm2n5rUEXm6N0ndQ8OXm0Ww5QM7s_JrrsxRAXHe61H2yKsmBhIRKLKmRCMguJ5W9DyY-6k4w
+DiscoveryHome&amp;Health.mx,MX - Discovery Home &amp; Health,https://iptv-epg.org/images/hieY1KCg890JIGzoxxE_lc9B5tmbGTAukbCJxsSX4aqvNNKtdLkttHv2VX4TnaLYniQXF30Rpbu_S8zKT71GNgMtLHoQP-QvV1ELi8-QFELr4TLkymv4PAfHHW7todA
+DiscoveryKids.mx,MX - Discovery Kids,https://iptv-epg.org/images/I6UVZC0Src1Og1Q2OsgD0mfCJIA7CZ7ugryFkw-Ci6D5_235YrP-k9bCwaChBRCOPVD5Jz_KcY69AlJcMgzhfpyTC4zZDV4UiZwt5AaQDll4uXLZJtE
+DiscoveryScience.mx,MX - Discovery Science,https://iptv-epg.org/images/JxMKNxBj5tErsCgy_Tuh752r0XNtqoRGxcS2SM37fwn97erITte4w_A4nwoTRS-L0RbAHqBxgMO2X7dimuDxZjDEAuLTR0hzKK7EOfMovBxNfg4EBf3O8uw
+DiscoveryTheater.mx,MX - Discovery Theater,https://iptv-epg.org/images/xmkFzJ8rqORLejGGnv6QwGIBMYin4c5o45Z3vmaNjqYsFRd1hYvmvAriPxi_qR3mHYjxifvPv8whRptGrlWXwGW9At0j9p86dxmVCPaktcGCp6sypLKiVXA
+DiscoveryTurbo.mx,MX - Discovery Turbo,https://iptv-epg.org/images/TiM86ytmLJnd3NoFgWBv9sOs34TUUl_phMvHH7AENt0H8l9kvwk8hQN4TBzDwI5WdK_QilNHJN7yCnqbeAmHwAPWL3G8V4WRtQLpcIwtBEG7yD18gIhw
+DiscoveryWorld.mx,MX - Discovery World,https://iptv-epg.org/images/_LxwwlQP8DcEE0DVoENho-jfjrmGuRAmIlbcUhX6oT2oQKK25ep6hfG7w1NdN5aXMvq3xkdHesNZVLmkL3EbAC1UXIkKJlQ3xZMD_DsnnxNUbQ1DLAAZ
+DisneyChannel.mx,MX - Disney Channel,https://iptv-epg.org/images/WCxmjQdSeKrkXt-Bq_uv1utKl1iVKF34x4PdarXOXG6J3_FZP6QObOHafGvJnibVHvXWWJiMIyDId9Q01j-c7bWUnPzCmJjs-mqTh7YH5qFg8ytvrRc
+DisneyJunior.mx,MX - Disney Junior,https://iptv-epg.org/images/t3keq0nuPwBeK-v2F92mj-6UI5IL9RgUCgjGf9ldKWJz2L6JLzeVkIGHUGgI-Jd7y7HHZInwLgtthGwyUSDZziqS1wt65aBi5HO_U-Sawe2EUDQrjQ
+DisneyXD.mx,MX - Disney XD,https://iptv-epg.org/images/ONgugc95Yfq5Ulsk-T7yKbwcJBkQkMQC95FTw2Y26qnkJ1wrci8RsygziqB0okhY5P9E_ZCQbjtcQtwgip3UtY0UOVnmsc2o0u87xMYDWF4V
+DistritoComedia.mx,MX - Distrito Comedia,https://iptv-epg.org/images/OOoNprU9OnMJc0bZQkGpcdkF9jryy0HGmtdKUN6luGHKvvikdVWis6O2D7E4Crw5qVZlZ_t8I32cR6lTQo0SSfMFrbp6tFpyS_t9p78XBpi84mwfRHWeiA
+E!.mx,MX - E!,https://iptv-epg.org/images/64HgzAYXbQiEJcoYeZj8JQ-G4MVxvNK9Mb-Ko71S-y6RiZ3gIX-aSWaOcXALAZ0zP8Vc2ns7Y7fa3QAtNyfEOrXJf9twNih6y9ww8o0
+ElFinancieroBloomberg.mx,MX - El Financiero Bloomberg,https://iptv-epg.org/images/GRxxFlsF2Bo59ZM626IuBw4RiuhEix3TTO-QL_g4V7DCZzQlblgLU2PY5lebkjsNIoOtXApg6k0LTeJxvEyzGaUIXFDl0ASXxtisbo99lAvQdkNOZgpqydMRAxSvPQ
+ElGourmet.mx,MX - El Gourmet,https://iptv-epg.org/images/NO4Yn-FxneuEdPG9WRej8ZKuHSWK9fEqlsNiTeNVK80xKYhfdR9Ir2Xj5wtsHFPFCCu3PpuzG1FD70Lsv8bJtdMSmaFXhPCaPSBax7O67Al2FA
+ElNu9ve.mx,MX - El Nu9ve,https://iptv-epg.org/images/CBA6nN16Eghr4p35eXfe-BlnbQCRNMB-eNy5fsuGmq_6UkaONoYtilIFuwOtjVGljY-poN5fnKRLO2P8v81MyRvtrCT5KaMIMSlbt5pKA7Q
+ESNE.mx,MX - ESNE,https://iptv-epg.org/images/1XysAUQIJimmRjmVL88CcW9zoFC8kALJP5s9XhuUriI3JO8WNY9Qeq_9izj32Tnc8aZAprEdRPKX-WW5zrlLRytuowngROc-frbkxlo
+ESPN.mx,MX - ESPN,https://iptv-epg.org/images/N6i4zoun5DbhXzcTF8fyejclQxlEvQz8ThiN0JtXODxneYmOtHTp7DXV5vcbac8XgjI5d3XIQSmDTWJFF9jjMW68oNbRb6onKDccwZw
+ESPN2.mx,MX - ESPN 2,https://iptv-epg.org/images/EXbqW6j41pTa06jd3Es9FOe_-AsvQzGAFOa3j-PkQHHArUw8qZ53c5NU1a2c6QaMW70djyZnAeSzgWo7BsgIt1rbbFHbcRtEMRJM2Dx3
+ESPN3.mx,MX - ESPN 3,https://iptv-epg.org/images/_w_uczkCqez-J8eaCJX_uZdaCjPTfh4rr1UYDttv--d2kSflYLzfB_MwVonOqhIRJMEDJuVoVu9VhgVEDE6kCIVV_CGEQR8mbVqirscm
+ESPNNorte.mx,MX - ESPN Norte,https://iptv-epg.org/images/PeHl7kJrAumRI3Dh3_uHzaQMH-rLU4ECnYqFbnuDcocbsMUxzbTqB0T5EJbUXJQodEkFkQA4akYFqzg-_Yi9MiU46F_EmW1ojsvhOLW9fMNJbw
+ESPNNorte2.mx,MX - ESPN Norte 2,https://iptv-epg.org/images/EQf2xvQJ69xt_frg3nTHGByIekrvmgLxfI0ViaiQo8mYOLTRgecx8GtTaFNd-PU_x3jkfGbaLTFpQcXU3y3d8tPOEjOUdVvuEVL4sg0yCYjH6Bw
+ESPNNorte3.mx,MX - ESPN Norte 3,https://iptv-epg.org/images/iWNA5xPl_Bp3PNUoYAOuLNqOYfJNNgXOO7QRT_8bDZb69cekrg7_rrgmUmEZKwwLYbcm9wrXlAdsV05ajO_3jsI9AbKHcUftY3z43nllfBnOGqk
+ESPN+.mx,MX - ESPN+,https://iptv-epg.org/images/Co3YlQKsKzrJZiM44FNFVTvtKRwKQrN1LGf5rfXwAdub--TV6TnALrw4BJkivQ2-4Dxq8L9-c8a9k-L_ovvZdCuFooRp32VQb6VqxeQRz5w
+Euronews.mx,MX - Euronews,https://iptv-epg.org/images/Rc1aOjizbfAXckV7iSDWyCxcd0uCv0HVdnLXIPAPJZu5GXzUPSKf-lWc0mN4eBaGJox26m-5Q_fkDSBwrABT9NB_4p17VNvuGIbzC9-_z4nd
+EuropaEuropa.mx,MX - Europa Europa,https://iptv-epg.org/images/RYHeiqz09cgq6EOtv8Lr529JwNNLQjb49l2_hFACn4NP-5ivIFkARnJJNluEk11_DWStLxTSqz7MkGgtRitKFSshthPhCL6xuXeG9Q6MVB8W7fsN5g
+EWTN.mx,MX - EWTN,https://iptv-epg.org/images/sv_SMSOE8NY9c5uJgimWezTnC2gTCSzOwuNb_GTlFrinWy-cx-CP9q9NP2B_J1_tefdd9hU19aohzmB7yjr-_nODnZMZgMZzEzsvARE
+ExcelsiorTV.mx,MX - Excelsior TV,https://iptv-epg.org/images/GbIMJ3_HtXPbYmJPCNyzesBkuOG62JGlKxcpjIkOPcurq0OVBOV4BtzuOEi3AIOyvaKghCzBu_mR1c1GIlCEve-Kx_yJzjAX_Szdog7ajAbupu0p
+film&amp;arts.mx,MX - film&amp;arts,https://iptv-epg.org/images/CXvSFISNRxeLEYFJgncvG_GSU1M3_xscUs_j3yRPW2xu0zadHjbdR3HzzSNUiXSBiBwqx_Nd3bR8E0FqqoaCGLeAIWqysPUNdHO6MwgSDEMHbgAF
+FOROtv.mx,MX - FOROtv,https://iptv-epg.org/images/a-T61I4z0FA38lzeLJeb4vcSV9nIK-_ah0gKqFVEMkKCg0qNBC94qqoTA-Wi2c3Ax4uxlG0g35T7yycsQJGkwjh2JinPyPvqYLw0UBT_ZA
+FOXSports.mx,MX - FOX Sports,https://iptv-epg.org/images/-dh3QhictAVQMf-JvfJHvYwGgKrEh1S5ykT_bPBPf9TbEzLB3LpPSQuwIGE2dpsyUJG05cexs91GFPgTVa2Y15uf8fNTBHT3B3gInsSJOMFvZQ
+FOXSports2.mx,MX - FOX Sports 2,https://iptv-epg.org/images/6My2flDNOL8dMZXMi0DWw2xCfYb9lrAjj0rEn5pL5swiY36mXPGMO_kkZIbaVZLn6BLgjc0nRcDFPqYk4y51lDgXbP_Y2yRpoism_r4s9o18SHo
+FOXSports3.mx,MX - FOX Sports 3,https://iptv-epg.org/images/6nFZw3d2dnKJ1Fp_K1wVtZLwU_Ol900ce25SHlyGYUlNI-IxdL4K0plTWygNM8NCveUC9wPYM_LtTyZ76KbBZl3PFpQ3W0RituCeKh90Quf6Cy4
+FOXSportsPremium.mx,MX - FOX Sports Premium,
+FX.mx,MX - FX,https://iptv-epg.org/images/5LYmx-AOCNU-grPfZtEs3GCVVDo8mjUevcFgpXtEMO5Cr8knCnq53dU4D_9ePhZRiQegV4Hde4AJk96JDktq--ftKqBIfI6RavMQ
+FXMovies.mx,MX - FX Movies,https://iptv-epg.org/images/bgKeYNRLStsn-HlDlo7zSlfPN88h2Bl-QDe5lsQM6gsEzS4FIgQ6BHShLtpHUZJdfcr_8hENHJGZrg8QKngJIQzpZjhSmKhBtJ5f7R2wOgMB
+Glitz.mx,MX - Glitz,https://iptv-epg.org/images/PEZ-QNBSr2jwwLUNkO3m4MKnAyzjMdxBUzK-xvG5yEOr9IJ24beRcJhVebEkTIjfOZsSN_ZNPXImaOo8BFYlv6EVn2MvYK279ovAiPA1
+Golden.mx,MX - Golden,https://iptv-epg.org/images/0uspBvMb_PtszIexu3L3rXXXpeWiiHABEYXSGf1cZDzMScCej_3gChC-9wLrklcB7JSgU_nfXt6YG9TbtTHAB1boaaG8afjDLZohk_z55A
+GoldenEdge.mx,MX - Golden Edge,https://iptv-epg.org/images/FclhhiNjAH2DmfZzxmTh9WwGpL-JSrerYQiOkFLy0v0zryHfZ3wLAvH0TdpoEcSLBaNkVqRUOyzfpDwJ77M7HfH70UUhrYgNXP7tRMBN1AhAIas
+GoldenPlus.mx,MX - Golden Plus,https://iptv-epg.org/images/5XxlUPSowrCaUf4aDRs1cxhBgWBZl_FA5-7_-Y2ceNCVjkXuHS3ezxrwxPW0JwmHJAZe_ZKSpkT7bCb1bahsY5pqigtILl8Kps159qZMAytYDyc
+GoldenPremier.mx,MX - Golden Premier,https://iptv-epg.org/images/SNFedttcUEABBaltwQqAdee1AZy4eD7V8hWeeBLGXzhpjs-DVRrx24y0x6neO_wMJRUUF7hUQ5bhhp_7zuUoA6pLdM0CDhfMEezaeIzwT7Su1krEuFk
+GoldenPremier2.mx,MX - Golden Premier 2,https://iptv-epg.org/images/xNfNRSN1nzkY2T073VbEyx4ZSSObx5Ekaz840xZa90pwnmaShVDmVsw23L2PAmWdkhg3PeS4tDsh9j2Gxl6rtszvW61K80MbyjvzWZf-0VbMMVVhvuPj
+HBO.mx,MX - HBO,https://iptv-epg.org/images/OpVbQCtFLJ_KiRA0BqybxIM2F-nTOzG4-98dx7j09m8sBiAO19Hhj-Y9RhYuNZhwAj40hf0ii85lqhfer8HqskcurLgAFVDnhoYzwg
+HBO2.mx,MX - HBO 2,https://iptv-epg.org/images/MzHFr-LNTJ6T7GddewiMD5Bzk7jlDarSAF3tFi_s7HizuGbmCVMKb8ei4cpnKd_EDngo76gc2RP8oX_ZUn5lSKltCbA42cDTyuvnmZg
+HBOFamily.mx,MX - HBO Family,https://iptv-epg.org/images/HtxclFNXIKojoPO6svFT7MRDx_7TQwIo20l3GRpTRypr69zfXll4Ai2CvoWbrm-UncgwZhVE0QcQVtyuIL9n5-EGYgpB0i3CCTX0cGliVViBsQ
+HBOMundi.mx,MX - HBO Mundi,https://iptv-epg.org/images/AfBsHufHdLD1W-B6tk-0Kkx_AxU-acOggaWX_kyZoLyMWQfiDkIQuJkBNAbSBZx7AmXdHS5bSCcbHI_dcC8_0e3S2_aT8m-AKmfHGq-IlPB1
+HBOMUNDI.mx,MX - HBO MUNDI,https://iptv-epg.org/images/O2mtDnVFMbHCWAl6AuuiInZ8gsruAsfPbQReKkGdjLHCVErOEbbZ8y6QYivtFvHC5PimJmWSxBFPms68sfnxFax5fG2KIfxfn30pWhtcquF1
+HBOPlusM&#xE9;xico.mx,MX - HBO Plus México,https://iptv-epg.org/images/UUWaDUlkqqrsN_JxGrDqGxDmzCHxMNMgztojchZe7wqi_poAsISYMXM8R6H3wmDRnZ_Giv3uUUGPdNdE3qne2scnAfo5TkbBnuIkDY50eeZYE8ECIZjbNNQQEw
+HBOPOP.mx,MX - HBO POP,https://iptv-epg.org/images/w1gZvD3stLDtnAAxvc3PHNsjrP7k28Q4JGvsLiiCzzcOzYOLO_m4gHqRbO5q4lf3AjubZ0ebjqNOjpMrOt12SIY-jjMLMmopVMwUIw0Hkw
+HBOSignature.mx,MX - HBO Signature,https://iptv-epg.org/images/cbqdA0KjRXSMWc2VhNAJq6Yf-ZH2otWdQzMwKVR7Asg9I4jHKg1F4dGc9hccJgzBbqDcvBtcVzDkaK1C-f4SYLCrQu1GHXFWX3M5gByd5U4rFiDyEw
+HBOXtreme.mx,MX - HBO Xtreme,https://iptv-epg.org/images/28H-CJ83blaJ9bgZij_aTvG0n6VsrjYdo7k3TViRWlsJUcUMc2Stes3QwYGKxrV0D_N8Fe4VPkz-9X5QIr1uNmlX70JzdyroNgB3jGDT6GCzmA
+History.mx,MX - History,https://iptv-epg.org/images/bx03Dke0O12dNPz5T1qtebZJnbuvxKV7OXtlNNjiQdUD8wrdZlJAkEQjbSsNd1Js9tA9aB2vYlE7WAR0FeNlQhk4oUBX3GhI-ctmJTXf46w
+History2.mx,MX - History 2,https://iptv-epg.org/images/diqDD85W8wYirr62eWRbU7KY2MYcKkNhhwwKnBRuo56tSN302SX2y1ZJ9pYeOujPRjqidsMot7W0ZbAcHyw3plMGJUPp_MGx8j028HD8aZ0x
+HolaTV.mx,MX - Hola TV,https://iptv-epg.org/images/IqeFDLEIrBAhwQ49cxdvFBETzgobmIiU5Cluhb7GlCe46KtK2tQg09dURXF6H-aVBiSxtqMGzLl_OpaQEFaw4bmyi1w0uqDwBt4h95pbIQ
+I-SAT.mx,MX - I-SAT,https://iptv-epg.org/images/LDJpC5mdH5UNsmoTlyaHCWm7g1A0zBjyxA0wFXBO6dgM97FLDUWSkspCKLl5SdHX-T1MJon4f_AuAIB0HaSDheAI2D0dTKtD0AaBrDXz
+ImagenTV.mx,MX - Imagen TV,https://iptv-epg.org/images/k_qE8E3YzXDXKm8ZH1W3-j8wccP95nzhrEZvPGa6tX5_FIorFOexUqaeEGY8DT_jD_mwbzzpixZne1-jE4OW4O7_h0LooeEXfN-mBDLgcoGx
+InvestigationDiscovery.mx,MX - Investigation Discovery,https://iptv-epg.org/images/T-xAjCgD6OoENFAqFcUJlYx19vhD2vEjysUrLJ9w8ExNffeLIAg4SOe-8qyDDZYFJed2Qj14U2wQOe1MLMvSI5ZOWH2ANSfzd0CNdxWILe9VEuAHvOuvq1afGZwAPB4
+JusticiaTV.mx,MX - Justicia TV,https://iptv-epg.org/images/pr7qhMKmdm81CfsvT8ZdhRcjg8BdQf7i9xWWGcf1Egq7yk52-YNYMrP5EK9ETAQoU9chHFvKcqi0Oa7RTgQ4HF4_vlP3YVgN7MkhM9gIe_2BVPc
+LasEstrellas.mx,MX - Las Estrellas,https://iptv-epg.org/images/BxFFtHBWA5cPPHWQuZPrlBlulefLsykX6i-cO6LZRAL0a3Me85HPgE0Vb-QSP_fJZRymINc9LEc7MmNldF-zAOpIuOz2MAwElK--yJJeepWRUBZzNQ
+LasEstrellas-1.mx,MX - Las Estrellas -1,https://iptv-epg.org/images/8Vcrku_V2hMpkA7mnGnrk_5XXWt9Xj-TQNKoIdqkv_6NuEoVVtJR-nzDavreusDmcgipNjgt_nNzvc8giyhv8FWfzInXesWE2Wx1jB2-cmc4YPSYCv2X
+LasEstrellas-2.mx,MX - Las Estrellas -2,https://iptv-epg.org/images/vKSrViuwlRl_Uk1VlL5d7s8XRo20AJPI20idGXOmpvoCC-Re_HUxPMuaRTmPEZ2TzJ-A6GEEHKEMXBWtVQuS4BAYI_afwEkhqA6BR2neydfZBI0gDsfa
+Lifetime.mx,MX - Lifetime,https://iptv-epg.org/images/wiYiaOJGlp4s8NklHB-3XuNCXmFf4M3Rp7Zgw7u7iFxaeoVC4m1fuTCY6_UY92zNCC6g3n8WzDMj0BW6GEhR4CPLpeJEJ_BTz74xsExY6d6C
+MaxPrimeM&#xE9;xico.mx,MX - Max Prime México,https://iptv-epg.org/images/WXCFD35Mdud_jystR7t1yHVxB7ghoiQ4PBeiA2aQtHLFUFGHCLYTak89dzzEP_za5tCfPVqSYcv6nFgw-695JzU9SsSBnQFy9YDLIfwJJlPHqufk-dRFv5HB7Ck
+MilenioTV.mx,MX - Milenio TV,https://iptv-epg.org/images/2eGmh8SKNh4f8rZnFsple8cQaAVwddRPA0AeJI25ocb4yFfrwTSqJG_nlpGVxt97qSgUl9NSpdVYUy9ep3cVQVTISbtkiQRed9AN1p9MxM73KA
+MTV.mx,MX - MTV,https://iptv-epg.org/images/41PoR-RCVsYjY7nzVipGHYjpYsi48jmyNrNleBXDJfmFiTfDlm67tTh_GozfNB3nkAW2zVBXfQgqY-_qZez-sue5XCmRRgEhwPT3Nw
+MTV80s.mx,MX - MTV 80s,https://iptv-epg.org/images/MKA_hJofYPJbFm9oMP_Kq0FOczVz87dZZ--4D3aiIuquz5bPQgGnKI9SrGPnYvn3IW9F2iVWogBX3sNH3oH3KDNL8fNoQoQAtC6MUazsAA
+MTVHits.mx,MX - MTV Hits,https://iptv-epg.org/images/hh09ooIxBqfD5p-zln61-R5JoGCvMCmmhReephK4OJOc5ojtYCWI7iInOpq8DcXXMFb0PzBAuwXEaLzk8gHhfbQy51qVR4VD8a26-yQtztY
+MTVLive.mx,MX - MTV Live,https://iptv-epg.org/images/DtDpwtI74xvPFPdfXkxkA29p27I9KuHgeC5IuIU86hoR_ycvrcW8IAz_D_NgXGUcpaK0Qrzt7lkY5YuSVW4NmZc5kyHEaycnzq1nrc4XmD8
+MuchMusic.mx,MX - MuchMusic,https://iptv-epg.org/images/y4FI1r90BD42oBjJZjtm0AEx4kOslHm3N_4YKUfmESsZDldMdAiZnUIc9sNlYneC1SlM964ztEv9EPuc6LtXlJUUTPIWJVNyFXx21dvnndvuCw
+MultimediosPlus.mx,MX - Multimedios Plus,https://iptv-epg.org/images/XQHe6ipCzaYDguaLpwd58iI0aHH8yVdb8mL6xe3Pgapn1V2tO122piGR7y30Lvw8Q3FdY8VG3vwPwKJNLH1zKFfh0B9kr3tLHmsVC9kfia7ceW-my2hKUA
+Multipremier.mx,MX - Multipremier,https://iptv-epg.org/images/JfO8RTGs6eLxDLBv_OuEoM2l56qNUXes_C1dtLk1MgF3eyFuhs0ojmC9JFSyd5CZscRzIO6DMGlq0NcHNeT5ZxAJSoXLrbTS-_qr9KJ2JknK42PCzg
+MVS.mx,MX - MVS,https://iptv-epg.org/images/CV0Ue3l-NOkLQC7fZdicP9rTM-AQg7kR_FPQTlBauzkIWG9-mdxJgIf5aAc_PlzmTPwtZqB0XufvEtnih9JDx107XsLU-uCeG3N02g
+M&#xE1;sChic.mx,MX - Más Chic,https://iptv-epg.org/images/WaTeFRkOpLr2THgubfilsYJ2sywzwkfFvk9BUhYWdL0Ro1Vvc7eS-YD1ccLs83kQbPCaJoMKPE0KmM0BUb6FoeLLJFr3Y6vFJaGJ2sfNWR-Jxx3jVA
+NationalGeographic.mx,MX - National Geographic,https://iptv-epg.org/images/tTeUomdsSY36WAoMcOxSDFGZkU43Z1lzJiVMaVe903tFO8lNFnJ8kRKC88-IiPoN4RtQx-iMXMPzGsFICcOnneKMDwWen9SpzEhbDU4obi7dBXk892AT0MqbpA
+Nick.mx,MX - Nick,https://iptv-epg.org/images/nadsrYUVn39wL8jZ0rIESHBIEiHC6ryuc-dXzG6-Fki7lGv4Yx5K3Cl5aY6nfMK9J8UTPqHnkpkxSfLH0GKrUnn2_CJ1z22MtIoC1-Q
+NickJr.mx,MX - Nick Jr.,https://iptv-epg.org/images/MkCVwgAdVGRf4DL40Ayz5oq21qM_Ir1ySQVjPjjlHZ7Ck_SHF0oHVSBGQPdpZyFqOCq1LsdIpDh17tMRjKaXrRxk7empksM8vnPB-weR9A
+ParamountNetwork.mx,MX - Paramount Network,https://iptv-epg.org/images/YoROOTn0QZwi86kmJ0Zz62l48iU83kdy2knieMcwjIjBoqLg74JADlbxpC4Xvmqc2sOm3CGuIShIs36lUXsMU58joLhkxxrjNNdTjemIA_Taz9IgghT3mq4
+Platino.mx,MX - Platino,https://iptv-epg.org/images/pxYm4E6hjgFDPYk3wySu6tgC211GTAx3q91Po5TavixRN2F-ifTk4EX59OZuS5R2AHKZJ_sRw547Refy1IK4tqv9zcSgE8ww7lBaTbxY9OQ
+RMS.mx,MX - RMS,https://iptv-epg.org/images/tK7PUtrvRqPytGrWvpHQvhclWvOYafMM4NHvu7YnYFtwdwHOHfsGEwbUuPVJpHHMC2ZjS9aDYpEZ6Xfirw_1000FfvbKFw2eKarZiQ
+RussiaToday.mx,MX - Russia Today,https://iptv-epg.org/images/zuvPQTsHPVWTnzz8SgZsLV50CWsACZtou3n5ZzFxzkPFeyqGzKsCeo1IIPSudXHihBi8GZ9mbDXj8BfiL1qLn5IsKU23DdC-7x7WuZtjqDff_tKL
+SkySports1.mx,MX - Sky Sports 1,https://iptv-epg.org/images/i__M6UumcLJgY6QqFCGsA2Idj4Qj2xxhFFQlZBjI1r5ibee3eseGnrn0z13MLrwgtmMIMvNvpXlxww0VbnLWFJiVUTUTxypK9hyVMLG_GLzOIVw
+SkySports16.mx,MX - Sky Sports 16,https://iptv-epg.org/images/x_s1qxicw_tuE5dr-EulcCn-RivbCq_UBa6daLWgBiMfvd2gm--J82j86jS68cc7ZNzr6gj4m5MbkvQOEj5MIUQ5L9h7JwKK6Q8BFeW4pXquJj1x
+SkySports21.mx,MX - Sky Sports 21,
+SkySports24.mx,MX - Sky Sports 24,https://iptv-epg.org/images/wAyadYeUA-lIf3Mti7DxpIxG_rZYKf0jW-3f9m6n4PrbavqpmQAhrGsJvZ01kim2LcwyvVvh4oBZF-48nhATtO7ZzC1MwqQxtZwdCgHl8u2BvmK7
+Sony.mx,MX - Sony,https://iptv-epg.org/images/WUFWtvOJlFBzBoyfUWYgK0T5i4GgMvCIGq3FqTDn0-sCb9U0d6PBUXAEJH9DOwqtfOFTS6UA6fzHebpE9iax2i_mvPVs4TLIXcDRnvY
+Space.mx,MX - Space,https://iptv-epg.org/images/-L48EZSmUoSOTklXC8Y1J8Jw2IWdBN0C1W7wMDYXyGickDyBZ5eCzhGFFMX9vsobm0-DdPiWdg9sLlv9TRK5U-pkYVPxbKLMDWeUhaVA
+StarAction.mx,MX - Star Action,https://iptv-epg.org/images/yeLqK2qA-1JpvaUSGkyFyRCu4HXGyhsJ34db9I7Vw-JjdRoDInz0BCvmpY4Q7_Ha8uEdPW0CslrayFE2LIKpm_XBGLZYQRoYOfm9YRNTZqe2r_k
+StarChannel.mx,MX - Star Channel,https://iptv-epg.org/images/m2cYK_pFrzY1rGVBad8sWqlbG7A083l-gBYYZLvwJASo4Zwq1UvyFaiMDFkuF0yMXj7Eo6m6rrQ9_uMb8Zvh5phyt8NWVh9mrebWOzBPyjtPpK7f
+StarComedy.mx,MX - Star Comedy,https://iptv-epg.org/images/EcT30AkRtOsh1N7bTYWmPcx6RCMD0QCGSPLApF3euCHuI2jHXCEp0PwCajvoycaRzDLLm58zVpTeel14xll10T3Vk4BmPXkc1pagCMaRkWzNgoI
+StarFun.mx,MX - Star Fun,https://iptv-epg.org/images/TbL5gL_K9GQFg2452ywiJxm7Ndsr0Lh-scYBXgHLBqnagciat7x-VtR6iJbKcZkKf_V7TW3CkUg1lHOki9hOSh9cflXHrwcaySYH-xXZVp4
+StarFunOeste.mx,MX - Star Fun (Oeste),https://iptv-epg.org/images/N5Z63iwMWTDepk_zbnqQQfUjdfhzjts53nABGFg8sNeFVxoT99cwuhnz8CJyx10BnlFLKA_Xu4P4C4_EujluyYzqMmOFI41MFn-Gt10No1MCi6GGHQ
+StarHits.mx,MX - Star Hits,https://iptv-epg.org/images/2-GrSDYWQVy4mharIKv9gDwg3ggZXGXHWqMxuqGTVN0kWVBdgrLMFkWDEUrihCqYylRQJJVFv1wOY70QNIY9LsEbplKyJ0d-QCrVZ5H0N24Z
+StarLife.mx,MX - Star Life,https://iptv-epg.org/images/3Vo7O9GRUjDP0rrKwRQpTgxNcEsHhoio5d7N92ElIH3j0rK20DlOHk4Ju6b92epStAa_3xtSlmxGi3N3SE6TAs8-n6GRXpLMGAQpNOTxnqKC
+StarSeries.mx,MX - Star Series,https://iptv-epg.org/images/9RQziEDcx362b16P9Zbnyiq9o_qa0T506ZqDc3jLDdmZVIk4QDCjpH3ZRbxnov15rOVjhDEWVTL2wt-LYQ1KIb3SSIk2nqgdqTHu1s-DTJLz-gw
+StarSeriesOeste.mx,MX - Star Series (Oeste),https://iptv-epg.org/images/7Jidp6YBy68vWxJPHlkzAHSlzstCycdC8c-we4rZ1DJspZb8EjhFpa8CPuySRia5CWt47RyxHNwxlXjjUeU1jrKFLti_UEek5rFArYhdcOoyEYyVTeiL4g
+StingrayClassica.mx,MX - Stingray Classica,
+StingrayiConcerts.mx,MX - Stingray iConcerts,
+StudioUniversal.mx,MX - Studio Universal,https://iptv-epg.org/images/czG-TMD9SjjUNSLoXtSJG3KTFnzKRzXzMMAeLwa-mLq-9FVZeWA8gnEHs930HAuFbwuwMoAqHKutxKPDk55AWsMMzI4fcAXIUFTfGAFdwaJ-6xwNqPCJvQ
+Syfy.mx,MX - Syfy,https://iptv-epg.org/images/K2tm3FuAxvYn0cUCGKmBsQRQXRCULjARn8LCx_oVaxCmHuXKW4_Yutts2bfXZljAQcyB0IY5cP7_MP2VKFLnTTruZ-5mAP-ECXYH2b4
+TBNEnlace.mx,MX - TBN Enlace,https://iptv-epg.org/images/deBlX_lrvoZ8IYdoFBd0TQ00E4unWY1sz_VdiI7M3IA4ghOU6le4hFVWosrePCLmoHHOSh-UKMQyNmV17p61PuEKoJODMi-ZUTCFPfYNpEvIwA
+TBS.mx,MX - TBS,https://iptv-epg.org/images/RsiRPz1zxcvvLEdIsUDlqCJNpOf9KfXNM7kGIM7c-X-T83TSwcQHtPSx0YDUxnXMksFoDy1lmhnTRrCYzLXafX6wBpbBhutghXlpCw
+TCM.mx,MX - TCM,https://iptv-epg.org/images/Upr2T0xIaKKppklbwNZ08BSZckEra1tKbkqR3ebMBQY8jSMF6QSAAquLG0tACE-QpZTnTy2AgwBOj4jRY-7slYoWE9dSSw7wj45LZQ
+TDN.mx,MX - TDN,https://iptv-epg.org/images/F8xQoBhlYuM5T2gXUs-42QE-xeUvPVZOKrZmgBUwdH-JhjVAYeEiP-lijDkMp4SuTSm8uRff5a6Y6RPHP8Rjj1RHPRyHhQWAgyRuZg
+TeleFormula.mx,MX - TeleFormula,https://iptv-epg.org/images/yzrqi1WEKmMCmjZLgXwA2qmrCH4IlSAbkfvuC3dwYIlMwGpQCAPDpfZBdrR6MUEwud-JfsSLr7arlUUI-r14sMDUkq-hlo2yEpM-gStV-Arey-9t
+Telehit.mx,MX - Telehit,https://iptv-epg.org/images/sWZAzMw6COq5aFjGY39s8LKmFiXFjXXDj-_smezuAx_IYzQ0iW87XDxEzLZoumJfQU14RUoic-jmmMjAA8XUQI7zmJxHpgZQdsAgqssP8zY
+Telemundo.mx,MX - Telemundo,https://iptv-epg.org/images/gBz71qdo9OkrhEuGSvkG_vN6kUQoZ6vivyKDbhogEc7gJH35A2UfFBa8M2ne-bYu5QY5oWmsf3WLM4KodtQnbROZOkLl7d6K-4Lm800YJHc6mQ
+TheNFLNetwork.mx,MX - The NFL Network,https://iptv-epg.org/images/BJyC6HXMK4AJEb8wHpTjRjJSDXPKqsMk5tzs6o3NMunc2hDcjpSjKn1gabouZ-F7pS3NrXbV3EFURYjoHRBwj9lBdpNgjt9JDBjBfbKJgEUEUifk4lw
+TIIN.mx,MX - TIIN,https://iptv-epg.org/images/fIMSZw62J_O2pC93aUoKN_z4o674P8Jclltgy8TqREo3nBAQI2fdX3UYe_eH_ao7kNWIW6wqGD-8OQB5mQ70MFQFjWMokePTfR4ha4c
+TLC.mx,MX - TLC,https://iptv-epg.org/images/5WHQOIPa085-BbH3kP-I8RFIaMTLFzz1hx9RtGkjo0PghQGHwiqAqPmbwixlKMNBNa8cZMrHoclA1yh_OAfWGQp1amkdGDK16VsODw
+TLNovelas.mx,MX - TLNovelas,https://iptv-epg.org/images/n3DSxQ_3BREDqYFzEynBnIAiA-55mJXf0uaDnApnZeHivhRNTvkl0XhsmvGSrGv2p_TSxEytHx62OLDOAFOCVLB80jelWLcteB43_tpIwpsTMA
+TNT.mx,MX - TNT,https://iptv-epg.org/images/f19WJNF3txRsauBbOkpQ0UsJ3DKYPJ1pBMDnsHfLkyN8IFWyKMPXDQtoWtnouzPaXi5Gzm3yQNqKkeDj2lGSRHzv_jeeLFDAmVfNHQ
+TNTNovelas.mx,MX - TNT Novelas,https://iptv-epg.org/images/UMTiAgTS70jPrtEQBXRd7CrsfmmCMaqa0PPnbgctvKZNYQVXUlmIFZHv_ETqJf30V-n38Y1i0hyCvJcjE9NN4TseiHElNFx8PHM1-1niO2PBS7A
+TNTSeries.mx,MX - TNT Series,https://iptv-epg.org/images/_2Uy3vlYKX4ItvcibYParEI8S0YhT7DTwORjkFghGzfuvauUow6YOX8cAAPML1_mQ3T9O2WKiTU5eziJk3q64C-fVi25BCL4DQ5-Jg0-B_4oTA
+Tooncast.mx,MX - Tooncast,https://iptv-epg.org/images/3nuQVlT8tVb81XFV6zyG8jMWeh44bZT3bmsZVVLpk6x8srvs1O7YyE7zmBLzxw907dXkoEmzAqol3eaYyTFj_z-SCOb7LL8ya3UekVN2QybB
+truTV.mx,MX - truTV,https://iptv-epg.org/images/pGlfqmBI2IT-m1JqQXKTizZC-MM1_goRCYeTW7Xu0GjmsmVJ50SLNyzBczudUQs06XPn4Vl_wpmKFYk7QVdDeluKZh95jRdFfvtzHbNg
+TUDNMexico.mx,MX - TUDN Mexico,https://iptv-epg.org/images/1rpExtt2TJem52VDhPngsJTJD0_9gcWvOGs9vBGylobrr6BekGDCadD17FZFS-m9jC_7BEX4EJ8DM38lMeif5IsbnHR9hmWZs9RvBXBYtFNPAPg
+TVCuatro.mx,MX - TV Cuatro,https://iptv-epg.org/images/FL5YjD7fNOgMDqrzqGsOk3cWdBXsX5QOVXymne_gvLwDbl9UZPExgh93x8FPjSrw1qP5NOLoiM1642gXaQHDQImFwbwJsnQ2qRTwcumFJ6g2
+TVUNAM.mx,MX - TV UNAM,https://iptv-epg.org/images/IHAVUMFN89vWiz1l-YAB3u7BGg8pAtaa29Mbvhvyc2YOym8j_WMkPBj8pHSetg7Yia7tfnItcOpTXT3jIcIS0C3gdYuKzYU6Jjrhlv1wXw
+TVCDeportes.mx,MX - TVC Deportes,https://iptv-epg.org/images/CVS42agJBAr4vrKC9a2skBAwFeRKXCTX760ibXxtWxVUDcd53nYuldsg0HG-bDQTv1wuI12aD8t_aKMzPwVWJcyON6SSptk-Yjm7PvmGYS3nXb0x
+TVE.mx,MX - TVE,https://iptv-epg.org/images/dBSu3-CzDI8Gd-VA-Vo7qGZXKp_BwjVpDkQTZazZ2cFHs_3dYG-_BoTl40NuIzv4L19f4ayBv44cPxrRxxm5NUIxjL0L0K8y-3Wz0w
+UniCable.mx,MX - UniCable,https://iptv-epg.org/images/mZhDMIgGBPBBphODFhOW2JZ1bc-wKsrCBadl3m7bFfxkVmS0lTrCEjPS483jUTQGUjcREEB61kdn3hfb97XaoQZRgr0_94xB5AMg2VLomTFc
+UniversalCinema.mx,MX - Universal Cinema,https://iptv-epg.org/images/D2sBZGdZlR51SkGlSQwKi2ZiS0R-URcpvFP0DBSwpEhK08BtgNd0OQohlTkEyxpA7zO2AgQuSU3zqkSexmlTTLM5DKCMWhcjz75o81bKYeEXEYDNTmGG4Q
+UniversalComedy.mx,MX - Universal Comedy,https://iptv-epg.org/images/bag-EM6n2upgt97YgEvyGgCUh8CKh98jhHxxnbBcYeLMlbp_KlziPBUX7R32DacApzWWT9wsGz7zlNwYF_8D-WRedCCtBBDDRM0m1-cidT-UyYiRmSeteQ
+UniversalCrime.mx,MX - Universal Crime,https://iptv-epg.org/images/9VY99PkIS9aL1Tr2Y6O1Lgn9Pdo8_cYvr5uemrwAxsrXI3i1xrf0KBsHhh_XTErS1bie2jbz9NFt_EzMifYY0stj2P-E0GUGDA6iDxurtOFTx7P99OrI
+UniversalPremiere.mx,MX - Universal Premiere,https://iptv-epg.org/images/1YW35bj3VzDpd0EDR_--hbKmuWGTUZk71LsHVHoXu7R4LYWfnL2DlxJhPH61zq7o4glBn6QMAYdbLKiw7VYEcEWKItKK46W-Wa2gvNgbQEeXsf7U_MCt1_uS
+UniversalReality.mx,MX - Universal Reality,https://iptv-epg.org/images/x-ddAB1TthvCFvpa44IFO0GIKbzyE5jcsGvpGsdAv9IBZKpTzpejFWAlBz-FO-peoqshSqnHUavlHKcFP9BXWGdFwIJ52gXH-ESMVXl0CZpeX5eULa3TKi8
+UniversalTV.mx,MX - Universal TV,https://iptv-epg.org/images/NrWGkSQkhDgUGV_Xhrg_i-BJX4KWGASDslWfAAJPwe59hcG17s5gZPhiMo0YcSRSdy8530iq8f77eAopMWKH5ZFxqiaUv2MxZofvIq7Els2uU7rZ
+Univision.mx,MX - Univision,https://iptv-epg.org/images/fvKmINMYNkVgrxSxY-TDJK8E1tgQQRJKW_OiBozHV3jVdOVPAQiPmcr6sQZ2fuYp25p2LE3tXm8YCzGph_kY5OZct1_IR7YHI43coF6BHoc6Bw
+VH1.mx,MX - VH1,https://iptv-epg.org/images/c57Jf3QSe--YFv4bTpOWNhuXluTwaH4sAzmJEssyoOAluaBIuIKUOSnLdBI-RwerrG_AfAZuwpAl6wsJE-GghKTaNBkpKHshbGhJWQ
+WarnerChannel.mx,MX - Warner Channel,https://iptv-epg.org/images/2UF-DH_mviRpA_npG-_sXOGtypKbrZBJajjN5IGxvWuKPM6kyiOL-iWPpy-OP9YuKS8dz8bPD6oUuqNWPo6G2Igg_k9LVMim-w3odtOaIWEfK5DBXMw
+WOBITV.mx,MX - WOBI TV,https://iptv-epg.org/images/3SSO-6sccdcyS7Zb_pX5HGh2ifFwYSrA8ibW__lYldZh7anXxVDyL_gBYim5IXRUgYglhkLvH3YxHfKtUgwS3Sxi10ka8csUxFg-i6NeoA
