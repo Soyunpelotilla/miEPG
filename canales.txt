@@ -189,13 +189,13 @@ Canal5(C5NET)(XHGC).mx,Canal 5 MX,https://ebyl.tmsimg.com/assets/s116152_ld_h15_
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
-0411,ESPN CL,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0411.jpg
-0412,ESPN 2 CL,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0412.jpg
-0413,ESPN 3 CL,https://i.ibb.co/7dFHm7cM/0413.jpg
-0414,ESPN 4 CL,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0414.jpg
-0415,ESPN 5 CL,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0415.jpg
-0416,ESPN 6 CL,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0416.jpg
-0417,ESPN 7 CL,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0417.jpg
+ESPN(ESPCHH).cl,ESPN CL,https://ebyl.tmsimg.com/assets/s17725_ld_h15_ac.png
+ESPN2(E2LSCH).cl,ESPN 2 CL,https://ebyl.tmsimg.com/assets/s88735_ld_h15_ac.png
+ESPN3(ESPN3HD).cl,ESPN 3 CL,https://ebyl.tmsimg.com/assets/s73834_ld_h15_ab.png
+ESPN4Sur(ESPN4SH).cl,ESPN 4 CL,https://ebyl.tmsimg.com/assets/s65930_ld_h15_ae.png
+ESPN5(ESPN5CHH).cl,ESPN 5 CL,https://ebyl.tmsimg.com/assets/s122027_ld_h15_ab.png
+ESPN6(ESPN6SH).cl,ESPN 6 CL,https://ebyl.tmsimg.com/assets/s79923_ld_h15_ad.png
+ESPN7(ESPN7SH).cl,ESPN 7 CL,https://ebyl.tmsimg.com/assets/s91513_ld_h15_aa.png
 Telemundo.Satellite.Feed.us2,Telemundo East,https://iptv-epg.org/logos/USA/Telemundo.us.png
 Telemundo.Satellite.Feed.Pacific.us2,Telemundo West,https://iptv-epg.org/logos/USA/TelemundoWest.us.png
 Fox.Deportes.HD.us2,FOX DEPORTES,https://iptv-epg.org/logos/USA/FoxDeportes.us.png
