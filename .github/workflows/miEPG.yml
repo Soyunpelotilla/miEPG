@@ -8,12 +8,16 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: miepg
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout del repositorio
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
 
     - name: Instalar dependencias
       run: |
@@ -43,6 +47,7 @@ jobs:
           git add epg_acumulado.xml -f
         fi
         git diff --cached --quiet || git commit -m "Nuevo miEPG.xml $(date '+%d/%m %H:%M')"
+        git pull --rebase origin main || true
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
