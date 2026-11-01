@@ -1167,28 +1167,28 @@
     <display-name>SKY SPORTS 1 MX HD</display-name>
     <display-name>SKY SPORTS 1 MX FHD</display-name>
     <display-name>SKY SPORTS 1 MX 4K</display-name>
-    <icon src="https:sources/generic/generic_sources_h5.png" />
+    <icon src="https://iptv-epg.org/images/i__M6UumcLJgY6QqFCGsA2Idj4Qj2xxhFFQlZBjI1r5ibee3eseGnrn0z13MLrwgtmMIMvNvpXlxww0VbnLWFJiVUTUTxypK9hyVMLG_GLzOIVw"/>
   </channel>
   <channel id="SKY SPORTS 16 MX">
     <display-name>SKY SPORTS 16 MX SD</display-name>
     <display-name>SKY SPORTS 16 MX HD</display-name>
     <display-name>SKY SPORTS 16 MX FHD</display-name>
     <display-name>SKY SPORTS 16 MX 4K</display-name>
-    <icon src="https://iptv-epg.org/images/x_s1qxicw_tuE5dr-EulcCn-RivbCq_UBa6daLWgBiMfvd2gm--J82j86jS68cc7ZNzr6gj4m5MbkvQOEj5MIUQ5L9h7JwKK6Q8BFeW4pXquJj1x" />
+    <icon src="https://iptv-epg.org/images/x_s1qxicw_tuE5dr-EulcCn-RivbCq_UBa6daLWgBiMfvd2gm--J82j86jS68cc7ZNzr6gj4m5MbkvQOEj5MIUQ5L9h7JwKK6Q8BFeW4pXquJj1x"/>
   </channel>
   <channel id="SKY SPORTS 21 MX">
     <display-name>SKY SPORTS 21 MX SD</display-name>
     <display-name>SKY SPORTS 21 MX HD</display-name>
     <display-name>SKY SPORTS 21 MX FHD</display-name>
     <display-name>SKY SPORTS 21 MX 4K</display-name>
-    <icon src="https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png" />
+    <icon src=""/>
   </channel>
   <channel id="SKY SPORTS 24 MX">
     <display-name>SKY SPORTS 24 MX SD</display-name>
     <display-name>SKY SPORTS 24 MX HD</display-name>
     <display-name>SKY SPORTS 24 MX FHD</display-name>
     <display-name>SKY SPORTS 24 MX 4K</display-name>
-    <icon src="https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png" />
+    <icon src="https://iptv-epg.org/images/wAyadYeUA-lIf3Mti7DxpIxG_rZYKf0jW-3f9m6n4PrbavqpmQAhrGsJvZ01kim2LcwyvVvh4oBZF-48nhATtO7ZzC1MwqQxtZwdCgHl8u2BvmK7"/>
   </channel>
   <channel id="ESPN">
     <display-name>ESPN SD</display-name>
@@ -60305,14 +60305,6 @@
 			<value>7.8/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261101134537 +0000" stop="20261101153059 +0000" channel="Sony One Hits Comedia">
-    <title>High School High</title>
-    <desc>Richard Clark es un profesor idealista que trabaja como maestro en una elitista escuela y decide trasladarse al instituto más conflictivo y rebelde de uno de los barrios marginales de la ciudad. Allí, su inocente personalidad y sus sorprendentes técnicas de enseñanza dejarán perplejos a todos los estudiantes y el profesorado. Clark lucha por ser comprendido y no pierde la esperanza de convertir a los alumnos gandules en genios.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_869292448_4_20250508T202419157Z_123_imageprocessorclient-tvplus-linear-6fb5b47f79-nj5gx.png"/>
-    <rating>
-      <value>7</value>
-    </rating>
-  </programme>
   <programme start="20261101153059 +0000" stop="20261101173715 +0000" channel="Sony One Hits Comedia">
     <title>Lilo, mi amigo el cocodrilo</title>
     <desc>Cuando la familia Primm se muda a la ciudad de Nueva York, su joven hijo Josh lucha por adaptarse a su nueva escuela y a sus nuevos amigos. Todo cambia cuando descubre a Lyle -un cocodrilo cantante al que le encantan los baños, el caviar y la buena música- viviendo en el ático de su nueva casa. Los dos se hacen amigos rápidamente, pero cuando la existencia de Lyle se ve amenazada por el malvado vecino Sr. Cascarrabias, los Primm deben unirse con el carismático dueño de Lyle, Héctor P. Valenti, para demostrar al mundo que la familia puede venir de los lugares más inesperados y que no hay nada malo en un gran cocodrilo cantante con una personalidad aún mayor.</desc>
@@ -60324,6 +60316,14 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1082171027_0_20250725T122738991Z_34_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.png"/>
   </programme>
   <programme start="20261101192910 +0000" stop="20261101213322 +0000" channel="Sony One Hits Comedia">
+    <title>Peso Pesado</title>
+    <desc>Scott Voss (Kevin James) que en su época en el instituto practicó la lucha libre, ahora es un profesor de biología de 42 años en un instituto en franca decadencia. Cuando los recortes amenazan con cancelar las clases de música y despedir al profesor a cargo de éstas (Henry Winkler), Scott comienza a recaudar dinero haciendo doblete y trabajando como luchador de artes marciales mixtas. Todos piensan que Scott está chalado, sobre todo la enfermera del instituto, Bella (Salma Hayek). Pero en su cruzada, a medida que se compromete más y más a luchar por los estudiantes, acaba convirtiéndose en un éxito de tal magnitud que logra unir a todo el instituto.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1293966776_7_20251031T214706034Z_62_imageprocessorclient-tvplus-linear-5db7c6bc99-p9nvg.jpeg"/>
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20261101213322 +0000" stop="20261101233734 +0000" channel="Sony One Hits Comedia">
     <title>Peso Pesado</title>
     <desc>Scott Voss (Kevin James) que en su época en el instituto practicó la lucha libre, ahora es un profesor de biología de 42 años en un instituto en franca decadencia. Cuando los recortes amenazan con cancelar las clases de música y despedir al profesor a cargo de éstas (Henry Winkler), Scott comienza a recaudar dinero haciendo doblete y trabajando como luchador de artes marciales mixtas. Todos piensan que Scott está chalado, sobre todo la enfermera del instituto, Bella (Salma Hayek). Pero en su cruzada, a medida que se compromete más y más a luchar por los estudiantes, acaba convirtiéndose en un éxito de tal magnitud que logra unir a todo el instituto.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1293966776_7_20251031T214706034Z_62_imageprocessorclient-tvplus-linear-5db7c6bc99-p9nvg.jpeg"/>
@@ -81570,6 +81570,142 @@
     <title>Leyma Coruña vs. La Laguna Tene</title>
     <desc>Sin detalles...</desc>
 	</programme>
+  <programme start="20261031171500 +0000" stop="20261031173000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">SKY Sports.</desc>
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20261031173000 +0000" stop="20261031193000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">RC Celta Fortuna vs. Córdoba.</desc>
+    <title lang="es">RC Celta Fortuna vs. Córdoba</title>
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031200000 +0000" channel="SKY SPORTS 1 MX">
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <desc lang="es">Desde el estadio San Mamés ubicado en la ciudad de Bilbao en el País Vasco en España, se enfrentan los equipos Athletic Club de Bilbao versus Real Madrid Club de Fútbol.</desc>
+    <icon src="https://iptv-epg.org/images/t2Ueu27N-aUQkJ5BBR7LWppnfTYbIEcHnDqaCfjxfQl91-3gxkrMnUi8CyTlMUzLvYaR_1t2PuEorCBYAy2stQ88ypzIYxVlPDrlZEp_2jgzvZiRgHIgRgosRrhTCKWMEaCQDupKcE0QJqMjBmfzFCaG87nq-g"/>
+    <title lang="es">Athletic Club Vs. Real Madrid</title>
+  </programme>
+  <programme start="20261031220000 +0000" stop="20261101000000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Real Sociedad b vs. Girona.</desc>
+    <title lang="es">Real Sociedad b vs. Girona</title>
+  </programme>
+  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Éibar vs. Almería.</desc>
+    <title lang="es">Éibar vs. Almería</title>
+  </programme>
+  <programme start="20261101020000 +0000" stop="20261101050000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Calgary Flames vs. Colorado Ava.</desc>
+    <title lang="es">Calgary Flames vs. Colorado Ava</title>
+  </programme>
+  <programme start="20261101050000 +0000" stop="20261101060000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">RC Celta Fortuna vs. Córdoba.</desc>
+    <title lang="es">RC Celta Fortuna vs. Córdoba</title>
+  </programme>
+  <programme start="20261101060000 +0000" stop="20261101070000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">RC Celta Fortuna vs. Córdoba.</desc>
+    <title lang="es">RC Celta Fortuna vs. Córdoba</title>
+  </programme>
+  <programme start="20261101070000 +0000" stop="20261101073000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Elche vs. Rayo Vallecano.</desc>
+    <title lang="es">Elche vs. Rayo Vallecano</title>
+  </programme>
+  <programme start="20261101073000 +0000" stop="20261101100000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Canadá vs. Francia.</desc>
+    <title lang="es">Canadá vs. Francia</title>
+  </programme>
+  <programme start="20261101100000 +0000" stop="20261101130000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Calgary Flames vs. Colorado Ava.</desc>
+    <title lang="es">Calgary Flames vs. Colorado Ava</title>
+  </programme>
+  <programme start="20261101150000 +0000" stop="20261101151500 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">SKY Sports.</desc>
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20261101151500 +0000" stop="20261101171500 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">AD Ceuta FC vs. Real Sporting d.</desc>
+    <title lang="es">AD Ceuta FC vs. Real Sporting d</title>
+  </programme>
+  <programme start="20261101171500 +0000" stop="20261101173000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">SKY Sports.</desc>
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20261101193000 +0000" stop="20261101200000 +0000" channel="SKY SPORTS 1 MX">
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">Fútbol Europeo</category>
+    <desc lang="es">Desde el estadio Vicente Calderón, ubicado en la ciudad de Madrid, España, se enfrentan los equipos Club Atlético de Madrid versus Villarreal Club de Fútbol.</desc>
+    <icon src="https://iptv-epg.org/images/DVza_hjk7J9mN5Vo_v2ZDcoagtYHLvyshwHfCIVFoJSGj0vUZOcVAWuzX5jysXUK8QxpGjtaAgH1BS5SAb401sCCZZmI3Ru_5fJH8op7m0-YVJz_Z5hvVKzYN0_8gATnle55pwRr38I-BGOeu2D4M0BrVFcN25mQxgE"/>
+    <title lang="es">Atlético de Madrid vs. Villarreal</title>
+  </programme>
+  <programme start="20261101220000 +0000" stop="20261101223000 +0000" channel="SKY SPORTS 1 MX">
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <desc lang="es">Desde el estadio San Mamés ubicado en la ciudad de Bilbao en el País Vasco en España, se enfrentan los equipos Athletic Club de Bilbao versus Real Madrid Club de Fútbol.</desc>
+    <icon src="https://iptv-epg.org/images/t2Ueu27N-aUQkJ5BBR7LWppnfTYbIEcHnDqaCfjxfQl91-3gxkrMnUi8CyTlMUzLvYaR_1t2PuEorCBYAy2stQ88ypzIYxVlPDrlZEp_2jgzvZiRgHIgRgosRrhTCKWMEaCQDupKcE0QJqMjBmfzFCaG87nq-g"/>
+    <title lang="es">Athletic Club Vs. Real Madrid</title>
+  </programme>
+  <programme start="20261101223000 +0000" stop="20261101230000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Elche vs. Rayo Vallecano.</desc>
+    <title lang="es">Elche vs. Rayo Vallecano</title>
+  </programme>
+  <programme start="20261101230000 +0000" stop="20261102020000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Edmonton Oilers vs. New York Ra.</desc>
+    <title lang="es">Edmonton Oilers vs. New York Ra</title>
+  </programme>
+  <programme start="20261102020000 +0000" stop="20261102040000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">CD Eldense vs. Granada.</desc>
+    <title lang="es">CD Eldense vs. Granada</title>
+  </programme>
+  <programme start="20261102040000 +0000" stop="20261102060000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">AD Ceuta FC vs. Real Sporting d.</desc>
+    <title lang="es">AD Ceuta FC vs. Real Sporting d</title>
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102080000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">World athletics continental to.</desc>
+    <title lang="es">World athletics continental to</title>
+  </programme>
+  <programme start="20261102080000 +0000" stop="20261102081500 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">SKY Sports.</desc>
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20261102081500 +0000" stop="20261102101500 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Éibar vs. Almería.</desc>
+    <title lang="es">Éibar vs. Almería</title>
+  </programme>
+  <programme start="20261102101500 +0000" stop="20261102121500 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Real Sociedad b vs. Girona.</desc>
+    <title lang="es">Real Sociedad b vs. Girona</title>
+  </programme>
+  <programme start="20261102121500 +0000" stop="20261102151500 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Edmonton Oilers vs. New York Ra.</desc>
+    <title lang="es">Edmonton Oilers vs. New York Ra</title>
+  </programme>
+  <programme start="20261102151500 +0000" stop="20261102171500 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Real Oviedo vs. UD las Palmas.</desc>
+    <title lang="es">Real Oviedo vs. UD las Palmas</title>
+  </programme>
+  <programme start="20261102171500 +0000" stop="20261102173000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">SKY Sports.</desc>
+    <title lang="es">SKY Sports</title>
+  </programme>
+  <programme start="20261102193000 +0000" stop="20261102200000 +0000" channel="SKY SPORTS 1 MX">
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">Fútbol Europeo</category>
+    <desc lang="es">Desde el estadio Vicente Calderón, ubicado en la ciudad de Madrid, España, se enfrentan los equipos Club Atlético de Madrid versus Villarreal Club de Fútbol.</desc>
+    <icon src="https://iptv-epg.org/images/DVza_hjk7J9mN5Vo_v2ZDcoagtYHLvyshwHfCIVFoJSGj0vUZOcVAWuzX5jysXUK8QxpGjtaAgH1BS5SAb401sCCZZmI3Ru_5fJH8op7m0-YVJz_Z5hvVKzYN0_8gATnle55pwRr38I-BGOeu2D4M0BrVFcN25mQxgE"/>
+    <title lang="es">Atlético de Madrid vs. Villarreal</title>
+  </programme>
+  <programme start="20261102220000 +0000" stop="20261103000000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Real Oviedo vs. UD las Palmas.</desc>
+    <title lang="es">Real Oviedo vs. UD las Palmas</title>
+  </programme>
+  <programme start="20261103000000 +0000" stop="20261103030000 +0000" channel="SKY SPORTS 1 MX">
+    <desc lang="es">Vegas Golden Knights vs. Boston.</desc>
+    <title lang="es">Vegas Golden Knights vs. Boston</title>
+  </programme>
   <programme start="20261031171500 +0000" stop="20261031173000 +0000" channel="SKY SPORTS 16 MX">
     <desc lang="es">Previo.</desc>
     <title lang="es">Previo</title>
@@ -81717,6 +81853,350 @@
   <programme start="20261103020000 +0000" stop="20261103040000 +0000" channel="SKY SPORTS 16 MX">
     <desc lang="es">R. Racing Club vs. Real Madrid.</desc>
     <title lang="es">R. Racing Club vs. Real Madrid</title>
+  </programme>
+  <programme start="20261101150000 +0000" stop="20261101160000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261101160000 +0000" stop="20261101170000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261101170000 +0000" stop="20261101180000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261101180000 +0000" stop="20261101190000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261101190000 +0000" stop="20261101200000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101210000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261101210000 +0000" stop="20261101220000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261101220000 +0000" stop="20261101230000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261101230000 +0000" stop="20261102000000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102000000 +0000" stop="20261102010000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102010000 +0000" stop="20261102020000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102020000 +0000" stop="20261102030000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102030000 +0000" stop="20261102040000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102040000 +0000" stop="20261102050000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102050000 +0000" stop="20261102060000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102070000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102070000 +0000" stop="20261102080000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102080000 +0000" stop="20261102090000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102090000 +0000" stop="20261102100000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102100000 +0000" stop="20261102110000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102110000 +0000" stop="20261102120000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102120000 +0000" stop="20261102130000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102130000 +0000" stop="20261102140000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102140000 +0000" stop="20261102150000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102150000 +0000" stop="20261102160000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102160000 +0000" stop="20261102170000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102180000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102180000 +0000" stop="20261102190000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102200000 +0000" stop="20261102210000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102210000 +0000" stop="20261102220000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102220000 +0000" stop="20261102230000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103000000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261103000000 +0000" stop="20261103010000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261103010000 +0000" stop="20261103020000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261103020000 +0000" stop="20261103030000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261031170000 +0000" stop="20261031171500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Previo.</desc>
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20261031171500 +0000" stop="20261031191500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Rayo Vallecano vs. Celta de Vig.</desc>
+    <title lang="es">Rayo Vallecano vs. Celta de Vig</title>
+  </programme>
+  <programme start="20261031191500 +0000" stop="20261031193000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Previo.</desc>
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031213000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Real Betis vs. Málaga.</desc>
+    <title lang="es">Real Betis vs. Málaga</title>
+  </programme>
+  <programme start="20261031213000 +0000" stop="20261031214500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Sky Sports 24.</desc>
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20261031214500 +0000" stop="20261031220000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Previo.</desc>
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20261031220000 +0000" stop="20261101000000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Barcelona vs. Deportivo Alav.</desc>
+    <title lang="es">Barcelona vs. Deportivo Alav</title>
+  </programme>
+  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Levante vs. Atlético de Madrid.</desc>
+    <title lang="es">Levante vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Villarreal vs. Espanyol.</desc>
+    <title lang="es">Villarreal vs. Espanyol</title>
+  </programme>
+  <programme start="20261101040000 +0000" stop="20261101060000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Barcelona vs. Deportivo Alav.</desc>
+    <title lang="es">Barcelona vs. Deportivo Alav</title>
+  </programme>
+  <programme start="20261101060000 +0000" stop="20261101080000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Real Betis vs. Málaga.</desc>
+    <title lang="es">Real Betis vs. Málaga</title>
+  </programme>
+  <programme start="20261101080000 +0000" stop="20261101100000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Rayo Vallecano vs. Celta de Vig.</desc>
+    <title lang="es">Rayo Vallecano vs. Celta de Vig</title>
+  </programme>
+  <programme start="20261101100000 +0000" stop="20261101120000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Villarreal vs. Espanyol.</desc>
+    <title lang="es">Villarreal vs. Espanyol</title>
+  </programme>
+  <programme start="20261101120000 +0000" stop="20261101121500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Sky Sports 24.</desc>
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20261101121500 +0000" stop="20261101124500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">LaLiga Show.</desc>
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20261101124500 +0000" stop="20261101144500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Real Betis vs. Málaga.</desc>
+    <title lang="es">Real Betis vs. Málaga</title>
+  </programme>
+  <programme start="20261101144500 +0000" stop="20261101150000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Previo.</desc>
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20261101150000 +0000" stop="20261101170000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Getafe vs. Sevilla.</desc>
+    <title lang="es">Getafe vs. Sevilla</title>
+  </programme>
+  <programme start="20261101170000 +0000" stop="20261101171500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Previo.</desc>
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20261101171500 +0000" stop="20261101191500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">R. Racing Club vs. Real Madrid.</desc>
+    <title lang="es">R. Racing Club vs. Real Madrid</title>
+  </programme>
+  <programme start="20261101191500 +0000" stop="20261101193000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Previo.</desc>
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20261101193000 +0000" stop="20261101213000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Elche vs. Valencia.</desc>
+    <title lang="es">Elche vs. Valencia</title>
+  </programme>
+  <programme start="20261101213000 +0000" stop="20261101214500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Sky Sports 24.</desc>
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20261101214500 +0000" stop="20261101220000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Previo.</desc>
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20261101220000 +0000" stop="20261102000000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Athletic Club vs. Real Sociedad.</desc>
+    <title lang="es">Athletic Club vs. Real Sociedad</title>
+  </programme>
+  <programme start="20261102000000 +0000" stop="20261102020000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">R. Racing Club vs. Real Madrid.</desc>
+    <title lang="es">R. Racing Club vs. Real Madrid</title>
+  </programme>
+  <programme start="20261102020000 +0000" stop="20261102040000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Barcelona vs. Deportivo Alav.</desc>
+    <title lang="es">Barcelona vs. Deportivo Alav</title>
+  </programme>
+  <programme start="20261102040000 +0000" stop="20261102060000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Elche vs. Valencia.</desc>
+    <title lang="es">Elche vs. Valencia</title>
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102080000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Levante vs. Atlético de Madrid.</desc>
+    <title lang="es">Levante vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20261102080000 +0000" stop="20261102100000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Getafe vs. Sevilla.</desc>
+    <title lang="es">Getafe vs. Sevilla</title>
+  </programme>
+  <programme start="20261102100000 +0000" stop="20261102110000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Sky Sports 24.</desc>
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20261102110000 +0000" stop="20261102130000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Rayo Vallecano vs. Celta de Vig.</desc>
+    <title lang="es">Rayo Vallecano vs. Celta de Vig</title>
+  </programme>
+  <programme start="20261102130000 +0000" stop="20261102134500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Sky Sports 24.</desc>
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20261102134500 +0000" stop="20261102154500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Elche vs. Valencia.</desc>
+    <title lang="es">Elche vs. Valencia</title>
+  </programme>
+  <programme start="20261102154500 +0000" stop="20261102174500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Villarreal vs. Espanyol.</desc>
+    <title lang="es">Villarreal vs. Espanyol</title>
+  </programme>
+  <programme start="20261102174500 +0000" stop="20261102194500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Real Betis vs. Málaga.</desc>
+    <title lang="es">Real Betis vs. Málaga</title>
+  </programme>
+  <programme start="20261102194500 +0000" stop="20261102214500 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Athletic Club vs. Real Sociedad.</desc>
+    <title lang="es">Athletic Club vs. Real Sociedad</title>
+  </programme>
+  <programme start="20261102214500 +0000" stop="20261102220000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Previo.</desc>
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20261102220000 +0000" stop="20261103000000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Deportivo la Coruña vs. CA Osas.</desc>
+    <title lang="es">Deportivo la Coruña vs. CA Osas</title>
+  </programme>
+  <programme start="20261103000000 +0000" stop="20261103020000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Elche vs. Valencia.</desc>
+    <title lang="es">Elche vs. Valencia</title>
+  </programme>
+  <programme start="20261103020000 +0000" stop="20261103040000 +0000" channel="SKY SPORTS 24 MX">
+    <desc lang="es">Levante vs. Atlético de Madrid.</desc>
+    <title lang="es">Levante vs. Atlético de Madrid</title>
   </programme>
 	<programme start="20261101000000 +0100" stop="20261101010000 +0100" channel="ESPN">
     <title>SportsCenter</title>
@@ -98378,6 +98858,14 @@
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FO5GCIC07A9ZKRJY112B.jpg/a:h/im/wrc_sau_25_s_ogier_1612.jpg?ht=exp=1787214491+hmac=ce31f88ac8f5d380ba9d6e36481befb2" />
 	</programme>
+  <programme start="20261101134537 +0000" stop="20261101153059 +0000" channel="Sony One Hits Comedia">
+    <title>High School High</title>
+    <desc>Richard Clark es un profesor idealista que trabaja como maestro en una elitista escuela y decide trasladarse al instituto más conflictivo y rebelde de uno de los barrios marginales de la ciudad. Allí, su inocente personalidad y sus sorprendentes técnicas de enseñanza dejarán perplejos a todos los estudiantes y el profesorado. Clark lucha por ser comprendido y no pierde la esperanza de convertir a los alumnos gandules en genios.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_869292448_4_20250508T202419157Z_123_imageprocessorclient-tvplus-linear-6fb5b47f79-nj5gx.png"/>
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
 	<programme start="20261101172200 +0100" stop="20261101193000 +0100" channel="Movistar Plus">
     <title>Jornada 9: Liverpool - Arsenal T26/27 · Premier League</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
