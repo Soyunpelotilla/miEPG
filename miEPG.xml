@@ -2000,7 +2000,7 @@
 	</programme>
 	<programme start="20261101130000 +0100" stop="20261101131500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 11: Levante - Atlético de Madrid</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Resumen con lo más destacado de cada uno de los partidos de Primera División.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -2008,9 +2008,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101131500 +0100" stop="20261101133000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 11: Barcelona - Alavés</title>
@@ -2052,7 +2049,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101151500 +0100" stop="20261101161500 +0100" channel="DAZN LaLiga">
-    <title>DIRECTO Racing - Real Madrid T26/27 · DAZN Previa</title>
+    <title>DAZN Previa T26/27 · Racing - Real Madrid</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Disfruta de la previa del partido y conoce quiénes serán los protagonistas del encuentro.
 · País: España</desc>
@@ -2066,8 +2063,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101161500 +0100" stop="20261101181500 +0100" channel="DAZN LaLiga">
-    <title>DIRECTO Jornada 11: Racing - Real Madrid T26/27 · LALIGA EA SPORTS</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <title>LALIGA EA SPORTS T26/27 · Jornada 11: Racing - Real Madrid</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -2075,12 +2072,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101181500 +0100" stop="20261101184500 +0100" channel="DAZN LaLiga">
-    <title>Racing - Real Madrid T26/27 · DAZN Post</title>
+    <title>DIRECTO Racing - Real Madrid T26/27 · DAZN Post</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Analiza los mejores momentos del partido y escucha a los protagonistas.
 · País: España</desc>
@@ -2232,7 +2226,7 @@
 	</programme>
 	<programme start="20261102141500 +0100" stop="20261102143000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 11: Levante - Atlético de Madrid</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Resumen con lo más destacado de cada uno de los partidos de Primera División.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -2240,9 +2234,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261102143000 +0100" stop="20261102144500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 11: Barcelona - Alavés</title>
@@ -2354,8 +2345,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102183000 +0100" stop="20261102203000 +0100" channel="DAZN LaLiga">
-    <title>Jornada 11: Getafe - Sevilla T26/27 · LALIGA EA SPORTS</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <title>LALIGA EA SPORTS T26/27 · Jornada 11: Getafe - Sevilla</title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -2364,7 +2355,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261102203000 +0100" stop="20261102204500 +0100" channel="DAZN LaLiga">
@@ -2492,7 +2483,7 @@
 	</programme>
 	<programme start="20261103004500 +0100" stop="20261103010000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 11: Levante - Atlético de Madrid</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Resumen con lo más destacado de cada uno de los partidos de Primera División.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -2500,9 +2491,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261103010000 +0100" stop="20261103050000 +0100" channel="DAZN LaLiga">
     <title>DAZN LaLiga</title>
@@ -2518,7 +2506,7 @@
 	</programme>
 	<programme start="20261101133000 +0100" stop="20261101134500 +0100" channel="DAZN LaLiga 2">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 11: Levante - Atlético de Madrid</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Resumen con lo más destacado de cada uno de los partidos de Primera División.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -2526,12 +2514,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101134500 +0100" stop="20261101140000 +0100" channel="DAZN LaLiga 2">
-    <title>DIRECTO Getafe - Sevilla T26/27 · DAZN Previa</title>
+    <title>DAZN Previa T26/27 · Getafe - Sevilla</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Disfruta de la previa del partido y conoce quiénes serán los protagonistas del encuentro.
 · País: España</desc>
@@ -2545,8 +2530,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101140000 +0100" stop="20261101160000 +0100" channel="DAZN LaLiga 2">
-    <title>DIRECTO Jornada 11: Getafe - Sevilla T26/27 · LALIGA EA SPORTS</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <title>LALIGA EA SPORTS T26/27 · Jornada 11: Getafe - Sevilla</title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -2555,11 +2540,11 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101160000 +0100" stop="20261101163000 +0100" channel="DAZN LaLiga 2">
-    <title>Getafe - Sevilla T26/27 · DAZN Post</title>
+    <title>DIRECTO Getafe - Sevilla T26/27 · DAZN Post</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Analiza los mejores momentos del partido y escucha a los protagonistas.
 · País: España</desc>
@@ -2738,9 +2723,9 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101140500 +0100" stop="20261101155900 +0100" channel="Movistar Plus">
-    <title>DIRECTO Final: De Miñaur - Alcaraz T2026 · Torneo de Viena</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+	<programme start="20261101140500 +0100" stop="20261101160600 +0100" channel="Movistar Plus">
+    <title>Torneo de Viena T2026 · Final: De Miñaur - Alcaraz</title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/ficha/F4515468" />
@@ -2748,26 +2733,38 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261101160600 +0100" stop="20261101170200 +0100" channel="Movistar Plus">
+    <title>Informe Plus. Ba-lon-ces-to. 2006. Más allá del oro</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Programa deportes) Los doce campeones del mundo de Japón 2006, con Pau Gasol, Juan Carlos Navarro y Jorge Garbajosa a la cabeza, se reúnen en esta nueva entrega de Informe Plus para recordar el campeonato que cambió el deporte español.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4500713" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101155900 +0100" stop="20261101172200 +0100" channel="Movistar Plus">
-    <title>Vecinos de hormigón</title>
-    <sub-title>2026 | ⑦ | ★6.8/10</sub-title>
-    <desc>(Documentales,Sociedad) Badia del Vallès pasó de proyecto improvisado del franquismo a símbolo de lucha vecinal. Durante 50 años, sus habitantes conquistaron derechos y servicios mediante la movilización. Este documental recupera su memoria.
-· País: España
-· Dirección: Fèlix Colomer Vallès.</desc>
-    <category>Documentales, Sociedad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4508394" />
+	<programme start="20261101170200 +0100" stop="20261101172000 +0100" channel="Movistar Plus">
+    <title>Ganador Balón de Oro</title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <desc>(Deportes,Programa deportes) Harry Kane conquista el Balón de Oro de 2026. El delantero inglés del Bayern de Múnich se impuso ante Kylian Mbappé y Lamine Yamal en una de las ediciones más reñidas de sus 70 años de historia. Kane consigue por primera vez en su carrera este galardón.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4512912" />
 		<rating system="ES">
-			<value>7</value>
+			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101172200 +0100" stop="20261101193000 +0100" channel="Movistar Plus">
-    <title>Jornada 9: Liverpool - Arsenal T26/27 · Premier League</title>
+	<programme start="20261101172000 +0100" stop="20261101193000 +0100" channel="Movistar Plus">
+    <title>DIRECTO Jornada 9: Liverpool - Arsenal T26/27 · Premier League</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) Segundo contra cuarto de la Premier League. El Liverpool en progresión con Iraola y el Arsenal lanzado a por el liderato con Arteta. Duelo de técnicos vascos en Anfield tras competir ante Chelsea y Fleetwood respetivamente entre semana en Copa Liga.
 · País: Reino Unido</desc>
@@ -3233,8 +3230,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101163000 +0100" stop="20261101184500 +0100" channel="Primera Federación">
-    <title>DIRECTO Jornada 10: Ourense - Cultural T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Primera Federación T26/27 · Jornada 10: Ourense - Cultural</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -3242,9 +3239,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101184500 +0100" stop="20261101210000 +0100" channel="Primera Federación">
     <title>DIRECTO Jornada 10: Lugo - Mérida T26/27 · Primera Federación</title>
@@ -3286,8 +3280,8 @@
 		</rating>
 	</programme>
 	<programme start="20261102011500 +0100" stop="20261102033500 +0100" channel="Primera Federación">
-    <title>Jornada 10: Ourense - Cultural T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Primera Federación T26/27 · Jornada 10: Ourense - Cultural</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -3295,9 +3289,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261102033500 +0100" stop="20261102060000 +0100" channel="Primera Federación">
     <title>Primera Federación</title>
@@ -3473,7 +3464,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101115500 +0100" stop="20261101140000 +0100" channel="M+ Vamos">
+	<programme start="20261101115500 +0100" stop="20261101140800 +0100" channel="M+ Vamos">
     <title>División de Honor de rugby T26/27 · Jornada 5: VRAC Quesos Entrepinares - Vulcanizados Álvarez El Salvador</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Rugby) VRAC Quesos Entrepinares y Vulcanizados Álvarez El Salvador chocan en el apasionante derbi vallisoletano, un clásico del rugby español, por la 5ª jornada de la División de Honor.</desc>
@@ -3483,7 +3474,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261101140000 +0100" stop="20261101151500 +0100" channel="M+ Vamos">
+	<programme start="20261101140800 +0100" stop="20261101153500 +0100" channel="M+ Vamos">
     <title>DeportePlus T26/27 · 31/10/2026</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
@@ -3497,23 +3488,8 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101151500 +0100" stop="20261101153000 +0100" channel="M+ Vamos">
-    <title>Lo mejor de Bakalá T26/27 E8</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
-· País: España
-· Presenta: Raúl Pérez.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4414959" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261101153000 +0100" stop="20261101180600 +0100" channel="M+ Vamos">
-    <title>DIRECTO Final: Lehecka - Vacherot T2026 · Torneo de Basilea</title>
+	<programme start="20261101153500 +0100" stop="20261101180600 +0100" channel="M+ Vamos">
+    <title>Torneo de Basilea T2026 · Final: Lehecka - Vacherot</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
     <category>Deportes, Tenis</category>
@@ -3542,7 +3518,7 @@
 	</programme>
 	<programme start="20261101185000 +0100" stop="20261101210000 +0100" channel="M+ Vamos">
     <title>DIRECTO Jornada 15: Boca Juniors - River Plate T2026 · Liga Argentina. Torneo Clausura</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.2/10</sub-title>
     <desc>(Deportes,Fútbol) El Torneo Clausura cierra la Primera División argentina. Se trata de una competición independiente del Apertura, con su propia clasificación, playoffs y campeón, aunque los puntos de ambas.
 · País: Argentina</desc>
     <category>Deportes, Fútbol</category>
@@ -3551,12 +3527,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>7.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101210000 +0100" stop="20261101230500 +0100" channel="M+ Vamos">
-    <title>Final: De Miñaur - Alcaraz T2026 · Torneo de Viena</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+	<programme start="20261101210000 +0100" stop="20261101230600 +0100" channel="M+ Vamos">
+    <title>Torneo de Viena T2026 · Final: De Miñaur - Alcaraz</title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/ficha/F4515468" />
@@ -3564,10 +3540,10 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101230500 +0100" stop="20261102000000 +0100" channel="M+ Vamos">
+	<programme start="20261101230600 +0100" stop="20261102000100 +0100" channel="M+ Vamos">
     <title>Informe Plus+. Andrea Fuentes, locura artística</title>
     <sub-title>2025 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Andrea Fuentes ha sido uno de los nombres del deporte español en 2025. Pero su historia va mucho más allá, desde sus años de nadadora a las órdenes de Anna Tarrés a su medalla de plata con Estados Unidos, digna de un guion de Hollywood.
@@ -3581,7 +3557,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261102000000 +0100" stop="20261102010000 +0100" channel="M+ Vamos">
+	<programme start="20261102000100 +0100" stop="20261102010100 +0100" channel="M+ Vamos">
     <title>Beckhamanía</title>
     <sub-title>2021 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Programa deportes) A finales de los años 90, Beckham transformó la tradicional imagen del futbolista con su estilo único y atrevido y su matrimonio con la Spice Girl Victoria Adams. Una unión que terminó de catapultarle como una marca global cuyo legado continúa hoy.
@@ -3595,7 +3571,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261102010000 +0100" stop="20261102021500 +0100" channel="M+ Vamos">
+	<programme start="20261102010100 +0100" stop="20261102021600 +0100" channel="M+ Vamos">
     <title>01/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
@@ -3610,7 +3586,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261102021500 +0100" stop="20261102040500 +0100" channel="M+ Vamos">
+	<programme start="20261102021600 +0100" stop="20261102040600 +0100" channel="M+ Vamos">
     <title>Jornada 9: Liverpool - Arsenal T26/27 · Premier League</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) Segundo contra cuarto de la Premier League. El Liverpool en progresión con Iraola y el Arsenal lanzado a por el liderato con Arteta. Duelo de técnicos vascos en Anfield tras competir ante Chelsea y Fleetwood respetivamente entre semana en Copa Liga.
@@ -3624,8 +3600,8 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261102040500 +0100" stop="20261102055500 +0100" channel="M+ Vamos">
-    <title>Final: Lehecka - Vacherot T2026 · Torneo de Basilea</title>
+	<programme start="20261102040600 +0100" stop="20261102055000 +0100" channel="M+ Vamos">
+    <title>Torneo de Basilea T2026 · Final: Lehecka - Vacherot</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
     <category>Deportes, Tenis</category>
@@ -3637,9 +3613,9 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261102055500 +0100" stop="20261102074500 +0100" channel="M+ Vamos">
-    <title>Final: De Miñaur - Alcaraz T2026 · Torneo de Viena</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+	<programme start="20261102055000 +0100" stop="20261102074500 +0100" channel="M+ Vamos">
+    <title>Torneo de Viena T2026 · Final: De Miñaur - Alcaraz</title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/ficha/F4515468" />
@@ -3647,7 +3623,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261102074500 +0100" stop="20261102093000 +0100" channel="M+ Vamos">
@@ -3707,7 +3683,7 @@
 	</programme>
 	<programme start="20261102133500 +0100" stop="20261102152500 +0100" channel="M+ Vamos">
     <title>Jornada 15: Boca Juniors - River Plate T2026 · Liga Argentina. Torneo Clausura</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.2/10</sub-title>
     <desc>(Deportes,Fútbol) El Torneo Clausura cierra la Primera División argentina. Se trata de una competición independiente del Apertura, con su propia clasificación, playoffs y campeón, aunque los puntos de ambas.
 · País: Argentina</desc>
     <category>Deportes, Fútbol</category>
@@ -3716,7 +3692,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>7.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261102152500 +0100" stop="20261102164500 +0100" channel="M+ Vamos">
@@ -3765,7 +3741,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102183000 +0100" stop="20261102200000 +0100" channel="M+ Vamos">
-    <title>T26/27 E9 · El tercer tiempo</title>
+    <title>DIRECTO T26/27 E9 · El tercer tiempo</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
@@ -3891,7 +3867,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101115000 +0100" stop="20261101135500 +0100" channel="M+ Vamos 2">
+	<programme start="20261101115000 +0100" stop="20261101140300 +0100" channel="M+ Vamos 2">
     <title>Liga F T26/27 · Jornada 9: Deportivo Alavés - Real Sociedad</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
@@ -3902,7 +3878,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261101135500 +0100" stop="20261101160200 +0100" channel="M+ Vamos 2">
+	<programme start="20261101140300 +0100" stop="20261101161200 +0100" channel="M+ Vamos 2">
     <title>Diego Maradona</title>
     <sub-title>2019 | ⑫ | ★7.0/10</sub-title>
     <desc>(Documentales,Deportes) En el verano de 1984, Diego Maradona ficha por el Nápoles. Para el Maradona futbolista, supuso el primer Scudetto para el equipo, su primera Liga. Pero para Diego, Nápoles significó el inicio de una espiral de autodestrucción.
@@ -3919,23 +3895,24 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101160200 +0100" stop="20261101165100 +0100" channel="M+ Vamos 2">
-    <title>Informe Plus+. Canito. El ídolo rebelde</title>
-    <sub-title>2023 | TP | ★6.4/10</sub-title>
-    <desc>(Deportes,Programa deportes) José Cano "Canito" fue un jugador singular con una biografía tormentosa. Enorme jugador, destinado a convertirse en uno de los grandes futbolistas de su época por su talento y su físico. Pero su carácter rebelde e indomable le impidió alcanzar la gloria.
-· País: España</desc>
+	<programme start="20261101161200 +0100" stop="20261101165100 +0100" channel="M+ Vamos 2">
+    <title>El Espíritu de La Real</title>
+    <sub-title>2024 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) La Real Sociedad se ha convertido en un modelo de club admirado en toda Europa. 'El espíritu de la Real' muestra la evolución del club txuri-urdin a través de los principales hitos de su historia en un viaje continuo entre el pasado y el presente.
+· País: España
+· Productora: Movistar+.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4332410" />
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4338396" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101165100 +0100" stop="20261101190000 +0100" channel="M+ Vamos 2">
     <title>DIRECTO Jornada 6: Baskonia - Manresa T26/27 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa apuesta por el espectáculo. La máxima competición española de clubes cuenta, como es habitual, con una liga regular de 34 jornadas.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -3944,11 +3921,11 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101190000 +0100" stop="20261101210000 +0100" channel="M+ Vamos 2">
-    <title>Final: Lehecka - Vacherot T2026 · Torneo de Basilea</title>
+    <title>Torneo de Basilea T2026 · Final: Lehecka - Vacherot</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
     <category>Deportes, Tenis</category>
@@ -4059,7 +4036,7 @@
 		</rating>
 	</programme>
 	<programme start="20261101130000 +0100" stop="20261101140300 +0100" channel="M+ Vamos 3">
-    <title>DIRECTO 01/11/2026 Hipódromo de la Zarzuela T2026 · Carreras de Caballos- Turf</title>
+    <title>Carreras de Caballos- Turf T2026 · 01/11/2026 Hipódromo de la Zarzuela</title>
     <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Las carreras de caballos son un espectáculo extendido por todo el mundo y generan multitud de apuestas. Monturas y jinetes se exprimen al máximo para llegar a la meta en el menor tiempo posible.</desc>
     <category>Deportes, Programa deportes</category>
@@ -4130,11 +4107,11 @@
     <icon src="https://www.movistarplus.es/recorte/n/ficha/F4467408" />
 	</programme>
 	<programme start="20261101220000 +0100" stop="20261101230000 +0100" channel="M+ Vamos 3">
-    <title>Cto. del Mundo de Motociclismo Femenino T2026 · Jeréz (Circuito Ángel Nieto). Carrera 1</title>
+    <title>Cto. del Mundo de Motociclismo Femenino T2026 · Jeréz (Circuito Ángel Nieto). Carrera 2</title>
     <sub-title>2026</sub-title>
-    <desc>(Deportes,Motor) Primera carrera de la cita española del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de los 6 circuitos.</desc>
+    <desc>(Deportes,Motor) Segunda carrera de la cita española del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de 6 circuitos.</desc>
     <category>Deportes, Motor</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4467408" />
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4467410" />
 	</programme>
 	<programme start="20261101230000 +0100" stop="20261102000000 +0100" channel="M+ Vamos 3">
     <title>Rexach. Correr es de cobardes</title>
@@ -4221,8 +4198,8 @@
 		</rating>
 	</programme>
 	<programme start="20261101140000 +0100" stop="20261101161500 +0100" channel="LaLiga TV Hypermotion">
-    <title>DIRECTO Jornada 12: CD Eldense - Granada CF T26/27 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>LALIGA HYPERMOTION T26/27 · Jornada 12: CD Eldense - Granada CF</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Eldense recibe al Granada después de caer 2-0 en Albacete. El Granada llega quinto, con 20 puntos, tras imponerse por 2-1 al Real Valladolid.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -4230,13 +4207,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101161500 +0100" stop="20261101183000 +0100" channel="LaLiga TV Hypermotion">
-    <title>DIRECTO Jornada 12: Ceuta FC - Real Sporting T26/27 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>LALIGA HYPERMOTION T26/27 · Jornada 12: Ceuta FC - Real Sporting</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Ceuta afronta una nueva oportunidad en el Alfonso Murube después de perder por 3-1 en Cádiz. El Sporting, octavo con 19 puntos, también busca una reacción tras el 4-0 sufrido ante el líder, el Castellón.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -4244,9 +4218,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101183000 +0100" stop="20261101203000 +0100" channel="LaLiga TV Hypermotion">
     <title>DIRECTO Jornada 12: Burgos - CD Castellón T26/27 · LALIGA HYPERMOTION</title>
@@ -4291,8 +4262,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101230000 +0100" stop="20261102010000 +0100" channel="LaLiga TV Hypermotion">
-    <title>Jornada 12: Ceuta FC - Real Sporting T26/27 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>LALIGA HYPERMOTION T26/27 · Jornada 12: Ceuta FC - Real Sporting</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Ceuta afronta una nueva oportunidad en el Alfonso Murube después de perder por 3-1 en Cádiz. El Sporting, octavo con 19 puntos, también busca una reacción tras el 4-0 sufrido ante el líder, el Castellón.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -4300,9 +4271,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261102010000 +0100" stop="20261102050000 +0100" channel="LaLiga TV Hypermotion">
     <title>LALIGA TV HYPERMOTION</title>
@@ -4313,8 +4281,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261102073000 +0100" stop="20261102093000 +0100" channel="LaLiga TV Hypermotion">
-    <title>Jornada 12: CD Eldense - Granada CF T26/27 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>LALIGA HYPERMOTION T26/27 · Jornada 12: CD Eldense - Granada CF</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Eldense recibe al Granada después de caer 2-0 en Albacete. El Granada llega quinto, con 20 puntos, tras imponerse por 2-1 al Real Valladolid.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -4322,9 +4290,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261102093000 +0100" stop="20261102113000 +0100" channel="LaLiga TV Hypermotion">
     <title>Jornada 12: CD Tenerife - FC Andorra T26/27 · LALIGA HYPERMOTION</title>
@@ -4355,8 +4320,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102133000 +0100" stop="20261102154500 +0100" channel="LaLiga TV Hypermotion">
-    <title>Jornada 12: Ceuta FC - Real Sporting T26/27 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>LALIGA HYPERMOTION T26/27 · Jornada 12: Ceuta FC - Real Sporting</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Ceuta afronta una nueva oportunidad en el Alfonso Murube después de perder por 3-1 en Cádiz. El Sporting, octavo con 19 puntos, también busca una reacción tras el 4-0 sufrido ante el líder, el Castellón.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -4364,9 +4329,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261102154500 +0100" stop="20261102161500 +0100" channel="LaLiga TV Hypermotion">
     <title>DIRECTO Oviedo - Las Palmas T26/27 · Previa LaLiga HyperMotion</title>
@@ -4667,7 +4629,7 @@
 	</programme>
 	<programme start="20261101185000 +0100" stop="20261101210000 +0100" channel="M+ Liga de Campeones">
     <title>DIRECTO Jornada 15: Boca Juniors - River Plate T2026 · Liga Argentina. Torneo Clausura</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.2/10</sub-title>
     <desc>(Deportes,Fútbol) El Torneo Clausura cierra la Primera División argentina. Se trata de una competición independiente del Apertura, con su propia clasificación, playoffs y campeón, aunque los puntos de ambas.
 · País: Argentina</desc>
     <category>Deportes, Fútbol</category>
@@ -4676,7 +4638,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>7.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101210000 +0100" stop="20261101220000 +0100" channel="M+ Liga de Campeones">
@@ -4722,7 +4684,7 @@
 	</programme>
 	<programme start="20261102003000 +0100" stop="20261102023000 +0100" channel="M+ Liga de Campeones">
     <title>Jornada 15: Boca Juniors - River Plate T2026 · Liga Argentina. Torneo Clausura</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.2/10</sub-title>
     <desc>(Deportes,Fútbol) El Torneo Clausura cierra la Primera División argentina. Se trata de una competición independiente del Apertura, con su propia clasificación, playoffs y campeón, aunque los puntos de ambas.
 · País: Argentina</desc>
     <category>Deportes, Fútbol</category>
@@ -4731,7 +4693,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>7.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261102023000 +0100" stop="20261102030000 +0100" channel="M+ Liga de Campeones">
@@ -4830,7 +4792,7 @@
 	</programme>
 	<programme start="20261102110000 +0100" stop="20261102130000 +0100" channel="M+ Liga de Campeones">
     <title>Jornada 15: Boca Juniors - River Plate T2026 · Liga Argentina. Torneo Clausura</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.2/10</sub-title>
     <desc>(Deportes,Fútbol) El Torneo Clausura cierra la Primera División argentina. Se trata de una competición independiente del Apertura, con su propia clasificación, playoffs y campeón, aunque los puntos de ambas.
 · País: Argentina</desc>
     <category>Deportes, Fútbol</category>
@@ -4839,7 +4801,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>7.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261102130000 +0100" stop="20261102144000 +0100" channel="M+ Liga de Campeones">
@@ -4910,7 +4872,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102183000 +0100" stop="20261102200000 +0100" channel="M+ Liga de Campeones">
-    <title>T26/27 E9 · El tercer tiempo</title>
+    <title>DIRECTO T26/27 E9 · El tercer tiempo</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
@@ -5348,7 +5310,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101111500 +0100" stop="20261101144500 +0100" channel="M+ Deportes">
+	<programme start="20261101111500 +0100" stop="20261101144300 +0100" channel="M+ Deportes">
     <title>Las Carreras T2026 · Hipódromo de La Zarzuela 01/11/2026</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Hípica) Las mejores carreras de caballos del Circuito Profesional donde están presentes los mejores jinetes y caballos de nuestro país desde los hipódromos más prestigiosos y famosos.</desc>
@@ -5358,7 +5320,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261101144500 +0100" stop="20261101151500 +0100" channel="M+ Deportes">
+	<programme start="20261101144300 +0100" stop="20261101151500 +0100" channel="M+ Deportes">
     <title>Racing on the Edge T2026 E6</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La SailGP es una competición náutica que enfrenta por países a los tripulantes de catamaranes F50. Este espacio muestra toda la información del certamen, con reportajes, entrevistas e imágenes espectaculares.</desc>
@@ -5385,7 +5347,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101153500 +0100" stop="20261101180500 +0100" channel="M+ Deportes">
-    <title>Final: Lehecka - Vacherot T2026 · Torneo de Basilea</title>
+    <title>Torneo de Basilea T2026 · Final: Lehecka - Vacherot</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
     <category>Deportes, Tenis</category>
@@ -5411,8 +5373,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101183500 +0100" stop="20261101210000 +0100" channel="M+ Deportes">
-    <title>Final: De Miñaur - Alcaraz T2026 · Torneo de Viena</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>Torneo de Viena T2026 · Final: De Miñaur - Alcaraz</title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/ficha/F4515468" />
@@ -5420,7 +5382,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101210000 +0100" stop="20261101231000 +0100" channel="M+ Deportes">
@@ -5437,7 +5399,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101231000 +0100" stop="20261102014000 +0100" channel="M+ Deportes">
-    <title>Final: Lehecka - Vacherot T2026 · Torneo de Basilea</title>
+    <title>Torneo de Basilea T2026 · Final: Lehecka - Vacherot</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
     <category>Deportes, Tenis</category>
@@ -5526,8 +5488,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102080000 +0100" stop="20261102091500 +0100" channel="M+ Deportes">
-    <title>01/11/2026 Hipódromo de la Zarzuela T2026 · Carreras de Caballos- Turf</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Carreras de Caballos- Turf T2026 · 01/11/2026 Hipódromo de la Zarzuela</title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Las carreras de caballos son un espectáculo extendido por todo el mundo y generan multitud de apuestas. Monturas y jinetes se exprimen al máximo para llegar a la meta en el menor tiempo posible.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/ficha/F4381417" />
@@ -5535,7 +5497,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261102091500 +0100" stop="20261102112500 +0100" channel="M+ Deportes">
@@ -5585,8 +5547,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102143000 +0100" stop="20261102170000 +0100" channel="M+ Deportes">
-    <title>Final: De Miñaur - Alcaraz T2026 · Torneo de Viena</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>Torneo de Viena T2026 · Final: De Miñaur - Alcaraz</title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/ficha/F4515468" />
@@ -5594,7 +5556,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261102170000 +0100" stop="20261102172000 +0100" channel="M+ Deportes">
@@ -5611,7 +5573,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102172000 +0100" stop="20261102200000 +0100" channel="M+ Deportes">
-    <title>Final: Lehecka - Vacherot T2026 · Torneo de Basilea</title>
+    <title>Torneo de Basilea T2026 · Final: Lehecka - Vacherot</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
     <category>Deportes, Tenis</category>
@@ -5701,8 +5663,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101140500 +0100" stop="20261101163000 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO Final: De Miñaur - Alcaraz T2026 · Torneo de Viena</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>Torneo de Viena T2026 · Final: De Miñaur - Alcaraz</title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/ficha/F4515468" />
@@ -5710,7 +5672,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101163000 +0100" stop="20261101233000 +0100" channel="M+ Deportes 2">
@@ -6147,17 +6109,14 @@
 		</rating>
 	</programme>
 	<programme start="20261101123000 +0100" stop="20261101163000 +0100" channel="M+ Golf">
-    <title>DIRECTO Grand Final. Jornada 4. Parte 2 T25/26 · DP World Tour</title>
-    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <title>DP World Tour T25/26 · Grand Final. Jornada 4. Parte 2</title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Golf) Llega la gran final de la segunda división del Circuito Europeo. Pablo Ereño tiene garantizada la tarjeta para el DP World, mientras que Joseba Torres y Santiago Tarrío aspiran a terminar entre los 15 mejores del ranking.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/ficha/F4513516" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101163000 +0100" stop="20261101170000 +0100" channel="M+ Golf">
     <title>PGA Tour Champions Learning Center T2026 E26</title>
@@ -6355,17 +6314,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102222500 +0100" stop="20261103012500 +0100" channel="M+ Golf">
-    <title>Grand Final. Jornada 4. Parte 2 T25/26 · DP World Tour</title>
-    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <title>DP World Tour T25/26 · Grand Final. Jornada 4. Parte 2</title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Golf) Llega la gran final de la segunda división del Circuito Europeo. Pablo Ereño tiene garantizada la tarjeta para el DP World, mientras que Joseba Torres y Santiago Tarrío aspiran a terminar entre los 15 mejores del ranking.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/ficha/F4513516" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261103012500 +0100" stop="20261103080000 +0100" channel="M+ Golf">
     <title>M+ Golf</title>
@@ -6743,7 +6699,7 @@
 	</programme>
 	<programme start="20261101143500 +0100" stop="20261101163700 +0100" channel="DAZN 1">
     <title>Premier League T26/27 · Jornada 9: Bournemouth - Leeds</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.
 · País: Reino Unido</desc>
     <category>Deportes, Fútbol</category>
@@ -6751,9 +6707,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101163700 +0100" stop="20261101170400 +0100" channel="DAZN 1">
     <title>Mohamed Salah, el faraón moderno de Anfield</title>
@@ -6841,7 +6794,7 @@
 	</programme>
 	<programme start="20261101220500 +0100" stop="20261102014000 +0100" channel="DAZN 1">
     <title>DIRECTO Jornada 8: Los Angeles Rams - Los Angeles Chargers T26/27 · NFL</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol americano) Los Rams reciben a los Chargers en el derbi de Los Ángeles de la octava semana de la temporada regular de la NFL.
 · País: Estados Unidos</desc>
     <category>Deportes, Fútbol americano</category>
@@ -6850,7 +6803,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261102014000 +0100" stop="20261102054000 +0100" channel="DAZN 1">
@@ -7226,7 +7179,7 @@
 	</programme>
 	<programme start="20261101070000 +0100" stop="20261101103000 +0100" channel="Eurosport 1">
     <title>International Championship de snooker T26/27 · Día 2 - Primera ronda</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Snooker) El International Championship de snooker se celebra del 31 de octubre al 7 de noviembre.
 · País: China</desc>
     <category>Deportes, Snooker</category>
@@ -7234,6 +7187,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261101103000 +0100" stop="20261101113000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de esquí alpino F - Sölden T26/27 · Eslalon gigante - 2ª manga</title>
@@ -7259,7 +7215,7 @@
 	</programme>
 	<programme start="20261101123000 +0100" stop="20261101143000 +0100" channel="Eurosport 1">
     <title>International Championship de snooker T26/27 · Día 2 - Primera ronda</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Snooker) El International Championship de snooker se celebra del 31 de octubre al 7 de noviembre.
 · País: China</desc>
     <category>Deportes, Snooker</category>
@@ -7267,10 +7223,13 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261101143000 +0100" stop="20261101171500 +0100" channel="Eurosport 1">
-    <title>DIRECTO T2026 · Maratón de Nueva York</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Maratón de Nueva York T2026</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Atletismo) El Maratón de Nueva York se disputa el domingo 1 de noviembre. Cerca de 60.000 corredores cruzan los cinco distritos de la ciudad en su emblemático circuito de 42 km, que arranca en Staten Island y culmina con la mítica meta en Central Park.
 · País: Estados Unidos</desc>
     <category>Deportes, Atletismo</category>
@@ -7278,9 +7237,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101171500 +0100" stop="20261101180000 +0100" channel="Eurosport 1">
     <title>Europeo de curling T2026 · Femenino: Final F</title>
@@ -7378,8 +7334,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102014500 +0100" stop="20261102030000 +0100" channel="Eurosport 1">
-    <title>T2026 · Maratón de Nueva York</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Maratón de Nueva York T2026</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Atletismo) El Maratón de Nueva York se disputa el domingo 1 de noviembre. Cerca de 60.000 corredores cruzan los cinco distritos de la ciudad en su emblemático circuito de 42 km, que arranca en Staten Island y culmina con la mítica meta en Central Park.
 · País: Estados Unidos</desc>
     <category>Deportes, Atletismo</category>
@@ -7387,13 +7343,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261102030000 +0100" stop="20261102040000 +0100" channel="Eurosport 1">
     <title>International Championship de snooker T26/27 · Día 2 - Primera ronda</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Snooker) El International Championship de snooker se celebra del 31 de octubre al 7 de noviembre.
 · País: China</desc>
     <category>Deportes, Snooker</category>
@@ -7401,6 +7354,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261102040000 +0100" stop="20261102053000 +0100" channel="Eurosport 1">
     <title>UCI World Tour T2026 · Tour de Flandes M</title>
@@ -7415,7 +7371,7 @@
 	</programme>
 	<programme start="20261102053000 +0100" stop="20261102070000 +0100" channel="Eurosport 1">
     <title>International Championship de snooker T26/27 · Día 2 - Primera ronda</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Snooker) El International Championship de snooker se celebra del 31 de octubre al 7 de noviembre.
 · País: China</desc>
     <category>Deportes, Snooker</category>
@@ -7423,6 +7379,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261102070000 +0100" stop="20261102103000 +0100" channel="Eurosport 1">
     <title>DIRECTO Día 3 - Segunda ronda T26/27 · International Championship de snooker</title>
@@ -7492,8 +7451,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102180000 +0100" stop="20261102200000 +0100" channel="Eurosport 1">
-    <title>Grand Prix T2026 · Global Champions Tour - Rabat</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Global Champions Tour - Rabat T2026 · Grand Prix</title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Hípica) Las finales del Longines Global Champions Tour se disputan en Rabat.
 · País: Marruecos</desc>
     <category>Deportes, Hípica</category>
@@ -7502,7 +7461,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261102200000 +0100" stop="20261102220000 +0100" channel="Eurosport 1">
@@ -7630,7 +7589,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101133500 +0100" stop="20261101161500 +0100" channel="Eurosport 2">
-    <title>DIRECTO Grand Prix T2026 · Global Champions Tour - Rabat</title>
+    <title>Global Champions Tour - Rabat T2026 · Grand Prix</title>
     <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Hípica) Las finales del Longines Global Champions Tour se disputan en Rabat.
 · País: Marruecos</desc>
@@ -7793,8 +7752,8 @@
 		</rating>
 	</programme>
 	<programme start="20261102080000 +0100" stop="20261102100000 +0100" channel="Eurosport 2">
-    <title>T2026 · Maratón de Nueva York</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Maratón de Nueva York T2026</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Atletismo) El Maratón de Nueva York se disputa el domingo 1 de noviembre. Cerca de 60.000 corredores cruzan los cinco distritos de la ciudad en su emblemático circuito de 42 km, que arranca en Staten Island y culmina con la mítica meta en Central Park.
 · País: Estados Unidos</desc>
     <category>Deportes, Atletismo</category>
@@ -7802,9 +7761,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261102100000 +0100" stop="20261102120000 +0100" channel="Eurosport 2">
     <title>6 Horas de Barcelona - Mundial de Resistencia de la FIA T2026 · Carrera</title>
@@ -7818,8 +7774,8 @@
 		</rating>
 	</programme>
 	<programme start="20261102120000 +0100" stop="20261102140000 +0100" channel="Eurosport 2">
-    <title>T2026 · Maratón de Nueva York</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Maratón de Nueva York T2026</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Atletismo) El Maratón de Nueva York se disputa el domingo 1 de noviembre. Cerca de 60.000 corredores cruzan los cinco distritos de la ciudad en su emblemático circuito de 42 km, que arranca en Staten Island y culmina con la mítica meta en Central Park.
 · País: Estados Unidos</desc>
     <category>Deportes, Atletismo</category>
@@ -7827,9 +7783,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261102140000 +0100" stop="20261102150000 +0100" channel="Eurosport 2">
     <title>Copa del mundo de esquí alpino M - Sölden T26/27 · Eslalon gigante - 2ª manga</title>
@@ -8140,7 +8093,7 @@
 	</programme>
 	<programme start="20261101165100 +0100" stop="20261101192400 +0100" channel="DAZN Baloncesto">
     <title>DIRECTO Jornada 6: Baskonia - Manresa T26/27 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa apuesta por el espectáculo. La máxima competición española de clubes cuenta, como es habitual, con una liga regular de 34 jornadas.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -8149,7 +8102,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101192400 +0100" stop="20261101232400 +0100" channel="DAZN Baloncesto">
@@ -10801,7 +10754,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101110000 +0100" stop="20261101120000 +0100" channel="La 1">
+	<programme start="20261101110000 +0100" stop="20261101120100 +0100" channel="La 1">
     <title>Viaje al centro de la tele T14 · El último guateque</title>
     <sub-title>2024 | TP | ★6.2/10</sub-title>
     <desc>(Entretenimiento,Zapping) Viaje musical por las canciones que fueron la esencia de los guateques de los 70 y los 80.
@@ -10816,7 +10769,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101120000 +0100" stop="20261101130500 +0100" channel="La 1">
+	<programme start="20261101120100 +0100" stop="20261101130500 +0100" channel="La 1">
     <title>Viaje al centro de la tele T14 · Ellas dan la nota</title>
     <sub-title>2024 | TP | ★5.8/10</sub-title>
     <desc>(Entretenimiento,Zapping) Un viaje dedicado a las mujeres que han dejado huella en la música.
@@ -11454,7 +11407,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101113000 +0100" stop="20261101115500 +0100" channel="La 2">
+	<programme start="20261101113000 +0100" stop="20261101115700 +0100" channel="La 2">
     <title>Pueblo de Dios</title>
     <sub-title>1982 | TP | ★6.2/10</sub-title>
     <desc>(Cultural/Educativo,Religión) Programa religioso que ofrece reportajes sobre el trabajo que realizan ONG en Sudamérica.
@@ -11470,7 +11423,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101115500 +0100" stop="20261101122500 +0100" channel="La 2">
+	<programme start="20261101115700 +0100" stop="20261101122600 +0100" channel="La 2">
     <title>Castillos de leyenda: Castillos encantados</title>
     <sub-title>2022 | TP | ★6.4/10</sub-title>
     <desc>(Documentales,Viajes) No hay mejor decorado para un misterio espectral que los lúgubres muros de un castillo medieval. Dos fortalezas escocesas, Fraser y Fyvie, protagonizan algunos de los mejores relatos de fantasmas de Occidente.
@@ -11485,7 +11438,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101122500 +0100" stop="20261101125500 +0100" channel="La 2">
+	<programme start="20261101122600 +0100" stop="20261101125300 +0100" channel="La 2">
     <title>Castillos de leyenda: Grandes amores</title>
     <sub-title>2022 | TP | ★6.8/10</sub-title>
     <desc>(Documentales,Viajes) Los castillos de Bragança, en Portugal, y Coca, en España, aún siendo fortalezas de demostrada capacidad militar, también vivieron tras sus muros amoríos que fueron llevados hasta los límites.
@@ -11500,7 +11453,7 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101125500 +0100" stop="20261101132000 +0100" channel="La 2">
+	<programme start="20261101125300 +0100" stop="20261101132000 +0100" channel="La 2">
     <title>Flash Moda</title>
     <sub-title>2017 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Moda) Un repaso a toda la actualidad del mundo de las pasarelas de la mano de Nieves Álvarez.
@@ -11515,7 +11468,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101132000 +0100" stop="20261101135000 +0100" channel="La 2">
+	<programme start="20261101132000 +0100" stop="20261101135300 +0100" channel="La 2">
     <title>El escarabajo verde T25 · La herencia de los humildes</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Entretenimiento,Magacín) Programa divulgativo sobre ecología y medio ambiente. Sus contenidos quieren llegar a un público amplio y no especializado, para que todos descubran que la ecología es interesante porque es necesaria, útil y amena.
@@ -11527,7 +11480,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261101135000 +0100" stop="20261101141000 +0100" channel="La 2">
+	<programme start="20261101135300 +0100" stop="20261101141100 +0100" channel="La 2">
     <title>¡Qué animal! T8 · Extinción</title>
     <sub-title>2023 | TP | ★5.8/10</sub-title>
     <desc>(Ocio y Aficiones,Naturaleza) Esta semana, ¡Qué animal! se interesa por la extinción de las especies y vemos cómo al alterar hábitats, los factores como el cambio climático o la contaminación son las principales amenazas de la biodiversidad y sus ecosistemas.
@@ -11542,7 +11495,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101141000 +0100" stop="20261101144000 +0100" channel="La 2">
+	<programme start="20261101141100 +0100" stop="20261101143800 +0100" channel="La 2">
     <title>Pipper en ruta T1 · Costa Brava</title>
     <sub-title>2022 | TP | ★5.8/10</sub-title>
     <desc>(Ocio y Aficiones,Viajes) Pipper, el perro 'influencer', visita la Costa Brava invitado por su hermana Gala.
@@ -11560,7 +11513,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101144000 +0100" stop="20261101153000 +0100" channel="La 2">
+	<programme start="20261101143800 +0100" stop="20261101152900 +0100" channel="La 2">
     <title>Saber y ganar fin de semana T15 E490</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Entretenimiento,Concurso) Programa número 12 de los 14 Especiales de Navidad en los que participarán 2 equipos formados por estudiantes de 4º de la ESO. Concursantes: Lucas de Antonio, Aitana Velasco, Samuel Borregón, Paula Aceitón, Dylan Gutiérrez, Jesús Collado.
@@ -11571,7 +11524,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261101153000 +0100" stop="20261101162000 +0100" channel="La 2">
+	<programme start="20261101152900 +0100" stop="20261101162000 +0100" channel="La 2">
     <title>Saber y ganar fin de semana T16 E564</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Entretenimiento,Concurso) Programa concurso en el que seis participantes demuestran sus conocimientos y su agilidad mental. Concursantes: ORESTES BARBERO, SUSANA GARCÍA, NACHO MANGUT, JAIRO FERNÁNDEZ, MAITE VERGARA, BIEL COPONS.
@@ -12334,7 +12287,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101132500 +0100" stop="20261101135500 +0100" channel="Antena 3">
+	<programme start="20261101132500 +0100" stop="20261101135700 +0100" channel="Antena 3">
     <title>Cocina abierta de Karlos Arguiñano T16</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Ocio y Aficiones,Cocina) Disfruta de los programas al completo de Karlos Arguiñano en ATRESplayer. Menús diarios, trucos de cocina, postres con Eva Arguiñano y la innovación de Joseba Arguiñano.
@@ -12350,7 +12303,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101135500 +0100" stop="20261101150000 +0100" channel="Antena 3">
+	<programme start="20261101135700 +0100" stop="20261101145900 +0100" channel="Antena 3">
     <title>La ruleta de la suerte T2026 E4664</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Entretenimiento,Concurso) Concurso en el que los participantes hacen girar una ruleta para obtener premios.
@@ -12365,7 +12318,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101150000 +0100" stop="20261101154500 +0100" channel="Antena 3">
+	<programme start="20261101145900 +0100" stop="20261101154500 +0100" channel="Antena 3">
     <title>Antena 3 Noticias mediodía (Fin de semana)</title>
     <sub-title>★6.4/10</sub-title>
     <desc>(Información,Informativo) Edición del mediodía de los informativos del fin de semana de Antena 3, que sigue la estructura de los noticiarios diarios de la cadena. Las noticias acontecidas en las últimas horas son las protagonistas de este espacio.
@@ -12941,7 +12894,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101111500 +0100" stop="20261101124000 +0100" channel="Cuatro">
+	<programme start="20261101111500 +0100" stop="20261101124300 +0100" channel="Cuatro">
     <title>Viajeros Cuatro: La Toscana</title>
     <sub-title>2023 | ⑦ | ★6.0/10</sub-title>
     <desc>(Documentales,Viajes) La cultura, la tradición y el arte florentino impregnarán el recorrido por la Toscana.
@@ -12955,7 +12908,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101124000 +0100" stop="20261101140000 +0100" channel="Cuatro">
+	<programme start="20261101124300 +0100" stop="20261101135700 +0100" channel="Cuatro">
     <title>Viajeros Cuatro: Estambul</title>
     <sub-title>2019 | ⑫ | ★6.0/10</sub-title>
     <desc>(Documentales,Viajes) El programa viaja a Estambul y visita el rodaje de "Erkenci Kus (Pájaro Soñador)".
@@ -12971,7 +12924,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101140000 +0100" stop="20261101145500 +0100" channel="Cuatro">
+	<programme start="20261101135700 +0100" stop="20261101145700 +0100" channel="Cuatro">
     <title>Noticias Cuatro fin de semana</title>
     <sub-title>2025 | ★6.0/10</sub-title>
     <desc>(Información,Informativo) Diego Arce y Marta Reyero presentan el informativo de Cuatro durante el fin de semana, repasando las últimas noticias sucedidas en todos los ámbitos.
@@ -12983,7 +12936,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101145500 +0100" stop="20261101152500 +0100" channel="Cuatro">
+	<programme start="20261101145700 +0100" stop="20261101152800 +0100" channel="Cuatro">
     <title>ElDesmarque de Cuatro mediodía fin de semana</title>
     <sub-title>2026 | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Espacio que repasa la actualidad futbolística.
@@ -12994,7 +12947,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101152500 +0100" stop="20261101154000 +0100" channel="Cuatro">
+	<programme start="20261101152800 +0100" stop="20261101154000 +0100" channel="Cuatro">
     <title>El tiempo</title>
     <sub-title>2017 | ★6.0/10</sub-title>
     <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
@@ -13421,7 +13374,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101121000 +0100" stop="20261101134000 +0100" channel="Telecinco">
+	<programme start="20261101121000 +0100" stop="20261101134200 +0100" channel="Telecinco">
     <title>El precio justo (diario) T3 E36</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
@@ -13436,7 +13389,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101134000 +0100" stop="20261101150000 +0100" channel="Telecinco">
+	<programme start="20261101134200 +0100" stop="20261101145900 +0100" channel="Telecinco">
     <title>El precio justo (diario) T3 E50</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
@@ -13447,7 +13400,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261101150000 +0100" stop="20261101153500 +0100" channel="Telecinco">
+	<programme start="20261101145900 +0100" stop="20261101153500 +0100" channel="Telecinco">
     <title>Informativos Telecinco Fin de Semana</title>
     <sub-title>★6.2/10</sub-title>
     <desc>(Información,Informativo) Roberto Arce conduce las diferentes ediciones de los informativos del fin de semana con las últimas noticias a nivel nacional e internacional.
@@ -13913,7 +13866,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101103000 +0100" stop="20261101140000 +0100" channel="La Sexta">
+	<programme start="20261101103000 +0100" stop="20261101135500 +0100" channel="La Sexta">
     <title>Equipo de investigación</title>
     <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
     <desc>(Información,Reportaje) Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad.
@@ -13929,7 +13882,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101140000 +0100" stop="20261101150500 +0100" channel="La Sexta">
+	<programme start="20261101135500 +0100" stop="20261101150300 +0100" channel="La Sexta">
     <title>laSexta Noticias Fin de Semana</title>
     <sub-title>2014 | ★6.0/10</sub-title>
     <desc>(Información,Informativo) Informativo que resume lo más destacado del día de la mano de Ana Cuesta.
@@ -13941,7 +13894,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101150500 +0100" stop="20261101151500 +0100" channel="La Sexta">
+	<programme start="20261101150300 +0100" stop="20261101151600 +0100" channel="La Sexta">
     <title>laSexta Deportes Fin de Semana</title>
     <sub-title>★6.2/10</sub-title>
     <desc>(Información,Deportes) Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado porÓscar Rincón, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1.
@@ -13953,7 +13906,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261101151500 +0100" stop="20261101153000 +0100" channel="La Sexta">
+	<programme start="20261101151600 +0100" stop="20261101153000 +0100" channel="La Sexta">
     <title>laSexta Meteo</title>
     <sub-title>2011 | ★6.2/10</sub-title>
     <desc>(Información,Meteorología) Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
@@ -15270,7 +15223,7 @@
 	</programme>
 	<programme start="20261101180000 +0100" stop="20261101220000 +0100" channel="Nova">
     <title>La madrastra</title>
-    <sub-title>⑫ | ★3.6/10</sub-title>
+    <sub-title>⑫ | ★4.2/10</sub-title>
     <desc>(Series,Telenovela) Telenovela. Una terrible tragedia pone fin al viaje de placer de un grupo de amigos.
 · País: México
 · Dirección: Eric Morales, Édgar Ramírez.
@@ -15283,7 +15236,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>3.6/10</value>
+			<value>4.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101220000 +0100" stop="20261102000500 +0100" channel="Nova">
@@ -15738,7 +15691,6 @@
 · Música: Guillermo Maestro, Miguel Ruiz de Elvira.
 · Productora: Globomedia.</desc>
     <category>Series, Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MFDFICT1132660" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -15755,7 +15707,6 @@
 · Música: Guillermo Maestro, Miguel Ruiz de Elvira.
 · Productora: Globomedia.</desc>
     <category>Series, Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MFDFICF1132661" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -15772,7 +15723,6 @@
 · Reparto: Jordi Sánchez, José Luis Gil, Cristina Castaño, Macarena Gómez, María Adánez, Eduardo Gómez, Isabel Ordaz, Eva Isanta, Pablo Chiapella, Antonio Pagudo, Vanesa Romero.
 · Productora: Miramón Mendi S.A.</desc>
     <category>Series, Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MFDFICF1178916" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -15789,7 +15739,7 @@
 · Reparto: Jordi Sánchez, José Luis Gil, Cristina Castaño, Macarena Gómez, María Adánez, Eduardo Gómez, Isabel Ordaz, Eva Isanta, Pablo Chiapella, Antonio Pagudo, Vanesa Romero.
 · Productora: Miramón Mendi S.A.</desc>
     <category>Series, Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MFDFICF1178917" />
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MFDFICT1178917" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -18394,8 +18344,8 @@
 		</rating>
 	</programme>
 	<programme start="20261101143000 +0100" stop="20261101173000 +0100" channel="Teledeporte">
-    <title>DIRECTO T2026 E1 · Maratón de Nueva York</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <title>Maratón de Nueva York T2026 E1</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Otros deportes) El Maratón de Nueva York se disputa el domingo 1 de noviembre. Cerca de 60.000 corredores cruzan los cinco distritos de la ciudad en su emblemático circuito de 42 km, que arranca en Staten Island y culmina con la mítica meta en Central Park.
 · País: Estados Unidos</desc>
     <category>Deportes, Otros deportes</category>
@@ -18403,9 +18353,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>10.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101173000 +0100" stop="20261101173500 +0100" channel="Teledeporte">
     <title>Deportes 1</title>
@@ -18612,7 +18559,7 @@
 		</rating>
 	</programme>
 	<programme start="20261102020500 +0100" stop="20261102024000 +0100" channel="Teledeporte">
-    <title>SUPERSPORT _ Jerez II T2026 · Campeonato de España de Superbike</title>
+    <title>Campeonato de España de Superbike T2026 · SUPERSPORT _ Jerez II</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motor) La Real Federación Motociclista Española organiza este campeonato de España de Superbike, una excelente cantera para los pilotos que quieren dar el salto al Mundial de motociclismo.
 · País: España</desc>
@@ -18626,7 +18573,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102024000 +0100" stop="20261102031500 +0100" channel="Teledeporte">
-    <title>SBK _ Jerez II T2026 · Campeonato de España de Superbike</title>
+    <title>Campeonato de España de Superbike T2026 · SBK _ Jerez II</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motor) La Real Federación Motociclista Española organiza este campeonato de España de Superbike, una excelente cantera para los pilotos que quieren dar el salto al Mundial de motociclismo.
 · País: España</desc>
@@ -19302,7 +19249,7 @@
 		</rating>
 	</programme>
 	<programme start="20261101130000 +0100" stop="20261101135000 +0100" channel="Replay">
-    <title>DIRECTO SUPERSPORT _ Jerez II T2026 · Campeonato de España de Superbike</title>
+    <title>Campeonato de España de Superbike T2026 · SUPERSPORT _ Jerez II</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motor) La Real Federación Motociclista Española organiza este campeonato de España de Superbike, una excelente cantera para los pilotos que quieren dar el salto al Mundial de motociclismo.
 · País: España</desc>
@@ -19316,7 +19263,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101135000 +0100" stop="20261101144000 +0100" channel="Replay">
-    <title>DIRECTO SBK _ Jerez II T2026 · Campeonato de España de Superbike</title>
+    <title>Campeonato de España de Superbike T2026 · SBK _ Jerez II</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motor) La Real Federación Motociclista Española organiza este campeonato de España de Superbike, una excelente cantera para los pilotos que quieren dar el salto al Mundial de motociclismo.
 · País: España</desc>
@@ -19331,7 +19278,7 @@
 	</programme>
 	<programme start="20261101144000 +0100" stop="20261101163000 +0100" channel="Replay">
     <title>Liga francesa (F) T26/27 · Jornada 7: París FC - PSG</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Première Ligue es la máxima categoría del fútbol femenino francés. Está compuesta por doce equipos, muchos de ellos los mismos clubes de la Ligue 1.
 · País: Francia</desc>
     <category>Deportes, Fútbol</category>
@@ -19339,12 +19286,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101163000 +0100" stop="20261101194500 +0100" channel="Replay">
-    <title>DIRECTO 1/11/2026 T26/27 · La Pachanga en Juego</title>
+    <title>La Pachanga en Juego T26/27 · 1/11/2026</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) 1/11/2026.
 · País: España</desc>
@@ -21926,7 +21870,7 @@
 	</programme>
 	<programme start="20261101064500 +0100" stop="20261101065600 +0100" channel="Clan">
     <title>Monster Shaker T1 E25 · Un monstruo de apuesta</title>
-    <sub-title>2024 | ⑦ | ★5.0/10</sub-title>
+    <sub-title>2024 | ⑦ | ★6.0/10</sub-title>
     <desc>(Infantil,Dibujos animados) Justin, de nueve años, termina con un agitador mágico que puede usar para crear toneladas de monstruos locos con poderes asombrosos.
 · País: España y Francia
 · Dirección: Gark.
@@ -21938,7 +21882,7 @@
 			<value>7</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101065600 +0100" stop="20261101070800 +0100" channel="Clan">
@@ -22507,14 +22451,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101194100 +0100" stop="20261101200300 +0100" channel="Clan">
-    <title>La patrulla canina T12 E9 · Los cachorros salvan una granja encantada; Los cachorros salvan la fiesta de Bahía Aventura</title>
+    <title>La patrulla canina T12 E9 · La patrulla salva una granja encantada/La patrulla salva la "burbena" de Bahía Aventura</title>
     <sub-title>2024 | TP | ★5.8/10</sub-title>
     <desc>(Infantil,Preescolar) Yumi y Al se pierden dentro del laberinto de Halloween que han construido en su granja. // Sid el espadachín roba la disco-bola de la "buurbena" de Bahía Aventura.
 · País: Canadá y Estados Unidos
 · Dirección: Joey So, Dipesh Mistry.
 · Guion: Melinda LaRose, Senibo Myers.</desc>
     <category>Infantil, Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MCLANTVF4276323" />
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4439198" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24061,7 +24005,6 @@
 · País: Canadá y Estados Unidos
 · Presenta: Page Turner, David Visentin, Hillary Parr.</desc>
     <category>Ocio y Aficiones, Decoración</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MDIVINIT1319213" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24076,7 +24019,6 @@
 · País: Canadá y Estados Unidos
 · Presenta: Page Turner, David Visentin, Hillary Parr.</desc>
     <category>Ocio y Aficiones, Decoración</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MDIVINIF1319214" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24091,7 +24033,6 @@
 · País: Canadá y Estados Unidos
 · Presenta: Page Turner, David Visentin, Hillary Parr.</desc>
     <category>Ocio y Aficiones, Decoración</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MDIVINIF1319208" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24106,7 +24047,6 @@
 · País: Canadá y Estados Unidos
 · Presenta: Page Turner, David Visentin, Hillary Parr.</desc>
     <category>Ocio y Aficiones, Decoración</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MDIVINIF1319216" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24121,7 +24061,6 @@
 · País: Canadá y Estados Unidos
 · Presenta: Page Turner, David Visentin, Hillary Parr.</desc>
     <category>Ocio y Aficiones, Decoración</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MDIVINIF1319217" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24136,7 +24075,6 @@
 · País: Canadá y Estados Unidos
 · Presenta: Page Turner, David Visentin, Hillary Parr.</desc>
     <category>Ocio y Aficiones, Decoración</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MDIVINIF1319218" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24146,7 +24084,7 @@
 	</programme>
 	<programme start="20261101152000 +0100" stop="20261101163000 +0100" channel="Divinity">
     <title>Vender para comprar T1 E1</title>
-    <sub-title>2013 | ⑦ | ★6.4/10</sub-title>
+    <sub-title>2013 | ⑦ | ★6.6/10</sub-title>
     <desc>(Ocio y Aficiones,Decoración) Los Hermanos Scott nos dan las claves para conseguir el mejor precio por el antiguo hogar y las mejores condiciones para disfrutar del nuevo.
 · País: Canadá y Estados Unidos
 · Presenta: Jonathan Scott, Drew Scott.
@@ -24156,12 +24094,12 @@
 · Música: Peter Warnica.
 · Productora: Cineflix, Simon Lloyd, Gerard Barry.</desc>
     <category>Ocio y Aficiones, Decoración</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MDIVINIF1086184" />
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MDIVINIT1086184" />
 		<rating system="ES">
 			<value>7</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101163000 +0100" stop="20261101172000 +0100" channel="Divinity">
@@ -26625,7 +26563,7 @@
 	</programme>
 	<programme start="20261101104500 +0100" stop="20261101113500 +0100" channel="Energy">
     <title>Scorpion T4 E14 · El faro del sol naciente</title>
-    <sub-title>2017 | ⑦ | ★6.4/10</sub-title>
+    <sub-title>2017 | ⑫ | ★6.4/10</sub-title>
     <desc>(Series,Drama) Una tormenta solar deja sin electricidad la ciudad de Los Ángeles, y el equipo debe ayudar a un joven piloto y su novia que se pierden en el Pacífico sin sistema de navegación o contacto por radio.
 · País: Estados Unidos
 · Dirección: Nick Santora, Sam Hill.
@@ -26633,9 +26571,8 @@
 · Guion: Adam Higgs.
 · Productora: David Foster, Nick Santora, Walter O'Brien, K/O Paper Products, Blackjack Productions, Perfect Storm Entertainment.</desc>
     <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MENERGYT1481883" />
 		<rating system="ES">
-			<value>7</value>
+			<value>12</value>
 		</rating>
 		<star-rating system="ES">
 			<value>6.4/10</value>
@@ -26643,7 +26580,7 @@
 	</programme>
 	<programme start="20261101113500 +0100" stop="20261101122000 +0100" channel="Energy">
     <title>Scorpion T4 E15 · Di adiós</title>
-    <sub-title>2017 | ⑦ | ★6.4/10</sub-title>
+    <sub-title>2017 | ⑫ | ★6.4/10</sub-title>
     <desc>(Series,Drama) El equipo Scorpion debe evitar que un tsunami llegue a una instalación de energía nuclear vulnerable, y Toby ayuda en secreto a su ex prometida a recuperar su identidad robada.
 · País: Estados Unidos
 · Dirección: Nick Santora, Jeff T. Thomas.
@@ -26651,9 +26588,8 @@
 · Guion: Kevin J. Hynes.
 · Productora: SB Films, K/O Paper Products, Blackjack Productions, Perfect Storm Entertainment.</desc>
     <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MENERGYF1481884" />
 		<rating system="ES">
-			<value>7</value>
+			<value>12</value>
 		</rating>
 		<star-rating system="ES">
 			<value>6.4/10</value>
@@ -26661,7 +26597,7 @@
 	</programme>
 	<programme start="20261101122000 +0100" stop="20261101131500 +0100" channel="Energy">
     <title>Scorpion T4 E16 · Cerebrito, viento y fuego</title>
-    <sub-title>2017 | ⑦ | ★6.6/10</sub-title>
+    <sub-title>2017 | ⑫ | ★6.6/10</sub-title>
     <desc>(Series,Drama) En el Día de San Valentín, el equipo debe dejar de lado sus planes románticos para ayudar a un médico y piloto atrapado dentro de un helicóptero que se ha estrellado en lo alto de un rascacielos.
 · País: Estados Unidos
 · Dirección: Ken Olin, Nick Santora.
@@ -26669,9 +26605,8 @@
 · Guion: Scott Sullivan.
 · Productora: SB Films, K/O Paper Products, Blackjack Productions, Perfect Storm Entertainment.</desc>
     <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MENERGYF1481885" />
 		<rating system="ES">
-			<value>7</value>
+			<value>12</value>
 		</rating>
 		<star-rating system="ES">
 			<value>6.6/10</value>
@@ -26685,7 +26620,6 @@
 · Reparto: Joe Mantegna, Thomas Gibson, Shemar Moore, A.J. Cook, Matthew Gray Gubler, Kirsten Vangsness, Jeanne Tripplehorn.
 · Productora: The Mark Gordon Company, ABC Studios, CBS Television Studios, Touchstone Television.</desc>
     <category>Series, Policíaca</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MENERGYF1135160" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -26701,7 +26635,7 @@
 · Reparto: Joe Mantegna, Thomas Gibson, Shemar Moore, A.J. Cook, Matthew Gray Gubler, Kirsten Vangsness, Jeanne Tripplehorn.
 · Productora: The Mark Gordon Company, ABC Studios, CBS Television Studios, Touchstone Television.</desc>
     <category>Series, Policíaca</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MENERGYF1137915" />
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MENERGYT1137915" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -26717,7 +26651,7 @@
 · Reparto: Joe Mantegna, Thomas Gibson, Shemar Moore, A.J. Cook, Matthew Gray Gubler, Kirsten Vangsness, Jeanne Tripplehorn.
 · Productora: The Mark Gordon Company, ABC Studios, CBS Television Studios, Touchstone Television.</desc>
     <category>Series, Policíaca</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MENERGYF1139749" />
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MENERGYT1139749" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -27410,7 +27344,6 @@
 · Producción: Masanori Miyake, Yûma Takahashi.
 · Productora: Aniplex, Shueisha.</desc>
     <category>Cine, Animación</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MBEMADT1916961" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -27430,7 +27363,6 @@
 · Producción: Colin Strause, Greg Strause, Liam O'Donnell, Kristian James Andresen.
 · Productora: Tucker Tooley, Liz Dean, Brian Kavanaugh-Jones, Relativity Media, Rogue Pictures, Rat Entertainment.</desc>
     <category>Cine, Ciencia ficción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MBEMADF966431" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -27440,7 +27372,7 @@
 	</programme>
 	<programme start="20261101121500 +0100" stop="20261101133500 +0100" channel="Be Mad">
     <title>Jonah Hex</title>
-    <sub-title>2010 | ⑫ | ★6.4/10</sub-title>
+    <sub-title>2010 | ⑦ | ★6.4/10</sub-title>
     <desc>(Cine,Acción) En el salvaje oeste, Jonah Hex (Josh Brolin) es conocido por una cicatriz en la parte derecha del rostro y por vestir un uniforme del ejército confederado.
 · País: Estados Unidos
 · Dirección: Jimmy Hayward.
@@ -27450,9 +27382,8 @@
 · Producción: Akiva Goldsman.
 · Productora: John Goldstone, Legendary Entertainment, Thomas Tull, Joshua Levinson, Mad Chance, Warner Bros. Pictures, Legendary Pictures.</desc>
     <category>Cine, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MBEMADF907788" />
 		<rating system="ES">
-			<value>12</value>
+			<value>7</value>
 		</rating>
 		<star-rating system="ES">
 			<value>6.4/10</value>
@@ -29541,7 +29472,7 @@
 	</programme>
 	<programme start="20261101142000 +0100" stop="20261101152300 +0100" channel="Ten">
     <title>Caso cerrado T15 E240</title>
-    <sub-title>2015 | ⑯ | ★5.8/10</sub-title>
+    <sub-title>2015 | ⑯ | ★5.6/10</sub-title>
     <desc>(Entretenimiento,Tertulia) Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
 · País: Estados Unidos
 · Presenta: Ana María Polo.</desc>
@@ -29551,7 +29482,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101152300 +0100" stop="20261101162100 +0100" channel="Ten">
@@ -29631,7 +29562,7 @@
 	</programme>
 	<programme start="20261101200600 +0100" stop="20261101210600 +0100" channel="Ten">
     <title>Caso cerrado T9 E69</title>
-    <sub-title>2024 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2024 | ⑯ | ★5.8/10</sub-title>
     <desc>(Entretenimiento,Tertulia) Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
 · País: Estados Unidos
 · Presenta: Ana María Polo.</desc>
@@ -29641,7 +29572,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101210600 +0100" stop="20261101211800 +0100" channel="Ten">
@@ -35643,7 +35574,7 @@
 	</programme>
 	<programme start="20261101103800 +0100" stop="20261101114300 +0100" channel="Telemadrid">
     <title>Madrileños por el mundo: Filipinas</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Documentales,Documental) Cada semana un reportero del programa viaja a otras ciudades del mundo para ver cómo viven los madrileños fuera de nuestro país, nos descubren sus nuevas costumbres y nos cuentan lo que añoran de Esp.
 · País: España</desc>
     <category>Documentales, Documental</category>
@@ -35652,7 +35583,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101114300 +0100" stop="20261101121000 +0100" channel="Telemadrid">
@@ -36082,7 +36013,7 @@
 	</programme>
 	<programme start="20261102095000 +0100" stop="20261102110000 +0100" channel="Telemadrid">
     <title>Madrileños por el mundo: Berlín</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Documentales,Documental) Cada semana un reportero del programa viaja a otras ciudades del mundo para ver cómo viven los madrileños fuera de nuestro país, nos descubren sus nuevas costumbres y nos cuentan lo que añoran de España.
 · País: España</desc>
     <category>Documentales, Documental</category>
@@ -36091,7 +36022,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261102110000 +0100" stop="20261102140000 +0100" channel="Telemadrid">
@@ -36263,7 +36194,7 @@
 	</programme>
 	<programme start="20261102224500 +0100" stop="20261102233500 +0100" channel="Telemadrid">
     <title>Los Crononautas: El Madrid de Felipe II</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★10.0/10</sub-title>
     <desc>(Documentales,Documental) Mónica Martínez y Quico Taronjí viajan en el tiempo para recrear el pasado de Madrid y descubrir, junto a figuras históricas, el origen y evolución de la comunidad.
 · País: España</desc>
     <category>Documentales, Documental</category>
@@ -36271,10 +36202,13 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>10.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261102233500 +0100" stop="20261103003500 +0100" channel="Telemadrid">
     <title>Los Crononautas: Alcalá, donde nació el saber</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <sub-title>2026 | TP | ★7.2/10</sub-title>
     <desc>(Documentales,Documental) Mónica Martínez y Quico Taronjí viajan en el tiempo para recrear el pasado de Madrid y descubrir, junto a figuras históricas, el origen y evolución de la comunidad.
 · País: España</desc>
     <category>Documentales, Documental</category>
@@ -36283,7 +36217,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>7.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261103003500 +0100" stop="20261103021000 +0100" channel="Telemadrid">
@@ -38098,8 +38032,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101122500 +0100" stop="20261101142000 +0100" channel="TV3">
-    <title>DIRECTO Jornada 9: FC Badalona - Barcelona T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>Liga F T26/27 · Jornada 9: FC Badalona - Barcelona</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -38107,9 +38041,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101142000 +0100" stop="20261101143000 +0100" channel="TV3">
     <title>ZZ</title>
@@ -38825,8 +38756,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102024000 +0100" stop="20261102042000 +0100" channel="Esport 3">
-    <title>DIRECTO Jornada 9: FC Badalona - Barcelona T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>Liga F T26/27 · Jornada 9: FC Badalona - Barcelona</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -38834,9 +38765,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261102042000 +0100" stop="20261102054000 +0100" channel="Esport 3">
     <title>DIRECTO Jornada 8: Granollers - Barcelona T26/27 · ASOBAL</title>
@@ -38942,8 +38870,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261102082000 +0100" stop="20261102100000 +0100" channel="Esport 3">
-    <title>DIRECTO Jornada 9: FC Badalona - Barcelona T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>Liga F T26/27 · Jornada 9: FC Badalona - Barcelona</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -38951,9 +38879,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261102100000 +0100" stop="20261102105000 +0100" channel="Esport 3">
     <title>Arrelats T1 · Mónica López</title>
@@ -40503,15 +40428,12 @@
 		</star-rating>
 	</programme>
 	<programme start="20261101121500 +0100" stop="20261101140000 +0100" channel="Aragón TV">
-    <title>DIRECTO Jornada 6: Casademont Zaragoza - Innova TSN Leganés T26/27 · LF Endesa</title>
-    <sub-title>2026 | ★6.0/10</sub-title>
+    <title>LF Endesa T26/27 · Jornada 6: Casademont Zaragoza - Innova TSN Leganés</title>
+    <sub-title>2026</sub-title>
     <desc>(Deportes,Baloncesto) Los 16 mejores equipos femeninos de básquet luchan por el título de liga. La competición se divide en una primera fase regular en la que los mejores clasificados acceden a las eliminatorias por el título. El actual campeón es el Valencia Basket.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/ficha/MARAGTVF4417082" />
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261101140000 +0100" stop="20261101143000 +0100" channel="Aragón TV">
     <title>Aragón Noticias 1. Edición Fin de Semana</title>
@@ -42431,7 +42353,7 @@
 	</programme>
 	<programme start="20261101210000 +0100" stop="20261101223600 +0100" channel="M+ Estrenos">
     <title>The Carpenter's Son</title>
-    <sub-title>2025 | ⑯ | ★5.2/10</sub-title>
+    <sub-title>2025 | ⑯ | ★5.8/10</sub-title>
     <desc>(Cine,Terror) En el Egipto romano, una familia vive escondida para proteger a su hijo, un joven con un destino sagrado. Pero la aparición de otro niño misterioso despierta sus poderes, desafía la autoridad de su padre y desata horrores divinos, humanos y familiares.
 · País: Estados Unidos, Francia y Reino Unido
 · Dirección: Lotfy Nathan.
@@ -42442,7 +42364,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.2/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101223600 +0100" stop="20261101225000 +0100" channel="M+ Estrenos">
@@ -47903,7 +47825,7 @@
 	</programme>
 	<programme start="20261101071500 +0100" stop="20261101090400 +0100" channel="TCM">
     <title>Boorman y el diablo</title>
-    <sub-title>2025 | ⑯ | ★6.8/10</sub-title>
+    <sub-title>2025 | ⑯ | ★6.6/10</sub-title>
     <desc>(Documentales,Documental cine) Tras varios éxitos como director, Warner Bros ofreció a John Boorman la oportunidad de su vida: dirigir la secuela de su gran éxito "El Exorcista".
 · País: Estados Unidos
 · Dirección: David Kittredge.
@@ -47916,7 +47838,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101090400 +0100" stop="20261101101800 +0100" channel="TCM">
@@ -48188,7 +48110,7 @@
 	</programme>
 	<programme start="20261102094600 +0100" stop="20261102114100 +0100" channel="TCM">
     <title>El Exorcista II: El hereje</title>
-    <sub-title>1977 | ⑱ | ★6.0/10</sub-title>
+    <sub-title>1977 | ⑱ | ★6.4/10</sub-title>
     <desc>(Cine,Terror) Han pasado 4 años desde que Regan fuera poseída por el demonio. Pero una parte de ella aún está contaminada.
 · País: Estados Unidos
 · Dirección: John Boorman.
@@ -48202,7 +48124,7 @@
 			<value>18</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261102114100 +0100" stop="20261102114500 +0100" channel="TCM">
@@ -50875,7 +50797,7 @@
 	</programme>
 	<programme start="20261101142500 +0100" stop="20261101151900 +0100" channel="Calle 13">
     <title>Lucifer T4 E1 · Todo va bien</title>
-    <sub-title>2019 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2019 | ⑫ | ★6.4/10</sub-title>
     <desc>(Series,Drama) Chloe regresa tras descubrir la identidad de Lucifer. Mientras ella lidia con la revelación, él hace todo lo posible por reconquistarla.
 · País: Estados Unidos
 · Dirección: Sherwin Shilati.
@@ -50888,7 +50810,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101151900 +0100" stop="20261101171300 +0100" channel="Calle 13">
@@ -51309,7 +51231,7 @@
 	</programme>
 	<programme start="20261102195700 +0100" stop="20261102205800 +0100" channel="Calle 13">
     <title>Lucifer T4 E1 · Todo va bien</title>
-    <sub-title>2019 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2019 | ⑫ | ★6.4/10</sub-title>
     <desc>(Series,Drama) Chloe regresa tras descubrir la identidad de Lucifer. Mientras ella lidia con la revelación, él hace todo lo posible por reconquistarla.
 · País: Estados Unidos
 · Dirección: Sherwin Shilati.
@@ -51322,7 +51244,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261102205800 +0100" stop="20261102220000 +0100" channel="Calle 13">
@@ -59452,7 +59374,7 @@
 · Producción: Alex Heineman, Andrew Rona, Joel Silver.
 · Productora: StudioCanal, Silver Pictures, Anton Capital Entertainment (ACE).</desc>
     <category>Cine, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4438334" />
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F3958270" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -67203,7 +67125,7 @@
 	</programme>
 	<programme start="20261101122700 +0100" stop="20261101132000 +0100" channel="BBC Series">
     <title>Norte y sur T1 E3</title>
-    <sub-title>2004 | ⑯ | ★6.2/10</sub-title>
+    <sub-title>2004 | ⑯ | ★6.4/10</sub-title>
     <desc>(Series,Drama) La huelga ha terminado, pero Bessy, amiga de Margaret, y su madre están gravemente enfermas.
 · País: Reino Unido
 · Dirección: Brian Percival.
@@ -67218,7 +67140,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261101132000 +0100" stop="20261101141400 +0100" channel="BBC Series">
@@ -81648,214 +81570,6 @@
     <title>Leyma Coruña vs. La Laguna Tene</title>
     <desc>Sin detalles...</desc>
 	</programme>
-  <programme start="20261031200000 +0000" stop="20261101000000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1030.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101000000 +0000" stop="20261101040000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1030.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101040000 +0000" stop="20261101080000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101080000 +0000" stop="20261101120000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101120000 +0000" stop="20261101160000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101200000 +0000" stop="20261102000000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102000000 +0000" stop="20261102040000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102040000 +0000" stop="20261102080000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102080000 +0000" stop="20261102120000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102120000 +0000" stop="20261102160000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102160000 +0000" stop="20261102200000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102200000 +0000" stop="20261103000000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261103000000 +0000" stop="20261103040000 +0000" channel="SKY SPORTS 1 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
   <programme start="20261031171500 +0000" stop="20261031173000 +0000" channel="SKY SPORTS 16 MX">
     <desc lang="es">Previo.</desc>
     <title lang="es">Previo</title>
@@ -82003,422 +81717,6 @@
   <programme start="20261103020000 +0000" stop="20261103040000 +0000" channel="SKY SPORTS 16 MX">
     <desc lang="es">R. Racing Club vs. Real Madrid.</desc>
     <title lang="es">R. Racing Club vs. Real Madrid</title>
-  </programme>
-  <programme start="20261031200000 +0000" stop="20261101000000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1030.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101000000 +0000" stop="20261101040000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1030.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101040000 +0000" stop="20261101080000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101080000 +0000" stop="20261101120000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101120000 +0000" stop="20261101160000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101200000 +0000" stop="20261102000000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102000000 +0000" stop="20261102040000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102040000 +0000" stop="20261102080000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102080000 +0000" stop="20261102120000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102120000 +0000" stop="20261102160000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102160000 +0000" stop="20261102200000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102200000 +0000" stop="20261103000000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261103000000 +0000" stop="20261103040000 +0000" channel="SKY SPORTS 21 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261031200000 +0000" stop="20261101000000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1030.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101000000 +0000" stop="20261101040000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1030.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101040000 +0000" stop="20261101080000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101080000 +0000" stop="20261101120000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101120000 +0000" stop="20261101160000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261101200000 +0000" stop="20261102000000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102000000 +0000" stop="20261102040000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102040000 +0000" stop="20261102080000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1100.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102080000 +0000" stop="20261102120000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102120000 +0000" stop="20261102160000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102160000 +0000" stop="20261102200000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261102200000 +0000" stop="20261103000000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
-  </programme>
-  <programme start="20261103000000 +0000" stop="20261103040000 +0000" channel="SKY SPORTS 24 MX">
-    <title>UEFA Euro 2024</title>
-    <desc>Las selecciones nacionales europeas vuelven a encontrarse en el evento más importante de la región en búsqueda de ser coronados como campeones de Europa.</desc>
-    <date>20240614</date>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">240</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p27637113_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=27637113&amp;tmsId=SH051735250000</url>
-    <episode-num system="dd_progid">SH05173525.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1101.</episode-num>
-    <episode-num system="original-air-date">2024-06-14 00:00:00</episode-num>
-    <previously-shown start="20240614000000" />
   </programme>
 	<programme start="20261101000000 +0100" stop="20261101010000 +0100" channel="ESPN">
     <title>SportsCenter</title>
@@ -99080,6 +98378,145 @@
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FO5GCIC07A9ZKRJY112B.jpg/a:h/im/wrc_sau_25_s_ogier_1612.jpg?ht=exp=1787214491+hmac=ce31f88ac8f5d380ba9d6e36481befb2" />
 	</programme>
+	<programme start="20261101172200 +0100" stop="20261101193000 +0100" channel="Movistar Plus">
+    <title>Jornada 9: Liverpool - Arsenal T26/27 · Premier League</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Fútbol) Segundo contra cuarto de la Premier League. El Liverpool en progresión con Iraola y el Arsenal lanzado a por el liderato con Arteta. Duelo de técnicos vascos en Anfield tras competir ante Chelsea y Fleetwood respetivamente entre semana en Copa Liga.
+· País: Reino Unido</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4499391" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261101151500 +0100" stop="20261101153000 +0100" channel="M+ Vamos">
+    <title>Lo mejor de Bakalá T26/27 E8</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4414959" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261101153000 +0100" stop="20261101180600 +0100" channel="M+ Vamos">
+    <title>DIRECTO Final: Lehecka - Vacherot T2026 · Torneo de Basilea</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
+    <category>Deportes, Tenis</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4515466" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261101230500 +0100" stop="20261102000000 +0100" channel="M+ Vamos">
+    <title>Informe Plus+. Andrea Fuentes, locura artística</title>
+    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) Andrea Fuentes ha sido uno de los nombres del deporte español en 2025. Pero su historia va mucho más allá, desde sus años de nadadora a las órdenes de Anna Tarrés a su medalla de plata con Estados Unidos, digna de un guion de Hollywood.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4448170" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261102000000 +0100" stop="20261102010000 +0100" channel="M+ Vamos">
+    <title>Beckhamanía</title>
+    <sub-title>2021 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Programa deportes) A finales de los años 90, Beckham transformó la tradicional imagen del futbolista con su estilo único y atrevido y su matrimonio con la Spice Girl Victoria Adams. Una unión que terminó de catapultarle como una marca global cuyo legado continúa hoy.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F3952081" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261102010000 +0100" stop="20261102021500 +0100" channel="M+ Vamos">
+    <title>01/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4488243" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261102021500 +0100" stop="20261102040500 +0100" channel="M+ Vamos">
+    <title>Jornada 9: Liverpool - Arsenal T26/27 · Premier League</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Fútbol) Segundo contra cuarto de la Premier League. El Liverpool en progresión con Iraola y el Arsenal lanzado a por el liderato con Arteta. Duelo de técnicos vascos en Anfield tras competir ante Chelsea y Fleetwood respetivamente entre semana en Copa Liga.
+· País: Reino Unido</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4499391" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261102040500 +0100" stop="20261102055500 +0100" channel="M+ Vamos">
+    <title>Final: Lehecka - Vacherot T2026 · Torneo de Basilea</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
+    <category>Deportes, Tenis</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4515466" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261102055500 +0100" stop="20261102074500 +0100" channel="M+ Vamos">
+    <title>Final: De Miñaur - Alcaraz T2026 · Torneo de Viena</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Tenis) Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
+    <category>Deportes, Tenis</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4515468" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261101160200 +0100" stop="20261101165100 +0100" channel="M+ Vamos 2">
+    <title>Informe Plus+. Canito. El ídolo rebelde</title>
+    <sub-title>2023 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Programa deportes) José Cano "Canito" fue un jugador singular con una biografía tormentosa. Enorme jugador, destinado a convertirse en uno de los grandes futbolistas de su época por su talento y su físico. Pero su carácter rebelde e indomable le impidió alcanzar la gloria.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4332410" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
 	<programme start="20261101090000 +0100" stop="20261101093000 +0100" channel="M+ Golf">
     <title>PGA Tour The Cut T2026 E13</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
@@ -100875,20 +100312,6 @@
 		</rating>
 		<star-rating system="ES">
 			<value>6.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261101172000 +0100" stop="20261101193000 +0100" channel="Movistar Plus">
-    <title>DIRECTO Jornada 9: Liverpool - Arsenal T26/27 · Premier League</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Fútbol) Segundo contra cuarto de la Premier League. El Liverpool en progresión con Iraola y el Arsenal lanzado a por el liderato con Arteta. Duelo de técnicos vascos en Anfield tras competir ante Chelsea y Fleetwood respetivamente entre semana en Copa Liga.
-· País: Reino Unido</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4499391" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261031080000 +0100" stop="20261031102000 +0100" channel="Primera Federación">
