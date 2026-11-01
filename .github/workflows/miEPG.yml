@@ -46,7 +46,7 @@ jobs:
         if [ -f epg_acumulado.xml ]; then
           git add epg_acumulado.xml -f
         fi
-        git commit -m "Nuevo miEPG.xml $(date '+%d/%m %H:%M')" || git commit --allow-empty -m "Nuevo miEPG.xml $(date '+%d/%m %H:%M') (sin cambios)"
+        git diff --cached --quiet || git commit -m "Nuevo miEPG.xml $(date '+%d/%m %H:%M')"
         git pull --rebase origin main || true
         git push
       env:
