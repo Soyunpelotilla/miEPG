@@ -198,10 +198,7 @@ DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613
 0417,ESPN 7 CL,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0417.jpg
 Telemundo.Satellite.Feed.us2,Telemundo East,https://iptv-epg.org/logos/USA/Telemundo.us.png
 Telemundo.Satellite.Feed.Pacific.us2,Telemundo West,https://iptv-epg.org/logos/USA/TelemundoWest.us.png
-
-
-
-FoxDeportes.us,FOX DEPORTES,https://iptv-epg.org/logos/USA/FoxDeportes.us.png
+Fox.Deportes.HD.us2,FOX DEPORTES,https://iptv-epg.org/logos/USA/FoxDeportes.us.png
 FS1.Fox.Sports.1.HD.us2,FOX SPORTS 1 US,https://iptv-epg.org/logos/USA/FoxSports1.us.png
 FS2.Fox.Sports.2.HD.us2,FOX SPORTS 2 US,https://iptv-epg.org/logos/USA/FoxSports2.us.png
 UK | TNT Sports 1,UK | TNT Sports 1,https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png
