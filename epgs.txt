@@ -3,3 +3,4 @@ https://i.mjh.nz/PlutoTV/es.xml.gz
 https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/es.xml.gz
 https://cdn.epg.guru/7dayiptv/Mexico.xml
 https://cdn.epg.guru/7dayiptv/Chile.xml
+https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz
