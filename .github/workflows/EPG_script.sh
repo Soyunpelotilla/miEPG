@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================================== 
 # Script: miEPG.sh 
-# Versión: 3.6 - MOD con User-Agent PC + anti-duplicados por solapamiento FIX + texto original
+# Versión: 3.6 - MOD con User-Agent PC + anti-duplicados + filtro UEFA solo 【entity-SKY SPORTS¦canonical_name=SKY SPORTS】 16 MX
 # ============================================================================== 
 
 sed -i '/^ *$/d' epgs.txt
@@ -97,7 +97,7 @@ for linea in "${canales[@]}"; do
     fi
 done
 
-echo "─── PROCESANDO LIMITES TEMPORALES Y ACUMULACIÓN (anti-solapamiento) ───"
+echo "─── PROCESANDO LIMITES TEMPORALES Y ACUMULACIÓN ───"
 [ -f epg_acumulado.xml ] && sed -n '/<programme/,/<\/programme>/p' epg_acumulado.xml >> EPG_temp2.xml
 
 dias_pasados=$(grep "dias-pasados=" variables.txt | cut -d'=' -f2 | xargs); dias_pasados=${dias_pasados:-0}
@@ -124,7 +124,10 @@ perl -i -ne '
         if ($titulo_actual ne "") {
             $clave_exact = $inicio_actual."-".$canal_actual;
             $clave_titulo = lc($canal_actual."-".$titulo_actual);
-            if ($inicio_actual < $c_old) { $pasados++; $imprimir=0; }
+            if ($titulo_actual =~ /UEFA Euro 2024/i && $canal_actual eq "SKY SPORTS 16 MX") {
+                $duplicados++; $imprimir=0;
+            }
+            elsif ($inicio_actual < $c_old) { $pasados++; $imprimir=0; }
             elsif ($inicio_actual > $c_new) { $futuros++; $imprimir=0; }
             elsif ($visto_exact{$clave_exact}) { $duplicados++; $imprimir=0; }
             elsif (exists $ultimo_fin{$canal_actual} && $inicio_actual < $ultimo_fin{$canal_actual} && $visto_titulo{$clave_titulo}) {
