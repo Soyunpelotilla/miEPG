@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor.xml.gz
 https://i.mjh.nz/PlutoTV/es.xml.gz
-https://cdn.epg.guru/7dayiptv/Mexico.xml
 https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/es.xml.gz
+https://cdn.epg.guru/7dayiptv/Mexico.xml
+https://cdn.epg.guru/7dayiptv/Chile.xml
