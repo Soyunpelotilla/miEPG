@@ -174,7 +174,7 @@ FOX SPORTS,FOX SPORTS,https://iptv-epg.org/logos/Mexico/FOXSports.mx.png
 FOX SPORTS 2,FOX SPORTS 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png
 FOX SPORTS 3,FOX SPORTS 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%203.png
 SkySports1(SKSPMX1).mx,SKY SPORTS 1 MX,https:sources/generic/generic_sources_h5.png
-Sky Sports 16,SKY SPORTS 16 MX,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png
+SkySports16.mx,SKY SPORTS 16 MX,https://iptv-epg.org/images/x_s1qxicw_tuE5dr-EulcCn-RivbCq_UBa6daLWgBiMfvd2gm--J82j86jS68cc7ZNzr6gj4m5MbkvQOEj5MIUQ5L9h7JwKK6Q8BFeW4pXquJj1x
 SkySports21(SKSPMX21).mx,SKY SPORTS 21 MX,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 SkySports24(SKSPMX24).mx,SKY SPORTS 24 MX,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 ESPN,ESPN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png
