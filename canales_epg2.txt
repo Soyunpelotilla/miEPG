@@ -133,7 +133,7 @@
 686cd8bb9d079f48dbbdfecb,Metal Rocks,https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/colorLogoPNG_1756372280523.png
 6080381ab7c9ea00074ec64c,World Poker Tour,https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png
 65f96cd34e01740008ef1c97,Realmadrid TV,https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png
-6793ac47f5c74bff95d18a99,TOP BARÇA,https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/colorLogoPNG.png
+6793ac47f5c74bff95d18a99,Barça 24H,https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/colorLogoPNG_1793609335793.png
 660c29f80cd4630008f1547c,FIFA+,https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png
 6a43c8e19d516ba88f728627,Tennis Channel,https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/colorLogoPNG_1782827298629.png
 67921b873de7c8cf94233f52,UFC,https://images.pluto.tv/channels/67921b873de7c8cf94233f52/colorLogoPNG.png
