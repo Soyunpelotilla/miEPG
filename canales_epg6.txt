@@ -187,7 +187,6 @@ ClaroSports(CLAROHD).cl,Claro Sports,https://ebyl.tmsimg.com/assets/s72291_ld_h1
 ClaroSports(CSPSUR).cl,Claro Sports,https://ebyl.tmsimg.com/assets/s72291_ld_h15_ab.png
 Clic(AZCLIC).cl,Clic,https://ebyl.tmsimg.com/assets/s92197_ld_h15_ae.png
 CLOVER(CLOVP).cl,CLOVER,https://ebyl.tmsimg.com/assets/s126474_ld_h15_aa.png
-ClubMTV(CLMTVUK).cl,Club MTV,https://ebyl.tmsimg.com/assets/s24214_ld_h15_ae.png
 ClubMTV(CLUBINT).cl,Club MTV,https://ebyl.tmsimg.com/assets/s89006_ld_h15_ac.png
 CNNChile(CNNCH).cl,CNN Chile,https://ebyl.tmsimg.com/assets/s104408_ld_h15_aa.png
 CNNChileHD(CNNCHHD).cl,CNN Chile HD,https://ebyl.tmsimg.com/assets/s104408_ld_h15_aa.png

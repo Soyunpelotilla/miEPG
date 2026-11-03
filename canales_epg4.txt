@@ -184,9 +184,8 @@ Canela.TVDeportes(CADEPO).mx,Canela.TV Deportes,https://ebyl.tmsimg.com/assets/s
 Canela.TVHollywoodyMas(CAHOMA).mx,Canela.TV Hollywood y Mas,https://ebyl.tmsimg.com/assets/s129777_ld_h15_ab.png
 Canela.TVNarco-Drama(CANADR).mx,Canela.TV Narco-Drama,https://ebyl.tmsimg.com/assets/s129781_ld_h15_ab.png
 CaracolInternacionalHD(CARAIHD).mx,Caracol Internacional HD,https://ebyl.tmsimg.com/assets/s39719_ld_h15_ab.png
-CartoonNetwork(TOONL).mx,Cartoon Network,https://ebyl.tmsimg.com/assets/s59562_ld_h15_aa.png
 CartoonNetwork(TOONLS).mx,Cartoon Network,https://ebyl.tmsimg.com/assets/s59562_ld_h15_aa.png
-CartoonNetwork(TOONLHD).mx,Cartoon Network,https://ebyl.tmsimg.com/assets/s59562_ld_h15_aa.png
+CartoonNetwork(TOONLSH).mx,Cartoon Network,https://ebyl.tmsimg.com/assets/s59562_ld_h15_aa.png
 CartoonNetworkHD(TOONHD).mx,Cartoon Network HD,https://ebyl.tmsimg.com/assets/s60048_ld_h15_ac.png
 Cartoonito(CARTOM).mx,Cartoonito,https://ebyl.tmsimg.com/assets/s26089_ld_h15_ac.png
 Cartoonito(CARTHDP).mx,Cartoonito,https://ebyl.tmsimg.com/assets/s26089_ld_h15_ac.png
@@ -234,7 +233,6 @@ CLASS(DISHCLA).mx,CLASS,https://ebyl.tmsimg.com/sources/generic/generic_sources_
 ClassicArtsShowcase(CAS).mx,Classic Arts Showcase,https://ebyl.tmsimg.com/assets/s16325_ld_h6_aa.png
 Clic(AZCLIC).mx,Clic,https://ebyl.tmsimg.com/assets/s92197_ld_h15_ae.png
 Clic(AZCLICH).mx,Clic,https://ebyl.tmsimg.com/assets/s92197_ld_h15_ae.png
-ClubMTV(CLMTVUK).mx,Club MTV,https://ebyl.tmsimg.com/assets/s24214_ld_h15_ae.png
 ClubMTV(CLUBINT).mx,Club MTV,https://ebyl.tmsimg.com/assets/s89006_ld_h15_ac.png
 CMCanaldelaMusica(CM).mx,CM Canal de la Musica,https://ebyl.tmsimg.com/assets/s25042_ld_h9_ab.png
 CNBC(CNBCMEX).mx,CNBC,https://ebyl.tmsimg.com/assets/GNLZZGG002NF468.png
