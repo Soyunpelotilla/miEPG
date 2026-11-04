@@ -144,6 +144,7 @@ CaliTV(Independent)(CALITV).mx,Cali TV,https://ebyl.tmsimg.com/assets/s80064_ld_
 Canal(á)HD(CANAHD).mx,Canal (á) HD,https://ebyl.tmsimg.com/assets/s18075_ld_h15_aa.png
 Canal5(C5NET)(XHGC).mx,Canal 5,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 Canal5(XHGCID5).mx,Canal 5,https:sources/generic/generic_sources_h5.png
+Canal6(MULTVHD)(XHTDMXI1).mx,Canal 6,https://ebyl.tmsimg.com/assets/s91505_ld_h15_ab.png
 Canal6(XHTDMXD).mx,Canal 6,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 Canal6Plus(MMEDP1).mx,Canal 6 Plus,https://ebyl.tmsimg.com/assets/s99620_ld_h15_aa.png
 Canal6PlusHD(CANAL6P).mx,Canal 6 Plus HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
@@ -186,6 +187,7 @@ Canela.TVNarco-Drama(CANADR).mx,Canela.TV Narco-Drama,https://ebyl.tmsimg.com/as
 CaracolInternacionalHD(CARAIHD).mx,Caracol Internacional HD,https://ebyl.tmsimg.com/assets/s39719_ld_h15_ab.png
 CartoonNetwork(TOONLS).mx,Cartoon Network,https://ebyl.tmsimg.com/assets/s59562_ld_h15_aa.png
 CartoonNetwork(TOONLSH).mx,Cartoon Network,https://ebyl.tmsimg.com/assets/s59562_ld_h15_aa.png
+CartoonNetwork(TOONLHD).mx,Cartoon Network,https://ebyl.tmsimg.com/assets/s59562_ld_h15_aa.png
 CartoonNetworkHD(TOONHD).mx,Cartoon Network HD,https://ebyl.tmsimg.com/assets/s60048_ld_h15_ac.png
 Cartoonito(CARTOM).mx,Cartoonito,https://ebyl.tmsimg.com/assets/s26089_ld_h15_ac.png
 Cartoonito(CARTHDP).mx,Cartoonito,https://ebyl.tmsimg.com/assets/s26089_ld_h15_ac.png
@@ -199,6 +201,7 @@ CindieTV(CINDTV).mx,Cindie TV,https://ebyl.tmsimg.com/assets/s145043_ld_h15_ab.p
 CineLatino(CINL).mx,Cine Latino,https://ebyl.tmsimg.com/assets/s15296_ld_h9_ab.png
 CineMexicano(CMCMX).mx,Cine Mexicano,https://ebyl.tmsimg.com/assets/s16424_ld_h9_aa.png
 CineMexicanoUSFeed(CMEX).mx,Cine Mexicano US Feed,https://ebyl.tmsimg.com/assets/s44714_ld_h15_aa.png
+CineMexicanoUSFeed(Pacific)(CMEXP).mx,Cine Mexicano US Feed (Pacific),https://ebyl.tmsimg.com/assets/s44714_ld_h15_aa.png
 Cinecanal(CCL).mx,Cinecanal,https://ebyl.tmsimg.com/assets/s105609_ld_h15_aa.png
 Cinecanal(CCLHD).mx,Cinecanal,https://ebyl.tmsimg.com/assets/s105609_ld_h15_aa.png
 Cinecanal(GIGACCL).mx,Cinecanal,https://ebyl.tmsimg.com/assets/s105609_ld_h15_aa.png
@@ -210,6 +213,8 @@ Cinema(CINEM).mx,Cinema,https://ebyl.tmsimg.com/assets/s95687_ld_h15_ad.png
 Cinema(CINEMHD).mx,Cinema,https://ebyl.tmsimg.com/assets/s95687_ld_h15_ad.png
 CinemaPlatino(CINPLA).mx,Cinema Platino,https://ebyl.tmsimg.com/assets/s16522_ld_h15_aa.png
 CinemaPlatino2(CINPL2).mx,Cinema Platino 2,https://ebyl.tmsimg.com/assets/s16522_ld_h15_aa.png
+CinemaPlatino2HD(CPLAT2HD).mx,Cinema Platino 2 HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+CinemaPlatinoHD(CINPLAHD).mx,Cinema Platino HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 CinemaPlatinoMultiplex(PLATMPX).mx,Cinema Platino Multiplex,https://ebyl.tmsimg.com/assets/s16522_ld_h15_aa.png
 Cinemax(CINELW).mx,Cinemax,https://ebyl.tmsimg.com/assets/s16794_ld_h15_ab.png
 Cinemax(MAXPNAM).mx,Cinemax,https://ebyl.tmsimg.com/assets/s16794_ld_h15_ab.png
@@ -225,6 +230,7 @@ ClaroSports(CLAJO4S).mx,Claro Sports,https://ebyl.tmsimg.com/assets/s86779_ld_h1
 ClaroSports(CLARDIS).mx,Claro Sports,https://ebyl.tmsimg.com/assets/s72291_ld_h15_ab.png
 ClaroSports(CLARDIH).mx,Claro Sports,https://ebyl.tmsimg.com/assets/s72291_ld_h15_ab.png
 ClaroSports(CLARMXH).mx,Claro Sports,https://ebyl.tmsimg.com/assets/s72291_ld_h15_ab.png
+ClaroSports(CLARJO2).mx,Claro Sports,https://ebyl.tmsimg.com/assets/s119143_ld_h15_aa.png
 ClaroSports2(CLAROLT2H).mx,Claro Sports 2,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 ClaroSports3(CLAROLT3H).mx,Claro Sports 3,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 ClaroSports4(CLAROLT4H).mx,Claro Sports 4,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
@@ -241,6 +247,7 @@ CNBCHD(CNBCEHD).mx,CNBC HD,https://ebyl.tmsimg.com/assets/GNLZZGG002NFJQJ.png
 CNN(CNNHDC).mx,CNN,https://ebyl.tmsimg.com/assets/s10142_ld_h15_aa.png
 CNNEnEspañol(CNNL).mx,CNN En Español,https://ebyl.tmsimg.com/assets/s17054_ld_h15_ab.png
 CNNenEspañol(CNNEM).mx,CNN en Español,https://ebyl.tmsimg.com/assets/s17054_ld_h15_ab.png
+CNNenEspañol(CNNEMHD).mx,CNN en Español,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 CNNHD(CNNHD).mx,CNN HD,https://ebyl.tmsimg.com/assets/s58646_ld_h15_ac.png
 CNNHD(CNNEUVM).mx,CNN HD,https://ebyl.tmsimg.com/assets/s68053_ld_h15_aa.png
 CNNHeadlineNewsLatinAm(CNNHL).mx,CNN Headline News LatinAm,https://ebyl.tmsimg.com/assets/s20436_ld_h15_aa.png
@@ -319,7 +326,6 @@ DreamworksHD(DREAMWL).mx,Dreamworks HD,https://ebyl.tmsimg.com/assets/s123192_ld
 DuckTvHD(Spanish)(DUCKHSP).mx,DuckTv HD (Spanish),https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 DuplicateXEIMTTVMetropolitan(Canal22)(DPXEIMT).mx,Duplicate XEIMT TV Metropolitan (Canal 22),https://ebyl.tmsimg.com/assets/s116168_ld_h15_aa.png
 DuplicateXEIPN-TVCanal11(OnceTV)(DPXEIPN).mx,Duplicate XEIPN-TV Canal 11 (Once TV),https://ebyl.tmsimg.com/assets/GNLZZGG003NY4FL.png
-DuplicateXEQ(DUPXEQ).mx,Duplicate XEQ,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 DuplicateXHIMTCanal7TVAzteca(DPXHIMT).mx,Duplicate XHIMT Canal 7 TV Azteca,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 DuplicateXHTV-TDT(DXHTVDT).mx,Duplicate XHTV-TDT,https://ebyl.tmsimg.com/assets/s66635_ld_h15_ac.png
 DW(DWEUR).mx,DW,https://ebyl.tmsimg.com/assets/s79318_ld_h15_ab.png
@@ -375,6 +381,7 @@ EWTNEspañol(EWTNES).mx,EWTN Español,https://ebyl.tmsimg.com/assets/s52649_ld_h
 EWTNLatinAmerica(EWTNL).mx,EWTN Latin America,https://ebyl.tmsimg.com/assets/s16350_ld_h9_ab.png
 EXA(DISHEXA).mx,EXA,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 EXATV(EXATV).mx,EXA TV,https://ebyl.tmsimg.com/assets/s47403_ld_h15_aa.png
+ExaTVHD(EXATVH).mx,Exa TV HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 ExcélsiorTelevisión(EXCELTV).mx,Excélsior Televisión,https://ebyl.tmsimg.com/assets/s82353_ld_h15_aa.png
 ExcélsiorTelevisiónHD(EXCELHD).mx,Excélsior Televisión HD,https://ebyl.tmsimg.com/assets/s82353_ld_h15_aa.png
 ÉxitosdeSalsayMerengue(SMESP02).mx,Éxitos de Salsa y Merengue,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
@@ -531,10 +538,18 @@ KCOS-DT(PBS)(KCOSDT).mx,KCOS-DT,https://logos.jesmann.com/kcosdt.png
 KCOS-DT3(HD06)(KCOSDT3).mx,KCOS-DT3,https://ebyl.tmsimg.com/assets/s101364_ld_h15_ac.png
 KDBC-DT(CBS)(KDBCDT).mx,KDBC-DT,https://logos.jesmann.com/kdbcdt.png
 KDBC-DT2(MNT)(KDBCDT2).mx,KDBC-DT2,https://logos.jesmann.com/kdbcdt2.png
+KFMB-DT2(SDFeed)(MNT)(KFMB2SD).mx,KFMB-DT2 (SD Feed),https://ebyl.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png
 KFOX-DT(FOX)(KFOXDT).mx,KFOX-DT,https://logos.jesmann.com/kfoxdt.png
+KGTV(ABC)(KGTV).mx,KGTV,https://ebyl.tmsimg.com/assets/s10003_ld_h15_ac.png
+KNSD(NBC)(KNSD).mx,KNSD,https://ebyl.tmsimg.com/assets/s10991_ld_h15_ad.png
+KPBS(PBS)(KPBS).mx,KPBS,https://ebyl.tmsimg.com/assets/s10637_ld_h15_aa.png
+KSWB(FOX)(KSWB).mx,KSWB,https://ebyl.tmsimg.com/assets/s10212_ld_h15_ab.png
 KTDO-DT(TELE)(KTDODT).mx,KTDO-DT,https://ebyl.tmsimg.com/assets/s73245_ld_h15_ac.png
+KTLM(TELE)(KTLM).mx,KTLM,https://ebyl.tmsimg.com/assets/s10239_ld_h15_ab.png
 KTSM-DT(NBC)(KTSMDT).mx,KTSM-DT,https://logos.jesmann.com/ktsmdt.png
 KTSM-DT2(ESTRLLA)(KTSMDT2).mx,KTSM-DT2,https://ebyl.tmsimg.com/assets/s65064_ld_h15_af.png
+KUAN-LD(TELE)(KUANLD).mx,KUAN-LD,https://ebyl.tmsimg.com/assets/s107246_ld_h15_aa.png
+KUSI(CW)(KUSI).mx,KUSI,https://ebyl.tmsimg.com/assets/s51306_ld_h15_ac.png
 KVIA-DT(ABC)(KVIADT).mx,KVIA-DT,https://logos.jesmann.com/kviadt.png
 LaHabana(LAHABAN).mx,La Habana,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 LaLigaSkySportsMexico(LALIGAM).mx,La Liga Sky Sports Mexico,https://ebyl.tmsimg.com/assets/s52300_ld_h9_aa.png
@@ -562,6 +577,7 @@ MeganoticiasMX(MNMX).mx,Meganoticias MX,https://ebyl.tmsimg.com/assets/s16292_ld
 MeganoticiasMXHD(MEGAMXH).mx,Meganoticias MX HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 MegaSports1(MSP1).mx,MegaSports 1,https://ebyl.tmsimg.com/assets/s83421_ld_h15_aa.png
 MegaSports2(MSP2).mx,MegaSports 2,https://ebyl.tmsimg.com/assets/s83421_ld_h15_aa.png
+MegaSports3(MSP3).mx,MegaSports 3,https://ebyl.tmsimg.com/assets/s83421_ld_h15_aa.png
 Metro(METCAN).mx,Metro,https://ebyl.tmsimg.com/assets/s18242_ld_h15_aa.png
 MexicoTravelChannel(MTCH).mx,Mexico Travel Channel,https://ebyl.tmsimg.com/assets/s60939_ld_h15_aa.png
 Milenio(MILENIO).mx,Milenio,https://ebyl.tmsimg.com/assets/s61719_ld_h15_ab.png
@@ -573,7 +589,6 @@ MLBExtraInningsHD6(MLBH6).mx,MLB Extra Innings HD 6,https://ebyl.tmsimg.com/asse
 MLBExtraInningsHD7(MLBH7).mx,MLB Extra Innings HD 7,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
 MLBExtraInningsHD8(MLBH8).mx,MLB Extra Innings HD 8,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
 MLBExtraInningsHD9(MLBH9).mx,MLB Extra Innings HD 9,https://ebyl.tmsimg.com/assets/s95839_ld_h15_ab.png
-MonteMariaTV(MMTV).mx,Monte Maria TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 MoonbugKids(MOONB).mx,Moonbug Kids,https://ebyl.tmsimg.com/assets/s123993_ld_h15_aa.png
 MosaicoLocalyNacional(MLOCNAC).mx,Mosaico Local y Nacional,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 MotoADV(MOTOADV).mx,Moto ADV,https://ebyl.tmsimg.com/assets/s119829_ld_h9_aa.png
@@ -638,6 +653,7 @@ OutdoorChannelHD(OUTHD).mx,Outdoor Channel HD,https://ebyl.tmsimg.com/assets/s46
 OutdoorChannelHD(OUTMXHD).mx,Outdoor Channel HD,https://ebyl.tmsimg.com/assets/s46737_ld_h15_ab.png
 Pakapaka(PAKA).mx,Pakapaka,https://ebyl.tmsimg.com/assets/s87140_ld_h15_ab.png
 Panico(PANICO).mx,Panico,https://ebyl.tmsimg.com/assets/s73535_ld_h15_aa.png
+PánicoHD(PANICOH).mx,Pánico HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 Paramount(PARALN).mx,Paramount,https://ebyl.tmsimg.com/assets/s106214_ld_h15_aa.png
 ParamountNetwork(PARAMNT).mx,Paramount Network,https://ebyl.tmsimg.com/assets/s106215_ld_h15_aa.png
 ParamountNetwork(PARMNHD).mx,Paramount Network,https://ebyl.tmsimg.com/assets/s91120_ld_h15_ab.png
@@ -651,6 +667,7 @@ Playboy(PLAYLA).mx,Playboy,https://ebyl.tmsimg.com/assets/s54335_ld_h15_aa.png
 PlayboyLatinAmEng(PLAYLE).mx,Playboy Latin Am Eng,https://ebyl.tmsimg.com/assets/s16788_ld_h15_aa.png
 PlayboyLatinAmericaHD(PLAYLHD).mx,Playboy Latin America HD,https://ebyl.tmsimg.com/assets/s70673_ld_h15_aa.png
 PlayboyTVLatinAmerica(PLAYL).mx,Playboy TV Latin America,https://ebyl.tmsimg.com/assets/s16788_ld_h15_aa.png
+PlayboyTVLatinAmerica&amp;Iberia(6HourBlocks)(PLBINT6).mx,Playboy TV Latin America &amp; Iberia (6 Hour Blocks),https://ebyl.tmsimg.com/assets/s16788_ld_h15_aa.png
 PlimPlim(PLIMTV).mx,Plim Plim,https://ebyl.tmsimg.com/assets/s168198_ld_h15_aa.png
 PluralTV(PLURTV).mx,Plural TV,https://ebyl.tmsimg.com/assets/GNLZZGG002NX8RT.png
 PPEBARKER(PPEBARK).mx,PPE BARKER,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
@@ -680,9 +697,9 @@ RTenEspañolHD(RTESNHD).mx,RT en Español HD,https://ebyl.tmsimg.com/sources/gen
 SeXtreme(SEXTRME).mx,SeXtreme,https://ebyl.tmsimg.com/assets/s72143_ld_h15_aa.png
 SeXtremeEnglish(SXTRENG).mx,SeXtreme English,https://ebyl.tmsimg.com/assets/s72143_ld_h15_aa.png
 SexyHot(SEXYHOT).mx,Sexy Hot,https://ebyl.tmsimg.com/assets/s56088_ld_h15_aa.png
-ShortsSD(SHORTSD).mx,Shorts SD,https://ebyl.tmsimg.com/assets/s67454_ld_h15_aa.png
 ShortsTV(SHORTS).mx,Shorts TV,https://ebyl.tmsimg.com/assets/s67454_ld_h15_aa.png
 ShowBusinessTV(SHWBUSI).mx,Show Business TV,https://ebyl.tmsimg.com/assets/s79893_ld_h9_aa.png
+SintesisTV(SINTESI).mx,Sintesis TV,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 SirajTV(SIRAJTV).mx,Siraj TV,https://ebyl.tmsimg.com/assets/s32207_ld_h9_ab.png
 SKYLocalNews(SKYLN).mx,SKY Local News,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 SkyNewsInternationalAmericas(SKYNAMER).mx,Sky News International Americas,https://ebyl.tmsimg.com/assets/s170841_ld_h15_aa.png
@@ -707,8 +724,10 @@ StarChannel(STARMHD).mx,Star Channel,https://ebyl.tmsimg.com/assets/s88534_ld_h1
 StarChannel(STARGHD).mx,Star Channel,https://ebyl.tmsimg.com/assets/s75423_ld_h15_ac.png
 StarChannelHD(STARESHD).mx,Star Channel HD,https://ebyl.tmsimg.com/assets/s87056_ld_h15_aa.png
 StarTVE(STARHD).mx,Star TVE,https://ebyl.tmsimg.com/assets/s106724_ld_h15_aa.png
+Stingray'60s(SM087).mx,Stingray '60s,https://ebyl.tmsimg.com/assets/s75400_ld_h15_aa.png
 Stingray2000's(SMESP25).mx,Stingray 2000's,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayAdultAlternative(SMUS18).mx,Stingray Adult Alternative,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
+StingrayAdultAlternative(SMESP19).mx,Stingray Adult Alternative,https://ebyl.tmsimg.com/assets/s77001_ld_h15_aa.png
 StingrayAños70(SMESP29).mx,Stingray Años 70,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayAños80(SMESP27).mx,Stingray Años 80,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayAños90(SMESP72).mx,Stingray Años 90,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
@@ -719,6 +738,7 @@ StingrayClásicosdelSoulyelR&amp;B(SMESP64).mx,Stingray Clásicos del Soul y el 
 StingrayClásicosIndie(SMESP67).mx,Stingray Clásicos Indie,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayClasicosParaTodos(SMESP49).mx,Stingray Clasicos Para Todos,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayClassicMasters(SMUS38).mx,Stingray Classic Masters,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
+StingrayClassicRock(SMESP34).mx,Stingray Classic Rock,https://ebyl.tmsimg.com/assets/s77018_ld_h15_aa.png
 StingrayClassica(SKYCLA).mx,Stingray Classica,https://ebyl.tmsimg.com/assets/s102398_ld_h15_ab.png
 StingrayClassica(CLASMX).mx,Stingray Classica,https://ebyl.tmsimg.com/assets/s121177_ld_h15_aa.png
 StingrayClubdeBaile(SMESP22).mx,Stingray Club de Baile,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
@@ -740,6 +760,8 @@ StingrayÉxitosTropicales(SMESP01).mx,Stingray Éxitos Tropicales,https://ebyl.t
 StingrayFelicesFiestas(SMUS47).mx,Stingray Felices Fiestas,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayFelicesFiestas(SMESP21).mx,Stingray Felices Fiestas,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayFlashback70's(SMUS05).mx,Stingray Flashback 70's,https://ebyl.tmsimg.com/assets/s67565_ld_h15_aa.png
+StingrayGreatestHits(SMESP14).mx,Stingray Greatest Hits,https://ebyl.tmsimg.com/assets/s76996_ld_h15_aa.png
+StingrayGroove(SMESP28).mx,Stingray Groove,https://ebyl.tmsimg.com/assets/s77024_ld_h15_aa.png
 StingrayGroove(DiscoandFunk)(SMUS09).mx,Stingray Groove (Disco and Funk),https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayHardRock(SMESP36).mx,Stingray Hard Rock,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayHeavyMetal(SMUS15).mx,Stingray Heavy Metal,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
@@ -762,6 +784,7 @@ StingrayLoud(STRLOUD).mx,Stingray Loud,https://ebyl.tmsimg.com/assets/s114659_ld
 StingrayMaestrosdelClasico(SMESP48).mx,Stingray Maestros del Clasico,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayMaestrosdelJazz(SMESP41).mx,Stingray Maestros del Jazz,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayMariachiParaSiempre(SMESP71).mx,Stingray Mariachi Para Siempre,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
+StingrayMaximumParty(SM046).mx,Stingray Maximum Party,https://ebyl.tmsimg.com/assets/s21731_ld_h15_aa.png
 StingrayMaximumParty(SMUS08).mx,Stingray Maximum Party,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayMPB(MúsicaPopularBrasileira)(SMESP54).mx,Stingray MPB (Música Popular Brasileira),https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayMúsicadelMundo(SMESP12).mx,Stingray Música del Mundo,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
@@ -795,7 +818,10 @@ StingraySwingingStandardsUS(SMUS03).mx,Stingray Swinging Standards US,https://eb
 StingrayTango(SMESP70).mx,Stingray Tango,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayTejanoyTex-Mex(TEJANO).mx,Stingray Tejano y Tex-Mex,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayTheSpa(SMUS35).mx,Stingray The Spa,https://ebyl.tmsimg.com/assets/s21624_ld_h15_ac.png
+StingrayTotalHits-UK(SMESP15).mx,Stingray Total Hits - UK,https://ebyl.tmsimg.com/assets/s76997_ld_h15_aa.png
+StingrayTotalHitsSpain(SM121).mx,Stingray Total Hits Spain,https://ebyl.tmsimg.com/assets/s88790_ld_h15_aa.png
 StingrayTotalHitsUK(SM052).mx,Stingray Total Hits UK,https://ebyl.tmsimg.com/assets/s75406_ld_h15_aa.png
+StingrayUrbanBeats(SMUS28D).mx,Stingray Urban Beats,https://ebyl.tmsimg.com/assets/s113307_ld_h15_ab.png
 StingrayViejitasperoBuenísimas(SMESP30).mx,Stingray Viejitas pero Buenísimas,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayVivaMexico(SMESP09).mx,Stingray Viva Mexico,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
 StingrayY2K(STNGY2K).mx,Stingray Y2K,https://ebyl.tmsimg.com/assets/s95856_ld_h15_aa.png
@@ -849,6 +875,7 @@ TraceSportsStarsInternationalHD(TRCSPHD).mx,Trace Sports Stars International HD,
 TravelXP4K(TRVXP4K).mx,Travel XP 4K,https://ebyl.tmsimg.com/assets/s102898_ld_h15_aa.png
 TravelxpLatino(TXPL).mx,Travelxp Latino,https://ebyl.tmsimg.com/assets/s139283_ld_h15_aa.png
 truTV(TRUTV).mx,truTV,https://ebyl.tmsimg.com/assets/s10153_ld_h15_ad.png
+TuCanal(Independent)(TUCSTGO).mx,Tu Canal,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 TUDN(TUDNM).mx,TUDN,https://ebyl.tmsimg.com/assets/s65129_ld_h15_aa.png
 TUDN(TUDNMH).mx,TUDN,https://ebyl.tmsimg.com/assets/s65129_ld_h15_aa.png
 TUDN(TUDNC).mx,TUDN,https://ebyl.tmsimg.com/assets/s89113_ld_h15_ac.png
@@ -864,11 +891,13 @@ TVTabasquena(TVT).mx,TV Tabasquena,https://ebyl.tmsimg.com/sources/generic/gener
 TVUNAM(UNAIZD2).mx,TV UNAM,https://ebyl.tmsimg.com/assets/s116169_ld_h15_aa.png
 TVUnam(IZUNAIZZ).mx,TV Unam,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 TV5LatinAmerica(TV5L).mx,TV5 Latin America,https://ebyl.tmsimg.com/assets/s16422_ld_h15_aa.png
+TV5LatinAmericaFrenchHD(TV5LFRH).mx,TV5 Latin America French HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 TV5MondeEuropeHD(TV5MHD).mx,TV5 Monde Europe HD,https://ebyl.tmsimg.com/assets/GNLZZGG002M09E0.png
 TVCDelayFeed(TVCD).mx,TVC Delay Feed,https://ebyl.tmsimg.com/assets/s16292_ld_h9_ab.png
 TVCDeportes(TVCDEP).mx,TVC Deportes,https://ebyl.tmsimg.com/assets/s57580_ld_h15_aa.png
 TVCDEPORTES(TVCDEH).mx,TVC DEPORTES,https://ebyl.tmsimg.com/assets/s57580_ld_h15_aa.png
 TVCDeportes2(TVCDEP2).mx,TVC Deportes 2,https://ebyl.tmsimg.com/assets/s76283_ld_h15_aa.png
+TVCDeportes2HD(TVCDEP2H).mx,TVC Deportes 2 HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 TVE(TVEI).mx,TVE,https://ebyl.tmsimg.com/assets/s16217_ld_h15_aa.png
 TVE(TVE).mx,TVE,https://ebyl.tmsimg.com/assets/s76112_ld_h15_aa.png
 TVEAmericaTelevisionEspañolaHD(TVEIH).mx,TVE America Television Española HD,https://ebyl.tmsimg.com/assets/s116082_ld_h15_aa.png
@@ -940,7 +969,6 @@ XEPM-TDT(ESTRNET)(XEPMTDT).mx,XEPM-TDT,https://ebyl.tmsimg.com/assets/s116151_ld
 XEPM-TDT2(ESTRNET)(XEPMTDT2).mx,XEPM-TDT2,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 XERV-TDT(Independent)(XERVTDT).mx,XERV-TDT,https://ebyl.tmsimg.com/assets/s26130_ld_h15_aa.png
 XET-TDT(C5NET)(XETTDT).mx,XET-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
-XETV(C5NET)(XETV).mx,XETV,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 XETV-TDT(C5NET)(XETVTDT).mx,XETV-TDT,https://ebyl.tmsimg.com/assets/s116152_ld_h15_aa.png
 XETV-TDT2(NU9NET)(XETVTDT2).mx,XETV-TDT2,https://ebyl.tmsimg.com/assets/s116171_ld_h15_aa.png
 XEWSpecialEditforCablevision(ESTRNET)(XEW2).mx,XEW Special Edit for Cablevision,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
