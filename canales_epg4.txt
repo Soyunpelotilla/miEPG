@@ -101,7 +101,6 @@ AYMSports6HD(AYMSP6H).mx,AYM Sports 6 HD,https://ebyl.tmsimg.com/sources/generic
 AyMSportsHD(AYMHD).mx,AyM Sports HD,https://ebyl.tmsimg.com/assets/GNLZZGG0036Y9JW.png
 Azteca1(XHDFSTR).mx,Azteca 1,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 Azteca7(AZ7NET)(XHIMT).mx,Azteca 7,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
-Azteca7HD(XHIMID5).mx,Azteca 7 HD,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 Azteca7HD(IZXHIMI).mx,Azteca 7 HD,https:sources/generic/generic_sources_h5.png
 Azteca13-DelayHD(Independent)(AZDLYHD).mx,Azteca 13-Delay HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 Azteca24HD(AZ24HD).mx,Azteca 24 HD,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
@@ -150,11 +149,11 @@ Canal6Plus(MMEDP1).mx,Canal 6 Plus,https://ebyl.tmsimg.com/assets/s99620_ld_h15_
 Canal6PlusHD(CANAL6P).mx,Canal 6 Plus HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 Canal7Cancun(CANL7).mx,Canal 7 Cancun,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 Canal9(CAN9M).mx,Canal 9,https://ebyl.tmsimg.com/assets/s110075_ld_h15_aa.png
+Canal13(Independent)(C13COLH).mx,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
 Canal13Colombia(CAN13).mx,Canal 13 Colombia,https://ebyl.tmsimg.com/assets/s55180_ld_h15_ah.png
 Canal14(C14MX).mx,Canal 14,https://ebyl.tmsimg.com/assets/GNLZZGG0023XQ01.png
 Canal14HD(C14MXHD).mx,Canal 14 HD,https://ebyl.tmsimg.com/assets/GNLZZGG0023XQ01.png
 Canal22(C22NET)(XEIMTTDT).mx,Canal 22,https://ebyl.tmsimg.com/assets/s116168_ld_h15_aa.png
-Canal22(C22NET)(XEIMTI2).mx,Canal 22,https://ebyl.tmsimg.com/assets/s116168_ld_h15_aa.png
 Canal22HD(C22NET)(XEIMTI1).mx,Canal 22 HD,https://ebyl.tmsimg.com/assets/s116168_ld_h15_aa.png
 CANAL22INTERNACIONAL(CNL22).mx,CANAL 22 INTERNACIONAL,https://ebyl.tmsimg.com/assets/s91071_ld_h15_aa.png
 CANAL22INTERNACIONALHD(CNL22HD).mx,CANAL 22 INTERNACIONAL HD,https://ebyl.tmsimg.com/assets/s91071_ld_h15_aa.png
@@ -163,6 +162,7 @@ Canal24HorasHD(CAN24).mx,Canal 24 Horas HD,https://ebyl.tmsimg.com/assets/s20742
 Canal24H(CAN24H).mx,Canal 24H,https://ebyl.tmsimg.com/assets/s90353_ld_h15_aa.png
 Canal26(CAN26HD).mx,Canal 26,https://ebyl.tmsimg.com/assets/s103103_ld_h15_ab.png
 Canal26(CAN26SD).mx,Canal 26,https://ebyl.tmsimg.com/assets/s103103_ld_h15_ab.png
+Canal44(C44NET).mx,Canal 44,https://ebyl.tmsimg.com/assets/s116227_ld_h15_aa.png
 Canal44(XHUDG-TDT)(C44NET)(XHUDGTDT).mx,Canal 44 (XHUDG-TDT),https://ebyl.tmsimg.com/assets/s116227_ld_h15_aa.png
 CanalCatorce(XHSPRTD).mx,Canal Catorce,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 CanalCatorce(CATIZ).mx,Canal Catorce,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
@@ -882,12 +882,12 @@ TUDN(TUDNC).mx,TUDN,https://ebyl.tmsimg.com/assets/s89113_ld_h15_ac.png
 TUDN(TUDNCH).mx,TUDN,https://ebyl.tmsimg.com/assets/s89113_ld_h15_ac.png
 TVChileInternacionalHD(TVNIHD).mx,TV Chile Internacional HD,https://ebyl.tmsimg.com/assets/s16046_ld_h15_ab.png
 TVHidalgo(HIDALGO).mx,TV Hidalgo,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
-TVLobos(TVLOBOS).mx,TV Lobos,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 TVMexiquense(TXMEXI).mx,TV Mexiquense,https://ebyl.tmsimg.com/assets/s28440_ld_h9_aa.png
 TVMexiquenseHD(TXMEXI)(TXMEXHD).mx,TV Mexiquense HD,https://ebyl.tmsimg.com/assets/s28440_ld_h9_aa.png
 TVMigrante(TVMIGRAS).mx,TV Migrante,https://ebyl.tmsimg.com/assets/GNLZZGG00248E43.png
 TVMigrante(TVMIGRAH).mx,TV Migrante,https://ebyl.tmsimg.com/assets/GNLZZGG00248E43.png
 TVTabasquena(TVT).mx,TV Tabasquena,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
+TVUjed(TVUJED).mx,TV Ujed,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 TVUNAM(UNAIZD2).mx,TV UNAM,https://ebyl.tmsimg.com/assets/s116169_ld_h15_aa.png
 TVUnam(IZUNAIZZ).mx,TV Unam,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 TV5LatinAmerica(TV5L).mx,TV5 Latin America,https://ebyl.tmsimg.com/assets/s16422_ld_h15_aa.png
