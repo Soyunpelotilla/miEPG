@@ -99,7 +99,11 @@
 6130d8dc943001000708548d,MTV Reality,https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1783323270470.png
 5f1aca0b4e448e00075e7c5e,Bob Esponja,https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png
 6181404ef48321000797bc41,iCarly,https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png
+6511a5d8d1f20c000864b951,Victorious,https://images.pluto.tv/channels/6511a5d8d1f20c000864b951/colorLogoPNG.png
+6511a53f473a54000854e2ee,Zoey 101,https://images.pluto.tv/channels/6511a53f473a54000854e2ee/colorLogoPNG.png
+5f1aa7aab66c76000790ee7e,Big Time Rush,https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png
 63eb944dc111bc0008fe7021,Pluto TV Teen,https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png
+6304f626d1a0ac00083a05c5,Los padrinos mágicos,https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png
 69fc906b90dc413f536059a1,H2O &amp; Friends,https://images.pluto.tv/channels/69fc906b90dc413f536059a1/colorLogoPNG_1780583615660.png
 6a0c25fe09705ebdf7e4599a,Pippi Calzaslargas,https://images.pluto.tv/channels/6a0c25fe09705ebdf7e4599a/colorLogoPNG_1780925919473.png
 6523f672a6c38300088cb807,El Reino Infantil,https://images.pluto.tv/channels/6523f672a6c38300088cb807/colorLogoPNG.png
