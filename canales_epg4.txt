@@ -123,7 +123,6 @@ BabyFirstAmericasSpanishHD(BABY1AH).mx,BabyFirst Americas Spanish HD,https://eby
 BabyFirstTV(BABY1).mx,BabyFirst TV,https://ebyl.tmsimg.com/assets/s50338_ld_h15_ab.png
 Bandamax(BANDA).mx,Bandamax,https://ebyl.tmsimg.com/assets/s18101_ld_h15_ac.png
 Bandamax(BANDAHD).mx,Bandamax,https://ebyl.tmsimg.com/assets/s18101_ld_h15_ac.png
-BBCNews(BBCNEEU).mx,BBC News,https://ebyl.tmsimg.com/assets/s36844_ld_h15_ad.png
 BBCNews(LatinAmerica)HD(BBCASPH).mx,BBC News (Latin America) HD,https://ebyl.tmsimg.com/assets/s36844_ld_h15_ad.png
 BBCNews(NorthAmerica)(BBCWDNA).mx,BBC News (North America),https://ebyl.tmsimg.com/assets/s89542_ld_h15_ab.png
 BBCNewsHD(BBCNWHD).mx,BBC News HD,https://ebyl.tmsimg.com/assets/s83285_ld_h15_ab.png
@@ -149,6 +148,7 @@ Canal6Plus(MMEDP1).mx,Canal 6 Plus,https://ebyl.tmsimg.com/assets/s99620_ld_h15_
 Canal6PlusHD(CANAL6P).mx,Canal 6 Plus HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 Canal7Cancun(CANL7).mx,Canal 7 Cancun,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 Canal9(CAN9M).mx,Canal 9,https://ebyl.tmsimg.com/assets/s110075_ld_h15_aa.png
+Canal10(10RIONE).mx,Canal 10,https://ebyl.tmsimg.com/assets/s124649_ld_h15_ab.png
 Canal13(Independent)(C13COLH).mx,Canal 13,https://ebyl.tmsimg.com/assets/s65729_ld_h15_aa.png
 Canal13Colombia(CAN13).mx,Canal 13 Colombia,https://ebyl.tmsimg.com/assets/s55180_ld_h15_ah.png
 Canal14(C14MX).mx,Canal 14,https://ebyl.tmsimg.com/assets/GNLZZGG0023XQ01.png
@@ -193,7 +193,6 @@ Cartoonito(CARTOM).mx,Cartoonito,https://ebyl.tmsimg.com/assets/s26089_ld_h15_ac
 Cartoonito(CARTHDP).mx,Cartoonito,https://ebyl.tmsimg.com/assets/s26089_ld_h15_ac.png
 Cartoonito(CARTOMH).mx,Cartoonito,https://ebyl.tmsimg.com/assets/s26089_ld_h15_ac.png
 CBSCorporation(CBS)(CBS).mx,CBS Corporation,https://ebyl.tmsimg.com/assets/s10098_ld_h15_aa.png
-CBSESPHD(CBS)(CBSESHD).mx,CBS ESP HD,https://ebyl.tmsimg.com/assets/s10098_ld_h15_aa.png
 CCTV4(CCTV4S).mx,CCTV4,https://ebyl.tmsimg.com/assets/s24248_ld_h15_ac.png
 CGTNEspañol(CGTNE).mx,CGTN Español,https://ebyl.tmsimg.com/assets/s44479_ld_h15_ab.png
 CGTNEspañol(CGTNEH).mx,CGTN Español,https://ebyl.tmsimg.com/assets/s44479_ld_h15_ab.png
@@ -328,7 +327,6 @@ DuplicateXEIMTTVMetropolitan(Canal22)(DPXEIMT).mx,Duplicate XEIMT TV Metropolita
 DuplicateXEIPN-TVCanal11(OnceTV)(DPXEIPN).mx,Duplicate XEIPN-TV Canal 11 (Once TV),https://ebyl.tmsimg.com/assets/GNLZZGG003NY4FL.png
 DuplicateXHIMTCanal7TVAzteca(DPXHIMT).mx,Duplicate XHIMT Canal 7 TV Azteca,https://ebyl.tmsimg.com/assets/s116154_ld_h15_ac.png
 DuplicateXHTV-TDT(DXHTVDT).mx,Duplicate XHTV-TDT,https://ebyl.tmsimg.com/assets/s66635_ld_h15_ac.png
-DW(DWEUR).mx,DW,https://ebyl.tmsimg.com/assets/s79318_ld_h15_ab.png
 DWenespañol(DWLA).mx,DW en español,https://ebyl.tmsimg.com/assets/s64230_ld_h15_ag.png
 DWEspañol(DWLAH).mx,DW Español,https:sources/generic/generic_sources_h5.png
 E!EntertainmentTelevision(DETVLEH).mx,E! Entertainment Television,https://ebyl.tmsimg.com/assets/s30259_ld_h15_aa.png
@@ -523,7 +521,6 @@ IngenioTV(IZZI50).mx,Ingenio TV,https://ebyl.tmsimg.com/assets/s87915_ld_h15_ab.
 Inova(INNOVA).mx,Inova,https://ebyl.tmsimg.com/assets/s59287_ld_h15_aa.png
 InvestigationDiscoveryHD(IDHD).mx,Investigation Discovery HD,https://ebyl.tmsimg.com/assets/s65342_ld_h15_ac.png
 InvestigationDiscoveryHD(IDHDS).mx,Investigation Discovery HD,https://ebyl.tmsimg.com/assets/s65342_ld_h15_ac.png
-ISAT21Mexico(ISATMX).mx,ISAT 21 Mexico,https://ebyl.tmsimg.com/assets/s16497_ld_h15_aa.png
 izzi(IZZI).mx,izzi,https://ebyl.tmsimg.com/assets/s59724_ld_h9_aa.png
 izziHD(IZZIHD).mx,izzi HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 IZZI2(IZZI2).mx,IZZI2,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
@@ -714,7 +711,6 @@ SonyMovies(SONYML).mx,Sony Movies,https://ebyl.tmsimg.com/assets/s124605_ld_h15_
 SonyMovies(SONYMH).mx,Sony Movies,https://ebyl.tmsimg.com/assets/s124605_ld_h15_aa.png
 SonyMovies(SONYMS).mx,Sony Movies,https://ebyl.tmsimg.com/assets/s124605_ld_h15_aa.png
 Space(SPACEM).mx,Space,https://ebyl.tmsimg.com/assets/s16499_ld_h15_aa.png
-Space(SPACEEM).mx,Space,https://ebyl.tmsimg.com/assets/s16499_ld_h15_aa.png
 Space(SPACMHD).mx,Space,https://ebyl.tmsimg.com/assets/s68021_ld_h15_aa.png
 Space(SPACEHD).mx,Space,https://ebyl.tmsimg.com/assets/s68021_ld_h15_aa.png
 Space(SPACES).mx,Space,https://ebyl.tmsimg.com/assets/s16499_ld_h15_aa.png
@@ -849,6 +845,7 @@ Teleritmo(TRIT).mx,Teleritmo,https://ebyl.tmsimg.com/assets/s32749_ld_h15_ab.png
 Teleritmo(TRITHD).mx,Teleritmo,https://ebyl.tmsimg.com/assets/s32749_ld_h15_ab.png
 Telesecundaria(SECUND).mx,Telesecundaria,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 Telesecundaria3(TS3)(APRENDE).mx,Telesecundaria 3 (TS3),https://ebyl.tmsimg.com/assets/s45710_ld_h15_ab.png
+TelevisaVeracruz(VERACRU).mx,Televisa Veracruz,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 TheGolfChannelLatinoamerica(GOLFLA).mx,The Golf Channel Latinoamerica,https://ebyl.tmsimg.com/assets/s61033_ld_h15_ab.png
 TheGolfChannelLatinoamericaHD(GOLFLAH).mx,The Golf Channel Latinoamerica HD,https://ebyl.tmsimg.com/assets/s61033_ld_h15_ab.png
 TikTokRadio(SMUS43).mx,TikTok Radio,https://ebyl.tmsimg.com/assets/s67579_ld_h15_ab.png
