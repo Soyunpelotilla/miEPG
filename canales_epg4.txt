@@ -495,6 +495,7 @@ HBOXtreme(HBOXMXH).mx,HBO Xtreme,https://ebyl.tmsimg.com/assets/s80211_ld_h15_ab
 HBOXtreme(HBOXLA).mx,HBO Xtreme,https://ebyl.tmsimg.com/assets/s80211_ld_h15_ab.png
 HBOXtremeSD(HBOXTSD).mx,HBO Xtreme SD,https://ebyl.tmsimg.com/assets/s104742_ld_h15_ab.png
 HeraldoTV(HERA).mx,Heraldo TV,https://ebyl.tmsimg.com/assets/s111249_ld_h15_aa.png
+HeraldoTVHD(HERALDOH).mx,Heraldo TV HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 HGTV(HGTVLA).mx,HGTV,https://ebyl.tmsimg.com/assets/s111055_ld_h15_aa.png
 HGTV(HGTVLAS).mx,HGTV,https://ebyl.tmsimg.com/assets/s111055_ld_h15_aa.png
 HiSports(HISPOS).mx,Hi Sports,https://ebyl.tmsimg.com/assets/s144778_ld_h15_aa.png
@@ -553,6 +554,7 @@ LaLigaSkySportsMexico(LALIGAM).mx,La Liga Sky Sports Mexico,https://ebyl.tmsimg.
 LaMejorTV(LAMEJOR).mx,La Mejor TV,https://ebyl.tmsimg.com/assets/s105747_ld_h15_ab.png
 LasEstrellas(ESTRNET)(XEW).mx,Las Estrellas,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 LasEstrellas(ESTRNET)(XEWTDT).mx,Las Estrellas,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
+LasEstrellas-1hora(ESTR1HR).mx,Las Estrellas -1 hora,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 LasEstrellasInternacional(ESTRE).mx,Las Estrellas Internacional,https://ebyl.tmsimg.com/assets/s16257_ld_h15_ab.png
 LasEstrellasmenosdoshoras(XEWHD).mx,Las Estrellas menos dos horas,https://ebyl.tmsimg.com/assets/s16257_ld_h15_ab.png
 LatinAngels(LANGELS).mx,Latin Angels,https://ebyl.tmsimg.com/assets/s106396_ld_h15_aa.png
