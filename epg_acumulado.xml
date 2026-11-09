@@ -92196,14 +92196,6 @@
 			<value>7.8/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261108214057 +0000" stop="20261108235340 +0000" channel="Sony One Hits Comedia">
-    <title>Zohan: Licencia Para Peinar</title>
-    <desc>Zohan es un agente de élite del Mossad que guarda un secreto: su sueño es convertirse en peluquero en Estados Unidos. Aprovechando una pelea contra su peor enemigo, un terrorista conocido como ‘El Fantasma', Zohan finge su propia muerte y vuela a Nueva York, armado únicamente con sus tijeras y su secador de pelo.A pesar de su inexperiencia, pronto es contratado por el dueño de una peluquería y consigue atraer a una gran multitud de clientes. Sin embargo, el sueño de Zohan corre peligro cuando su antiguo enemigo le reconoce y planea acabar con él de una vez por todas.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1029881934_0_20250704T092439883Z_51_imageprocessorclient-tvplus-linear-5db7c6bc99-d5mt6.jpeg"/>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
   <programme start="20261108235340 +0000" stop="20261109020457 +0000" channel="Sony One Hits Comedia">
     <title>Superfumado</title>
     <desc>Un par de drogadictos se convierten en objetivo de una banda cuando uno de ellos presencia un asesinato y huye con su compañero de quienes desean silenciarles para siempre.</desc>
@@ -92227,6 +92219,11 @@
     <rating>
       <value>12</value>
     </rating>
+  </programme>
+  <programme start="20261109055510 +0000" stop="20261109075821 +0000" channel="Sony One Hits Comedia">
+    <title>Una Madre Imperfecta</title>
+    <desc>La cinta nos cuenta la historia de Marnie (Susan Sarandon), una viuda no acostumbrada a su nueva situación emocional que decide recoger sus cosas y trasladarse a Hollywood con el objetivo de estar más cerca de su hija. No obstante, y sin quererlo, comienza a interferir en la vida de ésta, Lori (Rose Byrne). Es entonces cuando se ve obligada a empezar de nuevo desde el principio en un lugar desconocido encontrando por el camino nuevos amigos, nuevas experiencias y nuevas personas que la necesitan.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1293997429_2_20251031T214703090Z_96_imageprocessorclient-tvplus-linear-5db7c6bc99-zslbq.jpeg"/>
   </programme>
   <programme start="20261108230424 +0000" stop="20261109005508 +0000" channel="Sony One Hits Acción">
     <title>Underworld: Guerras De Sangre</title>
@@ -145203,6 +145200,14 @@
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FOLL2C5SAR33RK8SHMAF.jpg/a:h/im/rally-del-paraguay_RallyTV%20%2818%29.jpg?ht=exp=1788773093+hmac=260d28beb8d4a28e19436c6eb27f065f" />
 	</programme>
+  <programme start="20261108214057 +0000" stop="20261108235340 +0000" channel="Sony One Hits Comedia">
+    <title>Zohan: Licencia Para Peinar</title>
+    <desc>Zohan es un agente de élite del Mossad que guarda un secreto: su sueño es convertirse en peluquero en Estados Unidos. Aprovechando una pelea contra su peor enemigo, un terrorista conocido como ‘El Fantasma', Zohan finge su propia muerte y vuela a Nueva York, armado únicamente con sus tijeras y su secador de pelo.A pesar de su inexperiencia, pronto es contratado por el dueño de una peluquería y consigue atraer a una gran multitud de clientes. Sin embargo, el sueño de Zohan corre peligro cuando su antiguo enemigo le reconoce y planea acabar con él de una vez por todas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1029881934_0_20250704T092439883Z_51_imageprocessorclient-tvplus-linear-5db7c6bc99-d5mt6.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
   <programme start="20261108192442 +0000" stop="20261108211220 +0000" channel="Sony One Hits Acción">
     <title>Underworld</title>
     <sub-title>El Despertar</sub-title>
