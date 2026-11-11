@@ -11,8 +11,6 @@
 68d566603d3a9580eb461251,Paramount Network de Pluto TV,https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png
 60d3574e97f10800078455de,Doctor Who,https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG_1792573918778.png
 6a9a8fbd8cc64f2b2b40c83c,Rebelde,https://images.pluto.tv/channels/6a9a8fbd8cc64f2b2b40c83c/colorLogoPNG_1789113326784.png
-6a6a031b10c8f12ffc3adbb5,Series made in Spain de Pluto TV,https://images.pluto.tv/channels/6a6a031b10c8f12ffc3adbb5/colorLogoPNG_1790242819581.png
-6a9fc2af17c0d8c7a37697d0,Cenando con Pablo,https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/colorLogoPNG_1789464728847.png
 612ce5214bb5790007ad3016,Pluto TV Paranormal,https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png
 5f1acbed25948a0007ffbe65,Los archivos del FBI,https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png
 64a3f200f238ce0008d47247,Pluto TV True Crime,https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png
@@ -43,6 +41,7 @@
 6475bfec536e0c0008858e9f,Pluto TV K-Drama,https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png
 60dafb9a0df1ba000758d37b,BBC Series,https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png
 65b91e530d9ab40008340d8d,Al salir de clase,https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png
+6a6a031b10c8f12ffc3adbb5,Series made in Spain de Pluto TV,https://images.pluto.tv/channels/6a6a031b10c8f12ffc3adbb5/colorLogoPNG_1790242819581.png
 697a33faf5c44526a1271d55,Top Gear: Celebrities,https://images.pluto.tv/channels/697a33faf5c44526a1271d55/colorLogoPNG_1770305660204.png
 6335a6b6e6f7a600076e589e,Cazasubastas,https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png
 6554bd45aa9ffb00088e5589,COPS,https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png
@@ -121,12 +120,13 @@
 6888928eb52fb742416673d2,Mattel Junior,https://images.pluto.tv/channels/6888928eb52fb742416673d2/colorLogoPNG_1765806188472.png
 688892172928933015abe479,Barbie &amp; Friends,https://images.pluto.tv/channels/688892172928933015abe479/colorLogoPNG_1765806030713.png
 61922be835f3910007fc58f6,En el punto de mira,https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png
+622f42b831233300078658cc,Ciudadanos por el mundo,https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png
 600ae6a78d801e0007117d21,Pluto TV Animales,https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png
 60dd6b1da79e4d0007309455,Nature Time,https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png
 67517f923a61d40008c451f0,Historia y Vida,https://images.pluto.tv/channels/67517f923a61d40008c451f0/colorLogoPNG.png
-5f1acdaa8ba90f0007d5e760,Pluto TV Cocina,https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png
 61cd7b49543066000713b620,Pluto TV Historia,https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png
-622f42b831233300078658cc,Ciudadanos por el mundo,https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png
+5f1acdaa8ba90f0007d5e760,Pluto TV Cocina,https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png
+6a9fc2af17c0d8c7a37697d0,Cenando con Pablo,https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/colorLogoPNG_1789464728847.png
 690dd10a37b131228d76d5b1,El Mueble,https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png
 64db2e0835425100080f2f5a,Pluto TV Diseño,https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png
 69b3db5d61e8e298254c7108,Space Live,https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/colorLogoPNG_1775061733929.png
