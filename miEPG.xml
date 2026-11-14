@@ -62219,14 +62219,6 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261114173424 +0000" stop="20261114194711 +0000" channel="Sony One Hits Comedia">
-    <title>El Clan De Los Rompehuesos</title>
-    <desc>Paul Crewe, un jugador de fútbol americano, y Nate Scarboro, entrenador y antiguo campeón, se encuentran cumpliendo condena en la misma prisión. Juntos deciden formar un equipo que juegue contra el de los guardias.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1294045536_7_20251031T214703439Z_142_imageprocessorclient-tvplus-linear-5db7c6bc99-p9nvg.jpeg"/>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
   <programme start="20261114194711 +0000" stop="20261114214000 +0000" channel="Sony One Hits Comedia">
     <title>Ace Ventura: Operación Africa</title>
     <desc>África es el lugar donde Ace está en el caso, y se propone rescatar a un animal que detesta: ¡un murciélago! Jim Carrey vuelve a interpretar al detective de mascotas que lucha contra los caimanes, llama a los elefantes, brilla con los monos, lanza loogies, cruza carbones encendidos y domina los disfraces. Si estás preparado para reír como una manada de hienas, si quieres más diversión que un barril de monos de tamaño industrial, ya sabes lo que tienes que hacer. Atiende a la llamada.</desc>
@@ -62249,6 +62241,14 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1293997432_5_20251031T214703367Z_19_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg"/>
     <rating>
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261115014216 +0000" stop="20261115034045 +0000" channel="Sony One Hits Comedia">
+    <title>Novio Por Una Noche</title>
+    <desc>A los diez años, Chuck (Dane Cook) rompió la regla básica del juego de la botella al negarse a besar a una chica gótica demente. Destrozada por su cruel rechazo y decidida a asegurarse que Chuck no encuentre nunca el amor verdadero, la vengativa chica le echa un maleficio al cobarde tramposo que lo persigue hasta su vida adulta. Veinte años después, Chuck es un dentista de éxito que no consigue mantener una relación estable. Un día, mientras asiste a la boda de una ex novia, Chuck se da cuenta de que todas las chicas con las que ha salido encontraron el amor verdadero con el siguiente hombre al que conocieron. Cuando se extiende el rumor de que Chuck es una especie de amuleto de la suerte para las mujeres que quieren casarse, todas las chicas a 150 kilómetros a la redonda empiezan a buscarlo para rollos de una noche  Chuck no tarda en percatarse de lo vacío que puede ser el sexo sin amor verdadero. Al conocer a Cam (Jessica Alba), Chuck empieza a sospechar que ha encontrado a la mujer de sus sueños, ¿pero que será de su relación si Chuck y Cam duermen juntos? Ahora, para asegurarse de que Cam no acabe con el siguiente hombre al que conozca, Chuck por fin intentará romper la maldición que lo ha perseguido desde la niñez.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1452628303_0_20251219T060532771Z_84_imageprocessorclient-tvplus-linear-85d7d49859-twtwh.jpeg"/>
+    <rating>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20261114185727 +0000" stop="20261114211502 +0000" channel="Sony One Hits Acción">
@@ -100356,6 +100356,14 @@
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FOGFZ5V0EKUEYUKNQNTF.jpg/a:p/im:i:c_limit,w_1920/FOGFZ5V0EKUEYUKNQNTF_reference_keyframe.jpg" />
 	</programme>
+  <programme start="20261114173424 +0000" stop="20261114194711 +0000" channel="Sony One Hits Comedia">
+    <title>El Clan De Los Rompehuesos</title>
+    <desc>Paul Crewe, un jugador de fútbol americano, y Nate Scarboro, entrenador y antiguo campeón, se encuentran cumpliendo condena en la misma prisión. Juntos deciden formar un equipo que juegue contra el de los guardias.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1294045536_7_20251031T214703439Z_142_imageprocessorclient-tvplus-linear-5db7c6bc99-p9nvg.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
 	<programme start="20261115005000 +0100" stop="20261115025000 +0100" channel="M+ Vamos">
     <title>Semifinales: Abbate/Dal Bianco - Augsburger/Lebron T2026 · Premier Padel. Dubai</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
@@ -168732,84 +168740,6 @@
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5058710.jpg" />
 		<rating system="ES">
 			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20261114061000 +0100" stop="20261114070000 +0100" channel="Squirrel 2">
-    <title>SquirrelTV 2</title>
-    <sub-title>2026 | ⑱</sub-title>
-    <desc>(Programa,Otros) Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-· País: Reino Unido
-· Dirección: Greg Yaitanes, Armand Mastroianni, Caroline Graham, Christian Duguay, Edward Bennett, Renny Rye.
-· Reparto: Alec Newman, Daniela Amavia, James McAvoy, Jessica Brooks, Alice Krige, Kai Schumann, Angelika Bartsch, Timo Dierkes, Janine Kunze, Steffen Will, Yunus Cumartpay, Alan Cumming, Neal McDonough, Zooey Deschanel, Kathleen Robertson, Raoul Max Trujillo, Jean-Michel Tinivelli, Marine Delterme, Noam Morgensztern, Lea Thompson, Dean Cain, Ernie Hudson, Anthony Michael Hall, Sunny Mabrey, Ana Torrent, Sancho Gracia, Miguel Ángel Solá, Esther Ortega, Leonardo Orna, John Nettles, Jane Wymark, Ryan Robbins, Erin Karpluk, Seth Green, Gil Bellows, Keir Gilchrist, Donald Sutherland, Mira Sorvino, Robert Carlyle, Anna Hopkins, Michael Sorvino, Xavier Deluc, Mike Huff, Lori Fullbright, Haley Lynn Rose, Nicholas M. Garofolo, Susan Sarandon, Jason Hughes, Neil Dudgeon, Laura Howard, Nick Hendrix, Dan Casey, Barry Jackson, Fiona Dolman, Bernie Paz, Osvaldo Ríos, Grettell Valdez, Víctor Noriega, Sarah Mintz, Frances Ondiviela, Mario Cimarro, Ismael La Rosa, Marlene Favela, Mara Croatto, François Bureloup, Abdelhafid Metalsi, Élodie Hesme, Greg Germain, Vincent Primault, Eric Dane, Kyle Switzer, Andrew Airlie, Jim Thorburn, Chrystelle Labaude, David Suchet, Philip Jackson, Hugh Fraser, Pauline Moran.</desc>
-    <category>Programa, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5222667.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20261114070000 +0100" stop="20261114110000 +0100" channel="Squirrel 2">
-    <title>SquirrelTV 2</title>
-    <sub-title>2026 | ⑱</sub-title>
-    <desc>(Programa,Otros) Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-· País: Reino Unido
-· Dirección: Greg Yaitanes, Armand Mastroianni, Caroline Graham, Christian Duguay, Edward Bennett, Renny Rye.
-· Reparto: Alec Newman, Daniela Amavia, James McAvoy, Jessica Brooks, Alice Krige, Kai Schumann, Angelika Bartsch, Timo Dierkes, Janine Kunze, Steffen Will, Yunus Cumartpay, Alan Cumming, Neal McDonough, Zooey Deschanel, Kathleen Robertson, Raoul Max Trujillo, Jean-Michel Tinivelli, Marine Delterme, Noam Morgensztern, Lea Thompson, Dean Cain, Ernie Hudson, Anthony Michael Hall, Sunny Mabrey, Ana Torrent, Sancho Gracia, Miguel Ángel Solá, Esther Ortega, Leonardo Orna, John Nettles, Jane Wymark, Ryan Robbins, Erin Karpluk, Seth Green, Gil Bellows, Keir Gilchrist, Donald Sutherland, Mira Sorvino, Robert Carlyle, Anna Hopkins, Michael Sorvino, Xavier Deluc, Mike Huff, Lori Fullbright, Haley Lynn Rose, Nicholas M. Garofolo, Susan Sarandon, Jason Hughes, Neil Dudgeon, Laura Howard, Nick Hendrix, Dan Casey, Barry Jackson, Fiona Dolman, Bernie Paz, Osvaldo Ríos, Grettell Valdez, Víctor Noriega, Sarah Mintz, Frances Ondiviela, Mario Cimarro, Ismael La Rosa, Marlene Favela, Mara Croatto, François Bureloup, Abdelhafid Metalsi, Élodie Hesme, Greg Germain, Vincent Primault, Eric Dane, Kyle Switzer, Andrew Airlie, Jim Thorburn, Chrystelle Labaude, David Suchet, Philip Jackson, Hugh Fraser, Pauline Moran.</desc>
-    <category>Programa, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5222667.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20261114110000 +0100" stop="20261114150000 +0100" channel="Squirrel 2">
-    <title>SquirrelTV 2</title>
-    <sub-title>2026 | ⑱</sub-title>
-    <desc>(Programa,Otros) Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-· País: Reino Unido
-· Dirección: Greg Yaitanes, Armand Mastroianni, Caroline Graham, Christian Duguay, Edward Bennett, Renny Rye.
-· Reparto: Alec Newman, Daniela Amavia, James McAvoy, Jessica Brooks, Alice Krige, Kai Schumann, Angelika Bartsch, Timo Dierkes, Janine Kunze, Steffen Will, Yunus Cumartpay, Alan Cumming, Neal McDonough, Zooey Deschanel, Kathleen Robertson, Raoul Max Trujillo, Jean-Michel Tinivelli, Marine Delterme, Noam Morgensztern, Lea Thompson, Dean Cain, Ernie Hudson, Anthony Michael Hall, Sunny Mabrey, Ana Torrent, Sancho Gracia, Miguel Ángel Solá, Esther Ortega, Leonardo Orna, John Nettles, Jane Wymark, Ryan Robbins, Erin Karpluk, Seth Green, Gil Bellows, Keir Gilchrist, Donald Sutherland, Mira Sorvino, Robert Carlyle, Anna Hopkins, Michael Sorvino, Xavier Deluc, Mike Huff, Lori Fullbright, Haley Lynn Rose, Nicholas M. Garofolo, Susan Sarandon, Jason Hughes, Neil Dudgeon, Laura Howard, Nick Hendrix, Dan Casey, Barry Jackson, Fiona Dolman, Bernie Paz, Osvaldo Ríos, Grettell Valdez, Víctor Noriega, Sarah Mintz, Frances Ondiviela, Mario Cimarro, Ismael La Rosa, Marlene Favela, Mara Croatto, François Bureloup, Abdelhafid Metalsi, Élodie Hesme, Greg Germain, Vincent Primault, Eric Dane, Kyle Switzer, Andrew Airlie, Jim Thorburn, Chrystelle Labaude, David Suchet, Philip Jackson, Hugh Fraser, Pauline Moran.</desc>
-    <category>Programa, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5222667.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20261114150000 +0100" stop="20261114190000 +0100" channel="Squirrel 2">
-    <title>SquirrelTV 2</title>
-    <sub-title>2026 | ⑱</sub-title>
-    <desc>(Programa,Otros) Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-· País: Reino Unido
-· Dirección: Greg Yaitanes, Armand Mastroianni, Caroline Graham, Christian Duguay, Edward Bennett, Renny Rye.
-· Reparto: Alec Newman, Daniela Amavia, James McAvoy, Jessica Brooks, Alice Krige, Kai Schumann, Angelika Bartsch, Timo Dierkes, Janine Kunze, Steffen Will, Yunus Cumartpay, Alan Cumming, Neal McDonough, Zooey Deschanel, Kathleen Robertson, Raoul Max Trujillo, Jean-Michel Tinivelli, Marine Delterme, Noam Morgensztern, Lea Thompson, Dean Cain, Ernie Hudson, Anthony Michael Hall, Sunny Mabrey, Ana Torrent, Sancho Gracia, Miguel Ángel Solá, Esther Ortega, Leonardo Orna, John Nettles, Jane Wymark, Ryan Robbins, Erin Karpluk, Seth Green, Gil Bellows, Keir Gilchrist, Donald Sutherland, Mira Sorvino, Robert Carlyle, Anna Hopkins, Michael Sorvino, Xavier Deluc, Mike Huff, Lori Fullbright, Haley Lynn Rose, Nicholas M. Garofolo, Susan Sarandon, Jason Hughes, Neil Dudgeon, Laura Howard, Nick Hendrix, Dan Casey, Barry Jackson, Fiona Dolman, Bernie Paz, Osvaldo Ríos, Grettell Valdez, Víctor Noriega, Sarah Mintz, Frances Ondiviela, Mario Cimarro, Ismael La Rosa, Marlene Favela, Mara Croatto, François Bureloup, Abdelhafid Metalsi, Élodie Hesme, Greg Germain, Vincent Primault, Eric Dane, Kyle Switzer, Andrew Airlie, Jim Thorburn, Chrystelle Labaude, David Suchet, Philip Jackson, Hugh Fraser, Pauline Moran.</desc>
-    <category>Programa, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5222667.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20261114190000 +0100" stop="20261114230000 +0100" channel="Squirrel 2">
-    <title>SquirrelTV 2</title>
-    <sub-title>2026 | ⑱</sub-title>
-    <desc>(Programa,Otros) Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-· País: Reino Unido
-· Dirección: Greg Yaitanes, Armand Mastroianni, Caroline Graham, Christian Duguay, Edward Bennett, Renny Rye.
-· Reparto: Alec Newman, Daniela Amavia, James McAvoy, Jessica Brooks, Alice Krige, Kai Schumann, Angelika Bartsch, Timo Dierkes, Janine Kunze, Steffen Will, Yunus Cumartpay, Alan Cumming, Neal McDonough, Zooey Deschanel, Kathleen Robertson, Raoul Max Trujillo, Jean-Michel Tinivelli, Marine Delterme, Noam Morgensztern, Lea Thompson, Dean Cain, Ernie Hudson, Anthony Michael Hall, Sunny Mabrey, Ana Torrent, Sancho Gracia, Miguel Ángel Solá, Esther Ortega, Leonardo Orna, John Nettles, Jane Wymark, Ryan Robbins, Erin Karpluk, Seth Green, Gil Bellows, Keir Gilchrist, Donald Sutherland, Mira Sorvino, Robert Carlyle, Anna Hopkins, Michael Sorvino, Xavier Deluc, Mike Huff, Lori Fullbright, Haley Lynn Rose, Nicholas M. Garofolo, Susan Sarandon, Jason Hughes, Neil Dudgeon, Laura Howard, Nick Hendrix, Dan Casey, Barry Jackson, Fiona Dolman, Bernie Paz, Osvaldo Ríos, Grettell Valdez, Víctor Noriega, Sarah Mintz, Frances Ondiviela, Mario Cimarro, Ismael La Rosa, Marlene Favela, Mara Croatto, François Bureloup, Abdelhafid Metalsi, Élodie Hesme, Greg Germain, Vincent Primault, Eric Dane, Kyle Switzer, Andrew Airlie, Jim Thorburn, Chrystelle Labaude, David Suchet, Philip Jackson, Hugh Fraser, Pauline Moran.</desc>
-    <category>Programa, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5222667.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20261114230000 +0100" stop="20261115030000 +0100" channel="Squirrel 2">
-    <title>SquirrelTV 2</title>
-    <sub-title>2026 | ⑱</sub-title>
-    <desc>(Programa,Otros) Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-· País: Reino Unido
-· Dirección: Greg Yaitanes, Armand Mastroianni, Caroline Graham, Christian Duguay, Edward Bennett, Renny Rye.
-· Reparto: Alec Newman, Daniela Amavia, James McAvoy, Jessica Brooks, Alice Krige, Kai Schumann, Angelika Bartsch, Timo Dierkes, Janine Kunze, Steffen Will, Yunus Cumartpay, Alan Cumming, Neal McDonough, Zooey Deschanel, Kathleen Robertson, Raoul Max Trujillo, Jean-Michel Tinivelli, Marine Delterme, Noam Morgensztern, Lea Thompson, Dean Cain, Ernie Hudson, Anthony Michael Hall, Sunny Mabrey, Ana Torrent, Sancho Gracia, Miguel Ángel Solá, Esther Ortega, Leonardo Orna, John Nettles, Jane Wymark, Ryan Robbins, Erin Karpluk, Seth Green, Gil Bellows, Keir Gilchrist, Donald Sutherland, Mira Sorvino, Robert Carlyle, Anna Hopkins, Michael Sorvino, Xavier Deluc, Mike Huff, Lori Fullbright, Haley Lynn Rose, Nicholas M. Garofolo, Susan Sarandon, Jason Hughes, Neil Dudgeon, Laura Howard, Nick Hendrix, Dan Casey, Barry Jackson, Fiona Dolman, Bernie Paz, Osvaldo Ríos, Grettell Valdez, Víctor Noriega, Sarah Mintz, Frances Ondiviela, Mario Cimarro, Ismael La Rosa, Marlene Favela, Mara Croatto, François Bureloup, Abdelhafid Metalsi, Élodie Hesme, Greg Germain, Vincent Primault, Eric Dane, Kyle Switzer, Andrew Airlie, Jim Thorburn, Chrystelle Labaude, David Suchet, Philip Jackson, Hugh Fraser, Pauline Moran.</desc>
-    <category>Programa, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5222667.jpg" />
-		<rating system="ES">
-			<value>18</value>
 		</rating>
 	</programme>
 	<programme start="20261113010400 +0100" stop="20261113013100 +0100" channel="Comedy Central">
