@@ -127,6 +127,9 @@ perl -i -ne '
             if ($titulo_actual =~ /UEFA Euro 2024/i && $canal_actual =~ /SKY SPORTS (1|16|21|24) MX/) {
                 $duplicados++; $imprimir=0;
             }
+            elsif ($titulo_actual =~ /Teledeporte/i && $canal_actual =~ /Teledeporte/i) {
+                $duplicados++; $imprimir=0;
+            }
             elsif ($inicio_actual < $c_old) { $pasados++; $imprimir=0; }
             elsif ($inicio_actual > $c_new) { $futuros++; $imprimir=0; }
             elsif ($visto_exact{$clave_exact}) { $duplicados++; $imprimir=0; }
