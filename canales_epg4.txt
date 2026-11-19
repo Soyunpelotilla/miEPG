@@ -554,6 +554,7 @@ LaLigaSkySportsMexico(LALIGAM).mx,La Liga Sky Sports Mexico,https://ebyl.tmsimg.
 LaMejorTV(LAMEJOR).mx,La Mejor TV,https://ebyl.tmsimg.com/assets/s105747_ld_h15_ab.png
 LasEstrellas(ESTRNET)(XEW).mx,Las Estrellas,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
 LasEstrellas(ESTRNET)(XEWTDT).mx,Las Estrellas,https://ebyl.tmsimg.com/assets/s116151_ld_h15_ac.png
+LasEstrellas-2horas(ESTREL2H).mx,Las Estrellas - 2 horas,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 LasEstrellas-1hora(ESTR1HR).mx,Las Estrellas -1 hora,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 LasEstrellasInternacional(ESTRE).mx,Las Estrellas Internacional,https://ebyl.tmsimg.com/assets/s16257_ld_h15_ab.png
 LasEstrellasmenosdoshoras(XEWHD).mx,Las Estrellas menos dos horas,https://ebyl.tmsimg.com/assets/s16257_ld_h15_ab.png
@@ -840,6 +841,7 @@ Telehit(THIT).mx,Telehit,https://ebyl.tmsimg.com/assets/s15211_ld_h15_aa.png
 TelehitMúsica(THMU).mx,Telehit Música,https://ebyl.tmsimg.com/assets/s34394_ld_h15_ae.png
 TelehitMúsica(THMUH).mx,Telehit Música,https://ebyl.tmsimg.com/assets/s34394_ld_h15_ae.png
 TelehitMúsicaPlus(THITPL).mx,Telehit Música Plus,https://ebyl.tmsimg.com/assets/s73070_ld_h15_ab.png
+Telemax(XEWH)HD(TLXEWHD).mx,Telemax (XEWH) HD,https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png
 TelemundoInternacional(CABTELE).mx,Telemundo Internacional,https://ebyl.tmsimg.com/assets/s64835_ld_h15_ac.png
 TelemundoInternacional(TELILF).mx,Telemundo Internacional,https://ebyl.tmsimg.com/assets/s102862_ld_h15_aa.png
 TelemundoInternacional(TELICAH).mx,Telemundo Internacional,https://ebyl.tmsimg.com/assets/s102862_ld_h15_aa.png

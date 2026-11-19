@@ -8,17 +8,17 @@ La Sexta HD,La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/m
 M+ Estrenos HD,M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
 M+ Hits HD,M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
 M+ Originales HD,M+ Originales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png
-M+ Terror,M+ Terror,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Terror.png
 M+ Documentales HD,M+ Documentales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png
-M+ Romance,M+ Romance,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Romance.png
+M+ Navidad,M+ Navidad,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png
+M+ Thriller,M+ Thriller,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Thriller.png
+M+ PopUp,M+ PopUp,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png
+M+ PopUp 2,M+ PopUp 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp%202.png
 M+ Clásicos HD,M+ Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
 M+ Acción HD,M+ Acción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png
 M+ Comedia HD,M+ Comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png
 M+ Drama HD,M+ Drama,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png
 M+ Indie HD,M+ Indie,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png
 M+ Cine Español,M+ Cine Español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png
-M+ PopUp,M+ PopUp,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png
-M+ PopUp 2,M+ PopUp 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp%202.png
 Canal FlixOlé 1,Canal FlixOlé 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%201.png
 Canal FlixOlé 2,Canal FlixOlé 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%202.png
 TCM HD,TCM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png
