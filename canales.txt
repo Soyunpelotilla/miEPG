@@ -173,9 +173,9 @@ Motorvision,Motorvision,https://raw.githubusercontent.com/davidmuma/picons_doble
 ESPN Deportes,ESPN Deportes,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png
 TUDN (Estados Unidos),TUDN (Estados Unidos),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png
 TUDN (México),TUDN (México),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png
-FoxSports(FSALPHD).mx,FOX SPORTS,https://iptv-epg.org/images/-dh3QhictAVQMf-JvfJHvYwGgKrEh1S5ykT_bPBPf9TbEzLB3LpPSQuwIGE2dpsyUJG05cexs91GFPgTVa2Y15uf8fNTBHT3B3gInsSJOMFvZQ
-FoxSports2(FOXSHD2).mx,FOX SPORTS 2,https://iptv-epg.org/images/6My2flDNOL8dMZXMi0DWw2xCfYb9lrAjj0rEn5pL5swiY36mXPGMO_kkZIbaVZLn6BLgjc0nRcDFPqYk4y51lDgXbP_Y2yRpoism_r4s9o18SHo
-FoxSports3(FSP3HD).mx,FOX SPORTS 3,https://iptv-epg.org/images/6nFZw3d2dnKJ1Fp_K1wVtZLwU_Ol900ce25SHlyGYUlNI-IxdL4K0plTWygNM8NCveUC9wPYM_LtTyZ76KbBZl3PFpQ3W0RituCeKh90Quf6Cy4
+FOX SPORTS,FOX SPORTS,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png
+FOX SPORTS 2,FOX SPORTS 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png
+FOX SPORTS 3,FOX SPORTS 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%203.png
 SkySports1.mx,SKY SPORTS 1 MX
 SkySports16.mx,SKY SPORTS 16 MX
 SkySports21.mx,SKY SPORTS 21 MX
