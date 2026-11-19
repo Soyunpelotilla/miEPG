@@ -1167,21 +1167,21 @@
     <display-name>FOX SPORTS HD</display-name>
     <display-name>FOX SPORTS FHD</display-name>
     <display-name>FOX SPORTS 4K</display-name>
-    <icon src="https://iptv-epg.org/logos/Mexico/FOXSports.mx.png" />
+    <icon src="https://iptv-epg.org/images/-dh3QhictAVQMf-JvfJHvYwGgKrEh1S5ykT_bPBPf9TbEzLB3LpPSQuwIGE2dpsyUJG05cexs91GFPgTVa2Y15uf8fNTBHT3B3gInsSJOMFvZQ" />
   </channel>
   <channel id="FOX SPORTS 2">
     <display-name>FOX SPORTS 2 SD</display-name>
     <display-name>FOX SPORTS 2 HD</display-name>
     <display-name>FOX SPORTS 2 FHD</display-name>
     <display-name>FOX SPORTS 2 4K</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png" />
+    <icon src="https://iptv-epg.org/images/6My2flDNOL8dMZXMi0DWw2xCfYb9lrAjj0rEn5pL5swiY36mXPGMO_kkZIbaVZLn6BLgjc0nRcDFPqYk4y51lDgXbP_Y2yRpoism_r4s9o18SHo" />
   </channel>
   <channel id="FOX SPORTS 3">
     <display-name>FOX SPORTS 3 SD</display-name>
     <display-name>FOX SPORTS 3 HD</display-name>
     <display-name>FOX SPORTS 3 FHD</display-name>
     <display-name>FOX SPORTS 3 4K</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%203.png" />
+    <icon src="https://iptv-epg.org/images/6nFZw3d2dnKJ1Fp_K1wVtZLwU_Ol900ce25SHlyGYUlNI-IxdL4K0plTWygNM8NCveUC9wPYM_LtTyZ76KbBZl3PFpQ3W0RituCeKh90Quf6Cy4" />
   </channel>
   <channel id="SKY SPORTS 1 MX">
     <display-name>SKY SPORTS 1 MX SD</display-name>
@@ -92402,19 +92402,6 @@
 			<value>7.4/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261118223017 +0000" stop="20261119002539 +0000" channel="Sony One Hits Comedia">
-    <title>La Cruda Realidad</title>
-    <desc>Para conseguir al hombre perfecto tendrá que escuchar al peor de todos</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1578334737_1_20260127T030456749Z_62_imageprocessorclient-tvplus-linear-85d7d49859-rclz9.png"/>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261119002539 +0000" stop="20261119021947 +0000" channel="Sony One Hits Comedia">
-    <title>Aventuras En La Casa Branca</title>
-    <desc>Dos adolescentes despistados se ven involucrados sin darse cuenta en el escándalo del Watergate que provocó la caída del gobierno de Nixon.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_913209126_0_20250524T012342812Z_123_imageprocessorclient-tvplus-linear-6fb5b47f79-gkzgn.png"/>
-  </programme>
   <programme start="20261119021947 +0000" stop="20261119044345 +0000" channel="Sony One Hits Comedia">
     <title>Casi Famosos</title>
     <desc>Un joven estudiante recibe la oportunidad de escribir un artículo para un prestigiosa revista de música acerca de un nuevo grupo de rock. Al acompañarles durante su gira irá descubriendo poco a poco el mundo que les rodea.</desc>
@@ -92431,12 +92418,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261118231918 +0000" stop="20261119011002 +0000" channel="Sony One Hits Acción">
-    <title>Underworld: Guerras De Sangre</title>
-    <desc>El distribuidor de muerte de vampiros Selene evita ataques brutales del clan Lycan y la facción de vampiros que la traicionó.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1455002309_0_20251220T071442587Z_36_imageprocessorclient-tvplus-linear-85d7d49859-2blcr.png"/>
+  <programme start="20261119064105 +0000" stop="20261119083958 +0000" channel="Sony One Hits Comedia">
+    <title>Desmadre De Madres</title>
+    <desc>Lo único que Allyson y sus amigas quieren es una cena pacífica con una charla de adultos...una largamente esperada noche de madres a solas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_922591803_1_20250527T062624208Z_32_imageprocessorclient-tvplus-linear-6fb5b47f79-m7gkj.jpeg"/>
     <rating>
-      <value>14</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20261119011002 +0000" stop="20261119030146 +0000" channel="Sony One Hits Acción">
@@ -92459,6 +92446,11 @@
     <title>Simbad Y El Ojo Del Tigre</title>
     <desc>Simbad (Patrick Wayne), osado marino y príncipe de Bagdad, zarpa rumbo a Charnak para obtener la aprobación del príncipe Kassim para desposar a su hermana, Farah (Jane Seymour). Pero Simbad descubre que Kassim ha sido hechizado por su malévola madrastra, Zenobia (Margaret Whiting). Para romper el encantamiento, Simbad debe emprender un viaje como ningún otro jamás realizado.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1925563195_0_20260612T023346793Z_75_imageprocessorclient-tvplus-linear-66fc4d58c8-rsm6f.jpeg"/>
+  </programme>
+  <programme start="20261119072010 +0000" stop="20261119093030 +0000" channel="Sony One Hits Acción">
+    <title>El mono borracho en el ojo del Tigre</title>
+    <desc>¡La comedia de kung fu original! Won Fei Hung (Jackie Chan) interpreta al travieso hijo de un profesor de artes marciales que no para de hacer el payaso cuando debería estar aprendiendo kung fu. Debido a una de sus bromas, el hijo de un poderoso vecino resulta herido y el padre de Fei Hung le pide ayuda a su sádico tío para que le enseñe a su hijo un poco de disciplina. Este extraño hombre, que tiene la reputación de lisiar a sus pupilos, intenta a enseñar a Fei Hung un extraño estilo de kung fu. Al principio, Fei Hung se resiste, pero tras perder una pelea contra un asesino contratado para matar a su padre, se da cuenta de que debe aprender el extraordinario arte del 'boxeador borracho'. DRUNKEN MASTER fue la segunda colaboración entre el director Yuen Wo Ping (el coreógrafo de lucha en The Matrix y Crouching Tiger, Hidden Dragon) y Jackie Chan. Su mezcla de complicadas llaves de artes marciales y la clásica comedia física de Jackie Chan, hace que DRUNKEN MASTER sea una de las películas precursoras del género de la comedias de kung fu y corona a Chan como su indiscutible rey.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_869326859_4_20250508T202421152Z_73_imageprocessorclient-tvplus-linear-6fb5b47f79-nj5gx.png"/>
   </programme>
 	<programme start="20261118064500 +0100" stop="20261118073000 +0100" channel="National Geographic">
     <title>El universo conocido: ¿Hay alguien ahí?</title>
@@ -122346,78 +122338,96 @@
     <title>Liga MX en 60 T2026 · Pumas UNAM vs. América</title>
     <desc>Sin detalles...</desc>
 	</programme>
-	<programme start="20261118030000 +0100" stop="20261118070000 +0100" channel="FOX SPORTS">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118070000 +0100" stop="20261118110000 +0100" channel="FOX SPORTS">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118110000 +0100" stop="20261118150000 +0100" channel="FOX SPORTS">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118150000 +0100" stop="20261118190000 +0100" channel="FOX SPORTS">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118190000 +0100" stop="20261118230000 +0100" channel="FOX SPORTS">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118230000 +0100" stop="20261119030000 +0100" channel="FOX SPORTS">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118030000 +0100" stop="20261118070000 +0100" channel="FOX SPORTS 2">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118070000 +0100" stop="20261118110000 +0100" channel="FOX SPORTS 2">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118110000 +0100" stop="20261118150000 +0100" channel="FOX SPORTS 2">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118150000 +0100" stop="20261118190000 +0100" channel="FOX SPORTS 2">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118190000 +0100" stop="20261118230000 +0100" channel="FOX SPORTS 2">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118230000 +0100" stop="20261119030000 +0100" channel="FOX SPORTS 2">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118030000 +0100" stop="20261118070000 +0100" channel="FOX SPORTS 3">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118070000 +0100" stop="20261118110000 +0100" channel="FOX SPORTS 3">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118110000 +0100" stop="20261118150000 +0100" channel="FOX SPORTS 3">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118150000 +0100" stop="20261118190000 +0100" channel="FOX SPORTS 3">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118190000 +0100" stop="20261118230000 +0100" channel="FOX SPORTS 3">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
-	<programme start="20261118230000 +0100" stop="20261119030000 +0100" channel="FOX SPORTS 3">
-    <title>Fox Sports</title>
-    <desc>Sin detalles...</desc>
-	</programme>
+  <programme start="20261118060000 +0000" stop="20261118180000 +0000" channel="FOX SPORTS">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261118180000 +0000" stop="20261119060000 +0000" channel="FOX SPORTS">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261119060000 +0000" stop="20261119180000 +0000" channel="FOX SPORTS">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261119180000 +0000" stop="20261120060000 +0000" channel="FOX SPORTS">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261120060000 +0000" stop="20261120180000 +0000" channel="FOX SPORTS">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261120180000 +0000" stop="20261121060000 +0000" channel="FOX SPORTS">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261118060000 +0000" stop="20261118180000 +0000" channel="FOX SPORTS 2">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261118180000 +0000" stop="20261119060000 +0000" channel="FOX SPORTS 2">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261119060000 +0000" stop="20261119180000 +0000" channel="FOX SPORTS 2">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261119180000 +0000" stop="20261120060000 +0000" channel="FOX SPORTS 2">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261120060000 +0000" stop="20261120180000 +0000" channel="FOX SPORTS 2">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261120180000 +0000" stop="20261121060000 +0000" channel="FOX SPORTS 2">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261118060000 +0000" stop="20261118180000 +0000" channel="FOX SPORTS 3">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261118180000 +0000" stop="20261119060000 +0000" channel="FOX SPORTS 3">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261119060000 +0000" stop="20261119180000 +0000" channel="FOX SPORTS 3">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261119180000 +0000" stop="20261120060000 +0000" channel="FOX SPORTS 3">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261120060000 +0000" stop="20261120180000 +0000" channel="FOX SPORTS 3">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20261120180000 +0000" stop="20261121060000 +0000" channel="FOX SPORTS 3">
+    <desc lang="es">Los Cardinals intentan superar la devastadora pérdida de Tyrann Mathieu mientras dos de los mejores de la NFC, los Green Bay Packers y los Seattle Seahawks, visitan Arizona.</desc>
+    <icon src="https://iptv-epg.org/images/_HsnqLSbgu-mP9xs4aVZNpHZ_7dsAVIvLJO9lS-l5ATu0hhSt1R8YtRnAncC0MZ2YtHR5xuMmTo1hc-UX2NhlOhRFpqDJpnSeU3eLu65SuiffgiB_Nfl59tWQC8FbiTx"/>
+    <title lang="es">A confirmar</title>
+  </programme>
   <programme start="20261118010000 +0000" stop="20261118030000 +0000" channel="SKY SPORTS 1 MX">
     <desc lang="es">Dinamarca vs. Noruega.</desc>
     <title lang="es">Dinamarca vs. Noruega</title>
@@ -146144,6 +146154,99 @@ Athletic Club vs. Espanyol.</desc>
     <desc>(Sports) With the new kid on the block Martins Sesks showing impressive pace, Adrien and Gregoire begin to feel the pressure as this rising star pushes them to the limits. In this episode of More than Machine, the talented 24-year-old and his teammates at M-Sport take on some of the most challenging stages of the season – Poland and Latvia.</desc>
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FO2AJIP8J4TP0RECUWYM.png/a:h/im/MTM%20-%20Episode%204%20%2816-9%29.png?ht=exp=1787213304+hmac=6e98d489eef9bbf458aeba9d9de7fe08" />
+	</programme>
+  <programme start="20261118223017 +0000" stop="20261119002539 +0000" channel="Sony One Hits Comedia">
+    <title>La Cruda Realidad</title>
+    <desc>Para conseguir al hombre perfecto tendrá que escuchar al peor de todos</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1578334737_1_20260127T030456749Z_62_imageprocessorclient-tvplus-linear-85d7d49859-rclz9.png"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261119002539 +0000" stop="20261119021947 +0000" channel="Sony One Hits Comedia">
+    <title>Aventuras En La Casa Branca</title>
+    <desc>Dos adolescentes despistados se ven involucrados sin darse cuenta en el escándalo del Watergate que provocó la caída del gobierno de Nixon.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_913209126_0_20250524T012342812Z_123_imageprocessorclient-tvplus-linear-6fb5b47f79-gkzgn.png"/>
+  </programme>
+  <programme start="20261118231918 +0000" stop="20261119011002 +0000" channel="Sony One Hits Acción">
+    <title>Underworld: Guerras De Sangre</title>
+    <desc>El distribuidor de muerte de vampiros Selene evita ataques brutales del clan Lycan y la facción de vampiros que la traicionó.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1455002309_0_20251220T071442587Z_36_imageprocessorclient-tvplus-linear-85d7d49859-2blcr.png"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+	<programme start="20261118030000 +0100" stop="20261118070000 +0100" channel="FOX SPORTS">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118070000 +0100" stop="20261118110000 +0100" channel="FOX SPORTS">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118110000 +0100" stop="20261118150000 +0100" channel="FOX SPORTS">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118150000 +0100" stop="20261118190000 +0100" channel="FOX SPORTS">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118190000 +0100" stop="20261118230000 +0100" channel="FOX SPORTS">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118230000 +0100" stop="20261119030000 +0100" channel="FOX SPORTS">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118030000 +0100" stop="20261118070000 +0100" channel="FOX SPORTS 2">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118070000 +0100" stop="20261118110000 +0100" channel="FOX SPORTS 2">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118110000 +0100" stop="20261118150000 +0100" channel="FOX SPORTS 2">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118150000 +0100" stop="20261118190000 +0100" channel="FOX SPORTS 2">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118190000 +0100" stop="20261118230000 +0100" channel="FOX SPORTS 2">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118230000 +0100" stop="20261119030000 +0100" channel="FOX SPORTS 2">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118030000 +0100" stop="20261118070000 +0100" channel="FOX SPORTS 3">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118070000 +0100" stop="20261118110000 +0100" channel="FOX SPORTS 3">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118110000 +0100" stop="20261118150000 +0100" channel="FOX SPORTS 3">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118150000 +0100" stop="20261118190000 +0100" channel="FOX SPORTS 3">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118190000 +0100" stop="20261118230000 +0100" channel="FOX SPORTS 3">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
+	</programme>
+	<programme start="20261118230000 +0100" stop="20261119030000 +0100" channel="FOX SPORTS 3">
+    <title>Fox Sports</title>
+    <desc>Sin detalles...</desc>
 	</programme>
 	<programme start="20261118180000 +0100" stop="20261118200200 +0100" channel="Movistar Plus">
     <title>Jornada 12: Besiktas - Real Madrid T26/27 · Euroliga de baloncesto</title>
