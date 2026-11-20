@@ -16,6 +16,9 @@
 6511a5d8d1f20c000864b951,Victorious,https://images.pluto.tv/channels/6511a5d8d1f20c000864b951/colorLogoPNG.png
 6511a53f473a54000854e2ee,Zoey 101,https://images.pluto.tv/channels/6511a53f473a54000854e2ee/colorLogoPNG.png
 5f1aa7aab66c76000790ee7e,Big Time Rush,https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png
+6aacfeef90639e3b19441c57,Chico de revista,https://images.pluto.tv/channels/6aacfeef90639e3b19441c57/colorLogoPNG_1794574400602.png
+6aacff312714ce519250beb1,Bienvenidos a la zona,https://images.pluto.tv/channels/6aacff312714ce519250beb1/colorLogoPNG_1794574330902.png
+6aacfebd67b298a0f0a96c14,Zona Rainpod,https://images.pluto.tv/channels/6aacfebd67b298a0f0a96c14/colorLogoPNG_1794574475146.png
 612ce5214bb5790007ad3016,Pluto TV Paranormal,https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png
 5f1acbed25948a0007ffbe65,Los archivos del FBI,https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png
 64a3f200f238ce0008d47247,Pluto TV True Crime,https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png
@@ -111,8 +114,8 @@
 63c69c87808b740007599fe1,Érase una vez...,https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png
 6a31544f2c1c785c1138dbb1,Mr. Bean,https://images.pluto.tv/channels/6a31544f2c1c785c1138dbb1/colorLogoPNG_1781617788564.png
 68779a09c691b3f0964127c6,Heidi,https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png
-61373f1a12dd9f00077dcd6f,Las Tortugas Ninja,https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png
 610c09219fc0430007a3fce6,Rugrats,https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png
+61373f1a12dd9f00077dcd6f,Las Tortugas Ninja,https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png
 62568a94ed1f380007b0211f,Winx Club,https://images.pluto.tv/channels/62568a94ed1f380007b0211f/colorLogoPNG.png
 68e8fe3bcba140ddfe903677,Monster High,https://images.pluto.tv/channels/68e8fe3bcba140ddfe903677/colorLogoPNG_1761210192673.png
 68d27949793c71d988ca624c,Los Pitufos,https://images.pluto.tv/channels/68d27949793c71d988ca624c/colorLogoPNG_1760370849099.png
@@ -130,8 +133,8 @@
 5f1acdaa8ba90f0007d5e760,Pluto TV Cocina,https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png
 6a9fc2af17c0d8c7a37697d0,Cenando con Pablo,https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/colorLogoPNG_1789464728847.png
 690dd10a37b131228d76d5b1,El Mueble,https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png
-69b3db5d61e8e298254c7108,Space Live,https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/colorLogoPNG_1775061733929.png
 64db2e0835425100080f2f5a,Pluto TV Diseño,https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png
+69b3db5d61e8e298254c7108,Space Live,https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/colorLogoPNG_1775061733929.png
 6a846cb6840f7d654710df00,That's 90s00s,https://images.pluto.tv/channels/6a846cb6840f7d654710df00/colorLogoPNG_1790842102809.png
 6a846c44496b635ad62aa13e,That's 80s,https://images.pluto.tv/channels/6a846c44496b635ad62aa13e/colorLogoPNG_1790781375896.png
 6a846ccd99e7db5e8a1d9b5f,That's Rock,https://images.pluto.tv/channels/6a846ccd99e7db5e8a1d9b5f/colorLogoPNG_1790781023873.png
@@ -146,7 +149,6 @@
 6a6a02ae3ee9d966427e62c4,NFL Channel,https://images.pluto.tv/channels/6a6a02ae3ee9d966427e62c4/colorLogoPNG_1785333367393.png
 69148c470155f9b136b5d856,Pluto TV Snooker 900,https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png
 67164414e40c4a00087f450d,MODUS Super Series Darts,https://images.pluto.tv/channels/67164414e40c4a00087f450d/colorLogoPNG_1732095042151.png
-69f9c50202b6c1c00a213519,Dominance FC TV,https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/colorLogoPNG_1777976664055.png
 67517fae5534bb0008187997,Actualidad 360,https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png
 60d3583ef310610007fb02b1,Euronews,https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png
 66c45c0de7f5e80008b82005,CNN Headlines International,https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1775159727857.png
