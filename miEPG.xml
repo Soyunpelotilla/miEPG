@@ -1162,6 +1162,27 @@
     <display-name>TUDN (México) 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" />
   </channel>
+  <channel id="FOX SPORTS">
+    <display-name>FOX SPORTS SD</display-name>
+    <display-name>FOX SPORTS HD</display-name>
+    <display-name>FOX SPORTS FHD</display-name>
+    <display-name>FOX SPORTS 4K</display-name>
+    <icon src="https://ebyl.tmsimg.com/assets/s41677_ld_h15_ac.png" />
+  </channel>
+  <channel id="FOX SPORTS 2">
+    <display-name>FOX SPORTS 2 SD</display-name>
+    <display-name>FOX SPORTS 2 HD</display-name>
+    <display-name>FOX SPORTS 2 FHD</display-name>
+    <display-name>FOX SPORTS 2 4K</display-name>
+    <icon src="https://ebyl.tmsimg.com/assets/s66365_ld_h15_ab.png" />
+  </channel>
+  <channel id="FOX SPORTS 3">
+    <display-name>FOX SPORTS 3 SD</display-name>
+    <display-name>FOX SPORTS 3 HD</display-name>
+    <display-name>FOX SPORTS 3 FHD</display-name>
+    <display-name>FOX SPORTS 3 4K</display-name>
+    <icon src="https://ebyl.tmsimg.com/assets/s105006_ld_h15_aa.png" />
+  </channel>
   <channel id="SKY SPORTS 1 MX">
     <display-name>SKY SPORTS 1 MX SD</display-name>
     <display-name>SKY SPORTS 1 MX HD</display-name>
@@ -124142,6 +124163,791 @@ sobrevivir a las duras condiciones.</desc>
     <title>Línea de cuatro</title>
     <desc>Sin detalles...</desc>
 	</programme>
+  <programme start="20261121000000 +0000" stop="20261121040000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261120</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1119.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261121040000 +0000" stop="20261121080000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261120</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1119.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261121080000 +0000" stop="20261121120000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261121120000 +0000" stop="20261121160000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261121160000 +0000" stop="20261121200000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261121200000 +0000" stop="20261122000000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261122000000 +0000" stop="20261122040000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261122040000 +0000" stop="20261122080000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261122080000 +0000" stop="20261122120000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261122120000 +0000" stop="20261122160000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261122160000 +0000" stop="20261122200000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261122200000 +0000" stop="20261123000000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261123000000 +0000" stop="20261123040000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261123040000 +0000" stop="20261123080000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261123080000 +0000" stop="20261123120000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261123120000 +0000" stop="20261123160000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261123160000 +0000" stop="20261123200000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261124000000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124040000 +0000" channel="FOX SPORTS">
+    <title>Nación Deportes</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660157_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660157&amp;tmsId=SH067238050000</url>
+    <episode-num system="dd_progid">SH06723805.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20261121000000 +0000" stop="20261121040000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261120</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1119.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261121040000 +0000" stop="20261121080000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261120</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1119.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261121080000 +0000" stop="20261121120000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261121120000 +0000" stop="20261121160000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261121160000 +0000" stop="20261121200000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261121200000 +0000" stop="20261122000000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261122000000 +0000" stop="20261122040000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261122040000 +0000" stop="20261122080000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261122080000 +0000" stop="20261122120000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261122120000 +0000" stop="20261122160000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261122160000 +0000" stop="20261122200000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261122200000 +0000" stop="20261123000000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261123000000 +0000" stop="20261123040000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261123040000 +0000" stop="20261123080000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261123080000 +0000" stop="20261123120000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261123120000 +0000" stop="20261123160000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261123160000 +0000" stop="20261123200000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261124000000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124040000 +0000" channel="FOX SPORTS 2">
+    <title>Nación Deportes 2</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/tvbanners/generic/generic_tvbanners_h3.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660164&amp;tmsId=SH067238080000</url>
+    <episode-num system="dd_progid">SH06723808.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261121000000 +0000" stop="20261121040000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261120</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1119.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261121040000 +0000" stop="20261121080000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261120</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1119.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261121080000 +0000" stop="20261121130000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">300</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261121130000 +0000" stop="20261121170000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261121170000 +0000" stop="20261121210000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261121210000 +0000" stop="20261122010000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261122010000 +0000" stop="20261122050000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261121</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1120.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261122050000 +0000" stop="20261122090000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261122090000 +0000" stop="20261122140000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">300</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122220000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261122220000 +0000" stop="20261123020000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261123020000 +0000" stop="20261123060000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261122</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1121.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261123060000 +0000" stop="20261123100000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261123100000 +0000" stop="20261123120000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">120</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261123120000 +0000" stop="20261123160000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261123160000 +0000" stop="20261123200000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261124000000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124040000 +0000" channel="FOX SPORTS 3">
+    <title>Nación Deportes 3</title>
+    <date>20261123</date>
+    <category lang="en">Show</category>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
+    <length units="minutes">240</length>
+    <icon src="https://ebyl.tmsimg.com/assets/p34660197_b_h9_aa.jpg" />
+    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=34660197&amp;tmsId=SH067238120000</url>
+    <episode-num system="dd_progid">SH06723812.0000</episode-num>
+    <episode-num system="xmltv_ns">2025.1122.</episode-num>
+    <previously-shown />
+  </programme>
   <programme start="20261121003000 +0000" stop="20261121023000 +0000" channel="SKY SPORTS 1 MX">
     <desc lang="es">Wanda diamond league 2026 Lon.</desc>
     <title lang="es">Wanda diamond league 2026 Lon</title>
@@ -174178,30 +174984,6 @@ Desde el estadio Camp Nou ubicado en la ciudad de Barcelona, España, se enfrent
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261121000000 +0000" stop="20261121010000 +0000" channel="FOX SPORTS">
-    <title>Money Line Show</title>
-    <desc>El primer programa de apuestas en la televisión deportiva en México.</desc>
-    <credits>
-      <actor>Mariana Velázquez De León</actor>
-      <actor>Silvia Gómez</actor>
-      <actor>Alex Blanco</actor>
-    </credits>
-    <date>20220516</date>
-    <category lang="en">Show</category>
-    <category lang="en">Sports non-event</category>
-    <category lang="en">Game show</category>
-    <length units="minutes">60</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p22172581_b_h9_ae.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=22172581&amp;tmsId=SH043051610000</url>
-    <episode-num system="dd_progid">SH04305161.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1119.</episode-num>
-    <episode-num system="original-air-date">2022-05-16 00:00:00</episode-num>
-    <new />
-    <live />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
   <programme start="20261121010000 +0000" stop="20261121025500 +0000" channel="FOX SPORTS">
     <title>Fútbol UEFA Europa League</title>
     <desc>Toda la cobertura de los partidos de la UEFA Europa League. Resúmenes, mejores jugadas, goles y análisis de los encuentros disputados en las últimas jornadas.</desc>
@@ -174215,24 +174997,6 @@ Desde el estadio Camp Nou ubicado en la ciudad de Barcelona, España, se enfrent
     <episode-num system="dd_progid">SH01254499.0000</episode-num>
     <episode-num system="original-air-date">2009-07-02 00:00:00</episode-num>
     <previously-shown start="20090702000000" />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-  </programme>
-  <programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="FOX SPORTS 2">
-    <title>Lo mejor de la UEFA Europa League</title>
-    <desc>Reportajes, estadísticas y resultados de la segunda máxima competición de clubes de Europa, la UEFA Europa League.</desc>
-    <date>20110407</date>
-    <category lang="en">Show</category>
-    <category lang="en">Sports event</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Soccer</category>
-    <length units="minutes">30</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p8604774_b_h9_ac.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=8604774&amp;tmsId=SH014010310000</url>
-    <episode-num system="dd_progid">SH01401031.0000</episode-num>
-    <episode-num system="original-air-date">2011-04-07 00:00:00</episode-num>
-    <previously-shown start="20110407000000" />
     <video>
       <quality>HDTV</quality>
     </video>
@@ -174295,35 +175059,6 @@ Desde el estadio Camp Nou ubicado en la ciudad de Barcelona, España, se enfrent
     <video>
       <quality>HDTV</quality>
     </video>
-  </programme>
-  <programme start="20261121000000 +0000" stop="20261121020000 +0000" channel="FOX SPORTS 3">
-    <title>WWE SmackDown!</title>
-    <desc>Las superestrellas del Entretenimiento del Mundo de la Lucha, Edge, Big Show, Christian, Rey Mysterio y muchos otros más, se enfrentan entre ellos en competencias de lucha libre elaboradas y extensas. &quot;Smack Down&quot; es un show semanal entretenido de dos horas de duración, en el que se muestran las habilidades atléticas sorprendentes, el humor, momentos dramáticos y algunos controversiales. Estas estrellas de lucha están dispuestas a todo para ser las mejores y alcanzar la máxima distinción en la industria y ser los más queridos por el público.</desc>
-    <credits>
-      <actor>Tom Phillips</actor>
-      <actor>Byron Saxton</actor>
-      <actor>Corey Graves</actor>
-    </credits>
-    <date>19990826</date>
-    <category lang="en">Show</category>
-    <category lang="en">Sports non-event</category>
-    <category lang="en">Pro wrestling</category>
-    <length units="minutes">120</length>
-    <icon src="https://ebyl.tmsimg.com/assets/p16151289_b_h9_aa.jpg" />
-    <url>https://tvlistings.gracenote.com//overview.html?programSeriesId=312169&amp;tmsId=SH012090550000</url>
-    <episode-num system="dd_progid">SH01209055.0000</episode-num>
-    <episode-num system="xmltv_ns">2025.1119.</episode-num>
-    <episode-num system="original-air-date">1999-04-21 00:00:00</episode-num>
-    <new />
-    <live />
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <audio type="stereo" />
-    <subtitles type="teletext" />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
   </programme>
   <programme start="20261121020000 +0000" stop="20261121030000 +0000" channel="FOX SPORTS 3">
     <title>Campeonato Mundial de Rally de la FIA</title>
