@@ -9,6 +9,7 @@
 60d356a534f63f000850cdd7,Top Gear,https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG_1756396834691.png
 60c343007bcabe0007242aa6,El Comisario,https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png
 68d566603d3a9580eb461251,Paramount Network de Pluto TV,https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png
+69f8b5e9c2b638404fe8f818,El último tema,https://images.pluto.tv/channels/69f8b5e9c2b638404fe8f818/colorLogoPNG_1793973744226.png
 695fd9f0b7aaee65cc031463,Slam Dunk,https://images.pluto.tv/channels/695fd9f0b7aaee65cc031463/colorLogoPNG_1794561074054.png
 60d3574e97f10800078455de,Doctor Who,https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG_1792573918778.png
 6a9a8fbd8cc64f2b2b40c83c,Rebelde,https://images.pluto.tv/channels/6a9a8fbd8cc64f2b2b40c83c/colorLogoPNG_1789113326784.png
@@ -133,8 +134,8 @@
 5f1acdaa8ba90f0007d5e760,Pluto TV Cocina,https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png
 6a9fc2af17c0d8c7a37697d0,Cenando con Pablo,https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/colorLogoPNG_1789464728847.png
 690dd10a37b131228d76d5b1,El Mueble,https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png
-64db2e0835425100080f2f5a,Pluto TV Diseño,https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png
 69b3db5d61e8e298254c7108,Space Live,https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/colorLogoPNG_1775061733929.png
+64db2e0835425100080f2f5a,Pluto TV Diseño,https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png
 6a846cb6840f7d654710df00,That's 90s00s,https://images.pluto.tv/channels/6a846cb6840f7d654710df00/colorLogoPNG_1790842102809.png
 6a846c44496b635ad62aa13e,That's 80s,https://images.pluto.tv/channels/6a846c44496b635ad62aa13e/colorLogoPNG_1790781375896.png
 6a846ccd99e7db5e8a1d9b5f,That's Rock,https://images.pluto.tv/channels/6a846ccd99e7db5e8a1d9b5f/colorLogoPNG_1790781023873.png
