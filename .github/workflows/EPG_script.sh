@@ -130,6 +130,9 @@ perl -i -ne '
             elsif ($titulo_actual =~ /SquirrelTV 2/i && $canal_actual =~ /Squirrel 2/i) {
                 $duplicados++; $imprimir=0;
             }
+            elsif ($titulo_actual =~ /Bom Cine/i && $canal_actual =~ /Bom Cine/i) {
+                $duplicados++; $imprimir=0;
+            }
             elsif ($inicio_actual < $c_old) { $pasados++; $imprimir=0; }
             elsif ($inicio_actual > $c_new) { $futuros++; $imprimir=0; }
             elsif ($visto_exact{$clave_exact}) { $duplicados++; $imprimir=0; }
