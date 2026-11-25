@@ -129,6 +129,7 @@ AMC Break,AMC Break,https://raw.githubusercontent.com/davidmuma/picons_dobleM/ma
 AMC Crime,AMC Crime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png
 AMC Living,AMC Living,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Living.png
 AMC Western,AMC Western,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Western.png
+AMC Selekt TV,AMC Selekt TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Selekt%20TV.png
 Warner TV HD,Warner TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png
 AXN HD,AXN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png
 AXN Movies HD,AXN Movies,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png
