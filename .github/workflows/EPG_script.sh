@@ -127,7 +127,7 @@ perl -i -ne '
             if ($titulo_actual =~ /UEFA Euro 2024/i && $canal_actual =~ /SKY SPORTS (1|16|21|24) MX/) {
                 $duplicados++; $imprimir=0;
             }
-            elsif ($titulo_actual =~ /SquirrelTV 2/i && $canal_actual =~ /Squirrel 2/i) {
+            elsif ($titulo_actual =~ /Squirrel/i && $canal_actual =~ /^Squirrel$/) {
                 $duplicados++; $imprimir=0;
             }
             elsif ($titulo_actual =~ /Bom Cine/i && $canal_actual =~ /Bom Cine/i) {
