@@ -854,6 +854,13 @@
     <display-name>AMC Western 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Western.png" />
   </channel>
+  <channel id="AMC Selekt TV">
+    <display-name>AMC Selekt TV SD</display-name>
+    <display-name>AMC Selekt TV HD</display-name>
+    <display-name>AMC Selekt TV FHD</display-name>
+    <display-name>AMC Selekt TV 4K</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Selekt%20TV.png" />
+  </channel>
   <channel id="Warner TV">
     <display-name>Warner TV SD</display-name>
     <display-name>Warner TV HD</display-name>
@@ -61688,6 +61695,948 @@
 		</rating>
 		<star-rating system="ES">
 			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261125014000 +0100" stop="20261125032500 +0100" channel="AMC Selekt TV">
+    <title>La madre muerta</title>
+    <desc>(Cine,Suspense,Policíaco) Ismael ha cometido varios asesinatos, pero las consecuencias de uno de ellos continúan obsesionándole. La hija de una de sus víctimas, niña de corta edad que presenció el crimen, quedó tan impresionada que no ha vuelto a recobrar la razón.</desc>
+    <category>Cine, Suspense, Policíaco</category>
+	</programme>
+	<programme start="20261125032500 +0100" stop="20261125041700 +0100" channel="AMC Selekt TV">
+    <title>Ciencia letal T1 E4 · Rutas olvidadas</title>
+    <sub-title>2022 | ⑦</sub-title>
+    <desc>(Documental,Científico) Fuera de los caminos trillados y en los confines del universo conocido, hay secretos que esperan a ser revelados. Solo los intrépidos de verdad lo han arriesgado todo para encontrarlos.
+· País: Canadá, Alemania
+· Dirección: Daniel Oron.</desc>
+    <category>Documental, Científico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021671.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+	</programme>
+	<programme start="20261125041700 +0100" stop="20261125050900 +0100" channel="AMC Selekt TV">
+    <title>Ciencia letal T1 E5 · En nombre de la medicina</title>
+    <sub-title>2022 | ⑦</sub-title>
+    <desc>(Documental,Científico) Los avances en medicina nunca son fáciles. Los primeros científicos tuvieron que asumir riesgos notables para entender el cuerpo humano y realizar descubrimientos que salvaran vidas.
+· País: Canadá, Alemania
+· Dirección: Daniel Oron.</desc>
+    <category>Documental, Científico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021671.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+	</programme>
+	<programme start="20261125050900 +0100" stop="20261125060200 +0100" channel="AMC Selekt TV">
+    <title>Ciencia letal T2 E2 · Biología mortal</title>
+    <sub-title>2024 | ⑦</sub-title>
+    <desc>(Documental,Científico) Para salvar millones de vidas, los mártires de la medicina se han puesto en la primera línea de fuego.
+· País: Canadá
+· Dirección: Daniel Oron.</desc>
+    <category>Documental, Científico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021671.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+	</programme>
+	<programme start="20261125060200 +0100" stop="20261125065400 +0100" channel="AMC Selekt TV">
+    <title>Ciencia letal T2 E3 · Territorios peligrosos</title>
+    <sub-title>2024 | ⑦</sub-title>
+    <desc>(Documental,Científico) El espíritu de exploración siempre ha llamado a los científicos más valientes a adentrarse en nuevas fronteras del mundo natural.
+· País: Canadá
+· Dirección: Daniel Oron.</desc>
+    <category>Documental, Científico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021671.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+	</programme>
+	<programme start="20261125065400 +0100" stop="20261125071600 +0100" channel="AMC Selekt TV">
+    <title>Subastas gigantes T1 E2 · Drayton Valley</title>
+    <sub-title>2013 | ⑦ | ★5.0/10</sub-title>
+    <desc>(Documental,Otros) Ritchie Bros. hace más negocios de camino en su viaje a la zona rural de Drayton Valley, en Alberta, donde los granjeros Len y Vicki Paulson se están deshaciendo de muchas cosas.
+· País: Canadá
+· Dirección: Tim Alp.
+· Reparto: Ritchie Bros. Auctioneers.</desc>
+    <category>Documental, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021779.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261125071600 +0100" stop="20261125073900 +0100" channel="AMC Selekt TV">
+    <title>Subastas gigantes T1 E3 · Edmonton - Día 1</title>
+    <sub-title>2013 | ⑦ | ★5.0/10</sub-title>
+    <desc>(Documental,Otros) La subasta de dos días de Edmonton se perfila como la mayor del mes hasta la fecha. Con un despliegue sin igual de maquinaria pesada, esta subasta no dejará indiferente a nadie.
+· País: Canadá
+· Dirección: Tim Alp.
+· Reparto: Ritchie Bros. Auctioneers.</desc>
+    <category>Documental, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021779.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261125073900 +0100" stop="20261125090200 +0100" channel="AMC Selekt TV">
+    <title>Yuma</title>
+    <sub-title>1957 | ⑬ | ★6.6/10</sub-title>
+    <desc>(Cine,Western,Drama) Un ex combatiente del ejército confederado se niega a aceptar la rendición ante el Norte y se une a los sioux. Tiempo después, cuando los indios se enfrenten a los militares estadounidenses, se ve obligado a elegir el bando en el que debe luchar.
+· País: Estados Unidos
+· Dirección: Samuel Fuller.
+· Reparto: Rod Steiger, Sara Montiel, Charles Bronson, Ralph Meeker, Jay C. Flippen, Brian Keith, H.M. Wynant, Olive Carey, Neyle Morrow.
+· Música: Victor Young.
+· Producción: Samuel Fuller.</desc>
+    <category>Cine, Western, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5978157.jpg" />
+		<rating system="ES">
+			<value>13</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261125090200 +0100" stop="20261125114400 +0100" channel="AMC Selekt TV">
+    <title>Hasta que llegó su hora</title>
+    <sub-title>1968 | ⑯ | ★8.5/10</sub-title>
+    <desc>(Cine,Western,Acción,Drama) Cuando Jill llega al pueblo donde la espera su nuevo marido y sus hijos, todos han sido asesinados y ella se ha convertido en viuda y en la única heredera de un erial.
+· País: Italia, Estados Unidos
+· Dirección: Sergio Leone.
+· Reparto: Henry Fonda, Claudia Cardinale, Charles Bronson, Jason Robards, Frank Wolff, Gabriele Ferzetti, Paolo Stoppa, Jack Elam, Woody Strode, Al Mulock, John Frederick, Simonetta Santaniello, Keenan Wynn, Lionel Stander, Marco Zuanelli, Enzo Santaniello, Benito Stefanelli, Michael Harvey.
+· Música: Ennio Morricone.
+· Producción: Fulvio Morsella.</desc>
+    <category>Cine, Western, Acción, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4112374.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261125114400 +0100" stop="20261125122800 +0100" channel="AMC Selekt TV">
+    <title>La casa de mis sueños T8 E183</title>
+    <sub-title>2018 | TP | ★7.1/10</sub-title>
+    <desc>(Programa,Reality,Estilo de vida) Los hermanos Scott ayudan a encontrar, comprar y transformar una casa descuidada en la casa de sus sueños.
+· País: Canadá, Estados Unidos
+· Dirección: Cheryl Zalameda, Stephen Milne, Marc Simard, Misty Tyson, Drew Scott, Michael Davies Jr.
+· Reparto: Drew Scott, Jonathan Scott, Katie Hunt, Brandon Schinzel, Dupree Francois Porter, Eugenie Francois.</desc>
+    <category>Programa, Reality, Estilo de vida</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021254.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.1/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261125122800 +0100" stop="20261125125300 +0100" channel="AMC Selekt TV">
+    <title>Minipisos asombrosos T3 E1</title>
+    <sub-title>2021 | TP</sub-title>
+    <desc>(Programa,Estilo de vida) Viajamos a Burgos, una de las ciudades más bonitas de España, para visitar el estupendo minipiso de Inma. De ahí nos iremos a conocer la casa de Anabel, un minipiso entre la historia y la modernidad.
+· País: Argentina, España
+· Reparto: Varios int.</desc>
+    <category>Programa, Estilo de vida</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021262.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261125125300 +0100" stop="20261125132000 +0100" channel="AMC Selekt TV">
+    <title>Redecora con Raquel T6 E18 · Una terraza de infinitas posibilidades</title>
+    <sub-title>2024 | TP</sub-title>
+    <desc>(Programa,Estilo de vida) Ricardo tiene una terraza en su chalé adosado, pero no le ha dedicado mucha atención. Ahora ha llamado a Raquel porque desea convertirla en lugar de encuentro y en zona de relax.
+· País: España
+· Dirección: Varios.
+· Reparto: Raquel Regueras.</desc>
+    <category>Programa, Estilo de vida</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021244.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261125132000 +0100" stop="20261125134700 +0100" channel="AMC Selekt TV">
+    <title>El Camino de Santiago by Julius T2 E18 · Luarca</title>
+    <sub-title>2022 | TP</sub-title>
+    <desc>(Documental,Viajes y aventuras,Otros) Desde Luarca hasta la frontera con Galicia, Julius va presentando el Roscón de la princesa, el Guiso de Raya, la Bomba de calamar y el Postre de maíz, además de conocer la pesca de ostras.
+· País: España
+· Dirección: Jaime Pardo Valdés.
+· Reparto: Julio Bienert, Julius Bienert.
+· Producción: Julius Bienert.</desc>
+    <category>Documental, Viajes y aventuras, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021197.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261125134700 +0100" stop="20261125141400 +0100" channel="AMC Selekt TV">
+    <title>Canal Cocina te pasa el delantal T1 E18</title>
+    <sub-title>2022 | TP</sub-title>
+    <desc>(Programa,Cocina) Recorremos La Coruña para descubrir el plato que vuelve loco a los gallegos, los callos. Y seguimos por el norte hasta llegar Asturias donde Jose Ángel nos espera con su Merluza mariscada.
+· País: España</desc>
+    <category>Programa, Cocina</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021175.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261125141400 +0100" stop="20261125144400 +0100" channel="AMC Selekt TV">
+    <title>Escuela Canal Cocina T2 E18 · Tartas infalibles</title>
+    <sub-title>2021 | TP</sub-title>
+    <desc>(Programa,Estilo de vida,Cocina) En la clase de hoy aprenderemos a preparar las tartas más infalibles. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: La mejor tarta de queso del mundo y Tarta de Santiago.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+    <category>Programa, Estilo de vida, Cocina</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021161.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261125144400 +0100" stop="20261125150800 +0100" channel="AMC Selekt TV">
+    <title>¿Cómo se elabora? T1 E18 · Queso fundido en lonchas, Crema de bombón y Sirope</title>
+    <sub-title>2019 | TP</sub-title>
+    <desc>(Programa,Cocina) Veremos cómo se elabora: Queso fundido en lonchas, Crema de bombón y Sirope.
+· País: España
+· Reparto: Varios int, Voice Voice.</desc>
+    <category>Programa, Cocina</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4643576.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261125150800 +0100" stop="20261125155300 +0100" channel="AMC Selekt TV">
+    <title>Expediente X T5 E20 · The End</title>
+    <sub-title>1998 | ⑯ | ★8.6/10</sub-title>
+    <desc>(Series,Ciencia Ficción,Otros) Mulder y Scully descubren a un médium de 12 años cuya vida podría estar en peligro debido a su capacidad para resolver todos los fenómenos sin explicar de los Expedientes X.
+· País: Canadá, Estados Unidos
+· Dirección: Chris Carter, Rob Bowman, Tony Wharmby, Michael W. Watkins, Kim Manners, David Nutter.
+· Reparto: Gillian Anderson, Annabeth Gish, David Duchovny, Robert Patrick, William B. Davis, Mitch Pileggi, Tom Braidwood, Bruce Harwood, Dean Haglund, Nicholas Lea.
+· Producción: Chris Carter.</desc>
+    <category>Series, Ciencia Ficción, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4473105.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261125155300 +0100" stop="20261125163700 +0100" channel="AMC Selekt TV">
+    <title>Expediente X T6 E1 · El comienzo</title>
+    <sub-title>1998 | ⑯ | ★8.6/10</sub-title>
+    <desc>(Series,Ciencia Ficción,Otros) Mientras un comité de revisión investiga las afirmaciones de Mulder sobre la existencia de alienígenas y la conspiración del gobierno, los agentes dan caza a una criatura extraterrestre letal.
+· País: Canadá, Estados Unidos
+· Dirección: Chris Carter, Rob Bowman, Tony Wharmby, Michael W. Watkins, Kim Manners, David Nutter.
+· Reparto: David Duchovny, Gillian Anderson, William B. Davis, Mitch Pileggi, Robert Patrick, Tom Braidwood, Bruce Harwood, Dean Haglund, Annabeth Gish, Nicholas Lea.
+· Producción: Chris Carter.</desc>
+    <category>Series, Ciencia Ficción, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4473105.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261125163700 +0100" stop="20261125171800 +0100" channel="AMC Selekt TV">
+    <title>Arqueología en la oscuridad T1 E7 · Los guardianes de las tumbas olvidadas</title>
+    <sub-title>2025 | ⑫</sub-title>
+    <desc>(Documental,Otros,Histórico,Científico) Hallazgos en Italia, China, Bélgica y México revelan cámaras funerarias, esqueletos extraños y tumbas que mantienen vivo el misterio de antiguas civilizaciones.
+· País: Canadá
+· Dirección: Ben Manthorpe.</desc>
+    <category>Documental, Otros, Histórico, Científico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4386886.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261125171800 +0100" stop="20261125180000 +0100" channel="AMC Selekt TV">
+    <title>Arqueología en la oscuridad T1 E8 · Rituales ocultos del pasado</title>
+    <sub-title>2025 | ⑫</sub-title>
+    <desc>(Documental,Otros,Histórico,Científico) Hallazgos en China, Italia y Australia revelan osarios, fósiles y objetos rituales que iluminan aspectos clave de la historia y de la evolución humana.
+· País: Canadá
+· Dirección: Ben Manthorpe.</desc>
+    <category>Documental, Otros, Histórico, Científico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4386886.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261125180000 +0100" stop="20261125185600 +0100" channel="AMC Selekt TV">
+    <title>La historia de Apple</title>
+    <sub-title>2026 | ⑦</sub-title>
+    <desc>(Documental,Científico,Tecnología,Otros) Acompáñenos en este apasionante retrato de Apple, la empresa que no solo transformó la tecnología, sino también la forma en que vivimos, trabajamos, nos comunicamos y nos relacionamos con el mundo.
+· País: Alemania
+· Dirección: Annette Baumeister.</desc>
+    <category>Documental, Científico, Tecnología, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5955201.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+	</programme>
+	<programme start="20261125185600 +0100" stop="20261125195000 +0100" channel="AMC Selekt TV">
+    <title>Generación pantallas</title>
+    <sub-title>2020 | TP</sub-title>
+    <desc>(Cine,Documentales) Teléfonos inteligentes, televisores, ordenadores, videoconsolas y tabletas: todas estas pantallas ocupan ahora una gran parte de nuestras vidas, y han creado un desafío único para nuestros cerebros.
+· País: Francia
+· Dirección: Raphaël Hitier.
+· Reparto: Anna Flori-Lamour, Sylvie Dieu-Osika, Daphné Bavelier, Rachel Barr, Dimitri Christakis, Iman, Amalia.</desc>
+    <category>Cine, Documentales</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5193596.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261125195000 +0100" stop="20261125195200 +0100" channel="AMC Selekt TV">
+    <title>Un día en la Historia de España: 25 de noviembre de 1491</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Programa,Otros) En este episodio descubriremos qué ocurrió el 25 de noviembre de 1491.
+· País: España
+· Producción: José Carlos Gracia.</desc>
+    <category>Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5978464.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261125195200 +0100" stop="20261125221100 +0100" channel="AMC Selekt TV">
+    <title>Mentiras arriesgadas</title>
+    <sub-title>1994 | ⑱ | ★7.3/10</sub-title>
+    <desc>(Cine,Acción,Suspense) El agente especial Harry lleva una doble vida. Con entrenamiento en inteligencia y espionaje, el destino hace que su esposa se vea involucrada en una misión peligrosa.
+· País: Estados Unidos
+· Dirección: James Cameron.
+· Reparto: Art Malik, Tia Carrere, Charlton Heston, Jamie Lee Curtis, Arnold Schwarzenegger, Tom Arnold, Eliza Dushku, Bill Paxton, Grant Heslov, Marshall Manesh, Jane Morris, Dieter Rauter, Crystina Wyler, Katsy Chappell, James Alper.
+· Música: Brad Fiedel.
+· Producción: James Cameron, Stephanie Austin.</desc>
+    <category>Cine, Acción, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5986602.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261125221100 +0100" stop="20261125222100 +0100" channel="AMC Selekt TV">
+    <title>TikTak Cine T1 E69 · Arnold Schwarzenegger</title>
+    <sub-title>2025 | TP</sub-title>
+    <desc>(Programa,Otros) En un Hollywood cambiante, Arnold Schwarzenegger permanece como el referente absoluto del cine de acción, un héroe total cuya huella es tan grande como su legado.
+· País: España, Estados Unidos</desc>
+    <category>Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021065.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261125222100 +0100" stop="20261126001600 +0100" channel="AMC Selekt TV">
+    <title>La guerra de los Rose</title>
+    <sub-title>1989 | ⑯ | ★6.9/10</sub-title>
+    <desc>(Cine,Comedia,Romance) Barbara y Oliver llevan 17 años casados y son la pareja perfecta. Solo hay un pequeño problema: no se soportan. Ella es una mujer resentida y fina; mientras que él es un hombre abstraído en sus negocios y estúpido.
+· País: Estados Unidos
+· Dirección: Danny DeVito, Stacey Sher.
+· Reparto: Marianne Sägebrecht, Sean Astin, Michael Douglas, Kathleen Turner, Danny DeVito, Heather Fairfield, G.D. Spradlin, Peter Donat.
+· Música: David Newman.
+· Producción: 20th Century Fox, Gracie Films, Warren Adler.</desc>
+    <category>Cine, Comedia, Romance</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5678368.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126001600 +0100" stop="20261126020500 +0100" channel="AMC Selekt TV">
+    <title>Muchachos, la película de la gente</title>
+    <sub-title>2023 | ⑫ | ★8.1/10</sub-title>
+    <desc>(Cine,Documentales) Esta película se sumerge en el corazón de la hinchada argentina, revive los partidos del Mundial de Fútbol de Qatar 2022 y muestra las celebraciones por el triunfo de su Selección.
+· País: Argentina
+· Dirección: Jesús Braceras.
+· Reparto: Guillermo Francella, Ángela Lerena, Ernesto Tenembaum, Tití Fernandez, Pablo Giralt.
+· Producción: Pablo Bossi.</desc>
+    <category>Cine, Documentales</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4246204.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.1/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126020500 +0100" stop="20261126025000 +0100" channel="AMC Selekt TV">
+    <title>Cazatesoros T2 E3 · Los últimos mochicas</title>
+    <sub-title>2000 | ⑫ | ★6.5/10</sub-title>
+    <desc>(Series,Acción,Aventuras,Suspense) Tras recuperar una vasija que supuestamente contiene el Espíritu del Gran Guerrero mochica y tomar un vuelo a Lima, Sydney y Nigel creen que su aventura ha terminado.
+· País: Canadá, Francia, Estados Unidos
+· Dirección: John Bell, Ian Toynton, Terry Ingram, George Mendeluk, Don McCutcheon, Paolo Barzman.
+· Reparto: Tia Carrere, Christien Anholt, Lindy Booth, Tanja Reichert, Louis Mandylor, Juan Carlos Velis, Simon MacCorkindale, Tony Rosato.</desc>
+    <category>Series, Acción, Aventuras, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5981401.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126025000 +0100" stop="20261126033500 +0100" channel="AMC Selekt TV">
+    <title>Cazatesoros T2 E4 · Leyenda de lo perdido</title>
+    <sub-title>2000 | ⑫ | ★6.5/10</sub-title>
+    <desc>(Series,Acción,Aventuras,Suspense) El agente del gobierno Derek Lloyd, que una vez engañó a Sydney y Nigel para una misión, atrae a Sydney a Nueva Guinea secuestrando a Nigel.
+· País: Canadá, Francia, Estados Unidos
+· Dirección: John Bell, Ian Toynton, Terry Ingram, George Mendeluk, Don McCutcheon, Paolo Barzman.
+· Reparto: Tia Carrere, Christien Anholt, Lindy Booth, Tanja Reichert, Louis Mandylor, Juan Carlos Velis, Simon MacCorkindale, Tony Rosato.</desc>
+    <category>Series, Acción, Aventuras, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5981401.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126033500 +0100" stop="20261126042000 +0100" channel="AMC Selekt TV">
+    <title>Cazatesoros T2 E5 · Terreno fértil</title>
+    <sub-title>2000 | ⑫ | ★6.5/10</sub-title>
+    <desc>(Series,Acción,Aventuras,Suspense) En una reunión de antiguos alumnos, Sydney se sorprende al descubrir que Tony, su amor del instituto, sigue el rastro del Ídolo de Lono, robado en Hawái por los hombres del capitán Cook en 1779.
+· País: Canadá, Francia, Estados Unidos
+· Dirección: John Bell, Ian Toynton, Terry Ingram, George Mendeluk, Don McCutcheon, Paolo Barzman.
+· Reparto: Tia Carrere, Christien Anholt, Lindy Booth, Tanja Reichert, Juan Carlos Velis, Louis Mandylor, Simon MacCorkindale, Tony Rosato.</desc>
+    <category>Series, Acción, Aventuras, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5981401.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126042000 +0100" stop="20261126050500 +0100" channel="AMC Selekt TV">
+    <title>Cazatesoros T2 E6 · Rompecabezas gitano</title>
+    <sub-title>2000 | ⑫ | ★6.5/10</sub-title>
+    <desc>(Series,Acción,Aventuras,Suspense) Tras el asesinato de su viejo amigo Garrett Burke en Bucarest, Sydney recibe un paquete misterioso que él le envió antes de morir. Burke buscaba un antiguo tesoro gitano: la Corona de Roma.
+· País: Canadá, Francia, Estados Unidos
+· Dirección: John Bell, Ian Toynton, Terry Ingram, George Mendeluk, Don McCutcheon, Paolo Barzman.
+· Reparto: Tia Carrere, Christien Anholt, Lindy Booth, Tanja Reichert, Juan Carlos Velis, Louis Mandylor, Simon MacCorkindale, Tony Rosato.</desc>
+    <category>Series, Acción, Aventuras, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5981401.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126050500 +0100" stop="20261126052600 +0100" channel="AMC Selekt TV">
+    <title>WWE: Mejores momentos T2 E2 · John Cena</title>
+    <sub-title>2025 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Documental,Otros) Esfuerzo, lealtad y respeto: tres principios que han guiado a John Cena mientras forjaba uno de los legados más memorables en la historia del wrestling profesional.
+· País: Estados Unidos
+· Reparto: Michael Cole, Michael Coulthard.</desc>
+    <category>Documental, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5986315.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126052600 +0100" stop="20261126054800 +0100" channel="AMC Selekt TV">
+    <title>WWE: Mejores momentos T2 E3 · Los momentos más impactantes de los 80</title>
+    <sub-title>2025 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Documental,Otros) El wrestling profesional siempre ha ofrecido algunos de los momentos más salvajes jamás vistos en televisión, y los años 80 no fueron la excepción.
+· País: Estados Unidos
+· Reparto: Michael Cole, Michael Coulthard.</desc>
+    <category>Documental, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5986315.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126054800 +0100" stop="20261126060800 +0100" channel="AMC Selekt TV">
+    <title>WWE: Mejores momentos T2 E4 · Booker T</title>
+    <sub-title>2025 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Documental,Otros) En este episodio celebramos la trayectoria de Booker T, dos veces miembro del Salón de la Fama y cinco veces campeón de WCW, revivimos sus primeros pasos y sus combates más destacados.
+· País: Estados Unidos
+· Reparto: Michael Cole, Michael Coulthard.</desc>
+    <category>Documental, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5986315.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126060800 +0100" stop="20261126063000 +0100" channel="AMC Selekt TV">
+    <title>WWE: Mejores momentos T2 E5 · Dúos legendarios de los 90</title>
+    <sub-title>2025 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Documental,Otros) La lucha por parejas siempre ha sido una pieza clave del wrestling profesional, y pocas épocas brillaron tanto en esta modalidad como los años 90.
+· País: Estados Unidos
+· Reparto: Michael Cole, Michael Coulthard.</desc>
+    <category>Documental, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5986315.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126063000 +0100" stop="20261126072400 +0100" channel="AMC Selekt TV">
+    <title>Policías en acción T2 E9 · Una mafia experta en alunizajes</title>
+    <sub-title>2013 | ⑯ | ★5.8/10</sub-title>
+    <desc>(Programa,Entretenimiento,Reality) En este episodio, aluniceros asaltan una tienda, un coche huido vuelca y los ocupantes llevan droga, y un joven es investigado tras hallar ropa nueva de origen dudoso en su coche.
+· País: España
+· Dirección: David Ortega.
+· Reparto: Tony Leonard, Michael Maycroft, Eric Winstrom, Jen Wordelman.</desc>
+    <category>Programa, Entretenimiento, Reality</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5933668.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126072400 +0100" stop="20261126081700 +0100" channel="AMC Selekt TV">
+    <title>Policías en acción T2 E10 · Prostitución callejera en Madrid</title>
+    <sub-title>2013 | ⑯ | ★5.8/10</sub-title>
+    <desc>(Programa,Entretenimiento,Reality) La Brigada de Extranjería patrulla la mayor zona de prostitución callejera de Madrid y se topan con un funcionario de prisiones que se hace pasar por policía para evitar pagar a una de las mujeres.
+· País: España
+· Dirección: David Ortega.
+· Reparto: Tony Leonard, Michael Maycroft, Eric Winstrom, Jen Wordelman.</desc>
+    <category>Programa, Entretenimiento, Reality</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5933668.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126081700 +0100" stop="20261126090900 +0100" channel="AMC Selekt TV">
+    <title>Policías en acción T2 E11 · Contra la esclavitud sexual</title>
+    <sub-title>2013 | ⑯ | ★5.8/10</sub-title>
+    <desc>(Programa,Entretenimiento,Reality) En este episodio, inspeccionan dos locales sospechosos, la policía interviene en un incendio en Fuenlabrada y los agentes dudan de la autenticidad de la documentación de un implicado en un accidente.
+· País: España
+· Dirección: David Ortega.
+· Reparto: Tony Leonard, Michael Maycroft, Eric Winstrom, Jen Wordelman.</desc>
+    <category>Programa, Entretenimiento, Reality</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5933668.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126090900 +0100" stop="20261126104400 +0100" channel="AMC Selekt TV">
+    <title>El arte de no casarse</title>
+    <sub-title>1966 | ⑱ | ★4.7/10</sub-title>
+    <desc>(Cine,Comedia) La ilusión del español medio por conquistar mujeres sin ser atrapado por ninguna y evitar el matrimonio, queda reflejada en cuatro historias sobre el arte de no casarse.
+· País: España
+· Dirección: José Font Espina, Jorge Feliu, José María Font Espina.
+· Reparto: Alfredo Landa, Concha Velasco, Laly Soldevila, Margot Cottens, Antonio Vico, José Franco, Irán Eory, Maria Isbert, Matilde Muñoz Sampedro, Diana Darvey, Joaquín Prats.
+· Música: Carmelo A. Bernaola.</desc>
+    <category>Cine, Comedia</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4378087.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.7/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126104400 +0100" stop="20261126123600 +0100" channel="AMC Selekt TV">
+    <title>Las aventuras de Jeremiah Johnson</title>
+    <sub-title>1972 | ⑯ | ★7.6/10</sub-title>
+    <desc>(Cine,Western) A mediados del siglo XIX, un ex-soldado llamado Jeremiah Johnson abandona la ciudad y se dirige a las montañas. Una vez allí, y con la ayuda de un viejo trampero, aprenderá todo lo necesario para sobrevivir en un medio natural y salvaje. Al mismo tiempo, inicia una amistosa relación con los nativos y se casa con una india. Pero un día, miembros de una tribu rival (los crow) asesinan a su familia; Johnson, roto de dolor se venga de los crow, prende fuego a su cabaña e inicia una vida errante y solitaria. Entre tanto, los crow, en una especie de contravenganza, comienzan a enviar a sus mejores guerreros, de uno en uno, para acabar con Johnson. Pero Jeremiah los vence a todos, hasta que finalmente es reconocido y aceptado como un guerrero legendario.
+· País: Estados Unidos
+· Dirección: Sydney Pollack.
+· Reparto: Robert Redford, Paul Benedict, Matt Clark, Will Geer, Josh Albee, Delle Bolton, Allyn Ann McLerie, Joaquín Martínez, Stefan Gierasch, Richard Angarola, Charles Tyner, Jack Colvin.
+· Música: Tim McIntire, John Rubinstein.
+· Producción: Joe Wizan.</desc>
+    <category>Cine, Western</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4642108.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126123600 +0100" stop="20261126131900 +0100" channel="AMC Selekt TV">
+    <title>La casa de mis sueños T8 E184</title>
+    <sub-title>2018 | TP | ★7.1/10</sub-title>
+    <desc>(Programa,Reality,Estilo de vida) Los hermanos Scott ayudan a encontrar, comprar y transformar una casa descuidada en la casa de sus sueños.
+· País: Canadá, Estados Unidos
+· Dirección: Cheryl Zalameda, Stephen Milne, Marc Simard, Misty Tyson, Drew Scott, Michael Davies Jr.
+· Reparto: Drew Scott, Jonathan Scott, Katie Hunt, Brandon Schinzel, Dupree Francois Porter, Eugenie Francois.</desc>
+    <category>Programa, Reality, Estilo de vida</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021254.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.1/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126131900 +0100" stop="20261126134400 +0100" channel="AMC Selekt TV">
+    <title>Minipisos asombrosos T3 E2</title>
+    <sub-title>2021 | TP</sub-title>
+    <desc>(Programa,Estilo de vida) Julio se propuso transformar una buhardilla en un minipiso encantador. Después conoceremos a Eva, una fanática del almacenaje que ha diseñado un minipiso donde no falta para guardar cosas.
+· País: Argentina, España
+· Reparto: Varios int.</desc>
+    <category>Programa, Estilo de vida</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021262.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261126134400 +0100" stop="20261126141200 +0100" channel="AMC Selekt TV">
+    <title>Redecora con Raquel T6 E19 · Un salón para una nueva etapa</title>
+    <sub-title>2024 | TP</sub-title>
+    <desc>(Programa,Estilo de vida) En su nueva casa, Elena quiere sacarle más partido al salón con una mesa de centro elevable, espacio para almacenar la colección de discos de su pareja y, por supuesto, una bonita foto de su pueblo.
+· País: España
+· Dirección: Varios.
+· Reparto: Raquel Regueras.</desc>
+    <category>Programa, Estilo de vida</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021244.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261126141200 +0100" stop="20261126144200 +0100" channel="AMC Selekt TV">
+    <title>El Camino de Santiago by Julius T2 E19 · Ribadeo y Mondoñedo</title>
+    <sub-title>2022 | TP</sub-title>
+    <desc>(Documental,Viajes y aventuras,Otros) En Ribadeo, Coté enseña a Julius los secretos delos Percebes. El camino sigue con Arroz caldoso con marisco, Carne mechada, Fabes de Lourenzá con almejas y Tarta de Mondoñedo.
+· País: España
+· Dirección: Jaime Pardo Valdés.
+· Reparto: Julio Bienert, Julius Bienert.
+· Producción: Julius Bienert.</desc>
+    <category>Documental, Viajes y aventuras, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021197.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261126144200 +0100" stop="20261126150900 +0100" channel="AMC Selekt TV">
+    <title>Canal Cocina te pasa el delantal T1 E19</title>
+    <sub-title>2022 | TP</sub-title>
+    <desc>(Programa,Cocina) Visitamos el pueblo de San Román en Santander para conocer una receta ancestral, el Cocido montañés. Después, en Andalucía, conoceremos a un cordobés que borda el Conejo con salsa brandy y setas.
+· País: España</desc>
+    <category>Programa, Cocina</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021175.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261126150900 +0100" stop="20261126153700 +0100" channel="AMC Selekt TV">
+    <title>Escuela Canal Cocina T2 E19 · Cefalópodos</title>
+    <sub-title>2021 | TP</sub-title>
+    <desc>(Programa,Estilo de vida,Cocina) En la clase de hoy aprenderemos a manejar los cefalópodos en la cocina. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Chipirones en su tinta y Pulpo a la murciana.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+    <category>Programa, Estilo de vida, Cocina</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021161.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261126153700 +0100" stop="20261126160300 +0100" channel="AMC Selekt TV">
+    <title>¿Cómo se elabora? T1 E19 · Leche condensada, Chorizo y Yogurt</title>
+    <sub-title>2019 | TP</sub-title>
+    <desc>(Programa,Cocina) Veremos cómo se elabora: Leche condensada, Chorizo y Yogurt.
+· País: España
+· Reparto: Varios int, Voice Voice.</desc>
+    <category>Programa, Cocina</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4643576.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261126160300 +0100" stop="20261126164700 +0100" channel="AMC Selekt TV">
+    <title>Expediente X T6 E2 · Conducir</title>
+    <sub-title>1998 | ⑯ | ★8.6/10</sub-title>
+    <desc>(Series,Ciencia Ficción,Otros) Mulder es secuestrado y transportado a Los Ángeles por un hombre que no puede parar de moverse para que su cabeza no explote.
+· País: Estados Unidos
+· Dirección: Chris Carter, Rob Bowman, Tony Wharmby, Michael W. Watkins, Kim Manners, David Nutter.
+· Reparto: David Duchovny, Gillian Anderson, William B. Davis, Mitch Pileggi, Robert Patrick, Tom Braidwood, Bruce Harwood, Dean Haglund, Annabeth Gish, Nicholas Lea.
+· Producción: Chris Carter.</desc>
+    <category>Series, Ciencia Ficción, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4473105.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126164700 +0100" stop="20261126173200 +0100" channel="AMC Selekt TV">
+    <title>Expediente X T6 E3 · Triángulo</title>
+    <sub-title>1998 | ⑯ | ★8.6/10</sub-title>
+    <desc>(Series,Ciencia Ficción,Otros) Un pliegue del tiempo en el Triángulo de las Bermudas atrapa al agente Mulder a bordo de un trasatlántico de lujo lleno de nazis asesinos… y algunas caras conocidas.
+· País: Estados Unidos
+· Dirección: Chris Carter, Rob Bowman, Tony Wharmby, Michael W. Watkins, Kim Manners, David Nutter.
+· Reparto: David Duchovny, Gillian Anderson, William B. Davis, Mitch Pileggi, Robert Patrick, Tom Braidwood, Bruce Harwood, Dean Haglund, Annabeth Gish, Nicholas Lea.
+· Producción: Chris Carter.</desc>
+    <category>Series, Ciencia Ficción, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4473105.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126173200 +0100" stop="20261126175300 +0100" channel="AMC Selekt TV">
+    <title>Pareja a la puja T2 E22 · Diamantes falsos y tronos</title>
+    <sub-title>2012 | ⑦ | ★4.5/10</sub-title>
+    <desc>(Programa,Reality) Los hermanos Alvarado encuentran un inusual objeto de colección escondido a plena vista, pero ¿van a tirar su dinero a la basura? Papa Bear está preparado para apostar por un misterioso objeto.
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Sean Kelly, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+    <category>Programa, Reality</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_3998744.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126175300 +0100" stop="20261126181600 +0100" channel="AMC Selekt TV">
+    <title>Pareja a la puja T2 E23 · Cazadores de osos</title>
+    <sub-title>2012 | ⑦ | ★4.5/10</sub-title>
+    <desc>(Programa,Reality) Brandon y Lori se encuentran en una de las subastas habituales de trasteros de Sean, pero también quieren asistir a una subasta especial de una cámara de contenedores de almacenamiento portátiles.
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Sean Kelly, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+    <category>Programa, Reality</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_3998744.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126181600 +0100" stop="20261126183600 +0100" channel="AMC Selekt TV">
+    <title>Pareja a la puja T2 E24 · Negocio arriesgado</title>
+    <sub-title>2012 | ⑦ | ★4.5/10</sub-title>
+    <desc>(Programa,Reality) Brandon se la juega y se encuentra hundido en arenas movedizas sin la ayuda de Lori: ¿le echará una mano Desert Dan? La pericia de Dan con los coches resulta útil y T Money se luce con su victoria.
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Sean Kelly, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+    <category>Programa, Reality</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_3998744.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126183600 +0100" stop="20261126185800 +0100" channel="AMC Selekt TV">
+    <title>Pareja a la puja T2 E25 · A por todas</title>
+    <sub-title>2012 | ⑦ | ★4.5/10</sub-title>
+    <desc>(Programa,Reality) Scott se la juega con un cubo de la Oktoberfest. Los hermanos Alvarado pujan por objetos de colección. T Money se lleva un gran premio. Brandon y Lori investigan un contenedor de una escena de crimen.
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Sean Kelly, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+    <category>Programa, Reality</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_3998744.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126185800 +0100" stop="20261126191800 +0100" channel="AMC Selekt TV">
+    <title>Pareja a la puja T2 E26 · Negocios engañosos</title>
+    <sub-title>2012 | ⑦ | ★4.5/10</sub-title>
+    <desc>(Programa,Reality) Sean organiza una subasta exclusiva en Malibú, en el Rolls-Royce de los almacenes. T Money necesita un robot. Jesse intenta burlar a sus competidores. Brandon y Lori hacen una de sus mayores apuestas.
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Sean Kelly, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+    <category>Programa, Reality</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_3998744.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126191800 +0100" stop="20261126194100 +0100" channel="AMC Selekt TV">
+    <title>Pareja a la puja T3 E1 · Enterrado vivo</title>
+    <sub-title>2013 | ⑦ | ★4.5/10</sub-title>
+    <desc>(Programa,Reality) Jesse da con algo fuera de serie, mientras Brandon y Lori apuestan por juegos peligrosos. Mone demuestra que no está aquí para jugar, ¡ella es el juego!
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Alexandre Varga, Dominique Pinon, Gwendoline Hamon, Jesse McClure, Cam Rowe, Brandon Bernier, Lori Bernier, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Sean Kelly.
+· Producción: Sean Kelly.</desc>
+    <category>Programa, Reality</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_3998744.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126194100 +0100" stop="20261126200200 +0100" channel="AMC Selekt TV">
+    <title>Pareja a la puja T3 E1 · Enterrado vivo</title>
+    <sub-title>2013 | ⑦ | ★4.5/10</sub-title>
+    <desc>(Programa,Reality) Jesse da con algo fuera de serie, mientras Brandon y Lori apuestan por juegos peligrosos. Mone demuestra que no está aquí para jugar, ¡ella es el juego!
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Alexandre Varga, Dominique Pinon, Gwendoline Hamon, Jesse McClure, Cam Rowe, Brandon Bernier, Lori Bernier, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Sean Kelly.
+· Producción: Sean Kelly.</desc>
+    <category>Programa, Reality</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_3998744.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126200200 +0100" stop="20261126202100 +0100" channel="AMC Selekt TV">
+    <title>Pareja a la puja T3 E3 · Preparados, listos\u2026 ¡ya!</title>
+    <sub-title>2013 | ⑦ | ★4.5/10</sub-title>
+    <desc>(Programa,Reality) Una misteriosa caja fuerte hace que todos se pregunten qué puede haber dentro. Jesse se pone nostálgico. Brandon y Lori limpian más de lo que despejan. Y T Money descubre por las malas que no es mejor prevenir que curar.
+· País: Estados Unidos
+· Reparto: Alexandre Varga, Dominique Pinon, Gwendoline Hamon, Jesse McClure, Cam Rowe, Brandon Bernier, Lori Bernier, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Sean Kelly.
+· Producción: Sean Kelly.</desc>
+    <category>Programa, Reality</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_3998744.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126202100 +0100" stop="20261126202400 +0100" channel="AMC Selekt TV">
+    <title>Un día en la Historia de España: 26 de noviembre de 1504</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Programa,Otros) En este episodio descubriremos qué ocurrió el 26 de noviembre de 1504.
+· País: España</desc>
+    <category>Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5981338.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261126202400 +0100" stop="20261126221000 +0100" channel="AMC Selekt TV">
+    <title>In Time</title>
+    <sub-title>2011 | ⑯ | ★6.7/10</sub-title>
+    <desc>(Cine,Ciencia Ficción,Acción,Suspense,Aventuras) En un mundo donde cada segundo tiene su precio, donde los ricos viven por siempre y los pobres luchan por robar minutos suficientes para vivir un día más, Will, un trabajador acusado injustamente de asesinato, debe escapar y derrotar al sistema.
+· País: Estados Unidos
+· Dirección: Andrew Niccol.
+· Reparto: Alex Pettyfer, Justin Timberlake, Collins Pennie, Ethan Peck, Aaron Perilo, Michael Freeman, Nick Lashaway, Johnny Galecki, William Peltz, Ray Santiago, Shyloh Oostwald, Olivia Wilde, Will Harris, Cillian Murphy, Amanda Seyfried, Jesse Lee Soffer, Colin McGurk, Michael William Freeman, Vincent Kartheiser, Matt Bomer, Toby Hemingway, Brendan Miller.
+· Música: Craig Armstrong.
+· Producción: Andrew Niccol, Marc Abraham, Eric Newman.</desc>
+    <category>Cine, Ciencia Ficción, Acción, Suspense, Aventuras</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4000208.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.7/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126221000 +0100" stop="20261126222000 +0100" channel="AMC Selekt TV">
+    <title>TikTak Cine T1 E113 · Chris Pratt</title>
+    <sub-title>2025 | TP</sub-title>
+    <desc>(Programa,Otros) Chris Pratt protagonizó una de las transformaciones más sorprendentes de Hollywood al pasar de la comedia televisiva a convertirse en una de las grandes estrellas del cine de acción.
+· País: España, Estados Unidos</desc>
+    <category>Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021065.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261126222000 +0100" stop="20261127002400 +0100" channel="AMC Selekt TV">
+    <title>Ghost</title>
+    <sub-title>1990 | ⑫ | ★7.1/10</sub-title>
+    <desc>(Cine,Suspense,Policíaco,Drama) Ella queda desconsolada tras la muerte repentina de su esposo, él permanece a su lado como fantasma y sabe quién lo mató, pero no tiene forma de comunicarse con ella. Es allí cuando aparece una pintoresca medium.
+· País: Estados Unidos
+· Dirección: Jerry Zucker.
+· Reparto: Patrick Swayze, Rick Aviles, Armelia McQueen, Whoopi Goldberg, Demi Moore, Tony Goldwyn, Susan Breslau, Stephen Root, Vincent Schiavelli, Phil Leeds, Susan Breslau Breslau, Christopher J. Keene Keene, Stanley Lawrence, Martina Deignan, Rick Kleber, John Hugh Hugh, Sam Tsoutsouvas Tsoutsouvas, Sharon Breslau Breslau, Vivian Bonnell Bonnell, Gail Boggs Boggs, Angelina Estrada Estrada, Augie Blunt Blunt, Alma Beltran, Dorothy Love Coates, Faye Brenner, Macka Foley, Christopher J. Keene, Derek Thompson, Said Faraj, Steven Chase, Arsenio Hall, Charlotte Zucker Zucker, Gail Boggs, Tom Finnegan, Bruce Jarchow, Laura Drake, J. Christopher Sullivan, Thom Curley.
+· Música: Maurice Jarre, Alex North.
+· Producción: Lisa Weinstein, Howard W. Koch, Bruce Joel Rubin.</desc>
+    <category>Cine, Suspense, Policíaco, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4062164.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.1/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261127002400 +0100" stop="20261127010900 +0100" channel="AMC Selekt TV">
+    <title>Cazatesoros T2 E8 · Vacaciones en Roma</title>
+    <sub-title>2000 | ⑫ | ★6.5/10</sub-title>
+    <desc>(Series,Acción,Aventuras,Suspense) El colega de Sydney, el profesor Penrose, ha obtenido una pista sobre la coraza de César y se dirige a Roma para traducir un antiguo texto.
+· País: Canadá, Francia, Estados Unidos
+· Dirección: John Bell, Ian Toynton, Terry Ingram, George Mendeluk, Don McCutcheon, Paolo Barzman.
+· Reparto: Tia Carrere, Christien Anholt, Lindy Booth, Tanja Reichert, Juan Carlos Velis, Louis Mandylor, Simon MacCorkindale, Tony Rosato.</desc>
+    <category>Series, Acción, Aventuras, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5981401.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261127010900 +0100" stop="20261127015400 +0100" channel="AMC Selekt TV">
+    <title>Cazatesoros T2 E8 · Vacaciones en Roma</title>
+    <sub-title>2000 | ⑫ | ★6.5/10</sub-title>
+    <desc>(Series,Acción,Aventuras,Suspense) El colega de Sydney, el profesor Penrose, ha obtenido una pista sobre la coraza de César y se dirige a Roma para traducir un antiguo texto.
+· País: Canadá, Francia, Estados Unidos
+· Dirección: John Bell, Ian Toynton, Terry Ingram, George Mendeluk, Don McCutcheon, Paolo Barzman.
+· Reparto: Tia Carrere, Christien Anholt, Lindy Booth, Tanja Reichert, Juan Carlos Velis, Louis Mandylor, Simon MacCorkindale, Tony Rosato.</desc>
+    <category>Series, Acción, Aventuras, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5981401.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261127015400 +0100" stop="20261127023800 +0100" channel="AMC Selekt TV">
+    <title>Cazatesoros T2 E9 · Cruz de vudú</title>
+    <sub-title>2000 | ⑫ | ★6.5/10</sub-title>
+    <desc>(Series,Acción,Aventuras,Suspense) Cuando dos estudiantes de posgrado que siguen el rastro de la Cruz Haitiana de Utu desaparecen en Nueva Orleans, Sydney y Nigel Sydney y Nigel se adentran en los pantanos para encontrarlos.
+· País: Canadá, Francia, Estados Unidos
+· Dirección: John Bell, Ian Toynton, Terry Ingram, George Mendeluk, Don McCutcheon, Paolo Barzman.
+· Reparto: Tia Carrere, Christien Anholt, Lindy Booth, Tanja Reichert, Juan Carlos Velis, Louis Mandylor, Simon MacCorkindale, Tony Rosato.</desc>
+    <category>Series, Acción, Aventuras, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_5981401.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.5/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125061000 +0100" stop="20261125063600 +0100" channel="Warner TV">
