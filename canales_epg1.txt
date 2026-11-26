@@ -341,9 +341,9 @@ La Revuelta,La Revuelta,https://raw.githubusercontent.com/davidmuma/picons_doble
 Somos Cine,Somos Cine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos%20Cine.png
 Cuéntame,Cuéntame,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png
 Los Conciertos de Radio 3,Los Conciertos de Radio 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Los%20Conciertos%20de%20Radio%203.png
-rtve,rtve,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/rtve.png
-TVE Internacional Europa,TVE Internacional Europa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVE%20Internacional%20Europa.pnghttps://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVE%20Internacional%20Europa.png
-Star TVE,Star TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.pnghttps://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.png
+70 años,70 años,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/70%20a%C3%B1os.png
+TVE Internacional Europa,TVE Internacional Europa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVE%20Internacional%20Europa.png
+Star TVE,Star TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.png
 TV3 Catalunya,TV3 Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3%20Catalunya.png
 3CatInfo Catalunya,3CatInfo Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/3CatInfo%20Catalunya.png
 SX3 Catalunya,SX3 Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SX3%20Catalunya.png
