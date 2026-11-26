@@ -180,7 +180,7 @@ FoxSports2(FOXS2).mx,FOX SPORTS 2,https://ebyl.tmsimg.com/assets/s66365_ld_h15_a
 FoxSports3(FSP3).mx,FOX SPORTS 3,https://ebyl.tmsimg.com/assets/s105006_ld_h15_aa.png
 SkySports1.mx,SKY SPORTS 1 MX
 SkySports16.mx,SKY SPORTS 16 MX
-SkySports21.mx,SKY SPORTS 21 MX
+SkySports21(SKSPMX21).mx,SKY SPORTS 21 MX
 SkySports24.mx,SKY SPORTS 24 MX
 ESPN,ESPN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png
 ESPN 2,ESPN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png
