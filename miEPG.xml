@@ -1216,7 +1216,7 @@
     <display-name>SKY SPORTS 21 MX HD</display-name>
     <display-name>SKY SPORTS 21 MX FHD</display-name>
     <display-name>SKY SPORTS 21 MX 4K</display-name>
-    <icon src=""/>
+    <icon src="https://ebyl.tmsimg.com/sources/generic/generic_sources_h5.png" />
   </channel>
   <channel id="SKY SPORTS 24 MX">
     <display-name>SKY SPORTS 24 MX SD</display-name>
@@ -129539,266 +129539,6 @@ Desde el estadio Santiago Bernabéu en la ciudad de Madrid, España, se enfrenta
     <desc lang="es">LaLiga Show.</desc>
     <title lang="es">LaLiga Show</title>
   </programme>
-  <programme start="20261125230000 +0000" stop="20261126000000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126020000 +0000" stop="20261126030000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126030000 +0000" stop="20261126040000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126050000 +0000" stop="20261126060000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126060000 +0000" stop="20261126070000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126090000 +0000" stop="20261126100000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126100000 +0000" stop="20261126110000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126110000 +0000" stop="20261126120000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126120000 +0000" stop="20261126130000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126130000 +0000" stop="20261126140000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126150000 +0000" stop="20261126160000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126160000 +0000" stop="20261126170000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126170000 +0000" stop="20261126180000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126180000 +0000" stop="20261126190000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126190000 +0000" stop="20261126200000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126200000 +0000" stop="20261126210000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127040000 +0000" stop="20261127050000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127050000 +0000" stop="20261127060000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127130000 +0000" stop="20261127140000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127140000 +0000" stop="20261127150000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127150000 +0000" stop="20261127160000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127160000 +0000" stop="20261127170000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127170000 +0000" stop="20261127180000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127180000 +0000" stop="20261127190000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127190000 +0000" stop="20261127200000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127200000 +0000" stop="20261127210000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127210000 +0000" stop="20261127220000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127220000 +0000" stop="20261127230000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261127230000 +0000" stop="20261128000000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261128000000 +0000" stop="20261128010000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261128010000 +0000" stop="20261128020000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
-  <programme start="20261128020000 +0000" stop="20261128030000 +0000" channel="SKY SPORTS 21 MX">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
-  </programme>
   <programme start="20261125020000 +0000" stop="20261125040000 +0000" channel="SKY SPORTS 24 MX">
     <category lang="es">Deporte</category>
     <category lang="es">Fútbol</category>
@@ -152748,6 +152488,266 @@ Desde el estadio Santiago Bernabéu en la ciudad de Madrid, España, se enfrenta
     <category>Sports</category>
     <icon src="https://img.liiift.io/v1/WRC/FOBSQFZ0JUIXHT263KWH.jpg/a:h/im/WRC_2026_SeasonReview.jpg?ht=exp=1793944748+hmac=93235a1fc18e26d9b3fc5d258e07bd9d" />
 	</programme>
+  <programme start="20261125230000 +0000" stop="20261126000000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126020000 +0000" stop="20261126030000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126030000 +0000" stop="20261126040000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126060000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126060000 +0000" stop="20261126070000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126090000 +0000" stop="20261126100000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126100000 +0000" stop="20261126110000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126110000 +0000" stop="20261126120000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126120000 +0000" stop="20261126130000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126130000 +0000" stop="20261126140000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126150000 +0000" stop="20261126160000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126160000 +0000" stop="20261126170000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126170000 +0000" stop="20261126180000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126180000 +0000" stop="20261126190000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126190000 +0000" stop="20261126200000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126200000 +0000" stop="20261126210000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127040000 +0000" stop="20261127050000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127050000 +0000" stop="20261127060000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127130000 +0000" stop="20261127140000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127140000 +0000" stop="20261127150000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127150000 +0000" stop="20261127160000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127160000 +0000" stop="20261127170000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127170000 +0000" stop="20261127180000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127180000 +0000" stop="20261127190000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127190000 +0000" stop="20261127200000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127200000 +0000" stop="20261127210000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127210000 +0000" stop="20261127220000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127220000 +0000" stop="20261127230000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261127230000 +0000" stop="20261128000000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261128000000 +0000" stop="20261128010000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128020000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
+  <programme start="20261128020000 +0000" stop="20261128030000 +0000" channel="SKY SPORTS 21 MX">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW"/>
+  </programme>
   <programme start="20261125182920 +0000" stop="20261125203555 +0000" channel="Sony One Hits Comedia">
     <title>Una Novata en un Cuento de Hadas</title>
     <desc>La historia de Blancanieves se adapta a los tiempos modernos, con estudiantes de primero en una universidad con hermandades.</desc>
