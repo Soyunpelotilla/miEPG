@@ -165,10 +165,10 @@ SkySports1.mx,SKY SPORTS 1 MX
 SkySports16.mx,SKY SPORTS 16 MX
 SkySports21(SKSPMX21).mx,SKY SPORTS 21 MX
 SkySports24.mx,SKY SPORTS 24 MX
-ESPN,ESPN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png
-ESPN 2,ESPN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png
-ESPN 3,ESPN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
-ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
+ESPN(ESPNMH).mx,ESPN,https://ebyl.tmsimg.com/assets/s17725_ld_h15_ac.png
+ESPN2(ESPN2MH).mx,ESPN 2,https://ebyl.tmsimg.com/assets/s88735_ld_h15_ac.png
+ESPNTresNorth(ESPN3NH).mx,ESPN 3,https://ebyl.tmsimg.com/assets/s73833_ld_h15_aa.png
+ESPN4México(ESP4MXH).mx,ESPN 4,https://ebyl.tmsimg.com/assets/s65930_ld_h15_ae.png
 Fox(FOXCAL).mx,FOX MX,https://ebyl.tmsimg.com/assets/GNLZZGG0027PYSD.png
 FOX+(FOXMAS).mx,FOX+ MX,https://ebyl.tmsimg.com/assets/GNLZZGG003NHHQQ.png
 FoxSportsPremium(FSPRMM).mx,Fox Sports Premium,https://ebyl.tmsimg.com/assets/s123582_ld_h15_aa.png
