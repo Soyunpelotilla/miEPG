@@ -130,6 +130,9 @@ perl -i -ne '
             elsif ($titulo_actual =~ /Squirrel/i && $canal_actual =~ /^Squirrel$/) {
                 $duplicados++; $imprimir=0;
             }
+            elsif ($titulo_actual =~ /SquirrelTV 2/i && $canal_actual =~ /^Squirrel 2$/) {
+                $duplicados++; $imprimir=0;
+            }
             elsif ($titulo_actual =~ /Bom Cine/i && $canal_actual =~ /Bom Cine/i) {
                 $duplicados++; $imprimir=0;
             }
